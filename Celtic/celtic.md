@@ -3,8 +3,7 @@
 
 ## Dictionary
 
-### <a id="abalna">\*abalnā "apple tree"</a>
-noun
+### <a id="abalna">\*abalnā "apple tree" (n)</a>
 GOID: OIr. *aball* [f]
 W: MW *afall* [f]
 BRET: OBret. *aballen*, MBret. *avallenn*
@@ -13,8 +12,7 @@ PIE: \*h₂eph₃ol-n-
 SEE: [\*abalo- "apple"](#abalo)
 REF: [EDPC]
 
-### <a id="abalo">\*abalo- "apple"</a>
-noun
+### <a id="abalo">\*abalo- "apple" (n)</a>
 GOID: OIr. *ubull* [o n]
 W: MW *afal* [m]
 BRET: OBret. *abal*, MBret. *aval*
@@ -25,15 +23,13 @@ SEE: [\*abalnā "apple-tree"](#abalna)
 ETYM: The geminate *-ll-* in Olr. could have arisen under analogical influence of \*abalnā 'apple-tree'. The Celtic forms can be derived from the oblique cases of the PIE l-stem, with the Nom. sg. \*h₂eph₃ol (or \*h₂eph₃ōl) / Gen. sg. \*h₂(e)ph₃los. It is assumed here that \*h₃ voiced the preceding \*p (as in \*piph₃eti 'drinks' > Skt. *píbati*), but there is no independent evidence for a laryngeal in the word for 'apple', so the alternative PIE reconstruction \*h₂ebol- (with the rare phoneme \*b) is also possible.
 REF: [EDPC]
 
-### <a id="abanko">\*abanko- "beaver"</a>
-noun
+### <a id="abanko">\*abanko- "beaver" (n)</a>
 GOID: MIr. *abacc* [o m] "dwarf, beaver(?)"
 W: MW *afanc* [m] "beaver, dwarf"
 BRET: MoBret. *avank* [m] "dwarf, sea monster"
 SEE: [\*abon- "river"](#abon)
 
-### <a id="abon">\*abon- "river"</a>
-noun
+### <a id="abon">\*abon- "river" (n)</a>
 GOID: OIr. *ab, aub* [n f]
 W: MW *afon* [f]
 BRET: MBret. *auon*
