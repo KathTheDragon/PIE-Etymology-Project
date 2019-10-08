@@ -9,8 +9,8 @@
 
 
 Derksen:
-    * <a id="Derksen-2008">2008</a> - Etymological Dictionary of the Slavic Inherited Lexicon
-    * <a id="Derksen-2015">2015</a> - Etymological Dictionary of the Baltic Inherited Lexicon
+* <a id="Derksen-2008">2008</a> - Etymological Dictionary of the Slavic Inherited Lexicon
+* <a id="Derksen-2015">2015</a> - Etymological Dictionary of the Baltic Inherited Lexicon
 
 
 <a id="Kloekhorst-2008">Kloekhorst 2008</a> - Etymological Dictionary of the Hittite Inherited Lexicon
