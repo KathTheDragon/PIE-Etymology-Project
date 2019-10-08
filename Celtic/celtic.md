@@ -28,6 +28,7 @@ GOID: MIr. *abacc* [o m] "dwarf, beaver(?)"
 W: MW *afanc* [m] "beaver, dwarf"
 BRET: MoBret. *avank* [m] "dwarf, sea monster"
 SEE: [\*abon- "river"](#abon)
+REF: [EPDC]
 
 ### <a id="abon">\*abon- "river" (n)</a>
 GOID: OIr. *ab, aub* [n f]
