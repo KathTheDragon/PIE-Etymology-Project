@@ -39,3 +39,5 @@ GAUL: *ambe* gl. "riuo"
 PIE: \*h₂ep-h₃on- "river"
 COGN: Hitt. *hāpa-*, Pal. *hāpna-*, Lat. *amnis*
 ETYM: OIr. *aub* clearly points to PCelt. \*abu, acc. \*abonen; the form \*abonā (> MW *afori*) was built to this stem. The n-stem is probably inherited from PIE (cf. the Pal. and Lat. reflexes). Gaul. *ambe*, with *-m-*, may be corrupted, but cf. the hydronyms *Amyr* (MW), *Ammer* (Germ.), *Ambre* (Fr.), which are probably Celtic (they may represent \*ambr(iy)o-, but they are also often derived from PIE \*nbʰ-ro-, cf. Lat. *imber* 'rain'). A probable derivative from PCelt. \*abon- is PCelt. \*abanko- 'beaver', cf. MIr. *abacc* [o m] 'dwarf', perhaps also 'beaver', MW *afanc* [m] 'beaver, dwarf', MoBret. *avank* [m] 'dwarf, sea monster'. The PIE root is reconstructed as \*h₂ep- with the (?possessive) suffix \*-h₃on-, under the assumption that \*ph₃ > \*b (as in \*piph₃eti 'drinks' > Skt. píbati). If this is correct, the words adduced here are etymologically related to Skt. *áp-* 'water', OPr. *ape* 'brook', etc.
+REF: [EDPC]
+
