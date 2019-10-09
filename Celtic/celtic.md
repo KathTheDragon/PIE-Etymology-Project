@@ -1,7 +1,7 @@
 # Proto-Celtic
 [EDPC]: ../bibliography.md#Matasovic-2009 "Etymological Dictionary of Proto-Celtic (Matasović 2009)"
 
-## Dictionary
+## A
 
 ### <a id="abalna">\*abalnā "apple tree" (n)</a>
 GOID: OIr. *aball* [f]
