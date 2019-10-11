@@ -7,7 +7,7 @@
 GOID: OIr. *aball* [f]
 W: MW *afall* [f]
 BRET: OBret. *aballen*, MBret. *avallenn*
-CO: OCo. *auallen* gl. "malus"
+CO: OCo. *auallen* gl. _malus_
 PIE: \*h₂eph₃ol-n-
 SEE: [\*abalo- "apple"](#abalo)
 REF: [EDPC]
@@ -16,7 +16,7 @@ REF: [EDPC]
 GOID: OIr. *ubull* [o n]
 W: MW *afal* [m]
 BRET: OBret. *abal*, MBret. *aval*
-GAUL: *auallo* gl. "poma"
+GAUL: *auallo* gl. _poma_
 PIE: \*h₂eph₃ol- "apple"
 COGN: OHG *apful*, OCS *ablъko*, Lith. *óbuolas*, Osc. *Abella* (Toponym)
 SEE: [\*abalnā "apple-tree"](#abalna)
@@ -35,7 +35,7 @@ GOID: OIr. *ab, aub* [n f]
 W: MW *afon* [f]
 BRET: MBret. *auon*
 CO: Co. *auon*
-GAUL: *ambe* gl. "riuo"
+GAUL: *ambe* gl. _riuo_
 PIE: \*h₂ep-h₃on- "river"
 COGN: Hitt. *hāpa-*, Pal. *hāpna-*, Lat. *amnis*
 ETYM: OIr. *aub* clearly points to PCelt. \*abu, acc. \*abonen; the form \*abonā (> MW *afori*) was built to this stem. The n-stem is probably inherited from PIE (cf. the Pal. and Lat. reflexes). Gaul. *ambe*, with *-m-*, may be corrupted, but cf. the hydronyms *Amyr* (MW), *Ammer* (Germ.), *Ambre* (Fr.), which are probably Celtic (they may represent \*ambr(iy)o-, but they are also often derived from PIE \*nbʰ-ro-, cf. Lat. *imber* 'rain'). A probable derivative from PCelt. \*abon- is PCelt. \*abanko- 'beaver', cf. MIr. *abacc* [o m] 'dwarf', perhaps also 'beaver', MW *afanc* [m] 'beaver, dwarf', MoBret. *avank* [m] 'dwarf, sea monster'. The PIE root is reconstructed as \*h₂ep- with the (?possessive) suffix \*-h₃on-, under the assumption that \*ph₃ > \*b (as in \*piph₃eti 'drinks' > Skt. píbati). If this is correct, the words adduced here are etymologically related to Skt. *áp-* 'water', OPr. *ape* 'brook', etc.
@@ -111,7 +111,7 @@ REF: [EDPC]
 ### <a id="adu">\*ad(u)- "law" (n)</a>
 GOID: OIr. *ad, ada* [gen.sg.]
 W: MW *addas* 1. "merit, reward" 2. "right, fitting"
-BRET: OBret. *camadas* gl. "habilis"
+BRET: OBret. *camadas* gl. _habilis_
 PIE: \*h₂ed-
 COGN: Umbr. *arsie* "sancte"
 SEE: [\*adestu- "merit"](#adestu)
@@ -171,7 +171,7 @@ REF: [EDPC]
 GOID: OIr. *ár* [on]
 W: OW *hair* [f], MW *aer* [f] 'battle'
 BRET: OBret. *air*
-CO: OCo. *hair* gl. "clades"
+CO: OCo. *hair* gl. _clades_
 GAUL: *Ver-agri* [Ethnonym] (Caesar)
 PIE: \*h₂eǵro- 'hunt' (IEW: 6)
 COGN: Gr. *ágrē* 'hunt', Av. *azrō.daiδī-* 'hunt'
@@ -183,7 +183,7 @@ GOID: OIr. *ér* 'high, noble, great'
 GAUL: *Axro-talus* [PN]
 PIE: \*h₂ekro- 'high' (IEW: 21)
 COGN: Gr. *ákros*, Lat. *ācer* 'sharp'
-ETYM: OIr. *acher* (OIL *aicher*) 'sharp, violent, fierce' [o] might also belong here, if it is not a Latin loanword (as stated by LEIA A-11). It could represent PCelt. \*ak-ero- or \*ak-aro- (it is occasionally spelled *achar*), cf. PIE \*h₂ok- > PCelt. \*ok-ri- > OIr. *ochair* 'edge' (Lat. *ocris* 'rugged mountain', Gr. *ókris* 'sharp edge'). W *ochr* and OBret. *occrou* gl. "hirsutis...dentibus" are considered to be Goidelic loanwords. Cf. also Gaul. *Okelon* (?)'promontory'< \*ok-elo- (Sims-Williams 2006: 96f.).
+ETYM: OIr. *acher* (OIL *aicher*) 'sharp, violent, fierce' [o] might also belong here, if it is not a Latin loanword (as stated by LEIA A-11). It could represent PCelt. \*ak-ero- or \*ak-aro- (it is occasionally spelled *achar*), cf. PIE \*h₂ok- > PCelt. \*ok-ri- > OIr. *ochair* 'edge' (Lat. *ocris* 'rugged mountain', Gr. *ókris* 'sharp edge'). W *ochr* and OBret. *occrou* gl. _hirsutis...dentibus_ are considered to be Goidelic loanwords. Cf. also Gaul. *Okelon* (?)'promontory'< \*ok-elo- (Sims-Williams 2006: 96f.).
 REF: [EDPC]
 
 ### <a id="alaliyo">\*alal(i)yo- 'another, other' (pron)</a>
@@ -228,8 +228,8 @@ REF: [EDPC]
 
 ### <a id="alten">\*alten- 'razor' (n)</a>
 GOID: MIr. *ailt* [n f]
-W: OW *elinn* gl. "nouacula", MW *ellyn* [m and f]
-BRET: OBret. *altin* gl. "ferula", MBret. *autenn*, MoBret. *aotenn* [f] 'razor'
+W: OW *elinn* gl. _nouacula_, MW *ellyn* [m and f]
+BRET: OBret. *altin* gl. _ferula_, MBret. *autenn*, MoBret. *aotenn* [f] 'razor'
 CO: Co. *alsen*
 ETYM: The Brittonic forms point to a derived \*(f)altinā. Pokomy's etymology (IEW 986, followed by Falileyev: 53) which derives these Celtic words from PIE \*(s)pel- 'cut' (Germ. *spalten*), is improbable, since \*plten­ would yield PCelt. \*fliten. The derivation from PIE \*(s)plg-ten- (OE *spelc, spilc* 'bandage, binding' < \*spelg-) is hardly better, since this should give PCelt. \*\*flixten-. Therefore, PCelt. \*alten- may be a substratum word of non-IE origin.
 REF: [EDPC]
@@ -245,7 +245,7 @@ REF: [EDPC]
 GOID: MIr. *alt* [o m]
 W: MW *allt* [f] 'hill, slope, cliff, shore, wooded slope'; *elltydd, aillt* [p]
 BRET: MBret. *pen-an-aout* 'top of the hill', MoBret. *aod* [f] 'coast'
-CO: OCo. *als* gl. "litus"
+CO: OCo. *als* gl. _litus_
 ETYM: These words are probably related to Lat. *altus* 'high', OHG *alt* 'old' (if developed from an earlier meaning 'grown up'). Some derive them from the root \*h₂el- 'feed, raise' (JEW 26); the semantic development would have been 'raised' > 'high', but I do not find this very convincing.
 REF: [EDPC]
 
@@ -296,7 +296,7 @@ REF: [EDPC]
 GOID: OIr. *imb* [n n]
 W: MW *ymenyn* [m] (GPC *ymenyn (e)menyn*​)
 BRET: MBret. *amanen*, MoBret. *amann, amannen* [m]
-CO: OCo. *amanen* gl. "butyrum" , MoCo. *manyn*
+CO: OCo. *amanen* gl. _butyrum_ , MoCo. *manyn*
 PIE: \*h₃engʷ-en- 'butter' (IEW: 779)
 COGN: Lat. *unguen* 'grease', OHG *ancho* 'butter', OPr. *anctan* 'butter',
 ETYM: The Celtic forms can be derived from the stem of the oblique cases of the PIE noun for 'butter', PIE \*h₃ngwen-. The development \*am-> \*em­ (> OIr. *im-*) is the same as in OIr. *imbliu* < PCelt. \*ambliyon- 'navel'. The PIE root is \*h₃engw- 'smear, anoint' (Skt. *anákti*, Lat. *unguo*, Arm. *awcanem*​)
@@ -349,7 +349,7 @@ REF: [EDPC]
 GOID: OIr. *aimser* [a f] 'point of time, period of time'
 W: OW *amser* [m] 'time', *amser* 'because, when', MW *amser* [m and f] 'time'
 BRET: MBret. *amzer* [f]
-CO: OCo. *anser* gl. "tempus"
+CO: OCo. *anser* gl. _tempus_
 ETYM: In OIr. there is a noun *am(m)* [n] 'time', which reflects the root \*amo- from which \*amsterā must be derived. However, its etymology is unknown (LEIA A-67). It is also unclear why W *amser* is masculine - it may be from a PCelt. by-form \*amstero-. It is tempting to connect these words with Hitt. *hamesha-* 'spring', which also has an obscure etymology (Kloekhorst, s.v.). We could start from a PIE s-stem \*h₂emos 'a period of time', and PCelt. \*amstero- would be derivable from \*h₂emos-tero- by syncope. Hitt. *hamesha-* can be from \*h₂emes-sh₂-o- (*-sha-* is a productive suffix).
 REF: [EDPC]
 
@@ -365,8 +365,8 @@ REF: [EDPC]
 
 ### <a id="anami">\*anamī 'blemish, fault' (n)</a>
 GOID: OIr. *anim* [?ī, later ā f] (DIL *ainim*​)
-W: OW *anamou* gl. "mendae", MW *anaf*
-BRET: MBret. *anaf, anaff* 'fault'; OBret. *di-anam* gl. "efficaciter"
+W: OW *anamou* gl. _mendae_, MW *anaf*
+BRET: MBret. *anaf, anaff* 'fault'; OBret. *di-anam* gl. _efficaciter_
 SEE: [\*am-o- 'wash'](#amo)
 ETYM: The PCelt. reconstruction is here based on the somewhat doubtful assumption that the OIr. word is an ancient ī-stem (it also inflects as an ā-stem, but the nom.pl *anmi* might be an indication that ī-inflection is original). Pokomy's connection of these words with Gr. *ónomai* 'blame, injure' is improbable. It is possible that \*an- is the negative prefix in this word; the root could be the same as in the verb \*am-o- 'wash', since the meaning 'blemish' could have developed from something like 'unwashed, unwashable'; cf. also the parallelism between OBret. *di-anam* and OIr. *dianim* 'faultless'.
 REF: [EDPC]
@@ -396,7 +396,7 @@ REF: [EDPC]
 GOID: MIr. *ander* [ā f] (DIL *ainder*​)
 W: MW *anneir* [f] 'heifer' (GPC *anner, annair*​)
 BRET: MBret. *anner* 'heifer'
-CO: OCo. *annoer* gl. "uitula"
+CO: OCo. *annoer* gl. _uitula_
 GAUL: ? *anderon* [gen.pl.] (Larzac)
 ETYM: MIr. *ander* may have been an o-stem originally (DIL). The change of meaning attested in Brittonic ('young woman' > 'heifer') is based on a common metaphor in cattle-breeding societies. It has been suggested that there is a connection of this Celtic etymon and Basque *andere* 'lady, woman', but this might be only a chance ressemblance. The meaning of Gaulish *anderon* is not certain (it might rather be related to Lat. *inferus*), so this word might not belong here after all.
 REF: [EDPC]
@@ -424,8 +424,8 @@ REF: [EDPC]
 ### <a id="angwina">\*angʷīnā 'nail' (n)</a>
 GOID: OIr. *ingen* [ā f] 'nail, claw'
 W: OW *eguin*, MW *ewin* [m and f]
-BRET: OBret. *eguin* gl. "adungem", MBret. *euin*
-CO: OCo. *euuin* gl. "unguis"
+BRET: OBret. *eguin* gl. _adungem_, MBret. *euin*
+CO: OCo. *euuin* gl. _unguis_
 PIE: \*h₃nogʰu-, gen. \*h₃ngʰew-s 'nail' (IEW: 780)
 COGN: Lat. *unguis*, Gr. *ónyks*, OHG *nagal* 'nail', Lith. *naga* 'hoof, OCS *nogъtь*, ToA *maku* [p] 'nails', Arm. *ełungn* 'nail'
 ETYM: In Celtic, the stem of the oblique cases (\*h₃ngʰu-) was generalized. Note the regular development of \*h₃ngʰw- > \*angw- without any laryngeal coloring of the vowel, whereas in Latin \*h₃nC > *unC-*.​
@@ -451,7 +451,7 @@ ETYM: MW *rynghu* 'reach' < \*fro-ank-o- < PIE \*h₂nk-. OIr. *-ic* is usually 
 REF: [EDPC]
 
 ### <a id="ankoto">\*ankoto- 'hook, paw' (n)</a>
-GOID: OIr. *écath* [?o] gl. "hamus" 'fish hook'
+GOID: OIr. *écath* [?o] gl. _hamus_ 'fish hook'
 W: MW *anghad, aghad* [m] 'hand, grasp' (GPC *angad*​)
 PIE: \*h₂nko- 'turn, bend' (IEW: 45ff.)
 COGN: Skt. *áṅkas-* 'turn (in a road)', Lat. *ancus* 'with crooked arms', OHG *angul* 'angle', perhaps Gr. *ágkos* 'valley'
@@ -489,7 +489,7 @@ ETYM: The Celtic proto-form cannot be reconstructed. OIr. *ainmne* may be from \
 REF: [EDPC]
 
 ### <a id="anniyo">\*ānniyo- 'ring' (n)</a>
-GOID: OIr. *áinne* [io ?m] gl. "anellus"
+GOID: OIr. *áinne* [io ?m] gl. _anellus_
 PIE: \*h₁eh₂n- 'ring' (IEW: 47)
 COGN: Lat. *ānus* 'ring, anus', Arm. *anur* 'necklace, ring'
 ETYM: The reconstruction of the PCelt. form is uncertain. A derivation from \*an-sn-iyo- is possible, with the similar development as in OIr. *grían* 'sun' < \*gʷrensnā. On the other hand, the derivation from PCelt. \*yāsniyo- would also be regular, in which case we are dealing with PIE \*(H)yeh₃s­ 'belt, girdle' (IEW 513, cf. Gr. *zṓnē*, Lith. *júosta*, OCS *po-jasъ*). The development of meaning from 'belt' to 'ring' would be quite unproblematic.
@@ -536,7 +536,7 @@ REF: [EDPC]
 GOID: OIr. *arathar* [on or m] 'plow, tillage'
 W: OW *ara[ter]*, MW *aradr* [m]
 BRET: MBret. *arazr*
-CO: OCo. *aradar* gl. "aratrum"
+CO: OCo. *aradar* gl. _aratrum_
 PIE: \*h₂erh₃-tro- 'plough' (IEW: 62)
 COGN: Lat. *aratrum*, Gr. *arotron*, Lith. *árklas*
 SEE: [\*ar-yo- 'to plow'](#aryo)
@@ -663,7 +663,7 @@ REF: [EDPC]
 ### <a id="astniyo">\*astn(iy)o- 'rib' (n)</a>
 GOID: OIr. *asna, esna* [io m] 'rib'
 W: MW *assen* [Singulative f] 'rib', W *ais* [Collective] (GPC *eisen*​)
-CO: OCo. *asen* gl. "costa"
+CO: OCo. *asen* gl. _costa_
 PIE: \*h₂osth₁ 'bone' (IEW: 783)
 COGN: Hitt. *hastāi-*, Luv. *hās-*, Skt. *ásthi-*, Gr. (Hom.) *ostéon*, Lat. *os, ossis*, Alb. *asht*, Arm. *oskr*
 ETYM: Celtic has generalized the stem of the oblique cases of this heteroclitic noun (cf. Skt. gen.sg. *asthnás*). However, the stem formation in PCelt. is unclear. OIr. might perhaps point to \*astniyo-, but cf. also MW *ascurn, ascwrn* 'bone', OCo. *ascorn* 'bone', MBret. *ascorn, ascourn* 'bone' < \*as(t)-kornu- (where \*kornu is the word for 'horn'?). For the formation of \*astniyo- and the development \*stn > *sn* cf. PCelt. [\*brustniyo- 'bundle'](#brustniyo)​.
@@ -715,7 +715,7 @@ REF: [EDPC]
 GOID: OIr. *aite* [io m]
 W: MW *tat* [m] (GPC *tad*​)
 BRET: MBret. *tat*, MoBret.* tad* [m]
-CO: OCo. *tat* gl. "pater"
+CO: OCo. *tat* gl. _pater_
 PIE: \*atta- 'daddy' (IEW: 71)
 COGN: Gr. *átta*, Go. *atta*, Lat. *atta*, Croat. *tata*
 SEE: [\*tato- 'father'](#tato)
@@ -740,7 +740,7 @@ ETYM: This is perhaps the same entry as \*aw- 'from' (see Hamp, 1990).
 REF: [EDPC]
 
 ### <a id="awbero">\*aw-bero- 'vain' (adj)</a>
-GOID: OIr. *óbar, úabar* gl. "inanis" [o]
+GOID: OIr. *óbar, úabar* gl. _inanis_ [o]
 W: MW *ofer*
 BRET: MoBret. *euver* 'lazy'
 CO: Co. *ufer* 'vain'
@@ -756,8 +756,8 @@ REF: [EDPC]
 
 ### <a id="awela">\*awelā 'breeze, wind' (n)</a>
 W: MW *awel* [f] 'breeze'
-BRET: OBret. *avelou* gl. "aurarum", MBret. *avel, auel* 'wind', MoBret. *awel*
-CO: OCo. *auhel* gl. "aura"
+BRET: OBret. *avelou* gl. _aurarum_, MBret. *avel, auel* 'wind', MoBret. *awel*
+CO: OCo. *auhel* gl. _aura_
 PIE: \*h₂uh₁-el- (IEW: 8lff.)
 COGN: Gr. *áella* 'stormwind'
 ETYM: The Celtic forms presuppose the full grade of the root, \*h₂ewh₁-el, while Gr. *áella* can be both from \*h₂uh₁el- and \*h₂ewh₁-el-. We are probably dealing with an archaic neuter l-stem here, with nom.sg. \*h₂ewh₁l, gen. sg. \*h₂uh₁el-s. Both the Greek and the Celtic reflexes may be from the old (collective) plural.
@@ -765,7 +765,7 @@ REF: [EDPC]
 
 ### <a id="awislo">\*awislo- 'wish, desire' (n)</a>
 W: MW *ewyllys* [m and f] 'will, appetite, lust'
-BRET: OBret. *aiul* gl. "ultro", MBret. *eoull, youll* 'eagemess, appetite'
+BRET: OBret. *aiul* gl. _ultro_, MBret. *eoull, youll* 'eagemess, appetite'
 CO: Co. *awell* 'will'
 PIE: \*h₂ewH- 'wish' (IEW: 77f.)
 COGN: Lat. *aueo* 'be eager', Skt. *avasá-* 'refreshment, food', Arm. *aviwn* 'lust'
@@ -783,7 +783,7 @@ ETYM: OIr. *amnair* [r m] 'maternal uncle' is derived from the same root in the 
 REF: [EDPC]
 
 ### <a id="awsetlo">\*awsetlo- '(flesh-)fork' (n)</a>
-GOID: OIr. *aél* [o m, perhaps originally n] gl. "fuscina"
+GOID: OIr. *aél* [o m, perhaps originally n] gl. _fuscina_
 PIE: \*h₂ews- 'draw water, scoop up' (IEW 90)
 COGN: Pal. *hussīnta* 'they draw water for themselves', Lat. *haurio* 'draw up', ON *ausa* 'scoop up'
 ETYM: OIr. *aél* is considered to have been borrowed from OE *awul* 'fork' by LEIA A-20, but the phonetics of this comparison are difficult, and the OIr. word is attested earlier than other loanwords from OE (already in the Sanktgallen Glosses). Watkins 2005 derives OIr. *aél* from the PIE root \*h₂ews- 'to draw water' and assumes PCelt. \*aws-elo- or \*aws-ilo-, but the suffix \*-tlo- in a *nomen instrumenti* is inherently more probable. For the sound development cp. OIr. *scél* 'story' < \*skʷetlom. The initial *h-* in Lat. *haurio* is due to hypercorrection.
@@ -804,7 +804,7 @@ ETYM: These words are derived with the negative/ablative prefix \*aw­ from the 
 REF: [EDPC]
 
 ### <a id="awv">\*awV- (?) 'liver' (n)</a>
-GOID: OIr. *óa* [f] gl. "iecur", *óeib* [dat.pl.]
+GOID: OIr. *óa* [f] gl. _iecur_, *óeib* [dat.pl.]
 W: MW *ahu, auu, afu* [m and f]
 BRET: MBret. *auu*, MoBret. *avu* [m]
 CO: OCo. *aui*
@@ -820,7 +820,7 @@ REF: [EDPC]
 
 ### <a id="awyo-2">\*awyo- 'descendant, grandchild' (n)</a>
 GOID: OIr. *aue > ua*, *ó* [io m], Ogam *AVI* [gen.sg.]
-CO: OCo. *eviter* gl. "patruus"
+CO: OCo. *eviter* gl. _patruus_
 GAUL: *aua* (Cavaillon) 'granddaughter'
 PIE: \*h₂ewh₂o- 'grandfather; maternal uncle' (IEW: 89)
 COGN: Hitt. *hūhha-* 'grandfather', Lat. *auus* 'grandfather', *auunculus* 'maternal uncle', OIc. *áe* 'great-grandfather', OCS *ujъ* 'maternal uncle', Arm. *haw* 'grandfather'
@@ -831,7 +831,7 @@ REF: [EDPC]
 ### <a id="awyo-3">\*āwyo- 'egg' (n)</a>
 W: OW *ui*, MW *wy* [m]
 BRET: MBret. *uy*, MoBret. *ui* [m]
-CO: OCo. *uy* gl. "ovum", MCo. *oy*
+CO: OCo. *uy* gl. _ovum_, MCo. *oy*
 PIE: \*h₂ōwyo- 'egg' (IEW: 783)
 COGN: Lat. *ōuum*, Gr. *ōión*, Av. *aēm* [acc.sg], OCS *ajъce*, Russ. *jajcó*, Arm. *ju*, OHG *ei*, Alb. *ve*
 ETYM: The OIr. word for 'egg', *og* [s n, later m and f] probably does not belong here (some consider it to be a loanword from Brittonic). PIE \*h₂ōwyo- is a vṛddhi derivative from \*h₂ewi- 'bird' (Skt. *váy-*, Lat. *auis*, Gr. *aietós* 'eagle', etc.). MW *hwyat* 'duck' and MBret. *houat* 'duck' are sometimes derived from the same PIE root, but the initial *h-* (< PIE \*s-) is unclear, so I doubt whether this etymology is correct.
@@ -852,8 +852,8 @@ REF: [EDPC]
 ### <a id="axto">\*axto-, \*axtīno- 'furze, gorse' (n)</a>
 GOID: OIr. *aitten* [o m]
 W: MW *aeth*, (GPC *aith*), *eithin*
-BRET: OBret. *ethin* gl. "rusci"
-CO: OCo. *eythinen* [sing.] gl. "ramnus"
+BRET: OBret. *ethin* gl. _rusci_
+CO: OCo. *eythinen* [sing.] gl. _ramnus_
 PIE: \*h₂eḱ-sti-
 COGN: Lith. *akstìs* 'spit (for roasting)', Russ. *ost'* 'awn, bristle'
 ETYM: MW *aeth* probably preserves the original underived noun (\*axto-). The British forms presuppose a feminine noun (presumably old collective) \*axtīnā, while OIr. *aitten* points to \*axtīno-.
@@ -863,7 +863,7 @@ REF: [EDPC]
 GOID: OIr. *áes, óes* [o n]
 W: OW *ois* [f] 'age', MW *oes*; OW *oit* [f and m] 'time, period', MW *oed*
 BRET: OBret. *oit*, MBret. *oet*
-CO: OCo. *huis* gl. "seculum", Co. *oys*
+CO: OCo. *huis* gl. _seculum_, Co. *oys*
 PIE: \*h₂ey-(wo)- 'age' (IEW: 17f.)
 COGN: Lat. *aeuum*, Go. *aiws*, Gr. *aién* 'always'
 ETYM: Celtib. *aiuizas* is often adduced as a cognate, but the meaning of this word is quite uncertain, and the connection would be possible only if PIE \*-s- can give Celtib. *-z-*, which is improbable (\*s is generally preserved in Celtiberian, and *z* < \*d). The forms within Brittonic differ to some extent. Perhaps we should reconstruct both PCelt. \*ayto- (> MW *oed*) and \*aysso- < \*ayt-to- (MW *oes*). Cf. also Ogam PN *AVITTO-RIGES* and OBret. *Oed-ri*. The IE comparanda in IEW (Lat. *aeuum*, etc.) are derived from the u-stem seen in Skt. *ā́yu-* 'lifetime' < PIE \*h₂oyu -. Celtic seems to preserve the original root form \*h₂ey- with different suffixes.
