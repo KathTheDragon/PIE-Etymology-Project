@@ -1869,3 +1869,775 @@ PIE: \*gwosdʰo- "piece of wood, sprig" (IEW: 485)
 COGN: MHG _quast_ "scrub", Alb. _gjeth(e)_ "foliage", OCS _gvozdъ_ "nail"
 ETYM: MIr. _bot_ comes from \*buzdo- straightforwardly, but W _both_ must be from the corresponding feminine \*buzdā. Gaul. _buđđutton_ has also been interpreted as "kiss" (see \*bussu- "lip"): it boils down to the problem of how indecent is the Gallo-Latin inscription _Moni gnatha gabi buđđutton imon_ (St. Reverien, cf. Meid 1980: 15f.). Does it mean "Come, girl, give me a kiss", "Come, girl, take my penis"? Both interpretations are possible. Cf. also Gaul. PN _Bussu-maros_ which is slightly more probably interpreted as "having a large penis" than "big kiss". The PIE etymology is uncertain; it presupposes an ablauting paradigm, perhaps PIE \*gwōsdʰ-s / \*gwosdʰ-m / \*gusdʰ-os (for the lengthened grade cf. Alb. _gjeth(e)_, with e < \*ō, though Demiraj 1997j 187f. presupposes an umlauted variant of \*gath), and that \*gʷ > PCelt. \*b in the nom. and acc., whereas the u-vocalism of the root is from the oblique cases. A paradigm \*bozd- / \*guzdo- would have been regularized and thematicized into PCelt. \*buzdo-.
 REF: [EDPC]
+
+## D
+
+### <a id="da">\*dā- "give" (v)</a>
+GOID: OIr. _-tartat_ "could give" [3s.prs.] _do-rat_ "has given" [perf.]
+GAUL: _dede_ [prt.] (Orgon, etc.)
+LEP: _tetu_ (Prestino)
+CELTIB: _tatuz_ [imp.] (?) (Botorrita I)
+PIE: \*deh₃- "give" (IEW: 223ff.)
+COGN: Skt. _dā_-, Lat. _do, dare_, Gr. _dídōmi_, Lith. _dúoti_, OCS _dati_
+SEE: [\*dānu- "gift"](#danu)
+ETYM: OIr. _tartat_ < \*tu-fro-ad-dā-. On Celtib. _tatuz_ (Botorrita I) see Esb 1989: 142); some derive this form from the root \*dʰeh₁- "do" (Lat. _facio_, Gr. _títhēmi_, etc.); the root \*deh₃- is probably also attested in Celtib. _zizonti_ "they, give" (by assimilation from \*dizonti) and _taunei_ "to give". Gaulish _dede_ and Lepontic _tetu_ might also be from PIE \*dʰeh₁- rather than from \*deh₃-, but this appears less probable. Gaul. _readdas_ (Saint-Marcel near Argenton-sur­ Creuse) has also been analysed as \*fr(o)-e-ad-dā-s "he has given this" (Schrijver 1997: 178f.), but this is just a possibility. Finally, OIr. _iadaid, -iada_ "closes" is certainly an old compound with the prefix \*efi- (< PIE \*h₁epi-, cf. Gr. _epí_), but it is unclear whether the verbal root is \*deh₃- "give" (as assumed by Schumacher in KPV), or \*dʰeh₁- "do, make, put". The latter appears more probable from the semantic point of view.
+REF: [EDPC]
+
+### <a id="dago">\*dago- "good" (adj)</a>
+GOID: OIr. _dag_-
+W: MW _da_
+BRET: OBret. _da_-, MBret. _da_
+CO: Co. _da_
+GAUL: _Dago-marus_ [PN]
+ETYM: No convincing IE etymology has been proposed so far. However, it is at least thinkable that PCelt. \*dago- developed by assimilation from \*dako-, which could, in turn, be derived from PIE \*dḱo- (with epenthetic \*a in the initial cluster of two stops, cf. [\*dakro- "tear"](#dakro)). The PIE root would be as in PCelt. \*dekos- "honor" > OIr. _dech_ (note that _dech_ serves as a suppletive superlative to _maith_ "good").
+REF: [EDPC]
+
+### <a id="dakro">\*dakro- "tear" (n)</a>
+GOID: OIr. _dér_ [on]
+W: MW _deigr_ [m], _deigryn_ [sing.]; _dagrau_ [p]
+BRET: OBret. _dacr-lon_ "full of tears", MBret. _dazrou_ [p], MoBret. _dàer_ [m]
+CO: Co. _dagrow_ [p]
+PIE: \*dh₂ḱru- "tear" (IEW: 23)
+COGN: Hitt. _ishahru_-, Skt. _áśru_-, Gr. _dákry_, Lat. _lacrima_, OE _tēar_, Lith. _ãšara_, ToB _akrūna_ [p]
+ETYM: The PIE form of this word is notoriously difficult to reconstruct. One possibility (Matasovic 2004: 126) would be to posit PIE \*h₂eḱru- (or perhaps an old heterocliton, PIE \*h₂eḱwr / \*h₂ḱwen-s) and to explain the word initial \*d- in some branches as the result of false word division with the neuter pronoun \*tod (\*tod h₂e ḱru- > \*to(d) dh₂eḱru- > \*dakru). The root involved may be PIE \*h₂eḱ- "sharp" (> "bitter" > "tear"). Another possibility (Matasovic 2000) is to start from PIE \*doḱwr / \*dḱwen-s and explain the \*a in Celtic (and other branches) as epenthetic (breaking up the difficult Anlaut \*dḱ-} Word-initial \*d- could then have been lost in some branches through false word division (\*tod daḱwr- > \*tod aḱwr), and the word could have been reshaped as a u-stem in Celtic, Indo-Iranian, Greek, etc. (perhaps through regular PIE metathesis of \*-wr > \*-ru, but cf. Lubotsky 1994a). Needless to say, both possibilities are highly speculative.
+REF: [EDPC]
+
+### <a id="dallo">\*dallo- "blind" (adj)</a>
+GOID: OIr. _dall_ [o], Ogam _DALI_
+W: MW _dall_
+BRET: OBret. _dall_, MBret. _dall_
+CO: OCo. _dal_ gl. _cecus_
+ETYM: Probably related are Gaul. PN _Tri-dallus, Dallo_ (cf. Delamarre 135, Meid 2005: 192). The IE etymology of these Celtic words is uncertain (see IEW 266); however, the relationship with OHG _tol_ "silly", Go. _dwals_ "foolish, stupid" seems probable, but details of the phonetic development are difficult: PIE \*dʰwolno- would presumably give PCelt. \*\*dwollo- > OIr. \*\*doll). Therefore, if the Germanic-Celtic etymology is correct, we should start from PIE \*dʰwlno-, with the zero grade of the root, which would develop to PCelt. \*dwallo- regularly, and hence to OIr. _dall_, MW _dall_, etc.
+REF: [EDPC]
+
+### <a id="daln">\*dal-n- "come into being, turn into something" (v)</a>
+W: MW _deillyau_ (GPC _deillio_) "emanate, proceed, derive, come about, originate"
+PIE: \*dʰelh₁- (IEW: 234)
+COGN: Gr. _thállō_ "blossom" (v), OE _dile_ "dill", Arm. _dalar_ "green", perhaps Alb. _dal_ "flow out, exit, grow"
+SEE: [\*dolisko- "seaweed"](#dolisko)
+ETYM: Schumacher (KPV 257f.) derives the OIr. verbal noun _dul_ [u m] "going" from the same PIE root, but this is dubious on semantic grounds. Some linguists reconstruct the PIE root as \*dʰelh₁- (e.g. KPV and LIV), but I do not believe that the evidence warrants that reconstruction. Celtic generalized the zero-grade of the root in \*dal-n- (< \*dʰl-n-eh₁), but the o­ grade is probably attested in [\*dolisko- "seaweed"](#dolisko) and [\*dol-V- "leaf"](#dolv). Thee­ grade seems to be attested in PGerm. \*delja- (OE _dile_, Germ. _Dill_, etc.).
+REF: [EDPC]
+
+### <a id="dalo">\*dālo- "share, part" (n)</a>
+GOID: OIr. _dál_ [o n]
+W: OW _daul_ [m]
+PIE: \*deh₂- "divide" (IEW: 175f.)
+COGN: Skt. _dáyate_ "divides", Gr. _daíomai_
+ETYM: OW _daul_ is a hapax. The Celtic forms represent derivatives with the suffix \*-lo-, PIE \*deh₂-lo-.
+REF: [EDPC]
+
+### <a id="damna">\*dam-na- "subdue, break a horse" (v)</a>
+GOID: OIr. _damnaid, -damna_ "binds, subdues"
+PIE: \*demh₂- "subdue, tame" (IEW: 199f.)
+COGN: Hitt. _damaszi_ "press, push", Skt. _damāyáti_ "subdue, tame", Lat. _domo_
+SEE: [\*damo- "bull"](#damo)
+REF: [EDPC]
+
+### <a id="damo-1">\*dāmo/ā- "retinue" (n)</a>
+GOID: OIr. _dám_ [ā f]
+W: OW _daum_ "client", W _daw_ [m] "son-in-law" (GPC _daw, dawf_)​
+BRET: MBret. _deujf_, MoBret. _deuñv_ [m] "son-in-law"
+CO: OCo. _dof_ gl. _gener_
+PIE: \*domo- "household, home" (IEW: 198f.)
+COGN: Lat. _domus_ "home", Gr. _dómos_, OCS _domъ_
+ETYM: The OW hapax _daum_ has an alternative reading _dauu_ (Falileyev, 41). As shown by Campanile 1974a and McCone 1992, the Celtic forms continue PIE vrddhi built from \*domo- (itself a thematicization of the original root-noun \*dōm); the original meaning was "belonging to the household", whence "retinue" (collectively), and the subsequent narrowing of the meaning to "son-in-law" in Brittonic. Another derivative from the same PIE word is probably OIr. _déis_ [i m] "client", built from the PIE gen.sg. of the original root noun, \*dems, remodelled as an i-stem (\*dems-i-). Celtib. _tamai_ [dat./loc.sg.] (Botorrita I) has been connected with this set of forms, but with little justification. In PIE, the original root-noun \*dōm may have been connected with the root \*demh₂ "build" (Gr. _démō_, Dor. _neódmātos_ "newly built"), if the development was \*domh₂s > \*dōm (as assumed by LIV).
+REF: [EDPC]
+
+### <a id="damo-2">\*damo-, \*damato- "bull" (n)</a>
+GOID: OIr. _dam_ [o m] "bull, deer"
+W: MW _dafad_ [f] "sheep"; _defaid, defeidiau_ [p]
+BRET: MoBret. _dañvad_
+CO: OCo. _dauat_ gl. _ouis_
+GAUL: _Damona_ (?) [Theonym], Gallo-Lat. _damma_ (> Fr. _daim_) "roe"
+PIE: \*dmh₂o- "the tamed one" (IEW: 199f.)
+COGN: Skt. _damya_- "young bull to be tamed", Alb. _dem_ "bull, steer"
+ETYM: The Celtic a-vocalism is best explained by starting from a proto­ form \*dm-Ho-, with syllabic \*m. The Brit. forms point to a derivative \*damato- (< \*dmh₂eto-) rather than \*damo- > OIr. dam. The PIE root \*demh₂ is presumably also reflected in the British tribal name _Demetae_ (> MW _Dyfed_), which can be interpreted as "Tamers".
+SEE: [\*dam-yo- "allow, permit, endure"](#damyo), [\*dam-na- "subdue, break a horse"](damna)
+REF: [EDPC]
+
+### <a id="damyo">\*dam-yo- "allow, permit, endure" (v)</a>
+GOID: OIr. _daimid, -daim; -dama_ [subj.]; _-didam_ [fut.]; _-dámatar_ [3p.prt.]; _-dét_ [prt.pass.]
+W: MW _goddef_ "suffer, permit"
+BRET: MBret. _gouzaff_ "suffer, permit", MoBret. _gouzañv_
+CO: Co. _godhaff_ "suffer"
+PIE: \*demh₂ "subdue, tame" (IEW: 199f.)
+COGN: Hitt. _damaszi_ "forces, pushes", Skt. _damáyati_ "forces, tames", Lat. _domo, domāre_ "to tame"
+ETYM: The simplex \*dam-yo- is attested only in OIr., the Brit. forms pointing to PCelt. \*ufo-dam-, cf. also OIr. fo-daim, -fodaim "suffer, endure" < \*ufo-dam-yo-.
+SEE: [\*damo-, \*damato- "bull"](#damo-2), [\*dam-na- "subdue, break a horse"](#damna)
+REF: [EDPC]
+
+### <a id="danu">\*dānu- "gift" (n)</a>
+GOID: OIr. _dán_ [u m] "gift, bestowal, skill"
+W: MW _dawn_ [m and f]
+PIE: \*deh₃r / \*deh₃n-os "gift" (IEW: 225)
+COGN: Lat. _dōnum_, Gr. _dō̃ron_, OCS _darъ_, Arm. _tur_
+SEE: [\*dā- "give"](#da)
+REF: [EDPC]
+
+### <a id="danto">\*danto- "tooth" (n)</a>
+GOID: OIr. _dét_ [on]
+W: MW _dant_ [m]
+BRET: OBret. _dant_, MBret. and MoBret. _dant_
+CO: OCo. _dans_ gl. _dens_
+PIE: \*h₁dont- "tooth" (IEW: 289)
+COGN: Lat. _dēns_, Skt. _dánt_-, Gr. _odṓn_, Lith. _dantìs_, OHG _zand_
+ETYM: The Celtic forms preserve the zero-grade of the root (PIE \*h₁dnt- > \*dant-). The nature of the initial laryngeal is uncertain: if the word for "tooth" is originally the part. pres.of the verb \*h₁ed- "to eat", then it was \*hi-, but many linguists reconstruct \*h₃-, from which Gr. _o_- in _odṓn_ is derived straightforwardly.
+REF: [EDPC]
+
+### <a id="darno">\*darno- "piece, part" (n)</a>
+W: MW _darn_ [m]
+BRET: MBret. _darn_
+CO: Co. _darn_
+GAUL: \*darnā > Fr. _darne_ "piece, slice offish"
+PIE: \*der(H)- "tear" (IEW: 206ff.)
+COGN: Gr. _deírō_ "tear", Lith. dial. _dìrti_
+ETYM: The Celtic words adduced here seem to be originally adjectives from the root "to tear", but the phonetic development is not completely clear. From \*drH-no- we would expect PCelt. \*drāno-. Invoking Dybo's law would not help, since this would give \*drano- (cf. [\*sfraxto- "eloquent"](#sfraxto), [\*frati- "fem"](#frati)), which means that we must start from an anit-form of the PIE root. The derivation \*dmo- > \*damo- is then straightforward. LIV (_s.v._) also distinguishes two roots, \*der- and \*derH-, and both may be attested in Lith. _dir̃ti_ "peel" (< \*der-) vs. Lith. dial. _dìrti_ "tear".
+REF: [EDPC]
+
+### <a id="daru">\*daru- "oak" (n)</a>
+GOID: OIr. _daur, dair_ [u f]
+W: MW _dar_ (GPC _dâr_) [f]; _deri, deiri_ [p]
+BRET: OBret. _dar_
+CO: OCo. _dar_ gl. _quercus_
+PIE: \*doru- "tree, wood" (IEW: 214ff.)
+COGN: Hitt. _tāru_, Gr. _dóry_ "tree, trunk, spear", ToAB _or_ "wood", Av. _dāuru_
+SEE: [\*derwo- "firm, true"](#derwo)
+ETYM: The OIr. i-stem _dair_ is younger than the old u-stem _daur_. It was reshaped since feminine u-stems are otherwise exceptional in Celtic. The a­-vocalism of the Celtic forms can be explained if we posit an ablauting paradigm nom.sg. \*doru / gen.sg. \*drw-os; after the regular development \*drwo- > \*darwo- in the oblique cases, this shape of the root was analogically extended to the nominative, hence \*daru.
+REF: [EDPC]
+
+### <a id="daryo">\*dar(y)o- "bull" (v)</a>
+GOID: OIr. _dairid; daraid_ [subj.]; _-dart_ [prt.]
+PIE: \*dʰerh₃- "jump, leap" (IEW: 256)
+COGN: Gr. _thrṓskō_ "leap, attack", Skt. _dhā́rā_- "flood, rush"
+ETYM: The present stem of OIr. _dairid_ contains the zero-grade of the PIE root. The laryngeal was lost in the pre-vocalic position (\*drh₃-o- > PCelt. \*dar-o-), or regularly before \*y (Pinault' s rule).
+REF: [EDPC]
+
+### <a id="dasti">\*dasti- "heap, pile" (n)</a>
+GOID: MIr. _daiss_ [?i f]
+W: OW _das_, MW _das_ [f and m]
+BRET: OBret. _desi_
+PIE: \*dʰeh₁- "make, do" (IEW: 238)
+COGN: Lat. _facio_, Gr. _títhēmi_, Skt. _dádhāmi_, OCS _děti_, Lith. _dė́ti_
+SEE: [\*datlā "assembly, meeting"](#datla)
+ETYM: The Irish word is attested late, and its original stem formation is uncertain, but it was probably an i-stem. The PCelt. word \*dasti- must be derived from the zero-grade \*dʰh₁-sti-, cf. also the common Gaul. toponym _Condate_ (Fr. _Conde_) < \*kom-dati- "confluence" < \*kom-dʰh₁-ti-.
+REF: [EDPC]
+
+### <a id="datla">\*datlā "assembly, meeting" (n)</a>
+GOID: OIr. _dál_ [ā f] "meeting, encounter"; i ndail "near, along with"; i ndail n- "towards"
+W: MW _dadl, dadyl_ [m]
+BRET: OBret. _dadl_ gl. _concio_, MoBret. _dael_ [f] "dispute"
+CO: OCo. _datheluur_ gl. _concionator_
+PIE: \*dʰeh₁- "make, do" (IEW: 237)
+COGN: Lat. _facio_, Gr. _títhēmi_, Skt. _dádhāmi_, OCS _děti_, Lith. _dė́ti_
+SEE: [\*dasti- "heap, pile"](#dasti)
+ETYM: OIr. _dál_ "assembly" is sometimes treated as the same etymon as _dál_ "share, part", but this has a completely different etymology (see [\*dālo-](#dalo)). The PIE etymology of \*datla is disputed, but it may contain the root \*dʰeh₁- "put together, make" (Lat. _facio_, etc.), and the suffix \*-tlo-, so we may start from PIE \*dʰh₁-tlo-.
+REF: [EDPC]
+
+### <a id="dawna">\*dawnā "poem" (n)</a>
+GOID: MIr. _dúan_ [ā f]
+PIE: \*dh₂p-no- "offering" (IEW: 176f.)
+COGN: Lat. _daps_, Hitt. _tappala_- "person responsible for court cooking", ON _tafn_ "sacrificial animal"
+ETYM: ON _tafn_ is the exact correspondence of OIr. _dúan_. The sound development in Celtic is the same as in \*kapno- > \*kawno- > OIr. _cúan_ "harbour". Another, less probable etymology relates MIr. _dúan_ to PIE \*dʰewǵʰ- "be useful" (IEW 271, Gr. _týkhē_ "fortune, chance" etc.), cf. EIEC 614.
+REF: [EDPC]
+
+### <a id="dawyo">\*daw-yo- "kindle, burn" (v)</a>
+GOID: OIr. _doud_ [vn dat.sg.] "burning"
+W: MW _deifyaw_ (GPC _deifio_)​
+BRET: OBret. _deuu_, MBret. _devo_ "bum", _dev_ "burned"
+CO: Co. _dewy, dywy_
+PIE: \*deh₂u- "burn, kindle" (IEW: 179f.)
+COGN: Skt. _dunóti_, Gr. _daíō_, ToB _tu_
+ETYM: W _etewyn_ "torch, firebrand", MoBret. _etew_ and Co. _itheu_ go back to \*ati-daw-ino- from the same root. Cf. also PCelt. [\*kom-daw-to- "firewood"](#komdawto) (MIr. _connad_, W _cynnud_, MoBret. _keuneud_, Co. _kunys_).
+REF: [EDPC]
+
+### <a id="dayo">\*dā-yo- "ail, trouble" (v)</a>
+GOID: OIr. _dáthair, daas_ [rel.]
+W: MW _-dawr_ [3s.prs.]
+BRET: MBret. _-deur_ "is important" [3s.prs.]
+CO: Co. _-duer_ [3s.prs.]
+ETYM: In OIr. this verb was confused with \*tā- "be, find oneself" < PIE \*steh₂- , see KPV 266ff. The IE etymology of PCelt. \*dā-yo- is uncertain, but a derivation from PIE \*deh₁- "bind" (IEW 183, LIV 86, cf. Gr. _déō_) has been proposed. In my opinion, the semantic connection is too weak for this etymology to be plausible.
+REF: [EDPC]
+
+### <a id="dedmv">\*dedmV- "rite, ceremony, usage" (n)</a>
+GOID: OIr. _deidmea_ [gen.sg.] "law, usage"
+W: MW _deuawt, defawt_ "rite, ceremony, law"; _deddf_ [f] "rite, decree, ordinance, law"
+BRET: OBret. _domot_ gl. _ritum_
+ETYM: Some attested forms (e.g. OBret. _domot_) point to PCelt. \*dedmāto-, while OIr. _deidmea_, if it is the gen.sg. of an i-stem, must imply PCelt. \*dedmi-. Outside Celtic, a probable cognate is Gr. _thesmós_ "custom" < PIE \*dʰedʰ(h₁)mo-.
+REF: [EDPC]
+
+### <a id="degwi">\*degʷi- "flame, blaze" (n)</a>
+GOID: OIr. _daig_ [i f]
+W: MW _goddeith_ [m and f] "big flame, blaze" (GPC _goddaith_)​
+PIE: \*dʰegʷʰ- "burn" (IEW: 240f)
+COGN: Skt. _dáhati_, Lat. _febris_ "fever", ToAB _tsäk_- "burn", Alb. _djeg_ "burn"
+ETYM: The development in OIr. is straightforward, with \*e > a before palatalized g as in _aig_ "ice" < \*yegi-. MW _goddeith_ is from \*ufo-dextā < \*upo-degʷ-tā, cf. also W _deifio_ "burn" < PCelt. \*degʷ-ye-. OIr. _daigen_ "firm" may be from \*degʷino- "burned, baked" (see [\*di-n-g-o- "knead, form"](#dingo)), but the semantic connection is weak.
+REF: [EDPC]
+
+### <a id="dekam">\*dekam "ten" (num)</a>
+GOID: OIr. _deich_ [nasalising]
+W: MW _deg_
+BRET: OBret. _dec_, MBret. _dek_, MoBret. _deg_
+CO: Co. _dec_
+GAUL: _decan-, decometos_ "tenth"
+CELTIB: _tekametam_ "tenth" (Botorrita I)
+PIE: \*deḱm "ten" (IEW: 191)
+COGN: Lat. _decem_, Gr. _déka_, Skt. _dáśa_, Go. _taihun_, OCS _desętъ_, Lith. _dẽšimt_, ToA _śäk_
+ETYM: For the possible derivation of OIr. _deëc, deac_ "-teen" from \*dekan-kʷe "ten and" see [\*kʷenkʷe "five"](#kwenkwe).
+REF: [EDPC]
+
+### <a id="dekos">\*dekos "honor, pride" (n)</a>
+GOID: OIr. _dech_ [comp. of maith "good"]
+PIE: \*deḱos "honor"
+COGN: Lat. _decus_, Arm. _tasanem_ "see", Av. _dasa_- "goods, possessions"
+ETYM: The indeclinable superlative _dech_ in OIr. is best taken as the petrified form of old neuter noun meaning "honor, pride", and this meaning is here posited for PCelt. The similarity with PCelt. \*dago- "good" could be accidental, but cf. the discussion under that lemma. Originally, PIE \*deḱos probably meant "that which is received", cf. Gr. _dékhomai, dékomai_ "take, accept", Skt. _daśasyati_ "renders service".
+REF: [EDPC]
+
+### <a id="delgo-1">\*delg-o- "hold, contain" (v)</a>
+W: MW _daly, dala_ "hold" (GPC _dal, dala, daly_)​
+BRET: OBret. _delgim_
+GAUL: _delgu_ [1s.prs.] (Banassac)
+ETYM: In OIr. there is a possible cognate in _coindelg_ [o and ā, n and f] "contract, comparison" < \*kom-delgo- (cf. also W _cynnal_ "maintain"); a deverbal nominal stem (\*delgo-) is probably preserved in OBret. _dalg_ (MoBret. _dalc'h_) "maintenance, tenure". The connection to PIE \*delh₁gʰo-­ (Skt. _dīrghá_-, etc.), suggested by IEW (197), appears improbable because of the difference in meaning, but Alb. _ndal_ "halt, stop" may be related.
+REF: [EDPC]
+
+### <a id="delgo-2">\*delgo- "pin, needle" (n)</a>
+GOID: OIr. _delg_ [o m]
+W: MW _dala_ [m] "sting"
+CO: OCo. _delc(h)_ gl. _monile_
+PIE: \*dʰelg- "sting" (IEW: 247)
+COGN: Lat. _falx_ "curved blade, hook, scythe", Olc. _dálkr_ "pin, dagger", Lith. _dilgùs_ "stinging, smarting", _dìlgė_ "nettle".
+ETYM: A Gaulish reflex of PCelt. \*delgo- may be preserved in Fr. dial. _dail_ "sickle", Pr. _dalh_ (Gamillscheg 294). These words could be from \*dalglā. de Vaan (2008: 200) shows that Lat. _falx_ is most probably a loanword from some IE language of Italy.
+REF: [EDPC]
+
+### <a id="delto">\*delto- "moist" (adj)</a>
+GOID: OIr. _delt_ [o m] "dew"
+BRET: MBret. _delt_, MoBret. _delt_ "sweaty"
+PIE: \*del- "sprinkle" (IEW: 196)
+COGN: ON _tolgr_ "tallow", Eng. _tallow_, Germ. _Talg_, Arm. _teł_ "strong rain"
+ETYM: The Germanic forms presuppose a velar suffix, presumably PGerm. \*talgo-, \*tulgo- (ON _tolgr_). They have been also connected with Go. _tulgus_ "firm, steadfast" (Orel 2003: 411) and derived from PIE \*dlh₁gʰ- "long" (IEW 197, cf. Skt. _dīrghá_-, Gr. _dolikhós_, etc.), so the IE side of this etymology is uncertain.
+REF: [EDPC]
+
+### <a id="delwa">\*delwā "form, appearance, image" (n)</a>
+GOID: OIr. _delb_ [ā f (later also um)]
+W: OW _delu_, MW _delw_ [f]
+CO: Co. _del_
+PIE: \*del- "carve, split" (IEW: 194ff.)
+COGN: Lat. _dolo_ "hew, chop into shape", Lith. _dalýti_ "divide", Alb. _dalloj_ "cut"
+ETYM: MoBret. _delw_ is a loanword from Welsh. OIr. _dolb_ [o m] "magic, illusion, appearance" is another derivative from the same root (PCelt. \*dolwo-)
+REF: [EDPC]
+
+### <a id="demi">\*demi- "dim, dark" (adj)</a>
+GOID: MIr. _deim_ [i]
+PIE: \*dʰem- "dim, dark" (IEW: 148)
+COGN: Eng. _dim_, Norw. _daam_, OFris. _dimme_ "darker"
+ETYM: MIr. _deim_ is not well-attested; it may be a back-formation to _deime_ [iā f] < \*demya "darkness". This word is attested only in Germanic and Celtic. The etymology in IEW 247f. (a connection with the PIE root \*dʰemH- "smoke") is doubtful on semantic grounds.
+REF: [EDPC]
+
+### <a id="demya">\*demyā "darkness" (n)</a>
+SEE: [\*demi- "dim, dark"](#demi)
+REF: [EDPC]
+
+### <a id="deno">\*dēno- "fast" (adj)</a>
+GOID: OIr. _dían_ [o] gl. creber
+PIE: \*deyh₁- "fly, move swiftly" (IEW: 187)
+COGN: Skt. _dī́yati_ "fly", Gr. _díemai_ "hasten"
+ETYM: The OIr. form can be regularly derived from PIE \*deyh₁no-.
+REF: [EDPC]
+
+### <a id="dergo">\*dergo- "red, blood-red" (adj)</a>
+GOID: OIr. _derg_ [o]
+PIE: \*dʰerg- "dark" (IEW: 251)
+COGN: OE _deorc_ "dark", Lith. _dárgana_ "bad weather", _dérgti_ "to become dirty", (?) ToB _tarkär_ "cloud"
+ETYM: Delamarre (140) mentions the possibility that the PN _An-dergus_, attested in Lusitania, is related to the same PCelt. root.
+REF: [EDPC]
+
+### <a id="derk">\*derk- "see" (v)</a>
+GOID: OIr. _-darc, a-t-chondarc_ [1s.prs.]; _ad-chon-dairc_ [3s.prt.rel.]
+PIE: \*derk- "glance at" (IEW: 213)
+COGN: Skt. _darś_-, Gr. _dérkomai_, OE _torht_ "bright, clear", Alb. _dritë_ "light"
+SEE: [\*kʷis-o- "perceive"](#kwiso), [\*drikā "face, appearance"](#drika)
+ETYM: OIr. _a-t-chondarc_ < \*ad-kom-dark-. The stem \*derk-/\*dark­ formed some suppletive forms to the root \*kʷis-o- "see", cf. KPV 270. From the same root we have OIr. _derc_ [on] "eye, face", MBret. _derch_ "beautiful" (PCelt. \*derko-), and OIr. _drech_ "face", W _drych_ "appearance" (see PCelt. [\*drikā](#drika), with the zero-grade of the root). Cf. also Gaul. _uoderce_ (Larzac), which might be 2s.ipv. of \*ufo-derk-o- (Lambert 1994: 167), and the PNs Gaul. _Derc-illus_ and Celtib. _Terk-inos_.
+REF: [EDPC]
+
+### <a id="derwo">\*derwo- "firm (as an oak)" (adj); "oak" (n)</a>
+GOID: OIr. _derb_ [o] "sure, certain, fixed"
+W: MW _derwen_ [sing.] "oak"; _derw_ [p]
+BRET: OBret. _daeru_, MBret. _deru, derw_ "oaks"
+GAUL: _Dervo_ [Toponym]; \*derwo- > OFr. _dervée_ "oak wood"
+PIE: \*derw-o- "oak" (IEW: 214f.)
+SEE: [\*daru- "oak"](#daru)
+ETYM: The semantic development in OIr. was "firm as an oak" > "firm, strong" > "true", as explained by Benveniste, (1969: I, 8). OIr. _derb_ "vessel" is a feminine a-stem, derivable from \*derwā "made of oak-wood", the feminine-collective of \*derwo-, cf. also MIr. _drochta_ "tub, vessel", which may be from \*druxto- < \*dru-k-to- (cf. PGerm. \*trugan, \*trugaz "trough" > OHG _trog_, ON _trog_, PIE \*dru-ko-).
+REF: [EDPC]
+
+### <a id="dewo">\*dēwo- "god" (n)</a>
+GOID: OIr. _día_ [o m]
+W: OW _duiu_, W _duw, Duw_ [m]
+BRET: MBret. _doe_, MoBret. _doue_ [m]
+CO: OCo. _duy_, Co. _dew_
+GAUL: _Deuo-gnata_ [PN], _teuo-xtonio_- (Vercelli)
+CELTIB: _Teiuo-reikis_ (K 6.1), _DEOBRIGA_ [Toponym]
+PIE: \*deyw-o- "god, sky-god" (IEW: 184f.)
+COGN: Skt. _devá_-, Lat. _deus_, OPr. _deiwas_
+REF: [EDPC]
+
+### <a id="dexsiwo">\*dexs(i)wo- "right, south" (adj)</a>
+GOID: OIr. _dess_ [o]
+W: MW _dehau, deheu_ (GPC _deau, de_)​
+BRET: OBret. _dehou_, MBret. _deho, dechou_, MoBret. _dehou, dehow_
+CO: Co. _dehow, dyghow_
+GAUL: _Dex(s)iua_ [Theonym]
+PIE: \*deḱs-wo- "right" (IEW: 190)
+COGN: Lat. _dexter_, Gr. _deksiterós_, OCS _desnъ_, Alb. _djathtë_
+ETYM: The Insular Celtic forms are derivable from \*dexswo-, while the Gaulish name _Dexsiua_ points to \*dexsiwo-, which is the expected form, in light of the cognates in other IE languages (cf. also Gr. _deksiós_ < \*deḱsiwo-). The meaning "south" is derived from the main principle of orientation in the Celtic and IE tradition, by facing the rising sun (cf. also OIr. _túath_ "left, north" < PCelt. \*towto-.
+REF: [EDPC]
+
+### <a id="di">\*dī "from, of" (prep)</a>
+GOID: OIr. _di, de_ [aspirating, +dat.], _dí­_-
+W: MW _di, di_-
+BRET: OBret. _di_
+PIE: \*h₂d-eh₁ "from" (IEW: 181ff.)
+COGN: Lat. _dē_
+ETYM: In OIr. the long i was shortened in unstressed position, but the length is generally preserved before consonants in compounds, cf. e.g. digal < \*dI-gala "vengeance". The root in this Italic and Celtic preposition could be the same as in \*h₂ed-, but with a different suffix (or instrumental case­ ending) \*-eh₁; see \*ad "to".
+REF: [EDPC]
+
+### <a id="diakv">\*dī-ākV- "lazy, lit. un-swift" (adj)</a>
+W: OW _diauc_ gl. _segnem_, MW _diawg_ (GPC _diog_)​
+BRET: OBret. _diochi_, MBret. _diek_, MoBret. _dieg_
+CO: OCo. _dioc_ gl. _piger_
+PIE: \*h₁ōḱu- "swift" (IEW: 775)
+COGN: Skt. _āśú_- "quick", Gr. _ōkýs_ "quick", Lat. _ōcior_ "swifter", perhaps Croat. _jȁstreb_ "hawk"
+ETYM: The existence of this compound (with the prefix \*dī-) presupposes the simplex meaning "swift"; parallels in other IE languages point to an u­-stem, but this cannot be demonstrated for Celtic. The PIE root is reconstructed as \*h₁ōḱu- and interpreted as a vrddhi formation related to \*h₁eḱwo- "horse", but this is quite uncertain. The accentuation of Croat. _jȁstreb_ (accentual paradigm a) and the related Slavic words points to a root ending in a laryngeal (PIE \*h₁oh₁ḱú- or \*Heh₃ḱú-), but the position of the accent in Gr. _ōkýs_ and Skt. _āśú_- shows that the shortening of the first vowel by Dybo's law would be expected in Celtic.
+REF: [EDPC]
+
+### <a id="diberga">\*dī-bergā "robbery, brigandage" (n)</a>
+GOID: OIr. _díberg_ [ā f]
+W: MW _diuer_ (GPC _difer_) [m] "treason, betrayal"
+SEE: [\*bergā "pillage, robery"](#berga)
+ETYM: In OIr., there is also the simplex _berg_ [ā f] "robbery", cf. \*berga.
+REF: [EDPC]
+
+### <a id="dibina">\*dī-bi-na- "take away" (v)</a>
+GOID: MIr. _do-ben_ "take away"
+W: MW _difyn_ [m] "fragment, splinter"
+SEE: [\*bi-na- "hit, strike"](#bina)
+REF: [EDPC]
+
+### <a id="digala">\*dī-galā "vengeance" (n)</a>
+GOID: OIr. _dígal_ [ā f]
+W: MW _dial_ [m]
+CO: Co. _dyal_
+SEE: [\*gal-n- "be able"](#galn)
+ETYM: This word is a compound of PCelt. \*dī- "from, of" and \*galā (presumably the same word as [\*galā "valour, ability"](#gala), q.v.).
+REF: [EDPC]
+
+### <a id="diged">\*dig-ed- "chafer, beetle" (n)</a>
+GOID: MIr. _dega_ [d]
+PIE: \*diǵʰ- "tick" (IEW: 187f.)
+COGN: OE _ticia_ "tick", Arm. _tiz_ "bug"
+ETYM: Could this noun be a compound containing, as the second element, the root \*h₁ed- "eat"? In that case, the correct reconstruction would be \*dʰiǵʰ-h₁ed-, with \*dʰiǵʰ- possibly the root of Germ. _Teig_ "dough", etc. Of course, this is mere speculation.
+REF: [EDPC]
+
+### <a id="dila">\*dilā "teat, dug" (n)</a>
+GOID: MIr. _deil_ [?ā ?f] (DIL _dela_)​
+PIE: \*dʰeh₁(y)-l- (IEW: 242)
+COGN: Lat. _fēlix_ "fruitful, happy", OHG _tila_ "nipple"
+SEE: [\*di-na- "suck"](#dina)
+ETYM: The MIr. form _deil_ is not well attested. In Cormac's glossary we seem to have the plural _dela_. It is probably the same noun as MIr. _deil_ "young sow, sow aged three years". It may be possible to derive PCelt. \*dila from PIE \*dʰh₁i-l-, with the zero-grade, and without laryngeal metathesis, but such a derivation seems slightly _ad hoc_. Another possibility is to assume laryngeal metathesis and shortening by Dybo's law (\*dʰh₁i-léh₂- > \*dhih₁léh₂­ > \*dilā). Short -_i_- is also found in \*di-na- "suck" and this verb may also have influenced other derivatives from the same root. OIr. _dil_ [i] "dear, beloved, precious" may be from the same root (PCelt. \*dili-), but the meaning is quite different. Perhaps the meaning "dear" developed from "fruitful" (cf. Lat. _fēlix_).
+REF: [EDPC]
+
+### <a id="dina">\*di-na- "suck" (v)</a>
+GOID: OIr. _denaid, denait_ [3p.prs.]; _did_ [prt.]
+W: MW _dynu, denu_
+BRET: MBret. _denaff_, MoBret. _denañ_
+CO: Co. _dena_
+PIE: \*dʰeh₁y- "suck" (IEW: 241f.)
+COGN: Luv. _titaimi_- "fed", Skt. _dháyati_, Lat. _fēlāre_, Go. _daddjan_, OCS _dojiti_ "suckle", Arm. _diem_
+SEE: [\*dilā "teat"](#dila)
+ETYM: The PCelt. present stem \*di-na- cannot be derived from \*dʰi-neh₁- (this would have given OIr. \*\*dinid rather than _denaid_), so the suffix \*-na­ was extended analogically after the large class of Celtic presents with that suffix. The root \*di- is the result of laryngeal metathesis (\*dʰh₁i-C- > \*dʰ ih₁C-).
+REF: [EDPC]
+
+### <a id="dingo">\*di-n-g-o- "knead, form, press" (v)</a>
+GOID: OIr. _dingid, -ding; didis_ [fut.]; _dedaig_ [prt.]; -_decht_ [prt.pass.]
+CELTIB: _a]mbitinkounei_ "build" (Botorrita I) [inf.]
+PIE: \*dʰeyǵʰ- "knead, form" (IEW: 244f.)
+COGN: Lat. _fingo_ "form, shape", OCS _zidъ_ "wall", Go. _daigs_ "dough"
+ETYM: The connection of Celtib. _a]mbitinkounei_ (as if from \*ambi­-dingo-) with this stem is not certain (MLH V.1: 250f.); it has also been compared to \*tenk- "be firm", PCelt. [\*tanko- "peace"](#tanko); see, however, KPV 277. The OIr. adjective _daigen_ "firm, fast, solid" (occasionally spelled _daingen_) is also sometimes connected with this root. The form _daigen_ points to a proto-form \*degino- (with e > a before palatalized _g_, as in _daig_ "wall") < PCL \*degʷi-. This change was prior to raising and lowering, so one cannot derive _daigen_ from \*\*digino- and relate it to the PIE root \*dʰeyǵʰ-. It could, however, be from \*degʷino- < PIE \*dʰegʷʰ- "flame"). "burn, heat" (see [\*degʷi­- "flame"](#degwi))​
+REF: [EDPC]
+
+### <a id="diro">\*dīro- "proper, needed" (adj)</a>
+GOID: OIr. _dír_ [o] "proper, fitting"
+W: MW _dir_ "sure, certain, necessary"
+ETYM: A derivation from PIE \*dʰeh₁- "do make" (Lat. _facio_, Gr. _títhēmi_, OCS _děti_, etc.) with the suffix \*-ro- is formally straightforward and semantically possible. The development of meaning of \*dʰeh₁ro- would have been from "established" to "customary, proper" and "needed, necessary". On the other hand, if vowel lengthening before the cluster \*xsL is accepted, \*dīro- would also be derivable from \*dīxsro- < \*dēxsro- < \*deḱ-sro-, cf. PCelt. [\*dekos "honour"](#dekos).
+REF: [EDPC]
+
+### <a id="dissmi">\*dis-smi- "something, anything, a small quantity" (pron)</a>
+GOID: OIr. _dim_ gl. _quippiam_ "something, anything"
+W: MW _dim_ "thing, any matter, aught"
+SEE: (?) [\*dus- "bad"](#dus)
+ETYM: The OIr. word is scarcely attested (in the Ml. glosses) and it might be a borrowing from Brit. PCelt. \*dis-smi-, if this is the correct reconstruction, could have been assimilated from \*dus-smi- "a bad one", where \*smi- is from PIE \*sem- "one" (Gr. _hén_, etc.).
+REF: [EDPC]
+
+### <a id="diwedo-1">\*dī-wed-o- "stop" (v)</a>
+GOID: OIr. _do-ruid_ [3s.perf.rel.]
+W: MW _dywedd(u)_ (GPC _diweddu, diwedd_)​
+SEE: [\*wed-o-, \*dī-wedo- "end"](#diwedo-2)
+ETYM: The OIr. form _do-ruid_ contains the perfective preverb \*fro­ (\*dī-fro-wed-o-)
+REF: [EDPC]
+
+### <a id="diwedo-2">\*dī-wedo- "end" (n)</a>
+GOID: OIr. _díad_ [o n, later ā f] (DIL _dead_)​
+W: OW _diued_, MW _diued, diwet_ [m] (GPC _diwedd_)​
+BRET: OBret. _diued_, MBret. _divez_, MoBret. _diwez_ [m]
+CO: Co. _deweth_
+PIE: \*wedʰ- "lead" (IEW: ll 15f.)
+COGN: OCS _vesti, vedetъ_, Lith. _vèsti, vẽda_
+SEE: [\*wed-o- "lead"](#wedo)
+ETYM: This verb contains the PCelt. prefix \*dī- "from, away", and the same root as in \*wed-o- "lead".
+REF: [EDPC]
+
+### <a id="diwiko">\*dī-wik-o- "punish, avenge" (v)</a>
+GOID: OIr. _do-fich, -dích_
+W: MW _difwyn, diwyn_ (GPC _difwyno_) "spoil, defile, pollute, violate"; _diwc_ [3s.prs.] "improve, pay wergeld"
+SEE: [\*wik-o- "fight"](#wiko)
+REF: [EDPC]
+
+### <a id="diywo">\*dīy(w)o- "day" (n)</a>
+GOID: OIr. _dïe_ (DIL _día_)​
+W: OW _did_ [m], MW _dit, dyt, dyd(d)_ (GPC _dydd_) [m]; _dyddiau, dieuoedd_ [p]
+BRET: OBret. _ded, did_, MBret. _dez_, MoBret. _deiz_ [m]
+CO: OCo. _det_
+PIE: \*diy-ew- "day" (IEW: 184f.)
+COGN: Lat. _diēs_, Arm. _tiv_
+ETYM: Gaul. abbreviation D. in the Coligny Calendar may stand for \*diyon "day". Cf. also OBret. _diu-mercer_ "Wednesday", W _heddiw_ "today", MBret. _hizio_, Co. _hethew_, OIr. _indíu_ "today"; we probably have to reconstruct an ablauting paradigm for PCelt. \*diyēws / \*diywos, but see Hamp 1974-5a. OIr. _denus_ [u m] "space of a day, period" probably comes from \*dinostu- and preserves a trace of PIE \*deyn- / \*din- "day" (Skt. _su-dína_- "dawning beautifully", OCS _dьnь_ "day", Lith. _dienà_ "day").
+REF: [EDPC]
+
+### <a id="dligo">\*dlig-o- "owe, be entitled to" (v)</a>
+GOID: OIr. _dligid, -dlig; -dlis_ [2s.subj.], _dlicht_ [prt.]
+W: MW _dylyu, dyly_ [3s.prs.]
+BRET: MBret. _dleout_ "must"
+PIE: \*dʰelgʰ- (IEW: 271f.)
+COGN: Go. _dulgs_ "debt", Russ. _dólg_
+ETYM: The Celtic forms reflect the zero-grade of the PIE root (\*dʰlgʰ-o-).
+REF: [EDPC]
+
+### <a id="dligito">\*dligito- "duty, debt" (n)</a>
+GOID: OIr. _dliged_ [on]
+W: MW _dled, dyled, dylyed, dlyed_ [m and f]
+SEE: [\*dlig-o- "owe"](#dligo)
+ETYM: This is a derivative (with the suffix \*-eto-) from the same root as the verb \*dlig-o- "owe".
+REF: [EDPC]
+
+### <a id="dlongo">\*dlo-n-g-o- "split" (v)</a>
+GOID: OIr. _dlongaid, -dloing_ "splits, cuts, cleaves or cuts away"; -_didlastais_ [3p.cond.]
+PIE: \*delgʰ- "hew" (IEW: 196)
+COGN: ON _telgja_ "hew, cut", Lith. _dal̃gis_ "scythe", OCS _glodati_ "gnaw"
+ETYM: Cf. also OIr. _dluige_ "splitting" < \*dlogyo-, without the nasal infix of the present stem in _dlongaid_. OCS _glodati_ is the result of metathesis (from \*dlogati)
+REF: [EDPC]
+
+### <a id="do">\*do "to" (prep)</a>
+GOID: OIr. _do, du_ [aspirating, +dat.]
+PIE: \*do, \*de (IEW: 181ff.)
+COGN: OLat. _en-do_ "in", OHG _zuo_, OCS _do_ "up to"
+ETYM: This PCelt. preposition should be distinguished from the preverb (old preposition) \*to- which merged with it in Old Irish when \*t > _d_ in pretonic syllables. Archaic Old Irish still distinguishes _do_- and _to-, tu_- in spelling.
+REF: [EDPC]
+
+### <a id="doklo">\*doklo- "hair, lock of hair" (n)</a>
+GOID: MIr. _dúal_ [o m] "plait, fold, lock of hair"
+PIE: \*doḱ-lo- "thread, hair" (IEW: 191)
+COGN: Skt. _daśā_- "fringe", Go. _tagl_ "a single hair", Croat. _dlàka_ "a single hair"
+ETYM: While Sanskrit points to the root \*deḱ-, Celtic agrees well with Germanic and Slavic (cf. the regular depalatalization in Proto-Slavic \*doklā and subsequent metathesis \*dolkā > Croat. _dlàka_).
+REF: [EDPC]
+
+### <a id="dolv">\*dol-V- "leaf" (n)</a>
+GOID: MIr. _duilne, duille_ [iā f] "leaf, foliage"
+W: MW _deil_, (GPC _dail_) [p] "leaves, foliage"; _deilen_ [sing.]
+BRET: OBret. _dol_, MoBret. _del_ [coll.] "leaves"
+CO: OCo. _delen_ [sing.] gl. _folium_
+GAUL: _pompédoula_ (Pseudo-Dioscorides IV, 42), read _pempe-dula_ "a plant (with five leaves)"
+PIE: \*dʰelh₁- "blossom" (IEW: 234)
+COGN: OE _dile_ "dill", Arm. _dalar_ "green"
+SEE: [\*dal-n- "come into being"](#daln)
+ETYM: The formations of these Celtic words do not match. OIr. _duille_ should be derived from \*dolnyā, while the Brittanic forms are from \*dolyā, and Gaulish seems to have a reflex of \*dolā. In all of these cases the Celtic forms preserve the o-grade of the PIE root in the o-grade, reconstructed here as \*dolh₁- (the loss of the laryngeal in Celtic can be the result of de Saussure's law, \*oRH > \*oR).
+REF: [EDPC]
+
+### <a id="dola">\*dolā "meadow, dale" (n)</a>
+W: MW _dol_ [f] (GPC _dôl_)
+BRET: MoBret. _Dol_- [mostly in Toponyms]
+CO: Co. _dol_
+PIE: \*dʰolh₂-o- "valley" (IEW: 245f.)
+COGN: Go. _dal_, OCS _dolъ_
+ETYM: Gr. _thaláme_ "bed", if related, shows that this root ended in \*-h₂. Otherwise, the PIE noun can be reconstructed as \*dʰolo-.
+REF: [EDPC]
+
+### <a id="dolisko">\*dol-isko- "seaweed, Pa/maria palmata" (n)</a>
+GOID: MIr. _duilesc_ [o m]
+W: MW _delysc_ [m] "fucus palmatus, edible seaweed, stuff which is cast up by the sea" (GPC _delysg, dylysg, dylusg_)​
+PIE: \*dʰelh₁- "blossom" (IEW: 234)
+SEE: [\*dal-n-](#daln), [\*dolV- "leaf"](#dolv)
+ETYM: A connection with PCelt. \*dolV- "leaf" appears probable both in terms of form and meaning. For the reconstruction of the PIE root see [\*dal-n- "come into being"](#daln).
+REF: [EDPC]
+
+### <a id="dolwo">\*dolwo- "appearance" (n)</a>
+SEE: [\*delwā "form, appearance"](#delwa)
+REF: [EDPC]
+
+### <a id="dorro">\*dorro- "harsh, rough" (adj)</a>
+GOID: MIr. _dorr_ [o]
+PIE: \*der-s- (IEW: 206ff.)
+COGN: Eng. _tarse_
+ETYM: There is little doubt that OIr. _dorr_ is from the PIE root \*der- "tear", but parallels with the suffix \*-s- are few, and limited to Germanic. Another derivative from the same root in OIr. is _doirr_ [originally ā f] "anger", which may go back to \*dorsā < \*dorseh₂.
+REF: [EDPC]
+
+### <a id="dowsant">\*dowsant- "arm, hand" (n)</a>
+GOID: OIr. _doë, doe_ [nt t]
+PIE: \*dows- "arm, fore-arm" (IEW: 226)
+COGN: Skt. _dóṣ_- "arm, fore-arm", Latv. _pa-duse_ "armpit"
+ETYM: The word formation in Celtic is unclear. In PIE, \*dows- "arm" was a root noun. The suffix \*-ant- in Celtic can hardly be a petrified formative of present active participles (as in birit "sow" < \*b er-nt-ih₂) , since there is no corresponding verb. Could \*dows-ant- be an old compound, whereby \*-ant­ is the same root as in PCelt. [\*anto- "border, limit"](#anto), [\*antono- "forehead"](#antono)? It is conceivable that the meaning "hand" was represented as "arm-limit", "the end of the arm" (cf. Go. _andeis_ "end").
+REF: [EDPC]
+
+### <a id="dragena">\*dragenā "sloetree, blackthorn, Prunus spinosa" (n)</a>
+GOID: OIr. _draigen_ [ā f]
+W: MW _draen, drain_ [m and f] "thornbush, brambles, briars"; _draenen_ [sing.]
+BRET: MBret. _dren_, MoBret. _draen_
+CO: OCo. _drain_ gl. _spina_
+GAUL: _Draganes_ [PN], \*drageno- > Fr. dial. _dren_ "raspberry"
+PIE: \*dʰergʰ- "sloetree, blackbush" (IEW: 258)
+COGN: OHG _dirn-baum_ "cornea silva, comet", Gr. _térkhnos_ "twig, branch", Russ. dial. _derën_ "comel"
+ETYM: The vocalism in Celtic is difficult, since we would expect \*drig-eno- from PIE \*dʰrgʰ-eno- with the zero-grade. PCelt. \*drageno- thus probably has the secondary, analogical full grade \*ra- sometimes found in the roots of the CLeC- structure. It is based on the proportion \*CeLC- / \*CaLC- vs. \*CLeC- / X, where X = CLaC-. Russ. dial. _derën_ "comel" and the related Slavic words (Derksen 2008: 99) bear the neo-acute due to the retraction of the stress from the final yer; they are compatible with the reconstruction of the root without a laryngeal.
+REF: [EDPC]
+
+### <a id="drika">\*drikā "face, appearance" (n)</a>
+GOID: MIr. _drech_ [ā f] "face, front"
+W: MW _drych_ [m] "spectacle, mirror, aspect"
+BRET: OBret. _dre(h)_, MBret. _derch_ "aspect", MoBret. _derc'h_ "pure"
+SEE: [\*derk-o- "see"](#derko)
+ETYM: The reflex of the velar in W _drych_ is unexpected. However, as MoBret. _derc'h_ shows, there was probably also a form \*derko- in Brittonic, and \*rk > W rch is regular. This might then be the source of analogical influence on W _drych_. MoBret. _dremm_ [f] "face" probably reflects PCelt. \*drixsmā < \*drḱ-sm-.
+REF: [EDPC]
+
+### <a id="dringo">\*dri-n-g-o- "climb, advance" (v)</a>
+GOID: OIr. _dringid, -dring; dreisi_ [2s.subj.]; _dreblaing_ [prt.]
+W: MW _dringo_ (GPC _dringo, dringio, dringad_)​
+PIE: \*dregʰ- (IEW: 212f., 254)
+COGN: Av. _dražaite_ "holds", Gr. _drássomai_, Russ. _deržát'_
+REF: [EDPC]
+
+### <a id="dristi">\*dristi- "bramble, thombush" (n)</a>
+GOID: OIr. _driss_ [i f] gl. _vepres_ "bramble, briar"
+W: OW _drissi_ [p], MW _dryssi, drissi_ [p] (GPC _drysi, drys_)​
+BRET: OBret. _drisoc_ gl. _drumentum_, MoBret. _drez_
+CO: OCo. _dreis_ gl. _vepres_
+ETYM: These Celtic words were compared to Gr. _driós_ "bush, coppice", but Schrijver (1995: 410) calls this "a mere possibility". In any case, in the absence of comparanda from other IE languages, it is difficult to reconstruct a PIE etymon (perhaps \*dris-).
+REF: [EDPC]
+
+### <a id="droko">\*droko- "wheel" (n)</a>
+GOID: MIr. _droch_ [o m]
+PIE: \*dʰrogʰo- "wheel" (IEW: 273)
+COGN: Gr. _trokhós_, Arm. _durgn_ "potter's wheel"
+ETYM: The Celtic form might be an independent formation from PIE \*dʰregʰ- "run" (Gr. trékhō, etc.). It is usually interpreted as a thematic derivative of the _phorós_-type, but its voiceless velar is unexplained (we would expect PCelt. \*drogo-). Therefore, I think one should start from the PIE root-noun nom.sg. \*dʰrōgʰs (cf. Arm. _durgn_ < \*dʰrōgʰ-) / gen. \*dʰrogʰos, and Celtic simply generalized the voiceless velar realized in the nom. before final \*-s. For a different explanation, see Hamp 1982a.
+REF: [EDPC]
+
+### <a id="druko">\*druko- "bad" (adj)</a>
+GOID: OIr. _droch_-
+W: MW _drwg_
+BRET: MBret. _drouk_, MoBret. _droug_
+CO: Co. _drog_
+GAUL: _Druca, Drucco_ [PN]
+ETYM: The IE etymology is quite uncertain. One may want to relate PCelt. \*druko- to PIE \*dʰrewgʰ- "deceive" (IEW 276, cf. Skt. _drúhyate_ "deceives", OHG _bi-triugan_ "deceive", _gi-trog_ "deceit"). The semantic evolution ("false, deceitful" > "bad") is unproblematic, but the voiceless \*-k- in Celtic (instead of \*-g-) is unexpected. Perhaps we must start from a PIE root-noun \*dʰrowgʰ-s / \*dʰrugʰ-os (attested in Skt. _drúh_- "deceit", Av. _drug_- "deceit, lie, principle of the Daeuua-world"); the root-final velar would have been regularly devoiced before \*-s in the nom.sg., and thence it could have spread to the oblique cases, hence thematicized PCelt. \*druko-. For a similar development cf. PCelt. \*gorto- "enclosure, garden, pen" < PIE \*gʰordʰ-.
+REF: [EDPC]
+
+### <a id="drungo">\*drungo- "detachment, troop" (n)</a>
+GOID: OIr. _drong_ [o m]
+W: MW _dronn_ [f] "multitude, throng, host" (GPC _dron_)​
+BRET: OBret. _drogn_ gl. _cetus_ (_coetus_)​
+SEE: [\*dring-o- "climb, advance"](#dringo)
+ETYM: These Celtic words could be early borrowings from Germanic, as suggested by IEW (252ff.), cf. OE _dryht_ "companion", OHG _truht_ "troop" (otherwise the -_u_- in the root is unexplained). The Germanic words are related to OCS _drugo_ "companion", Lith. _draugas_, etc. The nasal infix might be due to the influence of the verb \*dri-n-go- "advance" (OIr. _dringid_ etc.). Lat. _drungus_ "globus hostium" is a loanword from Gaulish (or directly from some Germanic source?).
+REF: [EDPC]
+
+### <a id="drusliyo">\*drusli(yo)- "fragment" (n)</a>
+W: MW _dryll_ [m] "broken piece, fragment"
+BRET: MBret. _druill_
+CO: Co. _dral_
+PIE: \*dʰrews- "grind, shatter" (IEW: 274f.)
+COGN: OE _drēosan_ "rush, fall, perish", Lith. _druskà_ "salt"
+ETYM: If the etymology is correct, the Celtic form is built from the zero­ grade of the PIE root with the suffix \*-li-.
+REF: [EDPC]
+
+### <a id="druto">\*drūto- "foolish, lewd" (adj)</a>
+GOID: MIr. _drúth_ [o] "professional jester, fool"
+W: MW _drut_ (GPC _drud_) "dear, valiant, foolish, foolhardy" \
+GAUL: _Truti-knos_ "Druti filius" (Todi), Gallo-Latin \*drudo- "dear" > Fr. _dru_
+ETYM: W _drud_ has an unexpected _u_, rather than _i_ < PCelt. \*ū. Maybe it was influenced by Gallo-Latin \*drudo- and its Romance reflexes, as Pokorny thinks. The only certain correspondence seems to be ON _trúðr_ "juggler, fool". It remains doubtful whether these words belong together with the words derived from PIE \*deru-/\*drew- (IEW 215).
+REF: [EDPC]
+
+### <a id="druwid">\*druwid- "priest, druid" (n)</a>
+GOID: OIr. _druí, druï_ [d m]
+GAUL: _druides_ [nom.pl.]
+ETYM: The second element of this compound is the root of the verb \*weyd- "see, know" (Skt. _véda_, etc.). The first element is presumably PIE \*derw-, \*dru- "oak" which metaphorically also meant "strong, firm". \*dru­-wid- is therefore the priest with "strong insight". The Welsh form _derwydd_ and OBret. _dorguid_ gl. _pithonicus_ are actually parallel formations.
+REF: [EDPC]
+
+### <a id="druxto">\*druxto- "vessel" (n)</a>
+SEE: [\*derwo- "firm (as an oak)"](#derwo)
+REF: [EDPC]
+
+### <a id="dubno">\*dubno- "deep" (adj), "world" (n)</a>
+GOID: OIr. _domain, doimin_ "deep" [i], OIr. _domun_ [o m] "world"
+W: MW _dwfn_ "deep"
+BRET: MBret. _doun_
+CO: Co. _down_
+GAUL: _Dumno-rix_ [PN]
+PIE: \*dʰewb(ʰ)- "deep" (IEW: 267f.)
+COGN: OE _dēop_, OCS _dъna_ "bottom", ToB _tapre_ "high", Alb. _det_ "sea"
+ETYM: On the relationship of OIr. _domun_ "world" and _domain_ "deep" see Uhlich 1995. The PIE root is often reconstructed as \*dʰewb-, but the final voiced stop \*b is based only on Germanic evidence; note also that we would expect OCS \*\*dyno from PIE \*\*dʰubno- as the result of Winter's law. Cf. also PCelt. \*dubro- "dark, unclean" which points to PIE \*dʰubʰ- (Gr. _typhlós_ "blind", etc.).
+REF: [EDPC]
+
+### <a id="dubro">\*dubro- "dark" (adj)</a>
+GOID: MIr. _dobur_ [o] "black, unclean"
+W: MW _dwfr, dwr_ [m] (GPC _dwr_) "water"
+BRET: MBret. _dour_
+CO: Co. _dour_
+GAUL: _Dubra, Uerno-dubrum_ [Toponym]
+PIE: \*dʰubʰ- "black" (IEW: 263ff.)
+COGN: Go. _daufs_ "deaf", Gr. _typhlós_ "blind"
+SEE: [\*dubu- "black"]()
+ETYM: OIr. has also the substantivized adjective _dobur_ "water" (DIL D- 218), which presumably developed from the syntagm "dark water", or "deep water" (cf. PCelt. \*dubno- "deep"). A similar development also occurred in Brittonic, and (probably) Gaulish.
+REF: [EDPC]
+
+### <a id="">\*dubu- "black" (adj)</a>
+GOID: OIr. _dub_ [u], Ogam _DOVA-GNI_
+W: OW _Dub_-, W _du_
+BRET: OBret. _du_, MBret. _duff_, MoBret. _du_
+CO: OCo. _duw_ gl. _niger_
+GAUL: _Dubis_ [Hydronym]
+PIE: \*dʰubʰ- (IEW: 264)
+COGN: Gr. _typhlós_ "blind", Go. _daufs_
+SEE: [\*dubro- "dark, unclean"](#dubro)
+ETYM: The Gaulish forms in -_i_- are best derived from a feminine \*_dubwī_ built to the stem in \*-u-, cf. OIr. (Ogam) _CULIDOVI_ < \*Kūlidubwī (with the regular development of \*bw > Ogam V, see Uhlich 1989).
+REF: [EDPC]
+
+### <a id="duko">\*duk-o- "lead, carry" (v)</a>
+W: MW _dwyn_ (GPC _dwyn, dygyd, dygu_), _dygaf_ [1s.prs.]; _dwc_ [3s.prs.]; _duc_ [prt.]
+BRET: MBret. _do(u)en_ "carry"
+CO: Co. _doen_ "take, bring, steal"
+PIE: \*dewk- (IEW: 220f.)
+COGN: Lat. _dūco_ "lead", Go. _tiuhan_ "pull"
+REF: [EDPC]
+
+### <a id="">\*dūno- "fort, rampart" (n)</a>
+GOID: OIr. _dún_ [on]
+W: MW _din_ [m in Toponyms], _dinas_ [m and f]
+BRET: OBret. _din_ gl. _arx_, MoBret. _din_ [m]
+CO: Co. _dyn_
+GAUL: _dunum_ (in Latin authors), _-dunum_ [in PN]
+PIE: \*dʰuHno- "enclosure" (IEW: 260)
+COGN: OE _dūn_ "down, moor, height"
+ETYM: Eng. _town_, Germ. _Zaun_ etc. presumably represent PGerm. \*tūno-, which is an old loanword from Celtic. EIEC 210, following Watkins 1990, relates Celtic \*dūno- to Lat. _fūnus_ "burial" (from earlier unattested \*"burial mound"). This is a speculation, but not inherently impossible.
+REF: [EDPC]
+
+### <a id="durno">\*durno- "fist" (n)</a>
+GOID: OIr. _dorn, dornn_ [o m]
+W: MW _dwrn_ [m]
+BRET: OBret. _durn_, MoBret. _dourn_
+GAUL: _Dago-durnus_ [PN]
+ETYM: OFr. _dor_, Pr. _dorn_ "fist" are presumably Gaul. loanwords. The IE etymology of these Celtic words in IEW (203) cannot be accepted (Alb. _dorë_ "hand" is from PIE \*ǵʰesr "hand", Gr. _kheír_, etc.). Probably a loanword from a non-IE language.
+REF: [EDPC]
+
+### <a id="dus">\*dus- "bad, ill-" (pref.adj., adv.)</a>
+GOID: OIr. _do-, du-_ (e.g. _do-chla_ "inglorious")
+W: MW _dy_- (e.g. in _dyfydd_ "gloomy")
+PIE: \*dus- "ill-, mis-" (IEW: 227)
+COGN: Skt. _duṣ_-, Lat. _dif-ficilis_ "difficult"
+ETYM: The lenition after OIr. _do_-, _du_- is due to the analogy with \*so-, \*su­ < PIE \*h₁su-. Lat. _difficilis_ is from \*dus-facilis.
+REF: [EDPC]
+
+### <a id="">\*du(s)bwuyo- "gloom, grief" (n)</a>
+GOID: OIr. _dubae_ [?io n]
+W: MW _dyfydd_ [m] (IEW: 148)
+SEE: [\*bu-yo- "be"](#buyo)
+ETYM: Cf. also Ogam _DOVINIA_ < \*du-bwīnyā (Uhlich 1989).
+REF: [EDPC]
+
+### <a id="dusno">\*dusno- "dark, brown" (adj)</a>
+GOID: OIr. _donn_ [o]
+W: MW _dwnn_ (GPC _dwn_)​
+PIE: \*dʰews- "dark"
+COGN: Lat. _fuscus_ "dusky", OE _dox_ "dark coloured, dusky"
+ETYM: Gaulish names like _Dunnius, Dunnonia_ might be related (Delamarre 154). OIr. _donn_ "noble" (IEW 121) is a different word. The Celtic forms can be derived from PIE \*dʰus-no- (cf. \*dʰus-wo- > Lat. _furuus_ "dusky").
+REF: [EDPC]
+
+### <a id="duxtir">\*duxtīr "daughter" (n)</a>
+GOID: OIr. _Der-, Dar-_ [elements of PN], e.g. _Dar-inill_; Dechtir [PN]
+GAUL: _duxtir_ (Larzac)
+CELTIB: _tuateros_ [gen.sg.] (Botorrita III)
+PIE: \*dʰugh₂tēr "daughter" (IEW: 277)
+COGN: Hieroglyphic Luv. _tuwatar_-, Skt. _duhitár_-, Gr. _thygátēr_, Go. _dauhtar_, Lith. _duktė̃_, OCS _dъšti_, ToB _tkācer_, Arm. _dustr_
+ETYM: OIr. _der_ [f] "girl" and _der_- in compounds and PNs (Moir. _Der­-droighen_) is probably the reduced form of the word for "daughter" in OIr. It may be an allegro-form of the word. The loss of \*x and the development of _a_ in Celtiberian _tuateros_ (also attested in nom.pl. _tuateres_) is unexplained.
+REF: [EDPC]
+
+### <a id="dwaw">\*dwāw "two" (num)</a>
+GOID: OIr. _dáu, dóu, dó_ [m, aspirating]; _di, dí_ [f, aspirating]; _da, dá_ [n, nasalizing]
+W: OW _dou_, MW _deu_ (GPC _dau_); _dwy_ [f]
+BRET: OBret. _dou, dau_, MBret. _dou_, MoBret. _dow_
+CO: Co. _dow, dew_
+PIE: \*dwoh₁ "two" (IEW: 228f.)
+COGN: Lat. _duo_, Skt. _dvā́_, Gr. _dýō_, OE _tū_, Lith. _dù_, OCS _dъva_, Arm. _erku_, ToB _wi_, Alb. _dy_
+ETYM: The feminine form of PCelt. \*dwāw "two" was \*dwī (< PIE \*dw-ih₂) . This form was shortened in proclisis in OIr., but the vowel length was preserved in the stressed position. Cf. also MIr. _fo-dí_ "twice" < \*(ufo­-)dwis (Lat. _bis_, Gr. _dís_ < PIE \*dwis).
+REF: [EDPC]
+
+### <a id="dwayo">\*dwāyo- "slow" (adj)</a>
+GOID: OIr. _dóe_ [io] gl. _tardus_ "slow, sluggish"
+PIE: \*duh₂ "far, long distance" (IEW: 219f.)
+COGN: Skt. _dávīyas_- "further, more distant", Gr. _dḗn_ "far" (Adv.), Lat. _dū-dum_ "some time ago", Arm. _tev_ "duration", perhaps Hitt. _tūwaz_ "from afar"
+ETYM: It might also be possible to derive OIr. _dóe_ from PCelt. \*dāwyo- < PIE \*dōwh₂yo- with the lengthened grade of the root (attested in Slavic, cf. Croat. _dâvnī_ "very old, ancient"). In PIE, an ablauting paradigm must be assumed: nom.sg. \*dwōh₂s, acc.sg. \*dweh₂m (cf. Gr. _dḗn_ < \*dwān), gen.sg. \*duh₂os (cf. Lat. _dū-dum_).
+REF: [EDPC]
+
+### <a id="dweblo">\*dwēblo- "double" (adj)</a>
+GOID: OIr. _díabul_ [o]
+PIE: \*dwey-plo- "double" (IEW: 228ff.)
+COGN: Go. _tweifls_, Lat. _duplus_
+REF: [EDPC]
+
+### <a id="dweno">\*dweno- "strong" (adj)</a>
+GOID: MIr. _de(i)n_ [o] "pure, clean, firm, strong"
+PIE: \*dweno- "good, favourable" (IEW: 218f.)
+COGN: Skt. _dúvas_- "worship, offering, reverence", OLat. _duenos_, Lat. _bonus_ "good"
+ETYM: The meaning of MIr. _dein_ is not completely clear according to DIL; it appears to be indeclinable and occurs only in poetry. LEIA (D-49) claims that MIr. _dein_ can be just a variant of _dían_ "swift", but this appears less probable because of the semantic difference. Moreover, _dein_ appears quite consistently spelled with short _e_, while _é_ would be expected. The PIE etymology is tentative; Mayrhofer (s.v. _dúvas_-) derives this word from PIE \*deh₃- "give" with the suffix \*-w- (PIE \*dh₃u(w)es-). Although somewhat artificial, such a derivation might also be possible for Italic and Celtic (\*dh₃u-eno- > \*dweno-).
+REF: [EDPC]
+
+### <a id="dwi">\*dwī "two" (f.) (num)</a>
+SEE: [\*dwāw "two"](#dwaw)
+REF: [EDPC]
+
+### <a id="dwis">\*dwis "twice" (adv)</a>
+SEE: [\*dwāw "two"](#dwaw)
+REF: [EDPC]
+
+### <a id="dwitu">\*dwītu- "loss, destruction" (n)</a>
+GOID: OIr. _díth_ [u ?n, m] gl. _detrimentum_ "destruction"
+PIE: \*dʰweh₁- "die" (IEW: 260)
+COGN: OHG _tauwen_ "die", OCS _daviti_ "strangle"
+ETYM: Lat. _fūnus_ "burial" could also be related (if from \*dʰuh₁nos), but it has also been connected quite persuasively with Hitt. _tuhhus<sup>zi</sup>_ "to end" (de Vaan 2008: 251).
+REF: [EDPC]
+
+### <a id="dwiyot">\*dwīyot- "smoke" (n)</a>
+GOID: OIr. _dé_ [d f]; _díad_ [gen.sg.]
+PIE: \*dʰewh₂ "make smoke, fumigate" (IEW: 261ff.)
+COGN: Lat. _suffio_ "fumigate", Lith. dial. _dujà_ "mist", ToB _tweye_ "dust"
+ETYM: Cf. also OIr. _dethach_ [ā f] "smoke" < \*dwit-ākā. We should probably start from PIE \*dʰuh₂yo-, which developed as \*dʰwīyo-, the immediate proto-form of Lat. _suf-fio_ (Kortlandt 2007: 136). In Celtic, a dental suffix was added to this stem, hence PCelt. \*dwīyot-.
+REF: [EDPC]
+
+### <a id="dwora">\*dworā, \*duro-, \*dworestu- "door" (n)</a>
+GOID: OIr. _dorus_ [u m], _Dor, Duir_ [Toponyms]
+W: OW _dor_, MW _dor_ [f] (GPC _dôr_), _drws_ [m]
+BRET: MBret. _dor_
+CO: Co. _dor, darat_
+GAUL: _Augusto-durum_ [Toponym] ("Forum Augusti")
+PIE: \*dwor- "door" (IEW: 278)
+COON: Lat. _forēs_, Gr. _thýrā_, ToB _twere_
+ETYM: The Celtic forms are actually not easy to subsume under a single etymon. We might be dealing with a PCelt. ablauting paradigm, nom.sg. \*dwār, acc. \*dwor-am (from which we have the Brittonic forms and, with a suffix, OIr. _dorus_, W _drws_ < \*dwor-es-tu-), gen.sg. \*dur-os (from which we can derive Gaul. -_durum_ and the OIr. toponyms _Dor, Duir_.
+REF: [EDPC]
+
+### <a id="dwosyo">\*dwosyo- "human being" (n)</a>
+GOID: MIr. _doé, dae_ [io? m]
+PIE: \*dʰwes- "breathe" (IEW: 268ff.)
+COGN: Lith. _dūsiù_, OCS _dyšati_, Germ. _Tier_ "animal"
+ETYM: Middle Irish _doé_ is attested chiefly in poetic texts. A possible parallel in Gaul. is _Dusios_ "a kind of demon, incubus", attested in the works of Lat. writers (e.g. Augustine). See Delamarre 158.
+REF: [EDPC]
