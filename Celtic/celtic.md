@@ -2023,7 +2023,7 @@ ETYM: The Irish word is attested late, and its original stem formation is uncert
 REF: [EDPC]
 
 ### <a id="datla">\*datlā "assembly, meeting" (n)</a>
-GOID: OIr. _dál_ [ā f] "meeting, encounter"; i ndail "near, along with"; i ndail n- "towards"
+GOID: OIr. _dál_ [ā f] "meeting, encounter"; _i ndáil_ "near, along with"; _i ndáil n_- "towards"
 W: MW _dadl, dadyl_ [m]
 BRET: OBret. _dadl_ gl. _concio_, MoBret. _dael_ [f] "dispute"
 CO: OCo. _datheluur_ gl. _concionator_
@@ -2137,7 +2137,7 @@ SEE: [\*demi- "dim, dark"](#demi)
 REF: [EDPC]
 
 ### <a id="deno">\*dēno- "fast" (adj)</a>
-GOID: OIr. _dían_ [o] gl. creber
+GOID: OIr. _dían_ [o] gl. _creber_
 PIE: \*deyh₁- "fly, move swiftly" (IEW: 187)
 COGN: Skt. _dī́yati_ "fly", Gr. _díemai_ "hasten"
 ETYM: The OIr. form can be regularly derived from PIE \*deyh₁no-.
