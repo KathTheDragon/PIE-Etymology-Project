@@ -950,7 +950,7 @@ ETYM: The Brittonic forms point to PCelt. \*bando-, as if from the zero­ grade 
 REF: [EDPC]
 
 ### <a id="bando">\*bando- "peak, top" (n)</a>
-GOID: OIr. _benn_ [a t] "peak, horn, mountain, crest"
+GOID: OIr. _benn_ [ā f] "peak, horn, mountain, crest"
 W: MW _bann_ [m and t] "peak, top, horn, beam" (GPC _ban​_)​
 BRET: MBret. _ban_, MoBret. _bann_ [m] "peak"
 CO: Co. _ban_
