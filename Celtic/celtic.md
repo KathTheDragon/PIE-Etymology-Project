@@ -2641,3 +2641,248 @@ PIE: \*dʰwes- "breathe" (IEW: 268ff.)
 COGN: Lith. _dūsiù_, OCS _dyšati_, Germ. _Tier_ "animal"
 ETYM: Middle Irish _doé_ is attested chiefly in poetic texts. A possible parallel in Gaul. is _Dusios_ "a kind of demon, incubus", attested in the works of Lat. writers (e.g. Augustine). See Delamarre 158.
 REF: [EDPC]
+
+## E
+
+### <a id="e">\*ē- "this, that" (pron)</a>
+GOID: OIr. _é, hé_ "he"; _ed_ "it"
+GAUL: _eia_ "she" [f] (Larzac)
+PIE: \*(h₁)ey- "that"
+COGN: Lat. _is_, OHG _er_, Lith. _jìs_
+ETYM: The masculine form of this pronoun is unattested in Gaul. In Insular Celtic, the feminine form (\*ī, or \*eyā) was replaced by the pronominal stem \*sih₂ > OIr. _sí_ "she".
+REF: [EDPC]
+
+### <a id="eburo">\*eburo- "yew" (n)</a>
+GOID: OIr. _ibar_ [o m]
+W: MW _efwr, ewr_ [m] "cow parsnip, hog-weed"
+BRET: MBret. _heuor, euor_, MoBret. _evor_ [coll.]
+GAUL: _Eburo-dunum_ [Toponym]
+CELTIB:? _Ebur-sunos_ [PN]
+PIE: \*h₁ebʰro- "yew" (IEW: 334)
+COGN: Germ. _Eber-esche_, Alb. dial. _bershe_
+SEE: [\*yewo- "yew"](#yewo)
+ETYM: Cf. also Fr. _bourdaine_ (Fr. dial. _bourdaigne_, OFr. _borjaine_) "alder", perhaps from Gaul. \*eburyenā (Gamillscheg 136). PCelt. \*eburo- should not be confused with PCelt. \*yewo-, as in EIEC 654. Derivation from PIE \*h₁erbʰ- "dark, brown" (Gr. _orphnós_, OE _eorp_, etc.) in IEW (334) is quite speculative.
+REF: [EDPC]
+
+### <a id="edo">\*ed-o- "eat" (v)</a>
+GOID: OIr. _ithid, -ith; estair, -estar_ [subj.]; _ísaid, -ísa_ [fut.]
+PIE: \*h₁ed- "eat" (IEW: 287f.)
+COGN: Skt. _ádmi_, Gr. _édomai_, Lat. _edo_, Go. _itan_, Hitt. _ēd_-, Lith. _ė́sti_, OCS _jasti_
+ETYM: OIr. _ithid_ has _th_ (instead of the expected \*d) perhaps because of the analogical influence of the nominal forms derived from PCelt. \*fitu- "food" (> OIr. _ith_ "grain"). Some linguists claim that this verb formed a "Narten" (or lengthened grade) present in Proto-Celtic, in which case the correct reconstruction would be PCelt. \*īd- / \*ed- (with subsequent leveling to \*īd- / \*id-). See the discussion in KPV 378ff. for a rather complex explanation of the attested forms. On the other hand, a reduplicated present \*h₁i-h₁d- (with the generalized zero-grade of the root from the plural) would also account for the i-vocalism without the need for positing a lengthened grade (the future stem of OIr. ís- is from the PIE desiderative \*h₁i-h₁d-se-). The root \*h₁ed- may also be attested in MW _cyfeddach_ [m and f] "feasting, banqueting" < PCelt. \*kom-ed-āko-.
+REF: [EDPC]
+
+### <a id="efino">\*efino- "right, correct, equal" (adj)</a>
+W: MW _iawn_ [m] "truth, rightness"
+BRET: MBret. _effn_, MoBret. _eun_ "right, simple"
+CO: Co. _ewn_ "righteous, correct"
+PIE: \*h₁ep-(i)no- "even" (IEW: 505)
+COGN: Go. _ibns_ "flat, even", OHG _eban_ "equal, same"
+ETYM: There are some formal difficulties with this etymology; a pre-form \*epno-, the exact match of the Germanic words, would presumably develop as \*ewno- > \*owno- > W \*\*un. Could these words be derived from PIE \*h₁epi- "on, by" with the suffix \*-no-? The vowel \*-i- could have been lost in Germanic through syncope. The type of formation would be parallel to PCelt. \*efirom "behind".
+REF: [EDPC]
+
+### <a id="efirom">\*efirom "after, behind" (prep)</a>
+GOID: OIr. _íar_ [nasalising, +dat.]
+PIE: \*h₁epi-, \*h₁opi- "near, on" (IEW: 323)
+COGN: Skt. _ápi_, Arm. _ev_ "and, also", Alb. _epërë_ "upper"
+ETYM: PCelt. \*efirom presupposes, first, a nominalized PIE \*h₁epi-ro-m "behind", which then became a relational noun, and finally a preposition. The, phonetic development was regular: \*h₁epiro- > \*efiro- > \*eyro- > \*ero- > OIr. _íar_. The underived preposition \*efi (Gr. _epí_, etc.) is preserved as the preverb of OIr. _íadaid_ "closes" < \*efi-dā-.
+REF: [EDPC]
+
+### <a id="ekwalo">\*ekʷālo- "foal" (n)</a>
+SEE: [\*ekʷo- "horse"](#ekwo)
+REF: [EDPC]
+
+### <a id="ekwo">\*ekʷo- "horse" (n)</a>
+GOID: OIr. _ech_ [o m], Ogam _EQO-DDI_
+W: MW _ebawl_ "foal" [m] (GPC _ebol_)​
+BRET: OBret. _eb_ "horse", _ebol_ "foal", MBret. _ebeul_ [m]
+CO: OCo. _ebol_ gl. _pullus_
+GAUL: _Epos_ [PN]
+CELTIB: _Ekua-laku_ [PN] (A.63)
+PIE: \*h₁eḱwo- "horse" (IEW: 301)
+COGN: Luv. _assu_-, Skt. _aśva_-, Lat. _equus_, Gr. _híppos_, OE _eoh_, Lith. _ašvà_ "mare", ToB _yakwe_, Arm. _ēš_
+ETYM: Gaul. _Equos_ "name of the ninth month" (Coligny) might be an archaic form (with preserved _qu_ < \*kw), but it might also be a Latin loanword (although this possibility is seldom taken into consideration). The Brit. forms (except OBret. _eb_) are from a derivative \*ekʷālo- (cf. also Celtib. _ekualaku_ and _ekualakos_, which has been interpreted as a nom.sg. of an adjective "belonging to _ekuala_"). MoBret. has also the compound _ken-eb_ "pregnant, inseminated mare".
+REF: [EDPC]
+
+### <a id="elv">\*elV- "swan" (n)</a>
+GOID: OIr. _elu_, MIr. _elae, ela_ [? t]
+W: MW _alarch_ [m and t]; _eleirch, elyrch_ [f]
+BRET: MoBret. _alarc'h_ [m]
+CO: OCo. _elerhc_ gl. _olor .l. cignus_, Co. _alargh_
+PIE: \*h₁el- "swan" (IEW: 304)
+COGN: Lat. _olor_
+ETYM: The Brittonic forms are derivable from \*elarsko- according to Schrijver (1995: 76). W _eleirch_ (also PN Eleirch) and OCo. _elerhc_ are from the feminine \*elarski. The OIr. form might imply PCelt. \*elon-, but the oblique cases are not attested, so we cannot be sure if this word was originally an n-stem. If so, the non-operation of Joseph's rule is expected in OIr., while its operation is regular in Brittonic. Russ. _lébed'_, OHG _albiz_ "swan" show what is presumably the same root with the suffix \*-bʰ-, which is common with animal and bird names.
+REF: [EDPC]
+
+### <a id="elanti">\*elan(t)ī "doe, hind" (n)</a>
+GOID: OIr. _elit, ailit_ [ī f]
+W: MW _elein_, (GPC _elain_) [m and f]
+GAUL: _Elantia_ [NP]
+PIE: \*h₁elh₁nih₂ "hind-elk, adult female _Cervus elaphus_" (IEW: 303f.)
+COGN: Gr. Hom. _ellós_ "young of the deer", Lith. _álnė_, OCS _lani_ "young of the deer", Arm. _ełn_ "deer"
+ETYM: The OIr. and Gaul. forms are derivable from PCelt. \*elantī, while MW _elain_ points to \*elanī, with clearer parallels in other languages. Gaul. _elembiu(os)_ "tenth month of the year" (Coligny) is often compared with these words, and interpreted as "deer month", but I find this rather dubious. If it does belong here, Gaul. _elembiu(os)_ contains the same suffix \*-bʰ- seen in Gr. _élaphos_ "red deer, elk". MIr. _ell_ "herd", if related, may be from a collective \*elnā (with unexpected loss of the laryngeal as in Gr. Hom. _ellós_).
+REF: [EDPC]
+
+### <a id="emo">\*em-o- "take" (v)</a>
+GOID: OIr. _ar-foím_ "receive, allow"; _ar-a-foíma_ [3s.subj.rel.]; _ar-fóet_ [prt.]
+PIE: \*h₁em- "take" (IEW: 310)
+COGN: Lat. _emo_ "take", Lith. _im̃ti_ "take", ORuss. _jati_
+ETYM: OIr. _ar-foím_ is from \*fare-ufo-em-e-; the simplex verb is unattested.
+REF: [EDPC]
+
+### <a id="enatro">\*enātro- "entrails, bowels" (n)</a>
+GOID: MIr. _inathar_ [o m]
+PIE: \*h₁eh₁tro- "internal organ"
+COGN: Gr. _ē̃tor_ "heart", OHG _ādara_ "vein"
+ETYM: The OIr. form can be derived from PIE \*h₁en-h₁oh₁tro-, with the o­ grade of the root and the prefix \*h₁en- "in".
+REF: [EDPC]
+
+### <a id="enekwo">\*enekʷo- "face" (n)</a>
+GOID: OIr. _enech_ [on], Ogam _INEQA-GLAS_ [PN]
+W: OW _enep_ [m], MW _wyneb_
+BRET: OBret. _enep_
+CO: OCo. _eneb_ gl. _pagina_
+PIE: \*h₁en-h₃ekʷo- "face" (IEW: 775ff.)
+COGN: Skt. _ánīka_-, Gr. _ṓps, enōpḗ_ "face", OCS _oči_ "eyes"
+ETYM: This is an old compound meaning something like "that on which eyes are located", cf. Skt. _ánīka_- < \*h₁eni-h₃kʷo-. The PCelt. form presupposes \*h₁en-h₃ekʷo- > \*enokʷo- > \*enekʷo- (by vowel assimilation). For the prefix \*en- rather than \*eni- in PCelt. cf. \*enatro- "entrails, bowels". For a different explanation see Wodtko _et alii_ 2008: 380 (with references).
+REF: [EDPC]
+
+### <a id="eni">\*eni "in" (prep)</a>
+GOID: OIr. _i_ [nasalising, +dat. and +acc.], Ogam _INI-GENA_ "daughter"
+W: OW _in_, MW _yn_
+BRET: MBret. _en_
+CO: Co. _yn_
+PIE: \*(h₁)eni "in" (IEW: 311)
+COGN: Gr. _éni, en_, Lat. _in_, Go. _in_
+ETYM: For a possible derivation of OIr. _inne_ "essence, quality, middle" [yā f] from PCelt. \*en-n-yā (an abstract based on unattested \*en-no-), see Lindeman 1999a and cf. Go. _inna_ "inside".
+REF: [EDPC]
+
+### <a id="enifedo">\*eni-fedo- "position, place" (n)</a>
+GOID: OIr. _ined_ (DIL _inad_) [o m]
+PIE: \*(h₁)eni-pedo-, from \*pedo- "track, footprint" (IEW: 791f.)
+COGN: Hitt. _pēdan_ "place", Lat. _peda_ "sole", Arm. _het_ "footprint, track"
+ETYM: This is a speculative etymology, since OIr. _ined_ would be compatible with several PCelt. proto-forms, but the semantic development that has to be assumed is quite unproblematic (cf. Hitt. _pēdan_ "place").
+REF: [EDPC]
+
+### <a id="enisti">\*eni-sti "island" (n)</a>
+GOID: OIr. _inis_ [ī f]
+W: MW _ynys_ [f]
+BRET: OBret. _inis_, MBret. _enes_
+CO: Co. _enys_
+PIE: \*(h₁)eni-sth₂-ih₂
+SEE: [\*sta-tlā "heel"](#statla), [\*si-sta- "stand"](#sista)
+ETYM: The PCelt. reconstruction is ambiguous and disputed. PCelt. \*inistī and \*inestī are also possible, but only \*enistī makes sense from the PIE point of view. It is derivable from \*(h₁)eni-sth₂-ih₂ "that which stands in (the water)", cf. Hamp 1974. For a similar semantic development cf. Lat. īnsula < \*en-salā "that which is in the salt (sea)". For a different opinion, see de Vaan 2008: 306; he rejects the usual derivation of īnsula from \*en-salā and reckons with the possibility that this word, as well as the Celtic words for "island", and Gr. nē̃sos, are loanwords from some non-IE source.
+REF: [EDPC]
+
+### <a id="enter">\*enter "between" (prep)</a>
+GOID: OIr. _eter_ [aspirating in MIr., +acc.]
+W: OW _ithr_, MW _ythr_
+BRET: OBret. _entr_-, MBret. _intre_
+CO: Co. _yntre, ynter_
+GAUL: _Entarabo_ [Theonym dat. p]
+CELTIB: _entara_ (Botorrita I)
+PIE: \*h₁enter "into, between" (IEW: 313)
+COGN: Skt. _antár_, Lat. _inter_, OHG _untar(i)_, Alb. _ndër_
+REF: [EDPC]
+
+### <a id="erba">\*erbā "fallow deer, roedeer" (n)</a>
+GOID: OIr. _erp, eirp, erb_ [?n f] gl. _dama_ and gl. _capra_ "she-goat, doe, roe"
+PIE: \*h₁er- "lamb, kid" (IEW: 326)
+COGN: Umbr. _eriet_- "ram", Lat. _ariēs_ "ram", Gr. _ériphos_ "young goat, kid"
+ETYM: Cf. also Scottish Gaelic _earb_ "roedeer". According to DIL, OIr. _erp_ could be an n-stem, but this is not certain. It is also unclear whether MIr. _ferb(b)_ [ā f] "cow, hind" is also related to this etymon. This poetic word might have a secondary _f_- by confusion with words where the alternation of _f_ and vocalic anlaut arises in leniting contexts. On the other hand, _ferb_ has been compared with Lat. _ueruex_ "ram, wether", but the semantic connection is weak.
+REF: [EDPC]
+
+### <a id="erbyo">\*erb-(y)o- "entrust, leave (after death)" (v)</a>
+GOID: OIr. _erbaid, -erbai_ "entrusts, commits"
+GAUL: _Orbius_ [PN]
+PIE: \*h₁erbʰ - (IEW: 781f.)
+COGN: Lat. _orbus_ "bereft, parentless", Gr. _orphanós_, Go. _arbja_ "inheritance"
+SEE: [\*orbo- "heir"](#orbo)
+ETYM: This etymology is not completely ascertained; OIr. _orb_ "heir" and the nominal forms of IE cognates cited here must be from \*h₁orbʰ-, although some would reconstruct \*h₃erbʰ- for this PIE root (see Weiss 2006).
+REF: [EDPC]
+
+### <a id="eriro">\*eriro- "eagle" (n)</a>
+GOID: MIr. _irar_ [o m] (DIL _ilar_)
+W: MW _eryr_ [m and f]; _eryrod, eryron_ [p]
+BRET: MBret. _erer_ [m], _er_ [m]
+CO: OCo. _er_
+PIE: \*h₃er- "eagle" (JEW: 325f.)
+COGN: Hitt. _hāras_-, Gr. _órnis_ "bird", Lith. _erẽlis_, OCS _orъlъ_
+ETYM: It is difficult to reconcile the vocalism of the Celtic words with the word-initial \*h₃, assured by Hittite. Word-initial _e_- in Lithuanian is due to assimilation \*_are_- > \*_ere_-, but such an explanation cannot hold for Celtic, so maybe the traditional connection with PIE \*h₃er- is wrong after all, or these words were transformed irregularly for tabooistic reasons. Co. _er_ and MoBret. _er_ might represent underived PCelt. \*ero-. Delamarre thinks that Gaulish names in _Erno_- might be related, but I do not find this very convincing (there is no other evidence for the stem \*erno- in Celtic).
+REF: [EDPC]
+
+### <a id="erra">\*errā "back, hinder-part, extremity" (n)</a>
+GOID: MIr. _err_ [ā f]
+PIE: \*h₁erso- "rear-end, buttocks" (JEW: 340)
+COGN: Hitt. _ārra_- "rump", Gr. _órros_ "backside", OE _ears_ "arse"
+ETYM: I am not sure whether MIr. _err_ "point, spike" is the same word as _err_ "end, tail" as stated by DIL (the semantic connection would be through the meaning "extremity"). IE cognates point to \*h₁orso-. Lat. _dorsum_ "back" might also be related, if it is from \*tod h₁orsom, with false word division. This word is often derived from \*dē-uorsum (from _uerto_ "turn"), but we would expect \*rs > Lat. _rr_ (de Vaan 2008: 180).
+REF: [EDPC]
+
+### <a id="es">\*es- "be" (v)</a>
+GOID: OIr. _is_ [3s.prs. copula]; _am_ [1s.prs. copula]; _it_ [3p.prs. copula]
+W: OW _is_, MW _ys_ [3s.prs.]; _hint_ [3p.prs.]; _oedd_ [prt.]
+BRET: OBret. _is_
+CO: Co. _os, oys_
+GAUL: _immi_ [1s.prs.] (Pennes-Mirabeau)
+PIE: \*h₁es- "be" (JEW: 340ff.)
+COGN: Skt. _ásmi_, Lat. _sum, esse_, Gr. _eimì_, OCS _jesmb_
+ETYM: The comparison of OIr. _is_ : _it_ with MW _ys_ : _hint_ shows that the PCelt. present paradigm had ablaut (3 sg. \*esti: 3 pl. \*senti).
+REF: [EDPC]
+
+### <a id="eskyo">\*ēskyo- "moon" (n)</a>
+GOID: OIr. _escae, esca, eisce_ [io n, later m]
+PIE: \*h₁eysk- "shine, glitter" (JEW: 16f.)
+COGN: OCS _iskra_ "spark", Lith. _áiškus_ "bright", Russ. _jáska_ "bright star"
+ETYM: In OIr., this word replaced the earlier word for moon, _lúan_ (see \*lowxsna). Its Baltic and Slavic cognates are usually derived from PIE \*h₂eysk-, but on meagre evidence. Actually, it is equally possible to reconstruct an ablauting root \*h₁eysk- > PCelt. \*ēsk-, \*h₁isk- > OCS iskra, \*h₁oysk- > Russ. _jáska_, Lith. _áiškus_. The acute in BSl. may be the result of a secondary BSl. vrddhi, or metatony; another possibility would be to reconstruct the PIE root as \*h₁eyHsk-, but this root shape would be quite unusual.
+REF: [EDPC]
+
+### <a id="esok">\*esok- "salmon" (n)</a>
+GOID: OIr. _eó, eú_ [km]
+W: MW _ehawc_ (GPC _eog_) [m]
+BRET: MBret. _eheuc_
+CO: OCo. _ehoc_ gl. _isicius_
+GAUL: \*esoks > Lat. _esox_ (Pliny)
+ETYM: The Brittonic forms were reshaped, and are derivable from \*esāko­ (on the analogy with the frequent formations in Celt. \*-āko-). Basque _izokin_ "salmon" is ultimately a Celtic loanword rather than vice versa.
+REF: [EDPC]
+
+### <a id="eti">\*eti "yet, still, but" [Conjunction]</a>
+BRET: OBret. _et_-
+GAUL: _eti_ (La Graufesenque)
+PIE: \*h₁eti "beyond" (IEW: 344)
+COGN: Lat. _et_ "and", Skt. _áti_ "beyond, over"
+ETYM: Gaul. _etic_ "and" (Chamalieres) is from \*eti-kʷe.
+REF: [EDPC]
+
+### <a id="exs">\*exs "out of, from" (prep)</a>
+GOID: OIr. _ess-, ass-, a_
+W: MW _ech, eh_
+BRET: OBret. _ech_
+GAUL: _ex_-
+CELTIB: _es, es_-
+PIE: \*(h₁)eǵʰs (IEW: 292f.)
+COGN: Lat. _ex_, Gr. _eks_, Lith. _iš_-, OCS _iz_
+REF: [EDPC]
+
+### <a id="exsobniya">\*exs-obniyā "boldness" (n)</a>
+SEE: [\*exs-obno- "fearless"](#exsobno)
+REF: [EDPC]
+
+### <a id="exsobno">\*exs-obno- "fearless" (adj)</a>
+GOID: OIr. _essamin_, (DIL _es(s)amain_)​
+W: MW _ehouyn_ (GPC _eofa, eon_)​
+GAUL: _Exobnus_
+SEE: [\*obnu- "fear"](#obnu)
+ETYM: Cf. also OIr. _es(s)amnae_ [iā f] "boldness, confidence" < \*exsobniya.
+REF: [EDPC]
+
+### <a id="extero">\*extero- "without, outside" (prep)</a>
+GOID: OIr. _echtar_
+W: MW _eithr, eithyr_
+SEE: [\*exs](#exs), [\*extos](#extos)
+REF: [EDPC]
+
+### <a id="extos">\*extos "except, but" [Conjunction, Preposition]</a>
+GOID: OIr. _acht_
+PIE: \*egʰs-to- "out" (IEW 292f.)
+COGN: Gr. _ektós_
+SEE: [\*extero- "without"](#extero)
+REF: [EDPC]
