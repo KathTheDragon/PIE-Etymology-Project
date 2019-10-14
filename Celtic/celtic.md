@@ -995,7 +995,7 @@ GAUL: _Banuus_ [PN]
 ETYM: There do not seem to be any clear cognates in other IE languages, so this word is, in all likelihood, a loanword from some non-IE source.
 REF: [EDPC]
 
-### <a id="barageno">\*barag(en)o/a "(barley) bread" (n)</a>
+### <a id="barageno">\*barag(en)o/ā "(barley) bread" (n)</a>
 GOID: OIr. _bairgen_ [ā f] "bread, loaf"
 W: MW _bara_ [m]
 BRET: MBret. _bara_ [m]
