@@ -168,7 +168,7 @@ ETYM: W _eirin_ is from the original neuter plural \*agrinya. Cat. _aranyo_, Pr.
 REF: [EDPC]
 
 ### <a id="agro">\*agro- "carnage, battle" (n)</a>
-GOID: OIr. _ár_ [on]
+GOID: OIr. _ár_ [o n]
 W: OW _hair_ [f], MW _aer_ [f] "battle"
 BRET: OBret. _air_
 CO: OCo. _hair_ gl. _clades_
@@ -1079,14 +1079,14 @@ ETYM: MIr. _basc_ is attested only in glossaries, and DIL relates it to _basc_ "
 REF: [EDPC]
 
 ### <a id="basto">\*bāsto- "death" (n)</a>
-GOID: OIr. _bás_ [on]
+GOID: OIr. _bás_ [o n]
 PIE: \*gʷeh₂ "go" (IEW: 480)
 SEE: [\*bā-, \*ba-yo- "die"](#ba)
 ETYM: OIr. _bás_ is actually the verbal noun to _baïd_ "die". The stem formation of \*bāsto- is unclear, since the suffix \*-sto- is unlikely. Note that all the forms could also be derived from \*bāsso- < \*gʷeh₂dʰ-to-, where \*-dʰ-­ is either the (present stem?) suffix, or part of the root cf. PCelt. [\*bād-ī-­ "dive, drown"](#badi) (the meaning "die" could have developed from "drown"). Another possibility is to relate OIr. _bás_ to PIE \*(s)gʷes- "put out, quench" (OCS _gasiti_, Gr. _sbénnymi_ etc.). We would then have to posit PIE \*gʷōs-to­ > PCelt. \*bāsto-. The lengthened grade would have its parallel in Slavic.
 REF: [EDPC]
 
 ### <a id="bato">\*bato- "death" (n)</a>
-GOID: OIr. _bath_ [on] "death"
+GOID: OIr. _bath_ [o n] "death"
 W: MW _bad_ "pest, plague" [f]
 SEE: [\*bā- "die"](#ba), [\*basto- "death"](#basto)
 ETYM: OIr. _bath_ (also _baath_, _báth_) is an archaic word, occurring besides the more usual _bás_ < \*bāsto- < \*gʷeh₂sto- (hence the analogical length in _báth_). It can be derived from the zero-grade of the same root, \*gʷh₂to-. Perhaps related are OCo. _badus_ gl. _lunaticus_ and MoBret. _bad_ "stupor, giddiness", but the semantic side of this connection is a problem.
@@ -1231,7 +1231,7 @@ ETYM: In OIr. _béimm_ is the verbal noun of the verb _benaid_. Its gender canno
 REF: [EDPC]
 
 ### <a id="beto">\*bēto-, \*biyato- "food" (n)</a>
-GOID: OIr. _bíad_ [on]
+GOID: OIr. _bíad_ [o n]
 W: MW _bwyd_ [m]
 BRET: MBret. _boet_, MoBret. _boued_ [m]
 CO: OCo. _buit_ gl. _cibus vel esca_
@@ -1893,7 +1893,7 @@ ETYM: No convincing IE etymology has been proposed so far. However, it is at lea
 REF: [EDPC]
 
 ### <a id="dakro">\*dakro- "tear" (n)</a>
-GOID: OIr. _dér_ [on]
+GOID: OIr. _dér_ [o n]
 W: MW _deigr_ [m], _deigryn_ [sing.]; _dagrau_ [p]
 BRET: OBret. _dacr-lon_ "full of tears", MBret. _dazrou_ [p], MoBret. _dàer_ [m]
 CO: Co. _dagrow_ [p]
@@ -1975,7 +1975,7 @@ SEE: [\*dā- "give"](#da)
 REF: [EDPC]
 
 ### <a id="danto">\*danto- "tooth" (n)</a>
-GOID: OIr. _dét_ [on]
+GOID: OIr. _dét_ [o n]
 W: MW _dant_ [m]
 BRET: OBret. _dant_, MBret. and MoBret. _dant_
 CO: OCo. _dans_ gl. _dens_
@@ -2155,7 +2155,7 @@ GOID: OIr. _-darc, a-t-chondarc_ [1s.prs.]; _ad-chon-dairc_ [3s.prt.rel.]
 PIE: \*derk- "glance at" (IEW: 213)
 COGN: Skt. _darś_-, Gr. _dérkomai_, OE _torht_ "bright, clear", Alb. _dritë_ "light"
 SEE: [\*kʷis-o- "perceive"](#kwiso), [\*drikā "face, appearance"](#drika)
-ETYM: OIr. _a-t-chondarc_ < \*ad-kom-dark-. The stem \*derk-/\*dark­ formed some suppletive forms to the root \*kʷis-o- "see", cf. KPV 270. From the same root we have OIr. _derc_ [on] "eye, face", MBret. _derch_ "beautiful" (PCelt. \*derko-), and OIr. _drech_ "face", W _drych_ "appearance" (see PCelt. [\*drikā](#drika), with the zero-grade of the root). Cf. also Gaul. _uoderce_ (Larzac), which might be 2s.ipv. of \*ufo-derk-o- (Lambert 1994: 167), and the PNs Gaul. _Derc-illus_ and Celtib. _Terk-inos_.
+ETYM: OIr. _a-t-chondarc_ < \*ad-kom-dark-. The stem \*derk-/\*dark­ formed some suppletive forms to the root \*kʷis-o- "see", cf. KPV 270. From the same root we have OIr. _derc_ [o n] "eye, face", MBret. _derch_ "beautiful" (PCelt. \*derko-), and OIr. _drech_ "face", W _drych_ "appearance" (see PCelt. [\*drikā](#drika), with the zero-grade of the root). Cf. also Gaul. _uoderce_ (Larzac), which might be 2s.ipv. of \*ufo-derk-o- (Lambert 1994: 167), and the PNs Gaul. _Derc-illus_ and Celtib. _Terk-inos_.
 REF: [EDPC]
 
 ### <a id="derwo">\*derwo- "firm (as an oak)" (adj); "oak" (n)</a>
@@ -2320,7 +2320,7 @@ ETYM: The Celtic forms reflect the zero-grade of the PIE root (\*dʰlgʰ-o-).
 REF: [EDPC]
 
 ### <a id="dligito">\*dligito- "duty, debt" (n)</a>
-GOID: OIr. _dliged_ [on]
+GOID: OIr. _dliged_ [o n]
 W: MW _dled, dyled, dylyed, dlyed_ [m and f]
 SEE: [\*dlig-o- "owe"](#dligo)
 ETYM: This is a derivative (with the suffix \*-eto-) from the same root as the verb \*dlig-o- "owe".
@@ -2522,7 +2522,7 @@ COGN: Lat. _dūco_ "lead", Go. _tiuhan_ "pull"
 REF: [EDPC]
 
 ### <a id="">\*dūno- "fort, rampart" (n)</a>
-GOID: OIr. _dún_ [on]
+GOID: OIr. _dún_ [o n]
 W: MW _din_ [m in Toponyms], _dinas_ [m and f]
 BRET: OBret. _din_ gl. _arx_, MoBret. _din_ [m]
 CO: Co. _dyn_
@@ -2737,7 +2737,7 @@ ETYM: The OIr. form can be derived from PIE \*h₁en-h₁oh₁tro-, with the o­
 REF: [EDPC]
 
 ### <a id="enekwo">\*enekʷo- "face" (n)</a>
-GOID: OIr. _enech_ [on], Ogam _INEQA-GLAS_ [PN]
+GOID: OIr. _enech_ [o n], Ogam _INEQA-GLAS_ [PN]
 W: OW _enep_ [m], MW _wyneb_
 BRET: OBret. _enep_
 CO: OCo. _eneb_ gl. _pagina_
