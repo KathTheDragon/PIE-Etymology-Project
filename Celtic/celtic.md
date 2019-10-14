@@ -1041,7 +1041,7 @@ BRET: MBret. _brennik_, MoBret. _brennig_ [coll.]
 CO: Co. _brennik_
 PIE: \*gʷrH- "hill, mountain" (IEW: 477f.)
 COGN: OCS _gora_ "mountain", Lith. _girià_ "wood", Alb. _gur_ "rock".
-ETYM: It is assumed here that MIr. preserves the original formation, while the Brittonic forms represent derivatives with a velar suffix. English _barnacle_ is ultimately derived from Brittonic \*baranāko-, cf. also Gallo­ Latin \*bernacca (Port. _bernaca_, Fr. dial. _barnache_), \*bernicca (Sp. _berneca_, Gamillscheg 86f.). Celtic preserved the zero-grade of the PIE root noun \*gʷōrHs / \*gʷrH-os "woody mountain" and added the adjectival suffix \*-ino-­ which is common in Celtic, cf. [\*magino- "stone"](#magino) (W _maen_), [\*dragenā/\*draginā "sloetree"](#dragena) (OIr. _draigen_), [\*kasninā "garlic"](#kasnina) (OIr. _cainenn_), [\*worīnā "troop"](#worina) (OIr._foirenn_), etc.
+ETYM: It is assumed here that MIr. preserves the original formation, while the Brittonic forms represent derivatives with a velar suffix. English _barnacle_ is ultimately derived from Brittonic \*baranāko-, cf. also Gallo­ Latin \*bernacca (Port. _bernaca_, Fr. dial. _barnache_), \*bernicca (Sp. _berneca_, Gamillscheg 86f.). Celtic preserved the zero-grade of the PIE root noun \*gʷōrHs / \*gʷrH-os "woody mountain" and added the adjectival suffix \*-ino-­ which is common in Celtic, cf. [\*magino- "stone"](#magino) (W _maen_), [\*dragenā/\*draginā "sloetree"](#dragena) (OIr. _draigen_), [\*kasninā "garlic"](#kasnina) (OIr. _cainenn_), [\*worīnā "troop"](#worina) (OIr. _foirenn_), etc.
 REF: [EDPC]
 
 ### <a id="barna">\*bar-na- "proclaim" (v)</a>
