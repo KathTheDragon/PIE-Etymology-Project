@@ -1477,7 +1477,7 @@ REF: [EDPC]
 GOID: MIr. _búachaill_ [i m]
 W: MW _bugeil_ (GPC _bugail_)​
 BRET: MBret. _buguel, bugel_
-CO: Co. huge/
+CO: Co. _hugel_
 PIE: \*gʷow-kʷolo- "shepherd" (IEW: 639)
 COGN: Gr. _boukólos_
 ETYM: As in Greek, the second labiovelar was dissimilated (\*kʷ > \*k after \*w) in Celtic. It is possible that this dissimilation occurred already in PIE.
@@ -2368,7 +2368,7 @@ COGN: Go. _dal_, OCS _dolъ_
 ETYM: Gr. _thaláme_ "bed", if related, shows that this root ended in \*-h₂. Otherwise, the PIE noun can be reconstructed as \*dʰolo-.
 REF: [EDPC]
 
-### <a id="dolisko">\*dol-isko- "seaweed, Pa/maria palmata" (n)</a>
+### <a id="dolisko">\*dol-isko- "seaweed, Palmaria palmata" (n)</a>
 GOID: MIr. _duilesc_ [o m]
 W: MW _delysc_ [m] "fucus palmatus, edible seaweed, stuff which is cast up by the sea" (GPC _delysg, dylysg, dylusg_)​
 PIE: \*dʰelh₁- "blossom" (IEW: 234)
