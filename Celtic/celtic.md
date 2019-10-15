@@ -18,7 +18,7 @@ W: MW _afal_ [m]
 BRET: OBret. _abal_, MBret. _aval_
 GAUL: _auallo_ gl. _poma_
 PIE: \*h₂eph₃ol- "apple"
-COGN: OHG _apful_, OCS _ablъko_, Lith. _óbuolas_, Osc. _Abella_ (Toponym)
+COGN: OHG _apful_, OCS _ablъko_, Lith. _óbuolas_, Osc. _Abella_ (toponym)
 SEE: [\*abalnā "apple-tree"](#abalna)
 ETYM: The geminate -_ll_- in OIr. could have arisen under analogical influence of \*abalnā "apple-tree". The Celtic forms can be derived from the oblique cases of the PIE l-stem, with the nom.sg. \*h₂eph₃ol (or \*h₂eph₃ōl) / gen.sg. \*h₂(e)ph₃los. It is assumed here that \*h₃ voiced the preceding \*p (as in \*piph₃eti "drinks" > Skt. _píbati_), but there is no independent evidence for a laryngeal in the word for "apple", so the alternative PIE reconstruction \*h₂ebol- (with the rare phoneme \*b) is also possible.
 REF: [EDPC]
@@ -172,7 +172,7 @@ GOID: OIr. _ár_ [o n]
 W: OW _hair_ [f], MW _aer_ [f] "battle"
 BRET: OBret. _air_
 CO: OCo. _hair_ gl. _clades_
-GAUL: _Ver-agri_ [Ethnonym] (Caesar)
+GAUL: _Ver-agri_ [ethnonym] (Caesar)
 PIE: \*h₂eǵro- "hunt" (IEW: 6)
 COGN: Gr. _ágrē_ "hunt", Av. _azrō.daiδī_- "hunt"
 ETYM: The word-initial _h_- in OW and OCo. is non-etymological. Presumably, these words are derived from PIE \*h₂eǵ- "drive" (Lat. _ago_, etc.), but the semantic connection binding them under a single etymon is admittedly weak.
@@ -502,7 +502,7 @@ COGN: Gr. (Myc.) _a-ni-ja_, Gr. _hēnía_, Lat. _ānsa_ "handle of a cup"
 REF: [EDPC]
 
 ### <a id="anto">\*anto- "border, limit" (n)</a>
-GAUL: _antom_ (Vercelli); _Anto-broges_ [Ethnonym] (var. _Antebroges_, Pliny IV, 109)
+GAUL: _antom_ (Vercelli); _Anto-broges_ [ethnonym] (var. _Antebroges_, Pliny IV, 109)
 PIE: \*h₂ento- "border" (IEW: 48ff.)
 COGN: Skt. _ánta_-, Go. _andeis_ "end"
 SEE: [\*antono- "forehead"](#antono)
@@ -572,7 +572,7 @@ GOID: OIr. _argat_ [t n]
 W: OW _argant_, MW _ariant_ [m] (GPC _arian, ariant_​)
 BRET: OBret. _argant_, MBret. _archant_, MoBret. _arc'hant_ [m]
 CO: Co. _argans_
-GAUL: _Arganto-magus_ [Toponym] (today _Argenton-sur-Creuse_​)
+GAUL: _Arganto-magus_ [toponym] (today _Argenton-sur-Creuse_​)
 CELTIB: _arkato-bezom_ (K.O.7)
 PIE: \*h₂erǵ-nt-o- "silver" (IEW: 64)
 COGN: Lat. _argentum_, Skt. _rajatá_-, Arm. _arcat'_
@@ -672,7 +672,7 @@ REF: [EDPC]
 ### <a id="ati">\*āti- "furnace, oven" (n)</a>
 GOID: OIr. _áith_ [i f]
 W: MW _odyn_ [f] "kiln"
-CO: Co. _Oden-colc_ [Toponym]
+CO: Co. _Oden-colc_ [toponym]
 PIE: \*h₂eh₁-t- "burn" (IEW: 69)
 COGN: Pal. _hāri_ "be hot", Lat. _āra_ "altar", _ātrium_ "first main room in a Roman house"
 ETYM: Only Palaic seems to preserve the underlying PIE verb \*h₂eh₁-, while Celtic shows a nominal derivative with the suffix \*-ti-.
@@ -706,7 +706,7 @@ REF: [EDPC]
 ### <a id="attreba">\*attrebā "settlement" (n)</a>
 GOID: OIr. _attrab_ [ā f] "possession, the act of occupying, a dwelling"
 W: MW _athref_ [f] "dwelling-place, abode"
-GAUL: _Atrebates_ [Ethnonym]
+GAUL: _Atrebates_ [ethnonym]
 SEE: [\*trebā "settlement"](#treba)
 ETYM: The geminate in Celtic is doubtlessly the result of assimilation from \*ad-trebā, cf. W _tref_ "home, town"< \*treba. The assimilation must obviously be posterior to the development \*DD > \*ss, which is Proto-Celtic. This shows that the word need not be very old.
 REF: [EDPC]
@@ -954,7 +954,7 @@ GOID: OIr. _benn_ [ā f] "peak, horn, mountain, crest"
 W: MW _bann_ [m and t] "peak, top, horn, beam" (GPC _ban​_)​
 BRET: MBret. _ban_, MoBret. _bann_ [m] "peak"
 CO: Co. _ban_
-GAUL: _Canto-bennicus (mons)_ [Toponym]
+GAUL: _Canto-bennicus (mons)_ [toponym]
 PIE: \*bend- "point, pin" (IEW: 96f.)
 COGN: OE _pintel_ "penis", MLG _pin, pinne_ "pin, nail"
 SEE: [\*bandi-, \*bando- "melodious, harmonious"](#bandi)
@@ -1018,7 +1018,7 @@ GOID: MIr. _bard_ [o m)
 W: MW _bardd_ [m]; _beirdd, beirddion, beirddiaid_ [p]
 BRET: MBret. _barz_ [m]
 CO: OCo. _barth_ gl. _mimus, scurra_
-GAUL: \*bardos, _bardus_ (Festus), _Bardo-magus_ [Toponym]
+GAUL: \*bardos, _bardus_ (Festus), _Bardo-magus_ [toponym]
 PIE: \*gʷerH- "praise" (IEW: 478)
 COGN: Skt. _gṛṇā́ti_ "calls, praises", Lat. _grātus_ "grateful, pleasant, delightful", Lith. _gìrti_ "praise"
 SEE: [\*bar-na- "proclaim"](#barna)
@@ -1095,7 +1095,7 @@ REF: [EDPC]
 ### <a id="bebru">\*bebru- "beaver" (n)</a>
 GOID: OIr. _Bibar_ [PN]
 BRET: OBret. _beuer_ gl. _castor_ (?)
-GAUL: _Bebriacum_ [Toponym] "locus castorum" (Tacitus), _Bibracte_ [Toponym]
+GAUL: _Bebriacum_ [toponym] "locus castorum" (Tacitus), _Bibracte_ [toponym]
 PIE: \*bʰebʰru- "beaver" (IEW: 136)
 COGN: Skt. _babhrú_- "brown", Av. _baβra_- "beaver", Lat. _fiber_, OE _beofer_, Lith. _bebrùs_
 ETYM: It is uncertain whether OBret. _beuer_ is originally Breton, or rather from VLat. _biber_, which is itself a Gaulish loanword (cf. also OFr. _bièvre_, It. _bevero_, OSp. _befre_).
@@ -1312,7 +1312,7 @@ GOID: OIr. _bith_ [u m]
 W: OW _bid_ [m], MW _byd_ [m]
 BRET: OBret. _bit, bet_
 CO: OCo. _bit_ gl. _mundus_, _bys_
-GAUL: _Bitu-riges_ [Ethnonym]
+GAUL: _Bitu-riges_ [ethnonym]
 PIE: \*gʷiH-tu- "life" (IEW: 468)
 COGN: Lat. _uīta_ "life", OCS _žiti_ "to live"
 SEE: [\*biwo- "alive"](#biwo)
@@ -1407,7 +1407,7 @@ REF: [EDPC]
 
 ### <a id="bodyo">\*bodyo- "yellow" (adj)</a>
 GOID: OIr. _buide_ [io]
-GAUL:(?) _Bodio-casses_ [Ethnonym], _Baius_ [PN]
+GAUL:(?) _Bodio-casses_ [ethnonym], _Baius_ [PN]
 PIE: \*bodyo- "yellow" (IEW: 92)
 COGN: Lat. _badius_ "bay, chestnut brown"
 ETYM: Lat. _badius_ can be derived from \*bodyos (with \*o > a after labials, as in _mare_ < \*mori), but the initial \*b-, and the fact that this adjective is limited in its distribution to Italic and Celtic, make it likely that we are dealing with a loanword from some non-IE source.
@@ -1580,7 +1580,7 @@ REF: [EDPC]
 
 ### <a id="bremo">\*brem-o- "bleat, bellow, roar" (v)</a>
 W: MW _brefu, brefad_
-GAUL: _Bremia, Bremenium_ [Toponyms]
+GAUL: _Bremia, Bremenium_ [toponyms]
 PIE: \*bʰrem- "roar" (IEW: 142f.)
 COGN: Lat. _fremo_ "utter a deep dull sound", MHG _brimmen_ "roar"
 REF: [EDPC]
@@ -1623,7 +1623,7 @@ GOID: MIr. _brí_ [g f]
 W: MW _bre_ [f]
 BRET: MBret. _bre_ [m]
 CO: Co. _bre_
-GAUL: -_briga_ [in Toponyms], _Brig-antes_ [Ethnonym]
+GAUL: -_briga_ [in toponyms], _Brig-antes_ [ethnonym]
 PIE: \*bʰerǵʰ- "be high, hill" (IEW: 140f.)
 COGN: Av. _bərəz_-, OHG _berg_
 SEE: [\*brigā "might, power"](#brigo)
@@ -2162,7 +2162,7 @@ REF: [EDPC]
 GOID: OIr. _derb_ [o] "sure, certain, fixed"
 W: MW _derwen_ [sing.] "oak"; _derw_ [p]
 BRET: OBret. _daeru_, MBret. _deru, derw_ "oaks"
-GAUL: _Dervo_ [Toponym]; \*derwo- > OFr. _dervée_ "oak wood"
+GAUL: _Dervo_ [toponym]; \*derwo- > OFr. _dervée_ "oak wood"
 PIE: \*derw-o- "oak" (IEW: 214f.)
 SEE: [\*daru- "oak"](#daru)
 ETYM: The semantic development in OIr. was "firm as an oak" > "firm, strong" > "true", as explained by Benveniste, (1969: I, 8). OIr. _derb_ "vessel" is a feminine a-stem, derivable from \*derwā "made of oak-wood", the feminine-collective of \*derwo-, cf. also MIr. _drochta_ "tub, vessel", which may be from \*druxto- < \*dru-k-to- (cf. PGerm. \*trugan, \*trugaz "trough" > OHG _trog_, ON _trog_, PIE \*dru-ko-).
@@ -2174,7 +2174,7 @@ W: OW _duiu_, W _duw, Duw_ [m]
 BRET: MBret. _doe_, MoBret. _doue_ [m]
 CO: OCo. _duy_, Co. _dew_
 GAUL: _Deuo-gnata_ [PN], _teuo-xtonio_- (Vercelli)
-CELTIB: _Teiuo-reikis_ (K 6.1), _DEOBRIGA_ [Toponym]
+CELTIB: _Teiuo-reikis_ (K 6.1), _DEOBRIGA_ [toponym]
 PIE: \*deyw-o- "god, sky-god" (IEW: 184f.)
 COGN: Skt. _devá_-, Lat. _deus_, OPr. _deiwas_
 REF: [EDPC]
@@ -2361,7 +2361,7 @@ REF: [EDPC]
 
 ### <a id="dola">\*dolā "meadow, dale" (n)</a>
 W: MW _dol_ [f] (GPC _dôl_)
-BRET: MoBret. _Dol_- [mostly in Toponyms]
+BRET: MoBret. _Dol_- [mostly in toponyms]
 CO: Co. _dol_
 PIE: \*dʰolh₂-o- "valley" (IEW: 245f.)
 COGN: Go. _dal_, OCS _dolъ_
@@ -2494,7 +2494,7 @@ GOID: MIr. _dobur_ [o] "black, unclean"
 W: MW _dwfr, dwr_ [m] (GPC _dwr_) "water"
 BRET: MBret. _dour_
 CO: Co. _dour_
-GAUL: _Dubra, Uerno-dubrum_ [Toponym]
+GAUL: _Dubra, Uerno-dubrum_ [toponym]
 PIE: \*dʰubʰ- "black" (IEW: 263ff.)
 COGN: Go. _daufs_ "deaf", Gr. _typhlós_ "blind"
 SEE: [\*dubu- "black"]()
@@ -2523,7 +2523,7 @@ REF: [EDPC]
 
 ### <a id="">\*dūno- "fort, rampart" (n)</a>
 GOID: OIr. _dún_ [o n]
-W: MW _din_ [m in Toponyms], _dinas_ [m and f]
+W: MW _din_ [m in toponyms], _dinas_ [m and f]
 BRET: OBret. _din_ gl. _arx_, MoBret. _din_ [m]
 CO: Co. _dyn_
 GAUL: _dunum_ (in Latin authors), _-dunum_ [in PN]
@@ -2625,11 +2625,11 @@ ETYM: Cf. also OIr. _dethach_ [ā f] "smoke" < \*dwit-ākā. We should probably 
 REF: [EDPC]
 
 ### <a id="dwora">\*dworā, \*duro-, \*dworestu- "door" (n)</a>
-GOID: OIr. _dorus_ [u m], _Dor, Duir_ [Toponyms]
+GOID: OIr. _dorus_ [u m], _Dor, Duir_ [toponyms]
 W: OW _dor_, MW _dor_ [f] (GPC _dôr_), _drws_ [m]
 BRET: MBret. _dor_
 CO: Co. _dor, darat_
-GAUL: _Augusto-durum_ [Toponym] ("Forum Augusti")
+GAUL: _Augusto-durum_ [toponym] ("Forum Augusti")
 PIE: \*dwor- "door" (IEW: 278)
 COON: Lat. _forēs_, Gr. _thýrā_, ToB _twere_
 ETYM: The Celtic forms are actually not easy to subsume under a single etymon. We might be dealing with a PCelt. ablauting paradigm, nom.sg. \*dwār, acc. \*dwor-am (from which we have the Brittonic forms and, with a suffix, OIr. _dorus_, W _drws_ < \*dwor-es-tu-), gen.sg. \*dur-os (from which we can derive Gaul. -_durum_ and the OIr. toponyms _Dor, Duir_.
@@ -2656,7 +2656,7 @@ REF: [EDPC]
 GOID: OIr. _ibar_ [o m]
 W: MW _efwr, ewr_ [m] "cow parsnip, hog-weed"
 BRET: MBret. _heuor, euor_, MoBret. _evor_ [coll.]
-GAUL: _Eburo-dunum_ [Toponym]
+GAUL: _Eburo-dunum_ [toponym]
 CELTIB:? _Ebur-sunos_ [PN]
 PIE: \*h₁ebʰro- "yew" (IEW: 334)
 COGN: Germ. _Eber-esche_, Alb. dial. _bershe_
