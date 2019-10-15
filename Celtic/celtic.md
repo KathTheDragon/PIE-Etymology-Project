@@ -3636,3 +3636,106 @@ PIE: \*pewḱs "pine" (IEW: 828)
 COGN: Gr. _peúkē_, OHG _fiuhta_ "fir", Lith. _pušìs_
 ETYM: The Proto-Celtic form presupposes the zero-grade of the root in PIE (\*puḱ-, cf. Lith. _pušìs_). The word formation is unclear (note the dental suffix also in OHG _fiuhta_).
 REF: [EDPC]
+
+## Gʷ
+
+### <a id="gwano">\*gʷan-o- "strike, kill" (v)</a>
+GOID: OIr. _gonaid_, -_goin_; _gonaid_, -_gona_ [subj.]; _gignid_, _gignea_ [fut.]; _geguin_ [prt.]; _gétae_, -_gét_ [pass.ptcp.]
+W: MW _gwan_ "hit, injure"; _gwant_ [prt.] (GPC _gwanu_, _gwân_)​
+BRET: MBret. _goanaff_, MoBret. _gwanañ_ "punish"
+CO: Co. _gwana_ "pierce"
+PIE: \*gʷʰen- "strike, slay" (IEW: 491-493)
+COGN: Hitt. _kue(n)zi_, Skt. _han_-, Gr. _theínō_, Lat. _dē-fendo_ "defend", Lith. _gìnti_ "defend, protect", OCS _gъnati_ "chase"
+ETYM: Celtib. PN _GUANDOS_ has been interpreted as a derivative from this root, but this is mere speculation. Theo-vocalism in OIr. _gonaid_ is the result of the regular rounding after the initial \*gʷ-, cf. the same development in [\*gʷariyā "duty"](#gwariya).
+REF: [EDPC]
+
+### <a id="gwariya">\*gʷariyā "duty" (n)</a>
+GOID: OIr. _goire_ [iā f] "filial duty"
+W: MW _gwared_ [m] "deliverance, relief"
+BRET: MBret. _gored_
+CO: Co. _gweres_ "help"
+PIE: \*gʷʰer- "burn" (IEW: 493ff.)
+SEE: [\*gʷer-o-](#gwero)
+ETYM: These words are formed with the regular Celtic reflex of the zero­ grade of the root \*gʷer- "burn" (with the development of \*-Cry-> \*-Cary-). For the development \*gʷa- > OIr. _go_- cf. [\*gʷan-o- "strike"](#gwano) (McCone 1996). Cf. also W _gwâr_ "tame, civilized" and OIr. _gor_ [o] "pious, dutiful", which may be derived from thematic \*gʷoro- < \*gʷʰoro-.
+REF: [EDPC]
+
+### <a id="gwedyo">\*gʷed-yo- "ask, plead, pray" (v)</a>
+GOID: OIr. _guidid_, -_guid_; _geiss_, _gé_ [subj.]; _gigis_, -_gig_ [fut.]; _géid_ [prt.]
+W: MW _imguodant_
+GAUL: _uediíumi_ [1s.prs.] (Chamalières)
+PIE: \*gʷʰedʰ- "wish" (IEW: 488)
+COGN: Gr. _pothéō_ "wish", Go. _bidjan_
+ETYM: MW _imguodant_ < \*ambi-gʷod-o-. The Celtiberian family name _kuezontikum_ (Botorrita III, IV-36) might reflect the Celtib. reflex of this root (Villar 1997: 908). Gaul. _uediíumi_ has also been connected to \*wed- "bind" (Fleuriot 1976-7); since it is a hapax, many interpretations are possible, but "I pray" makes more sense than "I bind" in the context of the Chamalieres inscription. For the possibility that this verb (and the whole OIr. BII class of present stems) originally had athematic i-inflection see [\*ar-yo- "plough"](#aryo) and cf. Kortlandt 2007: 137.
+REF: [EDPC]
+
+### <a id="gwelo">\*gʷel-o- "graze, eat" (v)</a>
+GOID: OIr. _geilid_, -_geil_; _gelaid_, -_gela_ [subj.]; _gilt_, -_gelt_ [prt.]
+SEE: [\*gʷeltā "grass"](#gwetla)
+ETYM: The reconstruction of the PIE root from which this etymon developed is not generally agreed upon; Arm. _klanem_ "swallow", Russ. _glotat'_ "swallow", Lat. _gluttio_ "devour" point to PIE \*glew- (IEW 365), which might be onomatopoetic (cf. also Lat. _gula_ "throat"). OE _ceole_, Germ. _Kehle_ "throat" might contain the reflex of PIE \*gel-, but if OIr. _gelid_ is related to the word for "grass", the Celtic proto-form must be from the root with initial \*gʷʰ-, since PIE \*gʷ > PCelt. \*b. However, a PIE root \*gʷʰel-­ with a comparable meaning does not seem to exist.
+REF: [EDPC]
+
+### <a id="gwelti">\*gʷelti- "madman, lunatic" (n)</a>
+GOID: MIr. _geilt_ "lunatic, panic-stricken fugitive from battle"
+W: MW _gwyllt_ (GPC _gwyllt_, _gwyll_) "wild"
+BRET: OBret. _gueld-enes_ gl. "_insula indomita_"
+CO: OCo. _asen guill_ gl. _onager_, Co. _gwyls_, _guyls_ "wild"
+PIE: \*gʷʰel-
+COGN: Go. _wilþeis_ "wild", OHG _wildi_
+ETYM: These words certainly do not belong to the same root as the PIE word for "wool", as claimed by IEW (1139f.). There is also no reason to believe that OIr. _geilt_ was borrowed from Brittonic. The Germanic parallels are usually taken to be from PIE \*wel-t-, but \*gʷʰ > Germanic \*w- is also possible (cf., e.g., OHG _warm_ "warm" < \*gʷʰormo-, cf. Skt. _gharmá_- "heat", Lat. _formus_ "warm", see Bjorvand & Lindeman 2000: 1023f.).
+REF: [EDPC]
+
+### <a id="gwelta">\*gʷeltā "grass" (n)</a>
+GOID: OIr. _geilt_ "grazing" [ā f]
+W: MW _gwellt_ [m] "grass"
+BRET: OBret. _gueltiocion_ gl. "_fenosa_"
+CO: Co. _gwels_ "grass"
+SEE: [\*gʷel-o- "graze"](#gwelo)
+REF: [EDPC]
+
+### <a id="gweno">\*gʷeno- "smile" (n)</a>
+GOID: OIr. _gen_ [o n]
+W: MW _gwen_ [f] (GPC _gwên_)
+BRET: MoBret. _gwen-c'hoarzin_ "to smile"
+ETYM: According to DIL, OIr. _gen_ was originally an u-stem, but this is difficult in the light of the vocalism (\*\*giun would be expected from \*gʷenu). MW _gwen_ probably represents the collective (nom.pl. neuter) \*gʷenā.
+REF: [EDPC]
+
+### <a id="gwero">\*gʷer-o- "warm up, heat" (v)</a>
+GOID: MIr. _geirid_, -_geir_; _geraid_, -_gera_ [subj.]; _girt_, -_gert_ [prt.]
+PIE: \*gʷʰer- "heat" (IEW: 493-495)
+COGN: Gr. _théromai_, Go. _brinnan_ "burn"
+ETYM: MIr. _guirid_ "to warm" represents the causative from the same root, PIE \*gʷʰoreye- > PCelt. \*gʷorī- (cf. also W _gori_ "brood, sit (of hen)", MoBret. _goriñ_) "to warm". Nominal derivatives from this root include OIr. _gorn_ "fire" (< \*gʷorno-, cf. Lat. _fornus_ "oven"), and possibly _goirt_ "bitter" < \*gʷorti- (if the meaning developed from "hot", cf. the same range of meaning of Eng. _hot_).
+REF: [EDPC]
+
+### <a id="gwered">\*gʷered- "animal fat, tallow" (n)</a>
+GOID: MIr. _geir_ [d f]
+W: MW _gwer_ (GPC _gwêr_) [m]
+ETYM: A derivation from the root \*gʷʰer- "warm, heat" (IEW 493, cf. Skt. _háras_- "heat") is possible, in principle, but there is no semantic connection. A PCelt. stem \*gere- would also be regularly derivable form a PIE compound \*ǵʰwer-h₁ep- "beast-fat" (cf. Lat. _ferus_ "wild", OCS _zvěrъ_, "beast", Gr. _thḗr_ "beast", and Lat. _ad-eps_ "suet, lard", Hitt. _apuzzi_ "animal fat, tallow", ToB _op_ "fatness"). However, this appears highly artificial.
+REF: [EDPC]
+
+### <a id="">\*gʷorno- "fire" (n)</a>
+SEE: [\*gʷer-o- "warm up, heat"](#gwero)
+REF: [EDPC]
+
+### <a id="">\*gʷoro- "pious" (adj)</a>
+SEE: [\*gʷariyā "duty"](#gwariya)
+REF: [EDPC]
+
+### <a id="">\*gʷorti- "bitter" (adj)</a>
+SEE: [\*gʷer-o- "warm up, heat"](#gwero)
+REF: [EDPC]
+
+### <a id="">\*gʷrensnā "sun" (n)</a>
+SEE: [\*gʷrīns- / \*gʷrenso- "heat"](#gwrins)
+REF: [EDPC]
+
+### <a id="">\*gʷrensu- "zeal, work, practice" </a>
+SEE: [\*gʷrīns- / \*gʷrenso- "heat"](#gwrins)
+REF: [EDPC]
+
+### <a id="gwrins">\*gʷrīns-/ \*gʷrenso- "heat" (n)</a>
+GOID: MIr. _grís_ [ā f] "heat, glow, embers"
+W: MW _gwres_ [m] "heat (of the sun, fire), passion, lust"
+PIE: \*gʷʰrenso- "warm" (IEW: 495)
+COGN: Skt. _ghraṃsá_- "heat of the sun"
+ETYM: OIr. _grís_ must represent a reflex of PCelt. \*gʷrīnso-, with the lengthened grade (expected in the nom.sg. of an original root noun). It appears probable that OIr. _grían_ [ā f] "sun" should be derived from PCelt. \*_gʷrensnā_ > Primitive Irish \*gʷrēnā (Matasovic _to appear_). This fits well with the semantics of Skt. _ghraṃsá_-. The PIE root is \*gʷʰer- "be hot" (Gr. _thermós_ etc.). Gaul. _Grannos_ (a name of Apollo) probably also belongs here, cf. Delamarre 183. Finally, OIr. _grés_ [u m] "handicraft, needlework, work of art, practice" may represent PCelt. \*gʷrensu- (the development of meaning would have been from "heat" to "zeal" and "work", cf. also MIr. _grésach_ "lasting, habitual").
+REF: [EDPC]
