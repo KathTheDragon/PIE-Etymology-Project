@@ -88,7 +88,7 @@ REF: [EDPC]
 GOID: OIr. _accobor_ [o n]
 PIE: \*kup- "wish"
 COGN: Lat. _cupio_ "wish", Skt. _kupyati_ "be angry"
-ETYM: The OIr. word is actually the verbal noun of _ad-cobra_ "wish", which is itself of deadjectival origin, cf. Osc. _cyprum_ "good" (Varro, L.L. V 159). Cf. also the Italic theonym _dea Cupra_ (Picenum). An old compound from this root is MIr. _milchobar_ "honey-desiring = bear" (a semantic parallel is provided by Russ. _medvéd'_ "bear" (lit. "honey-eater"). The change \*pr > \*br is regular in Celtic (see [\*gabro- "goat"](#gabro)). Cf. also the PN _Ol-chobar_ "drink-desiring (?)". On the IE side of this etymology, the probable connection with OCS _kypěti_ "boil" and Lith. _kūpė́ti_ "boil" does not attest a laryngeal in this root; these forms have the long \*u in the root as the result of Balto-Slavic vrddhi (common in verbs with intensive meaning).
+ETYM: The OIr. word is actually the verbal noun of _ad-cobra_ "wish", which is itself of deadjectival origin, cf. Osc. _cyprum_ "good" (Varro, L.L. V 159). Cf. also the Italic theonym _dea Cupra_ (Picenum). An old compound from this root is MIr. _milchobar_ "honey-desiring = bear" (a semantic parallel is provided by Russ. _medvéd'_ "bear" (lit. "honey-eater"). The change \*pr > \*br is regular in Celtic (see [\*gabro- "goat"](#gabro)). Cf. also the PN _Ol-chobar_ "drink-desiring (?)". On the IE side of this etymology, the probable connection with OCS _kypěti_ "boil" and Lith. _kūpė́ti_ "boil" does not attest a laryngeal in this root; these forms have the long \*u in the root as the result of Balto-Slavic vṛddhi (common in verbs with intensive meaning).
 REF: [EDPC]
 
 ### <a id="adreto">\*ad-ret-o- "reach, grasp" (v)</a>
@@ -1352,7 +1352,7 @@ REF: [EDPC]
 GOID: OIr. _blá_ [o]
 PIE: \*bʰleh₂ (?) "yellow" (IEW: 160)
 COGN: Lat. _flāuus_
-ETYM: OIr. _blá_ matches the meaning of Lat. _flāuus_ perfectly, so they should be connected, but the OIr. word could also be a loanword from Latin. The Germanic words often related to these adjectives, OHG _blao_, Olc. _blár_, etc., all mean "blue", but color terms often change their meaning. However, the Germanic proto-form was \*blēwa-, and the only way to relate it to the ltalo-Celtic adjective for "yellow" is to posit a vrddhi \*bʰlēh₂wo-, with \*ē remaining uncolored by the laryngeal through Eichner's law; such a solution would clearly be _ad hoc_. One should also compare W _blawr_ "grey", which might be the same word as MIr. _Blár_ (name of a horse), and Scot. Gael. _blàr_ "horse with a white spot, white-faced horse". All of these, if related, could represent PIE \*bʰleh₂ro- > PCelt. \*blāro-. For a different PIE etymology of these words see Schrijver (1991: 147, 177, etc.).
+ETYM: OIr. _blá_ matches the meaning of Lat. _flāuus_ perfectly, so they should be connected, but the OIr. word could also be a loanword from Latin. The Germanic words often related to these adjectives, OHG _blao_, Olc. _blár_, etc., all mean "blue", but color terms often change their meaning. However, the Germanic proto-form was \*blēwa-, and the only way to relate it to the ltalo-Celtic adjective for "yellow" is to posit a vṛddhi \*bʰlēh₂wo-, with \*ē remaining uncolored by the laryngeal through Eichner's law; such a solution would clearly be _ad hoc_. One should also compare W _blawr_ "grey", which might be the same word as MIr. _Blár_ (name of a horse), and Scot. Gael. _blàr_ "horse with a white spot, white-faced horse". All of these, if related, could represent PIE \*bʰleh₂ro- > PCelt. \*blāro-. For a different PIE etymology of these words see Schrijver (1991: 147, 177, etc.).
 REF: [EDPC]
 
 ### <a id="blvdv">\*blVdV- "wolf, ?large predator" (n)</a>
@@ -1940,7 +1940,7 @@ BRET: MBret. _deujf_, MoBret. _deuñv_ [m] "son-in-law"
 CO: OCo. _dof_ gl. _gener_
 PIE: \*domo- "household, home" (IEW: 198f.)
 COGN: Lat. _domus_ "home", Gr. _dómos_, OCS _domъ_
-ETYM: The OW hapax _daum_ has an alternative reading _dauu_ (Falileyev, 41). As shown by Campanile 1974a and McCone 1992, the Celtic forms continue PIE vrddhi built from \*domo- (itself a thematicization of the original root-noun \*dōm); the original meaning was "belonging to the household", whence "retinue" (collectively), and the subsequent narrowing of the meaning to "son-in-law" in Brittonic. Another derivative from the same PIE word is probably OIr. _déis_ [i m] "client", built from the PIE gen.sg. of the original root noun, \*dems, remodelled as an i-stem (\*dems-i-). Celtib. _tamai_ [dat./loc.sg.] (Botorrita I) has been connected with this set of forms, but with little justification. In PIE, the original root-noun \*dōm may have been connected with the root \*demh₂ "build" (Gr. _démō_, Dor. _neódmātos_ "newly built"), if the development was \*domh₂s > \*dōm (as assumed by LIV).
+ETYM: The OW hapax _daum_ has an alternative reading _dauu_ (Falileyev, 41). As shown by Campanile 1974a and McCone 1992, the Celtic forms continue PIE vṛddhi built from \*domo- (itself a thematicization of the original root-noun \*dōm); the original meaning was "belonging to the household", whence "retinue" (collectively), and the subsequent narrowing of the meaning to "son-in-law" in Brittonic. Another derivative from the same PIE word is probably OIr. _déis_ [i m] "client", built from the PIE gen.sg. of the original root noun, \*dems, remodelled as an i-stem (\*dems-i-). Celtib. _tamai_ [dat./loc.sg.] (Botorrita I) has been connected with this set of forms, but with little justification. In PIE, the original root-noun \*dōm may have been connected with the root \*demh₂ "build" (Gr. _démō_, Dor. _neódmātos_ "newly built"), if the development was \*domh₂s > \*dōm (as assumed by LIV).
 REF: [EDPC]
 
 ### <a id="damo-2">\*damo-, \*damato- "bull" (n)</a>
@@ -2205,7 +2205,7 @@ BRET: OBret. _diochi_, MBret. _diek_, MoBret. _dieg_
 CO: OCo. _dioc_ gl. _piger_
 PIE: \*h₁ōḱu- "swift" (IEW: 775)
 COGN: Skt. _āśú_- "quick", Gr. _ōkýs_ "quick", Lat. _ōcior_ "swifter", perhaps Croat. _jȁstreb_ "hawk"
-ETYM: The existence of this compound (with the prefix \*dī-) presupposes the simplex meaning "swift"; parallels in other IE languages point to an u­-stem, but this cannot be demonstrated for Celtic. The PIE root is reconstructed as \*h₁ōḱu- and interpreted as a vrddhi formation related to \*h₁eḱwo- "horse", but this is quite uncertain. The accentuation of Croat. _jȁstreb_ (accentual paradigm a) and the related Slavic words points to a root ending in a laryngeal (PIE \*h₁oh₁ḱú- or \*Heh₃ḱú-), but the position of the accent in Gr. _ōkýs_ and Skt. _āśú_- shows that the shortening of the first vowel by Dybo's law would be expected in Celtic.
+ETYM: The existence of this compound (with the prefix \*dī-) presupposes the simplex meaning "swift"; parallels in other IE languages point to an u­-stem, but this cannot be demonstrated for Celtic. The PIE root is reconstructed as \*h₁ōḱu- and interpreted as a vṛddhi formation related to \*h₁eḱwo- "horse", but this is quite uncertain. The accentuation of Croat. _jȁstreb_ (accentual paradigm a) and the related Slavic words points to a root ending in a laryngeal (PIE \*h₁oh₁ḱú- or \*Heh₃ḱú-), but the position of the accent in Gr. _ōkýs_ and Skt. _āśú_- shows that the shortening of the first vowel by Dybo's law would be expected in Celtic.
 REF: [EDPC]
 
 ### <a id="diberga">\*dī-bergā "robbery, brigandage" (n)</a>
@@ -2832,7 +2832,7 @@ REF: [EDPC]
 GOID: OIr. _escae, esca, eisce_ [io n, later m]
 PIE: \*h₁eysk- "shine, glitter" (JEW: 16f.)
 COGN: OCS _iskra_ "spark", Lith. _áiškus_ "bright", Russ. _jáska_ "bright star"
-ETYM: In OIr., this word replaced the earlier word for moon, _lúan_ (see \*lowxsna). Its Baltic and Slavic cognates are usually derived from PIE \*h₂eysk-, but on meagre evidence. Actually, it is equally possible to reconstruct an ablauting root \*h₁eysk- > PCelt. \*ēsk-, \*h₁isk- > OCS iskra, \*h₁oysk- > Russ. _jáska_, Lith. _áiškus_. The acute in BSl. may be the result of a secondary BSl. vrddhi, or metatony; another possibility would be to reconstruct the PIE root as \*h₁eyHsk-, but this root shape would be quite unusual.
+ETYM: In OIr., this word replaced the earlier word for moon, _lúan_ (see \*lowxsna). Its Baltic and Slavic cognates are usually derived from PIE \*h₂eysk-, but on meagre evidence. Actually, it is equally possible to reconstruct an ablauting root \*h₁eysk- > PCelt. \*ēsk-, \*h₁isk- > OCS iskra, \*h₁oysk- > Russ. _jáska_, Lith. _áiškus_. The acute in BSl. may be the result of a secondary BSl. vṛddhi, or metatony; another possibility would be to reconstruct the PIE root as \*h₁eyHsk-, but this root shape would be quite unusual.
 REF: [EDPC]
 
 ### <a id="esok">\*esok- "salmon" (n)</a>
