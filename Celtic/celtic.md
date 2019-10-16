@@ -3637,6 +3637,664 @@ COGN: Gr. _peúkē_, OHG _fiuhta_ "fir", Lith. _pušìs_
 ETYM: The Proto-Celtic form presupposes the zero-grade of the root in PIE (\*puḱ-, cf. Lith. _pušìs_). The word formation is unclear (note the dental suffix also in OHG _fiuhta_).
 REF: [EDPC]
 
+## G
+
+### <a id="gablo">\*gablo/ā- "fork, forked branch" (n)</a>
+GOID: OIr. _gabul_ [o m and ā f]
+W: MW _gafl_ [f]
+BRET: OBret. _gabl_, MoBret. _gaol_ [f]
+GAUL: _(Ciuitas) Gabalum_ (> Fr. _le Gévaudon_) [toponym]
+PIE: \*gʰabʰlo- "fork, branch of tree" (IEW: 409)
+COGN: OE _gafol_, OHG _gabal_ "fork"
+ETYM: In OW, there is the adjective _gablau_ "split open, forked" (Falileyev 59). Lat. _gabalus_ "a kind of gallows" (occurring in Varro) might be from the Gaulish reflex of the same word, cf. also Gallo-Latin \*gabalottus "spear" > Fr. _javelot_, _javeline_ (Gamillscheg 546). The only correspondences to these Celtic words are attested in Germanic (although PGerm. \*gablaz could be a Celtic loanword). However, it appears possible that these words should be related to PIE \*gʰHbʰ- "have, hold" (PCelt. [\*gab-yo-](#gabyo)). If not, they are probably non-IE loanwords.
+REF: [EDPC]
+
+### <a id="gabro">\*gabro- "he-goat"; \*gabrā "she-goat" (n)</a>
+GOID: OIr. _gabor_ [o m] gl. _caper_
+W: MW _gauar_ (GPC _gafr_) [f] "goat, she-goat"
+BRET: OBret. _gabr_, MoBret. _gaor_
+CO: OCo. _gauar_ gl. _capra_
+GAUL: _Gabro-magus_ [toponym] "Goatfield", _Gabrus_ [PN]
+PIE: \*kapr "he-goat" (IEW: 529)
+COGN: ON _hafr_ "he-goat", Gr. _kápros_ "boar", Lat. _caper_ "buck", perhaps Skt. _kapṛth_ "penis"
+ETYM: Cf. also Fr. dial. _garron_, Pr. _gabre_ "male partridge" < Gaul. \*gabro­ (according to Gamillscheg 470). The voicing \*pr > \*br in PCelt. is regular, but the initial \*g-, rather than \*k-, remains unaccounted for. It could be due to assimilation in voicing (with \*-b-), or the result of influence of another word for "buck", PIE \*gʰaydo- (Lat. _haedus_, Eng. _goat_), which is, however, unattested in Celtic.
+REF: [EDPC]
+
+### <a id="gabyo">\*gab-yo- "take, hold" (v)</a>
+GOID: OIr. _gaibid_, -_gaib_; -_gaba_ [subj.]; -_géba_ [fut.]; _gabais_, -_gab_ [prt.], -_gabad_ [prt.pass.]
+W: OW _ad-gabael_, MW _caffael_ "get, receive", _keiff_ [3s.prs.]; _cauas_ [prt.]
+BRET: MBret. _caffout_
+CO: OCo. _gauael_ gl. _prehensio_
+GAUL: _gabi_ [2s Impv.] ?_Gabiae_ [Theonym]
+CELTIB: _kabizeti_ [3s] (Botorrita I)
+PIE: \*gʰHbʰ- (IEW: 407ff.)
+COGN: Lat. _habeo_ "have"
+ETYM: McCone (2003) argues rather persuasively that Celtib. _kabizeti_ can be derived from \*gabiyeti, i.e. that it is a present indicative rather than (sigmatic) desiderative formation; all certain examples of Celtib. _z_ come from PIE \*d rather than \*s, which is generally preserved in Celtib., and the change of \*(i)y > _z_ may also be attested in PCelt. \*nowyo- > Celtib. _nouiza_. However, Wodtko (MLH V.1: 144) considers the meaning of this form as unknown, and one would wish that there were more examples of the change \*(i)y > _z_ in Celtiberian. de Bernardo Stempel (2006) attempts to prove that the original meaning of PCelt. \*gab- was "give", rather than "take", and interprets Gaul. _gabi_ as "give", and the theonym Gabiae as "the Givers, Bestowers", which seems plausible; whether this is correct or not, the etymological equations gathered here are unaffected. For the possibility that this PCelt. verb had an athematic i-present see Kortlandt 2007: 137 and cf. [\*ar-yo- "plough"](#aryo). The PIE reconstruction is disputed. The only certain cognate is Lat. _habeo_ and the related Italic words (de Vaan 2008: 277). I do not believe that Skt. _gábhasti_- "hand, forearm" is related (it would have to be from \*gʰHebʰ-); likewise, I find it improbable that PGerm. \*geban "give" is from \*gʰh₁ebh-, although this cannot be wholly excluded. Lith. _gabùs_ "handy" and Lith. _gabana_ "armful of hay" are possible cognates, but the e­-grade in Lith. _gebė́ti_ "be able" would then have to be secondary (a new formation based on the frequent ablaut of _a_ : _e_ in other roots).
+REF: [EDPC]
+
+### <a id="gala">\*galā "valor, ability" (n)</a>
+GOID: MIr. _gal_ [ā f] "valor, fighting spirit, vapour"
+W: MW _gallu_ "be able"
+BRET: OBret. _gal_ "might, ability"
+PIE: \*gelH- "be able" (IEW: 351)
+COGN: Lith. _galiù_ "be able"
+SEE: [\*gal-n- "be able"](#galn)
+ETYM: The Celtic form \*galā can be either the regular reflex of \*gelā (by Joseph's rule), or its root shape is analogical after the present stem of the corresponding verb, \*gal-n- "be able".
+REF: [EDPC]
+
+### <a id="galaro">\*galaro- "sickness, distress, pain" (n)</a>
+GOID: OIr. _galar_ [o n]
+W: MW _galar_ [m] "grief, lament"
+BRET: MBret. _galar_
+CO: Co. _glachar_
+PIE: \*ǵʰelH-ro- "evil, unhealthy" (IEW: 411)
+COGN: Hitt. _kallar_- "evil, unpleasant, unhealthy, inauspicious", perhaps also OE _gealla_ "galled place on the skin", Lith. _žalà_ "damage, harm"
+ETYM: There is no need for positing PIE \*a in this root, as in EIEC; OIr. _galar_ is derivable from \*gela-ro- by Joseph's rule.
+REF: [EDPC]
+
+### <a id="galn">\*gal-n- "be able" (v)</a>
+W: MW _gallu_; _geill_ [3s.prs.] (GPC _gallu_, _gallael_, _gallel_, _gallyd_)​
+BRET: MBret. _gallout_, _guell_ [3s.prs.]
+CO: Co. _gallos_
+PIE: \*gelH-(IEW:351)
+COGN: Lith. _galiù_ "can", Arm. _kalaw_ "found"
+SEE: [\*gal-n- "be able"](#galn)
+ETYM: The ethnonyms _Galli_ and _Galátai_, as well as Gaul. PN like _Gallus_, _Gallius_, are probably also related to this etymon (McCone 2006 derives both _Galli_ and _Galátai_ from PCelt. \*galatis). The Brittonic reflexes of this etymon show the regular development of \*gʰln > \*galn- > \*gall- (where \*-n­ is the present-stem infix). Cf. also Fr. _gaillard_ "strong, vigorous" < Gallo­ Latin \*gallia "strength" (Gamillscheg 461). The Centum-reflexes in Lith. and Arm. speak against McCone's (2006) identification of the PIE root with \*gʰelh₃- "green, yellow" (Gr. _khlōrós_ etc.), whereby the semantic connection would lie in the color symbolism ("yellow" as the symbol of "bile, anger, battle fury").
+REF: [EDPC]
+
+### <a id="galwo">\*galw-o- "call" (v)</a>
+GOID: MIr. _gall_(?) "swan"
+W: MW _galw_ [m and f] "call, invitation"
+BRET: OBret. _galu_, MBret. _galu_
+PIE: \*gel-/ \*gol- "call" (IEW: 350)
+COGN: OE _ceallian_ "call", OCS _glasъ_ "voice", perhaps Lat. _gallus_ "cock"
+ETYM: MIr. _gall_ "swan" is not well attested. It is a doubtful glossary word (Cormac Y 68). There is no need to posit PIE \*a in this etymon, since all reflexes can be derived either from PIE \*gol- (Slavic, Germanic), or from PIE \*gl-C-, with the zero-grade. The Celtic reflexes presuppose \*gl-wo-.
+REF: [EDPC]
+
+### <a id="gando">\*gan-d-o- "take place" (v)</a>
+GOID: OIr. _ro-geinn_ "takes place"
+W: MW _genni_; _gannaf_ [1s.prs.] "contain, find room in"
+PIE: \*gʰed- "take, seize" (IEW: 437f.)
+COGN: Lat. _prae-hendo_, Gr. _khandánō_, Alb. _gjen_ "find"
+SEE: [\*gendV- "wedge, block"](#gendv)
+ETYM:· OIr. _ro-geinn_ < \*fro-gan-d-e-ti (the simplex 1s unattested in Goidelic).
+REF: [EDPC]
+
+### <a id="ganyo">\*gan-yo- "be born" (v)</a>
+GOID: OIr. _gainidir_, _gainithir_, -_gainedar_; -_genadar_ [subj.]; -_gignethar_ [fut.]; _génair_ [prt.]
+W: MW _geni_; _ganaf_ [1s.prs.]
+BRET: MBret. _guenell_
+CO: Co. _genys_ [pass.ptcp.]
+PIE: \*genh₁- "beget" (IEW: 373ff.)
+COGN: Skt. _janⁱ_-, Lat. _gigno_, _nāscor_, OE _cennan_
+SEE: [\*genos- "family, gens"](#genos)
+ETYM: OIr. -_gainethar_, -_gainedar_ has the regular reflex of syllabic \*-n­ before any consonant except a laryngeal. Two developments are possible, either \*gnh₁yetor > \*gnyetor (with an early loss of the laryngeal before \*y by Pinault's law)> \*ganyetor > \*ganitor > _gainethar_, or \*gnh₁yetor > \*gnHitor > \*ganHitor > _gainethar_. OIr. _gein_ [n n] "birth, conception" is another derivative from the same root. It presupposes PCelt. \*genan < \*genh₁en (an archaic-looking neuter n-stem). The root is attested in Celtiberian as the second element of the compound PN _Mezu-kenos_ (= OIr. _Midgen_).
+REF: [EDPC]
+
+### <a id="gansi">\*gansi- "swan" (n)</a>
+GOID: OIr. _geis_ [i f]
+PIE: \*ǵʰeh₂ns- "goose" (IEW: 412)
+COGN: Skt. _haṃsá_-, Lat. _ānser_, Gr. _khḗn_, OHG _gans_
+ETYM: The PCelt. form presupposes the stem of the oblique cases of the PIE noun for "goose" (PIE nom.sg. \*gʰeh₂ns / gen.sg. \*gʰh₂ns-os). Skt. _haṃsá_- seems to presuppose \*ǵʰh₂ens- (from the accusative stem?).
+REF: [EDPC]
+
+### <a id="garano">\*garano- "crane" (n)</a>
+W: MW _garan_ [f] "heron, crane"
+BRET: MBret. _garan_
+CO: Co. _garan_
+GAUL: _tri-garanos_ "with three cranes" (RIG 2-1 165)
+PIE: \*ǵerh₂no- "crane" (IEW: 383)
+COGN: Gr. _géranos_, Eng. _crane_
+ETYM: The vocalism is explained if we assume PIE \*erh₂ > \*era > PCelt. \*ara by Joseph's rule.
+REF: [EDPC]
+
+### <a id="gargo">\*gargo- "rough" (adj)</a>
+GOID: MIr. _garg_ [o]
+GAUL: _Gargenus_ [NP]
+PIE: \*garǵo- (?) "horror" (IEW: 353)
+COGN: OCS _groza_ "horror", Arm. _karcr_ "hard"
+ETYM: This is presumably an onomatopoetic, or expressive word, which may explain the a-vocalism in the root. The parallels in other IE languages may be accidental similarities.
+REF: [EDPC]
+
+### <a id="gari">\*gāri- "shout, call" (n)</a>
+GOID: OIr. _gáir_ [i f, perhaps originally n]
+W: MW _gawr_ [f and m]; _gewri_, _geuri_, _goriau_ [p]
+GAUL: _Garo-marus_ [PN]
+PIE: \*ǵeh₂r- "shout, call" (JEW: 352)
+COGN: Gr. _gē̃rys_ "voice, call", Lat. _garrio_ "chatter", OE _cearu_ "care, sorrow", Khot. _ysār_- "to sing" [caus.]
+SEE: [\*gar(r)man- "cry, shout"](#garrman), [\*garyo- "call, cry"](#garyo)
+ETYM: These Celtic forms preserve the full grade of the PIE root; the zero­ grade is preserved in \*garsman- and \*gari- (v.).
+REF: [EDPC]
+
+### <a id="garrv">\*garrV- "calf of the leg, shank" (n)</a>
+GOID: OIr. _gairr_ [i m or f] "calf of the leg"
+W: MW _garr_ [m and f] (GPC _gar_) "leg, shank, ham, thigh"
+BRET: MBret. _garr_ "leg", MoBret. _gar_
+CO: Co. _gar_ "leg"
+GAUL: \*garrā > OFr. _gare_ "leg"
+ETYM: OIr. _gairr_ is poorly attested, and even the precise meaning is uncertain. A good IE etymology is lacking. Perhaps it is possible to derive these forms from the PIE word for "hand" (PIE \*ǵʰesr > Hitt. _kissar_, Gr. _kheír_, JEW 447). We could assume an early metathesis, PIE \*ǵʰesr > \*gers-, and the generalization of the oblique stem, \*grs-, which is common in Celtic. A thematized \*grso- would yield PCelt. \*garro- regularly. Another possiblity is to assume \*gʰerso- > \*gerro-, and then a secondary zero grade \*grro-, which would yield PCelt. \*garro- regularly. The meaning "(calf of the) leg" could have developed from "hand, arm" via the more general "limb".
+REF: [EDPC]
+
+### <a id="garrman">\*gar(r)man- "cry, shout" (n)</a>
+GOID: OIr. _gairm_ [n n] "the act of shouting, calling"
+W: MW _garm_ [f]
+BRET: MBret. _garm_ [m]
+CO: Co. _garm_
+SEE: [\*gari-](#gari), [\*garyo- "word, command"](#garyo)
+ETYM: The short vowel is impossible if one starts from \*geh₂r-smen-; however, the development from the zero-grade of the root (\*gh₂r-smen-) is regular, and the zero-grade is attested in other such formations (cf. [\*kanxsman-](#kanxsman), [\*lanxsman-](#lanxman)). The chronology of the developments was probably \*gh₂r-smn- > \*garsman- > \*garrman- (> \*garman-).
+REF: [EDPC]
+
+### <a id="garwo">\*garwo- "rough, coarse" (adj)</a>
+GOID: OIr. _garb_ [o]
+W: MW _garw_
+BRET: MBret. _garu_, MoBret. _garw_
+CO: Co. _garow_
+ETYM: The (probably Gaulish) PN _Garvo_ attested in Pannonia might be related (Meid 2005: 231). Pokorny's attribution to the root \*ǵʰers- (IEW 445f., cf. Skt. _hárṣate_ "is delighted", Lat. _horreo_ "to stare, fear, tremble") is improbable for both semantic and formal reasons (PIE \*gʰrswo- would yield PCelt. \*garrwo-). It is better to relate these Celtic words to PCelt. \*_gargo_- < PIE \*ger-ǵ-). PCelt. \*garwo- would point to the zero-grade of the root, PIE \*gr-wo-. Both PCelt. \*gargo- and \*garwo- are clearly expressive formations.
+REF: [EDPC]
+
+### <a id="garyo-1">\*gar-yo- "call, cry" (v)</a>
+GOID: OIr. _gairid_, -_gair_; _garaid_, -_gara_ [subj.]; _géraid_, -_géra_ [fut.]; _gairt_, -_gart_ [prt.]; _grathae_, -_grath_ [prt.pass.]
+W: MW _garddu_ "groan, creak, crush, shake"
+BRET: OBret. _gerent_ gl. _dicunt_ [3p.prs.]
+PIE: \*geh₂r- "call" (IEW: 352)
+COGN: Lat. _garrīre_, Oss. _zaryn/zarun_ "sing"
+SEE: [\*gari-, \*garyo- "word, command"](#garyo-2)
+ETYM: Gaul. adgarion [acc.sg.] (Chamalieres) might perhaps be translated as "accusatorem" (Lejeune, Delamarre, Fleuriot), in which case it is a cognate of OIr. ad-gair "summon" (Delamarre 32, Lambert 1994: 151). The short \*a in this Celtic etymon is regular, if one starts from the zero­ grade \*gh₂r-yo-.The full grade of the root is preserved in \*gari- "call".
+REF: [EDPC]
+
+### <a id="garyo-2">\*garyo- "word, command" (n)</a>
+GOID: OIr. _gair_
+W: MW _geir_ [m] (GPC _gair_) "word, speech"
+BRET: MBret. _guer_, MoBret. _ger_ [m]
+SEE: [\*gāri- "shout, call"](#gari), [\*gar-yo- "call, cry"](#garyo-1)
+ETYM: OIr. _gair_ is not well attested, so we do not know its gender and stem formation. It is assumed here that the yo-stem is original in PCelt., but an i-stem would be possible as well. Zero-grade \*ǵh₂r-yo- must be posited for PIE, because of the development \*CHry >\*Cary-in Celtic.
+REF: [EDPC]
+
+### <a id="gasso">\*gasso- "sprig" (n)</a>
+SEE: [\*gazdo- "withe"](#gazdo)
+REF: [EDPC]
+
+### <a id="gawa">\*gāwā "falsehood, lie" (n)</a>
+GOID: OIr. _géu_ [ā f]
+W: MW _geu_ [m] "lie", "false" (GPC _gau_)​
+BRET: MBret. _gou_ "false, lie", MoBret. _gow_
+CO: Co. _gow_
+ETYM: MW _geu_ cannot be directly from \*gāwā; rather, it may presuppose \*guwo- (cf. _creu_ < \*kruwo-, an oblique stem of \*krū- "blood"). This means that we may have had a root-noun in PCelt., with the ablaut pattern \*gāw- / \*guwo-. The IE etymology of these Celtic words is dubious, partly also because several PCelt. reconstructions are possible; some derive them from alleged PIE \*gew- "bend, twist" (Norw. _kaa_, see IEW 393), but comparison with Lat. _haud_ "not", Skt. _gúhā_ "in secret", _gū́hate_ "conceals" seems more promising, if one starts from \*ǵʰew- (note that \*gāwā is most easily explained if the root ended in a laryngeal). Finally, the PIE root could be \*ǵʰeh₂u- if one wants to relate Lith. _at-žū́las_ "hard", Av. _zūrah­_- "unrighteousness", OCS _zъlъ_ "bad, wicked" (if from \*ǵʰuh₂lo-, \*ǵʰh₂u-lo-). All in all, as Vendryès would have said, _rien de sûr_.
+REF: [EDPC]
+
+### <a id="gayso">\*gayso- "spear" (n)</a>
+GOID: OIr. _gae_ [o m]
+W: MW _gwaew_ [m and f] (GPC _gwayw_)​
+BRET: OBret. _guugoiou_, MBret. _goa_
+CO: OCo. _hoch-wuyu_ gl. _venabulum_
+GAUL: _Ario-gaisus_ [PN], \*gaiso- > Lat. _gaesum_
+PIE: \*ǵʰoyso- "spear" (IEW: 410)
+COGN: Skt. _héṣas_- "weapon", OE _gār_ "spear"
+ETYM: Since the Celtic words for "spear" imply a proto-form with \*ay rather than \*oy, PCelt. \*gayso- may be a loanword from Germanic, cf. Delamarre 174. PIE \*ǵʰoyso- "spear" is probably derived from the root \*ǵʰeys- "wound" (Skt. _hinásti_ "wounds", with the nasal infix in the present stem). Another possibility is to compare Skt. _hetí_- "missile", Av. _zaena­_ "weapon" and derive PIE \*gʰoy-so- from the root \*gʰey- "to impel" (IEW 424).
+REF: [EDPC]
+
+### <a id="gaysseto">\*gaysseto- "mane, hair of beasts" (n)</a>
+GOID: MIr. _gaísid_
+PIE: \*gʰayt-s- "mane, animal hair" (IEW: 410)
+COGN: Gr. _khaítē_, Av. _gaēsu_- "curly-haired"
+ETYM: MIr. _gaísid_ is poorly attested, so this etymology, as well as the formation of the PCelt. word, remain purely conjectural. Lat. _caesariēs_ "long hair, plume" (and the name _Caesar_?) could be related only under the assumption that it is an early loanword from Celtic (Michiel de Vaan, p.c.).
+REF: [EDPC]
+
+### <a id="gazdo">\*gazdo- "withe" (n)</a>
+GOID: MIr. _gat_ [o m] "withe, osier"
+PIE: \*gʰasdʰ- / \*gʰast- "shaft" (IEW: 412f.)
+COGN: Lat. _hasta_ "spear-shaft, lance", Go. _gazds_ "goad"
+ETYM: OIr. _gass_ "sprig" might represent another reflex of the same PIE root, \*gʰasto- (> PCelt. \*gasto-). The a-vocalism points to the possibility that this is a loanword from some non-IE language. I do not believe that OIr. _gataid_ "steals" belongs together with these words (IEW 412). It is rather a denominative verb from _gait_ (earlier _goit_) "theft, taking away", which may be from PCelt. \*gozdi- (through assimilation in voicing) < PIE \*gʰosti-­ "host, guest" (OCS _gostъ_, Go. _gasts_, Lat. _hostis_, IEW 453). The variant _gait_ could have arisen to avoid homonymy with _got_ "stammering, lisping". Cf. also OIr. _gataige_ "thief" < \*gozd-agyo-. It is generally thought that Lep. _Uvamo-kozis_ (Prestino) contains PCelt. \*gostis < PIE \*gʰostis "guest" (OCS _gostъ_, Go. _gasts_, etc.).
+REF: [EDPC]
+
+### <a id="gdesi">\*gdesi "yesterday" (adv)</a>
+GOID: OIr. _in-dé_
+W: MW _doe_, _ddoe_
+BRET: MBret. _dech_, MoBret. _dec'h_
+CO: OCo. _doy_ gl. _heri_, Co. _de_
+PIE: \*dʰǵʰ(y)es(i)- "yesterday" (IEW: 41)
+COGN: Skt. _hyás_, Gr. _khthés_, Lat. _heri_, OHG _gesterēn_, Alb. _dje_
+ETYM: The reconstructed PIE adverb \*dʰǵʰ(y)es(i) is a petrified loc.sg. of some old root-noun(? \*dʰǵʰ(y)ōs) which meant "the preceding day" vel. sim. There are considerable differences between the reflexes in individual IE languages (for a thorough discussion, see Isaac 2007: 75ff.). Note also the possibility that the original form was actualy \*ǵʰ-dyes-, where \*ǵʰ- is a demonstrative particle, and \*dyes- a derivative of the root \*dey- "day" (Lat. _diēs_, etc.), cf. Schindler 1977. For the development of the initial \*gd- in Celtic cf. [\*gdon- "earth, place"](#gdon) and [\*gdonyo- "human, person"](#gdonyo).
+REF: [EDPC]
+
+### <a id="gdon">\*gdon- "earth, place" (n)</a>
+GOID: OIr. _dú_ [n f] "place, spot"
+PIE: \*dʰeǵʰōm "earth" (IEW: 414f.)
+COGN: Hitt. _tēkan_, Skt. _kṣā́_, _kṣám_-, Lat. _humus_, OCS _zemlja_, Alb. _dhe_, ToB _keṃ_
+ETYM: The word-initial cluster \*gd- may have been simplified to \*d­ already in PCelt. (McCone 1996: 48), cf. PCelt. [\*gdesi (\*xdesi- "yesterday")](#gdesi) and [\*gdonyo- "human, person"](#gdonyo).
+REF: [EDPC]
+
+### <a id="gdonyo">\*gdonyo- "human, person" (n)</a>
+GOID: OIr. _duine_ [io m]; _doíni_ [p]
+W: MW _dyn_ [m and f]
+BRET: OBret. _don_, _den_, MBret. _den_
+CO: OCo. _den_ gl. _homo_
+GAUL: -_xtonio_ (Vercelli)
+PIE: \*dʰǵʰom-yo- "human, earthling" (IEW: 414)
+COGN: Lat. _homo_, Go. _guma_
+SEE: [\*gdon- "earth"](#gdon)
+ETYM: The Gaulish form -_xtonio_ (in the compound form _teuoxtonio_) should be read -_gdonio_ (the alphabet of Vercelli does not distinguish between voiced and voiceless stops, cf. Delamarre 176). OIr. nom.pl. _doíni_ is from a suppletive stem (attested also as nom.sg. _doín_, _doén_ in poetry).
+REF: [EDPC]
+
+### <a id="gelo">\*gelo- "yellow, white" (adj)</a>
+GOID: OIr. _gel_ [o] "white, fair, shining"
+W: MW _gell_ "yellow"
+BRET: MBret. _gell_ "brown"
+PIE: \*ǵʰelh₃- "yellow, green" (IEW: 429f.)
+COGN: Lat. _heluus_ "honey yellow", Gr. _khlōrós_ "pale green", Skt. _hári­_ "green", OCS _zelenъ_ "green", OE _geolu_ "yellow"
+ETYM: Since PCelt. \*lw should be reflected as OIr. _lb_ (cf. _delb_ < \*_delwā_ "form, appearance"), it is difficult to reconstruct \*gelwo- to agree with Lat. _heluus_ and OE _geolu_ < \*ǵʰelh₃(i)wo-. PCelt. \*gelawo- < \*ǵʰelh₃wo- is excluded since we would expect this to develop to \*galawo- by Joseph's rule, so PCelt. \*gelo- can reflect a simple thematic \*ǵʰelh₃o-. Another possibility is to assume that \*w was lost before \*o, but retained before \*ā in \*delwā, in which case \*gelwo- > MW _gell_ would be regular (with _ll_ < \*lw).
+REF: [EDPC]
+
+### <a id="gelu">\*gelu- "leech" (n)</a>
+GOID: MIr. _gil_
+W: MW _gel_ [f and m] (GPC _gelau_, _gele_, _gêl_)​
+BRET: MBret. _gélaouen_
+CO: OCo. _ghel_ gl. _sanguissuga_
+PIE: \*ǵelu- "leech" (IEW: 365)
+COGN: Skt. _jalūkā_-, _jalāyukā_- "leech"
+ETYM: A very doubtful etymology, amounting to a mere possibility. The Irish word is rather poorly attested, mostly in glossaries, and Skt. _jalūkā_-, _jalāyukā_-, besides also being attested late, is connected by Mayrhofer to _jarā́yu_- "old snake skin" (Mayrhofer, s.v. _jarā́yu_-), which is in turn derived from the root _JAR_ "get old" (Skt. _járati_, etc.).
+REF: [EDPC]
+
+### <a id="gemeno">\*gem-eno-, \*gemelo- "chain, shackle" (n)</a>
+GOID: MIr. _gemel_ [o and a, m and f]
+W: MW _gefyn_ [m]
+PIE: \*gem- "hold"
+COGN: Gr. (Hom.) _génto_ "he took", Latv. _gùmti_ "seize", Russ. _žat'_, _žmu_ [1s.prs.] "squeeze"
+ETYM: The PCelt. word cannot be reconstructed precisely, since the suffixes in Goidelic and Brittonic do not agree. It is also unclear whether (and how) MIr. _gebend_ [m and f] "fetter, bond" is related to these words (a borrowing from Brittonic?). Cf. also OIr. _gemen_, _geimen_ "hide, skin", which corresponds to MW _gefyn_, but is semantically quite distant. The PIE etymology is purely conjectural, since the meanings do not agree well.
+REF: [EDPC]
+
+### <a id="genan">\*genan- "birth" (n)</a>
+SEE: [\*gan-yo- "be born"](#ganyo), [\*genos- "family"](#genos)
+REF: [EDPC]
+
+### <a id="gendv">\*gendV- "wedge, block, lump" (n)</a>
+GOID: MIr. _geind_ (DIL _genn_) [d f] "wedge, block"
+W: W _gaing_ "chisel, wedge"
+BRET: OBret. _genn_, MBret. _guenn_, MoBret. _genn_
+CO: Co. _gen_
+PIE: \*gʰed- "take, seize" (IEW: 473f.)
+COGN: Lat. _prae-hendo_, Gr. _khandánō_
+SEE: [\*gan-d-o- "take place"](#gando)
+ETYM: Since the OIr. word is a consonant stem, it is difficult to reconstruct the PCelt. inflection class. Perhaps this word was an i-stem in PCelt. (\*gendi-), which later became a d-stem in Goidelic.
+REF: [EDPC]
+
+### <a id="geneta">\*genetā "girl" (n)</a>
+W: W _geneth_ [f]
+GAUL: _geneta_, _genata_, _gnata_
+PIE: \*genh₁- "bear, engender, generate" (IEW: 373ff.)
+COGN: Lat. -_genitus_ in _primo-genitus_ "first born"
+SEE: [\*genos- "family"](#genos)
+ETYM: W _geneth_ points to a geminate \*genettā; this PCelt. noun is derived with the suffix \*-eto- (cf. Osc. _genetaí_ "daughter" [dat.sg.]. OIr. _ingen_ [ā f] "daughter" < \*eni-genā (Ogam _INIGENA_) is another formation from the same root, cf. also Gaul. (Larzac) _andognam_ "born inside (the family)" and PN _Andegenus_. OIr. PN _Sogen_ (Ogam gen. _SOGINI_) is presumably from \*su-ǵenh₁o- "well-born" (Skt. _sujana_-).
+REF: [EDPC]
+
+### <a id="genos">\*genos- "family, gens" (n)</a>
+GOID: OIr. _Éo-gan_ [PN], Ogam _INI-GENA_ "daughter"
+W: OW _Mor-gen_ [PN]
+BRET: OBret. _gen_ gl. _ethnicus_, MoBret. _genel_ "generate"
+GAUL: _Ad-genus_, _Cintu-genus_ [PN]
+PIE: \*ǵenh₁-os "family, clan, descendants" (IEW: 373ff.)
+COGN: Skt. _jánas_-, Gr. _génos_, Lat. _genus_
+SEE: [\*gan-yo- "be born"](#ganyo)
+REF: [EDPC]
+
+### <a id="genu">\*genu- "jaw" (n)</a>
+GOID: OIr. _gin_ [u m] "mouth"
+W: MW _gen_ [f] "cheek" (GPC _gên_)​
+BRET: OBret. _gen_ gl. _maxilla_, MBret. _guen_, MoBret. _gen_ [f] "cheek"
+CO: OCo. _genau_
+PIE: \*genu- "jaw" (IEW: 381)
+COGN: Skt. _hánu_-, Gr. _génys_, Lat. _gena_ "cheek", OE _cinn_, ToA _sanweṃ_ [dual] "jaws"
+ETYM: The Gaulish name of Genève, _Genaua_, is usually derived from the same etymon. The original meaning would have been "mouth (of a river)", from the old dual.
+REF: [EDPC]
+
+### <a id="gessi">\*gessī "taboo, prohibition" (n)</a>
+GOID: MIr. _geis_ [?ī f]
+PIE: \*gʰed- "seize, take" (IEW: 437f.)
+COGN: Lat. _prae-hendo_, Gr. _khandánō_
+SEE: [\*gan-d-o- "take place"](#gando)
+ETYM: The MIr. word can be derived regularly from \*gʰed-ti-h₂, but the semantic development ("taking" > "prohibition, taboo") is somewhat difficult, see Hamp 1981. Moreover, it is by no means certain that the original formation was an ī-stem. If an ā-stem is original in Irish, we might reconstruct PCelt. \*gissā (> OIr. \*gess by lowering), and derive this word from PIE \*gʰidʰ-teh₂ "what is desired" (cf. PIE \*gʰeydʰ- > Lith. _geidžiù_ "desire", OCS _žъdati_ "wait", IEW 426). The same root is probably attested in PCelt. [\*gēstlo- "surety, pledge, hostage"](#gestlo).
+REF: [EDPC]
+
+### <a id="gestlo">\*gēstlo- "surety, pledge, hostage" (n)</a>
+GOID: OIr. _giall_ [o m] "hostage"
+W: MW _gwystyl_, _gwystl_ [m and f] "pledge, surety, hostage"
+BRET: OBret. _guistl_ gl. _obses_, MBret. _goestl_, MoBret. _gouestl_ [m]
+CO: OCo. _guistel_ gl. _obses_
+GAUL: _Con-geistlus_ [PN]
+PIE: \*gʰeydʰ- "desire, wait for" (IEW: 426)
+COGN: Lith. _geidžiù_ "desire", OCS _žъdati_ "wait"
+ETYM: W _gwystl_ and other Brittonic words probably have an epenthetic -_t­_- (before \*l), cf. Schrijver 1995: 404f. Olc. _gísl_ "hostage", Germ. _Geisel_, etc. are old loanwords from Celtic. The IE etymology of these Celtic words is somewhat weak on the semantic side. Could "hostage" be interpreted as "one who is waiting (to be released)"?
+REF: [EDPC]
+
+### <a id="gexdo">\*gexdo/ā- "goose" (n)</a>
+GOID: MIr. _géd_ [o m]
+W: MW _guit_ (GPC _gwydd_) [f]
+BRET: MBret. _gwaz_ [f]
+CO: OCo. _guit_ gl. _auca_, Co. _goth_
+ETYM: Presumably an onomatopoetic word, there is probably no connection to PIE \*ǵʰeh₂-ns "goose" (cf. PCelt. [\*gansi- "swan"](#gansi)).
+REF: [EDPC]
+
+### <a id="glaxsma">\*glaxsmā "cry, shout" (n)</a>
+GOID: MIr. _glám_ [ā f] "outcry, clamour, satire"
+PIE: \*gla-ǵʰ- "cry, shout" (IEW: 350f.)
+COGN: Skt. _garh_-, OHG _klaga_, Germ. _klagen_
+ETYM: The comparison with OHG _klaga_ allows the reconstruction of the PIE root as above; a different vocalization (Schwebeablaut?) must be assumed for Sanskrit. This is quite clearly an onomatopoetic root, so the correspondences in Germ. and Skt. could be accidental.
+REF: [EDPC]
+
+### <a id="glanndo">\*glan-n-d-o- "show" (v)</a>
+GOID: OIr. _as-gleinn_ "examines"
+PIE: \*gʰlendʰ- "show, shine" (IEW: 431)
+COGN: Russ. _gljadét'_ "watch", Latv. dial. _gledni_ [ipv.] "search!", perhaps Alb. _gjas_ "I am similar"
+ETYM: OIr. _as-gleinn_ < \*eks-gland-o- (the simplex is unattested). OBret. _golent_ gl. _prex_ (MBret. _goulen_) might be from \*ufo-glendā, a derivative from the same root, cf. OIr. _fo-gliunn_ gl. _disco_.
+REF: [EDPC]
+
+### <a id="glano">\*glano- "clean, clear" (adj)</a>
+GOID: OIr. _glan_ [o], Ogam _GLANNANI_
+W: MW _glan_ (GPC _glân_)
+BRET: OBret. _glan_, MBret. _glan_
+CO: Co. _glan_
+GAUL: _Glanis_ [hydronym], (Matrebo) Glaneikabo [Theonym]
+ETYM: Pokorny's derivation of these words from the root for "green, yellow" (\*ǵʰelh₃- , IEW 429, cf. [\*gel(w)o-](#gelo)) is formally difficult (? \*ǵʰlh₃nó- > \*glānó-, then \*glano- by Dybo's law) and semantically not quite convincing (? "yellow" > "bright" > "clear, clean").
+REF: [EDPC]
+
+### <a id="glasto">\*glasto- "green, blue" (adj)</a>
+GOID: OIr. _glas_ [o]
+W: OW _glas_, MW _glas_
+BRET: MBret. _glas_
+CO: OCo. _glesin_ gl. _sandix_
+GAUL: _glastum_ "Isatis tinctoria" (Pliny)
+ETYM: For the apparent preservation of \*-st- in Gaul., cf. Schrijver 1995: 402. In principle, these forms could represent PIE \*ǵʰlh₃-stó- > \*glāstó- > \*glasto- (by Dybo's shortening). The PIE root would have been \*ǵʰelh₃- "yellow, green" (IEW 429ff.), as in [\*gel(w)o-](#gelo). Cf. also MHG _glasta_ "shine", which may reflect a prehistoric borrowing from Celtic (if it is related at all).
+REF: [EDPC]
+
+### <a id="glendos">\*glendos- "valley, shore" (n)</a>
+GOID: OIr. _glend_ [s n] (DIL _glenn_)​
+W: MW _glynn_ (GPC _glyn_) [m] "glen, valley"
+BRET: MBret. _glann_ "shore"
+CO: Co. _glan_
+PIE: \*glend- "shore" (?)
+COGN: MLG _klint_, "shore" ON _klettr_ "rock"
+ETYM: Clearly limited to Celtic and Germanic, this word could have been borrowed from some non-IE language of NW Europe.
+REF: [EDPC]
+
+### <a id="glina">\*gli-na- "glue" (v)</a>
+GOID: OIr. _glenaid_, -_glen_; _glieid_, -_glia_ [subj.]; _gíulaid_, -_gíulai_ [fut.]; _gíuil_ [prt.]
+W: MW _glynu_
+BRET: MBret. _englenaff_ "stick"
+CO: Co. _glena_
+PIE: \*gleyH- (IEW: 362)
+COGN: OHG _klenan_ "smear", Lith. dial. _glejù_ "smear"
+ETYM: MBret. _englenaff_ < \*en-gli-na- (the simplex verb is unattested in Breton).
+REF: [EDPC]
+
+### <a id="glomro">\*glomro- "bridle-bit, muzzle" (n)</a>
+GOID: MIr. _glomar_ [o m]
+PIE: \*glem- "ball-shaped mass" (?)(IEW: 359f.)
+COGN: OHG _klamma_ "trap, gorge", OE _clam(m)_ "tie, fetters", perhaps Lat. _glomus_ "ball-shaped mass"
+ETYM: This is a dubious etymology chiefly because there is a considerable difference in meaning between OIr. _glomar_ and its putative cognates in Lat. and Germanic. The meaning "bridle-bit" could have developed from "gag" and this, in turn, from "ball-shaped mass" (cf. Lat. _glomus_).
+REF: [EDPC]
+
+### <a id="glowo">\*glowo- "charcoal" (n)</a>
+W: MW _glo_ [m]
+BRET: MBret. _glou_, _glaou_, MoBret. _glow_ [coll.]
+CO: Co. _glow_
+PIE: \*gʰlewH- "burning" (IEW: 433)
+COGN: OE _glowan_ "glow", MHG _glau_ "clever, intelligent"
+ETYM: The relationship (if there is any) of these Brittonic words to MIr. _gúal_ "coal" is unclear.
+REF: [EDPC]
+
+### <a id="gloydo">\*gloydo- "glue, lime" (n)</a>
+GOID: MIr. _glóed_ (OIL _gláed_)​
+W: MW _glud_ [m]
+BRET: MBret. _glut_, MoBret. _glud_
+CO: OCo. _glut_ gl. _gluten_, MoCo. _glüs_
+SEE: [\*gli-na- "glue"](#glina)
+ETYM: The gender and stem-formation of MIr. _gláed_ are uncertain. It is possible that the Brit. words were actually borrowed from Lat. _gluten_ (Haarmann 1970: 122). Cf. also Fr. _glaise_ "clay" which may be from Gaul. \*glēssā < \*gleyd-tā (Gamillscheg 480).
+REF: [EDPC]
+
+### <a id="gloywo">\*gloywo-, \*glewi- "liquid, clear" (adj)</a>
+GOID: OIr. _glé_ "clear, evident"
+W: OW _gloiu_ [m] gl. liquidum, MW _gloyw_, _gloew_
+BRET: OBret. _gloeu_
+PIE: \*gʰleyh₂- "shine" (IEW: 432)
+COGN: Gr. _khliáinō_ "warm", ON _gljá_ "sparkle", MHG _glīmen_ "to shine"
+ETYM: OIr. _glé_ (rather than \*\*glóe) points to PCelt. \*glēwi- (rather than \*gloywo-), but British forms are more easily derived from \*gloywo-. W _gledd_ "face of the earth, turf" could go back to PCelt. \*gliyā, but the semantic connection is weak. The same can be said for the IE cognates of this PCelt. etymon; another possibility would be to take "liquid" as the original meaning and compare Gr. _gloiós_ "glutinous substance", Russ. dial. _glëv_ "slime, mould" < PIE \*gloh₁iwo- (Derksen 2008: 163).
+REF: [EDPC]
+
+### <a id="glunos">\*glūnos- "knee" (n)</a>
+GOID: OIr. _glún_ [s n]
+W: MW _pen-lin_, _pen-glin_ [m and f]
+BRET: MBret. _penn-glin_
+CO: OCo. _penclin_ gl. _genu_
+PIE: \*ǵonu "knee" (IEW: 380f.)
+COGN: Skt. _jā́nu_-, Gr. _góny_, Lat. _genū_
+ETYM: The transformation of PIE \*ǵonu- into PCelt. \*gnūnos > OIr. _glún_ is difficult to understand, but the etymology is beyond doubt. Long \*ū might reflect the old dual ending in \*-uh₁, and the cluster \*gl- arose from \*gn- in the zero-grade of the PIE root (the same change occurred, independently, in Albanian, cf. Alb. _gju_ "knee" < \*glun-). The first element of the compound attested in the Brit. languages is the word for "head" (\*kʷenno-). Probably \*kʷenno-gnūnos referred originally to knee-caps only (cf. the parallelism with the Eng. compound knee-cap).
+REF: [EDPC]
+
+### <a id="gnasto">\*gnāsto- "custom, usage" (n)</a>
+SEE: [\*gnāto- "known, usual"](#gnato)
+REF: [EDPC]
+
+### <a id="">\*gnāto- "known, usual" (adj)</a>
+GOID: OIr. _gnáth_ [o]
+W: MW _gnawt_ (GPC _gnawd_)​
+BRET: OBret. _gnot_ "usual"
+PIE: \*ǵenh₃- "know" (IEW: 373ff.)
+COGN: Gr. _gignṓskō_, Lat. _co-gnōsco_, OCS _znati_, Lith. _žinóti_
+ETYM: Certain Gaulish compounds with -_gnatos_ can be understood both as "known" < \*ǵnh₃tos and as "born" < \*ǵnh₁tos, see Delamarre 181f. Next to adjectives in \*-to- we also find nouns in \*-sto- from this root (a productive pattern in Celtic, see Greene 1965): OIr. _gnás_ [ā f] "custom, usage, intercourse", W _gnaws_ (GPC _naws_) < PCelt. \*gnāsto- < \*ǵnh₃sto- (cf. Go. _kund_ vs. _kunst_).
+REF: [EDPC]
+
+### <a id="gnimu">\*gnīmu- "work, action" (n)</a>
+GOID: OIr. _gním_ [u m]
+W: OW _guor-gnim_ "great toil, exertion"
+BRET: OBret. _im-guo-gnim_
+SEE: [\*gn-iyo- "beget, create"](#gniyo)
+ETYM: OIr. _gním_ serves as the verbal noun to _gniid_ (see [\*gni-yo-](#gniyo)). PCelt. \*gnīmu- can be from PIE \*ǵneh₁-mo-, with the (secondary) full grade of the root "to beget" (\*genh₁-), or, perhaps, from \*ǵneye-mu- (see \*gn-iyo-).
+REF: [EDPC]
+
+### <a id="gnina">\*gni-na- "recognize" (v)</a>
+GOID: OIr. _ad-gnin_; -_géna_ [fut.]; _ad-gén-sa_ [3s.prt.rel.]
+W: MW _atnabot_; _atwaen_ [3s.prs.] (GPC _adwaen_)​
+CO: Co. _aswonvos_; _aswon_ [3s.prs.]
+PIE: \*ǵenh₃- "know" (IEW: 373ff.)
+SEE: [\*gn-iyo- "beget, create"](#gniyo)
+ETYM: OIr. _ad-gnin_ < \*ati-gni-na-, MW _atwaen_ < \*ati-ufo-gni-, Co. _aswonvos_; _aswon_ [3s.prs.] < \*ati-ufo-gni-. Gaul. _gniiou_ (Chateaubleau) is probably 1 sg. prs. of the verb "to know, recognize". In principle, it can be derived from PCelt. \*gnīyū < PIE \*ǵnēh₃-yo- (by Eichner's law, which is not universally accepted). But it could also be related to PCelt. \*gn-iyo- "beget, make".
+REF: [EDPC]
+
+### <a id="gniyo">\*gn-iyo- "beget, create, do" (v)</a>
+GOID: OIr. _gniid_, -_gní_ "do"; _gneith_, -_gné_ [subj.]; _génaid_, -_géna_ [fut.]; _génais_ [prt.]
+PIE: \*genh₁- "beget" (IEW: 373-375)
+COGN: Lat. _gigno_, Skt. _jánati_ "begets"
+ETYM: OIr. -_gní_ is somewhat problematic, because of its long _í_. If it is derived directly from \*gniyeti, then we have to explain why we have short _i_, e.g., in _biid_ "is wont to be" < \*bwiyeti. We know that \*treyes "3" yields OIr. trí (at least when used substantively; as an attribute, it is proclitic, hence shortened to _tri_). Therefore, _(do-)gní_ can be from \*gneyeti (with the early loss of laryngeal, originally before \*y, or from an anit-form of the root, as in Lat. _gens_). On the other hand, disyllabic _biid_ "is wont to be" can be from \*biyeti < \*bʰuyeti, or from \*bʰwiyeti (cf. Lat. _fio_). The same form is attested in Gaul. _biiete_ (Inscription from Lime) < \*bʰuHyete or \*bʰwiyete. It appears that PCelt. \*i remains syllabic before glides followed by a vowel, cf. PCelt. \*biwato- > OIr. _biad_ "food" (disyllabic). In any case, OIr. _biid_ must be from PCelt. \*b(w)iyeti, while -_gní_ can be from \*gneyeti. This can be the old causative formation (with the suffix \*-eye-) built from the zero grade of the root. The meaning of OIr. -_gní_ "do, make" is actually fully compatible with the originally causative formation of this verb, but why was the root in the zero-grade, rather than in the expected o-grade? On the other hand, it is also possible to derive -_gní_ from PCelt. \*gnīyeti < PIE \*ǵneh₁yeti (thus McCone 1991: 33) because we know that PCelt. \*snīyeti (< PIE \*sneh₁yeti) yields OIr. _sniid_, -_sní_ "spin, weave". However, I find this explanation inherently improbable because the alleged proto-form \*gneh₁yeti lacks any parallels in Celtic or elsewhere. More similar is the present stem of \*to-sl-iyo- "eam" < \*slh₁-yo- from the root \*selh₁- (see the discussion s.v. [\*to-sl-iyo-](#tosliyo)).
+REF: [EDPC]
+
+### <a id="goban">\*goban- "smith" (n)</a>
+GOID: OIr. _gobae_ [n m]
+W: MW _gof_ [m]
+BRET: MBret. _gof(f)_, MoBret. _gov_
+CO: OCo. _gof_ gl. _faber_
+GAUL: _Gobano_ [PN], _Cobanno_ [Theonym, dat.] _gobedbi_ [dat.pl.] (Alise)
+ETYM: Cf. also OBret. _gobail_ gl. _officina_ = MW _geueil_, Co. _gofail_. Gaul. _gobedbi_ may represent a further derivative, PCelt. \*gob-et- (for the type of formation cf. [\*kenget- "warrior"](#kenget)). The IE etymology is unknown. A comparison with Lat. _faber_ "craftsman, artisan" has been proposed long ago (Mac Bain 1911: 200, revived by Blazek 2006). It is possible if one starts from PIE \*gʷʰobʰ- or \*gʰwobʰ- (with \*o > _a_ after labials in Latin, as in _mare_ "sea" < \*mori), but _faber_ is usually connected with Arm. _darbin_ "smith" < \*dʰHbʰ-ro-.
+REF: [EDPC]
+
+### <a id="gobbo">\*gobbo- "muzzle, snout, beak" (n)</a>
+GOID: MIr. _gop_ [o m]
+GAUL: \*gobbo- > OFr. _gobel_, _gobet_ "bit", Fr. _gober_ "swallow"
+PIE: \*goph₃o- "eat, masticate (of animals)" (IEW: 382)
+COGN: OE _ceafl_ "jaw,jowl", Russ. _zobát'_ "masticate"
+ETYM: The geminate \*-bb- in Celtic is typical of expressive words. The PIE reconstruction proposed here avoids positing PIE \*b (there were no roots with two voiced stops in PIE) . However, without the doubtful Germanic cognates, the Celtic and Slavic words could well go back to PIE \*ǵ(ʰ)obʰ-.
+REF: [EDPC]
+
+### <a id="gorto">\*gorto- "fence, enclosure, pen" (n)</a>
+GOID: OIr. _gort_ [o m, perhaps originally n] "field"
+W: W _garth_ [m] "field, pen"
+BRET: OBret. -_(o)rth_ "pen", MBret. _garz_, MoBret. _garzh_ [f]
+GAUL: \*gortiā > _Gorze_ [toponym], Fr. dial. (Limousin) _gorso_ "fence"
+PIE: \*gʰōrdʰ-s, gen. \*gʰrdʰ-os "enclosure, garden, pen" (JEW: 444)
+COGN: Skt. _gṛhá_- "house", Lat. _hortus_ "garden", Gr. _khortos_, OHG _garto_ "garden", Russ. _górod_ "town", Alb. _gardh_ "hedge"
+ETYM: In MW _garth_ also means "mountain ridge, hill, woodland", but GPC treats this as a different word. The development of \*o > a in Brittonic is as in MW _gwallt_ "hair" < \*gwollt (PCelt. \*wolto-). Celtib. _korta_, _kortika_ are sometimes related to this etymon, but with little justification (the meaning of these words is unknown). For the compound \*lubi-gorto- "herb garden" cf. PCelt. [\*lubī/ā- "herb, plant"](#lubi). On the IE side of this etymology, the voiceless stop seen in Celtic, Greek and Latin is best explained if one assumes that \*-dʰs (in the Nominative) was assimilated to \*-ts, from which \*-t- was then extrapolated to other case-forms (with generalized o-grade from the accusative (\*gʰordʰ-m), see Matasovic 2004: 99, 137. It should be noted, however, that the lengthened grade of the original root noun is not preserved anywhere. For a possibly similar development, cf. PCelt. [\*druko- "bad"](#druko).
+REF: [EDPC]
+
+### <a id="gowlo">\*gowlo- "charcoal" (n)</a>
+GOID: MIr. _gúal_ [o m and a f]
+PIE: \*gʷel(H)- "bum, glow" (IEW: 399)
+COGN: Skt. _jvālá_- "flame, coal", OE _col_ "glowing piece of wood", ON _kol_ "coal", perhaps ToB _śoliye_ "hearth".
+SEE: [\*glowo- "charcoal"](#glowo)
+ETYM: The PCelt. reconstruction of this etymon is uncertain, and it is difficult to reconcile it with PIE \*ǵwelH-. The Germanic forms point to the zero-grade \*ǵulo- > PGerm. \*kulan (Orel 2003: 223). One would have to assume "Schwebeablaut", which is improbable. Skt. _jvālá_- is from the root the primary meaning of which is "burn", cf. _jvalati_ "burns" (Mayrhofer, s.v. _jval_-), and the connection with "coal" is not obvious. Starting from PCelt. \*gwol- would imply that the reflexes of PIE \*gʷ and \*gw were distinct in PCelt., which can hardly have been the case (\*gʷolo- as well as \*gwolo­ would give PCelt. \*\*bolo-). Maybe we should simply assume that PCelt. \*glow-lo- was dissimilated to \*gowlo- in Goidelic, cf. W _glo_, MBret. _glow_ "coal" from PCelt. \*glowo-. Skt. _jvālá_- and the Germanic words for "coal" would then be from a different root.
+REF: [EDPC]
+
+### <a id="gowrya">\*gowryā "animal hair" (n)</a>
+GOID: MIr. _gúaire_ "(animal hair), bristles"
+PIE: \*gowr (gen. \*gun-os) "animal hair" (IEW: 357)
+COGN: Av. _gaona_- "hair", Lith. _gauraĩ_ "body hair", Norw. _kaure_ "frizzy strand of wool"
+ETYM: The stem formation and gender of MIr. _gúaire_ are unclear, as this word is attested mostly in glossaries. Russ. _gúnja_ "cloak" and the related Slavic words are probably loanwords from Iranian.
+REF: [EDPC]
+
+### <a id="gozdi">\*gozdi- "theft" (n)</a>
+SEE: [\*gazdo- "withe"](#gazdo)
+REF: [EDPC]
+
+### <a id="gragni">\*gragni- "awful" (adj)</a>
+GOID: MIr. _gráin_ [f] "awfulness, horror"
+W: MW _graen_ "dire, awful, sad"
+ETYM: An expressive word that has been connected to similar words in other IE languages, e.g. OCS _groza_ "horror", Gr. _gorgós_ "grim, fierce" (IEW 353). Cf. also PCelt. [\*gargo- "horror"](#gargo).
+REF: [EDPC]
+
+### <a id="gradno">\*grando-, \*grendo- "beard" (n)</a>
+GOID: MIr. _grend_ [?ā f]
+W: MW _grann_ [m] "chin, beard, cheek" (GPC _gran_)​
+BRET: MBret. _grann_ "eyebrow"
+GAUL: \*grenno- "moustache, beard" > Pr. _gren_ "moustache"
+PIE: \*gʰren- "moustache" (IEW: 440)
+COGN: OE _granu_, OHG _grana_
+ETYM: The semantic development of MBret. _grann_ "eyebrow" is unclear (? "beard" > "any hair on the face" > "eyebrow"). The attested forms point to two different ablaut grades in PCelt. Should we reconstruct an ablauting paradigm \*grends / \*grand-os? The name of the Gaulish equivalent of Apollo, _Grannos_, is sometimes related to this set of forms, but he is actually never portrayed with a beard (see Delamarre 183). If the etymology is correct, the Celtic words are derived from the PIE root \*gʰren- / \*gʰrn- with a dental suffix (? \*-dʰ-). The related Germanic words can be from PIE \*gʰrono-, with the o-grade. Alb. _krënd_ "bushwood", Croat. _grána_ "branch" and the related Slavic words are probably not derived from this root.
+REF: [EDPC]
+
+### <a id="grano">\*grāno- "grain" (n)</a>
+GOID: OIr. _grán_ [o n]
+W: MW _grawn_ [p], _gronyn_ [sing. m]
+BRET: MBret. _greun_ [m]
+CO: OCo. _gronen_ gl. _granum_
+PIE: \*grHno- "grain" (IEW: 390f.)
+COGN: Lat. _grānum_, OHG _korn_, Lith. _žìrnis_ "pea"
+ETYM: If the PIE word for "grain" is derived from the root \*ǵerh₂ "ripen, age" (IEW 390, EIEC 236, cf. Skt. _járati_ "gets old", Gr. _gérōn_ "old man", etc.), then the correct reconstruction is \*ǵrh₂no-. In any case, the meaning "grain" is found only in the European branches of IE, so it is probably a semantic innovation.
+REF: [EDPC]
+
+### <a id="grawa">\*grāwā "gravel, pebbles" (n)</a>
+W: MW _gro_ "coarse mixture of pebbles and sand deposited in a river-bed" [coll.]
+BRET: MoBret. _groa_, _gro_ [f] "sand"
+CO: Co. _grow_ "sand"
+GAUL: \*growa > OFr. _groe_ "pebble"
+PIE: \*gʰ reh₁w- "rind" (IEW: 460f.)
+COGN: Lith. _grū́sti_ "grind (barley)", _grúodas_ "frost, frozen street dirt", Croat. _grȕda_ "lump", ON _grautr_ "porridge"
+SEE: [\*grīyano- "gravel"](#griyano)
+ETYM: PCelt. \*grāwā is regularly derived from PIE \*gʰroh₁weh₂. The same root is presumably attested in PCelt. [\*grīyano- "gravel"](#griyano). Balto-Slavic and Germanic show the same root with the dental suffix (\*gʰroh₁w-do-, \*gʰruh₁do-).
+REF: [EDPC]
+
+### <a id="gregi">\*gregi- "herd" (n)</a>
+GOID: OIr. _graig_ [in] "horses (collective)"
+W: MW _gre_ [f]
+BRET: MBret. _gre_ [f]
+CO: Co. _gre_
+PIE: \*greg- "herd" (IEW: 382f.)
+COGN: Lat. _grex_, Gr. _gárgara_ "crowd"
+ETYM: Cf. also OIr. _grafand_ [ā f, perhaps originally o n] "horse-race" < \*grego-swendnā. The PIE root is presumably \*ger- (or \*h₂ger-) "gather". W _gre_ "herd, stud" [m], MoBret. _gre_ and Co. _gre_ are usually considered to be loanwords from Lat. _grex_, but it is also possible that they are inherited.
+REF: [EDPC]
+
+### <a id="gremmen">\*gremmen- "seizure, grasp" (n)</a>
+GOID: OIr. _greimm_ [n n later m] "seizure, hold, grasp, profit, advantage, sway"
+PIE: \*gʰreb(h₂) - "seize, grasp" (IEW: 455)
+COGN: Skt. _grabh_- "seize", _gṛbhṇā́ti_ [3s.prs.] Lith. _grė́biu_, _grė́bti_ "snatch", OCS _grabiti_ "seize"
+ETYM: PCelt. \*gremmen- presupposes PIE \*greb(ʰ)(h₂)-(s)men-. For the sound development cf. \*braxsman- "fart". The reconstruction of \*h₂ in this root is not certain, and an alternative possibility is to reconstruct PIE \*gʰrebʰ-, but then the Balto-Slavic words must have the vowel length as a result of Balto-Slavic vṛddhi, rather than of Winter's law.
+REF: [EDPC]
+
+### <a id="grindo">\*gri-n-d-o- "follow, drive" (v)</a>
+GOID: OIr. _do-greinn_
+W: MW _grynnyaw_ "push, press, thrust"; _gryn_ [3s.prs.] (GPC _grynio_, _grynnu_)​
+PIE: \*gʰreydʰ- (IEW: 456f.)
+COGN: Go. _grid_ "step", OCS _gręsti_ "tread, step, go"
+ETYM: OIr. _do-greinn_ is from \*to-grend-o-. The simplex is unattested in Goidelic.
+REF: [EDPC]
+
+### <a id="griyano">\*grīyano- "gravel" (n)</a>
+GOID: OIr. _grïan_ [o morn] "sand, gravel"
+W: MW _graean_ [coll.] "gravel, coarse sand"
+BRET: MoBret. _groan_, _grouan_ [coll.] "gravel"
+PIE: \*gʰreh₁(w)- "grind" (IEW: 460f.)
+COGN: MHG _grien_ "sandy river-bank", ON _grjót_ "sand, gravel"
+SEE: [\*grāwā "gravel, pebbles"](#grawa)
+ETYM: This word is probably from the same root as its near-synonym, PCelt. \*grāwā "gravel, pebbles", but its development is not quite clear. Starting from PIE \*gʰreh₁wyo- we might derive PCelt. \*grīyyo-, \*griyo-, hence \*griy-ano- with a different suffix. However, this derivation is not quite satisfactory.
+REF: [EDPC]
+
+### <a id="growdos">\*growdos- "cheek" (n)</a>
+GOID: OIr. _grúad_ [s n, later m and f]
+W: OW _grudou_ [p], MW _grudd_ [f and m]
+CO: OCo. _grud_ gl. _maxilla_
+PIE: \*gʰrowdʰ- (IEW: 462)
+COGN: OE _grēada_ "breast"
+ETYM: The evidence that _grúad_ was an s-stem is not absolutely certain, so the PCelt. reconstruction is purely conjectural. On the IE side, one may also want to connect the Slavic words from "breast" (Russ. _grud'_, OPol. _grędzi_), which may be from nasalized \*gʰru-n-d-. The semantic side of this etymology is rather weak (\*gʰrowdo- would presumably have denoted "round body parts").
+REF: [EDPC]
+
+### <a id="gulbv">\*gulbV-, \*gulbīno- "beak" (n)</a>
+GOID: MIr. _gulba_ [n f] "beak, jaw", _gulban_ [o m] "beak, sting"
+W: OW _gilbin_ [m and f] "point", MW _gylfin_ "beak"
+BRET: OBret. _golbin_, _golbinoc_ gl. _ac rostratam_; MBret. _golff_, MoBret. _golv_ "without tail"
+CO: OCo. _geluin_ gl. _rostrum_
+GAUL: \*gulbia > Lat. _gulbia_ (Isidore of Seville)
+ETYM: Cf. also Brit. _Re-gulbium_ (name of a promontory). A persuasive IE etymology has not been proposed. A connection with Gr. _gláphō_ "scrape up, dig" (< PIE \*glbʰ-, IEW 367) is improbable, since if does not explain PCelt. \*u. This PCelt. etymon was probably borrowed from some non-IE language.
+REF: [EDPC]
+
+### <a id="gurmo">\*gurmo- "dun, dark" (adj)</a>
+GOID: MIr. _gorm_ [o] "blue"
+W: MW _gwrm_ (GPC _gwrm_, _gwrwm_)​
+BRET: OBret. _Uurm-haelon_ [PN] "with brown brows"
+ETYM: There do not seem to be any cognates in other IE languages, so this adjective was probably borrowed from some non-IE source.
+REF: [EDPC]
+
+### <a id="guso">\*gus-o- "choose" (v)</a>
+GOID: OIr. _do-goa_; _do-gega_ [3s.fut.rel.]; _do-roigu_ [3s.prt.rel.]
+PIE: \*ǵews- "choose, taste" (IEW: 399f.)
+COGN: Skt. _juṣ_- "enjoy", Gr. _geúomai_, Go. _kiusan_, Alb. _desha_ "loved"
+SEE: [\*gustu- "excellence, force"](#gustu)
+ETYM: OIr. _do-goa_ < \*to-gus-o-; the simplex is unattested.
+REF: [EDPC]
+
+### <a id="gustu">\*gustu- "excellence, force" (n)</a>
+GOID: OIr. _guss_ [u m], Ogam _CUNA-GUSSOS_
+W: OW _Gur-gust_ [PN], W _gwst_ [f and m]; _gystion_ [p] "pain, endurance, patience, difficulty"
+GAUL: _gussou_ [dat. s] "? force" (Lezoux)
+PIE: \*ǵus-tu- "choose, taste" (IEW: 399f.)
+COGN: Lat. _gustus_ "tasting", OE _cost_ "choice, excellence"
+SEE: [\*gus-o- "choose"](#guso)
+ETYM: For the apparent preservation of \*st in British, see Schrijver 1995: 412. The semantic developent was from "choice" to "excellence" and "force", cf. [\*gus-o- "choose"](#guso).
+REF: [EDPC]
+
+### <a id="gutu">\*gutu- "voice" (n)</a>
+GOID: OIr. _guth_ [u m]
+GAUL: _gutu-ater_ "name of a priest", perhaps "father of invocations" (CIL XIII 1577)
+PIE: \*ǵʰewH- "call, invoke" (IEW: 413)
+COGN: Skt. _hávate_ "call", OE _god_ "god", OCS _zъvati_ "call", ToB _kuwā­_ "call, invite"
+ETYM: The short vowel of OIr. _guth_, if it is to be derived from \*ǵʰuH-tu-, should be attributed to shortening in pretonic position (Dybo's law), cf. Kortlandt 1981. The appurtenance of the Germanic words for "god" to this root is disputed (they are often connected with Skt. _juhóti_, Gr. _khéō_ "pour (a libation)", etc.).
+REF: [EDPC]
+
+### <a id="gyemo">\*gyemo- "winter" (n)</a>
+GOID: OIr. _gam_, _gem_ (DIL _gaim_), Ogam _GAMI-CUNAS_
+W: OW _gaem_, MW _gayaf_, _gaeaf_ [m]
+BRET: OBret. _guoiam_, MBret. _gouaff_, MoBret. _gouañv_ [m]
+CO: OCo. _goyf_ gl. _hyemps_
+GAUL: _Giamoni_[-] "name of the 7th month" (Coligny), _Giamos_ [PN]
+PIE: \*ǵʰyem- "winter" (IEW: 425f.)
+COGN: Gr. _kheímōn_, Lat. _hiems_, OCS _zima_, Arm. _jiwn_ "snow", Alb. _dimër_
+ETYM: The reconstruction of PCelt. \*gyemo- is based on the assumption (Schrijver) that \*gye- > \*gya- in British and Gaulish. However, cf. Fr. _givre_, Pr. _gibre_, _giure_, Cat. _gebre_ "hoarfrost", which may be from Gaul. \*gewro- < \*gem(e)ro- (Gamillscheg 480).
+REF: [EDPC]
+
+### <a id="gyo">\*gyo- "sinew" (n)</a>
+W: MW _gieu_ [p] "sinews", _giewyn_ [sing.] (GPC _gïau_)​
+CO: OCo. _goiven_ gl. _nervus_, Co. _gyew_
+PIE: \*gʷyo- "sinew" (IEW: 469)
+COGN: Skt. _jyā́_, Gr. _biós_ "bowstring"
+ETYM: The word-initial \*g- (instead of \*\*b) presupposes an early delabialization of \*gʷ before \*yin Celtic, see McCone 1996: 42.
+REF: [EDPC]
+
 ## Gʷ
 
 ### <a id="gwano">\*gʷan-o- "strike, kill" (v)</a>
