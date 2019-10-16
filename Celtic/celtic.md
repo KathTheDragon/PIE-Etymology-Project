@@ -3152,7 +3152,7 @@ COGN: Lat. _piscis_, OHG _fisc_
 ETYM: W river-name _Wysg_ could reflect \*fēskā (Sims-Williams 2006: 80). Cf. also Gaul. river-name _Isca_, which would be from \*fiska. The vocalism of OIr. _íasc_ requires that we start from PIE \*pey(ḱ)sḱo- (the cluster \*ksk may have been dissimilated to \*sk as in \*prḱsḱ- > PCelt. [\*farsk- "ask"](#farsk)).
 REF: [EDPC]
 
-### <a id="fesskuta">\*fesskūtā "(leather) boot, shoe" ()</a>
+### <a id="fesskuta">\*fesskūtā "(leather) boot, shoe" (n)</a>
 W: MW _esgid_ [f]
 CO: Co. _eskit, eskys_
 PIE: \*ped- "foot", \*skuHto- "hide, wrap" (IEW: 951ff.)
