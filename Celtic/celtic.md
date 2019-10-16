@@ -4397,3 +4397,72 @@ PIE: \*gʷʰrenso- "warm" (IEW: 495)
 COGN: Skt. _ghraṃsá_- "heat of the sun"
 ETYM: OIr. _grís_ must represent a reflex of PCelt. \*gʷrīnso-, with the lengthened grade (expected in the nom.sg. of an original root noun). It appears probable that OIr. _grían_ [ā f] "sun" should be derived from PCelt. \*_gʷrensnā_ > Primitive Irish \*gʷrēnā (Matasovic _to appear_). This fits well with the semantics of Skt. _ghraṃsá_-. The PIE root is \*gʷʰer- "be hot" (Gr. _thermós_ etc.). Gaul. _Grannos_ (a name of Apollo) probably also belongs here, cf. Delamarre 183. Finally, OIr. _grés_ [u m] "handicraft, needlework, work of art, practice" may represent PCelt. \*gʷrensu- (the development of meaning would have been from "heat" to "zeal" and "work", cf. also MIr. _grésach_ "lasting, habitual").
 REF: [EDPC]
+
+## I
+
+### <a id="i-1">\*i- "go" (v)</a>
+GOID: OIr. _etha_ [pass.ptcp.]
+PIE: \*h₁ey- "go" (IEW: 295) \*"1- 171
+COGN: Skt. _éti_ "goes", Lat. _eo_, _īre_, OCS _iti_
+ETYM: OIr. _etha_ presupposes \*ityo- and serves as the suppletive passive participle to OIr. _téit_ "go". Hence the derived verb _ethaid_ "goes". IEW (295) compares also _ethar_ [o m] "ferry-boat", which is possible (PCelt. \*i-tro- ?, with the same suffix as [\*aratro- "plough"](#aratro)).
+REF: [EDPC]
+
+### <a id="i-2">\*i- "it" (pron)</a>
+SEE: [\*e-](#e)
+REF: [EDPC]
+
+### <a id="indo">\*i-n-d-o- "light up" (v)</a>
+W: MW _ennynnu_ (GPC _ennyn_)​
+PIE: \*h₂eydʰ- "burn" (IEW: llf.)
+COGN: Skt. _édhate_ "shines", _inddhé_ "lights up", Gr. _aíthō_ "bum"
+ETYM: MW _ennynnu_ < \*ande-indo- (the simplex verb is unattested). The present stem of this verb in Celtic is formed with the nasal infix and the zero-grade of the root (PIE \*h₂i-n-dʰ-).
+REF: [EDPC]
+
+### <a id="ikka">\*īkkā, \*yekkā "cure, treatment, salvation" (n)</a>
+GOID: OIr. _ícc_ [ā f]
+W: MW _iach_ "healthy"
+BRET: OBret. _iac_ gl. _suspite_, MBret. _yach_, MoBret. _yac'h_ "healthy"
+CO: OCo. _iach_ gl. _sanus_, MCo. _yagh_
+GAUL: _Iaccus_ [PN]
+ETYM: Maybe the vocalism of OIr. _ícc_ can be explained if one starts with a reduplicated \*yiyekkā. Since this OIr. word is actually the verbal noun of the verb _íccaid_ "heal", one might assume an original reduplicated present \*yi-yekk-o- from which \*yiyekkā was abstracted (for \*yek- > \*yak- cf. OIr. _aig_, W _ia_ "ice" < \*yegi-, cf. also W _ias_ "boiling" < \*yestu-). These Celtic words are usually connected to Gr. _ákos_ "cure, medicine", but the phonetic development assumed by this etymology is difficult. Perhaps _ákos_ is from a psilotic dialect (cf. Myc. _aketirijai_ /akestriai/, but also _jaketere_ "healers" (?). If this is the case, it could be derived from Pre-Greek \*yakos < PIE \*yh₂ko-, but this would be difficult to square with PCelt. \*yekko-.
+REF: [EDPC]
+
+### <a id="ikwori">\*ikʷori- "roe, spawn" (n)</a>
+GOID: MIr. _iuchair_ [coll.]
+PIE: \*yēkʷr "liver" (IEW: 504)
+COGN: Skt. _yákṛt_, Gr. _hē̃par_, Lat. _iecur_, Lith. dial. _jẽknos_, Arm. _leard_
+ETYM: In Early MoIr. _iuchair_ is inflected as a dental stem, but it appears that it was originally an i-stem. The semantic development from "liver" to "roe" has its exact parallel in Slavic (cf. Russ. _ikrá_ "roe, caviar"). In both Slavic and Celtic the original static ablaut pattern (\*yēkʷr / \*yekʷn-s) was replaced by a dynamic one (\*yekʷr / \*ikʷn-os). Celtic seems to have generalized the zero-grade of the oblique cases and the suffix \*-or- from the nom./acc.sg.
+REF: [EDPC]
+
+### <a id="imbeto">\*imbeto- "great quantity" (n)</a>
+GOID: OIr. _imbed_ [o n] "large quantity, abundance of wealth"
+W: OW _immet_
+GAUL: _Imbetius_, _Imbetus_ [PN]
+ETYM: According to Falileyev (91), the reading and meaning of OW _immet_ are not certain. The IE etymology is unknown; the word seems to be formed with the suffix \*-et-o- (cf., e.g., [\*kenget- "warrior"](#kenget)), but what is the root? A connection might exist with Lat. _pinguis_ "fat, greasy", which may go back to PIE \*pengʷu-/\*pngʷo-, but in that case the etymology relating _pinguis_ and Skt. _pī́van_- "fat, swollen" (de Vaan 2008: 466) must be discarded. A further cognate might be Hitt. _panku_- "all, entire", although this is usually connected to Skt. _bahu_- "many" (Kloekhorst 2008, s.v.). The correct PCelt. reconstruction would be \*fembeto- and word-initial _i_- < \*e- would be the result of secondary development before nasals. Of course, this is all very speculative.
+REF: [EDPC]
+
+### <a id="isarno">\*isarno- / \*īsarno- "iron" (n)</a>
+GOID: OIr. _iarn(n)_ [on, later m]
+W: MW _haearn_ [m]
+BRET: OBret. _hoiarn_, MBret. _houarnn_, MoBret. _houarn_ [m]
+CO: OCo. _hoern_, Co. _hôrn_
+GAUL: _Isarnus_ [PN]
+ETYM: This Celtic word was borrowed into Germanic in prehistoric times (cf. Go. _eisarn_, Eng. _iron_, etc.), cf. Birkhan 1970: 128f. PGerm. \*īsarna­ implies that the Celtic source had long \*ī-. For a possible PIE etymology see Cowgill 1987: 68 (from PIE \*h₁ēsh₂r-no- > PCelt. \*īsarno- "bloody" > "red" "iron", cf. Hitt. _eshar_ "blood"). However, the long grade \*ē is unexpected (a nominal derivative with vṛddhi?). Another possibility is the connection to PIE \*(H)ish₂ro- "strong, holy, having supernatural powers" (Gr. _hieros_, Skt. _iṣirá_-). In the latter case, the correct reconstruction is PCelt. \*isarno-.
+REF: [EDPC]
+
+### <a id="iska">\*isk-ā- "look for lice" (v)</a>
+GOID: MIr. _escaid_ [v.n.] "searching for lice"
+PIE: \*h₂eys-sk- "seek" (IEW: 16)
+COGN: Skt. _icháti_ "seeks", OHG _eisca_ "question", OCS _iskati_ "seek", Lith. _ieškóti_ "ask"
+ETYM: The semantic development in Celtic is from "seek" to "seek lice" (cf. Latv. _iẽskât_ "look for lice". However, the PCelt. reconstruction is uncertain since only the verbal noun _escaid_ is attested in Irish.
+REF: [EDPC]
+
+### <a id="iwo">\*iwo- "shaft, yew" (n)</a>
+GOID: OIr. _eó_ [o ?m] "stem, shaft, yew-tree"
+W: MW _yw_ [p] "yew, yew-wood";ywen [sing.]
+BRET: OBret. _Caer 'n Iuguinen_ [toponym], MBret. _ivin_, _iuin_, MoBret. _iwin_ [coll.]
+CO: OCo. _hiuin_ gl. _taxus_
+PIE: \*h₁eyw- "yew, _Taxus baccata_" (IEW: 297)
+COGN: Hitt. <sup>GIS</sup>_e(y)an_- "?yew", OE _īw_, Lith. _ievà_ "bird-cherry", Russ. _íva_ "willow", perhaps Gr. _óa_ "service-tree"
+ETYM: These forms should not be confused with PCelt. [\*eburo- "ivy"](#eburo), as in EIEC. The Gaulish word for yew-tree is unattested, so far as I know, but it is the source of Fr. _if_ (from \*iwo-). The form _iuos_ (Coligny) is of unknown meaning, _pace_ Lambert 1994. In PIE we seem to have an original u-stem, with nom.sg. \*h₁eyu- / gen.sg. \*h₁iw-os, which was thematicized independently in different languages. Celtic preserves the stem of the oblique cases. For the phonetic development cf. PCelt. \*biwo- "alive" > OIr. _béo_, W _byw_. The acute in Balto-Slavic, implied by the accentual paradigm a, (cf. Russ. gen.sg. _ívy_) is unexpected. It may be due to the secondary Balto­ Slavic vṛddhi, which is common in nominal derivation and bears the acute (in contradistinction to the inherited lengthened PIE grade formations, which bear the circumflex, cf. Matasovic 2008a: 130ff.). Note, however, that Derksen (2008: 216) reconstructs the PIE root as \*h₁eyH- and does not mention the connection with the Celtic words.
+REF: [EDPC]
