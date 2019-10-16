@@ -2506,7 +2506,7 @@ GOID: OIr. _dub_ [u], Ogam _DOVA-GNI_
 W: OW _Dub_-, W _du_
 BRET: OBret. _du_, MBret. _duff_, MoBret. _du_
 CO: OCo. _duw_ gl. _niger_
-GAUL: _Dubis_ [Hydronym]
+GAUL: _Dubis_ [hydronym]
 PIE: \*dʰubʰ- (IEW: 264)
 COGN: Gr. _typhlós_ "blind", Go. _daufs_
 SEE: [\*dubro- "dark, unclean"](#dubro)
