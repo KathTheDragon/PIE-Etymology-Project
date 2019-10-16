@@ -946,12 +946,12 @@ GOID: OIr. _bind_ [i] (DIL _binn_)​
 W: MW _bann, ban_ "high, noble, sonorous, melodious"
 BRET: OBret. _bann_ gl. _canora_
 SEE: [\*bando- "peak, top"](#bando)
-ETYM: The Brittonic forms point to PCelt. \*bando-, as if from the zero­ grade of the root. In W, _ban_ is also a noun [m and t] "top, tip, summit", also "horn of animal, comer, angle". It is possible that this word and PCelt. \*bando- "top, peak" became confused in Brit.
+ETYM: The Brittonic forms point to PCelt. \*bando-, as if from the zero­ grade of the root. In W, _ban_ is also a noun [m and f] "top, tip, summit", also "horn of animal, comer, angle". It is possible that this word and PCelt. \*bando- "top, peak" became confused in Brit.
 REF: [EDPC]
 
 ### <a id="bando">\*bando- "peak, top" (n)</a>
 GOID: OIr. _benn_ [ā f] "peak, horn, mountain, crest"
-W: MW _bann_ [m and t] "peak, top, horn, beam" (GPC _ban​_)​
+W: MW _bann_ [m and f] "peak, top, horn, beam" (GPC _ban​_)​
 BRET: MBret. _ban_, MoBret. _bann_ [m] "peak"
 CO: Co. _ban_
 GAUL: _Canto-bennicus (mons)_ [toponym]
@@ -2388,7 +2388,7 @@ ETYM: There is little doubt that OIr. _dorr_ is from the PIE root \*der- "tear",
 REF: [EDPC]
 
 ### <a id="dowsant">\*dowsant- "arm, hand" (n)</a>
-GOID: OIr. _doë, doe_ [nt t]
+GOID: OIr. _doë, doe_ [nt f]
 PIE: \*dows- "arm, fore-arm" (IEW: 226)
 COGN: Skt. _dóṣ_- "arm, fore-arm", Latv. _pa-duse_ "armpit"
 ETYM: The word formation in Celtic is unclear. In PIE, \*dows- "arm" was a root noun. The suffix \*-ant- in Celtic can hardly be a petrified formative of present active participles (as in birit "sow" < \*b er-nt-ih₂) , since there is no corresponding verb. Could \*dows-ant- be an old compound, whereby \*-ant­ is the same root as in PCelt. [\*anto- "border, limit"](#anto), [\*antono- "forehead"](#antono)? It is conceivable that the meaning "hand" was represented as "arm-limit", "the end of the arm" (cf. Go. _andeis_ "end").
@@ -2704,8 +2704,8 @@ ETYM: Gaul. _Equos_ "name of the ninth month" (Coligny) might be an archaic form
 REF: [EDPC]
 
 ### <a id="elv">\*elV- "swan" (n)</a>
-GOID: OIr. _elu_, MIr. _elae, ela_ [? t]
-W: MW _alarch_ [m and t]; _eleirch, elyrch_ [f]
+GOID: OIr. _elu_, MIr. _elae, ela_ [? f]
+W: MW _alarch_ [m and f]; _eleirch, elyrch_ [f]
 BRET: MoBret. _alarc'h_ [m]
 CO: OCo. _elerhc_ gl. _olor .l. cignus_, Co. _alargh_
 PIE: \*h₁el- "swan" (IEW: 304)
@@ -3378,7 +3378,7 @@ ETYM: The Germanic words for "lead" (OE _lead_, etc.) are early borrowings from 
 REF: [EDPC]
 
 ### <a id="flowyo">\*flowyo-, \*flowyā "rudder" (n)</a>
-GOID: OIr. _luí_ [ia t] "rudder, tail"
+GOID: OIr. _luí_ [ia f] "rudder, tail"
 W: MW _llyw_ [m] "rudder, tail, leader, pilot"
 BRET: MoBret. _lewier_ [m] "pilot"
 CO: OCo. _leu_ gl. _clauus_, Co. _lew_
