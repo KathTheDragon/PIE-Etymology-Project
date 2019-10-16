@@ -1170,7 +1170,7 @@ REF: [EDPC]
 
 ### <a id="bero">\*ber-o- "carry, bear, bring" (v)</a>
 GOID: OIr. _beirid; beraid_ [subj.]; _béraid_ [fut.]; _birt_ [prt.]; _brethae_ [prt.pass.]
-W: MW _beryt_ "flows" [3s.prs.]; _beru_ [Verbal Noun]
+W: MW _beryt_ "flows" [3s.prs.]; _beru_ [v.n.]
 BRET: MBret. _beraff_ "flow", MoBret. _berañ; ber_ [3s.prs.]
 CO: Co. _kemmeres_ "take, receive"
 PIE: \*bʰer- "carry" (IEW: 128-132)
