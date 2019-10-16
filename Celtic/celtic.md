@@ -3477,7 +3477,7 @@ SEE: [\*far-na- "bestow"](#farna)
 ETYM: OW hapax _guorenniou_ "fractions, subdivisions" is from \*ufo­-frasno- (Falileyev 73). PCelt. \*ra instead of \*ar from the syllabic PIE \*r can be due to the "liquid metathesis" between a labial and a dental cluster (\*prsn > \*farsn- > \*frasn-), or to analogy with \*frato-, where \*ā was shortened by Dybo's law. For the derivation of Lat. _pars_ from PIE \*perh₃- "bear, provide" see de Vaan 2008: 448.
 REF: [EDPC]
 
-### <a id="frati-1">\*frati- "fem" (n)</a>
+### <a id="frati-1">\*frati- "fern" (n)</a>
 GOID: MIr. _raith_ [i f]
 W: W _rhedyn_ [p]; _rhedynen_ [sing.]
 BRET: MBret. _reden_, _radenenn_, MoBret. _raden_ [coll.]
