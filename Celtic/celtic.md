@@ -1639,7 +1639,7 @@ GOID: OIr. _brig_ [ā f]
 W: MW _bri_ [m] "prestige, authority"
 BRET: MBret. _bry_ "respect"
 CO: Co. _bry_ "respect, honor"
-SEE: [\*brig- "hill"]()
+SEE: [\*brig- "hill"](#brig)
 ETYM: Note that the genders of W and Goidelic do not match. Maybe we should reconstruct a PCelt. root noun \*brig-s, gen. \*brig-os "top, peak, authority", from the same root as \*brig- "hill". In any case, reflexes of \*brig-­ and \*brigā influenced each other in the individual languages. OIr. _Brigid_ "dea poetarum" (Cormac), OW _brennhin, brennin_, MW _brenhin_ "king" are from the same root; they presuppose \*brigantī (= Skt. _bṛhatī_- "the high one", an epithet of Uṣas), and \*brigantīnos, respectively. The latter word is attested in Gaul. as _birikantin_ on a coin sometimes falsely attributed to Celtiberian, because it is written in Iberian script. However, it is discovered in Southern France, so it is presumably Gaulish (MLH V.l: XII).
 REF: [EDPC]
 
@@ -2497,7 +2497,7 @@ CO: Co. _dour_
 GAUL: _Dubra, Uerno-dubrum_ [toponym]
 PIE: \*dʰubʰ- "black" (IEW: 263ff.)
 COGN: Go. _daufs_ "deaf", Gr. _typhlós_ "blind"
-SEE: [\*dubu- "black"]()
+SEE: [\*dubu- "black"](#dubu)
 ETYM: OIr. has also the substantivized adjective _dobur_ "water" (DIL D- 218), which presumably developed from the syntagm "dark water", or "deep water" (cf. PCelt. \*dubno- "deep"). A similar development also occurred in Brittonic, and (probably) Gaulish.
 REF: [EDPC]
 
