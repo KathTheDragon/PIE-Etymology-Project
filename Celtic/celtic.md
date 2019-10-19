@@ -4466,3 +4466,1476 @@ PIE: \*h₁eyw- "yew, _Taxus baccata_" (IEW: 297)
 COGN: Hitt. <sup>GIS</sup>_e(y)an_- "?yew", OE _īw_, Lith. _ievà_ "bird-cherry", Russ. _íva_ "willow", perhaps Gr. _óa_ "service-tree"
 ETYM: These forms should not be confused with PCelt. [\*eburo- "ivy"](#eburo), as in EIEC. The Gaulish word for yew-tree is unattested, so far as I know, but it is the source of Fr. _if_ (from \*iwo-). The form _iuos_ (Coligny) is of unknown meaning, _pace_ Lambert 1994. In PIE we seem to have an original u-stem, with nom.sg. \*h₁eyu- / gen.sg. \*h₁iw-os, which was thematicized independently in different languages. Celtic preserves the stem of the oblique cases. For the phonetic development cf. PCelt. \*biwo- "alive" > OIr. _béo_, W _byw_. The acute in Balto-Slavic, implied by the accentual paradigm a, (cf. Russ. gen.sg. _ívy_) is unexpected. It may be due to the secondary Balto­ Slavic vṛddhi, which is common in nominal derivation and bears the acute (in contradistinction to the inherited lengthened PIE grade formations, which bear the circumflex, cf. Matasovic 2008a: 130ff.). Note, however, that Derksen (2008: 216) reconstructs the PIE root as \*h₁eyH- and does not mention the connection with the Celtic words.
 REF: [EDPC]
+
+## K
+
+### <a id="kado">\*kādo- "regret, anger" (n)</a>
+W: MW _cawdd_ [m] "anger"
+BRET: MBret. _cuez_, _queuz_, MoBret. _keuz_ [m] "regret, affliction"
+CO: Co. _kueth_, _cüth_ "regret"
+PIE: \*ḱeh₂do- "strong negative emotion" (IEW: 517)
+COGN: Gr. _kē̃dos_ "suffering, concern", OHG _haz_ "hate"
+SEE: [\*kassi- "hatred, hate"](#kassi)
+ETYM: OIr. cais "hate" goes back to zero-grade \*kh₂d-ti- > PCelt. \*kass-i-, while W cawdd represents the full grade \*keh₂do-. There may have been an ablauting paradigm \*kad- / \*kad- in PCelt.
+REF: [EDPC]
+
+### <a id="kagni">\*ka(g)ni- "law, tribute" (n)</a>
+GOID: OIr. _cáin_ [i f]
+W: MW _di-gawn_ [m] "plenty, abundance" (GPC _digon_, _digawn_); _digoni_ (v) "perform (masterly), be able"
+PIE: \*keh₂/₃ǵ-n-
+COGN: OCS _kaznь_ "punishment"
+ETYM: Another etymology is found in EIEC 563; it derives the attested forms from PCelt. \*kaxni- < \*kapni-, but this is unlikely in the light of the development of \*pn > \*wn (cf. PIE \*supno- > PCelt. \*sowno- "sleep"). OIr. _cáinid_ "to satirize" could also be related to this root. The Welsh forms are sometimes related to Lat. _cōnor_ "attempt", OCS _kaniti_ "intend" < PIE \*keh₃n-. Finally, one could start from PIE \*ḱeh₂s- "to speak, proclaim" (Skt. _śās_- "instruct, punish, command", LIV \*ḱeHs-), and derive PCelt. \*kani­ from \*ḱeh₂s-eni- (\*ḱeh₂sni- is less likely, since \*-sn- > \*-nn- in PCelt. is expected on the evidence of \*kasninā "garlic" > OIr. _cainnenn_). There is no way to decide with certainty which of the various possibilities is most likely.
+REF: [EDPC]
+
+### <a id="kago">\*kag-o- "get, receive" (v)</a>
+W: MW _cael_ (GPC _cael_, _caffael_, _caffu_); _kehy_ [3s.prs.]
+BRET: MBret. _caffout_ "find"
+CO: Co. _kavoes_
+PIE: \*kagʰ- "take, grab" (IEW: 518)
+COGN: Lat. _in-cohāre_ "begin", Osc. _kahad_ "takes" [subj.]
+ETYM: Since the distribution of cognates is limited to Europe, and the root has a distinctly non-IE shape (with voiceless and aspirated stops and the vowel \*a), this is probably a borrowing from some unknown non-IE language (de Vaan 2008: 123).
+REF: [EDPC]
+
+### <a id="#kagro">\*kagro- "enclosure, fort" (n)</a>
+SEE: [\*kagyo- "pen, enclosure"](#kagyo)
+REF: [EDPC]
+
+### <a id="kagyo">\*kagyo- "pen, enclosure" (n)</a>
+W: MW _kay_, _kae_ (GPC _cae_) [m] "hedge, hedge-row, fence, enclosure"
+BRET: OBret. _cai_, MBret. _quae_, MoBret. _kae_ [m]
+CO: Co. _ke_
+GAUL: _cagiíon_ (Cajarc), _caio_ "breialo sive bigardio" (Endlicher's Glossary)
+PIE: \*kagʰo- "enclosure"
+COGN: OE _haga_ "field" (IEW: 518)
+ETYM: Gaul. \*kagio- "enclosure" is presumably the source of Fr. _quai_ "quay, wharf" (Gamillscheg 735). The Brittonic word for "town", W _caer_, MBret. _ker_, Co. _caer_, are probably from the same root (PCelt. \*kagro­ "enclosure, fort"). In any case, the a-vocalism, as well as the distribution of the reflexes to NW Europe, points to the possibility that these words were borrowed from some non-IE language (cf. also [\*kag-o- "get, receive"](#kago)).
+REF: [EDPC]
+
+### <a id="kakka">\*kakkā "excrement" (n)</a>
+GOID: MIr. _cacc_ [ā f]
+W: W _cach_ [m]
+BRET: MBret. _cauch_, MoBret. _kac'h_ [m]
+CO: Co. _caugh_
+PIE: \*kakko- "defecate, excrement" (IEW: 521)
+COGN: Lat. _cacco_, Gr. _kakkáō_
+ETYM: Cf. also MW denominative verb _cachu_ "defecate". A vulgar, expressive word that violates the rules of PIE root formation (with geminated \*kk and the vowel \*a).
+REF: [EDPC]
+
+### <a id="kaleto">\*kaleto- "hard, cruel, strong" (adj)</a>
+GOID: OIr. _calad_ [o]
+W: MW _caled_
+BRET: MBret. _calet_, _caled_, MoBret. _kaled_
+CO: Co. _cales_, _calas_, _calys_
+GAUL: _Caleti_ [ethnonym]
+PIE: \*klH-eto- "cold" (IEW: 524)
+COGN: Av. _sarəta_- "cold", Lith. _šálti_ "be cold, frieze", OE _haeled_ "hero".
+ETYM: If this etymology, proposed by Joseph (1982), is correct, the original meaning was "cold, frozen" > "hard". Cf. also the Gaulish PN _Calitix_ in Pannonia (Meid 2005: 189). Another possibility (de Vaan 2008: 80) would be to start from PIE \*keHl-/\*kHl- and compare Lat. _callēre_ "grow hard", Croat. _káliti_ "temper".
+REF: [EDPC]
+
+### <a id="">\*kalli- "wood, grove" (n)</a>
+GOID: OIr. _caill_ [?ī f]
+W: MW _celli_ [f] "grove, copse"
+BRET: MoBret. _Quille-vere_ [PN]
+CO: OCo. _kelli_ gl. _nemus_
+ETYM: The geminate \*-ll- is certainly the result of assimilation, but it cannot be ascertained which consonant was originally involved as the second member of the cluster. The obvious solution, PIE \*kldo- (Gr. _kládos_ "branch", ON _holt_ "woody hill"), will not do, since we would expect PCelt. \*klido- (cf., e.g., PIE \*wld- > PCelt. [\*wlidā "feast"](#wlida)). Moreover, the cluster \*ḱl would have been preserved in Celtic. A derivation from the root \*kelH­ "cut" (IEW 545ff.) remains a possibility, but details are obscure (perhaps one should start with \*klHyo- > \*kalyo- > \*kallo-, and then \*kallā, \*kallī as secondary formations?).
+REF: [EDPC]
+
+### <a id="kalmiyo">\*kalmiyo- "skilful, skilled" (adj)</a>
+GOID: MIr. _calma_ "strong, brave" (gl. _fortibus_)​
+W: OW _celmed_, MW _celuit_, _celuyd_ (GPC _celfydd_)​
+BRET: MBret. _celmed_
+ETYM: Cf. also MIr. _calma_ "strength, fortitude". The Celtib. family name _kalmikum_ [gen.pl.] (Botorrita Ill) might also be related. No convincing IE etymology has been proposed, so this word is probably a loanword from some non-IE language.
+REF: [EDPC]
+
+### <a id="kalyako">\*kalyāko- "rooster" (n)</a>
+GOID: OIr. _cailech_ [o m]
+W: MW _keilyawc_ [m] (GPC _ceiliog_, _ceilog_)​
+BRET: MBret. _kilhog_, _kilheg_
+CO: OCo. _chelioc_ gl. _gallus_, Co. _colyek_
+GAUL: _Caliaga_ [PN]
+PIE: \*klh₁- "call" (IEW: 549)
+COGN: Lat. _calo_ "announce", Gr. _kaleo_ "call", OHG _hellan_ "resound"
+ETYM: The attribution of Gaul. _Caliaga_ to this root is uncertain, since normally \*ly > Gaul. _ll_ (cf. \*alyo- "other" > Gaul. _allo_-). The Celtic forms are compatible with PIE \*klh₁-yo- > PCelt. \*kalyo- (with the early loss of H before y?), to which the frequent suffix \*-āko- was added. For the development of meaning cf. Germ. _Hahn_ < \*kan- "to sing", or Lat. _gallus_ "rooster" < \*gel-w- "call".
+REF: [EDPC]
+
+### <a id="kalyo">\*kalyo- "spot" (n)</a>
+GOID: OIr. _caile_ [io m]
+PIE: \*keh₂l / \*kh₂lo- "dirty, spotted, dark" (IEW: 548)
+COGN: Lat. _calidus_ (or _cālidus_) "with spotted forehead", _cāligo_ "darkness", Skt. _kāla_- "dark blue", Croat. _kâl_ "dirt, mud"
+ETYM: The PCelt. form must be from \*kh₂l-yo-; it is uncertain whether all of the forms adduced from other IE languages belong to a single etymon. Mayrhofer interprets _kāla_- (s.v.) as a Dravidian loanword.
+REF: [EDPC]
+
+### <a id="kambo">\*kambo- "crooked, twisted" (adj)</a>
+GOID: OIr. _camm_ [o]
+W: OW _cam_ "wrong, evil", MW _cam_
+BRET: OBret. _camm_ gl. _obliquus_, MBret. _kamm_
+CO: Co. _cam_ gl. _strabo_, _cam-hinsic_ gl. _iniustus_
+GAUL: _Cambo_ [PN], _Cambo-dunum_ [toponym]
+PIE: \*(s)kambo- "crooked" (IEW: 918)
+COGN: Gr. _skambós_
+ETYM: Gaul. _cambion_ (Chamalieres) is interpreted as "change", and is the source of Gallo-Latin _cambiare_ "change" (Fr. _changer_, etc.). I find Pokorny's attribution of OIr. _cimbid_ "prisoner", _cimbe_ "captivity" to this root objectionable on semantic grounds (the semantic connection would be "the one who must bow before his captor" > "prisoner"). Both PCelt. \*kambo- and Gr. _skambós_ are probably borrowed from some ancient non-IE substrate; the PIE form contains two very rare sounds in PIE (\*b and \*a), both of which are indicative of non-IE loanwords.
+REF: [EDPC]
+
+### <a id="kanawon">\*kanawon- "young animal, young dog, whelp" (n)</a>
+GOID: MIr. _cana_, _cano_ [m n] "cub, whelp"
+W: MW _ceneu_ [m] (GPC _cenau_, _cenaw_)​
+BRET: OBret. _ceneuan_ gl. _catulaster_, _Ri-keneu_ [PN], MBret. _kenou_, MoBret. _kenow_ [m] "small animal".
+PIE: \*(s)ken- "young, new" (IEW: 564)
+COGN: Russ. _ščenók_ "young dog, puppy", Skt. _kanyā̀_ "girl", Arm. _skund_ "young dog"
+ETYM: PCelt. \*kanawon- is presumably derived from earlier \*kenawon­ by Joseph's rule. The word formation of this PCelt. etymon is problematic. The suffix may be the same as in [\*altr-awon- "uncle"](#altrawon), so we may have to start from something like PIE \*kn-Hwon- (with the possessive suffix \*-Hwon-, cf. the Hitt. suffix of appurtenance -umen, or Skt. -van, which lengthens the preceding vowel). Of course, this is just a speculation.
+REF: [EDPC]
+
+### <a id="kani">\*kani- "good, nice" (adj)</a>
+GOID: OIr. _cain_ [i]
+W: MW _cein_ (GPC _cain_)​
+BRET: MBret. _quen_, MoBret. _ken_
+ETYM: These Celtic words are often derived from \*knyo-, from PIE \*ken­- "begin" (IEW 563f., cf. Gr. _kainós_ "new", OCS _na-čęti_ "begin"), but the semantic difference is too great. Since a convincing IE etymology is lacking, PCelt. \*kani- may have been borrowed from some non-IE language.
+REF: [EDPC]
+
+### <a id="kanka">\*kankā "branch" (n)</a>
+GOID: OIr. _géc_ [ā f]
+W: MW _ceinc_ (GPC _cainc_, _caing_) [f and m]
+PIE: \*ḱo(n)kH- "branch" (IEW: 523)
+COGN: Skt. _śā́khā_, Go. _hōha_ "plow", Lith. _šakà_, OCS _soxa_ "plough"
+SEE: [\*kanxtu- "plough, ploughshare"](#kanxtu)
+ETYM: W _cainc_ represents an u-stem (or an ū-stem), while OIr. _géc_ (perhaps with _g_- by dissimilation) points rather to an a-stem. It is difficult to see which is original.
+REF: [EDPC]
+
+### <a id="kano">\*kan-o- "sing" (v)</a>
+GOID: OIr. _canaid_, -_cain_; _canaid_, -_cana_ [subj.]; _cechnaid_, -_cechna_ [fut.]; _cechain_ [prt.]
+W: OW _canam_, MW _canu_
+BRET: MBret. _canaff_
+CO: Co. _kana_
+PIE: \*kan- "sing" (IEW: 525f.)
+COGN: Lat. _cano_, Go. _hana_ "cock"
+REF: [EDPC]
+
+### <a id="kantabwiyo">\*kanta-bw-iyo- "perceive" (v)</a>
+GOID: OIr. _ceta-bí_ "perceives"
+W: MW _kanfot_ "discover" (GPC _canfod_, _canffod_)​
+SEE: [\*bu-yo-](#buyo)
+REF: [EDPC]
+
+### <a id="kanti">\*kanti "together with" (prep)</a>
+GOID: OIr. _cét_-, _ceta_-
+W: MW _cant_, _can_ (GPC _gan_)​
+BRET: OBret. _cant_, MoBret. _gant_
+CO: OCo. _cant_, Co. _cans_
+GAUL: _canti_-, _Cantio-rix_ [PN]
+PIE: \*ḱm-ti- (JEW: 613)
+COGN: Gr. _katá_, _kasi_- (in Hom. _kasi-gnetos_ "brother").
+SEE: [\*kom-](#kom)
+ETYM: A nominal derivative from this preposition is OIr. _céite_ "assembly" < \*kantyo-, cf. the ancient name of Kent, _Cantium_.
+REF: [EDPC]
+
+### <a id="kantlo">\*kantlo- "song, singing" (n)</a>
+GOID: OIr. _cétal_ [o n]
+W: MW _kathyl_, _kathl_ (GPC _cathl_) [m and f]
+BRET: MBret. _quentel_, MoBret. _kentel_ "lesson" [f]
+SEE: [\*kan-o- "sing"](#kano)
+ETYM: OIr. _cétal_ is the verbal noun of _canid_ "sings".
+REF: [EDPC]
+
+### <a id="kantom">\*kantom "100" (num)</a>
+GOID: OIr. _cét_
+W: OW _cant_, MW _cant_
+BRET: OBret. _cant_, MBret. _kant_
+CO: Co. _cans_
+GAUL: _Canto-mili_ [PN], Gallo-Lat. _cantedon_ "100 feet" (Isidore of Seville)
+CELTIB: _kantom_ (Botorrita I)
+PIE: \*dḱmtom "100" (IEW: 192)
+COGN: Lat. _centum_, Skt. _śatám_, Gr. _he-katón_, Go. _hund_, Lith. _šim̃tas_, ToB _kante_
+REF: [EDPC]
+
+### <a id="kanxsman">\*kanxsman- "step, act of stepping" (n)</a>
+GOID: OIr. _céimm_ [n n]
+W: OW _cemmein_ [p], MW _cam_ [m]
+BRET: MBret. _cam_
+CO: Co. _cam_
+CELTIB: _kamanom_ (?) (Botorrita I)
+ETYM: VLat. \*cammīnus "path, way" (Fr. _chemin_, It. _camino_, etc.) is a reflex of the Gaulish cognate of this word (Gamillscheg 220). Meid 1994a: 22 interprets Celtib. _kamanom_ as "way", but I doubt whether it is related to PCelt. \*kanxsman at all, since the derivation requires many _ad hoc_ sound changes (my doubts are shared by Wodtko, cf. MLH V.1: 155). An etymological connection of PCelt. \*kanxsman- with [\*keng-o- "step"](#kengo) appears probable.
+REF: [EDPC]
+
+### <a id="kanxtv">\*kanxtV- "power" (n)</a>
+GOID: MIr. _cécht_
+PIE: \*ḱe(n)k- "force" (IEW: 522)
+COGN: Skt. _śakti_- "power", _saknóti_ "is able, helps", ON _háttr_ "ability"
+ETYM: This is not a particularly strong etymology, because the MIr. word is poorly attested (only as a glossary entry). W _pybyr_ "strong" is probably unrelated.
+REF: [EDPC]
+
+### <a id="kanxtu">\*kanxtu- "plough, plough-beam" (n)</a>
+GOID: OIr. _cécht_ [u m]
+PIE: \*ḱnk-t- "pointed object" (IEW: 523)
+COGN: Skt. _śakti_- "spear"
+SEE: [\*kanka "branch"](#kanka)
+ETYM: Obviously a derivative of the PCelt. word for "branch". For the change of meaning cf. OCS _soxa_ "plough" vs. Lith. _šakà_ "branch" < PIE \*ḱokHo-. On the connection of Skt. _śakti_- "power" to _śakti_- "spear" see Mayrhofer, s.v. A. Lubotsky (p.c.) doubts whether _śakti_- "spear" exists.
+REF: [EDPC]
+
+### <a id="karafyomon">\*karafyo-(mon)- "shoemaker" (n)</a>
+GOID: OIr. _cairem_ [n m] gl. _sutor_
+W: MW _crydd_ [m]
+BRET: MoBret. _kere_ [m], _kereour_
+CO: Co. _quere_, _keryor_
+PIE: \*krh₁pi- "shoe" (IEW: 581)
+COGN: Gr. _krēpís_, Lith. _kùrpė_
+ETYM: OIr. _cairem_ goes back to \*karafyo-mū < PIE \*-mōn. The PIE suffix \*-mōn is productive in OIr. names for occupations (Remmer 2002-3). The Brittonic forms represent simple \*karafyo-. The derivation from PIE is problematic. One would have to assume that \*p > \*f was lost before the vocalization of the resonant, i.e. \*krpyo- > \*krfyo- > \*kryo- > \*karyo-, an impossible relative chronology in the light of the development of PIE \*krp­ > PCelt. [\*krif- "body"](#krif). Moreover, \*rp would have yielded \*rr in PCelt., cf. \*serp- > PCelt. [\*serrā](#serra). The only solution seems to be to start from \*kerh₂p­ which would have yielded PCelt. \*karaf- (by Joseph's rule). A derivation \*karafyomon- would give \*karayomon > \*karemon > OIr. cairem. The Brittonic forms then must be from \*kerh₂pyo- > \*karafiyo- > \*karayyos (with subsequent loss of the first vowel in W _crydd_ as in _cwan_ from \*kawano-). In any case, the proto-form \*karpyo- (in LEIA C-21) is impossible. ON _hreflingr_ "a kind of shoe" does not point to a form of the root without a laryngeal (\*krep-), because it is derived from PGerm. \*hrefaz "womb, belly" (OE _hrif_, cf. Orel 2003: 185).
+REF: [EDPC]
+
+### <a id="karant">\*karant- "friend" (n)</a>
+GOID: OIr. _cara_ [nt m]
+W: MW _car_ [m] (GPC _câr_); _ceraint_ [p]
+BRET: MBret. _car_, MoBret. _kar_ "parent"
+CO: OCo. _car_ gl. _amicus_
+GAUL: _Caranto_- [PN], _Carantōna_ [hydronym] (_Charente_)​
+SEE: [\*kar-o- "love"](#karo)
+ETYM: In origin, this is a present active participle of the verb \*kar-o-­ "love".
+REF: [EDPC]
+
+### <a id="karbanto">\*karbanto- "(war) chariot" (n)</a>
+GOID: OIr. _carpal_ [o m]
+GAUL: _carpento_- (Titus Livius XXXI.21.17), _Carbanto-rigum_ [toponym]
+ETYM: W _cerbyd_ and OBret. _cerpit_ are loanwords from Goidelic. A connection of PCelt. \*karbanto- with Lat. _corbis_ "basket" is improbable, since \*krb- would yield \*\*krib-, not \*karb- in PCelt. The a-vocalism and the root-shape (\*k...b(ʰ)) make it probable that we are dealing with a loanword from some non-IE source.
+REF: [EDPC]
+
+### <a id="karno-1">\*karno- "horn, hoof" (n)</a>
+W: MW _carn_ "hoof" [m]
+BRET: OBret. _carn_ gl. _ungula caballi_, MoBret. _karn_ [f]
+GAUL: _kárnon_ "Galatian trumpet" (Hesych.)
+PIE: \*ḱrno- "horn" (IEW: 574ff.)
+COGN: Luv. _zarwani(ya)_- "of horn", OE _horn_, ORuss. _sьrna_ "roedeer"
+SEE: [\*karwo- "deer"](#karwo)
+ETYM: The Celtic words are from an anit variant of the PIE root for "horn" (\*ḱerh₂, cf. Nussbaum 1986). Probably related is also OIr. _cruë_ "hoof" (cf. Greene 1983). GPC treats _carn_ "mound" and _carn_ "hoof" as one word, which cannot be true for semantic reasons. OIr. _corn_ "horn" and W _corn_ "horn" are usually considered to be Latin loanwords (Haarmann 1970: 119, cf. Lat. _cornu_). However, Gaulish toponyms with the element _Corn_- (e.g. _Cornacum_, cf. Sims-Williams 2006: 65f.) might point to the existence of PCelt. \*korno- "horn".
+REF: [EDPC]
+
+### <a id="karno-2">\*karno- "heap of stones, tomb" </a>
+GOID: OIr. _carn_ [o n]
+W: MW _carn_ [m and f]; _carnau_, _cernydd_, _cerni_ [p]
+BRET: MBret. _Pen karn_ [toponym], MoBret. _karn_ [f]
+CO: Co. _carn_ "heap"
+GAUL:(?) _karnitu_ (Todi) "erected, constructed"(?); _Carnuntum_ [toponym]
+SEE: [\*karno- "hoof"](#karno-1)
+ETYM: The Gaulish form _karnitu_ is presumably a denominative verb. I am not sure whether Co. _carn_ "heap" exists at all. It might be the same word as OCo. _carn_ gl. _ungula_, OBret. _carn_ gl. _ungula caballi_, which are related to Lat. _cornu_ "horn" (cf. Campanile 1974: 22).
+REF: [EDPC]
+
+### <a id="karo">\*kar-o- "love" (v)</a>
+GOID: OIr. _caraid_, -_cara_; _cechraid_ [Fut]; _carais_ [prt.]
+W: MW _caru_
+BRET: MBret. _caret_, MoBret. _kared_
+CO: Co. _care_
+GAUL: _Caro_- [PN]
+CELTIB: _Kara_ [PN]
+PIE: \*keh₂ro- "love" (IEW: 515)
+COGN: Lat. _cārus_, OHG _huor_ "prostitute", Latv. _kãrs_ "lustful"
+SEE: [\*karant- "friend"](#karant)
+ETYM: This is a deadjectival verb formed from unattested \*karo- "dear, beloved" < PIE \*kh₂ro-. The root is PIE \*keh₂ (Skt. _kā́ma_- "love", etc.).
+REF: [EDPC]
+
+### <a id="karro">\*karro- "wagon" (n)</a>
+GOID: OIr. _carr_ [o m]
+W: MW _carr_ [m] (GPC _car_); _ceir_ [p]
+BRET: OBret. _carr_, MBret. _carr_, MoBret. _karr_ [m]
+CO: Co. _car_
+GAUL: _Karródounon_ [PN] (Ptolemy)
+PIE: \*krso- "run" (IEW: 583)
+COGN: Lat. _curro_ "run", OE _hors_ "horse"
+ETYM: Lat. _carrus_ "a type of four-wheeled wagon" is an early Celtic loanword (Porzio Gernia 1981: 107). The Celtic forms are regularly derived from the zero-grade of the PIE root \*kers- "run".
+REF: [EDPC]
+
+### <a id="karut">\*karut- "champion" (n)</a>
+SEE: [\*kawaro- "hero, champion"](#karawo)
+REF: [EDPC]
+
+### <a id="karwo">\*karwo- "deer" (n)</a>
+W: OW _caru_, MW _carw_
+BRET: MBret. _caru_, _caro_, MoBret. _karw_ [m]
+CO: OCo. _caruu_ gl. _cervus_
+GAUL: _Caruus_ [PN]
+PIE: \*ḱer-n-, \*ḱerh₂- "horn" (IEW: 576)
+COGN: Lat. _ceruus_ "deer", _cornu_ "horn", Gr. _kéras_ "horn", OCS _krava_ "cow"
+ETYM: The Celtic forms presuppose PIE \*ḱrwo- > PCelt. \*karwo-, i.e. a proto-form without a laryngeal, as in Lat. _cornu_, _ceruus_. Such a form could have been generalized in (dialectal) PIE from the environments in which the laryngeal had been regularly lost, e.g. \*oRH > oR, or \*RHy > \*Ry. On this root and its variants see Nussbaum 1986.
+REF: [EDPC]
+
+### <a id="karya">\*karyā "mistake, sin" (n)</a>
+GOID: OIr. _caire_ [iā f]
+W: OW _cared_ gl. _nota_, _nequitiae_, MW _cared_, _karet_
+BRET: MBret. _carez_ [f]
+CO: Co. _cara_
+PIE: \*ker- "abuse, blame" (IEW: 530)
+COGN: Lat. _carīno_, OCS _u-koriti_, perhaps ToB _kärn_- "to strike"
+ETYM: The Celtic forms can be regularly derived from a PIE abstract noun \*kryeh₂ "blame", with the zero-grade of the root.
+REF: [EDPC]
+
+### <a id="kasni">\*kasni- "hare" (n)</a>
+W: W _ceinach_ [f]
+PIE: \*ḱas- (or \*ḱh₂es-) "grey, hare" (IEW: 533)
+COGN: Skt. _śaśá_- "hare", Lat. _cānus_ "white-haired", OPr. _sasins_ "hare", OE _hasu_ "hare"
+ETYM: The Welsh word for hare is derived with the common Celt. suffix \*-āko-. The underived \*kasni- (or, perhaps, \*kasnī) is, however, unattested.
+REF: [EDPC]
+
+### <a id="kasnina">\*kasninā "garlic, leek" (n)</a>
+GOID: MIr. _cainnenn_, _cainenn_ [ā f] "garlic, leek(s)"
+W: OW _cennin_ [p] "leeks, daffodils"
+BRET: OBret. _caeninn_, MBret. _quinghenn_, _quinhenn_
+CO: OCo. _kenin_ gl. _allium_
+PIE: \*kesn- (?) "garlic"
+COGN: Russ. _česnók_ "garlic", Croat. _čèšnjak_ "garlic"
+ETYM: This word looks like a derivative from \*kasni- "hare", but the similarity is probably accidental. As the a-vocalism shows, these words are presumably loanwords from some non-IE substrate, see Schrijver 1995: 456. The resemblance of the Slavic words for "garlic" might be accidental, because they can be related to the verbal root \*kes- (OCS _česati_ "to comb, to peel").
+REF: [EDPC]
+
+### <a id="kassara">\*kassarā "hail-shower, lightning" (n)</a>
+GOID: OIr. _casar_ [ā f]
+W: MW _kesseir_ [p] "hail, hailstones" (GPC _cesair_); _ceseiren_, _ceseiryn_ [sing.]
+BRET: MBret. _cazarc'h_, MoBret. _kasarc'h_ [m and coll.]
+CO: OCo. _ceser_ gl. _grando_
+PIE: \*kad- "fall" (IEW: 516)
+COGN: Lat. _cado_, Skt. _śad_- "fall off, fall out (of teeth)"
+ETYM: This is probably originally a collective formation, derived with the suffix \*-ro- (cf. _clochar_ "heap of stones, stony place" from _cloch_ "stone"; for this type of collectives cf. Tovar 1972-3). PCelt. \*-ss- can be from \*-ds-, or, more likely, from \*-dt-. We would have PIE \*kadto- "fallen" > PCelt. \*kasso-, from which the "collective" \*kassaro- was built. The PIE vowel \*a in this word is presumably epenthetic (avoiding the initial cluster \*ḱd-). It is uncertain whether these words have any connection to PCelt. [\*kassi- "hate"](#kassi) < \*ḱh₂d-ti-.
+REF: [EDPC]
+
+### <a id="kassi">\*kassi- "hatred, hate" (n)</a>
+GOID: MIr. _cais_ "love, hate"
+W: OW _cas_ [m], MW _cas_
+BRET: MBret. _cas_, MoBret. _kas_ [m] "hatred"
+CO: Co. _cas_
+PIE: \*ḱeh₂d- "strong negative emotion" (IEW: 517)
+COGN: Go. _hatis_ "hatred", Av. _sādra_- "suffering"
+SEE: [\*kādo- "regret, hate"](#kado)
+ETYM: The meanings of MIr. _cais_ depend on the context; the best rendition would be "strong emotion (whether positive or negative)". The stem and gender of that word are not stated in DIL. PCelt. \*kassi- can be regularly derived from PIE \*ḱh₂d-ti-, an abstract noun built to the root \*ḱeh₂d-/\*ḱh₂d-. I am not sure if this is the same root as \*kad- "fall" (see [\*kassarā "hail"](#kassara)).
+REF: [EDPC]
+
+### <a id="kasso">\*kasso- "curly, woven, twisted" (adj)</a>
+GOID: OIr. _cass_ [o] (OIL _cas_), ? Ogam _CAS-ONI_
+GAUL: _Cassi_- [PN], _Bodio-casses_ [ethnonym]
+ETYM: The connection with the root \*kes- "to comb" (IEW 585, cf. OCS _česati_, PCelt. [\*kīsrā "comb"](#kisra)) is semantically appealing, but the a-vocalism in Celtic is unexplained (a secondary zero-grade \*kasto- instead of the expected \*ksto-, with epenthetic \*a?).
+REF: [EDPC]
+
+### <a id="kato">\*kato- "wise, able" (adj)</a>
+GOID: OIr. _cath_ [o] (OIL _cáid_ [i]), _cád_, _cad_
+PIE: \*ḱeh₃- "sharpen" (IEW: 542)
+COGN: Skt. _śitá_- "sharpened", Lat. _catus_ "clever"
+ETYM: The OIr. word is spelled differently as _cath_, _cad_, _cáid_ and _cád_ (see DIL for attestetions). It is unclear whether the variability of the length of the root vowel could represent old ablaut. As in Latin, the Celtic word presupposes the semantic development of "sharp" to "wise, clever". A possible cognate is also Gallo-Lat. _caddos_ "holy" (CGL V 493, 30). The attribution to the PIE root \*ḱeh₃- "sharp" seems probable; however, the identity of the laryngeal is surmised chiefly on the basis of Lat. _cōs_, _cōtis_ "whetstone", and the etymology of this word is not completely certain.
+REF: [EDPC]
+
+### <a id="katrik">\*katrik- "fortification" (n)</a>
+GOID: OIr. _cathir_ [k f] "town"
+COGN: OE _hēaðor_ "enclosure, prison".
+ETYM: The etymology of OIr. _cathir_ is quite disputed. W _cadair_ "seat, town", Co. _cadar_, MBret. _cadoer_ are from Lat. _cathedra_ (ultimately from Greek). OIr. _cathir_ is unlikely to have been borrowed from Lat. _castrum_, but even if inherited, the stem formation \*katrik-. is unusual. The closest cognate seems to be OE _hēaðor_. I am not sure whether Croat. _kôt_ "sty", _kȍtar_ "administrative unit, province" can also be connected to the Celtic and Germanic forms. The a-vocalism points to the possibility that all or any of these words are loanwords from some non-IE source.
+REF: [EDPC]
+
+### <a id="katto">\*katto- "cat" (n)</a>
+GOID: OIr. _catt_ [o m]
+W: MW _cath_ [m and f]
+BRET: MBret. _caz_, MoBret. _kazh_ [m]
+CO: Co. _kat_
+GAUL: _Cattos_ [PN]
+COGN: Lat. _cattus_, OHG _kazza_, Russ. _kótka_
+ETYM: The word for "cat" in the European languages is a loanword from some non-IE (maybe north-African) source (cf. Nubian _kadīs_ "cat"). Cats were first domesticated in North Africa, perhaps in the beginning of the 2nd millennium B.C. In Celtic, the intermediary may have been Latin, but this cannot be proved.
+REF: [EDPC]
+
+### <a id="katu">\*katu- "battle" (n)</a>
+GOID: OIr. _cath_ [u m], Ogam _RO-CATOS_
+W: OW _cat_, MW _cad_ [f]; _cadau_, _cadoedd_ [p]
+BRET: OBret. _Catoc_ [PN], -_cat_ (in compounds, OBret.), MoBret. _kad_
+CO: Co. _cas_ [f]
+GAUL: _Catu-marus_ [PN], _Catu-riges_ [PN]
+PIE: \*ḱatu- "fight" (IEW: 534)
+COGN: Hitt. _kattu_- "enmity", Skt. _śatru_- "enemy", OHG _hadu_- "fight", OCS _kotora_ "fight"
+ETYM: Celtib. PN _Katunos_ might preserve the reflex of PCelt. \*katu- in Celtiberian. The a-vocalism in this PIE root is unexpected. Because of its distribution in many branches of IE, this word is unlikely to be a loanword from some non-IE language. A reconstruction \*ḱh₂et- is unlikely. One way to reconstruct a "normal" PIE root \*ḱet- / \*ḱot- (cf. Skt. _śātayati_, as if from < \*ḱoteyeti) would be to assume that PCelt. \*katu- is a prehistoric loanword from Germanic (borrowed before the operation of Grimm's law). Note that the Slavic reflexes were also probably borrowed from some Centum language (otherwise we would expect \*ḱ > Slavic \*s). Another possibility would be to reconstruct an ablauting paradigm \*ḱotu- / \*ḱtw-os, and assume that \*a in Celtic is epenthetic, originally introduced to avoid the difficult cluster \*ḱtw- in the oblique cases.
+REF: [EDPC]
+
+### <a id="katyo">\*kat-yo- "throw" (v)</a>
+GOID: OIr. _caithid_, -_caithi_; _caithfid_ [fut.] "throws, uses, consumes"
+GAUL: _cateia_ "projectile" (Servius, Aen. VII, 741)
+ETYM: The OIr. verb has many meanings, but it is probable that "throw" is the original one. The PCelt. root \*kat- can be compared to ORuss. _kotitisja_ "roll", Russ. _katít'_ "rush", _katát'sja_ "roll, drive", Cz. _kotiti_ "roll, turn". This would imply a PIE root \*keh₂t- / \*kh₂t-, with Celtic preserving the zero­ grade of the root.
+REF: [EDPC]
+
+### <a id="kawanno">\*kawanno- "owl" (n)</a>
+W: MW _cwan_, _cuan_ [f]; _cuanod_ [p]
+BRET: OBret. _couann_, _couhann_, MoBret. _kaouann_
+GAUL: _Cauanos_ [PN]
+PIE: \*kaw- "owl" (IEW: 535f.)
+COGN: OHG _hūwo_ "owl"
+ETYM: The existence of the Gaul. word _cauan(n)os_ is confirmed by the VLat. loanword _cauannus_ (ululae aues... quam auem Galli cauannum uocant, _Schol. Verg. Bern. ad egl._ 8.55), see Delamarre 111, Porzio Gemia 1981: 108. An underived Gaul. \*kawā "owl" could have influenced the development of Fr. _chouette_ "owl" (Gamillscheg 227f.). In Welsh, the vowel in the first syllable was lost irregularly (the proto-form \*kawan(n)o- must be assumed because an original \*kwan(n)o- would yield \*pan in Welsh). The words for "owl" are often onomatopoetic, cf. also OCS _sova_ "owl", as if from \*ḱaweh₂. However, all of these words could be parallel formations rather than inherited from the PIE word for "owl".
+REF: [EDPC]
+
+### <a id="kawaro">\*kawaro- "hero, champion" (n)</a>
+GOID: OIr. _cuar_ [? m] (DIL _cúar_, _caur_)​
+W: MW _cawr_ [m] "giant"
+CO: OCo. _caur-march_ gl. _camelus_
+GAUL: _Kauaros_ [PN]
+PIE: \*ḱewh₂ro- "stronf" (IEW: 592)
+COGN: Skt. _śávīra_-, _śūra_- "strong", Gr. _kýrios_ "lord".
+ETYM: OIr. _cuar_ is poorly attested, and was confounded with the near­ synonym, _caur_ [m] (gen.sg. _curad_ "champion"), which cannot be related directly to these forms. It is rather derived from \*karut- (cf. the Germanic ethnonym _Harudes_).
+REF: [EDPC]
+
+### <a id="kawla">\*kawlā "faggot" (n)</a>
+GOID: OIr. _cúal_ [ā f] "faggot, bundle of sticks"
+PIE: \*keh₂ul- "stalk" (IEW: 537)
+COGN: Lat. _caulis_ "stem, stalk, penis", Gr. _kaulós_ "stem", Lith. _káulas_ "bone"
+REF: [EDPC]
+
+### <a id="kawno">\*kawno- "port, haven" (n)</a>
+GOID: MIr. _cúan_ [o m]
+PIE: \*kHp-no- "take" (IEW: 527)
+COGN: Lat. _capio_ "take", OHG _havan_ "haven"
+ETYM: The formation with the suffix \*-no- in the word for "haven" is an exclusive Germanic-Celtic isogloss (could it be an early borrowing from Celtic into Germanic?). For the development of \*kawno- from \*kapno- cf. PCelt. [\*sowno- "sleep"](#sowno).
+REF: [EDPC]
+
+### <a id="kaxto">\*kaxto- "prisoner, slave" (n)</a>
+GOID: MIr. _cacht_ [ā f] "female servant"; _cacht_ [o m] "slave"
+W: MW _caeth_ [m and f] "bond, captive, captivity"
+BRET: MBret. _quaez_, MoBret. _kaezh_ "poor, unfortunate"
+CO: OCo. _cait_ gl. _servus_
+PIE: \*kHp-to- "captive" (IEW: 527)
+COGN: Lat. _captus_, Go. _hafts_
+ETYM: It is possible that these words are borrowed from Lat. _captus_ (OIr. _cachtaid_ "catch" is certainly from Lat. _captāre_); however, they could also be inherited; the usual word for "prisoner" in Lat. is _captīuus_, not _captus_. Fr. _chetif_ "weak, feeble" is usually derived from VLat. \*cactīuus, which is, in turn, the result of contamination of Lat. _captīuus_ and Gaul. \*kaxtos. This is, in itself, a sufficient reason to posit PCelt. \*kaxto-.
+REF: [EDPC]
+
+### <a id="kayko">\*kayko- "having an eye defect, blind" (adj)</a>
+GOID: OIr. _cáech_ [o]
+W: MW _coeg_
+CO: OCo. _cuic_ gl. _luscus vel monophthalmus_
+PIE: \*kayko- "blind" (IEW: 519)
+COGN: Lat. _caecus_, Go. _haihs_, Skt. _kekara_- "cross-eyed"
+ETYM: The a-vocalism of \*kayko- is typical of expressive, vulgar words (I see no reason to reconstruct \*kh₂ey-ko-, nor to connect these words to PIE \*keh₂ilo- "whole"). It may be a loanword from some non-IE language (such adjectives can be borrowed, cf. Croat. dial. _ćòrav_ "one-eyed" from Turkish _kör_). Gr. _kaikías_ "northeast wind" may be related to these words, but it is difficult to see the semantic connection.
+REF: [EDPC]
+
+### <a id="kaylo">\*kaylo- "omen" (n)</a>
+W: OW _coil(i)ou_ [p] "omens, auguries"; MW _coel_ [m and f] "belief, omen"
+BRET: OBret. _coel_ gl. _haruspicem_, MoBret. _koel_
+CO: OCo. _chuillioc_ gl. _augur_
+PIE: \*keh₂ilo- "whole, healthy", perhaps also "blessed with good omen" (JEW: 520)
+COGN: Go. _hails_, OCS _cělъ_, perhaps Lat. _caelum_ "sky"
+ETYM: OIr. _cél_ "omen" is a loanword from W. The first element of the toponym _Caeilo-briga_ in Spain is probably also related. The semantic connection with Lat. _caelum_ (de Vaan 2008: 80) might lie in the practice of divination through observing the flight of birds. Otherwise, omens might simply have been interpreted as signs from the sky, or caelestial divinities. The connection with the words meaning "whole" might lie in the mythological belief that the sky is a firm whole made of stone (cf. Lat. _firmamentum_). However, all of this remains rather speculative.
+REF: [EDPC]
+
+### <a id="kayto">\*kayto- "wood" (n)</a>
+W: OW _coit_, W _coed_ [m]
+BRET: MBret. _coat_, MoBret. _koad_ [m]
+CO: OCo. _cuit_ gl. _silva_, MCo. _coys_
+GAUL: _Caito-brix_ [toponym] (Ptolemy)
+PIE: \*kayto- "wood, field" (JEW: 521)
+COGN: Go. _haiþi_ "field"
+ETYM: The element -_cetium_ found in toponyms such as _Anicetis_, _Leto­-cetum_, _tò ketíon óros_ (Ptolemy) might reflect a late Gaul. reflex of \*kayto-. This is a correspondence limited to Celtic and Germanic. The a-vocalism in these words is difficult to account for. Maybe they were borrowed from some substrate in NW Europe.
+REF: [EDPC]
+
+### <a id="kekwora">\*kekʷorā "swamp, mud" (n)</a>
+GOID: MIr. _cechor_ [ā > k f] gl. _palus_
+PIE: \*ḱokʷr "excrement" (JEW: 544)
+COGN: Skt. _śakṛt_, Gr. _kópros_
+ETYM: The Proto-Celtic form \*kekʷorā (or maybe \*kekʷrā) is probably the collective/plural of the original r/n neuter stem. Lith. _šìkti_ "defecate" probably does not belong here. Russ. _serù_ "defecate", Hitt. _sakkar_ (gen.sg. _saknas_) "excrement" and Gr. _skō̃r_ (gen.sg. _skatós_) "excrement" point to a similar PIE heterocliton \*(s)ḱor which is very difficult to subsume under a single etymon with \*ḱokʷr (perhaps originally \*(s)ḱokʷr subject to tabooistic, irregular transformations?).
+REF: [EDPC]
+
+### <a id="kelfurno">\*kelfurno- "pail, bucket" (n)</a>
+GOID: OIr. _cilornn_ gl. _urceus_, gl. _situla_
+W: MW _celwrn_ [m]
+BRET: MBret. _quelorn_, MoBret. _kelorn_
+ETYM: These Celtic forms have been compared to the British toponym _Cilurnum_, and also to Lat. _calpar_ "pitcher (of wine)", which is probably borrowed from Gr. _kálpis_ "urn". Probably a Wanderwort of unknown origin.
+REF: [EDPC]
+
+### <a id="kelo">\*kel-o- "hide" (v)</a>
+GOID: OIr. _ceilid_, -_ceil_; _celaid_, -_cela_ [subj.]; _célaid_, -_céla_ [fut.]; _cilt_, -_celt_ [prt.]; _clethae_, -_cleth_ [pass.]
+W: MW _kelu_ (GPC _celu_)​
+BRET: MBret. _keles_
+PIE: \*ḱel- "hide" (IEW: 553f.)
+COGN: Lat. _oc-culo_, _cēlo_, OE _helan_, Skt. _śárman_- "shelter"
+ETYM: The ethnonym \*Keltoy "Celts" (Lat. _Celtae_, Gr. _Keltoí_) has also been connected with this verbal root (McCone 2006: 95). It would be a vṛddhi derivative from the PIE passive participle \*kltós "hidden", and its original meaning would have been "descendants of the hidden one (sc. the underworld deity)". Though highly speculative, this etymology finds some support in Caesar's remark that the Gauls claimed descent from an underworld god, Dis Pater (_De Bello Gallico_ 6, 18).
+REF: [EDPC]
+
+### <a id="kellako">\*kellāko- "fight, war" (n)</a>
+GOID: MIr. _cellach_ [o m]
+PIE: \*kelh₂ "strike" (IEW: 546f.)
+COGN: Lat. -_cello_ "strike", Gr. _kláō_ "break", OHG _hilta_ "fight", Lith. _kálti_ "strike, hew"
+ETYM: Gaulish theonym _Su-cellus_ (? "good striker") might also be related to this root (this god is represented as carrying a hammer on a monument found in Sarrebourg). The origin of the geminate \*ll is uncertain (\*ls, \*ln, and \*ly are possible). The same root is probably attested in the ethnonym _Celtae_ (from \*kel-to-, cf. PGerm. \*hildyo > OE _hild_ "fight", etc.). Since the PIE root ended in a laryngeal, this etymology presupposes that the laryngeal was lost in Celtic. This is possible if we assume a verb with a nasal present \*kl-neh₂ (cf. Lat. _per-cello_ "strike") which could have served as the source from which the root form without the laryngeal was generalized. However, such a verb is unattested in Celtic, which casts some doubt on the IE part of this etymology.
+REF: [EDPC]
+
+### <a id="kelyo">\*kēlyo- / \*kilyo- "companion" (n)</a>
+GOID: OIr. _céile_ [io m]
+W: MW _cilit_, _kilid_ (GPC _cilydd_) [m] "companion, other"
+BRET: MBret. _e-gile_ "other"
+CO: Co. _y-gyla_, _e-gele_
+GAUL: _cele_ (?) "companion" (Chateaubleau)
+ETYM: The interpretation of Gaul. _cele_ (hapax) is doubtful, see Delamarre 112. OIr. _céile_ presupposes PCelt. \*kēlyo-, while the Brittonic forms can be from \*kilyo-, \*kiliyo-. While this looks like Indo-European ablaut (\*keyl- / \*kil-) it is difficult to associate the Celtic forms with any PIE root.
+REF: [EDPC]
+
+### <a id="kenetlo">\*kenetlo- "race, kind" (n)</a>
+GOID: OIr. _cenél_ [o n]
+W: OW _cenetl_ [f]; MW _kenedyl_ (GPC _cenedl_, _ceneddl_)​
+BRET: OBret. _chenetl_, MoBret. _kenel_ [f]
+CO: OCo. _kinethel_ gl. _generatio_, Co. _kenel_
+PIE: \*ken- "begin" (IEW: 563f.)
+COGN: Lat. _re-cens_ "new", Gr. _kainós_ "young, new"
+SEE: [\*ken-o- "descend from, come into being, be born"](#keno), [\*kani- "good, nice"](#kani)
+ETYM: OW feminine _cenetl_ is probably the original nom-acc.pl. (or collective) of the neuter \*kenetlon.
+REF: [EDPC]
+
+### <a id="kenget">\*kenget- "warrior" (n)</a>
+GOID: OIr. _cing_ [t m]
+GAUL: _Cingeto-rix_ [PN]
+PIE: \*keng-o- "tread, step, walk (lamely)" (IEW: 930)
+SEE: [\*keng-o- "tread"](#kengo)
+ETYM: The same root is probably found in PN like Gaul. _Es-cinga_, _Eskeggai_ (dat.).
+REF: [EDPC]
+
+### <a id="kengo">\*keng-o- "tread, step, walk" (v)</a>
+GOID: OIr. _cingid_, -_cing_; _céiss_, -_cé_ [subj.]; _cichis_, -_cich_ [fut.]; _cechaing_ [prt.]
+PIE: \*(s)keng- "limp, walk lamely" (IEW: 930)
+COGN: Gr. _skázō_, OHG _hinkan_
+SEE: [\*kenget- "warrior"](#kenget), [\*kanxsman- "step"](#kanxsman)
+ETYM: The same root is probably attested in MW _caseg_ (pl. _cesig_) "mare", OCo. _cassec_ gl. _equa_, MBret. _casec_. These words could represent PCelt. \*kanxst-ikā "she belonging to the stallion", cf. PGerm. \*xanxista- "stallion" (OE _hengest_, OHG _hengist_ "gelding"), The original meaning of (unattested) PCelt. \*kanxsto- would have been "trotter", vel sim., but it is possible that the Celtic words were borrowed from Germanic at an early stage.
+REF: [EDPC]
+
+### <a id="kenno">\*kenno- "skin" (n)</a>
+GOID: OIr. _ceinn_ "peel, rind" (gl. _scamae_)​
+W: OW _ceenn_ [m] "murex", W _cen_ [m] "skin"
+BRET: OBret. _cennenn_ gl. _membrana_, MoBret. _ken_ [m] "skin"
+CO: Co. _cen_
+PIE: \*(s)ken- "peel" (IEW: 929f.)
+COGN: OE _scinn_ "skin", MHG _scint_ "fruit shell"
+ETYM: OIr. _ceinn_ is not well attested; MoBret. _skant_ [coll.] "dandruff" probably reflects \*skanto- from the same root (PIE \*skn-to-). Thus both variants with and without s-mobile are attested in Celtic.
+REF: [EDPC]
+
+### <a id="keno">\*ken-o- "descend from, come into being, be born" (v)</a>
+GOID: OIr. _cinid_; _cinis_, -_cin_ [prt.]
+PIE: \*ken- "begin" (IEW: 564)
+COGN: Lat. _re-cens_, Gr. _kainós_ "new", OCS _na-čęti_ "begin"
+SEE: [\*kentu- "first"](#kentu)
+ETYM: The Gaulish patronymic suffix -_cno_- (e.g. in _TRUTICNOS_ = Druti filius in the inscription from Todi) might be etymologically related to this verb. The same root might be in the second element of W _bach-gen_ "young boy".
+REF: [EDPC]
+
+### <a id="kentu">\*kentu- "first" (adj)</a>
+GOID: OIr. _cét_-
+W: MW _cynt_
+BRET: OBret. _cint_, MBret. _quent_, MoBret. _kent_ "before"
+CO: Co. _kyns_
+GAUL: _Cintu-gnatus_ [PN]
+PIE: \*ken-t- (IEW: 564)
+COGN: Lat. _re-cens_ "new", Gr. _kainós_ "young, new", OHG _hintar_ "behind"
+SEE: [\*ken-o- "descend from, come into being, be born"](#keno)
+ETYM: This is originally an abstract noun derived from the root \*ken­ "begin".
+REF: [EDPC]
+
+### <a id="kentusamonyo">\*kentu-samonyo- "May" (n)</a>
+GOID: OIr. _cétamain_ [indecl.]
+W: MW _kintevin_ [m] (GPC _cyntefin_) "beginning of summer, May"
+SEE: [\*kentu-](#kentu), [\*samon-](#samon)
+ETYM: This is a compound containing \*kentu- "first" and \*samon­ "summer".
+REF: [EDPC]
+
+### <a id="kerv">\*kerV- "fall" (v)</a>
+GOID: OIr. _do-cer_ "felled" [3s.prt.]; -_torchar_ [3s.perf.]
+PIE: \*ḱerh₂ "break" (IEW: 578)
+COGN: Skt. _śar_- "break", _śīrti_- "breaking", Gr. _keraḯzō_ "destroy"
+ETYM: OIr. _do-cer_ < \*to-kera- or \*to-ker-e- with secondary depalatalization of -_r_ (MIr. forms with palatalized -_r_ are attested admittedly late, but \*kera- should have been assimilated to \*kara- by Joseph's rule). In Old Irish, forms derived from this root serve as suppletive preterites to \*tud-o- "fall", see KPV 399.
+REF: [EDPC]
+
+### <a id="kerbo">\*kerbo- "pointed, sharp" (adj)</a>
+GOID: MIr. _cerb_ [o]
+PIE: \*(s)kerbʰo- "sharp" (IEW: 943)
+COGN: OE _scearp_, Latv. _skarbs_ "sharp, rough", ToB _kärpye_ "rough"
+ETYM: MIr. _cerb_ is attested rather late. The Germanic forms with \*p do not point to PIE \*b, but may be explained by Kluge's law. Lat. _scrobis_, _scrobs_ "ditch, trench, hole in the ground" may be related, but only if Schwebeablaut (\*skrobʰ-) is admitted, and the difference in meaning is significant.
+REF: [EDPC]
+
+### <a id="kerda">\*kerdā "art, skill" (n)</a>
+GOID: OIr. _cerd_ [ā f] "skill, art (esp. poetic art), craftsman"
+W: MW _cerdd_ [f] "skill, poetry, music"
+BRET: OBret. _cherdoran_ gl. _parasitaster_
+PIE: \*kerd- "profit" (IEW: 579)
+COGN: Gr. _kérdos_ "gain, profit"
+ETYM: This etymology is based on the comparison of just two branches of IE (Greek and Celtic) and is therefore not completely compelling. Moreover, the semantic connection is not quite persuasive. Bammesberger (1996) relates these words to the PIE root \*kerd- "heart", but I do not find his argument persuasive. From the purely formal point of view, PCelt. \*kerdā can be related to PCelt. [\*kerd-o- "put, lay, move"](#kerdo), but the semantic connection is weak.
+REF: [EDPC]
+
+### <a id="kerdo">\*kerd-o- "put, lay, move" (v)</a>
+GOID: OIr. _fo-ceird_ "put, throw"; _fo-cerr_ [subj.]; _fo-cicherr_ [fut.]; _fo-caird_ [prt.]; _fo-cress_ [pass.]
+W: MW _kerddet_ "walk, go" (GPC _cerdded_); _kerdd_ [3s.prs.]
+BRET: OBret. _cerd_ "movement", MBret. _querzet_ "go, run", MoBret. _kerzed_, _kerz_ [m] "a march, a walk"
+CO: Co. _kerdhes_ "go"
+PIE: \*kerd- "swing" (IEW: 934f.)
+COGN: Gr. _kradáō_ "swing, wave"
+ETYM: OIr. _fo-ceird_ < \*ufo-kerd-o- (the simplex verb is unattested in Goidelic). OBret. _credam_ gl. _vado_ has the unexpected _re_ instead of \*er; this could be due to metathesis. The IE connections of these Celtic forms are notoriously difficult. I prefer Pokorny's etymology to more recent proposals. Gr. _kradáō_ does not justify the reconstruction of the PIE root as \*kerdh₂, since the suffix -_áō_ may have been extended analogically. Lat. _cardō_ "hinge of a door or gate, pivot" may also be related, as well as OHG _scerdo_ "hinge", but both the semantic and formal connections are weak.
+REF: [EDPC]
+
+### <a id="kerka">\*kerkā "hen" (n)</a>
+SEE: [\*korxsā "heron"](#korxsa)
+REF: [EDPC]
+
+### <a id="kerna">\*kernā "angle, comer" (n)</a>
+GOID: MIr. _cern_ [ā f]
+W: MW _cern_ [f] "corner, jaw, cheek, side"
+BRET: MBret. _quern_ "top", MoBret. _kern_ [f]
+CO: Co. _Kernow_ "Cornwall"
+PIE: \*ḱer(h₂)-no- "horn" (IEW: 576)
+COGN: Go. _haurna_ "horn", Lat. _cornu_ "horn"
+SEE: [\*karno- "horn, hoof"](#karno)
+ETYM: MIr. _cern_ "corner" might be the same word as _cern_ "receptacle, dish" (if this latter word originally denoted only dishes of angled shape). If this etymon is indeed from the PIE root for "horn", Celtic must have generalized the root shape without the laryngeal (just as Latin _cornu_). The same root is in the zero-grade in PCelt. \*karno-.
+REF: [EDPC]
+
+### <a id="ki">\*ki / \*koy / \*ke [Demonstrative Particle or pronoun]</a>
+GOID: OIr. _ce_, _cé_ demonstrative particle: _in bith ce_ "this world", Ogam _CI_, _COI_ "this"
+GAUL: _koui_ (?), _iso-c_ "thus" (Chamalieres)
+PIE: \*key- "this" (IEW: 609)
+COGN: Lat. _cis_, Eng. _he-re_, Lith. _šìs_
+ETYM: The OIr. form _cé_ could represent the nom.sg.masc. form of the pronoun, PIE \*keys > PCelt. \*kēs (like \*kʷeys "who" > \*kʷēs). The short form _ce_ is due to shortening in atonic position. The Ogam particle _COI_ probably also belongs here; since its meaning seems to be equivalent to Lat. _hic (iacet)_, it has been interpreted as the loc.sg. of the same pronominal stem.
+REF: [EDPC]
+
+### <a id="">\*kīkā "breast" (n)</a>
+GOID: MIr. _cích_ [ā f] "breast"
+W: MW _cig_ [m] "meat"
+BRET: OBret. _cic-guan_ gl. _fuscina_, MBret. _quic_, MoBret. _kig_ [m]
+CO: OCo. _cic_ gl. _caro_, _chic_, _kyk_
+GAUL: _Cic-ollus_ [PN]
+ETYM: There is some evidence (according to DIL) that _cích_ was a neuter s-stem in OIr., so maybe PCelt. \*kīkos- should be reconstructed (this would be more in accordance with the gender of the Brittonic words). It is assumed here that the meaning attested in MIr. is original; this is a popular, expressive word, such as are often used for (female) body parts.
+REF: [EDPC]
+
+### <a id="kina">\*kina, \*kinā "besides" (prep)</a>
+GOID: OIr. _cen_ [+acc.] "without"
+W: MW _am-gen_ "other, different"
+BRET: MBret. _quen_ "other, otherwise"
+CO: Co. _ken_ "other, otherwise"
+ETYM: W _gan_ "with, by" has also been related to these words (but cf. PCelt. [\*kanti- "together, with"](#kanti)). It appears that these words are connected to the demonstrative base \*ḱi- (Lat. _cis_ etc.), but details are unclear.
+REF: [EDPC]
+
+### <a id="kisra">\*kīsrā "comb" (n)</a>
+GOID: OIr. _cír_ [ā f]
+PIE: \*kes- "comb" (JEW: 585)
+COGN: Gr. _ksaínō_ "comb", OCS _česati_ "to comb", Lith. _kasýti_ "to scratch"
+ETYM: The lengthened grade of OIr. _cír_ is unexpected. On the other hand, a proto-form \*kes-erā would presumably yield \*\*kehera > \*\*cíar in OIr. It is tempting to posit a reduplicated proto-form \*ke-ks-reh₂ > \*kexsrā (for the zero grade cf. Gr. _ksaínō_ < \*ks-n-) and assume lengthening of vowels before \*xsL (cf. [\*tāxslo- "axe"](#taxslo) < \*tokslo-). If this is accepted, we would have \*kexsrā > \*kēsra > \*kīsra regularly.
+REF: [EDPC]
+
+### <a id="kista">\*kistā "(woven) basket" (n)</a>
+GOID: MIr. _cess_ (DIL _ces_) [ā f] "basket, causeway of wickerwork, bee­ hive"
+W: OW _cest_ [f] gl. _fiscina_
+BRET: MBret. _kest_
+COGN: Gr. _kístē_
+ETYM: Borrowing from Lat. _cista_ (itself from Gr. _kístē_) seems improbable. All of these words could be from some unknown, non-IE source. Lat. _cissium_ "a kind of car with two wheels" is considered to be a loanword from Gaul. It may be from the same Celt. root. For the evolution of meaning cf. OIr. _corb_ "chariot", vs. Lat. _corbis_ "basket".
+REF: [EDPC]
+
+### <a id="">\*kiw-o- "fog" (n)</a>
+GOID: OIr. _ceó_ [? f and m]
+PIE: \*ḱeyH- "gray" (IEW: 951)
+COGN: Skt. _śyāvá_- "dark brown", OCS _sivъ_ "gray", Lith. _šývas_
+ETYM: The derivation from the PIE root is doubtful both formally and semantically (for the phonetic development cf. OIr. _béo_ from PCelt. \*biwo­- "alive"). The vowel length could have been lost by Dybo's law if PIE end­ stressed \*kiH-wó- is posited. OE _héow_, _hiw_ "appearance" and the related Germanic words probably do not belong here (Orel 2003: 171 relates them convincigly to OE _heawan_ "to hew").
+REF: [EDPC]
+
+### <a id="kiyo">\*ki-yo- "fall, cry" (v)</a>
+GOID: OIr. _ciid_, -_cí_ "cry"; _cieid_, -_cia_ [subj.]; _cichid_, -_cichi_ [fut.]; _cich_ [prt.]
+W: MW -_chiawr_ "fall" [3s.prs.] (GPC _ciawr_)​
+BRET: MBret. _coezaff_ "fall, happen"
+CO: Co. _koedha_ "fall, happen"
+PIE: \*ḱey- "fall" (IEW: 542 (\*keyd-))
+COGN: Skt. _śīyate_ "falls", perhaps ON _hitta_ "light upon, meet with"
+ETYM: Breton and Cornish forms are from PCelt. \*ke-do-, presumably a derivative from the same verbal root. Cf. also W _cwyddaw_ "fall" (denominal verb).
+REF: [EDPC]
+
+### <a id="kladiwo">\*kladiwo- "sword" (n)</a>
+GOID: OIr. _claideb_ [o m]
+SEE: \*klādo-, [\*klado- "trench"](#klado-2)
+ETYM: The Brittonic words (MW _cledyf_, MBret. _clezeff_, Co. _clethe_) are early loanwords from Goidelic. It is usually assumed that Lat. _gladius_ was borrowed from Celtic in prehistoric times, but it could also be inherited (with \*kl > _gl_- as in Lat. _gloria_ < \*klowesyā).
+REF: [EDPC]
+
+### <a id="klado-1">\*klad-o- "dig, bury" (v)</a>
+GOID: OIr. _cladaid_, -_claid_; _cláiss_, -_clá_ [subj.]; _cechlais_, -_cechla_ [fut.]; _cechlaid_ [prt.]; _classae_, -_class_ [pass.]
+W: MW _claddu_
+BRET: MBret. _claza_, MoBret. _klazañ_
+PIE: \*kelh₂- "hit, break" (IEW: 546f.)
+COGN: Lat. _per-cello_, Gr. _klā́ō_, Lith. _kálti_, OCS _klati_ "stab"
+SEE: [\*klādo-, \*klado- "trench"](#klado-2)
+ETYM: The Celtic forms show the reflexes of the zero-grade of the PIE root. Schumacher (KPV 412) thinks that \*klad- is the regular reflex of \*klh₂d-, which I find unlikely. The expected reflex \*klād- is preserved in the Subjunctive, OIr. -_cláiss_ < \*klāds-, while the short vowel in the present may be the result of Dybo's law, if the original present was \*klh₂déti, \*klh₂dónti (the type of Skt. _tudáti_).
+REF: [EDPC]
+
+### <a id="klado">\*klādo-, \*klado- "trench" (n)</a>
+GOID: MIr. _clad_, _clod_ [o m] "hole dug in the ground, trench"
+W: MW _cladd_ [m and f] "pit, ditch" (GPC _cladd_), _clawd_ [m] "mound, ditch, pit, bulwark" (GPC _clawdd_); _cloddiau_, _cloddion_ [p]
+BRET: MBret. _kleuz_ (MoBret.)
+CO: Co. _cleath_
+GAUL: _Vindo-cladia_ [toponym]
+PIE: \*kleh₂-d- (IEW: 546)
+COGN: Lat. _clades_ "devastation"
+SEE: [\*klad-o- "dig, bury"](#klado-1)
+ETYM: There is also a verbal derivative from the same root, PCelt. \*klad-o­ (v.). MBret. _kleuz_ and W _clawd_ must be from PCelt. \*klād- with long \*ā. The forms with short \*a must somehow be analogical, because \*klh₂d- (with PIE zero-grade) would have yielded PCelt. \*klād- as well. The source of the analogy could have been the verb \*klad-o- "dig", where the short \*a might be regular.
+REF: [EDPC]
+
+### <a id="klamo">\*klamo- "sick, suffering from leprosy" (adj)</a>
+GOID: OIr. _clam_ [o] "leprous"
+W: MW _claf_ "sick, ill, leprous"
+BRET: MBret. _claff_, MoBret. _klañv_
+CO: OCo. _claf_ gl. _eger_
+ETYM: The a-vocalism of this etymon points to non-IE origin.
+REF: [EDPC]
+
+### <a id="klaro">\*klāro- "board, plank" (n)</a>
+GOID: OIr. _clár_ [o n and m] "plank, flat article, surface"
+W: OW _claur_, W _clawr_ [rn] "cover, lid, plank"; _cloriau_ [p]
+BRET: MoBret. _cleür_, _kleur_ [m] "limon de charrette, cheville du limon"
+PIE: \*kleh₂ro- "plank" (JEW: 545)
+COGN: Gr. _klē̃ros_ "lot, piece of wood for casting lots"
+ETYM: A connection with the root \*kelh₂ "cut" (Gr. _kláō_, Lith. _kálti_, etc., Pokorny 545f.) appears probable, otherwise this would be an exclusive Celtic-Greek isogloss. Both PCelt. \*klāro- and Gr. _klē̃ros_ can be from PIE \*klh₂ro- (the Greek form shows that the accent was on the first syllable, so the length of the root vowel was preserved in Celtic).
+SEE: [\*kellāko- "fight, war"](#kellako), [\*klad-o- "bury, dig"](#klado), [\*kolgā "dagger"](#kolga)
+REF: [EDPC]
+
+### <a id="klawo">\*klāwo- "bolt" (n)</a>
+GOID: OIr. _cló_ [o m] "nail, spike"; cloi! [io m]
+W: MW _clo_ [m] "lock, bolt"
+BRET: OBret. _clou_ gl. _acitamenta_ (for \*acutamenta), MBret. _clou_, MoBret. _klow_ [m] "key, bolt"
+PIE: \*kleh₂w- "bolt, bar, hook" (IEW: 604)
+COGN: Lat. _clāuis_ "key, bolt", Gr. _kleís_ (Dor. _klāís_)​
+ETYM: Some think these words were borrowed from Lat. _clāuus_, but inheritance is equally probable.
+REF: [EDPC]
+
+### <a id="kleta">\*klētā "palisade, hurdle" (n)</a>
+GOID: MIr. _clíath_ [ā f]
+W: MW _clwyd_ [f] "barrier, wattle, scaffolding, gate"
+BRET: MBret. _cloet_, _kloued_, _klwed_ [f]
+CO: OCo. _cluit_ gl. _clita_
+PIE: \*ḱley-t- (IEW: 601)
+SEE: [\*klit- "pillar, post"](#klit)
+ETYM: Fr. _claie_, Cat. _cleda_ are derived from Gaul. \*cleta, the exact correspondence of these Celtic words, see Delamarre 118.
+REF: [EDPC]
+
+### <a id="kleyo">\*klēyo- "left" (adj)</a>
+GOID: OIr. _clé_
+W: OW _cled_, MW _cled_ (GPC _cledd_) "left, left hand or side" ([f] when used as a noun)
+BRET: MBret. _cleiz_, MoBret. _kleiz_
+CO: Co. _cledh_
+PIE: \*ḱley- (IEW: 601)
+COGN: Lat. _clīuius_ "inauspicious, ominous", Go. _hleiduma_ "left", Lith. _šleĩvas_ "bow-legged"
+ETYM: It seems that the original meaning of PIE \*ḱley- was "bow-shaped", or "sloping", cf. Lat. _clīuus_ "slope, hill".
+REF: [EDPC]
+
+### <a id="klinu">\*kli-nu- "hear" (v)</a>
+GOID: OIr. _ro-cluinethar_; -_cloathar_ [subj.]; _cechladar_ [fut.]; -_cualae_ [prt.]; -_closs_ [pass.]
+PIE: \*ḱlew- (IEW: 605ff.)
+COGN: Skt. _śru_-, Gr. _klýō_, OCS _sluti_
+SEE: [\*klus-ī- "hear"](#klusi), [\*klowstā "ear"](#klowsta)
+ETYM: OIr. _ro-cluinethar_ < \*fro-kli-nu-tor. The verb loses its prefix _ro_- in non-present tense. The PCelt. stem \*kli-nu- was probably reshaped by transposition to \*klu-ni- in Primitive Irish, hence regularly OIr. -_cluin-ethar_.
+REF: [EDPC]
+
+### <a id="klisso">\*klisso-, \*klissu- "feat" (n)</a>
+GOID: OIr. _cles_ [o and u m] "feat, trick, strategem"
+PIE: \*kleys-d-
+COGN: Skt. _krī́ḍati_ "plays, dances"
+ETYM: If OIr. _cles_ is related to Skt. _krī́ḍati_, the PIE root should be reconstructed as \*kleys-d-. PCelt. \*klisso- < \*klisd-to- preserves the zero­ grade of the root from the past participle. However, Skt. _krī́ḍati_ has also been related to ON _hrista_ "shake", which must be from PIE \*kreys-d-. Another possibility would be to relate OIr. _cless_ to Skt. _śreṣ_- "hang" (Mayrhofer II: 670f., LIV 297), in which case we should reconstruct PCelt. \*klisso- (< PIE \*klis-so-), or \*klisto- (< PIE \*klis-to-).
+REF: [EDPC]
+
+### <a id="klit">\*klit- "pillar, post" (n)</a>
+GOID: OIr. _clí_ [m] and _cleth_ [ā f] "housepost, support, prop"
+PIE: \*ḱley-t- "post, trimmed log" (IEW: 601)
+COGN: Skt. _śritá_- "attached", Gr. _klíta_ "cloister" (Hesych.), OE _gehlid_ "fence"
+ETYM: OIr. _clí_ can be from \*klit-, whereas _cleth_ is from the derived \*klitā. Reflexes in other IE languages may point to a PIE root noun, \*ḱleyt- / \*ḱlit-os, but most languages seem to have generalized the oblique stem with the zero-grade of the root, attested also in the verb \*ḱley- "lean" (Skt. _śray_-, Lat. _clīno_, OHG _hlinen_, Lith. _šliẽti_).
+REF: [EDPC]
+
+### <a id="klito">\*klito- "warm" (adj)</a>
+W: MW _clyd_ "warm, sheltered"
+PIE: \*ḱlto- "warm" (IEW: 551)
+COGN: Lith. _šiltas_, Lat. _calidus_, _caleo_ "be warm"
+ETYM: Formally, PCelt. \*klito- is a past participle of the verbal stem \*kel-, which is attested in Lat. _caleo_
+REF: [EDPC]
+
+### <a id="klokko">\*klokko- "bell" (n)</a>
+GOID: OIr. _clocc_ [o m]
+W: MW _cloch_ [f]
+BRET: MBret. _cloch_, MoBret. _kloc'h_ [m]
+CO: OCo. _cloch_ gl. _clocca_
+ETYM: Fr. _cloche_ "bell" < MLat. _clocca_ was probably borrowed from the language of the Celtic missionaries in the early Middle Ages (_clocca_ is first attested in the work of Adommin in the 7th century). It is improbable that it is from Gaulish, cf. also Germ. _Glocke_. The PCelt. word is clearly onomatopoetic.
+REF: [EDPC]
+
+### <a id="klowni-1">\*klowni- "meadow" (n)</a>
+GOID: OIr. _clúain_ [i m]
+W: OW _clun_ [m], MW _clun_
+GAUL: _Clunia_ [toponym]
+ETYM: Pokorny hesitates between the roots \*ḱlep- (IEW 603) and \*ḱlew­ (IEW 607), but neither etymology is completely persuasive. I find the derivation from PIE \*ḱlopni- (Lith. _šlãpius_ "wet", Gr. _klépas_ "swamp") somewhat more probable. PIE \*ḱlopni would have given PCelt. \*klowni­ quite regularly.
+REF: [EDPC]
+
+### <a id="klowni-2">\*klowni- "thigh" (n)</a>
+W: MW _clun_ [f]; _cluniau_ [p]
+BRET: MBret. _clun_, MoBret. _klun_ [f] "buttock"
+CO: Co. _clun_
+PIE: \*ḱlowni- (IEW: 607f.)
+COGN: Lat. _clūnis_, Olc. _hlaun_, Lith. _šlaunìs_
+REF: [EDPC]
+
+### <a id="klowsta">\*klowstā "hearing, ear" (n)</a>
+GOID: OIr. _clúas_ [ā f]
+W: MW _clust_ [m and f]; _clustiau_ [p]
+GAUL: _Rokloisiabo_ [Dat p, Theonym]
+PIE: \*ḱlews-t- "hear" (IEW: 606)
+SEE: [\*kli-nu- "hear"](#klinu)
+COGN: OE _hlyst_ "hearing"
+REF: [EDPC]
+
+### <a id="klukaro">\*klukaro- "heap of stones, rocky place" (n)</a>
+SEE: [\*klukā "stone"](#kluka)
+REF: [EDPC]
+
+### <a id="kluka">\*klukā "stone, rock" (n)</a>
+GOID: OIr. _cloch_ [ā f]
+W: MW _clog_ [f] "rock"
+BRET: MoBret. _Cleguer_ [toponym]
+CO: Co. _clog_
+ETYM: MBret. _Cleguer_, MoBret. _Kleger_ (also _kleger_ [m] "heap of stones") is a collective formation with the suffix \*-ro-, cf. OIr. _clochar_ [o n], W _clegyr_ "a heap of stones" (on this type of formation see Tovar 1972-3). In all likelihood, this PCelt. etymon was borrowed from some non-IE language.
+REF: [EDPC]
+
+### <a id="klusi">\*klus-ī- "hear" (v)</a>
+W: MW _clywet_, _clybot_ (GPC _clywed_, _clybod_)​
+BRET: MBret. _clevet_, MoBret. _klewed_
+CO: Co. _klywes_
+PIE: \*ḱlews- (IEW: 605ff.)
+COGN: OHG _hlosēn_, OCS _slyšati_
+SEE: [\*kli-nu- "hear"](#klinu)
+ETYM: The forms of the verb "to hear" in Goidelic are derived from the form \*ḱlew-, e.g. OIr. _ro-cluinethar_ "hears", cf. the preterite 3sg. -_cualae_ < \*ku-klow-e (= W _cigleu_).
+REF: [EDPC]
+
+### <a id="kluto">\*kluto- "fame" (n)</a>
+GOID: OIr. _cloth_ [o n]
+W: MW _clod_ [mand f]
+BRET: OBret. _clot_ gl. _rumoris_, MoBret. _klod_ [m]
+CO: Co. _clos_
+PIE: \*ḱlu-to- (IEW: 605ff.)
+COGN: Gr. _klytós_ "famous", Lat. _in-clutus_
+ETYM: This word is a substantivized neuter passive participle. W _clod_ < \*klutā is best interpreted as the reflex of the old neuter plural, rather than as an independent feminine etymon.
+REF: [EDPC]
+
+### <a id="kluwos">\*kluwos "fame" (n)</a>
+GOID: OIr. _clú_ [s n, later f] gl. _rumor_; _cluë_ [gen.sg.]
+PIE: \*ḱlewos "word, fame" (IEW: 606)
+COGN: Skt. _śrávas_-, Gr. _kléos_, Lat. _cluōr_
+SEE: [\*kli-nu- "hear"](#klinu), [\*kluto- "fame"](#kluto)
+ETYM: The unexpected \*-u- in Celtic could be due to the analogy with the participle of the verb "to hear", \*klu-to-. PIE \*ḱlewos should probably have given PCelt. \*klowos > OIr. \*\*clúa. The same root is attested in Gaul. personal names such as _Ver-clovus_, _Veru-cloetius_ (Caesar). Gaul. (?Theonym) _rokloisiabo_ [dat.pl.] (Glanum) can represent \*fro-klowes-yā (Hamp 1986).
+REF: [EDPC]
+
+### <a id="knami">\*knāmi- "bone" (n)</a>
+GOID: OIr. _cnáim_ [i m]
+PIE: \*konh₂m "leg" (gen.sg. \*knh₂m-os) (IEW: 613)
+COGN: Gr. _knḗmē_ "leg", OE _hamm_ "ham"
+ETYM: The OIr. word is derived from the oblique stem of the PIE etymon, \*knh₂m-. W _cnaw_ [m] "bone, skull" is probably a loanword from OIr.
+REF: [EDPC]
+
+### <a id="knawi">\*knawī "fleece" (n)</a>
+GOID: OIr. _cnaí_ [ī f]
+W: MW _cnaif_ [m] "fleece, clipping, a shearing"
+BRET: MBret. _kneau_, _cnev_, (Vannetais _kaneo_), MoBret. _knew_ [m]
+CO: Co. _kneu_
+ETYM: Cf. also MW _cnu_, _cnuf_ [m] "fleece" < \*knowo-. An etymological connection to PCelt. [\*knā-yo- "bite, chew"](#knayo) is probable.
+REF: [EDPC]
+
+### <a id="knayo">\*knā-yo- "bite, chew" (v)</a>
+GOID: OIr. _imm-cná_, -_cná_
+W: MW _cnoi_; _cny_ [3s.prs.]
+PIE: \*kneh₂ "bite, gnaw" (IEW: 560)
+COGN: Lith. _knóti_ "peel", Gr. _knēstḗr_ "a kind of knife"
+ETYM: OIr.  _imm-cná_ < \*ambi-knā-yo-. Cf. also OIr. _cnaid_ "bites, gnaws". The verbal noun OIr. _cnám_ < \*knāmā might be etymologically identical to MW _cnaw_ "bone" (but see PCelt. [\*knāmi- "bone"](#knami)).
+REF: [EDPC]
+
+### <a id="knokko">\*knokko- "protuberance, hill" (n)</a>
+GOID: OIr. _cnocc_ [o m] "lump, swelling, ulcer, hill, mound"
+W: MW _cnwch_ [m] (GPC _cnwch_, _clwch_)​
+BRET: OBret. _cnoch_ gl. _tumulus_, MBret. _qnech_, MoBret. _krec'h_ [m]
+PIE: \*knek- (IEW: 559)
+COGN: OE _hnecca_ "neck", OHG _hnac_ "back, top", ToA _knuk_ "neck"
+ETYM: W _cnwc_ is a loanword from Irish (the regular reflex of \*kk is W _ch_). Its vocalism may have influenced _cnwch_, which is inherited, (otherwise we would have to reconstruct PCelt. \*knukko-, and attribute -_o_- in OIr. to lowering). Celtic shows evidence of both \*knokko- (OIr. _cnocc_) and \*knekko- (MoBret. _krec'h_, with _kn_ > _kr_). PCelt. \*knokko- agrees with the vocalism of the Germanic cognates.
+REF: [EDPC]
+
+### <a id="knu">\*knū- "nut" (n)</a>
+GOID: OIr. _cnú_ [ū f]
+W: MW _cnau_ [p]; _cneuen_ [sing. f]
+BRET: MBret. _kanou_, MoBret. _know_ [coll.], _knoen_ [sing.]
+CO: Co. _cnyfan_ [sing.]
+PIE: \*knew- "nut" (IEW: 558)
+COGN: Lat. _nux_, OE _hnutu_
+ETYM: These words, all derived from the same root (\*knew-), have different suffixes (\*-k- in Latin, \*-d- in Germanic, ? -H- in Celtic). They may have been ultimately borrowed from some unknown non-IE source of W Europe.
+REF: [EDPC]
+
+### <a id="kobo">\*kob(o)- "victory" (n)</a>
+GOID: MIr. _cob_ [on(?)]
+GAUL: _Uer-cobius_ [PN]
+PIE: \*kob- (IEW: 610)
+COGN: ON _happ_ "chance, good luck", OCS _kobb_ "destiny"
+ETYM: Ir. _cob_ is a rare, poetic word glossed as _buaid_ "victory" in O' Davoreen's dictionary. It could have been neuter originally, but this is not certain. The comparison of the Gaulish names with this element is also rather speculative.
+REF: [EDPC]
+
+### <a id="koldo">\*koldo- "destruction" (n)</a>
+GOID: OIr. _coll_ [o n]
+W: MW _coll_ [m]
+BRET: MBret. _coll_, MoBret. _koll_
+CO: OCo. _colled_ gl. _iactura_
+PIE: \*kold- "strike, cut" (IEW: 545)
+COGN: OE _healtian_ "limp"
+REF: [EDPC]
+
+### <a id="kolga">\*kolgā "sword, dagger" (n)</a>
+GOID: OIr. _colg_, _calg_ [ā f, later o m]
+W: MW _col_, _coly_ [m] "sting, spike, chaff"; OW _colginn_ gl. _aristam_, MW _colyn_ [m] "sting, pivot"
+CO: Co. _col_, _colgh_
+PIE: \*kelh₂ "pierce, strike" (IEW: 545)
+COGN: Lat. _per-cello_, OCS _klati_
+ETYM: If we start from PIE \*kolh₂-geh₂, the loss of the laryngeal is regular after \*oR (de Saussure's rule). But the velar suffix \*-go- is unusual.
+REF: [EDPC]
+
+### <a id="koligno">\*koligno- "pup, small animal" (n)</a>
+GOID: OIr. _cuilén_ [o m] "pup, whelp, cub, kitten"
+W: MW _colwyn_ [m]; _colwynod_ [p]
+BRET: OBret. _coloinan_ gl. _catulaster_, MBret. qu_oalen
+CO: OCo. _coloin_ gl. _catulus_
+ETYM: Theoretically, it would be possible to derive \*koligno- by dissimilation from \*koni-gno-, and relate the first element of this compound to PIE \*ken- "young, new" (see PCelt. [\*kanawon-](#kanawon)). The second element would be derivable from PIE \*ǵenh₁- "bear, give birth to" (see PCelt. [\*genos-](#genos)). However, this is highly speculative. Since no persuasive IE etymology is at hand, it is quite likely that this word was borrowed from some non-IE language.
+REF: [EDPC]
+
+### <a id="kolino">\*kolino- "holly tree" (n)</a>
+GOID: OIr. _cuilenn_ [o m]
+W: MW _celyn_
+BRET: MBret. _quelenn_, MoBret. _kelenn_ [coll.]
+CO: OCo. _kelin_ gl. _ulcia_
+PIE: \*kol-ino- "pricky tree, ?holly" (IEW: 545)
+COGN: OE _holegn_ "holly", OHG _hulis(boum)_, Alb. _kalli_ "straw, chaff"
+ETYM: The Germanic forms point to PGerm. \*hulisa-, which would have to reflect the zero-grade of a PIE root \*kol-, \*kel-. Note, however, that OIr. _cuilenn_ would be compatible with \*kulisno- rather than \*kolino-. If \*kulisno- is the correct PCelt. reconstruction, we are dealing with a loanword from some unknown non-IE language. But the vocalism of the Brittonic reflexes is best explained as the result of assimilation from \*kylyn, which would be the regular reflex (by raising) of \*kolyn (cf. W _dylysc_ and _delysc_ < PCelt. [\*dolisko- "seaweed"](#dolisko)).
+REF: [EDPC]
+
+### <a id="kom">\*kom "with" (prep)</a>
+GOID: OIr. _co_, _cu_ [nasalising, +dat.]
+W: MW _cyf_-
+BRET: MBret. _kev_-
+CO: Co. _kev_-
+PIE: \*ḱom "with" (IEW: 612)
+COGN: Lat. _cum_, OCS _sъ_
+SEE: [\*kanti- "together with"](#kanti)
+ETYM: A derivative of this preposition is PCelt. \*kanti- < \*ḱmti- "together, with"
+REF: [EDPC]
+
+### <a id="komaltiyo">\*kom-altiyo- "foster-brother" (n)</a>
+GOID: OIr. _comaltae_ [io m]
+W: MW _cyfeillt_ [m] "friend" (GPC _cyfaill_, _cyfaillt_)​
+CO: OCo. _chevals_ gl. _artus_
+SEE: [\*altiyo- "fosterling, client"](#altiyo)
+REF: [EDPC]
+
+### <a id="komangu">\*kom-angu- "narrow" (adj)</a>
+GOID: OIr. _cumung_ [o]
+W: MW _cyfwng_ [m] "gap, chasm, straits"
+SEE: [\*angu- "narrow"](#angu)
+ETYM: Cf. also the denominative verb W _cyfyngu_ "to narrow, distress, restrict".
+REF: [EDPC]
+
+### <a id="komareyo">\*kom-are-(yo)- "direction, presence" (n)</a>
+GOID: OIr. _comair_ (used as a preposition: _comair caich_ "in front of everyone")
+W: MW _cyfair_ [m and f] "direction, place, spot, acre" (GPC _cyfair_, _cyfer_)​
+BRET: MBret. _e queffuer_, MoBret. _kefzver_
+CO: Co. -_kever_
+SEE: [\*kom](#kom), [\*fare](#fare)
+REF: [EDPC]
+
+### <a id="kombero">\*kom-ber-o- "bring together" (v)</a>
+GOID: OIr. _con-beir_ "brings together, bears"
+W: MW _kymryt_ "take, receive" (GPC _kymryd_, _cymeryd_)​
+BRET: MBret. _quempret_ "take, receive", _kemeret_
+CO: Co. _kemmeres_ "take, receive"
+SEE: [\*ber-o- "carry"](#bero)
+REF: [EDPC]
+
+### <a id="kombero">\*kom-bero- "confluence (of rivers)" (n)</a>
+GOID: OIr. _commar_ [o]
+W: OW _cimer_ [m], _cymer_
+BRET: MBret. _kemper_
+SEE: [\*kom-](#kom), [\*ber-o- "carry"](#bero)
+REF: [EDPC]
+
+### <a id="kombina">\*kom-bi-na- "cut off" (v)</a>
+GOID: MIr. _con-ben_ "cuts off"
+W: MW _kymynu_ "hew, cut off, hack"; _kymyn_ [3s.prs.]
+BRET: MBret. _quemenas_ "cut" [3s.prt.]
+REF: [EDPC]
+
+### <a id="komdati">\*kom-dati- "confluence" (n)</a>
+SEE: [\*dasti- "heap, pile"](#dasti)
+REF: [EDPC]
+
+### <a id="komdawto">\*kom-daw-to- "firewood" (n)</a>
+SEE: [\*daw-yo- "kindle, burn"](#dawyo)
+REF: [EDPC]
+
+### <a id="komdelgo">\*kom-delgo- "contract, comparison" </a>
+SEE: [\*delg-o- "hold"](#delgo)
+REF: [EDPC]
+
+### <a id="komfroanko">\*kom-fro-ank-o- "meet, fight" (v)</a>
+GOID: OIr. _con-r-icc_ "meet"
+W: MW _kyfreing_, _kyfrang_ [3s.prs.] "meet, fight" (GPC _cyfrengi_)​
+SEE: [\*ank-o- "reach"](#anko)
+REF: [EDPC]
+
+### <a id="komkoro">\*kom-koro- "meeting"(?) (n)</a>
+GOID: MIr. _cocur_ [o m] "consultation, conspiracy"
+W: MW _cynghor_ [m] "counsel" (GPC _cyngor_)​
+SEE: [\*kom-](#kom), [\*koro- "act of putting"](#koro)
+REF: [EDPC]
+
+### <a id="kommen">\*kom-men- "memory" (n)</a>
+GOID: OIr. _cuman_, _cumen_ (in _is cuman lim_ "I remember")
+W: MW _cof_ [m], _covein_, _cofawr_ [p]
+BRET: OBret. _com_, _cam_, MBret. _couff_, _coff_, MoBret. _koun_ [m]
+CO: Co. _cof_
+SEE: [\*man-yo- "think, remember"](#manyo)
+ETYM: OBret. _com_, _cam_ is not adduced in DGVB.
+REF: [EDPC]
+
+### <a id="komoxti">\*kom-oxti- "power, wealth" (n)</a>
+GOID: OIr. _cumachtae_ [io n] "power"
+W: OW _comoid_ [m] "power", MW _cyfoeth_, _kyuoeth_ "wealth"
+CO: OCo. _chefuidoc_ gl. _omnipotens_
+REF: [EDPC]
+
+### <a id="komriga">\*kom-rigā "binding, bond" (n)</a>
+SEE: [\*rig-o- "bind"](#rigo)
+REF: [EDPC]
+
+### <a id="komskara">\*kom-skara- "divide, destroy" (v)</a>
+GOID: OIr. _con-scara_ "cut to pieces, destroy"
+W: MW _kyfsycaraf_ [1s.prs.] "separate (oneself)" (GPC _cyfysgar_)​
+SEE: [\*skara- "separate"](#skara)
+REF: [EDPC]
+
+### <a id="komsniyo">\*kom-sniy-o- "contend, strive for" (v)</a>
+GOID: OIr. _con-sni_; _con-sena_ [prt.]
+W: MW _kynnif_, _kynnyddu_ "grow, enlarge"
+SEE: [\*sniy-o- "spin, weave"](#sniyo)
+REF: [EDPC]
+
+### <a id="kondo">\*kondo- "protuberance, preeminence, reason" (n)</a>
+GOID: OIr. _conn_ [o m] "protuberance, adult person, intelligence"
+PIE: \*kom-dʰh₁o- "put together" (IEW: 613)
+COGN: Lat. _condo_, OCS _sądo_ "court,judgement"
+ETYM: It is not certain whether there is only one PCelt. word \*kondo­ encompassing all of the meanings attributable to OIr. _conn_. This OIr. word was also interpreted as \*kʷonno-, which would be in ablaut to [\*kʷenno­ "head"](#kwenno) (v.), in which case it cannot be from PIE \*kom-dʰh₁o- "put together".
+REF: [EDPC]
+
+### <a id="koret">\*koret- "palisade, wall" (n)</a>
+GOID: MIr. _cora_ [t f]
+W: MW _cored_ [f] "weir, dam"
+BRET: OBret. _coret_
+ETYM: The Germanic words for "hurdle" (Germ. _Hurde_, OE _hyrdel_) may be related, as well as OPr. _corto_ "hedge" and Lat. _crātis_ "hurdle", but the proto-form is difficult to reconstruct. In all likelihood these words were borrowed from some non-IE language. MIr. _ceirtle_ [iā f] "clew, ball of thread" (? < \*kert-li-yā) probably does not belong here.
+REF: [EDPC]
+
+### <a id="korkkyo">\*korkkyo- "oats" (n)</a>
+GOID: MIr. _corca_, _coirce_ [io m]
+W: MW _ceirch_, _cerch_, _cyrch_ [p]; _ceirchyn_, _ceirchen_ [sing.]
+BRET: MBret. _kerch_, MoBret. _kerc'h_ [coll.]
+CO: OCo. _bara keirch_ gl. _panis avena_
+ETYM: The e-vocalism of the root in Brittonic is secondary, the regular reflex is preserved in MW _cyrch_, which is the result of raising (from \*korkki); sequences of \*y..i/y often dissimilate to \*e...i/y in Brittonic (cf. PCelt. [\*dolisko-](#dolisko) > W _delysc_, _dylysc_). OSw. _hagre_ "oats" (from which Fin. _kakra_ "id." was borrowed) can be derived from \*kokro-; these words for "oats" were probably borrowed from some pre-IE source in NW Europe.
+REF: [EDPC]
+
+### <a id="kormi">\*kormi "beer" (n)</a>
+GOID: OIr. _cuirm_ [in]
+W: OW _curum_, W _cwrw_ [m]
+CO: OCo. _coruf_ gl. _ceruisia_, MCo. _kor_
+GAUL: _curmi_, _curmi_ (Vertault), _kórma_
+PIE: \*kerm- (IEW: 572)
+COGN: Russ. _kórm_ "fodder", ?Lat. _cremor_ "broth, pap, juice made by boiling grain"
+ETYM: The reconstruction PCelt. \*kormi- is preferable to the alternative \*kurmi-, because such a vocalism can more easily be related to the PIE root \*kerm-; Gaul. _curmi_ must have the vowel _u_ by a secondary development. Lat. _ceruēsia_, _ceruisia_ "beer" (Pliny, 22.64) was borrowed from a Celtic form with the e-vocalism. Falileyev does not adduce OW _curum_.
+REF: [EDPC]
+
+### <a id="korno">\*korno- "horn" (n)</a>
+SEE: [\*karno- "horn, hoof"](#korno)
+REF: [EDPC]
+
+### <a id="koro">\*koro- "act of putting, casting, a throw" (n)</a>
+GOID: OIr. _cor_ [o m]
+PIE: \*(s)ker- "tum, curve" (IEW: 935)
+COGN: Lat. _curuus_ "curved"
+ETYM: In OIr., there is a denominative verb _do-cuirethar_ "put, place" (< \*to-koryetor) derived from this root. The IE etymology is conjectural; if true, the meaning changed from "turn" to "cast" and "put" in Celtic. The same root may be contained in OIr. _echair_, [i and k, f] "key", (DIL _eochair_), if from \*exs-kor-i (the original meaning would have been "the opener", while MW _agor_ "open" can be from \*ad-kor- (cf. also Co. _egory_, _ygeri_ "open"). Pedersen's derivation of these words from \*e-kāri- is impossible.
+REF: [EDPC]
+
+### <a id="koruko">\*koruko- "(leather) boat" (n)</a>
+GOID: MIr. _curach_ [o m]
+W: MW _corwg_, _corwgl_ [m] "coracle, vessel, body"
+ETYM: A connection of these words with PIE \*(s)koro- "leather" (OCS _kora_, Lat. _corium_, IEW 939) appears probable.
+REF: [EDPC]
+
+### <a id="korxsa">\*korxsā "heron, crane" (n)</a>
+GOID: MIr. _corr_ [ā f]
+W: MW _crychydd_ [m] "heron"
+BRET: OBret. _corcid_ gl. _ardea_, MBret. _quercheiz_, MoBret. _kerc'heiz_ [f]
+CO: OCo. _crechit_, _cherchid_ gl. _ardea_, Co. _kerghyt_, _keryth_
+ETYM: The derivation is not without problems, since the root is onomatopoetic. MW _crychydd_ points to \*krixsiyā, from the zero-grade of the same root as PCelt. [\*kerkā "hen"](#kerka) > OIr. _cerc_ [ā f]. This word may also have influenced the developent of Bret. _kerc'heiz_. Cf. also W _creyr_, _crehyr_, MBret. _querhair_ "heron", which may be from a similar onomatopoetic root. The PIE etymology is uncertain, but other IE languages have similar onomatopoetic words, e.g. Skt. _kṛka-vā́ku_- "cock".
+REF: [EDPC]
+
+### <a id="koryo">\*koryo- "troop, tribe" (n)</a>
+GOID: MIr. _cuire_ [io ?m]
+W: MW _cordd_ [f] "tribe, clan"
+GAUL: _Vo-corii_ [ethnonym], _Ate-corius_ [PN]
+PIE: \*koryo- "troop" (IEW: 615)
+COGN: OPers. _kāra_- "people", Go. _harjis_ "army", Lith. _kãrias_ "army"
+ETYM: Cf. also OW _cas-goord_ "retinue of attendants" (? \*kom-exs-koryo-). IEW (579) compares MW _cordd_ with Skt. _śárdhas_- "herd, troop", Go. _hairda_, etc., but this is clearly less probable.
+REF: [EDPC]
+
+### <a id="koslo">\*koslo- "hazel" (n)</a>
+GOID: OIr. _coll_ [o m] gl. _corylus_
+W: OW _coll_ gl. _corilis_ [coll.], MW _coll(en)_; _cyll_ [p]
+BRET: OBret. _colguid_ gl. _columus_, MBret. _queluez_, MoBret. _kelwez_ [coll.]
+CO: OCo. _colwiden_ gl. _corillus_
+PIE: \*kos(V)lo- "hazel" (IEW: 616)
+COGN: Lat. _corulus_, OHG _hasal_, perhaps OLith. _kasulas_ "hunting spear"
+ETYM: The Celtic forms can be derived by syncope. MoBret. _kelvezen_ and OCo. _colwiden_ represent compounds, with the second element [\*widu­ "wood"](#widu). There may have existed a related word \*koslo- in Gaulish (see LEIA C-158). The word for "hazel" is clearly an innovation of the European branches of IE.
+REF: [EDPC]
+
+### <a id="kotto">\*kotto- "old" (adj)</a>
+BRET: MBret. _coz_, MoBret. _kozh_
+CO: OCo. _coth_
+GAUL: _Ate-cotti_ [ethnonym]
+ETYM: According to Sims-Williams (2006: 67) Cat. _cot_ "hill", Sp. _cueto_ are from the Gaulish reflex of this word. The semantic development was presumably from "old" to "curved, humpbacked hillock". In any case, these words are probably of non-IE origin.
+REF: [EDPC]
+
+### <a id="kowdo">\*kowdo- "hiding place" (adj)</a>
+W: MW _cudd_ [m] "hiding-place, concealment"
+BRET: MBret. _cuz_, MoBret. _kuz_
+PIE: \*kewdʰ- "hide" (IEW: 952)
+COGN: Gr. _keutho_, Arm. _suzanem_ "submerge, hide"
+ETYM: Celtic forms point to an o-grade nominal derivative, PIE \*ḱowdʰo-; cf. the denominative verbs W _cuddiaf_, MBret. _cuzaff_, Co. _cuthe_ "hide".
+REF: [EDPC]
+
+### <a id="kowik">\*kowik- "cuckoo" (n)</a>
+GOID: OIr. _cói_ [k f] (DIL _caz_)​
+PIE: \*kew-k- "cuckoo" (IEW: 535)
+COGN: Gr. _kókkyks_, Lat. _cucūlus_, cf. also Gr. _kaúaks_ "gull"
+ETYM: There are similar onomatopoeic words for "cuckoo" in Brittonic, MW and Co. _cog_, but they do not formally match OIr. _cói_, the formation of which seems more archaic. The Brittonic words may go back to \*kokā (cf. Skt. _kāka_- "crow").
+REF: [EDPC]
+
+### <a id="kowna">\*kownā "litter (of dogs)" (n)</a>
+GOID: OIr. _cúan_ [ā f]
+W: MW _cun_ [coll.] "pack (of dogs)"
+ETYM: MIr. _cúan_ "troop" may represent the metaphoric use of the same word. A connection with the word for "dog" ([\*kwon-](#kwon)) is possible if one assumes a vṛddhi derivative (\*kowno- < \*kewno- "dog's offspring"), but note that there are no other examples of such derivatives built to \*CuC- roots in Celtic. Another possibility would be to relate PCelt. \*kowna to PIE \*keHup- "heap" (Lith. _kaũpas_ "heap"), but the semantics of the connection are difficult.
+REF: [EDPC]
+
+### <a id="kowwari">\*kow-wari- "proper, fitting" (adj)</a>
+GOID: OIr. _cóir_, _coïr_, _coair_ [i]
+W: OW _couer_ "complete", MW _kyweir_, _cyweir_, (GPC _cywair_) [m and f] "proper state, proper order, preparation, state of mind, temper"
+PIE: \*wer- (IEW: 1164)
+COGN: Lat. _uereor_ "show respect, fear", Go. _wars_ "attent", ToB _wärs_- "to pity"
+ETYM: Cf. also OIr. _córae_ < \*kowwaryā "justice". The development \*wr­-yo- > PCelt. \*waryo- was regular in Celtic, and the root-form \*war- was generalized from this stem. It is doubtful whether Gr. _horáō_ "see" belongs to the same root, as claimed by IEW.
+REF: [EDPC]
+
+### <a id="koxsa">\*koxsā "leg" (n)</a>
+GOID: OIr. _cos_ [ā f]
+PIE: \*koḱso- "hollow of joint" (IEW: 611)
+COGN: Lat. _coxa_ "hip", OHG _hāhsa_ "back of knee", ToB _kakse_ "loins"
+REF: [EDPC]
+
+### <a id="koylo">\*koylo- "thin" (adj)</a>
+GOID: OIr. _cóil_ [o] (DIL _cáel_) gl. _macer_
+W: MW _cul_ "narrow, lean"
+BRET: MBret. _cul_
+CO: OCo. _cul_ gl. _macer vel macilentus_
+PIE: \*koyHlo- (IEW: 610)
+COGN: Latv. _kaîls_ "naked, bold"
+ETYM: The laryngeal in the root is deduced from the broken tone in Latvian, but the reconstruction is uncertain, since cognates are attested only in Celtic and Baltic. Moreover, the semantic side of the connection leaves much to be desired.·
+REF: [EDPC]
+
+### <a id="koymo">\*koymo- "dear, nice" (adj)</a>
+GOID: OIr. _cóim_ [o] (DIL _cáem_)​
+W: MW _cu_
+BRET: OBret. _cum_, MBret. _cunff_, _cuff_, MoBret. _kunv_
+CO: Co. _cuf_, _cueff_
+PIE: \*ḱoymo- "homely, belonging to the family" (IEW: 540)
+COGN: OE _hám_ "home", Latv. _sàime_ "family", Russ. _semjá_ "family"
+ETYM: Gaul. PN _Coemo_ might belong here (Meid 2005: 191); cf. also the compound OIr. _maccóem_ "page", from \*makkʷo-koymo- (Mac Cana 1991); W _makwyf_ "page" was borrowed from Goidelic.
+REF: [EDPC]
+
+### <a id="krabi">\*krābi- "devotion, religious practice" (n)</a>
+GOID: OIr. _crábud_ [u > o m]
+W: MW _crefydd_ [f and m]
+ETYM: W _crefydd_ has -e- rather than -o- on the analogy with the verb _credu_ "believe". It has the suffix \*-yo-, while OIr. _crábud_ has another suffix, \*-itu-. Pokorny's etymology of these words (IEW 617) is not convincing, since a connection with Skt. _śrambhate_ "relies on someone" is formally extremely difficult (PIE \*ḱrebʰ-, with the completely unmotivated lengthened grade in Celtic?).
+REF: [EDPC]
+
+### <a id="krafo">\*krāfo- "stable, enclosure" (n)</a>
+GOID: OIr. _cró_ [o m]; _cróe_, _cróa_ [io m] "enclosure, shed, sty"
+W: MW _creu_ [m] "shed" (GPC _crau_, _craw_)​
+BRET: OBret. _crou_ gl. _hara .i. stabulum porcorum_, MBret. _kraou_
+CO: Co. _crow_ "hut"
+PIE: \*kroh₁-po- "roof"
+COGN: ON _hróf_ "boat-shed", OE _hróf_ "roof"
+ETYM: The PIE etymology of these words is uncertain because of the semantics of the Celtic cognates, which points to the PCelt. meaning "round, circular, enclosure" (rather than "covered, roof" which seems to be primary in Germanic). Formally comparable is OCS _krěpъ_, "strong" and Olc. _hraefa_ "endure" (PIE \*kreh₁po-), but their meanings are too far apart. Go. _hrot_ "roof, house", ON _hrót_, and OCS _krada_ "pile of logs, pyre, altar" point to the same root with a dental suffix (\*kreh₁-do-), while we probably have \*kreh₁to- in OHG and OFris. _rāza_ "honeycomb". Greene 1983 relates the Celtic words for "enclosure" to OIr. _cruind_, W _crwnn_ "round" (PCelt. \*krundi-). However, this is difficult from the formal point of view (\*-ndi- does not seem like a possible suffix).
+REF: [EDPC]
+
+### <a id="kreddi">\*kred-dī- "believe" (v)</a>
+GOID: OIr. _creitid_, -_creiti_; -_cretis_ [2s prt.]
+W: MW _credu_
+BRET: MBret. _crediff_, _critim_
+CO: Co. _crest_, _krysi_, _cregy_
+PIE: \*ḱred-deh₁- "believe, trust" (IEW: 235ff.)
+COGN: Skt. _śrad-dhā_-, Lat. _crēdo_
+ETYM: The geminate in Celtic is only explainable if one assumes an old compound equivalent to Skt. _śrad-dhā_-. The first element of that compound is usually identified with the PIE word for "heart", but for doubts see Benveniste 1969. Note also that we would expect PIE \*dd > PCelt. \*ss, so the geminate cannot be old.
+REF: [EDPC]
+
+### <a id="kreddima">\*kreddīmā "faith, believing" (n)</a>
+GOID: OIr. _cretem_ [ā f]
+BRET: MBret. _critim_, MBret. _cridiff_
+ETYM: This is the verbal noun of [\*kred-dī- "believe"](#kreddi).
+REF: [EDPC]
+
+### <a id="kredro">\*kredro/i- "relic, sacred object" </a>
+GOID: OIr. _cretair_ [if], (?earlier _cretar_ [o])
+W: OW _creirriou_ [p], MW _creir_ [m and f]
+BRET: MBret. _kreir_ [m]
+CO: Co. _crer_
+ETYM: Obviously related to [\*kred-dī- "believe"](#kreddi), [\*kreddīmā "faith, belief"](#kreddima).
+REF: [EDPC]
+
+### <a id="kremu">\*kremu-, \*kramo- "(wild) garlic" (n)</a>
+GOID: MIr. _crem_ [u ?], _crim_
+W: W _craf_ [coll.] "garlic"
+BRET: OBret. _cram_, MoBret. _krav_ [m] "wild onion"
+PIE: \*kremHu-s-, \*kermHu-s- "wild garlic, Allium ursinum" (IEW: 580f.)
+COGN: Gr. _kremýon_, Lith. _kermùšė_, OE _hramsan_, Croat. _crijèmša_
+ETYM: The Irish word is attested only late, and W _craf_ and MoBret. _krav_ seem to represent the secondary zero-grade of the root (PCelt. \*kramo­ rather than \*krimo-). The toponym _Cremona_ in N Italy is often related to these words and interpreted as "garlic town", but this is, of course, rather speculative. Various irregularities in the reflexes point to non-IE origin of this word. It is presumably a Wanderwort of some kind.
+REF: [EDPC]
+
+### <a id="krenxtu">\*kre(n)xtu- "wound" (n)</a>
+GOID: MIr. _crécht_ [? m]
+W: MW _creith_ [f] (GPC _craith_)​
+BRET: OBret. _creithi_ [p] gl. _ulcera_, MBret. _creizenn_ [sing.], MoBret. _kreizh_
+ETYM: The original stem formation of MIr. _crecht_ is unclear. It may have been a u-stem, but also an ā-stem, which renders the PCelt. reconstruction tentative.
+REF: [EDPC]
+
+### <a id="kreto">\*kret-o- "meet, approach" (v)</a>
+W: MW _dygredu_ "go come near, meet, visit"
+BRET: OBret. _credam_ [1s.prs.] gl. _vado_
+PIE: \*kret- "shake" (IEW: 620f.)
+COGN: Gr. _krotéō_ "rattle, clap, strike", OHG _redan_ "sift", OCS _krotiti_ "tame"
+ETYM: W dygredu < \*dī-kred- (the simplex verb is unattested in W). This is a very speculative etymology, since the meanings are very divergent. One could, in principle, imagine a development from "shake" to "hit" and then "meet, go to", but this is not quite persuasive.
+REF: [EDPC]
+
+### <a id="kretro">\*krē-tro- "sieve" (n)</a>
+GOID: OIr. _criathar_ [o m]
+W: OW _cruitr_ gl. _pala_, W _crwydr_ [m] "a wandering"
+BRET: OBret. _croitir_, MBret. _croezr_
+CO: OCo. _croider_ gl. _cribrum_
+PIE: \*(s)kre(h₁)y- "separate" (IEW: 946)
+COGN: Lat. _crībrum_ "sieve", OE _hridder_
+SEE: [\*kri-ni- "sift, shake"](#krini)
+REF: [EDPC]
+
+### <a id="krid">\*krid- "shrink, grow thinner" (v)</a>
+GOID: MIr. _credb(a)_ "shrinkage", _credba(ig)id_, -_credbaigi_ "contract, grow thinner"
+W: MW _cryddu_ "shrink"
+BRET: MBret. _crezz_, MoBret. _krez_ "stingy"
+PIE: \*(s)krdʰ-
+COGN: Skt. _kṛdhu_- "short, shortened, small", Lith. _skur̃sti_ "lack"
+ETYM: MIr. _credb_ can be from \*kridwV (stem and gender are unknown).
+REF: [EDPC]
+
+### <a id="kridyo">\*kridyo- "heart" (n)</a>
+GOID: OIr. _cride_ [io n]
+W: W _craidd_ [m] "center"
+BRET: MBret. _creis_, MoBret. _kreis_ [m] "center"
+CO: Co. _creys_ "center"
+PIE: \*ḱerd- "heart" (IEW: 580)
+COGN: Hitt. _kir_, _kardiyas_ [gen.sg.], Gr. _kardía_, Lat. _cor_, _cordis_, Go. _hairtō_, Lith. _širdìs_, OCS _srъdьce_, Arm. _sirt_
+ETYM: Some linguists reconstruct a root noun in PCelt., with nom.sg. \*kred- (> W _craidd_), gen.sg. \*krid-os (> OIr. _cride_). It has been pointed out, however, that W _craidd_ may be a ghost-word (cf. Schrijver 1995: 319ff.). It is quite scarcely attested, and not before the 15th century (according to GPC). If that is indeed the case, then OIr. _cride_ and its Brittonic cognates may go back to PCelt. \*kridyo- < PIE \*ḱrd-yo-. PIE \*ḱerd- was a neuter root noun (gen.sg. \*ḱrd-os, cf. Lat. _cord-is_), with some languages preserving the stem of the nom.-acc.sg., and others, like Celtic, generalizing the stem of the oblique cases.
+REF: [EDPC]
+
+### <a id="krif">\*krif- "body" (n)</a>
+GOID: MIr. _crí_ [indeclinable] "body"
+W: MW _cryf_ "strong"
+BRET: MBret. _creff_, MoBret. _kreñv_ "strong"
+CO: OCo. _crif_ gl. _fortis_, MCo. _creff_, _cref_
+PIE: \*krep- "body"
+COGN: Skt. _kṛp_- "form, shape", Lat. _corpus_ "body", OE _hrif_ "guts, womb"
+ETYM: The OIr. form is from the oblique case-stem of the PIE etymon, \*krp-, while OE _hrif_ preserves the nominative stem (\*krep-). The word was a root noun in PIE. The British forms are from a thematic adjective, PCelt. \*krif-mo-.
+REF: [EDPC]
+
+### <a id="krikwa">\*krīkʷā "furrow, trench, boundary" (n)</a>
+GOID: OIr. _crích_ [ā f]
+W: OW _crip_ gl. _pectens_, MW _crib_ [f and m] "comb, crest"
+BRET: MBret. _crib_ "comb", MoBret. _krib_ [f]
+CO: Co. _cryb_, _cryben_
+PIE: \*krek- "post" (JEW: 619)
+COGN: Russ. _krókva_ "stake", Lith. _krẽklas_ "rafter"
+ETYM: This etymology is not wholly convincing, since it requires an unmotivated lengthened grade in Celtic (PIE \*krēk-w-). Cf. also ON _hraell_ "weaver's rod", which can be from \*krok-ilo-.
+REF: [EDPC]
+
+### <a id="krini">\*kri-ni- "sift, shake" (v)</a>
+W: MW _crynu_ "shake, tremble"
+BRET: MBret. _crenaff_
+CO: Co. _crenna_, _krena_
+PIE: \*kre(h₁)-y- "sift, divide" (JEW: 945ff.) COON: Lat. cerno, Gr. krino
+ETYM: The laryngeal in PIE is based on Lat. _crēuī_ [perf.], _crētus_, and the alleged connection with OCS _krai_ "edge, end", Croat. _krâj_, _krȁja_ (Gr. _krī́nō_ < \*krin-yō). However, Lat. _crēuī_ may be analogical (after verbs such as _lino_, _lēuī_), and _crētus_ could have its shape under the influence of _crēuī_, whereas the original participle is preserved as _certus_ "certain, fixed" < \*kri-to-. If this is indeed the case, and if OCS _krai_ is unrelated, then the PIE root was \*krey­ rather than \*kreh₁y-.
+REF: [EDPC]
+
+### <a id="krino">\*krīno- "withered, dry" (adj)</a>
+GOID: OIr. _crín_ [o]
+W: OW _crin_ gl. _ar(i)dum_, MW _crin_
+BRET: MBret. _crin_, MoBret. _krin_
+CO: Co. _crin_
+PIE: \*ḱreh₁(y)- "separate, sieve" (IEW: 945f.)
+COGN: Lat. _cerno_, OCS _kroiti_ "cut"
+SEE: [\*kri-ni- "sift, shake"](#krini)
+ETYM: The semantic connection of the Celtic forms with those in other languages is rather weak, so this etymology is uncertain. The alternative, adopted by LEIA and LIV, of treating these words as derived from \*kerh₂ "break" (IEW 578, cf. Skt. _śṛnāmi_ "break", Gr. _keraízō_ "destroy"), is impossible, since the Celtic forms clearly presuppose \*eh₁ in PIE (\*krHno­ would give PCelt. \*krāno-).
+REF: [EDPC]
+
+### <a id="krissu">\*krissu- "belt" (n)</a>
+GOID: OIr. _cris_ [u m]
+W: OW _guecrissou_ [p], MW _crys_ [m] "shirt", _gwregys_ "belt, girdle"
+BRET: MBret. _cres_ "shirt", MoBret. _kres_ [m] "shirt", OBret. _guo-cris_ "belt"
+CO: OCo. _kreis_ gl. _camisia_
+PIE: \*kerdʰ- "belt"
+COGN: Russ. _čéres_ "leather belt"
+ETYM: The PCelt. form is from the zero-grade of the PIE root with the added suffix \*-tu- (PIE \*krdʰ-tu-).
+REF: [EDPC]
+
+### <a id="krito">\*krito- "trembling, fever" (n)</a>
+GOID: OIr. _crith_ [o m]
+W: OW _crit_ gl. _timore_, MW _crid_, _cryt_, _cryd_ [m]
+BRET: OBret. _crit_ gl. _frenesin_
+CO: Co. _dor-gryz_ "earthquake"
+PIE: \*krit- (IEW: 937)
+COGN: OE _hriða_ "fever"
+REF: [EDPC]
+
+### <a id="kritta">\*krittā "body, frame, shape" (n)</a>
+GOID: MIr. _crett_, _creit_ [ā f]
+W: MW _creth_ [f] "nature, appearance, form"
+ETYM: The MIr. word is often used to refer to the frame of a chariot. The comparison with Lat. _crātis_ "hurdle, construction of wickerwork", OPr. _corto_ "fence", OHG _hurd_ "hurdle", since these words are from PIE \*korHt- (OPr.), \*krHt- (Italic and Celtic), which would have given \*\*krāt- in PCelt. The comparison with PCelt. \*kruttā "round object, womb", also with a geminate that cannot be old (since PIE \*TT > PCelt. \*ss), points to borrowing from a non-IE source.
+REF: [EDPC]
+
+### <a id="krixso">\*krixso- "curly-haired" (adj)</a>
+W: MW _crych_ "curly, wrinkled, rough"
+BRET: MBret. _crech_, MoBret. _krec'h_
+GAUL: _Crixus_ [PN]
+PIE: \*kris-po- "curly-haired" (IEW: 938)
+COGN: Lat. _crispus_, Alb. _krip_ "hair"
+ETYM: For the development of \*sp > Brittonic x (W _ch_ etc.) see Schrijver 1995: 374. Presumably the same development occurred in Gaulish, if the name _Crixus_ is related. The PIE root is the same as in Lat. _crīnis_ "hair" < \*kris-ni-. Alb. _krip_ may be a Latin loanword.
+REF: [EDPC]
+
+### <a id="krokkeno">\*krok(ke)no- "skin" (n)</a>
+GOID: OIr. _croicenn_ [o m]
+W: MW _croen_ [m] "peel, hide, rind"
+BRET: MBret. _crochenn_, MBret. _kroc'hen_ [m]
+CO: OCo. _croin_ gl. _pellis_, MoCo. _croghen_
+ETYM: Gallo-Lat. _crocina_ "mastruca, a garment made of skin" probably represents the Gaulish equivalent of these words. W points to the original \*krokno-, while other languages show reflexes of \*krokkeno-. A connection with PIE \*sker- "cut" (IEW 943) is difficult (\*(s)kr-ok- does not look like a possible stem-shape). Thus, this word is probably a loanword from some non-IE language.
+REF: [EDPC]
+
+### <a id="krowdi">\*krowdi- "rude" (adj)</a>
+SEE: [\*krū- "blood"](#kru)
+REF: [EDPC]
+
+### <a id="krowko">\*krowko- "heap, hill" (n)</a>
+GOID: MIr. _crúach_ [ā f] "stack (of corn), rick, heap, hill"
+W: OW _cruc_, W _crug_ [m] "cairn, hillock"
+BRET: OBret. _cruc_ gl. _gibbus_, MoBret. _krug_ [m]
+CO: OCo. _cruc_ gl. _collis_
+PIE: \*krew-k- (IEW: 938)
+COGN: ON _hraukr_ "heap"
+ETYM: Related words (of Gaulish origin) are attested in Romance dialects (e.g. Béarnais _cruque_ "heap (of earth)"). Since W _crug_ is masculine, and MIr. _crúach_ is feminine, it is doubtful whether to reconstruct PCelt. \*krowkā or \*krowko-; I assume that the form \*krowko- is original, and \*krowkā is a collective thereof.
+REF: [EDPC]
+
+### <a id="kru">\*krū- "blood" (n)</a>
+GOID: OIr. _crú_ [? n] "gore, blood" [gen.sg. _cróu_, _cró_]
+W: MW _creu_ [m and f] "blood" (GPC _crau_)​
+CO: Co. _crow_
+PIE: \*ḱrewh₂ "gore, raw meat" (IEW: 621)
+COGN: Skt. _kravíṣ_- "raw meat", Lat. _cruor_, Gr. _kréas_ "raw meat", Lith. _kraũjas_ "blood"
+ETYM: OIr. _crúaid_ "crude, rude" presupposes a PCelt. \*krowdi-, similar in form to Lat. _crūdus_ "raw", see LEIA C-250f. MW _creu_ cannot be from \*krū­ (we would expect MW \*kri, cf. ki < \*kū "dog"), but it may be from \*kruwo-, a thematicized form, generalized from the oblique stem of the PCelt. root­ noun (cf. PIE gen.sg. \*ḱruh₂-os). For the sound development cf. MW _geu_ < PCelt. \*guwo- (oblique stem of [\*gāwā "lie"](#gawa)), _Lleu_ "god Lug" < \*Luwos < \*Lugos).
+REF: [EDPC]
+
+### <a id="krumbo">\*krumbo- "round, curved" (adj)</a>
+GOID: MIr. _cromm_ [o]
+W: MW _crwm_
+BRET: OBret. _crum_ "hunchback", MoBret. _kromm_
+CO: Co. _crom_
+ETYM: Germ. _krumm_ , OE _crumb_ "round" point to PGerm. \*krumba-, which was borrowed either from Celtic, or from the same non-IE source as the Celtic words.
+REF: [EDPC]
+
+### <a id="krundi">\*krundi- "round, compact" ()</a>
+GOID: OIr. _cruind_ [i] "round, globular, circular" (DIL _cruinn_)​
+W: OW _crunn_, MW _crwn_
+BRET: OBret. _cron_ gl. _tornatili_, MBret. _crenn_, MoBret. _krenn_ "round"
+CO: Co. _cren_
+SEE: [\*krumbo- "round, curved"](#krumbo)
+ETYM: Greene 1983 relates these words to OIr. _cró_ "stable, enclosure", but this is less likely than the relation to \*krumbo- "round, compact". If so, \*krundi- is from earlier \*krum-di-, but the IE etymology is unknown. Both \*krundi- and \*krumbo- may be loanwords from some non-IE language.
+REF: [EDPC]
+
+### <a id="krutto">\*krutto- "round object, womb" (n)</a>
+GOID: OIr. _crott_ [ā f] "harp, lute"
+W: MW _crwth_ [m] "round object, harp", _croth_ [f] "womb"
+BRET: OBret. _courz_ gl. _uulua_, MoBret. _kourzh_ [m]
+CO: Co. _crothak_ "abdomen, uterus"
+ETYM: A connection with Lith. _krūtìs_ "woman's breast" appears possible (IEW 624), but the meanings are quite difficult to reconcile (? "a round body part"), and the geminate in Celtic needs an explanation. Maybe PCelt. \*krutto- is a loanword from some non-IE language.
+REF: [EDPC]
+
+### <a id="kufsko">\*kuf-sko- "sleep" (v)</a>
+W: MW _kyscu_; _cusc_ [3s.prs.] (GPC _cysgu_)​
+BRET: MBret. _cousquet_, _couscq_, MoBret. _kousk_ [m]
+CO: Co. _koska_
+PIE: \*(s)kewbʰ- "lie" (IEW: 589f.)
+COGN: Lat. _cubo_, _cubāre_
+ETYM: Since the reflexes are limited to Italic and Celtic, we cannot be sure whether the root was \*kewbʰ- or \*kewb-. In both cases the root structure is untypical for PIE. On the other hand, \*skewbʰ- (with s-mobile) is a possible root, and Italic and Celtic forms might be related to PGerm. \*skeubanan "throw" (Go. _af-skiuban_ "reject", OE _sceófan_ "shove", etc.). For the connection of "throw" and "lie" cf. Lat. _iacio_ "throw" and _iaceo_ "lie".
+REF: [EDPC]
+
+### <a id="kukro">\*kukro- "curved" (adj)</a>
+GOID: MIr. _cúar_ [o]
+PIE: \*kew-k- "curve" (IEW: 589)
+COGN: Lith. _kaũkaras_ "high ground, hill", Croat. _kȕka_ "hook"
+ETYM: For \*kr > \*r with compensatory lengthening of the preceding syllable in OIr., cf. [\*akro- "high"](#akro) > OIr. _ér_ "noble"; a PCelt. form \*kowkro­ would also be possible. Skt. _kucati_ might be related, but it is attested late, and it is unclear whether its primary meaning was "bend, curve" (Mayrhofer, s.v. _KUC_). OHG _hōh_ "high" and ToA _koc_ "high" could be from the same root, but the semantics of this comparison are difficult ("curved" > "protruded" > "high"(?)).
+REF: [EDPC]
+
+### <a id="kulfo">\*kul(f)o- "sin, violation" (n)</a>
+GOID: OIr. _col_ [o n]
+W: OW _ciliauc_ gl. _scelestus_, MW _cwl_ [m] "fault, sin"
+BRET: OBret. _col_, _caul_ gl. _nefariam rem_
+ETYM: OIr. _col_ often occurs in the phrase _is col do_ "it is unlawful to..." These words have been compared with Lat. _scelus_ (< ?PIE \*(s)kel-) and with Lat. _culpa_ (< ?\*kelp-). The second possibility appears more promising; if this is true, the correct reconstruction in PCelt. is presumably \*kulfo-. OE _hwealf_ "vault" and OPr. _po-quelbton_ "kneeling", if related, might point to a PIE root \*kwelp- "bent, crooked" (thus in LIV 335, IEW 630).
+REF: [EDPC]
+
+### <a id="kuli">\*kuli- "mosquito, fly" (n)</a>
+GOID: OIr. _cuil_ [i f] gl. _culex_
+W: MW _cylion_ [p]; _cylionyn_, _cylionen_, [sing.]
+BRET: OBret. _colaenn_, MBret. _quelyen_ [p], MoBret. _kelenn_
+CO: Co. _kelionen_ [sing.] gl. _musca_
+PIE: \*kul- (IEW: 626)
+COGN: Lat. _culex_ "mosquito", perhaps Arm. _slak'_ "spit, dagger"
+ETYM: Skt. _śū́la_- "spear" may be from the same root only if we assume that short \*u in Italic and Celtic is due to Dybo's law (although the place of accent in PIE is unknown in this particular instance). I think it is more likely that the similarity of Skt. _śū́la_- to these words is accidental.
+REF: [EDPC]
+
+### <a id="kulo">\*kūlo- "corner" (n)</a>
+GOID: OIr. _cúl_ [?ā f], _cúil_ "corner, recess", _cúl_ [o m] "back"
+W: MW _cil_ [m] "corner, angle"
+BRET: MBret. _quil_, MoBret. _kil_ [m] "back"
+CO: OCo. _chil_ gl. _cervix_
+PIE: \*kuH-lo- "back" (IEW: 951ff.)
+COGN: Lat. _dilus_ "anus, arse"
+ETYM: Note the divergence in gender between Brittonic and Goidelic. Maybe two words should be distinguished: \*kūlo- "back" and \*kūlā "corner". The first one could have been borrowed from Lat. _cūlus_, although this means just "anus", not "back" in the sense of the Celtic words.
+REF: [EDPC]
+
+### <a id="kumba">\*kumbā "valley" (n)</a>
+W: MW _cwm_ [m]; _cymoedd_ [p]
+BRET: MoBret. _komm_ [m] "river-bed"
+GAUL: \*cumbā > VLat. _cumba_ (Isidore of Seville)
+PIE: \*kumbʰo- (?) (IEW: 592)
+COGN: Skt. _kumbhá_- "pot"
+ETYM: OIr. \*comm, which is sometimes adduced as cognate, actually does not exist. Fr. _combe_ "dale, coomb" is from VLat. _cumba_ < Gaul. \*kumbā. The structure of this root does not seem to be IE. Beekes (1996) compares also Gr. _kýmbē_ "beaker", and counts these words among his "ancient European loanwords".
+REF: [EDPC]
+
+### <a id="kurro">\*kurro- "pointed, protruding, angled" (adj)</a>
+GOID: MIr. _corr_ [o] "protruding, pointed, sharp"
+W: MW _cwrr_ [m] "corner, edge, end, brim" (GPC _cwr_)​
+ETYM: MIr. -_o_- in the adjective is the result of generalization of the a­-affected variant, which is expected in the nominalized _corr_ [ā f] "protruding part" < \*kurra. Fr. dial. _cor_, _coron_ "edge, corner" is presumably from Gaul. \*korro-, or \*kurro- (Gamillscheg 364). The connection with Lat. _curuus_ "curved", Gr. _kyrtós_ "bent" appears possible (de Vaan 2008: 158), but the PIE root is difficult to reconstruct (? \*kew-ro-, \*ku-ro-, with the Celtic forms from \*kur-so-).
+REF: [EDPC]
+
+### <a id="kuti">\*kuti- "sack, scrotum" (n)</a>
+W: MW _cwd_ [m] "pouch, bag, scrotum"
+PIE: \*kuHti- "skin" (IEW: 952f.)
+COGN: Lat. _cutis_, OHG _hūt_, ToA _kāc_
+ETYM: MIr. _codal_ "skin" is borrowed from Lat. _cutilia_. Lat. _cutis_ has short -u- as a result of Dybo's law. W _cwd_ is also compatible only with the pre­ form \*kuti-, rather than \*kūti- (which would have given W \*\*cid). ToA _kāc_ is a hapax, and its meaning is not completely certain, but it probably means "skin" (Hilmarsson 1985).
+REF: [EDPC]
+
+### <a id="kuwo">\*kuwo- "hollow" (adj)</a>
+GOID: MIr. _cúa_ "hollow, cavity"
+W: MW _keu_, (GPC _cau_) "hollow, closed"
+BRET: OBret. _cau_ "covered", MBret. _queu_, MoBret. _kew_ "hollow"
+PIE: \*ḱewh₂- "vault, hole" (IEW: 592f.)
+COGN: Skt. _śūnyá_- "empty, hollow", Gr. _kýar_ "eye of the needle", Lat. _cauus_ "hollow", ToB _kor_ "throat"
+SEE: [\*kuwyo- "small animal"](#kuwyo)
+ETYM: Cf. also OIr. _cúas_ [o] "hollow", which may be from \*kow-sto-. There is some doubt whether OBret. _cau_ "closed" belongs here, but since MW _keu_ means both "hollow" and "closed", it is possible that both meanings were present in PCelt. This adjective might have been influenced by Lat. _cauus_ "hollow, empty". Various cognates in other PIE languages presuppose a PIE heterocliton, \*ḱowHr / \*ḱuHnos. Celtic preserves the thematicized stem \*kuHo-, with the regular loss of \*H between vowels.
+REF: [EDPC]
+
+### <a id="kuwyo">\*kuwyo- "young animal" (n)</a>
+W: MW _cyw_ [m]
+PIE: \*ḱew(h₂)- "swell, be pregnant" (IEW: 593)
+COGN: Gr. _kýos_ "fetus"
+SEE: [\*kuwo- "hollow"](#kuwo)
+ETYM: This etymology is not completely persuasive, because the PIE root, as reconstructed in IEW, has an exceedingly broad meaning ("swell, be hollow") and it is difficult to avoid random associations.
+REF: [EDPC]
