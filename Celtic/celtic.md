@@ -1144,7 +1144,7 @@ ETYM: Following LIV and KPV, these forms are to be separated from PIE \*gʷelh�
 REF: [EDPC]
 
 ### <a id="belyo">\*belyo- "tree" (n)</a>
-GOID: MIr. _bile_ [ion] "large tree, tree trunk"
+GOID: MIr. _bile_ [io n] "large tree, tree trunk"
 PIE: \*bʰolh₃yo- "leaf" (IEW: 122)
 COGN: Lat. _folium_, Gr. _phýllon_
 SEE: [\*blātu- "flower"](#blatu)
@@ -1677,7 +1677,7 @@ GAUL: _Britus_ [NP]
 PIE: \*bʰr-ti- "carrying" (IEW: 130)
 COGN: Skt. _bhṛti_-
 SEE: [\*ber-o- "carry"](#bero)
-ETYM: Cf. also OIr. _brithem_ [nm] "judge" < PCelt. \*briti-mon-.
+ETYM: Cf. also OIr. _brithem_ [n m] "judge" < PCelt. \*briti-mon-.
 REF: [EDPC]
 
 ### <a id="briwa">\*brīwā "bridge" (n)</a>
@@ -3025,7 +3025,7 @@ SEE: [\*wed-o- "lead"](#wedo)
 REF: [EDPC]
 
 ### <a id="farewedyo">\*fare-wed-yo- "sign" (n)</a>
-GOID: OIr. _airde_ [ion] "sign, token, quality"
+GOID: OIr. _airde_ [io n] "sign, token, quality"
 W: MW _arwydd_ [m and f] "sign, mark, standard, banner"
 BRET: OBret. _aroued-ma_ gl. _signaculum_, MBret. _argoez_, MoBret. _arouez_ [m] "sign, symbol"
 SEE: [\*wēd-o- "know"](#wedo)
@@ -3631,7 +3631,7 @@ ETYM: Short \*u in Celtic is presumably due to Dybo's shortening in pretonic pos
 REF: [EDPC]
 
 ### <a id="fuxtaka">\*fuxtākā "pine" (n)</a>
-GOID: MIr. _ochtach_ [at]
+GOID: MIr. _ochtach_ [ā f]
 PIE: \*pewḱs "pine" (IEW: 828)
 COGN: Gr. _peúkē_, OHG _fiuhta_ "fir", Lith. _pušìs_
 ETYM: The Proto-Celtic form presupposes the zero-grade of the root in PIE (\*puḱ-, cf. Lith. _pušìs_). The word formation is unclear (note the dental suffix also in OHG _fiuhta_).
