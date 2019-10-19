@@ -5939,3 +5939,297 @@ COGN: Gr. _kýos_ "fetus"
 SEE: [\*kuwo- "hollow"](#kuwo)
 ETYM: This etymology is not completely persuasive, because the PIE root, as reconstructed in IEW, has an exceedingly broad meaning ("swell, be hollow") and it is difficult to avoid random associations.
 REF: [EDPC]
+
+## Kʷ
+
+### <a id="kwakwo">\*kʷākʷo- "everyone" (pron)</a>
+GOID: OIr. _cách_
+W: OW _paup_, MW _pawb_
+BRET: OBret. _pop_, MBret. _pep_
+CO: Co. _pup_, _pop_, _pep_
+PIE: \*kʷo-h₃kʷo- (IEW: 645)
+COGN: OCS _kakъ_ "_qualis_"
+SEE: [\*kʷēs "who"](#kwes)
+ETYM: Unstressed forms of this word serve as adjectival pronouns meaning "every" (OIr. _cach_, _cech_, MW _pob_). The PIE form \*kʷo-h₃kʷo- is a compound consisting of the interrogative pronoun stem (\*kʷo-) and the stem of the word for "eye" (\*h₃ekʷ- > Lat. _oculus_ etc.). The original meaning could have been "whatever the eye (sees)". Another possibility would be to reconstruct a reduplicated \*kʷeh₂kʷo- (cf. long _ā_ in Lat. _quālis_). As Michiel de Vaan points out to me (p.c.) reduplicated interrogatives often yield indefinite pronouns (cf. Lat. _quisquis_).
+REF: [EDPC]
+
+### <a id="kwalna">\*kʷal-na- "go around" (v)</a>
+GOID: OIr. _imm-cella_ "surrounds"
+W: MW _pallu_ "die, perish, be destroyed, run out, fail"; _palla_ [3s.prs.]
+PIE: \*kʷelh₁- "turn" (IEW: 639f.)
+COGN: Skt. _cárati_ "moves, goes", Lat. _colo_ "inhabit, take care of, cultivate"
+ETYM: OIr. _imm-cella_ < \*ambi-kʷal-na- (the simplex verb is unattested in Goidelic). The reconstruction of the meaning of PCelt. \*kʷal-na- is tentative, since the reflexes underwent significant semantic changes, and the simplex verb is unattested. Celtic preserved the zero-grade of the PIE root (\*kʷl-neh₁-, with analogical replacement of PIE \*-neh₁- > PCelt. \*-nī- with the productive suffix \*-na-).
+REF: [EDPC]
+
+### <a id="kwantyo">\*kʷantyo- "flat hill" (n)</a>
+GOID: MIr. _céite_ [io and iā, m and f] "hill, eminence, open space, assembly"
+W: MW _pant_ "valley"
+BRET: OBret. _pantet_ gl. _imminet_, MBret. _pant_ [m]
+CO: Co. _pans_ "valley"
+PIE: \*kwem-t- "hill"
+COGN: Lat. _cumulus_ "hill", OE _hwamm_ "projection", OIc. _hvammr_ "small angular valley"
+ETYM: The alternation between an io- and an iā-stem in MIr. probably shows that this word is a substantivized adjective; the original meaning could have been "protruding" vel. sim. The reading and the meaning of OBret. _pantet_ are uncertain (another possible reading is Lat. _pandit_). The IE etymology is very problematic. Lat. _cumulus_ can also be derived from \*kumos, which is in turn from \*kuh₂mo- "heap" (cf. Gr. _kŷma_ "wave, sprout"), perhaps with \*ū > _u_ by Dybo's law (de Vaan 2008: 152f.).
+REF: [EDPC]
+
+### <a id="kwana">\*kʷanā "where from" [part.]</a>
+GOID: OIr. _can_
+W: OW _pan_, MW _pan_
+BRET: MBret. _pe-ban_
+REF: [EDPC]
+
+### <a id="kwaryo">\*kʷaryo- "cauldron" (n)</a>
+GOID: OIr. _coire_ [io m]
+W: MW _peir_ [m] (GPC _pair_)​
+BRET: MoBret. _per_ [m]
+CO: OCo. _per_ gl. _lebes_
+PIE: \*kʷeru- "cauldron" (IEW: 642)
+COGN: Skt. _carú_- "cauldron, vase", Russ. _čára_, OE _hwer_
+ETYM: Pr. _pairol_ "jar" is from the Gaulish reflex of this PCelt. word. The yo-stem in Celtic must be secondary, since all other evidence points to a u­-stem, PIE \*kʷeru-s; PCelt. \*kʷar- could have been generalized from the zero-grade \*kʷrw-, or the u-stem was replaced early by an i-stem \*kʷeri-s / \*kʷry-os, from the oblique cases of which we have PCelt. \*kʷaryo-. Russ. _čára_, if related, must represent a Slavic vṛddhi formation (rather than the inherited PIE lengthened grade of the root).
+REF: [EDPC]
+
+### <a id="kwaso">\*kʷaso- "cough" (n)</a>
+GOID: MIr. _casachtach_ [ā f] (DIL _cosachtach_) "the act of coughing"
+W: W _pas_ [m] "whooping cough"
+BRET: OBret. _pas_ gl. _catarrus_, MBret. _pas_, _paz_
+CO: Co. _pās_, MoCo. _pāz_
+PIE: \*kʷeh₂s-t- "cough" (IEW: 649)
+COGN: Skt. _kā́s_- "cough", OHG _huosto_, Lith. _kósti_, Russ. _kášelj_
+ETYM: The Celtic forms are from the zero-grade \*kʷh₂st- of this originally onomatopoetic root. The laryngeal is assured by the acute in Lithuanian and Slavic.
+REF: [EDPC]
+
+### <a id="kwati">\*kʷāti- "chaff, husks" (n)</a>
+GOID: OIr. _cáith_ [i f] gl. _furfur_
+PIE: \*(s)kʷeh₁t- "agitate" (IEW: 632)
+COGN: Lat. _quatio_ "agitate, disturb, shake", OHG _scutten_ "to shake".
+ETYM: If this etymology is correct, the OIr. form would have to be derived from PIE \*kʷoh₁ti-, with the o-grade. Lith. _kùsti_ "to recover" cannot be related if there was a laryngeal in this root. However, the reconstructed PIE root shape is highly unusual.
+REF: [EDPC]
+
+### <a id="">\*-kʷe "and" [conj.]</a>
+GOID: OIr. -_ch_
+GAUL: _eti-c_ (La Graufesenque)
+LEP: -_pe_ (in _Sapsutai:pe_)​
+CELTIB: -_kue_
+PIE: \*-kʷe "and" (IEW: 635)
+COGN: Lat. -_que_, Gr. -_te_, Skt. _ca_
+REF: [EDPC]
+
+### <a id="kwef">\*kʷef- "pant, breathe" (v)</a>
+W: W _peuo_ "roar, breathe"
+PIE: \*kwep- "breathe, pant" (IEW: 596)
+COGN: Lith. _kvepiù_ "breathe"
+ETYM: This is not a very strong etymology, since the primary meaning of W _peuo_, _peuaf_ (according to GPC) is "bellow, roar", and only secondarily "pant, breathe". The Welsh verb is attested late, only in the 16th century. Moreover, other putative IE cognates in IEW (apart from Lith. _kvepiù_ and the related Baltic forms) can be easily dismissed.
+REF: [EDPC]
+
+### <a id="kwello">\*kʷello- "far" (adj)</a>
+W: MW _pell_
+BRET: MBret. _pell_
+CO: Co. _pell_
+PIE: \*kʷel- (?) "turn" (IEW: 640)
+COGN: Gr. _tē̃le_ "far", _pálai_ "long time ago"
+ETYM: A rather speculative etymology, relying, as it does, just on the parallel between Greek and Brittonic. Skt. _cirám_ "long time ago" adduced by IEW (641) is not related (Mayrhofer, s.v.). The geminate \*ll in Brittonic could be from a number of sources, e.g. \*ly, or \*ls, and it is impossible to decide which is the most probable of them.
+REF: [EDPC]
+
+### <a id="kwendso">\*kʷend-s-o- "suffer" (v)</a>
+GOID: OIr. _césaid_, -_césa_; _césais_ [prt.]
+PIE: \*kʷendʰ- "suffer, be pressed" (IEW: 641)
+COGN: Gr. _páskhō_, Lith. _kentù_
+ETYM: Since the large majority of weak a-verbs are denominative, Bammesberger (1974-5) suggests that OIr. _céssaid_ is built to an unattested noun \*céss < \*kʷensā "suffering". A proto-form \*kʷenssā or \*kʷanssā < PIE \*kʷndʰ-teh₂ is equally possible (cf. PCelt. [\*fanssā "footprint"](#fanssa) > OIr. _és_).
+REF: [EDPC]
+
+### <a id="kwenkwe">\*kʷenkʷe "five" (num)</a>
+GOID: OIr. _cóic_
+W: OW _pimp_, MW _pymp_ (GPC _pump_, _pum_, _pym(p)_)​
+BRET: OBret. _pemp_, MBret. and MoBret. _pemp_
+CO: Co. _pymp_
+GAUL: _pempe_-
+PIE: \*penkʷe "5" (IEW: 808)
+COGN: Skt. _páñca_, Gr. _pénte_, Lat. _quīnque_, Go. _fimf_, Lith. _penkì_, OCS _pętь_, Alb. _pesë_
+ETYM: The ordinal \*kʷenkʷeto- can be reconstructed on the basis of OW _pimphet_, Gaul. _pinpetos_ (La Graufesenque), MBret. _pempet_ and OIr. _cóiced_. OIr. _deac_, _deëc_ "ten" is often derived from \*dwē-penkʷom, with the loss of -_p_- rather than the assimilation with the following \*kʷ, but doubts have been raised on the possibility of this derivation (Cowgill 1970: 145, Schrijver 1993). The form \*dwē-penkʷom looks quite artificial, and the sound development that has to be assumed is difficult. However, Cowgill's suggestion that _deëc_ is from the gen.sg. \*dekan-os through metathesis (\*deankos > _deëc_) is hardly more persuasive. A derivation from PCelt. \*dekan-kʷe "ten and" with the apocope of final \*-e (\*dekankʷe > \*dekank > \*deank > _deëc_) is possible if one accepts the dissimilatory loss of the first velar stop (Schrijver 1993).
+REF: [EDPC]
+
+### <a id="kwenkweto">\*kʷenkʷeto- "fifth" (num)</a>
+SEE: [\*kʷenkʷe "five"](#kwenkwe)
+REF: [EDPC]
+
+### <a id="kwenno">\*kʷenno- "head" (n)</a>
+GOID: OIr. _cenn_ [o n > m], Ogam _CUNA-CENNI_
+W: OW _penn_ [m], MW _penn_, (GPC _pen_)​
+BRET: OBret. _penn_, _pen_, MoBret. _penn_ [m]
+CO: OCo. _pen_ gl. _capud_, MCo. _pen_
+GAUL: _pennon_ (Clermont-Ferrand, RIG L-136), _Penno-ouindos_ [PN]
+ETYM: MIr. spelling _cend_ (rather than _cenn_) is late, and does not prove a pre-form \*kʷendo-. Ogam PN _CUNA-CENNI_ (gen.sg.) has the perfect match in Gaul. _Cunopennus_ "Dog-head". OIr. _conn_ [o m] "chief" is sometimes derived from the same root (see PCelt. [\*kʷondos](#kwondos)). If that is so, the ablaut shows that these words are inherited rather than borrowed from some substratum, but all attempts to identify a PIE root have proven futile.
+REF: [EDPC]
+
+### <a id="kweno">\*kʷēno- "long" (adj)</a>
+GOID: OIr. _cían_ [o]
+PIE: \*kʷeyH- "rest" (IEW: 638)
+COGN: Go. _hweila_ "period, time", OCS _po-čiti_ "rest", Lat. _quiēs_ "rest"
+ETYM: Celtic presupposes PIE \*kʷeyH-no-. Different IE languages show different extensions of this root. The suffix \*-no- occurs only in Celtic.
+REF: [EDPC]
+
+### <a id="kwer">\*kʷer- "make, cause" (v)</a>
+W: MW _peri_ "cause, create, make"; _paraf_, _peraf_ [1s.prs.]
+BRET: MBret. _paras_ [3s.prt.]
+PIE: \*kʷer- "do, make" (IEW: 641f.)
+COGN: Skt. _kṛṇóti_ "does", OCS _čarъ_, "magic", Lith. _keriù_ "enchant"
+SEE: [\*kʷritu-](#kwritu)
+ETYM: The present stem formation of this PCelt. verbal root cannot be reconstructed.
+REF: [EDPC]
+
+### <a id="kwerxt">\*kʷerxt- "bush" (?) (n)</a>
+GOID: MIr. _ceirt_ "apple-tree, letter _q_ in Ogam"
+W: MW _perth_ "bush, hedge, thicket" [f]
+CO: Co. _Pen-berth_ [toponym]
+PIE: \*perkʷu- "oak" (IEW: 822)
+COGN: Lat. _quercus_, OHG _furh_ "fir"
+ETYM: Since MIr. _ceirt_ is known only from glossaries and as the name of the Ogam letter Q, this etymology is not very strong. Even so, at least the derivation of W _perth_ from PIE \*perkʷ-t- may be regular: first \*p...kʷ assimilated to \*kʷ...kʷ, then \*kʷ > \*x before \*t, and finally initial \*kʷ > _p_ in Brittonic. The ancient name of the Ardennes, _Hercynia (silva)_, _Herkyníos (drymós)_ is usually derived from PIE \*perkʷ-unyo- > PCelt. \*ferkunyo-, Gaul. \*erkunyo- (cp. Go. _fairguni_ "mountain"). If this etymology is correct, it shows that the regular assimilation of \*p...\*kʷ to \*kʷ...\*kʷ occurred after the delabialization of \*kʷ before \*u.
+REF: [EDPC]
+
+### <a id="kwes">\*kʷēs "who" (pron)</a>
+GOID: OIr. _cía_
+W: OW _pui_, MW _pwy_
+BRET: OBret. _pou_, MBret. _piou_
+CO:Co. _pyw_
+PIE: \*kʷe/o-y- "who, what" (IEW: 635)
+COGN: Lat. _quis_ "who", Hitt. _kuis_, Gr. _tís_ "who", Skt. _kím_ "what"
+SEE: [\*kʷid "what"](#kwid)
+ETYM: MBret. _piou_, Co. _pyw_ are results of metathesis (\*wy > _yw_). PCelt. \*kʷē- preserves the full grade, PIE \*kʷey-. This shape of the root of the interrogative pronoun is probably older than \*kʷo- (Skt. _kás_, OCS _kъ-to_ "who"), which is parallel to the demonstrative pronoun stem \*so-, \*to-. Celtic unexpectedly has the full grade of the root \*kʷi- (but cf. also Gr. Doric adverb _peĩ_ "where"). The creation of the full grade stem \*kʷey- may be a secondary development within Celtic, but cf. Lat. _quī_ < \*kʷoy.
+REF: [EDPC]
+
+### <a id="kwesla">\*kʷēslā "mind, spirit, reason" (n)</a>
+GOID: OIr. _cíall_ [ā f]
+W: OW _puil_ [m and f], MW _pwyll_
+BRET: MBret. _poell_, MoBret. _pouell_ [m] "connection, reason"
+CO: OCo. _gur-bull-oc_ gl. _insanus_, MoCo. _poll_
+PIE: \*kʷeys- "perceive" (IEW: 637)
+SEE: [\*ad-kʷis-o- "see"](#adkwiso)
+ETYM: The correct morphological segmentation is probably \*kʷēs-slā, i.e. the suffix is \*-slo-/\*-slā.
+REF: [EDPC]
+
+### <a id="kwetwores">\*kʷetwores "four" (num)</a>
+GOID: OIr. _ceth(a)ir_ [m]; _cetheoir_ [f]
+W: OW _petguar_, MW _pedwar_ [m]; _pedeir_ [f]
+BRET: OBret. _petguar_, MBret. _peuar_; _peder_ [f], MoBret. _pewar_
+CO: Co. _peswar_; _pedyr_ [f]
+GAUL: _petuar[ios]_ [ord.]; _Petru-corii_ [ethnonym] = "Périgord"
+PIE: \*kʷetwores "4" (IEW: 642)
+COGN: Skt. _catvā́ras_, Lat. _quattuor_, Gr. _téttares_, Go. _fidwor_, Lith. _keturì_, OCS _četyre_, ToA _śtwar_, Arm. _čork'_
+REF: [EDPC]
+
+### <a id="kwezdi">\*kʷezdi- "piece, portion" (n)</a>
+GOID: OIr. _cuit_ [i f]
+W: OW _ped_, MW _peth_ "thing" [m and f]
+BRET: MBret. _pez_, MoBret. _pezh_ [m]
+CO: Co. _peth_, _pyth_
+ETYM: Medieval Latin _petia terrae_ "piece of land" is from the lost Gaulish \*pettia (cf. also Fr. _pièce_ "piece", etc.). PCelt. \*kʷezdi- does not seem to have any cognates in other IE languages, so it may have been borrowed from some non-IE source.
+REF: [EDPC]
+
+### <a id="kwid">\*kʷid "what" </a>
+GOID: OIr. _cid_
+PIE: \*kʷid "what" (IEW: 646f.)
+COGN: Lat. _quid_, Skt. _kím_ "what", _cid_ "even", Gr. _ti_
+SEE: [\*kʷēs "who"](#kwes)
+REF: [EDPC]
+
+### <a id="kwinut">\*kʷinut- "crime, mistake, guilt" (n)</a>
+GOID: OIr. _cin_ [m f]
+PIE: \*kʷey- "esteem, regard; make pay, exact revenge" (IEW: 637)
+COGN: Skt. _cáyate_ "punishes", Av. _kaēna_ "punishment", Gr. _tíō_ "honor", _tínō_ "make someone pay"
+ETYM: The word formation of this word is rather strange (the only comparable forms in this dictionary are [\*karut- "champion"](#karut) and, perhaps, \*regut- "forearm", s.v. [\*reg-o- "stretch"](#rego)). This fact, as well as the lack of cognates in other Celtic languages besides Irish, makes this a speculative etymology. However, the semantics of the derivation from PIE \*kʷey­ "punish" are fine.
+REF: [EDPC]
+
+### <a id="">\*kʷis-o- "see" (v)</a>
+GOID: OIr. _ad-cí_, -_aicci_; -_accastar_ [prt.pass.]; -_accae_ [perf.]
+GAUL: _pissíiumi_ [1 s prs.] (Chamalières); _appisetu_ (Thiaucourt)​
+PIE: \*kʷeys- "perceive" (IEW: 637)
+COGN: Av. _cinahmi_ "determine", Lat. _cūra_ "anxiety, care"
+ETYM: OIr. _ad-cí_ < \*ad-kʷis-yo- (the simplex is unattested). OIr. _senchae_ "storyteller" can be derived from an old compound \*seno-kʷoysyos "old/ancient witness" (McCone 1995). Gaul. _pissíiumi_ might be in the future, rather than the present tense (McCone 2006: 187).
+REF: [EDPC]
+
+### <a id="kwo">\*kʷo- "to" (prep)</a>
+GOID: OIr. _co_ [geminating, +acc.]
+W: MW _py_ (GPC _pwy_)
+PIE: \*kʷo- [Prep.] (IEW: 613)
+COGN: OCS _kъ_ "to"
+REF: [EDPC]
+
+### <a id="kwokwo">\*kʷokʷ-o- "cook, bake" (v)</a>
+W: MW _pobi_
+BRET: MBret. _pibi_, _poba_, MoBret. _pobad_
+CO: Co. _pobas_
+PIE: \*pekʷ- "cook" (IEW: 798)
+COGN: Skt. _pácate_, Lat. _coquo_, Gr. _péssō_, OCS _pešti_, _pečetъ_ [prs.3s.], Lith. _kepù_, _kèpti_, Alb. _pjek_
+ETYM: Cf. also W _poeth_ "hot", MBret. _poaz_, MoBret. _poazh_ "cooked", Co. _poth_ "hot" < PCelt. \*kʷoxto- < \*kʷokʷto- < PIE \*pokʷto- "cooked" (passive participle, cf. OCS _potъ_ "sweat").
+REF: [EDPC]
+
+### <a id="kwolu">\*kʷolu- "wheel" (n)</a>
+GOID: MIr. _cul_ "chariot" or "part of a chariot"
+PIE: \*kʷol-o- "wheel" (IEW: 639)
+COGN: Gr. _pólos_ "axis", OE _hweol_, OCS _kolo_ "wheel", Lith. _kãklas_ "neck"
+SEE: [\*kʷal-na- "go around"](#kwalna)
+ETYM: MIr. _cul_ is poorly attested. It is known chiefly from glossaries, so this etymology is uncertain.
+REF: [EDPC]
+
+### <a id="kwon">\*kʷon- "dog" (n) (nom.sg. \*k(w)ū, gen.sg. \*kunos)</a>
+GOID: OIr. _cú_ [n m], Ogam _VEDA-CUNAS_
+W: MW _ki_, _ci_ [m]; _cwn_ [p]
+BRET: MBret. _ci_, _qui_, MoBret. _ki_ [m]
+CO: OCo. _ci_ gl. _canis_
+GAUL: _Cuno-pennus_ "Dog-head" [PN]
+PIE: \*ḱ(u)wōn "dog" (IEW: 632)
+COGN: Skt. _śvā́_, Gr. _kýōn_, Lat. _canis_, Germ. _Hund_, Lith. _šuõ_, ToA _ku_, Arm. _šun_
+ETYM: PCelt. \*kʷ (from PIE cluster \*ḱw) was delabialized before \*u/ū, e.g. in the nom.pl. (\*kʷunes > \*kunes), hence we have W _ci_ rather than \*\*pi. The Celtic forms are consistent with a PCelt. ablauting paradigm, with nom.sg. \*kū, acc.sg. \*kʷonam \*or, analogically, \*kon-am), gen.sg. \*kun-os.
+REF: [EDPC]
+
+### <a id="kwoxto">\*kʷoxto- "hot" (adj)</a>
+SEE: [\*kʷokʷ-o- "cook"](#kwokwo)
+REF: [EDPC]
+
+### <a id="kwresno">\*kʷresno- "wood, tree" (n)</a>
+GOID: OIr. _crann_ [o n]
+W: MW _prenn_ [m] (GPC _pren_)​
+BRET: OBret. _pren_, MBret. _prenn_, MoBret. _prenn_ [m]
+CO: OCo. _pren_ gl. _lignum_, Co. _pren_
+GAUL: _prenne_ gl. _arborem grandem_ (Endlicher's Glossary)​
+PIE: \*kʷres- "bush, thicket" (IEW: 633)
+COGN: OE _hyrst_ "bushes"
+REF: [EDPC]
+
+### <a id="kwrimi">\*kʷrimi- "worm" (n)</a>
+GOID: OIr. _cruim_ [?i f] "worm, maggot"
+W: OW _prem_, MW _pryf_ [m]; _pryfed_ [p]
+BRET: MBret. _preff_, MoBret. _preñv_ [m]
+CO: OCo. _prif_ gl. _uermis_, MCo. _pref_
+PIE: \*kʷrmi- "worm" (IEW: 1152)
+COGN: Skt. _kṛ́mi_-, Alb. _krimb_, Lith. _kirmìs_, Slovene _črm_
+ETYM: The u-vocalism in OIr. _cruim_ is a trace of the preceding labiovelar. Note that the reflex of the syllabic \*r > \*ri is regular before \*m as well as before stops.
+REF: [EDPC]
+
+### <a id="kwrina">\*kʷri-na- "buy" (v)</a>
+GOID: OIr. _crenaid_, -_cren_; _crieid_, -_cria_ [subj.]; _cíuraid_, -_cíurai_ [fut.], _cíuir_ [prt.]; _críthae_, -_críth_ [pass.]
+W: OW _prinit_ [3s.prs.], MW _prynu_
+BRET: MBret. _prenaff_, MoBret. _prenan_
+CO: OCo. _prinid_, Co. _prena_
+GAUL: _prinas_ "bought"(?) (La Graufesenque no. 46)
+PIE: \*kʷreyh₂- "buy, exchange" (IEW: 648)
+COGN: Skt. _krīṇā́ti_, Gr. _príasthai_, ORuss. _kriti_
+ETYM: The interpretation of Gaul. _prinas_ is very uncertain (it may even not be a verbal form). Cf. also OIr. _críth_ [ā f] "act of buying", W _prid_ "dear, expensive" < PCelt. \*kʷrīto- < PIE \*kʷrih₃-to- (past passive participle, where the operation of Dybo's law would be expected).
+REF: [EDPC]
+
+### <a id="kwritu">\*kʷritu- "magical transformation, shape" (n)</a>
+GOID: OIr. _cruth_ [u m] "shape, form", also _creth_ "poetry", Ogam _QRITTI_ [gen.sg.] ? "poet's"
+W: MW _pryd_ [m] "form, shape, time"
+BRET: MBret. _pred_ [m] "moment"
+CO: OCo. _prit_ gl. _hara_, Co. _prys_
+GAUL: _Prittius_ (?) [PN]
+SEE: [\*kʷer- "make, cause"](#kwer)
+ETYM: OIr. _creth_ was abstracted from the regular gen.sg. _creth-o_ of the original u-stem _cruth_. In W, GPC separates _pryd_ "time, moment" and _pryd_ "face, appearance" as two lexical entries and doubts whether their etymologies are identical.
+REF: [EDPC]
+
+### <a id="kwriyet">\*kʷrīyet- "clay, earth, mud" (n)</a>
+GOID: OIr. _cré_ [t f]; _inna críad_ [gen.sg.] gl. _luti_
+W: MW _pridd_ [m]
+BRET: OBret. _pri_ gl. _creta_, MBret. _pry_, _pri_, MoBret. _pri_ [m]
+CO: Co. _pry_
+ETYM: These words are probably related to Lat. _crēta_ "chalk", but details are obscure. Mallory & Adams 2006: 121 reconstruct PIE \*tkʷreh₁yot- and add ToB _tukri_ "clay". Perhaps it is more sensible to start with the root \*kʷreh₁- with the suffix (?) \*-yet- and assume that the Tocharian words contain some kind of prefix. It is also possible that all of these words were borrowed from non-IE languages.
+REF: [EDPC]
