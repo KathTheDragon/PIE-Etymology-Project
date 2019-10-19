@@ -202,7 +202,7 @@ ETYM: Schrijver (1995: 75) derives these words from PIE \*pelh₂- "to drive" (L
 REF: [EDPC]
 
 ### <a id="albiyo">\*albiyo- "world" (n)</a>
-W: OW _elbid_ [m and f] "world", MW _eluit, eluyd_ (GPC _elfydd_)
+W: OW _elbid_ [m and f] "world", MW _eluit, eluyd_ (GPC _elfydd_)​
 GAUL: _Albio-rix_ [PN]
 PIE: \*h₂elbʰo- "white" (IEW: 30)
 COGN: Lat. _albus_, OHG _albiz_ "swan"
@@ -1334,7 +1334,7 @@ REF: [EDPC]
 ### <a id="biwv">\*bīwV- "pitch" (n)</a>
 GOID: OIr. _bí_ [?f]
 PIE: \*gʷiHu- "pitch" (IEW: 482)
-COGN: Russ. _živíca_, Arm. _kiv_ (gen. _kvoy_)
+COGN: Russ. _živíca_, Arm. _kiv_ (gen. _kvoy_)​
 ETYM: The OIr. word is too short and too poorly attested for this etymology to have any degree of certainty. It may, in principle, represent PCelt. \*bīwā or \*bīwi-.
 REF: [EDPC]
 
@@ -2360,7 +2360,7 @@ ETYM: The formations of these Celtic words do not match. OIr. _duille_ should be
 REF: [EDPC]
 
 ### <a id="dola">\*dolā "meadow, dale" (n)</a>
-W: MW _dol_ [f] (GPC _dôl_)
+W: MW _dol_ [f] (GPC _dôl_)​
 BRET: MoBret. _Dol_- [mostly in toponyms]
 CO: Co. _dol_
 PIE: \*dʰolh₂-o- "valley" (IEW: 245f.)
@@ -2801,7 +2801,7 @@ ETYM: This etymology is not completely ascertained; OIr. _orb_ "heir" and the no
 REF: [EDPC]
 
 ### <a id="eriro">\*eriro- "eagle" (n)</a>
-GOID: MIr. _irar_ [o m] (DIL _ilar_)
+GOID: MIr. _irar_ [o m] (DIL _ilar_)​
 W: MW _eryr_ [m and f]; _eryrod, eryron_ [p]
 BRET: MBret. _erer_ [m], _er_ [m]
 CO: OCo. _er_
@@ -2913,7 +2913,7 @@ CO: Co. _gallas_ "went" [3s.prt.]
 PIE: \*pelh₂ "approach" (IEW: 80lf.)
 COGN: Lat. _pello_ "strike, drive", Gr. (Epic) _pílnamai_ "approach", Arm. _elanem_ "exit"
 SEE: [\*ag-o- "drive"](#ago)
-ETYM: OIr. _ad-ella_ is from the compound \*ad-fal-na- (the simplex is unattested). OIr. _eblaid_ is the suppletive future to _agid_ "drive"; MW _el_ is the suppletive present to _mynet_ "go" (GPC _mynd_)
+ETYM: OIr. _ad-ella_ is from the compound \*ad-fal-na- (the simplex is unattested). OIr. _eblaid_ is the suppletive future to _agid_ "drive"; MW _el_ is the suppletive present to _mynet_ "go" (GPC _mynd_)​
 REF: [EDPC]
 
 ### <a id="falto">\*falto- "joint" (n)</a>
@@ -3033,7 +3033,7 @@ REF: [EDPC]
 
 ### <a id="farextu">\*fare-xtu- "conversation, assembly, meeting" (n)</a>
 GOID: OIr. _airecht_ [u m] "assembly"
-W: MW _areith_ [f] "conversation" (GPC _araith_)
+W: MW _areith_ [f] "conversation" (GPC _araith_)​
 BRET: MoBret. _areih_ (Vannetais) "dispute"
 CO: Co. _areth_
 ETYM: I think it is possible to derive these Celtic words from the PIE root \*h₂eǵ- "say" (Lat. _aio_, Arm. _asem_, IEW 290f., LIV 228) and the PCelt. prefix \*fare-. In Celtic we would have the zero-grade of the root and the abstract­ building suffix \*-tu-, i.e. \*h₂ǵ-tu-.
@@ -3139,7 +3139,7 @@ ETYM: The original meaning of this substantivized adjective, "speckled", may be 
 REF: [EDPC]
 
 ### <a id="feruti">\*feruti "last year" (adv)</a>
-GOID: OIr. _innuraid_ (DIL _uraid_)
+GOID: OIr. _innuraid_ (DIL _uraid_)​
 PIE: \*per-uti [loc.s] "last year", \*wet- "year" (IEW: 1175)
 COGN: Skt. _par-út_ "last year", Gr. _pérysi_, Arm. _heru_
 ETYM: OIr. _inn-uraid_ might reflect the PCelt. Accusative sg. \*ferut-en, rather than loc./dat.sg. \*feruti, if McCone 1996: 101 is right. However, an original locative sg. makes better sense in an expression of time.
@@ -3599,7 +3599,7 @@ ETYM: Cf. also Lat. _postis_ "door-post" < \*pr-sth₂i-. The same PIE root is a
 REF: [EDPC]
 
 ### <a id="fstrew">\*fstr-ew- "sneeze" (n)</a>
-GOID: MIr. _sreod_ [o m] (DIL _sreód_)
+GOID: MIr. _sreod_ [o m] (DIL _sreód_)​
 W: MW _trev, ystrew_ [m]
 BRET: MBret. _strefia, strevia_ "to sneeze"
 PIE: \*pster- "sneeze" (IEW: 847)
@@ -3990,7 +3990,7 @@ REF: [EDPC]
 
 ### <a id="glano">\*glano- "clean, clear" (adj)</a>
 GOID: OIr. _glan_ [o], Ogam _GLANNANI_
-W: MW _glan_ (GPC _glân_)
+W: MW _glan_ (GPC _glân_)​
 BRET: OBret. _glan_, MBret. _glan_
 CO: Co. _glan_
 GAUL: _Glanis_ [hydronym], (Matrebo) Glaneikabo [Theonym]
@@ -4352,7 +4352,7 @@ REF: [EDPC]
 
 ### <a id="gweno">\*gʷeno- "smile" (n)</a>
 GOID: OIr. _gen_ [o n]
-W: MW _gwen_ [f] (GPC _gwên_)
+W: MW _gwen_ [f] (GPC _gwên_)​
 BRET: MoBret. _gwen-c'hoarzin_ "to smile"
 ETYM: According to DIL, OIr. _gen_ was originally an u-stem, but this is difficult in the light of the vocalism (\*\*giun would be expected from \*gʷenu). MW _gwen_ probably represents the collective (nom.pl. neuter) \*gʷenā.
 REF: [EDPC]
