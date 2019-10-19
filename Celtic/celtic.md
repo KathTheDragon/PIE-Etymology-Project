@@ -731,7 +731,7 @@ COGN: Lat. _au_-, Skt. _áva_, OCS _u_-
 ETYM: The OIr. conjunction _ó_ (and MW _o_) "when" is the same word (in the unstressed position). There is, in OIr., also the adverb _áu_ "away" < \*h₂ewo-­ (= Skt. _áva_). Celtib. _au-tom_ (Bronze _reś_), which is probably a conjunction, might be comparable to Lat. _autem_.​
 REF: [EDPC]
 
-### <a id="aw-1">\*aw- "negative prefix and particle" [Particle]</a>
+### <a id="aw-1">\*aw- "negative prefix and particle" [part.]</a>
 GOID: OIr. _ua_-
 PIE: \*h₂ew- (IEW: 72)
 COGN: OCS _u_-, e.g. in _u-bogo_ "poor"
@@ -2844,7 +2844,7 @@ GAUL: \*esoks > Lat. _esox_ (Pliny)
 ETYM: The Brittonic forms were reshaped, and are derivable from \*esāko­ (on the analogy with the frequent formations in Celt. \*-āko-). Basque _izokin_ "salmon" is ultimately a Celtic loanword rather than vice versa.
 REF: [EDPC]
 
-### <a id="eti">\*eti "yet, still, but" [Conjunction]</a>
+### <a id="eti">\*eti "yet, still, but" [conj.]</a>
 BRET: OBret. _et_-
 GAUL: _eti_ (La Graufesenque)
 PIE: \*h₁eti "beyond" (IEW: 344)
