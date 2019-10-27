@@ -6233,3 +6233,578 @@ BRET: OBret. _pri_ gl. _creta_, MBret. _pry_, _pri_, MoBret. _pri_ [m]
 CO: Co. _pry_
 ETYM: These words are probably related to Lat. _crēta_ "chalk", but details are obscure. Mallory & Adams 2006: 121 reconstruct PIE \*tkʷreh₁yot- and add ToB _tukri_ "clay". Perhaps it is more sensible to start with the root \*kʷreh₁- with the suffix (?) \*-yet- and assume that the Tocharian words contain some kind of prefix. It is also possible that all of these words were borrowed from non-IE languages.
 REF: [EDPC]
+
+## L
+
+### <a id="labaro">\*lab(a)ro- "eloquent, talkative" (adj)</a>
+GOID: OIr. _labar_ [o]
+W: MW _llafar_ "loud, resonant, talkative"
+BRET: OBret. _labar_ "talking", MBret. _lauaret_ "talk", MoBret. _lavar_ [m] "language, speech"
+CO: OCo. _lauar_ gl. _sermo_
+GAUL: _Labarus_, _Labrios_ [PN]
+ETYM: In OIr., there is also the denominative deponent verb _labraithir_, -_labrathar_ "talks". Cf. the parallel formation of the antonyms W _aflafar_ "mute" and OIr. _amlabar_ "mute". These Celtic words may have been onomatopoetic in origin; the connection with ME _flappen_ "hit" suggested by IEW (831) is a mere possibility (if this is correct, the PCelt. form of the root was \*flab-), cf. also Germ. _labern_ "babble".
+REF: [EDPC]
+
+### <a id="lafigo">\*lāfigo- "calf" (n)</a>
+GOID: OIr. _lóeg_ [o m]
+W: OW _lo_, MW _lloe_, _llo_ [m]
+BRET: MBret. _lue_, MoBret. _leue_ [m]
+CO: OCo. _loch_ gl. _vitulus_, Co. _lugh_
+PIE: \*leh₂p- "cattle" (IEW: 654)
+COGN: Alb. _lopë_ "cow", Latv. _lùops_ "cattle"
+ETYM: The monosyllabic form found in MW _llo_ must have been remodeled after the plural _lloe-au_ (falsely reinterpreted as _llo-eau_, _llo-iau_). If the IE side of this etymology is correct, the Celtic words must be from something like \*leh₂p-igo-. If this is rejected, the Celtic words for "calf" can also be derived from PCelt. \*loygo- rather than \*lāfigo-.
+REF: [EDPC]
+
+### <a id="laggo">\*laggo- "weak, slack" (adj)</a>
+GOID: MIr. _lac_ [o]
+PIE: \*(s)leh₂g- "slack" (IEW: 959f.)
+COGN: Lat. _laxus_ "spacious, loose", _languo_ "be sluggish", Gr. _lagarós_ "slack, thin", OE _sleack_, ToB _lakkare_
+ETYM: MW _llacc_ "slack" was probably borrowed from Goidelic. OIr. _lacc(c)_ is, in principle, derivable from PIE \*lh₂g-ko-. The pronunciation of MoIr. _lag_ confirms that there was a geminate [gg] in OIr. that failed to undergo lenition.
+REF: [EDPC]
+
+### <a id="lamyo">\*lam-yo- "dare" (v)</a>
+GOID: OIr. _ro-laimethar_; _ro-lamathar_ [subj.]; _ro-lilmathar_ [fut.]; _lámair_ [prt.]; _ro-lét_ [prt.pass.]
+W: MW _llafasu_, _llyfasu_, _llyfasel_
+BRET: MBret. _lafuaez_
+CO: Co. _lauasos_ "to be allowed"
+PIE: \*h₃lem- "to tire (oneself)" (IEW: 674)
+COGN: Gr. _nōlemés_ "untiring", OHG _lam_ "lame", Lith. _lémti_ "to ordain"
+ETYM: OIr. _ro-laimethar_ < \*fro-lam-yo- (the simplex verb is unattested in Goidelic). The acute in Lith. _lémti_ (3sg. _lémsta_) must be due to metatony, which is expected in sta-presents.
+REF: [EDPC]
+
+### <a id="landa">\*landā "open land" (n)</a>
+GOID: OIr. _lann_ [ā f] "land, plot, church"
+W: MW _llann_ [f] "church-yard", (GPC _llan_)​
+CO: Co. _lan_
+GAUL: \*landā > Fr. _lande_ "sandy moor, heath"
+PIE: \*londʰ- "open land, waste" (IEW: 675)
+COGN: OE _land_, OPr. _lindan_ "valley"
+ETYM: The Celtic forms stem from the zero-grade, PIE \*lndʰ- (as in OPr. _lindan_), while the Germanic words contain PIE \*londʰ-. This probably points to an ablauting paradigm nom. \*lōndʰ-s, gen. \*lndʰ-os, acc. \*lond-m. Cf. also the parallel compounds OIr. _ith-land_, MW _yd-lan_ "threshing floor".
+REF: [EDPC]
+
+### <a id="lanxsman">\*lanx-sman- "jump" (n)</a>
+GOID: OIr. _léimm_ [n n]
+W: MW _llam_
+BRET: MBret. _lam_, MoBret. _lamm_ [m]
+CO: Co. _lam_
+GAUL: _Lingones_ [ethnonym]
+ETYM: A nominal derivative form the verbal base \*leng- preserved in OIr. _lingid_ "jumps". Zero-grade of the root is expected in such a formation (cf. [\*kanxsman](#kanxsman)).
+REF: [EDPC]
+
+### <a id="lati">\*lati- "liquid, fluid" (n)</a>
+GOID: OIr. _laith_ "ale, liquor"
+W: MW _llad_ "drink, beer"
+BRET: OBret. _lat_ gl. _crapulam_
+CO: OCo. _lad_ gl. _liquor_
+GAUL: _Are-late_ [toponym] = _Arles_
+PIE: \*lat- "wet" (IEW: 654f.)
+COGN: OHG _letto_ "mud"
+ETYM: OIr. _laith_ does not mean "swamp" pace IEW 654. Connection of these Celtic words with Gr. _látaks_ "drops of wine from the bottom of a wine­ cup", suggested by Pokorny, is unconvincing (_látaks_ is a loanword from some pre-Greek substrate). The connection with Lith. river-names such as _Latuvà_ is as uncertain as anything in toponomastics. The a-vocalism in the PIE root is difficult to account for, so this word may have been borrowed from some non-IE source.
+REF: [EDPC]
+
+### <a id="lato">\*lāto- "furor, ardor" (n)</a>
+GOID: OIr. _láth_ [o m]
+W: W _llawd_ [m] "heat (of sow), sow's desire for boar"
+SEE: [\*lāyko- "warrior"](#layko)
+ETYM: The first element in the Gaulish ethnonym _Lato-bici_ might be derivable from this Celtic etymon (Delamarre 198, Meid 2005: 54). W _llawd_ is attested very late (17th century) and shows somewhat unusual semantic development.
+REF: [EDPC]
+
+### <a id="latyo">\*latyo- "day" (n)</a>
+GOID: OIr. _laithe_ [io n] (DIL _lá_)​
+GAUL: _lat_- (Coligny)​
+PIE: \*leh₁t- "warm part of the year(?)" (IEW: 680)
+COGN: OCS _lěto_ "year", Croat. _ljȅto_ "summer", Swedish dial. _låding_ "spring"
+ETYM: The Celtic forms contain the zero-grade of the root, which points to an ablauting paradigm \*leh₁ti-/\*lh₁tyo-, with Celtic generalizing the shape of the root in the oblique cases (the development \*lh₁tyo- > \*latyo- is regular, cf. [\*laggo- "weak"](#laggo)). The semantic development in Celtic was from "warm part of the year" to "warm part of the day", and, finally, "day" (for a similar development cf. Croat. _gòdina_ "year" vs. Polish _godzina_ "hour").
+REF: [EDPC]
+
+### <a id="lawano">\*lawano- "provisions, food, sustenance" ()</a>
+GOID: OIr. _lón_, _lán_, _loon_, _loan_ [o m] "provisions, sustenance, fat, victuals"
+PIE: \*lewH- "cut off, loose" (IEW: 681f.)
+COGN: Skt. _lunā́ti_ "cuts off", Lat. _luo_ "suffer, make amends for", OE _lē_ "sickle", Lith. _liáutis_ "to be cut"
+ETYM: Cf. also OIr. _as-loí_ "flees" < \*exs-luw-o- (< \*lowH-o-, cf. PCelt. [\*luw-o-](#luwo)). OIr. _lón_ is always written with a long vowel, so it cannot be from \*luno- as stated by IEW (681). In early OIr. texts it is also spelled as a disyllabic word (_loon_, _loan_, see attestations in DIL). The semantic development from "a cut" to "share" and "portion, provision" is clear, but the formal development needs some clarification. PCelt. \*lawano- may, perhaps, be derived from PIE \*lewHno- by Joseph's rule, but it is uncertain if \*lawano- should yield OIr. _lán_, or \*\*luan. In the latter case, maybe \*w was lost early between identical vowels, so \*laano- yielded _lán_, _lón_ regularly. On the other hand, PCelt. \*lowano- (from \*lowH-no-) would presumably have yielded the same result.
+REF: [EDPC]
+
+### <a id="lawaro">\*lawaro- "many, a lot" (adj)</a>
+SEE: [\*ufo-lawto- "property, wealth"](#ufolawto)
+REF: [EDPC]
+
+### <a id="laweno">\*laweno- "merry" (adj)</a>
+SEE: [\*ufo-lawto- "property, wealth"](#ufolawto)
+REF: [EDPC]
+
+### <a id="lawgo">\*lawgo- "prize, price" (n)</a>
+SEE: [\*ufo-lawto- "property, wealth"](#ufolawto)
+REF: [EDPC]
+
+### <a id="layko">\*lāyko- "warrior" (n)</a>
+GOID: OIr. _láech_, _lóech_ [o m]
+PIE: \*leh₂- "war" (?)
+COGN: Hitt. _lahh_- "military campaign", Gr. _lā(w)ós_ "army, folk", Phrygian _lawagtaei_ [dat.sg.] "military leader"
+ETYM: OIr. _láech_ is often considered to be a loanword from Latin _laicus_ "layman" < Gr. _laikós_ (e.g. in DIL, cf. also Sharpe 1979). Indeed, it means not only "warrior", but "layman" in some early texts. However, the semantic development would have been strange, and there is no such Latin loanword in British (but see below). If it is indeed inherited, OIr. _láech_ would have to be a derivative in \*-iko- from the root \*lā- that we might also have in PCelt. [\*lāto- "furor"](#lato). A possible cognate in Brittonic is the Welsh name for England, _Lloegr_. This name, which has not been satisfactorily explained so far, could represent the collective \*lāykor (as in OIr. _clochar_ "a heap of stones", from _cloch_ "stone"), vel. sim. On collectives in \*-r see Tovar 1972-3.
+REF: [EDPC]
+
+### <a id="layo">\*la-yo- "put, lay down, throw" (v)</a>
+GOID: OIr. _ro-lá_; -_laa_ [subj.], _ro-laa_ [prt.]
+PIE: \*leh₁- "let, leave" (IEW: 666, 682f.)
+COGN: Lat. _lētum_ "death", OCS _lěnъ_, "lazy", Hitt. _laizzi_ "lets", Lith. _liáutis_ "stop", Go. _lewjan_ "betray", _lew_ "opportunity, cause"
+ETYM: OIr. _ro-lá_ < \*fro-la-yo- (the simplex is unattested). The Gaulish inscription from Voltino (CIL V 4883, RIG 11.2: 188) might contain this verb (_TO-ME-Z-EC-LAI_ ?"put me up"), but this is very doubtful, see KPV 442. The PCelt. form is regularly derived from PIE \*lh₁-yo-. Baltic and Germanic reflexes presuppose \*leh₁w- rather than \*leh₁-, and the status of \*-w- is unclear. I do not believe these words are connected to PCelt. [\*latyo­ "day"](#latyo) for semantic reasons, although formally, the connection is possible. On the other hand, OIr. _airle_ [ā f] "counsel" might be derivable from the same root and represent PCelt. \*fare-la-yā (either with generalised \*-la-, or with \*-lā-< \*loh₁).
+REF: [EDPC]
+
+### <a id="laxsaro">\*laxsaro- "burning, shining" (adj)</a>
+GOID: OIr. _lassar_ [ā f] "flame" (DIL _lasar_)​
+W: MW _llachar_ "shining, shiny, brilliant"
+PIE: \*leh₂p- "shine"
+COGN: Hitt. _lāpzi_ "glows", Gr. _lámpō_, OPr. _lopis_ "flame"
+ETYM: OIr. _lassar_ is probably a substantivized adjective. PCelt. \*laxs-aro­- appears to be derivable from PIE \*lh₂ps-, with \*lHC- > \*la- as in [\*natu-](#natu) and [\*latyo-](#latyo). From the same root we have OIr. _lasaid_ "burn". For the suffix see Zimmer 2000: 485f.
+REF: [EDPC]
+
+### <a id="lega">\*lēgā "spoon" (n)</a>
+GOID: OIr. _liag_ [ā f] (DIL láach)​
+W: MW _llwy_ [f]
+BRET: OBret. _loi_, MBret. _loa_ [f]
+CO: OCo. _loe_, MoCo. _lo_
+PIE: \*leyǵʰ- "lick" (IEW: 668)
+COGN: Lat. _lingo_, OE _liccian_
+SEE: [\*lig-o- "lick"](#ligo)
+ETYM: The forms with a final _g_ are clearly older in OIr., see Hamp 1984. The derivation from the root \*leyǵʰ- "to lick" is semantically trivial.
+REF: [EDPC]
+
+### <a id="lego-1">\*leg-o- "melt" (v)</a>
+GOID: OIr. _legaid_, -_lega_ "melts, melts away, perishes"
+W: MW _dilein_ "destroy" (GPC _dileu_, _dilein_, _dilain_) < \*dī-leg-o­-
+PIE: \*leg- "leak, drop" (IEW: 657)
+COGN: ON _leka_ "leak, pour out in drops", OE _hlec_ "leak", Arm. _lič_ "bog"
+ETYM: Cf. also W _dadleithio_, _dadlaith_ "melt" from \*to-ate-lex-t-.
+REF: [EDPC]
+
+### <a id="lego-2">\*leg-o- "to lay, lie down" (v)</a>
+GOID: OIr. _laigid_, -_laig_; _leiss_, -_lé_ [subj.]; _leiss_, -_lé_ [fut.]; _láig_ [prt.]
+PIE: \*legʰ- "lie" (IEW: 658ff.)
+COGN: Go. _ligan_, OCS _lešti_, Falisc. _lecet_ "lies"
+SEE: [\*leg(y)o- "bed"](#legyo)
+ETYM: OIr. _lige_ [io n] "lying, bed" is a nominal derivative from PCelt. \*legyo-. Cf. also the Brittonic words for "bed", which presuppose \*ufo-leg-yo- (OW _gueli_, W _gwely_, OBret. _gueli_, MBret. _guele_ [m]), MoIr. _golighe_ "setting of the sun".
+REF: [EDPC]
+
+### <a id="legu">\*legu-, \*lagu- "small" (adj)</a>
+GOID: OIr. _laugu_, _laigiu_ "smaller" [comp.]
+W: MW _llaw_ "small, sad"
+BRET: OBret. _lau_ gl. _petusculum_ "small, bad", MoBret. _law_ "miserable, bad"
+PIE: \*h₁le(n)gʷʰ- "small, light" (IEW: 661)
+COGN: Skt. _raghú_- "light", Gr. _elakhýs_ "small", Lat. _leuis_ "light", Go. _leihts_ "light", Lith. _leñgvas_ "light"
+ETYM: For a possible parallel in Gaul. see Delamarre 195. OIr. _laigiu_ might be derivable from \*legʷ-yos, the PCelt. comparative of an adjective stem PCelt. \*legʷu- > \*legu- (cf. the u-affection in OIr. _laugu_ and in the superlative _lugam_, _lugimem_, but with _e_ in MW _lleiaf_). OIr. has -_a_- which is the regular development of PCelt. \*e before palatalized \*g (cf. PCelt. [\*yegi­ "ice"](#yegi) > OIr. _aig_). Similar comparatives are MW _llei_, Co. _le_ "smaller", cf. also OIr. _lagat_ [? n] "smallnes". The derivation from PIE \*h₁legʷʰ- "light, swift" is probable, but the Brittonic a-vocalism is surprising. The comparison with OIr. might point to an ablauting paradigm in PCelt., with nom.sg. \*legʷu- < \*h₁legʷʰu-, gen.sg. \*lagʷwo- < PIE \*h₁lgʷʰo-. The development \*RCC- > \*RaCC- would have been regular. In many languages the root shows nasalization (\*h₁lengʷʰ-, cf. Lith. _leñgvas_), presumably from the verbal present stem (cf. OHG _gi-lingan_ "attain"). On the other hand, some linguists prefer to reconstruct the PIE root as \*h₁lengʷʰ- "move effortlessly" and relate these forms to PCelt. [\*leng-o- "jump"](#lengo). This possibility cannot be excluded.
+REF: [EDPC]
+
+### <a id="legyo">\*leg(y)o- "bed, couch, place" (n)</a>
+GOID: OIr. _lige_ [io m]
+W: MW _lle_ [m] "place"
+BRET: OBret. _le_ "place", MoBret. _le_ [m]
+GAUL: _legasit_ "placed" [3s.prt.] (Bourges)​
+PIE: \*legʰ- "lie" (IEW: 658f.)
+COGN: Gr. _lékhos_ "bed", Lat. _lectus_ "bed", ToB _leke_, _leki_ "bed, resting place"
+ETYM: Gaul. _legasit_ is a denominal verb. Also related is MBret. _lech_ [m] "place" < \*lexso- < \*legʰ-s-. Fr. _lie_ "dregs, lees" is often derived from Gaul. \*ligyā or \*ligā "layer" (Gamillscheg 568). This, or rather \*liyā, attested as _lias_ "lees, dregs" in the Reichenau Glosses (8th century) could actually be the VLat. form of Gaul. \*legyā < PCelt. \*legyā "layer", from the same root as \*leg(y)o- "bed".
+REF: [EDPC]
+
+### <a id="">\*lēmo-, \*limo- "elm" (n)</a>
+GOID: MIr. _lem_ [o m]
+W: MW _llwyfen_ [sing.]; _llwyf_ [p]
+GAUL: _Lemo-uices_ [ethnonym] > _Limoges_
+PIE: \*h₁leym- "elm" (IEW: 303)
+COGN: Lat. _ulmus_, Eng. _elm_, ON _almr_, Russ. _íl'm_ "mountain elm"
+ETYM: MIr. _lem_ < \*limo-, W llwyf-en < \*lēmā. Together with the IE cognates, this probably points to an ablauting paradigm, PIE \*h₁leyōm / \*h₁lim-os. Lat. _ulmus_ can be derived from \*h₁elimos by syncope (\*elmos > \*olmos > _ulmus_ is regular). Syncope would also have to be assumed for the Germanic reflexes, which are derivable from PGerm. \*elmaz (Eng. _elm_) and \*almaz (ON _almr_). Russ. _il'm_ can be from \*jьlьm < \*h₁limo-. All of these words for "elm" are not related to the Balto-Slavic words for "linden" (Russ. _lípa_, Lith. _líepa_, etc.), as suggested by some (Vasmer, etc.). The Balto-Slavic words are from the PIE root \*leyp- "stick, adhere to" (the linden tree produces sticky juice).
+REF: [EDPC]
+
+### <a id="lengo">\*leng-o- "jump" (v)</a>
+GOID: OIr. _lingid_, -_ling_; _léiss_, -_lé_ [subj.]; _iblais_, -_ibail_ [fut.]; _leblaing_, _eblaing_ [prt.]· -_eblacht_ [prt.pass.]
+PIE: \*h₁lengʷʰ- "move effortlessly" (IEW: 660f.)
+COGN: Skt. _ráṃhate_ "hurry", Gr. _elaphrós_ "quick", OHG _gi-lingan_ "succeed"
+SEE: [\*lanxsman- "jump"](#lanxsman)
+ETYM: The name of the Gaulish tribe _Lingones_ may be related to this root (Delamarre). KPV 522ff. relates this verb to PIE \*(s)prengʰ- "jump" (Germ. _springen_, etc.), but the developments that need to be assumed are too complex. I prefer to follow LIV's attribution to PIE \*h₁lengʷʰ-, the phonological development is quite straightforward. The same root may be attested in PCelt. [\*legu-, \*lagu- "light"](#legu)
+REF: [EDPC]
+
+### <a id="lero">\*lēro- "complete, diligent" (adj)</a>
+GOID: OIr. _léir_ [i] "assiduous, earnest, diligent"
+W: MW _llwyr_ "utter, whole, full, total"
+BRET: OBret. _loir_ gl. _diligens_
+ETYM: None of the IE etymologies proposed so far is satisfying. The connection with Lat. _plēnus_ "full" < \*pleh₁-no- is impossible, because PCelt. \*ē must be from \*ey or \*eyH rather than \*eh₁.
+REF: [EDPC]
+
+### <a id="lestro">\*lestro- "vessel" (n)</a>
+GOID: OIr. _lestar_ [o n] "container (for liquids), vessel, ship, receptacle"
+W: OW _lestir_ gl. _rati_, MW _llestyr_, _llestr_ [m] "vessel, container"
+BRET: MBret. _lestr_ [m]
+CO: OCo. _lester_ gl. _nauis_, MCo. _lester_
+ETYM: OIr. _lestar_ might be a W loanword (the cluster -_st_- is unexpected). Both OIr. _lestar_ and W _llestr_ can also mean "beehive". A persuasive IE etymology is lacking. However, if the original meaning was actually "piece of wickerwork", or "container made of wickerwork", then we may reconstruct PCelt. \*flexstro- < PIE \*pleḱ-stro-, from the root \*pleḱ- "weave" (Gr. _plékō_, Lat. _plecto_, OHG _fleohtan_, cf. IEW 834f.).
+REF: [EDPC]
+
+### <a id="letos">\*letos "side" (n)</a>
+GOID: OIr. _leth_ [s n] "side"
+W: MW _lled_ [m] "breadth, width, half"
+BRET: MBret. _let_, _led_ "large", _led_ [m] "greatness"
+CO: Co. _les_
+PIE: \*letos ? "side"
+COGN: Lat. _latus_ "side"
+ETYM: A different etymology derives these nouns from PIE \*pleth₂es­ "breadth" (see PCelt. [\*flitano-](#flitano)), which is also possible. The OIr. preposition _la_ "with, among" [geminating, +acc.] might represent a form of PCelt. \*letos­ (presumably \*letos > \*let-s, with the second vowel lost in allegro speech). For a different etymology see de Bernardo Stempel 1999: 142; she relates the Celtic words to PIE \*plē-t-, presumably \*pleh₁-t-, but there is no trace of the laryngeal in Celtic. Another possibility is to reconstruct, with Schrijver (1994), a locative sg. of a root noun \*pleth₂- > PCelt. \*flet-i > OIr. _la_ (with early apocope of \*-i). The vocalism of Lat. _latus_ is puzzling, and this word has also other possible etymologies (cf. IEW 1018f., de Vaan 2008: 330).
+REF: [EDPC]
+
+### <a id="ligo">\*lig-o- "lick" (v)</a>
+GOID: OIr. _ligid_, -_lig_; _lilis_, -_lil_ [fut.]; _lelaig_ [prt.]
+W: MW _llyu_ (GPC _llyfu_, _llyo_, _llyu_)​
+BRET: MBret. _leat_, MoBret. _lead_
+PIE: \*leyǵʰ- "lick" (IEW: 668)
+COGN: Gr. _leíkhō_, Lat. _lingo_, OCS _lizati_
+SEE: [\*lēgā "spoon"](lega)
+REF: [EDPC]
+
+### <a id="lima">\*lim-ā- "sharpen, polish" (v)</a>
+GOID: MIr. _límaid_ "shaprens, polishes"; _limsat_ [3p.prt.]
+W: MW _llymhau_ "sharpen, whet, quicken"
+BRET: OBret. _lemhaam_ gl. _acuo_, MBret. _lemaff_, MoBret. _lemmañ_
+ETYM: These words are most probably related to Lat. _līma_ "carpenter's file", OHG _slīm_ "mud, slime", _slīman_ "make smooth", etc. The PIE root would be \*(s)ley- (IEW 663), with the suffix \*-mo- in Italic, Germanic, and Celtic. However, the length in OIr. _límaid_ is unexpected (but cf. the short vowel in 3pl.prt. _limsat_).
+REF: [EDPC]
+
+### <a id="lina">\*li-na- "stick" (v)</a>
+GOID: OIr. _lenaid_, -_len_, "remains, adheres to, follows"; _lieid_, _lia_ [subj.]; _lilid_, -_lil_ [fut.]; _lil_ [prt.]
+W: MW _llynu_ "corrupt, pollute, infect, ?smear"
+PIE: \*h₂leyH- "smear" (IEW: 662)
+COGN: Lat. _lino_, Gr. _alínein_ (Hesych.)
+ETYM: In OBret., cf. _linom_ gl. _litturam_, which is parallel to OIr. _lenamon_ [ā f], _lenamain_ "act of adhering, cleaving, following".
+REF: [EDPC]
+
+### <a id="lindu">\*lindu-, \*lindo- "liquid, lake" (n)</a>
+GOID: OIr. _lind_ [u m] "drink, liquid, ale"
+W: MW _llynn_ [m and f] "drink, lake" (GPC _llyn_)​
+BRET: OBret. _lin_ "lake", MoBret. _lenn_ "pool"
+CO: OCo. _gre-lin_ gl. _lacus_
+GAUL: _linda_ [nom.pl.] (Banassac), _Lindiacum_ [toponym]
+ETYM: GPC has two different entries, _llyn_ [m and f] "lake, pool" and _llyn_ [m] "drink, beverage". It is possible that this difference goes back to PCelt. (? \*lindo- "drink", \*lindā "pool, lake"); the basic meaning of \*lind- could have been "drinkable water" (St. Zimmer, p.c.). In principle, it would be possible to derive these words from the same root as in [\*liy-o- "flow"](liyo), but the derivation is difficult: PIE \*liH-nd-u (with unclear word formation) would give PCelt. \*līndu-, and \*ī could have been shortened either by the Celtic variant of Osthoffs law, or by Dybo's law, if it had been in the pretonic position.
+REF: [EDPC]
+
+### <a id="linkwo">\*li-n-kʷ-o- "leave, let" (v)</a>
+GOID: OIr. _léicid_, -_léici_ "leaves, lets, allows"
+PIE: \*leykʷ- "leave" (IEW: 669f.)
+COGN: Skt. _riṇákti_, Lat. _linquo_, Gr. _leípō_, Go. _leihwan_, Lith. _lìkti_
+REF: [EDPC]
+
+### <a id="linna">\*linnā "veil, cloak" (n)</a>
+GOID: OIr. _lenn_ [ā f] "cloak, mantle" (gl. _sagana_)​
+W: MW _lenn_ [f] "veil, curtain" (GPC _llen_)​
+BRET: OBret. _escei lenn_ gl. _cortina_, MoBret. _lenn_ [f] "couverture d'enfant"
+CO: OCo. _len_ gl. _sagum_
+GAUL: Gallo-Lat. _linna_ "mantle" (Isidore of Seville)​
+ETYM: Some linguists have tried to provide these words with a PIE etymology by starting from \*pltneh₂ > PCelt. \*flitnā, \*flinnā (cf. PIE \*polt­ > Croat. _plâtno_ "cloth", Germ. _Falte_ "fold"; Skt. _paṭa_- "cloth" does not belong here unless one accepts Fortunatov's law). However, \*tn should have been preserved in PCelt., and the subsequent loss of \*t should have caused the compensatory lengthening of the preceding vowel in OIr. (cf. _én_ "bird" < \*fetno-), so this etymology is improbable. More promising is to start from \*lino- "flax, linen" (Gr. _línon_, OCS _lьnъ_). W _llin_ Co. _lyn_, MBret. _lin_ and OIr. _lín_ "flax, linen" are borrowed from Lat. _līnum_ (which is compatible with \*leyno-, just as OE _līn_, which might also be a loanword from Lat.), but the inherited word for "linen, flax" could have been extended by a suffix (? \*-sno-, \*-do-, or \*-no-) and acquired the meaning "cloth" > "mantle". The cultivation of flax was widespread in Europe and the Middle East from the Neolithic times, so it is impossible to locate the source of the original word, if it was initially borrowed from some non-IE language.
+REF: [EDPC]
+
+### <a id="lino">\*līno- "flow, flood" (n)</a>
+GOID: MoIr. _líon_ "a fill, flood" (Ó Donaill)​
+W: MW _llin_ [m] "flow of blood, pus"
+BRET: MBret. _lin_
+CO: Co. _lyn_
+PIE: \*leyH- "flow" (IEW: 664f.)
+COGN: OCS _liti_ "flow, pour", Lith. _líeti_ "pour"
+SEE: [\*liy-o- "flow"](#liyo)
+ETYM: A nominal derivative from PCelt. \*liy-o- "flow". It presupposes the zero-grade of the PIE root (\*liH-no-).
+REF: [EDPC]
+
+### <a id="liro">\*liro- "sea, ocean" (n)</a>
+GOID: OIr. _ler_ [o m]
+W: OW _lirou_ [p] "seas, oceans", MW _llyr_ [m] (GPC _llŷr_)​
+ETYM: The IE etymology offered by IEW (664, from \*leyH- "flow") is unconvincing. If anything, "sea" is not "flowing" in any possible sense. Moreover, the PIE root was \*leyH- (see LIV 363f.), with a laryngeal, and there is no trace of long \*ī < \*iH in Celtic (though, admittedly, PIE \*liHró- would have been shortened to PCelt. \*liro- by Dybo's law). I believe that this word was borrowed from some non-IE substrate (the inherited word for "sea" is PCelt. [\*mori](#mori)).
+REF: [EDPC]
+
+### <a id="lissu">\*lissu- "abhorrence" (n)</a>
+GOID: OIr. _lius_ [u m] "loathing, disgust"
+PIE: \*h₂leyt- "do something hateful" (IEW: 672)
+COGN: OE _lāþ_ "loathsome", OHG _leid_ "hate", Gr. _aloitós_, _aleitḗs_ "sinner"
+ETYM: Although this etymology is speculative, the PCelt. form would be derivable straightforwardly from PIE \*h₂lit-tu-, with the expected zero-grade of the root in an abstract noun with the suffix \*-tu-.
+REF: [EDPC]
+
+### <a id="litiako">\*līti(-āko)- "accused" (adj)</a>
+GOID: OIr. _líthech_ [o] "accused person"
+COGN: Lat. _līs_, _lītis_, OLat. _slis_ (Lex Acilia: _quanti eius rei slis ae[stumata erit_ "such damages as shall have been assessed in this case")
+SEE: [\*li-yo- "accuse"](#liyo)
+ETYM: OIr. lithech is a legal term, occurring mostly in early legal tracts. It is a nominalized adjective derived from unattested \*(s)liti- "lawsuit, accusation". The connection to Lat. Ifs is compelling, but we must assume that the PCelt. word lacked the s-mobile, which is attested in Old Latin.
+REF: [EDPC]
+
+### <a id="litu">\*lītu- "feast, celebration" (n)</a>
+GOID: OIr. _lith_ [u m]
+BRET: OBret. _lit_, MoBret. _lid_ [m] "feast, rite"
+ETYM: Gaulish names with the first element _Litu_- may contain the same root (e.g. _Litu-genus_, _Litu-maros_), but they can also be related to PCelt. \*flitano- "broad". The absence of clear cognates outside Celtic means that the PCelt. reconstruction is quite uncertain (PCelt. \*flitu- would also be possible). In principle, PCelt. \*lītu- can be derived from \*liH-tu- "flowing (of drinks/libations)", from the PIE root \*leyH- "flow" (see PCelt. [\*liy-o­ "flow"](#liyo)), but this is, of course, merely a root etymology.
+REF: [EDPC]
+
+### <a id="liwank">\*līwank- "stone, pillar" (n)</a>
+GOID: OIr. _líe_, _lïa_; _lïac_ [gen.sg.]
+PIE: \*leh₁- "stone" (IEW: 683)
+COGN: Gr. (Hom.) _lãas_ "stone", _leúō_ "to stone", Myc. _ra-e-ja_, Alb. _lerë_ "rock slip, boulder"
+ETYM: MoBret. _liac'h_ "stone" is a borrowing from Goidelic. It. _lava_ "lava", Fr. dial. _lave_, Pr. _lavo_, _lauvo_ "flat stone" may be from Gaul. \*lawā < \*lh₁w-. Gallo-Lat. _lausiae_ "pebbles in a stone-quarry" (cf. Fr. _lause_, _lauze_ "pierre plate utilisée comme dalle") may be from an old s-stem \*laws-< \*lh₁us-, cf. also Fr. _losange_ "lozenge" and the toponym _Lausanne_, which may be from \*laws-on- < \*lh₁u-s-on-, or \*lh₁us-h₃en-, with the possessive suffix \*-h₃en-. If the etymology is correct, we should probably reconstruct an u-stem in PIE, with nom.sg. \*leh₁u-s, gen.sg. \*lh₁w-os. OIr. _líe_ preserved the full-grade of the nom.sg.
+REF: [EDPC]
+
+### <a id="liwo-1">\*līwo- "stream" (n)</a>
+SEE: [\*li-yo- "flow"](#liyo)
+REF: [EDPC]
+
+### <a id="liwo-2">\*liwo- "color" (n)</a>
+GOID: OIr. _lí_ [? f, perhaps earlier n] "complexion, beauty, color"
+W: OW _liu_ [m], MW _lliw_
+BRET: OBret. _liou_, MBret. _liu_, MoBret. _liw_ [m]
+CO: OCo. _liu_ gl. _color_, MCo. _lyw_
+PIE: \*(s)liHwo- "blue" (IEW: 967)
+COGN: Lat. _līuor_, _līuidus_, OCS _sliva_ "plum", OE _slāh_ "sloe"
+ETYM: OIr. _lí_ is often indeclinable. Gaul. _Lionus_ [PN] may be derivable from the same root (Delamarre).
+REF: [EDPC]
+
+### <a id="#liyant">\*liy-ant- "flood" (n)</a>
+SEE: [\*liy-o- "flow"](#liyo)
+REF: [EDPC]
+
+### <a id="#liyo">\*liy-o- "charge, accuse" (v)</a>
+GOID: OIr. _liid_, -_lí_; _líthae_, -_líth_ [pass.] "accuses"
+PIE: \*sleyH- "accuse" (IEW: 650f.)
+COGN: Lat. _līs_, _lītis_ "strife, accusation"
+SEE: [\*līti-(āko)- "accused"](#litiako)
+ETYM: Perhaps related is Celtib. _litom_ (?) "what is permitted" (Botorrita I), cf. Meid 1994a: 17f. However, this Celtib. form allows many other etymological interpretations including, e.g., PCelt. \*lixtom < \*likʷ-to- (from the root \*leykʷ- "to leave", Lat. _linquo_, OIr. _léicid_, etc.).
+REF: [EDPC]
+
+### <a id="#liyo-2">\*liy-o- "flow" (v)</a>
+W: MW _dillydd_ [3s.prs.]
+PIE: \*leyH- "flow" (IEW: 664f)​
+COGN: OCS _liti_, Lith. _líeti_
+SEE: [\*līno- "flow, flood"](#lino)
+ETYM: W _dillydd_ < \*dī-exs-liy-o- (the simplex verb is unattested). Derived from the same root are W _lli_, _llif_ [m] Co. _lyf_, "stream, flow" (< \*līwo-). OIr. _li(a)e_ "flood" and W _lliant_ "flood, flux" can be old present participles of this verbal root (PCelt. \*liy-ant-).
+REF: [EDPC]
+
+### <a id="#loferno">\*loferno- "fox" (n)</a>
+W: MW _llewyrn_ [coll., sometimes m] "foxes", W _llwyrn_, _llwyrn_ "will­ o'-the-wisp, _ignis fatuus_"
+BRET: MBret. _louarn_, MoBret. _louarn_, _lowern_ [m]
+CO: OCo. _louuern_ gl. _vulpes_, Co. _lowarn_
+PIE: \*h₂lop- "fox"
+COGN: Skt. _lopāśá_- "fox, jackal", Gr. _alṓpēks_ "fox", Lith. _lãpė_ "fox", Arm. _ałuēs_ "fox"
+REF: [EDPC]
+
+### <a id="loku">\*loku- "lake, pool" (n)</a>
+GOID: OIr. _loch_ [u n]
+PIE: \*loku- "pond, pool" (IEW: 653)
+COGN: Lat. _lacus_, Gr. _lákkos_, OE _lagu_, OCS _loky_
+ETYM: W _llwch_ (OW _lichou_) and OBret. _loch_, MoBret. _loc'h_ "lake, pond" are either loanwords from Goidelic, or point to a geminate \*lokku-. MBret. _laguenn_ "inundated field" and OCo. _lagen_ gl. _stagnum_ are probably borrowed from Lat. _lacus_ (this would explain the vocalism). The difficulties presented by the IE cognates can be resolved if one starts from a PIE ablauting paradigm with nom.sg. \*loku-s, gen.sg. \*lkew-s (Matasović 2004: 104).
+REF: [EDPC]
+
+### <a id="lomana">\*lomanā "rope, thong" (n)</a>
+GOID: OIr. _loman_ [ā f] "rope, leash, thong, bridle"
+W: W _llyfan_ [f and m]
+BRET: MW _louffan_, MoBret. _louan_ [m]
+CO: Co. _lovan_
+ETYM: W _llyfan_ is attested only very late (19th century). The reconstruction is uncertain, since all of the attested forms might go back to \*lumanā as well as \*lomanā (Schrijver 1995: 31). The lack of cognates in other IE languages makes it probable that this word was borrowed from some non-IE source.
+REF: [EDPC]
+
+### <a id="longa">\*longā "boat, vessel" (n)</a>
+GOID: OIr. _long_ [ā f]
+W: MW _llong_ [f]
+BRET: OBret. _locou_ [p]
+GAUL: _Longaticum_ [toponym] (= _Nau-portus_ in Pannonia)​
+ETYM: It has been argued that this word is an old pan-Celtic loanword from Latin, derived from Lat. _(nāuis) longa_ (note the equivalence of Gaul. _Longaticum_ and Lat. _Nauportus_). However, I believe it is more probable that we are dealing with an inherited Celtic word for "vessel", with unknown etymology, cf. also McCone 1993 for arguments against borrowing from Latin. Cisalpine Gaul. _LOKAN_ may be the same word in the acc.sg. (the alphabet used in Todi would render /ng/ as _K_).
+REF: [EDPC]
+
+### <a id="lorgo">\*lorgo- "trace" (n)</a>
+GOID: MIr. _lorg_ [o m]
+W: MW _llwrw_, _llwry_ [m]
+BRET: OBret. _lerg_, MoBret. _lerc'h_ [m]
+CO: Co. _lergh_
+ETYM: The vocalism of MoBret. _lerc'h_ and Co. _lergh_ points to a variant \*lorgyo- (Jackson 1967: 716), or \*lergo-, cf. also Gaul. ethnonym _Au-lerci_, which has been interpreted as "those who are far away from their traces" (Lambert 1994: 36). Pedersen (I 105) compares Arm. _ołork_ "smooth", but this is more likely to be a chance similarity.
+REF: [EDPC]
+
+### <a id="lorga">\*lorgā "stick, club" (n)</a>
+GOID: OIr. _lorg_ [ā f] "staff, stick, club"
+W: MW _llwry_, _llory_ [m]; _llyry_ [p]
+BRET: MoBret. _lorc'henn_ [f] "shaft", also "vane woman", _lorc'h_ [m] "vanity, strong impression"
+CO: OCo. _lorch_ gl. _baculus_, MCo. _lorgh_
+PIE: \*lorg-o- "club" (IEW: 691f.)
+COGN: ON _lurkr_ "club"
+ETYM: The ON word is possibly a loanword from Celtic. If so, the Celtic word is isolated in IE, and may have been borrowed from some non-IE language.
+REF: [EDPC]
+
+### <a id="lowatro">\*lowatro- "bath" (n)</a>
+GOID: OIr. _loathar_ [o n]
+BRET: MBret. _lovazr_
+GAUL: _lautro_ gl. _balneo_ (Endlicher's Glossary)​
+PIE: \*lowh₃tro- "bath" (IEW: 692)
+COGN: Lat. _lauābrum_, Gr. Hom. _loetrón_, OE _lēaþor_ "soap-foam"
+ETYM: The identity of the laryngeal in the PIE reconstruction seems to be assured by Myc. _re-wo-to-ro_- = Hom. _loetrón_ (with metathesis \*ewo- > \*owe-).
+REF: [EDPC]
+
+### <a id="lowdo">\*lowdo- "obstacle" (n)</a>
+GOID: MIr. _lod_ [o m] "fence"(?)
+W: MW _lludd_ "obstacle, hindrance"
+BRET: MBret. _luz_ "obstacle"
+PIE: \*lowdʰ-o- "obstacle"
+COGN: Skt. _rudh_- "hinder", _ródhas_- "obstacle"
+ETYM: MIr. _lod_ is a rather obscure technical term from the legal language; DIL renders its meaning as "one of three perishable fences"; it can be related to MW _lludd_ only if the original form was _lód_ (from which we would expect _lúad_ in MIr., but we may be dealing with the archaism of the legal language). The PIE root is not in IEW, but the correspondence with the Skt. root _rudh_- is perfect, both formally and semantically.
+REF: [EDPC]
+
+### <a id="lowko">\*lowko- "bright, light" (adj)</a>
+GOID: MIr. _luach_ (_lóch_) [o] "glowing white"
+W: MW _llug_ [m] "eyesight, perception"
+GAUL: _Leucus_ [PN]
+PIE: \*lewko- "bright, shining" (IEW: 687ff.)
+COGN: Lat. _lūx_ "light", Go. _liuhaþ_ "light", Gr. _leukós_ "white", ToB _lyūke_ "light"
+SEE: [\*luk-o- "perceive"](#luko)
+ETYM: The same PCelt. root is presumably attested in MW llygad "eye" [m and f], OCo. lagat gl. oculus, Co. lagas, MBret. lagat, MoBret. lagat [m] (PCelt. \*lukato-?). The semantic connection of "light" and "eye" is based on a common metaphor (note that Lat. luces can also mean "eyes").
+REF: [EDPC]
+
+### <a id="lowteto">\*lowteto- "muddy" (adj)</a>
+SEE: [\*lutā "dirt"](#luta)
+REF: [EDPC]
+
+### <a id="lowtu">\*lowtu- "ash" (n)</a>
+GOID: MIr. _lúaith_ [i f]
+W: MW _lludw_ [m] (GPC _lludw_, _lludu_)​
+BRET: MBret. _ludu_ [m]
+CO: Co. _lusow_
+ETYM: MIr. _lúaith_ points to \*lowtwi-, which may represent a secondary i­-stem form an earlier u-stem \*lowtu-. MW _lludw_ is best explained from \*lowtwo-. Pokorny's connection of these words with PIE \*lewh₃- "wash" (Lat. _lauo_, Gr. _loúō_, Arm. _loganam_ "bathe", cf. IEW 692, LIV 375) is possible, under the assumption of the loss of laryngeal (by de Saussure's law, \*owH > \*ow?). The original sense of PCelt. \*lowtu- would have been "washing substance" (cf. PCelt. [\*lowatro- "bath"](#lowatro)). Another possibility would be to relate these words to PCelt. [\*lutā "mud, dirt"](#luta), from a root without a laryngeal.
+REF: [EDPC]
+
+### <a id="loyda">\*loydā "poem, lay" (n)</a>
+SEE: [\*loyd-o- "exhort"](#loydo)
+REF: [EDPC]
+
+### <a id="loydo">\*loyd-o- "exhort, incite" (v)</a>
+GOID: MIr. _laídid_
+PIE: \*leyd- "let go, play" (IEW: 666)
+COGN: Lat. _lūdo_ "play", Lith. _láidyti_ "throw"
+ETYM: OIr. _laídid_ may be the denominative verb to OIr. _laid_ [?ā f] "poem, lay" < \*loydā. Cf. also Gr. _lízei_ "plays" (Hesych.), which is not completely reliable as a cognate. Although formally flawless, the etymology relating Lat. _lūdo_ and MIr. _laídid_ is problematic both because of the difference in meaning, and because the o-grade in the root is unexpected (unless we have to do with the intensive presents of the type Lat. _fodio_ "dig", OCS _bosti_ "sting" < PIE \*bʰodʰ-).
+REF: [EDPC]
+
+### <a id="lubo">\*lub-o- "love" (v)</a>
+GAUL: _lubi_ [ipv.] (Banassac)​
+PIE: \*lewbʰ- "love" (IEW: 683)
+COGN: Lat. _lubīdō_ "sexual desire", OE _lēof_ "love", OCS _ljubiti_ "love"
+ETYM: Although this verb is unattested in Insular Celtic, the meaning of the Gaul. forms derived from \*lub-o- appears well established. Cf. also the Celtib. PN _Lubos_ (Botorrita I), which may also be related.
+REF: [EDPC]
+
+### <a id="lubi">\*lubī/ā "herb, plant" (n)</a>
+GOID: OIr. _luib_ [ī? and ā f]
+W: OW _luird_ [p] gl. _horti_, MW _lluarth_
+BRET: OBret. -_lub_, -_lob_, MBret. _lou_
+PIE: \*(h₃)lewbʰ - "leaf" (IEW: 690)
+COGN: OHG _loub_ "leaf", Lat. _liber_ "bark, rind", Russ. _lub_ "bark", Lith. _lubà_ "plank"
+ETYM: OW _luird_ is the plural to \*luord, which is the compound corresponding to MBret. _luorz_, _lyorz_ "garden", Co. _lowarth_, OIr. _lub-gort_. OIr. _luib_ inflects mostly as an a-stem, but nom.pl. _luibi_ may indicate that it had been originally an ī-stem. The Celtic, Baltic, and Italic forms are from the zero grade of the PIE root (\*lubʰ-), while the Germanic and Slavic forms come from the o-grade (\*lowbʰ-). If Gr. _olóuphō_ "peel" (Hesych.) is related, the correct PIE reconstruction is \*h₃lewbʰ-. I do not see the need to suppose that any of these words are loanwords from non-IE sources (cf. Beekes 1996).
+REF: [EDPC]
+
+### <a id="lud">\*lud- "went" (v)</a>
+GOID: OIr. _luid_ "went" [prt.]
+PIE: \*h₁ludʰ- "grow, tread" (IEW: 684f., 306f.)
+COGN: Skt. _ródhati_ "grows", Go. _liudan_ "grow", ToB _lac_ "went out"
+ETYM: Judging by OIr. _téit_ "goes", pret. _luid_, the form \*lude- was a suppletive thematic aorist of the verb "to go" in PCelt., cf. also Gr. (Hom.) _ḗlythe_ "he went".
+REF: [EDPC]
+
+### <a id="lugiyo">\*lugiyo- "oath" (n)</a>
+GOID: OIr. _lugae_ [io n] (DIL _luige_)​
+W: MW _llw_ [m and f]; _llyfon_, _llyain_, _llwon_ [p]
+BRET: MBret. _le_, MoBret. _le_ [f]
+CO: Co. _gov-lya_ "to swear falsely"
+PIE: \*h₂lewgʰ- (IEW: 687)
+COGN: Hitt. _haluga_- "news, message", Go. _liuga_ "marriage", _liugan_ "marry, lie"
+ETYM: OBret. _di-lu_ gl. _detestantur_ probably also contains this root. The semantic connection of the Celtic forms with those in other languages is weak, so this etymology is rather speculative.
+REF: [EDPC]
+
+### <a id="lugra">\*lugrā "moon" (n)</a>
+W: OW _loyr_, MW _lloer_ [f]
+BRET: OBret. _loir_, _loer_, MBret. and MoBret. _loar_ [f]
+CO: OCo. _luir_ gl. _luna_, Co. _lo(e)r_
+PIE: \*lewg- "to bend, twist" (IEW: 685f.)
+COGN: Gr. _lygízō_ "bend", Lith. _lùgnas_ "twisted", Skt. _rujáti_ "breaks"
+ETYM: The semantics of this derivation are somewhat stretched; however, this can be remedied if one starts from the meaning "young moon" as "twisted, bent". Pokorny's (IEW 690) connection with the root \*lewk- "to shine" (Lat. _lūx_, etc.) is implausible from the phonological point of view (there is no evidence for the variant of this root with a voiced velar). A different etymology is offered "as a mere possibility" by Schrijver (1995: 332). He relates W _lloer_ etc. to Lat. _lūridus_ "pale, yellow", from a putative PIE \*lows-.
+REF: [EDPC]
+
+### <a id="lugu">\*Lugu- "god Lug", perhaps originally "the shiny one" (n)</a>
+GOID: OIr. _Lug_ [PN], Ogam _LUGU-DECCAS_
+W: MW _Llew_
+GAUL: _Lugus_ (e.g. RIG G-159)
+CELTIB: _LUGUEI_ [dat.sg.] (Peñalba)​
+ETYM: Cf. the parallelism of the compound PNs OIr. _Lugaid_ (Gen _Luigdech_), Ogam _LUGUDECCAS_ (CIIC no. 263) and Gaul. _Lucudeca_ "serving the god Lug" < PCelt. \*Lugu-dek-s (Uhlich 2002: 409). For the second element of this compound see PCelt. [\*dekos](#dekos).
+REF: [EDPC]
+
+### <a id="luko">\*luk-o- "see, perceive, set eyes upon" (v)</a>
+W: W _gorllwyn_ "expect, perceive, follow"
+PIE: \*lewk- "shine" (IEW: 687)
+COGN: Hitt. _lukk_- "to get light, dawn", Skt. _rócate_ "shines", OLat. _lūceo_ "make light", OPr. _luckis_ "torch, log", ToB _luk_- "to shine"
+SEE: [\*lowko- "bright"](#lowko)
+ETYM: W _gorllwyn_, _gorllygaf_ [1s.prs.] < \*ufor-luk-o- (the simplex verb is unattested). From the same root there is OW _licat_ (MW _llygat_) "well, source", OCo. _lagat_ gl. _oculus_, MBret. _lagat_. The words for "well" and "eye" are etymologically related in many languages, cf. Persian _časme_ "well, source, eye".
+REF: [EDPC]
+
+### <a id="lukot">\*lukot- "mouse" (n)</a>
+GOID: OIr. _luch_ [t f]
+W: MW _llygoden_ [sing.]; _llygod_ [p]
+BRET: OBret. _foe_, MoBret. _logodenn_ [sing.]
+CO: OCo. _logoden_ gl. _mus_ [sing.], MoCo. _logaz_
+GAUL: _Lucotios_ [PN]
+ETYM: The IE etymology is unknown. Pedersen's connection with Lith. _pelễ_ "mouse", Gr. _poliós_ "gray" has little to recommend itself. A PCelt. \*flukot- < PIE \*plukot- would be completely intransparent from the point of view of word formation. Thus, PCelt. \*lukot- is probably a loanword from some non-IE language.
+REF: [EDPC]
+
+### <a id="lungo-1">\*lu-n-g-o- "put, place" (v)</a>
+GOID: OIr. _fo-loing_ "support"; _fo-ló_ [subj.]; _fo-lil_ [fut.]; _fo-lolaig_ [prt.]; _fo-locht_ [pass.]
+W: MW _dillwng_ "set free" (GPC _dillwng_, _dillyngio_)​
+PIE: \*lewg- "bend" (IEW: 685f.)
+COGN: Lat. _luctor_ "wrestle", Go. _ga-lūkan_ "close"
+ETYM: MW _dillwng_ < \*dī-exs-lu-n-g-o-. Cf. also OIr. _in-loing_ "connect", MW _ellwng_ "set free"(< \*exs-lung-o-).
+REF: [EDPC]
+
+### <a id="lungo-2">\*lu-n-g-o- "eat" (v)</a>
+SEE: [\*slu-n-k-o- "swallow"](#slunko)
+REF: [EDPC]
+
+### <a id="lussu">\*lussu- "herb, vegetable" (n)</a>
+GOID: OIr. _lus_ [u m] "herb, plant, garden herb"
+W: MW _llysieu_, (GPC _llysiau_, _llysau_) [coll.]
+BRET: MBret. _lousou_, MoBret. _lousow_ [p]
+CO: Co. _losow_ [p]
+ETYM: OIr. _lus_ has also the more specific meaning "leek". Brittonic words for "bilberries" (W _llus_, MoBret. lus) are probably not related, because they denote altogether different kinds of plants (_pace_ Deshayes 2003: 480). Pokorny's derivation of these words from PIE \*h₁lewdʰ- "grow" (Skt. _ródhati_, Go. _liudan_, cf. also Gr. _eleútheros_ "free" < "grown up") is possible (PIE \*h₁ludʰ-tu- would yield PCelt. \*lussu- regularly, cf. also MIr. _indlos_, _indlas_ [o m] "growth, riches" < \*ande-lussu-).
+REF: [EDPC]
+
+### <a id="luta">\*lutā "mud, dirt" (n)</a>
+GOID: OIr. _loth_ [ā f] "mud, mire"
+GAUL: _Luto-magus_, _Lutetia_ (Paris) [toponyms]
+PIE: \*lew-to- "mud, dirt" (IEW: 681)
+COGN: Lat. _lutum_ "mud", _po-lluo_ "make dirty, infect", Alb. _lum_ "slime, dirt"
+ETYM: In W, we have _lluddedic_ < \*lowd-eto- "muddy" (dissimilated from \*lowt-eto-) with the full grade of the same root. A Celtiberian cognate might be incorporated into _lutiakos_ (A.76) "belonging to \*Lutia", where \*Lutia would be a toponym derived from PCelt. \*lutu-. Lith. _liūtýnas_ "puddle" is sometimes adduced as belonging to the same PIE root, but it is probably unrelated (the accentuation points to a laryngeal root).
+REF: [EDPC]
+
+### <a id="lutu">\*lūtu- "anger, power" (n)</a>
+GOID: OIr. _lúth_ [u m] "power of motion, vigour"
+W: MW _llid_ [m] "anger"
+GAUL: _Lutu-marus_ [PN]
+PIE: \*lewH-to- "angry" (IEW: 691)
+COGN: OCS _ljutъ_ "angry"
+ETYM: The Gaulish PN _Lutumarus_ has the exact parallel in OIr. _lúthmár_ "powerful". The IE part of this etymology is somewhat speculative, since it relies only on Celtic and Slavic; moreover, the Celtic forms must be from \*luHtu-, while OCS _ljutъ_ must represent \*lewHto-.
+REF: [EDPC]
+
+### <a id="luwa">\*luwā "louse" (n)</a>
+W: MW _lieu_ (GPC _llau_) [p]; _lleuen_ [sing.]
+BRET: MBret. _louenn_ [sing.], _lou_ [coll.], MoBret. _low_
+CO: OCo. _lewen(ki)_ gl. _pediculus_, MoCo. _low_
+PIE: \*lewH- "louse" (IEW: 692)
+COGN: OE _lūs_, ON _lús_
+ETYM: The PCelt. form is compatible with both PIE \*lowHo- > \*luwo-, and with PIE \*luHo- > \*luwo-. The Germanic reflexes contain a sigmatic suffix (PIE \*luHs-). Skt. _yū́kā_- "louse" might be from \*luH-keh₂, but \*y­ instead of \*r- is unexplained. ToA _lu_ "animal" (ToB _luwo_) might also be ultimately from the same PIE root, but with an unusual generalization of meaning.
+REF: [EDPC]
+
+### <a id="luwo">\*luw-o- "escape" (v)</a>
+GOID: OIr. _as-loí_; _as-loa_ [subj.]
+PIE: \*lewH- "cut off, set free" (IEW: 681f.)
+COGN: Gr. _lýō_, Lat. _luo_ "pay, release from debt", _so-luo_ "release"
+SEE: [\*lawano- "provisions, food, sustenance"](#lawano)
+ETYM: OIr. _as-loí_ < \*exs-luw-o- (the simplex is unattested in Goidelic).
+REF: [EDPC]
+
+### <a id="luxsman">\*luxsman- "drop, a sip" (n)</a>
+GOID: OIr. _loimm_ [n n] "sip, mouthful", later "milk"
+W: MW _llymeit_, (GPC _llymaid_) [m] "a sip, drink"
+BRET: OBret. _lom-coll_ gl. _sucus arboris_, MoBret. _loum_, _lomm_ "drop"
+ETYM: It is assumed here that the formation in OIr. is original; MoBret. _lomm_ can be from the same prototype. The IE etymology is unknown, but a connection with Lith. _liū̃gas_ "puddle", Russ. _lúža_ "puddle, pool" is possible(? from PIE \*lewg- "liquid"; however, Derksen 2008: 293 thinks that the Baltic and Slavic words were borrowed from some unknown substrate).
+REF: [EDPC]
+
+### <a id="luxtu">\*luxtu- "contents; crowd, people" (n)</a>
+GOID: OIr. _lucht_ [u m] "charge, contents, people"
+W: OW _luidt_, _luith_ [m] "tribe, lineage, family", MW _luith_, (GPC _llwyth_)​
+BRET: OBret. _loit_ gl. _oppidanus_
+CO: OCo. _leid_ gl. _progenies_
+GAUL: _luxtos_ [?gen.sg.] (La Graufesenque)​
+ETYM: The etymology in IEW (686) deriving these Celtic words from PIE \*lewǵ- "break" is not convincing because of the difference in meaning. In Celtic, the basic meaning is "contents" from which the meaning "people" developed in a similar manner as in Lat. _plēbs_ < \*pleh₁- "be full". The word may have been borrowed from some non-IE language.
+REF: [EDPC]
