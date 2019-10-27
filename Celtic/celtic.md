@@ -1152,7 +1152,7 @@ ETYM: The fact that the vocalism of OIr. does not agree with the (expected) o-gr
 REF: [EDPC]
 
 ### <a id="bena">\*benā, \*bena "woman" (n)</a>
-GOID: OIr. _bé_ [n], _ben_ [f], _mná_ [Gens],
+GOID: OIr. _bé_ [n], _ben_ [f], _mná_ [gen.sg.],
 W: OW _ben_ [f]
 BRET: MBret. _e-ben_ "other", lit. "his wife"; OBret. _ban-leu_ gl. _lene_
 CO: OCo. _benen_ gl. _sponsa_
