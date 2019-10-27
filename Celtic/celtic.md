@@ -608,7 +608,7 @@ REF: [EDPC]
 GOID: OIr. _art_ [o m] "bear, hero, warrior"
 W: MW _arth_ [m and f]
 BRET: OBret. _Ard-, Arth_-, MoBret. _arzh_ [m]
-GAUL: _Artio_ [Theonym]
+GAUL: _Artio_ [theonym]
 PIE: \*h₂rtko- "bear" (IEW: 845)
 COGN: Hitt. _hartagga_-, Skt. _ŕ̥kṣa_-, Gr. _árktos_, Lat. _ursus_, Alb. _arí_
 ETYM: Basque _hartz_ "bear" is presumably a Celtic loanword. The development of the syllabic resonant \*r > _ar_ before a stop is probably to be explained by assuming a special development of the cluster \*tḱ (to \*þ or \*xþ) and that this cluster behaved like the fricative \*s when the syllabic resonant developed vocalic prothesis (but cf. PCelt. \*mrixto-, which shows that original, non metathesised \*kt was preserved in Celtic until the development of the prothesis in syllabic resonants). Thus we had \*h₂rtḱos > \*(H)rxþos > \*arxþos > \*artos, but \*mrktos > \*mriktos > \*mrixtos. Another, in my opinion less probable explanation, would involve positing a special rule \*h₂rC > \*arC before CRC > CriC (Joseph 1982: 50f.).
@@ -1773,7 +1773,7 @@ REF: [EDPC]
 GOID: OIr. _buiden_ [ā f]
 W: MW _byddin_ [f]
 BRET: OBret. _bodin_ gl. _manus_
-GAUL: \*budīnā > Late Latin _bodina_ "frontier"; _Budenicus (Mars)_ [Theonym] (CIL XII 2973)
+GAUL: \*budīnā > Late Latin _bodina_ "frontier"; _Budenicus (Mars)_ [theonym] (CIL XII 2973)
 ETYM: These words might be related to PCelt. \*bowdi- "booty, victory".
 REF: [EDPC]
 
@@ -1846,7 +1846,7 @@ GOID: OIr. _both_ [ā f] "hut"
 W: MW _bod_ [f] "dwelling, place"
 BRET: OBret. _Bot_- (in place-names), MoBret. _bod_ [f]
 CO: Co. _bod, bos_
-ETYM: There is a possible connection to Lith. _bùtas_ "home, house", OLith. _butà_, Oic. _búð_ "house, residence". One could reconstruct PIE \*bʰuh₂tó- (from the root \*bʰewh₂- "be", cf. PCelt. \*bu-yo-) and derive the Celtic form by Dybo's law (note that the the Lithuanian words have mobile accentuation, implying a PIE oxytone). However, Baltic also has short \*u, so a reconstruction \*bʰh₂uto- has also been proposed to account for it, but to me this seems _ad hoc_. In light of these difficulties it may be assumed that PCelt. \*butā was borrowed from some unknown language, IE or non-IE (words for huts and houses are often _Wanderwörter_).
+ETYM: There is a possible connection to Lith. _bùtas_ "home, house", OLith. _butà_, OIc. _búð_ "house, residence". One could reconstruct PIE \*bʰuh₂tó- (from the root \*bʰewh₂- "be", cf. PCelt. \*bu-yo-) and derive the Celtic form by Dybo's law (note that the the Lithuanian words have mobile accentuation, implying a PIE oxytone). However, Baltic also has short \*u, so a reconstruction \*bʰh₂uto- has also been proposed to account for it, but to me this seems _ad hoc_. In light of these difficulties it may be assumed that PCelt. \*butā was borrowed from some unknown language, IE or non-IE (words for huts and houses are often _Wanderwörter_).
 REF: [EDPC]
 
 ### <a id="buyo">\*bu-yo- "be, become" (v)</a>
@@ -1948,7 +1948,7 @@ GOID: OIr. _dam_ [o m] "bull, deer"
 W: MW _dafad_ [f] "sheep"; _defaid, defeidiau_ [p]
 BRET: MoBret. _dañvad_
 CO: OCo. _dauat_ gl. _ouis_
-GAUL: _Damona_ (?) [Theonym], Gallo-Lat. _damma_ (> Fr. _daim_) "roe"
+GAUL: _Damona_ (?) [theonym], Gallo-Lat. _damma_ (> Fr. _daim_) "roe"
 PIE: \*dmh₂o- "the tamed one" (IEW: 199f.)
 COGN: Skt. _damya_- "young bull to be tamed", Alb. _dem_ "bull, steer"
 ETYM: The Celtic a-vocalism is best explained by starting from a proto­ form \*dm-Ho-, with syllabic \*m. The Brit. forms point to a derivative \*damato- (< \*dmh₂eto-) rather than \*damo- > OIr. dam. The PIE root \*demh₂ is presumably also reflected in the British tribal name _Demetae_ (> MW _Dyfed_), which can be interpreted as "Tamers".
@@ -2184,7 +2184,7 @@ GOID: OIr. _dess_ [o]
 W: MW _dehau, deheu_ (GPC _deau, de_)​
 BRET: OBret. _dehou_, MBret. _deho, dechou_, MoBret. _dehou, dehow_
 CO: Co. _dehow, dyghow_
-GAUL: _Dex(s)iua_ [Theonym]
+GAUL: _Dex(s)iua_ [theonym]
 PIE: \*deḱs-wo- "right" (IEW: 190)
 COGN: Lat. _dexter_, Gr. _deksiterós_, OCS _desnъ_, Alb. _djathtë_
 ETYM: The Insular Celtic forms are derivable from \*dexswo-, while the Gaulish name _Dexsiua_ points to \*dexsiwo-, which is the expected form, in light of the cognates in other IE languages (cf. also Gr. _deksiós_ < \*deḱsiwo-). The meaning "south" is derived from the main principle of orientation in the Celtic and IE tradition, by facing the rising sun (cf. also OIr. _túath_ "left, north" < PCelt. \*towto-.
@@ -2778,7 +2778,7 @@ GOID: OIr. _eter_ [aspirating in MIr., +acc.]
 W: OW _ithr_, MW _ythr_
 BRET: OBret. _entr_-, MBret. _intre_
 CO: Co. _yntre, ynter_
-GAUL: _Entarabo_ [Theonym dat. p]
+GAUL: _Entarabo_ [theonym dat.pl.]
 CELTIB: _entara_ (Botorrita I)
 PIE: \*h₁enter "into, between" (IEW: 313)
 COGN: Skt. _antár_, Lat. _inter_, OHG _untar(i)_, Alb. _ndër_
@@ -3166,7 +3166,7 @@ GOID: OIr. _én_ [o, m]
 W: MW _edn_ [m]; _ednod_ [p]
 BRET: MBret. _ezn_, MoBret. _evn_ [m]
 CO: Co. _hethen, ethen_
-GAUL: _Etnosus_ [Theonym]
+GAUL: _Etnosus_ [theonym]
 PIE: \*pet- "fly" (IEW: 825f.)
 SEE: [\*fatar "bird"](#fatar)
 ETYM: The thematic stem \*fetno- is presumably generalized from the oblique cases of the old heterocliton \*fatar, gen.sg. \*fetnos (perhaps later reshaped as gen.sg. \*fatanos).
@@ -3355,7 +3355,7 @@ GOID: OIr. _lethan_ [o]
 W: MW _llydan_ "broad"; OW _Litau_ "Brittany", W _Llydaw_ "id."
 BRET: OBret. _litan_, MoBret. _ledan_; OBret. _Letau_ "Brittany"
 CO: Co. _ledan_
-GAUL: _Litana (silua)_ [toponym], _Litaui_ [Theonym]
+GAUL: _Litana (silua)_ [toponym], _Litaui_ [theonym]
 PIE: \*plth₂u- "broad", \*plth₂wih₂ "the broad one" [f] (IEW: 806, 833)
 COGN: Skt. _pṛthivī́_- "earth", Gr. _Plátaia_ [toponym]
 SEE: [\*fletyo- "shoulder, shoulder-blade"](#fletyo)
@@ -3665,7 +3665,7 @@ GOID: OIr. _gaibid_, -_gaib_; -_gaba_ [subj.]; -_géba_ [fut.]; _gabais_, -_gab_
 W: OW _ad-gabael_, MW _caffael_ "get, receive", _keiff_ [3s.prs.]; _cauas_ [prt.]
 BRET: MBret. _caffout_
 CO: OCo. _gauael_ gl. _prehensio_
-GAUL: _gabi_ [2s Impv.] ?_Gabiae_ [Theonym]
+GAUL: _gabi_ [2s Impv.] ?_Gabiae_ [theonym]
 CELTIB: _kabizeti_ [3s] (Botorrita I)
 PIE: \*gʰHbʰ- (IEW: 407ff.)
 COGN: Lat. _habeo_ "have"
@@ -3993,7 +3993,7 @@ GOID: OIr. _glan_ [o], Ogam _GLANNANI_
 W: MW _glan_ (GPC _glân_)​
 BRET: OBret. _glan_, MBret. _glan_
 CO: Co. _glan_
-GAUL: _Glanis_ [hydronym], (Matrebo) Glaneikabo [Theonym]
+GAUL: _Glanis_ [hydronym], (Matrebo) Glaneikabo [theonym]
 ETYM: Pokorny's derivation of these words from the root for "green, yellow" (\*ǵʰelh₃- , IEW 429, cf. [\*gel(w)o-](#gelo)) is formally difficult (? \*ǵʰlh₃nó- > \*glānó-, then \*glano- by Dybo's law) and semantically not quite convincing (? "yellow" > "bright" > "clear, clean").
 REF: [EDPC]
 
@@ -4112,7 +4112,7 @@ GOID: OIr. _gobae_ [n m]
 W: MW _gof_ [m]
 BRET: MBret. _gof(f)_, MoBret. _gov_
 CO: OCo. _gof_ gl. _faber_
-GAUL: _Gobano_ [PN], _Cobanno_ [Theonym, dat.] _gobedbi_ [dat.pl.] (Alise)
+GAUL: _Gobano_ [PN], _Cobanno_ [theonym, dat.] _gobedbi_ [dat.pl.] (Alise)
 ETYM: Cf. also OBret. _gobail_ gl. _officina_ = MW _geueil_, Co. _gofail_. Gaul. _gobedbi_ may represent a further derivative, PCelt. \*gob-et- (for the type of formation cf. [\*kenget- "warrior"](#kenget)). The IE etymology is unknown. A comparison with Lat. _faber_ "craftsman, artisan" has been proposed long ago (Mac Bain 1911: 200, revived by Blazek 2006). It is possible if one starts from PIE \*gʷʰobʰ- or \*gʰwobʰ- (with \*o > _a_ after labials in Latin, as in _mare_ "sea" < \*mori), but _faber_ is usually connected with Arm. _darbin_ "smith" < \*dʰHbʰ-ro-.
 REF: [EDPC]
 
@@ -4261,7 +4261,7 @@ REF: [EDPC]
 ### <a id="gustu">\*gustu- "excellence, force" (n)</a>
 GOID: OIr. _guss_ [u m], Ogam _CUNA-GUSSOS_
 W: OW _Gur-gust_ [PN], W _gwst_ [f and m]; _gystion_ [p] "pain, endurance, patience, difficulty"
-GAUL: _gussou_ [dat. s] "? force" (Lezoux)
+GAUL: _gussou_ [dat.sg.] "? force" (Lezoux)
 PIE: \*ǵus-tu- "choose, taste" (IEW: 399f.)
 COGN: Lat. _gustus_ "tasting", OE _cost_ "choice, excellence"
 SEE: [\*gus-o- "choose"](#guso)
@@ -5256,7 +5256,7 @@ REF: [EDPC]
 ### <a id="klowsta">\*klowstā "hearing, ear" (n)</a>
 GOID: OIr. _clúas_ [ā f]
 W: MW _clust_ [m and f]; _clustiau_ [p]
-GAUL: _Rokloisiabo_ [Dat p, Theonym]
+GAUL: _Rokloisiabo_ [dat.pl., theonym]
 PIE: \*ḱlews-t- "hear" (IEW: 606)
 SEE: [\*kli-nu- "hear"](#klinu)
 COGN: OE _hlyst_ "hearing"
@@ -5299,7 +5299,7 @@ GOID: OIr. _clú_ [s n, later f] gl. _rumor_; _cluë_ [gen.sg.]
 PIE: \*ḱlewos "word, fame" (IEW: 606)
 COGN: Skt. _śrávas_-, Gr. _kléos_, Lat. _cluōr_
 SEE: [\*kli-nu- "hear"](#klinu), [\*kluto- "fame"](#kluto)
-ETYM: The unexpected \*-u- in Celtic could be due to the analogy with the participle of the verb "to hear", \*klu-to-. PIE \*ḱlewos should probably have given PCelt. \*klowos > OIr. \*\*clúa. The same root is attested in Gaul. personal names such as _Ver-clovus_, _Veru-cloetius_ (Caesar). Gaul. (?Theonym) _rokloisiabo_ [dat.pl.] (Glanum) can represent \*fro-klowes-yā (Hamp 1986).
+ETYM: The unexpected \*-u- in Celtic could be due to the analogy with the participle of the verb "to hear", \*klu-to-. PIE \*ḱlewos should probably have given PCelt. \*klowos > OIr. \*\*clúa. The same root is attested in Gaul. personal names such as _Ver-clovus_, _Veru-cloetius_ (Caesar). Gaul. (?theonym) _rokloisiabo_ [dat.pl.] (Glanum) can represent \*fro-klowes-yā (Hamp 1986).
 REF: [EDPC]
 
 ### <a id="knami">\*knāmi- "bone" (n)</a>
