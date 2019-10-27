@@ -6808,3 +6808,946 @@ CO: OCo. _leid_ gl. _progenies_
 GAUL: _luxtos_ [?gen.sg.] (La Graufesenque)​
 ETYM: The etymology in IEW (686) deriving these Celtic words from PIE \*lewǵ- "break" is not convincing because of the difference in meaning. In Celtic, the basic meaning is "contents" from which the meaning "people" developed in a similar manner as in Lat. _plēbs_ < \*pleh₁- "be full". The word may have been borrowed from some non-IE language.
 REF: [EDPC]
+
+## M
+
+### <a id="ma">\*mā, \*ma "if" [conj.]</a>
+GOID: OIr. _ma_, _má_
+BRET: OBret. _ma_, MBret. _ma_, _mar_, MoBret. _mar_
+CO: Co. _mar_
+PIE: \*meh₂- (particle) (IEW: 966)
+COGN: Gr. _mḗn_ (particle)​
+ETYM: The short vowel seen in OIr. _ma_ and MBret. _ma_ could perhaps be explained by shortening in clitics. Cf. also particles such as Hitt. -_ma_ "but", Skt. _sma_.
+REF: [EDPC]
+
+### <a id="madyo">\*mad-yo- "break" (v)</a>
+GOID: OIr. _maidid_, -_maid_; _máis_, -_má_ [subj.]; _memais_, -_mema_ [fut.]; _memaid_ [prt.]
+W: MW _maeddu_ "break, win"
+BRET: MBret. _mezaff_ "knead", MoBret. _mezañ_
+PIE: \*mad-? (\*mh₂d-) "be wet, become wet" (IEW: 694f.)
+COGN: Lat. _madeo_, Gr. _madáō_, Skt. _mádati_ "rejoice, be intoxicated"
+ETYM: For the possibility that this PCelt. verb originally had athematic i­-inflexion (Kortlandt 2007: 137), cf. [\*ar-yo- "plough"](#aryo). The PIE etymology is semantically dubious because it is difficult to derive the meaning in Celtic ("break") from the PIE meaning "be wet". However, OIr. _maidid_ can be used impersonally in the sense of "burst", and this may have been the original meaning of the root in Celtic. If so, then the meaning "to burst" may have been extended from the more specific (the bursting of streams and torrents) to the more general, cf. the connection in Croatian between _pȑskati_ "sprinkle" and _pȑsnuti_ "burst, explode". Formally, Celtic \*mad- can be from PIE zero­ grade of the root (\*mh₂d-).
+REF: [EDPC]
+
+### <a id="madyo">\*madyo- "futile, useless" (adj)</a>
+GOID: OIr. _madae_ [io] "useless"
+W: MW _madeu_ in _eneit vadeu_ "lost soul"; _madau_ (GPC _maddau_) "forfeit, give up, lose"
+BRET: OBret. _in vadau_ gl. _pessum_
+SEE: [\*mad-yo- "break"](#madyo)
+ETYM: It is possible that this adjective is derived from the root \*mad- "to break". The semantic development would be from "broken" to "useless".
+REF: [EDPC]
+
+### <a id="magino">\*magino- "stone, place" (n)</a>
+GOID: OIr. _magen_, _magan_ [ā f] "place" (DIL _maigen_)​
+W: MW _maen_ [m] "stone, grindstone"; _main_, _meini_, _maenau_ [p]
+BRET: OBret. _main_, MBret. _men_, MoBret. _maen_ [m] "stone"
+CO: Co. _men_
+SEE: [\*magos "plain, field"](#magos)
+ETYM: W _maen_ is not just any stone, but one "having some speciality or a particular use", according to GPC. The OIr. form in -ā is a collective built from \*magino-, like Lat. _loca_ from _locus_. The attribution in IEW (709) to the root \*meǵh₂- "great" is possible, cf. Skt. _mahī́_- "earth" (< \*"the great one") and PCelt. \*magos "field", which might also be related.
+REF: [EDPC]
+
+### <a id="maglo">\*maglo- "noble, chief" (n)</a>
+GOID: OIr. _mál_ [o m], Ogam _CUNA-MAGLI_
+W: MW _mael_ [m] "chieftain, lord"; MW -_mael_, -_fael_ (in PN) (e.g. _Brochfael_ < \*Brocco-maglos);
+BRET: MBret. -_mael_ (in PN, e.g. _Tiernmael_)​
+GAUL: _Magalos_, -_maglus_ [PN]
+PIE: \*meǵh₂ "great" (IEW: 709)
+COGN: Gr. _mágas_, Go. _mikils_
+ETYM: If the etymology is correc the a-vocalism in Celtic should be explained by Schrijver's rule (\*mC<sup>voiced</sup>- > \*maC<sup>voiced</sup>-), but this rule is not beyond doubt. Gaul. _Magalos_, if related, might represent PIE \*mgh₂lo- with the expected vocalization of the laryngeal (which was, for some reason, lost in Insular Celtic and in Gaul. -_maglus_).
+REF: [EDPC]
+
+### <a id="magos">\*magos- "plain, field" (n)</a>
+GOID: OIr. _mag_ [s n]
+W: OW _maessid_ [p], MW -_ma_ [m and f], _maes_
+BRET: OBret. -_ma_, MoBret. _ma_ "place", _maes_ [m] "field"
+CO: Co. -_ma_
+GAUL: -_magus_ (e.g. _Noviomagus_, _Rigomagus_)​
+PIE: \*megh₂ "great"(?) (IEW: 709)
+COGN: Skt. _mahī́_- "earth"
+SEE: [\*magino- "stone"](#magino)
+ETYM: MW _maes_ and MBret. _maes_ should be derived from a formation in \*-tu, i.e. PCelt. \*magestu-. The connection with the PIE adjective \*meǵh₂ "great" is uncertain. Skt. _mahī́_- "great (f.), earth" is a substantivized adjective, originally a standing epithet of "earth".
+REF: [EDPC]
+
+### <a id="magyo">\*magyo- "great" (adj)</a>
+GOID: MIr. _maige_ [io]
+GAUL: _Magios_ [PN]
+PIE: \*meǵh₂- "great" (IEW: 709)
+COGN: Lat. _maius_
+ETYM: MIr. _maige_ is a rare, poetic word.
+REF: [EDPC]
+
+### <a id="makwo">\*makʷo- "son" (n)</a>
+GOID: OIr. _macc_ [o m]
+W: OW _map_ [m], MW _map_ (GPC _mab_)​
+BRET: OBret. _mab_, _map_, MBret. and MoBret. _mab_ [m]
+CO: OCo. _mab_ gl. _filius_, _map_
+GAUL: _Maponos_ [theonym]
+PIE: \*meh₂ḱ- "raise, grow" (IEW: 709 (\*meǵʰ-))
+COGN: Lat. _macer_ "meagre", Gr. _makrós_ "great"
+SEE: [\*mak-o- "grow, increase"](#mako)
+ETYM: The IE etymology proposed here is rather uncertain for semantic reasons; the verbal stem \*mak- means "grow, raise, feed" in Celtic, so the development would have been from "raised, fed" to "son". PIE \*mh₂k-wo­ would yield PCelt. \*makʷo-, so the geminate \*kʷkʷ in Goidelic is unexplained (the Brit. forms are derivable from \*makʷo-).
+REF: [EDPC]
+
+### <a id="mako">\*mak-o- "increase, raise, feed" (v)</a>
+GOID: OIr. _do-formaig_ "increase, add"; _do-forma_ [subj.]; _do-formacht_ [prt.]
+W: MW _magu_ "feed, produce, rear"
+BRET: MBret. _maguaff_ "feed, rear", MoBret. _maezhur_, _magañ_ "feed, rear"
+CO: Co. _maga_
+PIE: \*meh₂ḱ- "thin, elongated" (IEW: 709 (\*megʰ-))
+COGN: Lat. _maceo_ "be lean", Gr. _makrós_ "big", Hitt. _maklant_- "thin, meagre, slim (of animals)", OHG _magar_ "meagre"
+SEE: [\*makʷos "son"](#makwos)
+ETYM: OIr. _do-formaig_ < \*to-wor-mak-o- (the simplex is unattested in Goidelic). The Celtic forms presuppose the zero-grade of the root, PIE \*mh₂k- > PCelt. \*mak-. The development of meaning would have been from "make thin" to "make long" and, finally "increase" (cf. also Gr. _makrós_ "great" from "\*long, elongated").
+REF: [EDPC]
+
+### <a id="makina">\*makīnā "bellow" (n)</a>
+W: MW _megin_ [f] "a pair of bellows"
+BRET: MBret. _meguin_, MoBret. _megin_ [f]
+CO: Co. _mygen_
+PIE: \*mak- "leather sack" (IEW: 698)
+COGN: OHG _mago_ "belly", Lith. _mãkas_ "purse"
+ETYM: If the etymology is correct, the a-vocalism points to a borrowing from some unknown source.
+REF: [EDPC]
+
+### <a id="mallo">\*mallo- "slow, lazy" (adj)</a>
+GOID: OIr. _mall_ [o] gl. _tardus_
+W: MW _mall_ "evil, sick, bad, rotten, dull"
+PIE: \*mel- "be late, hesitate" (IEW: 720)
+COGN: Gr. _méllō_ "be late, must", Lat. _prō-mello_
+SEE: [\*mello- "destruction"](#mello)
+ETYM: The meaning of W _mall_ according to GPC is not as close to the meaning of OIr. _mall_ as implied by LEIA. As a noun, _mall_ means "plague, pestilence" in W. The Celtic geminate \*ll can be both from PIE \*ls and \*ln. Lat. _promellere_, which means _litem promovere_, according to Lewis & Short (s.v.), is a hapax. Other possible cognates include Lat. _malus_ "bad", Gr. _méleos_ "idle", Arm. _meł_ "sin", Lith. _mẽlas_ "lie". Maybe we should distinguish two roots, \*mel- (1) "be late, hesitate", and \*mel- (2) "evil". In that case OIr. _mall_ is from \*mel- (1) and W _mall_ (and OIr. _mell_ "destruction") are from PIE \*mel- (2).
+REF: [EDPC]
+
+### <a id="malo-1">\*mal-o-, \*mel-o- "grind" (v)</a>
+GOID: OIr. _meilid_, -_meil_; _melaid_, -_mela_ [subj.]; _mélaid_, -_méla_ [fut.]; _milt_, -_melt_ [prt.]; _mlethae_, -_mleth_ [pass.]
+W: W _malu_
+BRET: OBret. _maletic_ gl. _contritum_ [pst.part.], MBret. _malaff_ "grind"
+PIE: \*melh₂ "grind" (IEW: 716f.)
+COGN: Lat. _molo_, Lith. _málti_, Arm. _malem_
+ETYM: The Brittonic forms can be derived from the zero-grade of the root, PIE \*mlh₂o- > \*malH-o- > PCelt. \*mal-o-. OIr. _meilid_ preserves the full grade (PIE \*melh₂o-).
+REF: [EDPC]
+
+### <a id="mālo">\*malo- "praise" (n)</a>
+SEE: [\*mol-ā- "praise"](#mola)
+REF: [EDPC]
+
+### <a id="mammya">\*mamm(y)ā "mother, nanny" (n)</a>
+GOID: OIr. _muimme_ [iā f] "nurse, fostermother"
+W: MW _mam_ [f] "mother"
+BRET: MBret. _mam(m)_ [f]
+CO: OCo. _mam_ gl. _mater_, MCo. _mam_
+PIE: \*mam(m)a "mommy" (IEW: 694)
+COGN: Lat. _mamma_, OHG _muoma_
+SEE: [\*mātīr "mother"](#matir)
+ETYM: These forms are from the children's language, while the "formal" word for "mother" is preserved in OIr. _máthir_. The fact that the nursery word \*mammā usually does not denote the biological mother is explained by the Celtic custom of fosterage (children are raised by foster-parents, with whom they develop an intimate relationship).
+REF: [EDPC]
+
+### <a id="mani">\*māni- "turf, peat" (n)</a>
+GOID: MIr. _móin_ [i f]
+W: MW _mawn_ [p]; _mawnen_ [sing.]
+BRET: MoBret. _man_ [m] "moss"
+ETYM: MoBret. _man_ "moss" has aberrant vocalism (\*\*meun would be expected), so I doubt whether this is the same word (the meaning is also different). OIr. _móin_ and W _mawn_ might be derivable from \*makni- < \*mh₂kni- "swamp" (cf. OIr. _tón_ < \*tuknā). The root would be the same as in Alb. _makë_ "mud", OCS _mokrъ_, "wet", Lith. _maknóti_ "walk through the mud" (IEW 698).
+REF: [EDPC]
+
+### <a id="manyo">\*man-yo- "think, remember" (v)</a>
+GOID: OIr. _muinithir_, -_muinethar_ "think"; _menaithir_, -_menathar_ [subj.]; _ménair_ [prt.]; _métae_, -_met_ [prt.pass.]
+PIE: \*men- "think" (IEW: 726ff.)
+COGN: Skt. _mányate_, Go. _munan_
+SEE: [\*mentyon- "thought, mention"](#mentyon), [\*menman- "thought"](#menman)
+ETYM: W _mynnu_, MoBret. _mennout_, Co. _mynnas_ "want, wish, desire" are probably from the same root. The geminate -_nn_- can be from \*nd < \*ndʰ, cf. Gr. _manthánō_ "learn". The root is probably also attested in Celtib. _MONIMAM_ (K.11.1), which may be identical with the formation of OBret. verbal noun _guo-monim_ "promise" (? formed from the causative stem \*mon-eye- > PCelt. \*monī- and the suffix \*-mā).
+REF: [EDPC]
+
+### <a id="manti">\*mantī- "quantity" (n)</a>
+GOID: OIr. _méit_ [I f]"greatness, magnitude"
+W: OW _pa-mint_ gl. _quam_; MW _maint_ "size, quantity"
+BRET: OBret. _ment_, MoBret. _ment_ [m and f] "dimension, size"
+CO: Co. _myns_
+PIE: \*meh₁- "measure", \*mh₁-nt- (IEW: 703)
+COGN: Skt. _mā́_- "to measure", Lat. _mētior_
+ETYM: Fr. _maint_ "several" preserves the Gaulish cognate of the same Celtic word, derived from the PIE participle \*mh₁-nt-. It is possible that the root is attested in Gaul. anthroponymy, e.g. _Cara-mantius_.
+REF: [EDPC]
+
+### <a id="manto">\*manto- "gums,jaw" (n)</a>
+W: MW _mant_ [m] "mandible, gums"
+PIE: \*men-t- "jaw" (IEW: 726)
+COGN: Lat. _mentum_ "jaw", OHG _munt_ "mouth", ? Hitt. _mēni_-, _mēna_- "face, cheek"
+ETYM: OIr. _mant_ "gums, jaw" (attested in Corm. 2897) is a W loanword according to DIL, s.v. It is possible that Gaul. PNs such as _Mantus_, _Manta_, _Mantusa_, etc., also contain this root.
+REF: [EDPC]
+
+### <a id="mantro">\*mantro- "trampling, grinding" (n)</a>
+SEE: [\*menā "flour"](#mena)
+REF: [EDPC]
+
+### <a id="markako">\*mark-āko- "horseman" (n)</a>
+GOID: OIr. _marcach_ [o m]
+W: OW _marhauc_ [m], MW _marchawc_
+BRET: OBret. _marcoc_ gl. _aequester_, MBret. _marhec_, MoBret. _marc'heg_ [m]
+CO: Co. _marrec_
+SEE: [\*marko- "horse"](#marko)
+ETYM: A trivial derivative (with the common suffix \*-āko-) from PCelt. \*marko- "horse".
+REF: [EDPC]
+
+### <a id="marko">\*marko- "horse" (n)</a>
+GOID: MIr. _marc_ [o m]
+W: MW _march_ [m]; _meirch_ [p]
+BRET: OBret. _marh_, MBret. _march_, MoBret. _marc'h_
+CO: OCo. _march_ gl. _equus_, MCo. _margh_
+GAUL: _markan_ [acc.sg.], _marcosior_ "may I ride" (v)​
+PIE: \*marko- (?) "horse" (IEW: 700)
+COGN: OHG _marah_ "horse", OE _mearh_
+ETYM: MIr. _marc_ is a rare, poetic word, but the derivative _marcach_ "horseman" is attested in OIr. Galatian _marka_ is reported by Pausanias (10.19.11) as Galatian word for "horse" (Freeman 2001: 17). Celtib. PN _Markos_ (Botorrita III) probably represents the adaptation of the Roman name Marcus. PCelt. \*markos is probably a "Wanderwort" of eastern origin. It established itself in Celtic and Germanic alongside the inherited PIE word for "horse", \*h₁ekʷos (OIr. _ech_). Attempts to connect it to Skt. _márya­_ "youth, foal" are not convincing. Celtic points to non-IE a-vocalism of \*marko-.
+REF: [EDPC]
+
+### <a id="marna">\*mar-na- "betray" (v)</a>
+GOID: OIr. _marnaid_, -_mairn_ (DIL _mairnid_) "betray, deceive, confound"; _meraid_, -_mera_ [subj.]; _méraid_, -_méra_ [fut.], _mirt_, -_mert_ [prt.]; _mrathae_, -_mrath_ [prt.pass.]
+PIE: \*merh₂- "crumble, destroy" (IEW: 735f.)
+COGN: Skt. _mṛnā́ti_ "crumble", Gr. _márnamai_ "fight", ON _merja_ "hit"
+ETYM: The connection with the PIE root \*merh₂- is problematic on semantic grounds. The passive -_mrath_ is unusual, since \*\*mráth would be expected from \*mrh₂to-; the short vowel could be the result of Dybo's law.
+REF: [EDPC]
+
+### <a id="maro-1">\*mar-o- "remain" (v)</a>
+GOID: OIr. _maraid_, -_mair_ (DIL _maraid_ and _mairid_) "lasts, remains, persists"; _marathair_, -_marathar_ [subj.]; _méraid_, _méra_ [fut.]
+PIE: \*merh₂- "delay" (IEW: 969f. (\*(s)mer-))
+COGN: Lat. _mora_ "delay", Gr. _mōrós_ "stupid", perhaps Skt. _mūrtá­_ "congealed, solid"
+ETYM: The a-vocalism in Celtic is expected if we start from the PIE zero­ grade \*mrH-o-, since \*CrHV- > \*CarV- is regular in Celtic.
+REF: [EDPC]
+
+### <a id="maro-2">\*māro- "great" (adj)</a>
+GOID: OIr. _már_, _mór_ [o]
+W: OW _maur_, MW _mawr_
+BRET: OBret. _mor_, MoBret. _meur_
+CO: OCo. _maur_ gl. _magnus_, MCo. _mur_
+GAUL: -_maros_ (in PN, e.g. _lantumarus_)
+LEP: _Latu-marui_ [PN] (Omavasso)​
+PIE: \*meh₁-, \*moh₁-ro- "great" (IEW: 704)
+COGN: OHG _māri_ "news; known, famous, great", Gr. -_mōros_ (in compounds)​
+ETYM: All Celtic forms (and Gr. -_mōros_) can be derived from \*moh₁-ro-, while the e-grade is attested in other languages. The PCelt. comparative and superlative of this adjective were suppletive. The comparative was \*mā-yos­ (OIr. mó, móo, MW _mwy_, Co. _moy_), and the superlative was \*mā-samo- (OIr. _máam_, _moam_). The Brittonic superlatives (OBret. _meham_, OW _muihiam_, Co. _moygha_) were built with the productive suffix \*-samo- added to the comparative stem \*māy-).
+REF: [EDPC]
+
+### <a id="marsto">\*marsto/i- "fate, untimely death" (n)</a>
+GOID: MIr. _mart_ [o ?], _mairt_ [i ?f] "violent, sudden death(?), massacre"
+W: MW _marth_ [m] "sorrow, disgrace, (painful) wonder"
+BRET: MoBret. _marzh_ [m] "miracle, wonder, prodigy"
+CO: Co. _marth_
+PIE: \*smer- "gain" (IEW: 969f.)
+COGN: Lat. _mereo_ "to earn, gain", Gr. _meíromai_ "receive one's share"
+ETYM: The exact meaning of MIr. _mart_, _mairt_, as well as the stem formation of this word, are unclear. It seems to be often applied to animals, so one of the meanings could have been "(sacrificial) victim". Deshayes' (2003: 496) derivation of the Brittonic words from Lat. _uirtus_ "virtue" is impossible formally and implausible semantically. Because of the semantic connection these Celtic words have with the concept of "death" it is possible that the PIE root is \*mer- "die", since \*mr-sto- would also yield PCelt. \*marsto- regularly, and the PIE root of Lat. _mereo_, Gr. _meíromai_ is \*smer­ (note that \*sm- should be preserved in OIr.). The connection with Gaul. _smerios_ "supplier (?)" (an epithet of some Gaulish gods) and the Gaul. theonym _Ro-smerta_ is a mere possibility.
+REF: [EDPC]
+
+### <a id="marwa">\*marw-ā- "die" (v)</a>
+SEE: [\*marwo- "dead"](#marwo)
+REF: [EDPC]
+
+### <a id="marwo">\*marwo- "dead" (adj)</a>
+GOID: OIr. _marb_ [o]
+W: MW _marw_
+BRET: MBret. _marf_, _maru_, MoBret. _marw_
+CO: Co. _marow_
+PIE: \*mer- "die", \*mrto- "dead" (IEW: 735)
+COGN: Skt. _mṛta_-, Lat. _mortuus_, Gr. (poetic) _brotós_ "mortal"
+SEE: [\*merwi- "lifeless"](#merwi)
+ETYM: In Celtic, the original PIE adjective \*mrto- was remodelled on the analogy with \*gʷiHwos "alive" (Lat. _uīuus_, etc.). There are also parallel denominative verbal formations in OIr. (_marbaid_ "kills") and Brit. (MW _merwi_ "die", MBret. _meruel_, MCo. _merwel_), pointing to PCelt. [\*marw-ā-­ "die"](#marwa).
+REF: [EDPC]
+
+### <a id="marwonatu">\*marwo-natu- "funerary poem, eulogy" (n)</a>
+GOID: MIr. _marbnad_ [ā f]
+W: MW _marwnad_ [f and m] (GPC _marwnad_, _marnad_)​
+BRET: MoBret. _marvnad_
+SEE: [\*marwo- "dead"](#marwo), [\*natu- "poem"](#natu)
+ETYM: A compound, pertaining to poetic language, that can probably be projected back to Proto-Celtic.
+REF: [EDPC]
+
+### <a id="mati">\*mati- "good" (adj)</a>
+GOID: OIr. _maith_ [i]
+W: MW _mad_
+BRET: MBret. _mat_, MoBret. _mad_
+CO: Co. _mas_
+GAUL: _mat_. (Coligny)​
+PIE: \*meh₂-t- (IEW: 693)
+COGN: Lat. _mānis_, _mānus_, _Mātūta_ "goddess Dawn"
+ETYM: OIr. _math_ [u m] "bear" is often understood as a tabooistic replacement for the original word for "bear" (PCelt. [\*arto](#arto)-) and related to this root. The u-stem (\*matu-) may be attested in the Gaul. PN _Matu-genos_. Celtib. _matus_ is sometimes also compared, but the meaning of this word (presumably a noun) is unknown (MLH V.1: 247f.), so it is not entitled to an etymology. Beyond Celtic, Gr. _matís_ "great" (Hesych.) is uncertain (it is not even ascertained that the word is Greek, it might be Galatian). The connection of these words to PIE \*meh₂- "give a sign, wink" (Gr. _mēnýō_, Lith. _móti_, LIV 382) is very speculative. The development would have been from "wink" to "give a sign of approval" to "approve", hence "good, approved" as the meaning of the adjective from the same root.
+REF: [EDPC]
+
+### <a id="matir">\*mātīr "mother" (n)</a>
+GOID: OIr. _mathir_ [r, f] "mother"
+W: OW _modreped_ gl. _materterae_, W _modryb_ [f] "aunt"
+BRET: OBret. _motrep_ "aunt", MBret. _mozreb_ "aunt", MoBret. _moereb_ [f] "aunt"
+CO: OCo. _modereb_ gl. _matertera_ "aunt"
+GAUL: _matrebo_ [r, f] [dat.pl.] (Glanum, RIG G-64)
+CELTIB: _MATRUBOS_ (?) [dat.pl.] (CIL II 28-48, Muro de Agreda)​
+PIE: \*meh₂tēr "mother" (IEW: 700)
+COGN: Skt. _mātár_-, Lat. _māter_, Gr. _mḗtēr_, OCS _mati_
+ETYM: The Brittonic forms mean "aunt" and can be derived from \*mātrikʷā (cf. Skt. _mātṛka_- "mother's brother"), or, perhaps, from \*mātrokʷī (< \*meh₂tr-h₃okʷ-ih₂ "looking like mother, mother-like").
+REF: [EDPC]
+
+### <a id="maylo">\*maylo- "bald" (adj)</a>
+GOID: OIr. _mael_ [o], Ogam _MAILA-GNI_
+W: OW _mail_, MW _moel_
+BRET: MBret. _moel_, MoBret. _moal_
+CO: Co. _môl_
+ETYM: A connection with Go. _maitan_ "cut", OHG _meizan_ "cut off" (IEW 697) is possible (from \*may-d-?), but these Germanic words have unclear etymology (Kluge, s.v. _Meißel_). We would have to assume a-vocalism of the root, so one may suspect that these words are borrowed from some pre­ IE language of NW Europe.
+REF: [EDPC]
+
+### <a id="mazdyo">\*mazdyo- "stick" (n)</a>
+GOID: MIr. _maide_ [io m] "post, stick, bundle, wood"
+PIE: \*masdo- (IEW: 702)
+COGN: Lat. _mālus_, OIc. _mastr_ "mast"
+ETYM: Cf. also OIr. _mátán_ [o m] "club", which could be from \*mazd-an-o-. However, this word is poorly documented. Fr. _massue_ "club" could preserve the Gaul. reflex of this word (it is usually derived from VLat. \*mattiūca, but \*mastiūca < \*mazd-tiū-kā would do as well), cf. Gamillscheg 606. In principle it would be possible to explain all of the Celtic-Italic-Germanic correspondences by assuming ablaut \*meh₂sd-/\*mh₂sd-, but I think it is more probable that these words were borrowed from some pre-IE source.
+REF: [EDPC]
+
+### <a id="mebla">\*meblā "shame" (n)</a>
+GOID: OIr. _mebul_ [ā f]
+W: MW _mefyl_, (GPC _mefl_) [m]
+BRET: OBret. _meplaom_ "be ashamed" (gl. _confutari_)​
+CO: Co. _meul_ "evil"
+PIE: \*mebʰ- (IEW: 725)
+COGN: Gr. _mémphomai_ "to blame", Go. _bi-mampjan_ "to mock"
+ETYM: Possibly an expressive formation, but parallels in Gr. and Germ. point to a probable PIE origin. IEW reconstructs the root as \*membʰ- and assumes the change \*mbl > \*bl in Celtic. However, -m- in Gr. _mémphomai_ and Go. -_mampjan_ can also be present stem infixes, but note that -_p_- (rather than \*b) in Gothic is unexpected.
+REF: [EDPC]
+
+### <a id="medo">\*med-o- "measure,judge" (v)</a>
+GOID: OIr. _midithir_, -_midethar_; _mestair_, -_mestar_ [subj.]; _miastair_, -_miastar_ [fut.]; _médair_ [prt.]; _messae_, -_mess_ [prt.pass.]
+W: MW _meddu_ "possess, rule"
+CO: Co. _medhes_ "say"
+PIE: \*med- "measure" (IEW: 705f.)
+COGN: Lat. _medeor_ "heal", _modus_ "measure", Gr. _médomai_ "care for, think of", Go. _mitan_ "measure"
+ETYM: OIr. _mess_ [u m] "judgement" is derived from the same root (PCelt. \*messu- < PIE \*med-tu-). For the possibility that this verb originally had athematic i-inflexion (Kortlandt 2007: 137) see [\*ar-yo- "plough"](#aryo).
+REF: [EDPC]
+
+### <a id="medu">\*medu "mead, alcoholic drink" (n)</a>
+GOID: OIr. _mid_ [u n > m], Ogam _MEDDO-GENI_
+W: MW _medd_ [m]
+BRET: OBret. _medot_ gl. _ebrietas_, MBret. and MoBret. _mez_ [m]
+CO: Co. _med_, _meth_
+GAUL: _Medu-genos_ [PN]
+CELTIB: _Mezu-kenos_ [PN] (Botorrita III)
+PIE: \*medʰu "mead" (IEW: 707)
+COGN: Skt. _mádhu_-, Gr. _méthy_ "wine", Lith. _medùs_ "mead"
+ETYM: OBret. _medot_ corresponds to MW _meddawt_ "drunkenness"; both represent a derivative \*medātu-. The Celtiberian name _Mezukenos_ is a rare instance of a compound name in that language. It is completely parallel to Ogam _MEDDOGENI_, OIr. _Midgen_, OW _Medgen_ < PCelt. \*Medu-genos.
+REF: [EDPC]
+
+### <a id="medyo">\*medyo- "middle" (n)</a>
+GOID: OIr. _mide_ [io m]
+BRET: OBret. _med_, (lit. "middle (period) of the summer")
+GAUL: _Medio-lanum_ [toponym] > _Milano_
+PIE: \*medʰyo- "middle"(IEW: 706)
+COGN: Skt. _mádhya_-, Lat. _medius_, Gr. _méssos_, OHG _mitti_ "in the middle"
+ETYM: W _Mehefin_, MBret. _mez-even_ "June" is a compound of \*medyo- and [\*samono- "summer"](#samono). MW _meiau_ "middle yoke" (length) is a compound of \*medyo- and [\*yugo- "yoke"](#yugo).
+REF: [EDPC]
+
+### <a id="meko">\*mēko- "sack, bushel (of grain)" (n)</a>
+GOID: OIr. _míach_ [o n and f]
+PIE: \*meyǵ(ʰ)- "barley, grain"
+COGN: OPr. _moasis_ "barley", Latv. _mìeži_ [p] "barley"
+ETYM: The semantic connection with the Baltic words for "barley" might lie in the fact that OIr. _míach_ is used chiefly to denote a measure of capacity for corn (according to DIL). However, the etymology is very uncertain, since the devoicing of \*g > \*k in Celtic is irregular; one would have to assume a root-noun \*mēyǵ(ʰ)s [mēyks] from which the root form with \*k could have been extended analogically (cf. [\*druko- "bad"](#drugo)).
+REF: [EDPC]
+
+### <a id="meldo">\*meldo- "mild, pleasant"; \*mlido- "soft" (adj)</a>
+GOID: OIr. _mell_ [o m] "pleasant, delightful"
+W: MW _blydd_ "soft"
+GAUL: _Maldi_ [ethnonym] (?)
+PIE: \*meld- "tender, mild, soft" (IEW: 718)
+COGN: Skt. _mṛdú_-, Lat. _mollis_, Gr. _bladýs_ "weak", OCS _mladъ_ "young"
+ETYM: The name of Gaulish _Maldi_ is preserved in the toponym _Meaux_ in France. However, the vocalism of this name is unexpected (either \*\*Moldi, or \*\*Meldi, or \*\*Mlidi would have been regular); some compare also the Gaul. theonym _Meldios_. W _blydd_ is from \*mldo-, while OIr. _mell_ represents \*meldo-, so either two different adjectives from the same root must be posited for PCelt., or we have to assume an ablauting paradigm (perhaps an original u-stem \*meldu- / \*mldew-). Note also that W _blydd_ may have been abstracted from _esblydd_ "tender", which is in turn related to _plydd_ "gentle, soft, tender" (GPC III: 2831), with unknown etymology. I think it is more probable that _plydd_ is secondary, although it is attested already in the 15th century, while _blydd_ is attested much later (in the works of Owen Pughe). A different etymology relates PCelt. \*meldo- to PGerm. \*meldja- "mild" (Go. -_mildeis_, ON _mildr_) < PIE \*meldʰ- (IEW 719).
+REF: [EDPC]
+
+### <a id="melgos">\*melgos- "milk" (n)</a>
+GOID: OIr. _melg_ [s n]
+PIE: \*h₂melg- "milk" (IEW: 722f.)
+SEE: [\*mlig-o- "milk"](#mligo)
+ETYM: OIr. _melg_ is a glossary word. It is attested in Corm. 2861. However, there is little reason to doubt the usual derivation from PIE \*h₂melǵ- "milk" (Gr. _amélgō_, Eng. _milk_, etc.).
+REF: [EDPC]
+
+### <a id="meli">\*meli "honey" (n)</a>
+GOID: OIr. _mil_ [i f], ? Ogam _DU-MELI_
+W: OW _mel_ [m], MW _mel_ (GPC _mêl_)​
+BRET: OBret. _mel_ gl. _nectare_, MBret. and MoBret. _mel_ [m]
+CO: OCo. _mel_ gl. _mel_
+GAUL: _Meli-ssos_ [PN]
+PIE: \*meli "honey" (IEW: 724)
+COGN: Lat. _mel_, Gr. _méli_, Hitt. _militt_-, Arm. _mełr_, Alb. _mjal_
+SEE: [\*melino- "honey"](#melino)
+ETYM: Brittonic \*melino- "yellow" (OW _melin_, _melen_, MW _melyn_, OBret. _milin_ gl. _flauus_, OCo. _milin_ gl. _fuluus_) probably represent a derivative from this word. The development of "honey-coloured" to "yellow" would be unremarkable.
+REF: [EDPC]
+
+### <a id="melino">\*melino- "yellow" (adj)</a>
+W: MW _melin_ (GPC _melyn_)​
+BRET: OBret. _milin_ gl. _flauus_, MBret. and MoBret. _melen_
+CO: OCo. _milin_ gl. _fuluus uel flauus_, Co. _melyn_
+GAUL: _Melinus_ [PN]
+SEE: [\*meli- "honey"](#meli)
+ETYM: Romance adjectives such as Sardic _mélinu_, Rhaeto-Romance _mélen_ "yellow", are presumably from the unattested Gaulish form of this word, cf. also Fr. _molène_ "mullein" < \*molēnā (Gamillscheg 628).
+REF: [EDPC]
+
+### <a id="mello">\*mello- "destruction, confusion" (n)</a>
+GOID: OIr. _mell_ "error, confusion"
+COGN: ToB _mäl_- "to wound, damage", ?Lat. _malus_ "bad"
+SEE: [\*malno- "slow, lazy"](#malno)
+ETYM: The OIr. word is known mostly from glossaries, but there is a denominative verb _millid_ "to destroy", and a possible cognate in OBret. _milin_ "prostitute" (DGVB 257). The geminate \*-ll- in PCelt. is presumably from \*-ls-, so we should posit a proto-form \*melso- in PIE. The connection to \*malno- "slow, lazy" is just a possibility, since the meanings are very different (but cf. Lat. _malus_ "bad", which could be related).
+REF: [EDPC]
+
+### <a id="mena">\*menā "flour" (n)</a>
+GOID: OIr. _men_ [ā f]
+PIE: \*menH- "crumble" (IEW: 726)
+COGN: Lith. _mìnti_ "trample, break (flax)", OCS _mьnetъ_ "compresses", Russ. _mjat'_ "to knead", Slovene _mánem_ [1s.prs.] "I mince"
+ETYM: W _mathru_ "to trample upon, stamp, suppress" is usually derived from the same root; it may represent a denominative verb from the underlying noun \*mantro-, cf. W _mathr_ [m] "trampling, mire". Possibly also related is Gaul. toponym _Petro-mantalon_ (< \*man-tlo- < \*mn-tlo-), cf. also _Mantua_ (today _Mantova_ in N Italy). Gaul. \*manto-, \*mantalo- has been interpreted as "(trampled) road", cf. Lat. _trīta uia_. The IE etymology is problematic, since the accentuation of the Balto-Slavic presumed cognates shows that this root ended in a laryngeal, of which there is no trace in Celtic (we would expect \*mnHtro- > PCelt. \*\*mnātro-).
+REF: [EDPC]
+
+### <a id="">\*menādo- "awl" (n)</a>
+GOID: MIr. _menad_ [o m]
+W: MW _mynawyd_ [m] (GPC _mynawyd_, _myniawyd_)​
+BRET: MBret. _menauet_
+CO: Co. _benewas_, _benewez_
+ETYM: MIr. _menad_ is sometimes confused with _menoc_ "peg, piece of wood used for securing a withe". No plausible IE etymology exists, so PCelt. \*menādo- could be a loanword from some non-IE language.
+REF: [EDPC]
+
+### <a id="mendra">\*mendrā "blemish" (n)</a>
+SEE: [\*mendu- "mark, sign"](#mendu)
+REF: [EDPC]
+
+### <a id="mendu">\*mendu- "mark, sign" (n)</a>
+GOID: OIr. _mind_ [u n later m]
+W: MW _mann_ [m] "place, spot, location" (GPC _man_, _men_, _myn_)​
+BRET: MBret. _men(n)_ "place", MoBret. _man_ "case, point", _menn_ "where"
+PIE: \*men-hdʰ₁u- (IEW: 729f.)
+COGN: Lat. _mendum_ "fault, blemish", Hitt. _mant_- "something harming"
+ETYM: OIr. _mennar_ [ā f] "blemish" might represent PCelt. [\*mendrā](#mendra). A connection to the root \*men- "think" is possible.
+REF: [EDPC]
+
+### <a id="menekki">\*menekki- "frequent, abundant" (adj)</a>
+GOID: OIr. _meinicc_ [i]
+W: MW _mynych_
+CO: Co. _menough_
+PIE: \*men- (IEW: 730)
+COGN: OE _manig_ "sufficient, large, many", Go. _manags_, OCS _mъnogъ_ "many"
+ETYM: Cf. also OIr. _meince_, _mince_ [iā f] < \*menekkyā. The double \*-kk­ in Celtic is probably the result of expressive gemination, but assimilation in a proto-form \*meneg-ki- is also imaginable; the comparison of PCelt. \*menek- and \*m(o)nogʰ-, implied by Slavic and Germanic forms points to a very un-Indo-European shape of the root. These words might be loanwords from some unknown NW European source (Boutkan 2005: 257).
+REF: [EDPC]
+
+### <a id="menekkya">\*menekkyā "frequency" (n)</a>
+SEE: [\*menekki- "frequent"](#menekki)
+REF: [EDPC]
+
+### <a id="meni">\*mēni- "mineral, metal" (n)</a>
+GOID: OIr. _méin_, _mían_ "ore, metal, mineral" [if]
+W: MW _mwyn_ [m]
+BRET: MBret. _men-gleuz_ "mine"
+PIE: \*(s)mey(H)- "hew, cut" (IEW: 968)
+COGN: Go. _aiza-smiþa_ "smith", OHG _smid_ "smith", "axe", (lang?) _smī́lē_ "a kind of knife"
+ETYM: Fr. _mine_ (and, ultimately, Eng. _mine_) are derived from Gallo-Lat. _mina_, which is the Gaulish counterpart to MIr. _méin_, etc. The PIE etymology is purely conjectural. The Celtic form would presuppose PIE \*mey(H)ni­ (without the s-mobile).
+REF: [EDPC]
+
+### <a id="menman">\*menman- "thought, mind" (n)</a>
+GOID: OIr. _menme_ [n m]
+W: MW _mynw_ [?m] "nature, disposition"
+BRET: MBret. _meno_ [m] (MoBret.) "opinion,judgement"
+GAUL: _Menman-dutis_ [dat.pl., theonym]
+PIE: \*men-mn- (IEW: 726)
+COGN: Skt. _mánman_- "mind, thought"
+SEE: [\*man-yo- "think"](#manyo)
+REF: [EDPC]
+
+### <a id="menno">\*menno- "young of an animal, kid" (n)</a>
+GOID: MIr. _menn_ [o m] "kid, young of an animal"
+W: MW _myn_ [m] "young goat, kid"
+BRET: MBret. _menn_ [m] "young goat"
+CO: OCo. _min_ gl. _hedus_
+PIE: \*men- "small" (IEW: 728)
+COGN: Osc. _menvum_ "diminish", Arm. _manr_ "small", Lith. _meñkas_ "small, unsignificant"
+SEE: [\*menwo- "small"](#menwo)
+ETYM: The origin of the geminate \*nn is uncertain. A simple derivative \*men-no- is possible, as well as \*mendo- (but note that there is no trace of the cluster \*nd in OIr.); a proto-form \*mendo- could be related to VLat. _mannus_, Rum. _mînz_ "foal" (cf. also MHG _menz_ "infertile cow") which is from some unknown substrate (the term "Illyrian" does not mean much). Cf. also Gaul. toponym _Epo-manduo-durum_ and ethnonym _Mandu-bii_ (Sims­ Williams 2006: 90) and Basque _mando_ "mule" (a Celtic loanword?).
+REF: [EDPC]
+
+### <a id="meno">\*mēno- "wish" (n)</a>
+GOID: OIr. _mían_ [on> m] "wish"
+W: MW _mwyn_ [m] "enjoyment, delight, profit, treasure"
+BRET: MoBret. _menn_ [m] "wish"
+PIE: \*meyno- "opinion" (IEW: 714)
+COGN: OE _mān_ "meaning", OHG _meinen_ "to mean", OCS _měniti_ "to mean", perhaps ToB _onmiṃ_ "remorse"
+ETYM: The PIE root may be the \*mey- "exchange", the same as in PCelt. \*moyno- "treasure", but semantic connections are weak. If ToB _onmiṃ_ is related, it must be from \*h₃epi-meyno-.
+REF: [EDPC]
+
+### <a id="mentyon">\*mentyon- "thought, mention" (n)</a>
+GOID: OIr. _toimtiu_ [n f]
+PIE: \*men-ti-Hon- (IEW: 726)
+COGN: Lat. _mentio_ "mention"
+SEE: [\*man-yo- "think"](#menyo)
+ETYM: OIr. _toimtiu_ presupposes \*to-mentyon-. The simplex \*mentyon- is unattested. It is a derivative of the root \*men- "think" with the Italo-Celtic compound suffix \*-ti-on- (or \*-ti-Hon-), cf. Lat. _mentiō_ "a calling in mind, mention".
+REF: [EDPC]
+
+### <a id="menwo">\*menwo- "small, minute" (adj)</a>
+GOID: MIr. _menb_ [o]
+W: MW _difanw_, _difenwi_ "to weaken, decrease, diminish, abuse"
+PIE: \*men- "small" (IEW: 728)
+COGN: Osc. _menvum_ "diminish", Gr. _mānós_ "rare"
+SEE: [\*menno- "young of an animal"](#menno)
+ETYM: MW _difanw_ is from \*dī-menwo-. Gr. _mānós_ is from \*manwos < \*mnwos, while Gr. _mónos_ "alone" is from \*monwos. We seem to be dealing with the PIE pattern \*menu- / \*monw-m / \*mnw-os.
+REF: [EDPC]
+
+### <a id="mergi">\*mergī "rust, corrosion" (n)</a>
+GOID: OIr. _meirc_ [ī f] gl. _aerugo_
+W: MW _merydd_ "wet, stagnant (of water), slow, lazy"
+BRET: OBret. _mergidhaam_ gl. _hebesco_
+PIE: \*merǵ- "be wet, withered" (IEW: 740)
+COGN: MHG _murc_ "withered", Russ. _moróz_ "frost", Alb. _mardhë_ "frost"
+ETYM: MoBret. _mergl_ "rust" could be an early Irish loanword. MW _merydd_ represents a derivative \*mergiyo-. The acute intonation in Slavic may be due to Winter's law.
+REF: [EDPC]
+
+### <a id="merka">\*merkā "maiden" (n)</a>
+W: MW _merch_ [f] "girl, daughter, maiden"
+BRET: MBret. _merch_, MoBret. _merc'h_ [f]
+CO: Co. _myrgh_, _mergh_
+PIE: \*mer- "boy, girl" (IEW: 738f.)
+COGN: Skt. _márya_- "young man", Gr. _meĩraks_ "girl, boy", Lith. _mergà_ "girl", OPr. _mergo_ "girl", perhaps Lat. _marītus_ "married; husband"
+SEE: [\*morēnā "girl"](#morena)
+ETYM: A derivative from the o-grade of the root may be preserved in PCelt. \*morēnā "girl" (MW _morwyn_, OCo. _moroin_).
+REF: [EDPC]
+
+### <a id="mero">\*mero- "crazy, silly" (adj)</a>
+GOID: OIr. _mer_ [o] "crazy, wild"
+W: MW _meredig_, _mereddig_ "foolish, strange"
+ETYM: LEIA adduces as the Brittonic cognates MW _mererid_, _meryerid_ "foolish, crazy" which are not found in GPC (_merierid_ "pearl" is of course another word, borrowed from Lat. _margarita_). This could be due to simple confusion. It is assumed here that the formation found in MIr. is original, while Welsh shows a derivative from the same root. None of the deeper etymologies suggested by LEIA (s.v. _mer_) are more than guesses, but a connection with Gr. _mōrós_ "stupid" appears possible (see PCelt. [\*mar-o-](#maro)).
+REF: [EDPC]
+
+### <a id="merwi">\*merwi- "lifeless" (adj)</a>
+GOID: OIr. _meirb_ [i]
+W: MW _merw_ "limp, lifeless" (GPC _merf_)
+PIE: \*mer- "die", \*mer-wo- "lifeless" (IEW: 736)
+COGN: OHG _maro_, _marawi_ "tender, soft", Gr. _maraínō_ "destroy, quench", Croat. _mrva_ "crumble"
+ETYM: Fr. (dial.) _marv_ "rigid, insensible" is from the Gaulish cognate of these words, cf. Delamarre 219.
+REF: [EDPC]
+
+### <a id="mesalka">\*mesal-kā "blackbird" (n)</a>
+W: MW _mwyalch_ [f]
+BRET: MBret. _moualch_, MoBret. _moualc'h_ [f]
+CO: OCo. _moelh_, MoCo. _mola_
+PIE: \*mes-al- "blackbird" (IEW: 35f.)
+COGN: Lat. _merula_, OHG _amusla_, _amsala_
+ETYM: This word has all the appearances of a loanword from some unknown NW European source, cf. Beekes 1996: 230.
+REF: [EDPC]
+
+### <a id="messo">\*messo- "bad, worst" (adj)</a>
+GOID: OIr. _messa_ "worse", _messam_ "worst" (comparative and superlative of _olc_ "bad")
+GAUL: _messamobi_ [dat. or ins.pl.] (Lezoux)​
+ETYM: OIr. _messa_, _messam_ are probably related to MIr. _meis_ .i. _olc_, but this is a scarcely attested glossary word. The connection with _midithir_ "judges" found in LEIA (M-43f.) is not convincing from the semantic point of view, though it is formally possible (PIE \*med-to- > PCelt. \*messo-). Gaul. _messamobi molatus_ can mean both "praise to the worst ones" and "praise by the worst ones".
+REF: [EDPC]
+
+### <a id="messu-1">\*messu- "acorn" (n)</a>
+GOID: OIr. _mess_ [u m] "acorns, tree-fruit"
+W: MW _mes_ [p] _mesen_ [sing.]
+BRET: MBret. _mes_, MoBret. _mes_ [coll.]
+CO: Co. _mesen_
+ETYM: I find it difficult to accept the usual connection to PIE \*med­ "measure" (IEW 705f.). Go. _mats_, OE _mete_ "food" would fit semantically, but these words are plausibly derived from \*mh₂d- "be wet" (Gr. _madáō_, etc., cf. Orel 2003: 262); the primary meaning of PGerm. \*matiz would have been "soft, wet food" as opposed to "hard food". However, PCelt. \*messu- cannot be related to this root. It may have been borrowed from some non-IE language.
+REF: [EDPC]
+
+### <a id="messu-2">\*messu- "judgement" (n)</a>
+SEE: [\*med-o- "measure, judge"](#medo)
+REF: [EDPC]
+
+### <a id="metelo">\*metelo- "reaper" (n)</a>
+GOID: MIr. _methel_ [ā f] "a troop (ofreapers)" (DIL _meithel_)​
+W: MW _medel_ [f] "a troop (ofreapers)"
+CO: Co. _midil_ gl. _messor_
+GAUL:? _Metlosedum_ [toponym] > Fr. _Melun_
+PIE: \*met- "throw, reap" (IEW: 704)
+COGN: Lat. _meto_ "reap", OCS _metati_, _mesti_
+SEE: [\*met-o- "reap, cut"](#meto)
+ETYM: PCelt. \*metelā would be a collective denoting a group of reapers (\*metelo-). These words are derived from \*met-o- "reap, harvest".
+REF: [EDPC]
+
+### <a id="metto">\*met(t)o- "decay, blight, shame" (n)</a>
+GOID: OIr. _meth_ [o and i, n and m] "decay"
+W: W _meth_ [m and f] "failure, error, misfortune"; MW _methu_ "be unsuccessful, grow weak, err, fail"
+BRET: MBret. _mez_, MoBret. _mezh_ [f] (Vannetais _meh_) "shame"
+CO: Co. _meth_ "shame, confusion"
+ETYM: The geminate \*tt is implied by the Brittonic forms and, perhaps, by OIr. _metta_ "timid, cowardly", but OIr. _meth_ shows the reflex of a single \*t. Since there is no convincing IE etymology, these words could have been borrowed from some non-lE source.
+REF: [EDPC]
+
+### <a id="meto-1">\*met-o- "reap, cut" (v)</a>
+W: MW _medi_
+BRET: MBret. _midiff_
+CO: Co. _midzhi_ (MoCo.)
+PIE: \*met- "throw, reap" (IEW: 703)
+COGN: Lat. _meto_ "reap", OCS _mesti_, _metati_ "throw", Lith. _mèsti_ "throw"
+SEE: [\*metelo- "reaper"](#metelo)
+ETYM: LIV does not relate this PIE verbal root to OCS _metati_, Lith. _mèsti_ "throw", but I believe they belong here, rather than with a putative root \*met­- "reckon" (Gr. _métron_, etc.), or with PIE \*h₂meh₁- "mow" (Gr. _amáō_, Eng. _mow_). The use of this particular verb as an agricultural term is one of the few exclusive Italic and Celtic lexical innovations.
+REF: [EDPC]
+
+### <a id="meto">\*mēto-, \*mēti- "fat, soft" (adj)</a>
+GOID: OIr. _méth_ [o and i] "plump, fat"
+W: W _mwyd_ [m] "a soaking, moistening"
+PIE: \*mey(H)-t- (IEW: 71 lf.)
+COGN: Lat. _mītis_ "mild, mellow, juicy"
+ETYM: IEW (711f.) assumes that these words are related to words like OCS _milъ_ "dear", Lith. _míelas_ "dear", etc., in which case the Balto-Slavic intonation would imply that the root contained a laryngeal. Cf. also Skt. _máyas_ "enjoyment" which may go to \*moyHos. The same root could account for OIr. mín "tender, soft" < PCelt. \*mīno- < \*miHno-, and W _mwyn_ "mild, tender, gentle", MoBret. _moan_ "tender, thin", OCo. _muin_ "thin" < \*mēnV- < \*meyHnV-. See, however, PCelt. \*moyni- "treasure, precious object", where a different etymology is proposed.
+REF: [EDPC]
+
+### <a id="mezgo">\*mezgo- "whey" (n)</a>
+GOID: MIr. _medg_, _medc_ [o m]
+W: MW _meidd_ [m] (GPC _maidd_)​
+BRET: OBret. _meid_, MoBret. _mez_ [m]
+CO: MoCo. _meith_
+PIE: \*mesgo- "marrow" (IEW: 714)
+COGN: Skt. _majján_-, OHG _marg_ "marrow", OCS _mozgъ_ "brain"
+ETYM: Fr. _mègue_ "whey" is supposed to be from Gallo-Latin \*mesga, ultimately from the Gaulish cognate of MIr. _medg_, etc.
+REF: [EDPC]
+
+### <a id="">\*mē, \*me "I" (pron., acc.sg.)</a>
+GOID: OIr. _mé_, _me-s(s)e_
+W: MW _mi_
+BRET: MBret. _me_
+CO: Co. _my_, _me_
+GAUL: -_mi_ (as verbal suffix only)​
+PIE: \*mē (IEW: 702)
+COGN: Lat. _mē(d)​_
+ETYM: In PCelt. two forms must be posited, \*mī and \*me. The form with the short \*e was later lengthened to yield OIr. (emphatic pronoun) _mé_. Already in PIE, this was the suppletive acc.sg. to the 1st person singular personal pronoun \*(h₁)eǵh₂om (Lat. _ego_ etc.) which left no traces in Celtic. For the source of the alternation \*me / \*mē see PCelt. [\*nu](#nu).
+REF: [EDPC]
+
+### <a id="minv">\*mi-nV- "change position" (v)</a>
+W: MW _tramwy_ "movement"
+BRET: MBret. _tremen_ "pass by"
+CO: Co. _tremena_
+PIE: \*mey- "change" (IEW: 710)
+COGN: Skt. _mayati_, Latv. _miju_ [1s.prs.] "change", ToB _mäsk_- "exchange", OCS _minetъ_ "passes (of time)"
+ETYM: The simplex verb is unattested, but cf. also MW _tramynu_ < \*tras-mi-n- "ride through". MW (suppletive) verbal noun _mynet_ "to go, going" is sometimes related to these words, but in this dictionary a different etymology is accepted (see [\*mon-ī- "go"](#moni)).
+REF: [EDPC]
+
+### <a id="minu">\*mi-nu- "bind" (v)</a>
+GOID: OIr. _do-dímen_; _to-demi_ [prt.]
+PIE: \*mey- "bind, fix" (IEW: 709)
+COGN: Skt. _minóti_ "to fix, establish", Latv. _mìets_ "stake, pole"
+ETYM: OIr. _do-dímen_ < \*to-dī-mi-nu- (the simplex is unattested).
+REF: [EDPC]
+
+### <a id="mikn">\*mik-n- "shine, look" (v)</a>
+GOID: MIr. _dimicnigid_ "despises, condemns"; _do-meiccethar_ "despises, dishonours"
+W: MW _ed-mygu_ "admire", _myged_ "admiration"
+BRET: MBret. _dismegans_ "disdain", MoBret. _dismeg_ "lax"
+PIE: \*meyk- "twinkle, blink" (IEW: 712f.)
+COGN: Lat. _mico_, _micāre_ "twinkle, vibrate", ULus. _mikać_ "blink", Russ. _mečtá_ "day-dream"
+ETYM: MIr. _dimicnigid_ < \*dī-mik-n-. IEW (713) says that the Goidelic fonns are loanwords from Brittonic, but this is not certain. We would expect the cluster \*kn to yield n in Goidelic, with the lengthening of the preceding vowel (cf. [\*tuknā](#tukna), [\*makni-](#makni)), but it is possible that _dimicnigid_ is a new formation, and that _do-meiccethar_ points to a variant of the root with the geminate (\*mikk-).
+REF: [EDPC]
+
+### <a id="milo">\*mīlo- "animal" (n)</a>
+GOID: OIr. _míl_ [o n]
+W: MW _mil_ [m]
+BRET: MBret. _mil_ [m]
+CO: Co. _mil_
+PIE: \*meh₁lo- "small animal" (IEW: 724)
+COGN: Gr. _mē̃lon_, OCS _malъ_ "small"
+ETYM: Celtic agrees with Greek in the ablaut grade (\*meh₁lo-), while OCS malъ, must be from \*moh₁lo-. OHG _smal_ "small", Go. _smals_, etc., are probably unrelated, unless \*smh₁lo- > PGerm. \*smala-, with s-mobile. This ablaut pattern may point to a PIE root noun nom.sg. \*smōh₁l / acc.sg. \*smeh₁l-m / gen.sg. \*smh₁los "small animal".
+REF: [EDPC]
+
+### <a id="mindu">\*mindu- "crown, diadem" (n)</a>
+GOID: OIr. _mind_ [u n]
+W: OW _minn_ gl. _sertum_ [?m]
+ETYM: Falileyev (s.v. _minn_, _minnou_) thinks that the Brittonic words could be loanwords from OIr. It is possible that this is actually the same word as PCelt. [\*mendu- "mark"](#mendu), as suggested by LEIA (the semantic development would have been from "mark, distinction" to "precious object").
+REF: [EDPC]
+
+### <a id="mino">\*mīno- "tender, soft" (adj)</a>
+SEE: [\*mēto-, \*mēti- "fat, soft"](#meto)
+REF: [EDPC]
+
+### <a id="mins">\*mīns- "month" (n)</a>
+GOID: OIr. _mí_ [s m > f]
+W: MW _mis_ [m]
+BRET: OBret. _mis_, MBret. _miz_, _mis_, MoBret. _mis_ [m]
+CO: OCo. _mis_ gl. _mensis_, MCo. _mys_
+PIE: \*meh₁ns- "month, moon" (IEW: 703)
+COGN: Skt. _mā́s_-, Lat. _mensis_ "month", Lith. _mė́nuo_ "moon"
+ETYM: In the PIE paradigm the nom.sg. was \*meh₁nōs, the gen.sg. was \*meh₁nes-s (cf. Latv. _mēness_). This paradigm was remodelled in Celtic. The stem \*meh₁ns- was first introduced to the oblique stem, and thence spread to the nom.sg. Celtic may share this development with Italic, cf. Lat. _mēns-is_. The nom.sg. \*mīns was then formed by the regular developments of \*ns > _s(s)_ and \*ē > ī.
+REF: [EDPC]
+
+### <a id="miros">\*mīros- "piece of meat, food" (n)</a>
+GOID: OIr. _mír_ [s n] "morsel, piece of meat"
+PIE: \*mēms-ro- "meat" (IEW: 725)
+COGN: Skt. _māṃsá_-, Lat. _membrum_ "part of the body, limb", Go. _mimz_, Russ. _mjáso_
+ETYM: It is unclear whether the development \*-ēnsro- > PCelt. \*-īro- is regular, since this is the only example where it may have occurred. However, this is probable, since \*V:ns > V:s is regular, as well as the assimilation \*sr > \*rr.
+REF: [EDPC]
+
+### <a id="misko">\*misko- "mixed, confused" (adj)</a>
+GOID: OIr. _mesc_ [o] "confused, drunk"
+W: MW _mysgi_ [m] "trouble, confusion"; _mysgu_ "destroy, unravel, undo"
+BRET: MBret. _e mesk_ "among", MoBret. _mesk_ [m] "mixture"
+CO: Co. _yn mysk_ "among"
+PIE: \*meyk- "mix" (IEW: 714)
+COGN: Lat. _misceo_, OHG _miscan_
+ETYM: The OIr. verb _mescaid_ "mix", and its W cognate _mysgu_ are deadjectival, built to the stem \*mesko-. This has been dissimilated from \*mik-sko- (cf. the same dissimilation in [\*farsk-o- "ask"](#farsko) from \*fark-sk-o-). The development of meaning from "mixed" to "confused" and "drunk" is unremarkable (cf. Eng. to be mixed up).
+REF: [EDPC]
+
+### <a id="mlasto">\*mlasto- "taste" (n)</a>
+GOID: OIr. _mlas_ [o ?] gl. _sapore_, MIr. _blas_
+W: MW _blas_ [m]
+BRET: MBret. _blaz_, _blas_, MoBret. _bals_ [m]
+CO: Co. _blas_
+PIE: \*mel-s- (IEW: 725)
+COGN: Russ. _molsát'_ "suck", Cz. _mlsati_ "lick"
+ETYM: As Hamp (1973: 154) notes, from PIE \*mlsto- we would expect PCelt. \*malsto- rather than \*mlasto-. The aberrant form might be due to metathesis, which may be regular between a labial and a dental cluster, cf. [\*wlanno- "blood red"](#wlanno), [\*wrasto- "shower"](#wrasto).
+REF: [EDPC]
+
+### <a id="mlato">\*mlāto/i- "tender, soft" (adj)</a>
+GOID: OIr. _mláith_ [i]
+W: MW _blawd_ [m] "flour"
+BRET: OBret. _blot_, MoBret. _bleud_ [m] "flour",
+CO: Co. _blot_ "flour", MCo. _bles_
+PIE: \*melh₂ "grind" (IEW: 716)
+COGN: Lat. _molo_, Lith. _malti_
+SEE: [\*mal-o- "grind"](#malo)
+ETYM: The development in Celtic was from "ground" to "tender, soft", and the PIE proto-form was presumably the past participle of the verb "to grind", \*mlh₂to-, or the derived adjective \*mlh₂ti- (which may be more probable in the light of the fact that Dybo's law did not operate; we would expect \*mlato- from \*mlh₂tó-).
+REF: [EDPC]
+
+### <a id="mligo">\*mlig-o- "milk" (v)</a>
+GOID: OIr. _mligid_, -_mlig_; _meill_, -_mell_ [subj.]; _mailg_ [prt.]; _mlechtae_, -_mlecht_ [prt.pass.]
+PIE: \*h₂melǵ- "milk" (IEW: 722f.)
+COGN: Gr. _amélgō_, Lat. _mulgeo_, OCS _mlьzetъ_ "milks"
+SEE: [\*melgos- "milk"](#melgos)
+ETYM: Celtic and Slavic reflect the zero-grade of the PIE root (\*h₂mlǵ-e-), while Greek points to the full grade (\*h₂melg-e-). Presumably the PIE verb had athematic present, with the full grade in the singular and the zero grade in the plural.
+REF: [EDPC]
+
+### <a id="mlixto">\*mlixto- "milk" (n)</a>
+GOID: OIr. _mlicht_ [o m]
+W: MW _blith_ "full of milk, milch"
+PIE: \*h₂melg- (IEW: 719)
+SEE: [\*mlig-o- "milk"](#mligo)
+ETYM: This word is originally a passive past participle of the verb "to milk", PCelt. \*mlig-o-. Milk is, obviously, "that which is milked".
+REF: [EDPC]
+
+### <a id="mogu">\*mogu- "servant" (n)</a>
+GOID: OIr. _mug_ [u m]
+W: MW _meu-dwy_ [m] "servant of God, hermit"
+BRET: OBret. _mauu_ "youth, servant", MBret. _mau_, MoBret. _maw_ [m] "boy"
+CO: Co. _maw_
+GAUL: _Moguntia_ [toponym] (> _Mainz_), _Magurix_ [PN]
+PIE: \*mogʰ-u- "young person" (IEW: 696)
+COGN: Go. _magus_ "boy", _mawi_ "young girl", Av. _maɣava_- "unmarried"
+ETYM: The vocalism of Gaul. _Magu_- is unexpected (if it is indeed from the same root).
+REF: [EDPC]
+
+### <a id="mokku">\*mokku- "pig" (n)</a>
+GOID: OIr. _mucc_ [ā f]
+W: MW _moch_ [f]
+BRET: OBret. _moch_, MoBret. _moc'h_ [coll.]
+CO: Co. _mow_, _mogh_
+GAUL: _Moccos_ [theonym] (?), _Cato-mocus_ [PN]
+ETYM: OIr. _mucc_ was originally an u-stem, as confirmed by the u-affection of the root vowel (GOI 195). In the absence of any known IE cognates, this is a likely candidate for a loanword from some non-IE source. Germ. dial. _Mucke_ (Franconian) "Mutterschwein" is an old Gaul. loanword (S. Zimmer, p.c.).
+REF: [EDPC]
+
+### <a id="mola">\*mol-ā- "praise" (v)</a>
+GOID: OIr. _molaithir_, -_molathar_ (DIL _molaid_)​
+W: OW _molim_ [v.n.], MW _moli_
+BRET: MBret. _meuliff_, MoBret. _meuliñ_
+GAUL: _molatus_ (Lezoux)​
+ETYM: Cf. also the parallel formation of verbal nouns to this verb in OIr. (_molad_), MW _molawd_ and Gaul. (_molatus_), as noted by Schumacher 2000: 78. MoBret. _meulin_ and _meul_ [m] "praise", together with W _mawl_ [m and f] "praise, exaltation", come from PCelt. \*mālo-, which can be from the lengthened grade \*mōlo-. There seem to be no correspondences in other IE languages, but cf. PIE \*meldʰ- "speak solemnly, pray" (Hitt. _māldi_ "praises", Lith. _maldýti_ "pray", Croat. _mòliti_ "pray" < \*modliti, LIV 388, IEW 722). Celtic may have preserved an archaic form of the root without \*-dʰ- (whatever its origin), or it may have falsely analyzed \*dʰ as a present-stem suffix, and then generalized the stem \*mol- throughout the verbal paradigm. Alternatively, if W _mawl_ and MoBret. _meul_ point to a root-noun \*mōldʰs, this could have developed regularly to \*mōl-s, and then the root without \*dʰ could have been extended analogically. Needless to say, all of this is mere speculation.
+REF: [EDPC]
+
+### <a id="molto">\*molto- "ram, wether" (n)</a>
+GOID: OIr. _molt_ [o m] gl. _vervex_
+W: MW _mollt_ [m]
+BRET: MBret. _mout_, _maout_
+CO: OCo. _mols_ gl. _uerues_ , MCo. _mols_
+GAUL: _Moltus_ [PN]; Gallo-Lat. \*multo > Fr. _mouton_
+ETYM: A convincing IE etymology is lacking, so this word was probably borrowed from some non-IE source.
+REF: [EDPC]
+
+### <a id="monetu">\*monetu- "going" (vn)</a>
+SEE: [\*mon-ī- "go"](#moni)
+REF: [EDPC]
+
+### <a id="monga">\*mongā "mane, hair" (n)</a>
+GOID: OIr. _mong_ [ā f] gl. _cirrus_, "a lock or tuft of hair"
+W: MW _mwng_ [m]
+BRET: OBret. _mogou_ [p] gl. _comas_, MBret. _moe_, MoBret. _moue_ [m]
+PIE: \*mon-g- "mane"
+COGN: OE _manu_, Dan. _manke_
+SEE: [\*moni- "neck"](#moni)
+ETYM: If this word is related to \*mon-i- "neck", the derivation with the velar suffix is restricted to Celtic and Germanic.
+REF: [EDPC]
+
+### <a id="moni">\*mon-ī- "go" (v)</a>
+GOID: MIr. _muinithir_ "goes around"
+W: MW _mynet_, _myned_, _mynd_ [v.n.]
+BRET: MBret. _monet_, MoBret. _moned_ [v.n.]
+CO: Co. _mones_ [v.n.]
+GAUL: _moni_ [ipv] (St. Reverien) "go!", or "come!"
+PIE: \*menH- "tread, stamp on" (IEW 726)
+COGN: Umbr. _menes_ [fut.2s] "will come", Lith. _mìnti_ "tread on", CS _męti_ "tread, knead"
+ETYM: The verbal nouns in Brittonic presuppose PCelt. \*monetu-. The meaning of MIr. _muinithir_ is not completely clear, and the verb is poorly attested. The laryngeal in this root is reconstructed on the basis of the acute in Lithuanian. These words are sometimes related to MBret. _tre-men_ "pass by", W _tramwy_ "traverse", etc., but in this dictionary these words are rather derived from PCelt. \*mi-nV- "change position".
+REF: [EDPC]
+
+### <a id="moni-1">\*moni- "neck" (n)</a>
+GOID: MIr. _muin_ [i f] "the upper part of the back below the neck"
+W: MW _mwn_ [m and f]
+BRET: OBret. _mun_
+PIE: \*moni- "neck" (IEW: 747f.)
+COGN: Skt. _mányā_- "neck", Lat. _monīle_ "necklace", OHG _mana_ "mane", Av. _manaoθrī_- "neck"
+SEE: [\*mongā "mane"](#monga)
+ETYM: Cf. also the derivative [\*moniklo- "collar, necklace"](#moniklo) (MW _mwnwgl_, _mwnwg_, _mynwgl_, OIr. _muinel_).
+REF: [EDPC]
+
+### <a id="moni">\*moni- "protection, patronage" (n)</a>
+GOID: MIr. _muin_
+W: MW _mynawc_ (GPC _mynog_) "noble, eminent", "prince"
+ETYM: OIL treats MIr. _muin_ "protection" as the same word as _muin_ "upper part of the back, top, surface". It would have been abstracted from phrases such as _ar muin_ "on top of", _do muin_ "under the protection of", etc. OIr. _muinter_ [ā f] "community or group of persons connected by a bond, family, household" could be from \*moni-tera and preserve the same root, but it has also been derived from Lat. _monasterium_ (< Gr. _monastḗrion_) "monastery, community of monks" (GOI: 570). MW _mynawc_ is a derived adjective (with the suffix \*-āko-) from the underlying noun \*moni- "protection" (it is also attested as a substantive with the meaning "nobleman"). These words have been related to Lat. _manus_ "hand" (de Vaan 2008: 363), which is convincing from the semantic point of view. However, since I prefer to derive Lat. _manus_ and Gr. _márē_ "hand" from PIE \*meh₂r / \*mh₂nos, this etymology is unlikely to be correct (we would expect \*māni or \*mani- in Celtic).
+REF: [EDPC]
+
+### <a id="moniklo">\*moniklo- "collar" (n)</a>
+SEE: [\*moni- "neck"](#moni)
+REF: [EDPC]
+
+### <a id="moniyo">\*moniyo- "mountain" (n)</a>
+W: MW _mynydd_ [m]
+BRET: OBret. _monid_, MBret. _menez_, MoBret. _menez_ [m]
+CO: OCo. _menit_
+PIE: \*mon- "mountain, hill" (IEW: 726)
+COGN: Av. _maiti_-, Lat. _mōns_, OIc. _mønir_ "ridge of a roof"
+ETYM: MIr. _moned_, _monad_ "mountain" occurs only in Scottish toponyms and is considered to be a Pictish loanword, cf. also Scot. _monadh_ "mountain". In terms of word formation, the closest parallel to PCelt. \*moniyo- is found in Germanic. Lat. _mōns_ and Av. _maiti_- seem to point to PIE \*mon-ti- / \*mn-tey- (with unexpected o-grade deduced from Latin).
+REF: [EDPC]
+
+### <a id="mori">\*mori- "sea" (n)</a>
+GOID: OIr. _muir_ [in (later m and f)]
+W: MW _mor_ (GPC _môr_) [m]
+BRET: OBret. _mor_, MBret. and MoBret. _mor_ [m]
+CO: OCo. _mor_ gl. _mare_, MCo. _mor_
+GAUL: _Mori-ni_ [ethnonym], _Are-morica_ (ancient name of _Bretagne_)​
+PIE: \*mori "sea, standing water" (IEW: 748)
+COGN: Lat. _mare_, OHG _mari_, _meri_ "sea, lake", OCS _morje_ "sea", Oss. _mal_ "standing water"
+ETYM: W _mor_ cannot be directly from \*mori, since this would have given \*\*myr. Probably the original i-stem became o-stem in Brittonic. Fr. _morue_ "cod" (dial. also _molue_) could be from Gaul. \*morūkā, ultimately from the same root as \*mori "sea" (Gamillscheg 634).
+REF: [EDPC]
+
+### <a id="morwi">\*morwi- "ant" (n)</a>
+GOID: MIr. _moirb_ [i f]
+W: MW _myr_ [f] (GPC _mŷr_, _myrr_)​
+BRET: MBret. _meryenenn_ [sing.], MoBret. _merion_ [coll.] "ants"
+CO: MoCo. _mwrrian_
+PIE: \*morwi- "ant" (IEW: 749)
+COGN: Skt. _vamrá_-, _vamrī́_-, Av. _maoiri_-, OE _myre_, ORuss. _morovej_, Gr. _mýrmos_
+ETYM: The PIE form is notoriously difficult to reconstruct. The PIE i-stem implied by the agreement between MIr. and Avestan is probably older than the thematic forms found in Skt. (which also involves metathesis) and Greek (with assimilation \*morwo- > \*mormo-, and subsequent change of \*o > _y_ between a labial and a resonant).
+REF: [EDPC]
+
+### <a id="mora">\*morā "female demon" (n)</a>
+GOID: MIr. _mor-rígain_ [ī f] "female demon"
+PIE: \*moreh₂ "female demon" (IEW: 736)
+COGN: OHG _mara_, Russ. _morá_, Croat. _Mòrana_ "a mythological figure, female demon"
+SEE: [\*marwo- "dead"](#marwo)
+ETYM: Presumably an abstract noun derived from the root \*mer- "to die" (cf. PCelt. \*marwo- "dead").
+REF: [EDPC]
+
+### <a id="morena">\*morēnā "girl" (n)</a>
+SEE: [\*merkā "maiden"](#merka)
+REF: [EDPC]
+
+### <a id="moxs">\*moxs "early" (adv)</a>
+GOID: OIr. _mos_-, _mó_ "soon"
+W: MW _moch_
+PIE: \*moḱsu "early, soon" (IEW: 747)
+COGN: Skt. _maḳṣū́_ "quickly", Av. _mošu_ "soon", Lat. _mox_ "soon"
+ETYM: OIr. _moch_ "early" is a loanword from Brittonic. The prefix _mos_-, however, is inherited, cf. OIr. _mos-riccub-sa_ "I will come immediately". The length in OIr. _mó_ is due to lengthening in monosyllables (as in _mé_ "I" from \*me, cf. _me-sse_ "I").
+REF: [EDPC]
+
+### <a id="moyni">\*moyni- "treasure, precious object" (n)</a>
+GOID: OIr. _moín_ [? f] (DIL _maín_) "gift, benefit, treasure, valuable article"
+W: OW _muin_ [m], MW _mwyn_ "worth, value"
+BRET: OBret. _moin_ gl. _dulcis amica_, MBret. _moen_, MoBret. _moan_ "thin"
+CO: OCo. _muin_ gl. _gracilis_
+PIE: \*mey-n- "exchange" (IEW: 710)
+COGN: Lat. _mūnus_ "duty, charge, task", Skt. _mení_- "revenge", Go. _ga-mains_ "common", Lith. _maĩnas_ "exchange"
+ETYM: The development of meaning in Breton and Comish was from "beautiful" to "gracile" and (in Breton) "thin". The original meaning may have been "(precious) piece of property for exchange".
+REF: [EDPC]
+
+### <a id="moyto">\*moyto- "tender" (adj)</a>
+GOID: OIr. _moíth_ [o] (DIL _maeth_ (_moeth_))
+W: W _mwydion_ [p] "tender parts of the body"; _mwydyn_ [m] "pulp, soft inner part"
+SEE: [\*mēto-, \*mēti- "soft"](#meto)
+ETYM: MBret. _boedenn_, MoBret. _bouedenn_ "pulp, marrow" is sometimes derived from the same root (by assimilation \*m...d > b...d), but this is improbable; it is rather derived from _boued_ "food" < PCelt. [\*bētu- "food"](#betu) (OIr. _bíad_, etc.).
+REF: [EDPC]
+
+### <a id="mraki">\*mraki- "malt" (n)</a>
+GOID: OIr. _mraich_, [i m], MIr. _braich_
+W: MW _brag_ [m]
+BRET: MBret. _braguez_, MoBret. _bragez_ "wheat malt" [m]
+CO: Co. _brag_
+GAUL: \*brakis (_genus farris quod Galli_ bracem _uocant_ (Pliny))
+PIE: \*merk- "be soaked" (IEW: 739)
+COGN: Lat. _marceo_ "to be withered, droop, shrink", Ukr. dial. _morokvá_ "quagmire, swamp", Lith. _mer̃kti_ "to soak, become wet"
+ETYM: Fr. _brais_ "barley malt" is from Gaul. \*braki- < \*mraki-. The vocalism in Celtic is puzzling, since PIE \*mrki- should give PCelt. \*mriki-. Maybe the similarity to Lat. _marceo_ etc. is accidental, and the PCelt. word is borrowed from some unknown source (this would not be unusual for a term from food-processing technology).
+REF: [EDPC]
+
+### <a id="mrato">\*mrato- "deceit" (n)</a>
+GOID: OIr. _mrath_ [o n], MIr. _brath_
+W: MW _brad_ [m and f] "treachery, trick"
+BRET: OBret. _brat_ gl. _seditione_, MoBret. _barat_, _barad_
+CO: Co. _bras_
+SEE: [\*mar-na- "deceive"](#marna)
+ETYM: This is the old past passive participle from the same verbal root as \*mar-na- (which ended in laryngeal); the development was presumably \*mrHtó- > \*mrātó- > \*mrato- (by Dybo's law).
+REF: [EDPC]
+
+### <a id="mrixto">\*mrixto- "variegated, diversified, painted, speckled" (adj)</a>
+GOID: OIr. _mrecht_ [o]
+W: OW _brith_ gl. _pictam_, W _brith_
+BRET: MBret. _briz_, MoBret. _brizh_
+CO: Co. _bruit_
+PIE: \*mergʷ- "dark, coloured" (IEW: 733f.)
+COGN: Gr. _amorbós_ "dark", Olc. _myrkr_ "dark", Lith. _márgas_ "variegated"
+ETYM: Cf. also W denominal verb _britho_ "speckle, colour". OIr. _mrecht_ is not well attested, so this etymology is rather uncertain. The Celtic forms point to the zero-grade \*mrgʷto- (> \*mrikto- > \*mrixto-); the acute intonation in Lith. may be due to Winter's law.
+REF: [EDPC]
+
+### <a id="mrogi">\*mrogi- "territory, region" (n)</a>
+GOID: OIr. _mruig_, [i m], MIr. _bruig_
+W: MW _bro_ [f]; _brofodd_, _broedd_ [p]
+BRET: OBret. _bro_, MBret. and MoBret. _bro_ [f]
+CO: Co. _bro_
+GAUL: _Brogi-maros_ [PN]; _brogae Galli agrum dicunt_ (schol. Juven. 8.234), cf. also Galatian _Brogitarus_ [PN] and _Nitio-broges_ [ethnonym]
+PIE: \*morǵ- "frontier" (IEW: 738)
+COGN: Lat. _margō_ "frontier, margin", Go. _marka_ "frontier", MoPers. _marz_ "region"
+ETYM: W _Cymru_ "Wales" < \*kom-mrogi-. The Celtic forms must be explained by metathesis (\*morgi- > \*mrogi-). The causes of this metathesis are unclear.
+REF: [EDPC]
+
+### <a id="mug">\*mūg- "conceal" (v)</a>
+GOID: OIr. _for-múigthe_, _for-múchtha_ "smothered, concealed"
+PIE: \*mewg- "cheat, deceive" (IEW: 743f.)
+COGN: Lat. _muger_ "dice-cheat", ME _micher_ "thief", OHG _mūhho_ "bandit"
+ETYM: A very dubious etymology, not only because of the difference in meaning, but also in light of the unexpected long \*ū in Celtic.
+REF: [EDPC]
+
+### <a id="mukv">\*muk-V- "smoke" (n)</a>
+GOID: MIr. _múch_ [ā f]
+W: MW _mwg_ [m]
+BRET: MBret. _mog_, _moug_ "hearth"
+CO: Co. _mok_
+ETYM: MIr. _múch_ is poorly attested, chiefly in glossaries. It presupposes long \*ū, but cf. the verbal noun _muchad_ (to _múchaid_ "stifle, quench"); MIr. _muich_, _múich_ "gloom, dejection" may be from a different root. The Brittonic words must be from \*muk-, with a short vowel. A connection with PIE \*(s)mewǵʰ- "smoke" (IEW 971) appears probable, but there are many irregularities in the reflexes of this root. Gr. _smŷ́khō_ "burn in moldering fire" presupposes PIE \*smuHǵʰ-, while OE _smeocan_ "to smoke" appears to be from \*smewg-.
+REF: [EDPC]
+
+### <a id="muno">\*mūno- "urine" (n)</a>
+GOID: OIr. _mún_ [m, perhaps earlier n]
+PIE: \*mewH- "wash, make wet" (IEW: 741)
+COGN: Skt. _mū́tram_ "urine", OCS _myti_ "wash"
+ETYM: Cf. also the denominative verb MIr. _múnaid_ "piss"; both the verb and the noun are attested rather late. The PCelt. form is compatible with PIE \*muH-no-. OIr. _múr_ "mire, shoal" may be from the same root and represent \*muHro-, but it is more likely to have been borrowed from ON _mýrr_ "slime".
+REF: [EDPC]
+
+### <a id="musso">\*musso- "dirty" (adj)</a>
+GOID: OIr. _mosach_ [o]
+W: MW _mws_ "stinky, smelly"
+BRET: OBret. _mos_, MBret. and MoBret. _mous_ [coll.] "litter, garbage"
+CO: Co. _mousak_, _mosek_ "smelly"
+PIE: \*mewd- (IEW: 742)
+COGN: Gr. _mýsos_ "filth"
+ETYM: The forms attested actually presuppose both \*musso- and \*mussako-; cf. also OBret. _admosoi_ gl. _inrogauerit maculam_ and OIr. _mosar_ "dirt" (an old collective in \*-aro-, as in _clochar_ "heap of stones, rocky area" from _cloch_ "stone"). If the IE etymology is correct, PCelt. \*musso- is from \*mud-so-, cf. also MoLG _mussig_ "dirty".
+REF: [EDPC]
+
+### <a id="mustako">\*mustāko- "boy" (n)</a>
+GOID: Ogam _MOSAC_ [?gen.sg.]
+COGN: Lat. _mustus_ "young"
+ETYM: The connection with PCelt. \*musso- > OIr. _mosach_ "dirty" (Ziegler 1994: 210) does not convince semantically. OIr. _MOSAC_ is the translation of Lat. _puer_ in the Ogam inscription of Crickhowel in Wales, CIIC 327 (_TVRPILLI IC IACIT PVVERI TRILVNI DVNOCATI_ = _TURPILI MOSAC TRALLONI_). It is presumably a derivative in \*-āko- from the same root as Lat. _mustus_ (cf. also Lat. _mustax_ "a kind of laurel"), but a PIE etymology cannot be found. It is possible that Sp. _mozo_ "boy, servant, waiter" should be derived from Celtic (?Celtiberian) \*musso-, from the same root as \*mussāko- (Marcus Obaya, p.c.).
+REF: [EDPC]
+
+### <a id="muto">\*muto- "penis" (n)</a>
+GOID: MIr. _moth_ [o m] "penis, male being, masculine gender (in grammar)"
+PIE: \*muH-to- "penis" (IEW: 753)
+COGN: Lat. _mūtō_, _mūttō_
+ETYM: A possible cognate is MoIr. _mut_ "circumcised", Scot. _mutach_. These forms presuppose expressive gemination (\*mutto-), cf. also Lat. _mutilus_ "mutilated". For the semantic connection, cf. Skt. _kárṇa_- "ear" and CS _krъnъ_ "maimed, with slit ears". The short \*u in PCelt. \*muto- is due to shortening by Dybo's law. On the other hand, I do not see a particular reason to believe that Luv. _mūwa_- "to overpower (vel sim.)", Hitt. _mūwa_- "an awe inspiring quality" (presumably borrowed from Luv.) are related to these words.
+REF: [EDPC]
+
+### <a id="muxto">\*muxto- "soft, tender" (adj)</a>
+GOID: MIr. _mocht_ [o] "soft, tender"
+W: MW _mwyth_ [m] "luxury, ease, pleasure"
+PIE: \*mewk- "soft" (IEW: 744)
+COGN: Lat. _mūcor_ "mould", _mūcus_ "slime, mucus", Gr. _mýksa_ "slime", Latv. _mukls_ "marshy"
+ETYM: This is a very problematic etymology. MIr. _mocht_ is a glossary word, and it is not in DIL; moreover, its meaning does not agree with MW _mwyth_; it is possible that the meaning "luxury, pleasure" developed from something like "softness, the state of being relaxed", cf. also MIr. _múr_ "abundance" which might be from \*mux-sro- < \*muk-sro- (presuming vowels are lengthened before \*-xsr- and \*-xsl-, cf. PCelt. [\*tāxslo- "axe"](#taxslo) < \*toxslo-). GPC adduces also W _mwyth_ "fever, first signs of a disease", but it is unclear if this word is etymologically related at all.
+REF: [EDPC]
