@@ -2569,7 +2569,7 @@ GAUL: _duxtir_ (Larzac)
 CELTIB: _tuateros_ [gen.sg.] (Botorrita III)
 PIE: \*dʰugh₂tēr "daughter" (IEW: 277)
 COGN: Hieroglyphic Luv. _tuwatar_-, Skt. _duhitár_-, Gr. _thygátēr_, Go. _dauhtar_, Lith. _duktė̃_, OCS _dъšti_, ToB _tkācer_, Arm. _dustr_
-ETYM: OIr. _der_ [f] "girl" and _der_- in compounds and PNs (Moir. _Der­-droighen_) is probably the reduced form of the word for "daughter" in OIr. It may be an allegro-form of the word. The loss of \*x and the development of _a_ in Celtiberian _tuateros_ (also attested in nom.pl. _tuateres_) is unexplained.
+ETYM: OIr. _der_ [f] "girl" and _der_- in compounds and PNs (MoIr. _Der­-droighen_) is probably the reduced form of the word for "daughter" in OIr. It may be an allegro-form of the word. The loss of \*x and the development of _a_ in Celtiberian _tuateros_ (also attested in nom.pl. _tuateres_) is unexplained.
 REF: [EDPC]
 
 ### <a id="dwaw">\*dwāw "two" (num)</a>
