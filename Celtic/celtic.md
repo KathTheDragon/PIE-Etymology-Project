@@ -8416,3 +8416,373 @@ PIE: \*h₁oy-to- "a going" (IEW: 295)
 COGN: OHG _eid_ "oath", ToB _aittanka_ "directed toward".
 ETYM: Presumably, this is a derivative of the root \*h₁ey- "to go"; the original meaning of "oath" in Celtic and Germanic would be "a going, path". This could be motivated by the custom of walking between pieces of sacrificed animals to give force to the oath, cf. also Gr. _oĩtos_ "course, fate".
 REF: [EDPC]
+
+## R
+
+### <a id="radi">\*rād-ī- "talk" (v)</a>
+GOID: OIr. _rádid_, _radid_, -_radi_ "talks"
+W: OW _amraud_ "thought, meditation", W _amrawdd_ [m] "mind"
+PIE: \*(H)reHdʰ- "perform successfully" (IEW: 59f.)
+COGN: Skt. _rādh_- "perform successfully", OCS _raditi_ "take care of, work", Go. _rodjan_ "talk", Lith. _rodýti_ "show"
+SEE: [\*ambi-rād-ī- "think"](#ambiradi)
+ETYM: The Celtic reconstruction \*rād-ī- presupposes PIE \*(H)roHdʰ-, \*(H)rHdʰ- or \*(H)reh₂dʰ -; the primary meaning of the root may be preserved in Skt. _rādh_-, but the semantic development in separate IE branches is not quite clear. If Lith. _rodýti_ is from the same root, the laryngeal might be \*h₂, but LIV (s.v. \*reh₁dʰ -) and Mayrhofer (s.v. _rādh_-) reconstruct \*h₁ because of Go. _ga-redan_ "to intend, have a plan for", OHG _rātan_ "advise" and the related Germanic words (from \*(H)reh₁dʰ-).
+REF: [EDPC]
+
+### <a id="rano">\*rāno- "mane" (n)</a>
+GOID: MoIr. _rón_ [o m]; MIr. _róinne_, _rúainne_ [io m] "a single hair"
+W: MW _raun_ [m] (GPC _rhawn_)​
+BRET: MBret. _reun_ [m]
+CO: Co. _rün_
+ETYM: According to Pedersen (I: 49) OIr. ron was borrowed from Brittonic, but it is not obvious that it should be. In any case, the IE etymology of the Brittonic words is uncertain. They could, in principle, be connected to PSl. \*pormy "lock (of hair)", Croat. _prȁmen_, Cz. _pramen_, Pol. _promień_ < PIE \*porH-men. PCelt. \*frāno- would be regularly derivable from \*prHno- or \*prHmno- (the development of PIE \*-mn- in Celtic is uncertain; all instances of \*-mn- in PCelt. are from earlier \*-bn-, cf. [\*obno- "fear"](#obno)).
+REF: [EDPC]
+
+### <a id="rasmiyo">\*rāsmiyo- "oar" </a>
+SEE: [\*rā-yo- "row"](#rayo)
+REF: [EDPC]
+
+### <a id="rayo">\*rā-yo- "row" (v)</a>
+GOID: OIr. _ráïd_, -_rá_; _reraid_, -_rera_ [fut.], _rerais_, -_rerae_ [prt.]
+PIE: \*h₁reh₁- "row" (IEW: 338)
+COGN: Gr. (Myc.) _e-re-e_ "row", OE _rōwan_, Lith. _ìrti_
+ETYM: OIr. _rámae_ [io m, later also ā f and o m] "oar" probably reflects a similar extension of this root as Lat. _rēmus_ "oar". Both might be derived from \*h₁reh₁-s mo- (Lat. rēmus) viz. \*h₁rh₁-smo- (PCelt. [\*rāsmo-](#rasmiyo)). PCelt. \*rā-yo- presumably preserved the zero-grade of the root (PIE \*h₁rh₁-), but note that \*h₁roh₁-yo- would have also given the same result (cf. Lat. _fodio_ "dig", also with the o-grade in the present stem typical of verbs denoting physical activities). OE _rowan_ and the related Germanic verbs also presuppose the o-grade.
+REF: [EDPC]
+
+### <a id="razdo">\*razd-o- "scrape, scratch" (v)</a>
+W: MW _rathu_ (GPC _rhathu_)​
+BRET: MoBret. _rahein_ (Vannetais) "scrape, shave"
+PIE: \*(H)reh₂s-dʰ(h₁)o- "shear, scratch, shave" (IEW: 854 (\*rēd-))
+COGN: Lat. _rādo_ "shave"
+ETYM: A connection of these words with Germ. _Ratte_ "rat", Eng. _rat_, and the related Germanic words is possible, if their original meaning was "rodent" vel sim.
+REF: [EDPC]
+
+### <a id="redi">\*rēdi- "simple, easy" (adj)</a>
+GOID: OIr. _réid_ [i] "simple, easy, flat"
+W: OW _ruid_ gl. _uacuum_, W _rhwydd_ "easy, quick"
+BRET: OBret. _ruet_, MBret. and MoBret. _rouez_
+PIE: \*(H)reydʰ- "ride, drive" (IEW: 861)
+COGN: OHG _bi-reiti_ "ready"
+SEE: [\*rēd-o- "ride"](#redo-2)
+ETYM: If the derivation from PIE \*(H)reydʰ- "ride, drive" is correct, the semantic development was from "riding, driving" to "ready" (cf. OHG _bi-reiti_, Eng. _ready_) and "easy, simple".
+REF: [EDPC]
+
+### <a id="redo-1">\*rēdo- "the act of riding, chariot" (n)</a>
+GOID: OIr. _ríad_ [o n] "riding, driving, voyage"
+W: MW _gorwydd_ [m] "horse"
+GAUL: Gallo-Lat. _rēda_ (Isidore of Seville) > MLat. _rēda_ "chariot"
+SEE: [\*rēd-o- "ride"](#redo-2)
+ETYM: MW _gorwydd_ is from [\*ufo-rēdo- "a ride"](#uforedo). Cf. also Gallo-Lat. _paraveredus_ "work-horse" (attested in Codex Iustinianus X, 48, 12, 2), which is the source of Germ. _Pferd_ "horse", Dutch _paard_.
+REF: [EDPC]
+
+### <a id="redo-2">\*rēd-o- "ride" (v)</a>
+GOID: OIr. _réidid_, -_réid_; _reraid_ [prt.]
+PIE: \*(H)reydʰ- "ride" (IEW: 861)
+COGN: OE _rīdan_, Lith. _riedė́ti_ "roll"
+SEE: [\*ufo-rēdo- "horse"](#uforedo), [\*rēdi-"simple, easy"](#redi)
+ETYM: Cf. W _rhwyd-hau_ "hurry". The same root is preserved in PCelt. \*ufo-redo- "horse" and, probably, \*redi- "simple, easy".
+REF: [EDPC]
+
+### <a id="redsman">\*rēd-sman-, \*ressman- "movement, course" (n)</a>
+GOID: OIr. _réimm_ [n n] "course, movement"
+SEE: [\*rēd-o- "ride"](#redo)
+ETYM: OIr. _réimm_ is the verbal noun of _réidid_ (cf. \*red-o- "ride").
+REF: [EDPC]
+
+### <a id="regini">\*regini- "hard, stiff" ()</a>
+GOID: OIr. _rigin_ [i] "tough, hard, slow"
+W: MW _rein_ "stiff, rigid" (GPC _rhain_)​
+SEE: [\*reg-o- "stretch"](#rego)
+ETYM: The meaning "hard, stiff" could have developed from "stretched", which would have been the primary meaning of this adjective (cf. PCelt. [\*rig-o- "stretch"](#rigo-3)).
+REF: [EDPC]
+
+### <a id="rego">\*reg-o- "extend, stretch, straighten" (v)</a>
+GOID: OIr. _a-t-raig_ "stands up, rises" (DIL _at-reig_); -_ré_ [subj.], -_ré_ [fut.]; -_recht_ [prt.]; -_recht_ [prt.pass.]
+W: MW _re_ (GPC _rhe_) "get up, rise"
+BRET: OBret. _gurre_ "rise, get up", MBret. _re_ "leads, drives"
+GAUL: _regu-c_ [1s.prs.] (Chamalières)​
+PIE: \*h₃reǵ-o- "extend, stretch, rule" (IEW: 854ff.)
+COGN: Skt. _ṛñjánti_ [3p] "rule", Gr. _orégō_ "extend, stretch", Lat. _rego_ "rule", Go. _rikan_ "to heap up", ME _reken_ "to stoke a fire", ToB _räk_- "extend, cover"
+SEE: [\*rīg-s "king"](#rig), [\*rig-o- "extend, stretch"](#rigo-3)
+ETYM: OIr. _at-raig_ < \*exs-reg-o- (the simplex is unattested in Goidelic). OBret. _gurre_ < \*ufor-reg-o-. Gaul. _reguc_ may end in the particle -_c_ < \*ke, but Lambert 1994: 157 gives another possible interpretation. He derives it from a noun \*regut- corresponding to MIr. _rig_ [f ], gen.sg. _riged_ "fore-arm".
+REF: [EDPC]
+
+### <a id="rēgsman">\*reg-sman- (\*rexsman-) "bond" (n)</a>
+W: OW _ruimmein_ [p]
+SEE: [\*rig-o- "bind"](#rigo-1)
+REF: [EDPC]
+
+### <a id="#reko-1">\*rek-o- "arrange" (v)</a>
+GOID: OIr. _ad-eirrig_ "repeats, changes"
+PIE: \*(H)rek- "set in order" (IEW: 863)
+COGN: Go. -_rahnjan_ "calculate", OCS _rešti_ "say", ToB _reki_ "word"
+ETYM: OIr. _ad-eirrig_ < \*ati-feri-rek-o-. This OIr. verb is usually related to PCelt. [\*reg-o- "extend"](#rego); I follow KPV 536f. in attributing it to PIE \*(H)rek­ "set in order". The semantic development was presumably from "set in order" to "repair" and "repeat", but details are unclear.
+REF: [EDPC]
+
+### <a id="#reko-2">\*rek-o- "tear apart" (v)</a>
+W: MW _rwygaw_ (GPC _rhwygo_)​
+BRET: MBret. _roegaff_, MoBret. _roegañ_
+PIE: \*h₁reyk- "crush" (IEW: 858)
+COGN: Gr. _ereíkō_, Lith. _riẽkti_ "cut (bread)"
+ETYM: The palatalized \*ḱ is implied by Skt. _riśáti_ "tear off", but I am not sure whether this is from the same root (note also _k_ instead of _š_ in Lithuanian _riekti_).
+REF: [EDPC]
+
+### <a id="remesso">\*remesso- "period of time" (n)</a>
+GOID: MIr. _reimes_, _reimis_ [o m]
+BRET: MBret. _remsy_, MoBret. _rems_ [m]
+ETYM: MIr. _reimse_ "time" (DIL, s.v.) is derived from _reimes_. It may be from \*remessyā, but the stem formation is uncertain. The etymology of PCelt. \*remesso- is problematic; we could start from \*remes-to-, a derivative from an s-stem \*remos-, and compare PCelt. [\*rom-ī- "place, put"](#romi). Since \*rom-ī- is a causative to \*rem- "be at rest", the semantic development could have been from "rest, period of rest" to "time, period of time", but this is not completely persuasive.
+REF: [EDPC]
+
+### <a id="remro">\*rem(r)o- "great, fat, thick" (adj)</a>
+GOID: OIr. _remor_ [o] "great, fat"
+W: MW _ref_ (GPC _rhej_) "thick, stout, large"
+ETYM: OIr. _remor_ presupposes \*remro-, while MW ref can be from \*remo-. The IE etymology is unknown.
+REF: [EDPC]
+
+### <a id="rendi">\*rendi- "point, peak" (n)</a>
+GOID: OIr. _rind_ [i m]
+BRET: OBret. _gabl-rinn_ "_fourche à pointe_, forked branch"
+ETYM: The OBret. compound _gablrinn_ has the exact parallel in Ir. _gabhal­ rind_. It is unclear whether OIr. _rind_ [i n] "star" is originally the same word, or an accidental homonym without etymology. The semantic connection would be clear if stars were mythologically represented as spear-points. A convincing IE etymology is lacking.
+REF: [EDPC]
+
+### <a id="reno">\*rēno- "large expanse of water" (n)</a>
+GOID: MIr. _rían_ [o m] "sea, ocean, course, route"
+GAUL: _Rēnos_ > Lat. _Rhēnus_ "Rhine"
+PIE: \*(H)reyH- "flow" (IEW: 330)
+COGN: Skt. _rī́yate_ "flows", OE _ríð_ "stream", Lat. _rīvus_ "river"
+SEE: [\*riya-tro- "torrent"](#riyatro)
+ETYM: Gaul. _rēnos_ "river" is the source of OFr. _rhin_ "stream". PCelt. \*rēno­ presupposes PIE \*(H)reyH-no-. If Gr. _orī́nō_ "to whirl" is from the same root, the initial laryngeal can be identified as \*h₃.
+REF: [EDPC]
+
+### <a id="rentu">\*rentu- "thing, matter" (n)</a>
+GOID: OIr. _rét_ [u m]
+PIE: \*(H)ren-t- "possession" (IEW: 865)
+COGN: Skt. _rátna_- "possession, precious object"
+ETYM: Quite a speculative etymology, since the reflexes of the PIE root are limited to just two branches, and a metathesis of \*nt > _tn_ must be assumed in Sanskrit. Mayrhofer (s.v. _ratna_-) leaves the Sanskrit word without a PIE etymology.
+REF: [EDPC]
+
+### <a id="reto">\*ret-o- "run" (v)</a>
+GOID: OIr. _reithid_, -_reith_; _reiss_, -_ré_ [subj.]; _reiss_, -_ré_ [fut.]; _ráith_ [prt.]; _ressae_, -_ress_ [prt.pass.]
+W: OW _retit_ [3s.prs.], MW _redec_; _red_ [3s.prs.] (GPC _rhedeg_)​
+BRET: MBret. _redec_, MoBret. _redeg_
+CO: Co. _resek_
+PIE: \*(H)reth₂ "run" (IEW: 866)
+COGN: Lat. _rota_ "wheel", Skt. _rathá_- "chariot"
+SEE: [\*roto- "wheel"](#roto), [\*retu- "course"](#retu)
+ETYM: In Welsh, the element -_reto_- > -_red_ was generalized as a suffix forming abstract nouns (e.g. W _brith-red_ [m] "confusion, strife", cf. Zimmer 2000: 446ff.). Words for "wheel, chariot" (OIr. _roth_) are also derived from this PIE root.
+REF: [EDPC]
+
+### <a id="retu">\*retu- "course" (n)</a>
+GOID: OIr. _riuth_, _rith_ [u m]
+W: MW _red_ (GPC _rhed_) [f and m]
+BRET: MBret. _red_ [m]
+CO: Co. _res_
+SEE: [\*ret-o- "run"](#reto)
+REF: [EDPC]
+
+### <a id="rextu-1">\*rextu- "fury, outburst of anger" (n)</a>
+GOID: MIr. _recht_ [u m] "paroxysm, outburst of anger"
+ETYM: W _rhaith_ "plunder, booty" adduced by LEIA R-12 seems not to exist. GPC (I: 153) has _anrhaith_ [f] "plunder, booty, foray" which is clearly from the negation _an_- and _rhaith_ "law". The derivation from PIE \*h₁rep-tu­ (Skt. _rápas_ "wound, lesion", Gr. _eréptomai_ "devour, snatch away", perhaps Hitt. _arpa_- "bad luck, misfortune", cf. IEW 865) may be possible.
+REF: [EDPC]
+
+### <a id="rextu-2">\*rextu- "rule, law" (n)</a>
+GOID: OIr. _recht_ [u m]
+W: MW _reyth_ (GPC _rhaith_) [f] "law, sermon, jury, verdict"
+BRET: MBret. _rez_, _reiz_ "law, rule, arrangement", MoBret. _reizh_ [m]
+CO: Co. _ryth_ "sex, kind"
+GAUL: _Rextu-genos_
+CELTIB: _retu-keno_ [gen.sg., PN] (Bottorita III)
+SEE: [\*reg-o- "extend, stretch"](#rego)
+ETYM: Gaul. _Rextugenos_ and Celtib. _Retukeno_ are completely parallel compounds that could be derived from PCelt. \*rextu-genos.
+REF: [EDPC]
+
+### <a id="rig">\*rīg- "king" (n)</a>
+GOID: OIr. _rí_ [g m], Ogam _VOTECO-RIGAS_
+W: OW _ri_, MW _ri_ [m] (GPC _rhi_)​
+GAUL: _Rigomagus_ [toponym], _Catu-rix_ [PN]
+CELTIB: _Teiuo-reikis_ [PN] (K.6.1)
+PIE: \*(H)reǵ- "king" (IEW: 855)
+COGN: Skt. _rā́j_-, Lat. _rēx_
+SEE: [\*rīganī "queen"](#rigani)
+ETYM: Celtib. _Teiuoreikis_ is interpreted as a compound name parallel to Gaul. _Devorix_. However, the spelling -_ei_- in -_reikis_ is unclear, since Celtib. -_ei_- is usually from PCelt. \*ē (< PIE \*ey) rather than from PCelt. \*ī (the exact reflex of which in Celtib. is not quite certain, although _i_ is expected). Moreover, the ending -_is_ looks like the nom.sg. of an i-stem, rather than of a consonant stem. On the PIE side of this etymology, there have been some justified doubts about the existence of the PIE word for "king" (see Matasović 2004: 85 and the literature quoted there). Perhaps PIE \*(H)rēǵs meant "power, force", or something similar.
+REF: [EDPC]
+
+### <a id="rigani">\*rīganī "queen" (n)</a>
+GOID: OIr. _rígain_ [ī f]
+W: MW _riein_ [f] "young girl, virgin" (GPC _rhiain_)​
+GAUL: _rigani_ (Lezoux)​
+PIE: \*(H)rēǵnih₂ "queen" (IEW: 856)
+COGN: Skt. _rájñī_-, Lat. _rēgīna_
+SEE: [\*rīg- "king"](#rig)
+ETYM: Cf. also Gaul. theonym _Rigina_ (CIL XIII 6021, Ingwiller). PIE \*(H)rēǵnih₂ should have given OIr. \*\*rín, so we must assume that Celtic generalized the stem \*rigan- from the oblique cases (e.g. the PIE gen.sg. \*(H)rēǵnyeh₂s > \*rīganyas, where the development \*-Cny- > \*-Cany­ would be regular).
+REF: [EDPC]
+
+### <a id="rigo-1">\*rig-o- "bind" (v)</a>
+GOID: OIr. _con-rig_ "binds together"; _con-ré_ [subj.]; _con-rir_ [fut.]; _con-reraig_ [prt.]; _con-recht_ [prt.pass.]
+W: MW _gwarwy_ "play" (GPC _gwarwy_, _gwary_)​
+BRET: MBret. _hoari_ "play"
+CO: Co. _guariow_ [p] "games"
+GAUL: _regu_ (Lezoux) [1s.prs.]
+PIE: \*(H)reyǵ- "bind, reach" (IEW: 861)
+COGN: Lat. _rigeo_ "be stiff", MHG _ricken_ "bind", OHG _reihhen_ "reach", OE _raec(e)an_ "reach", Lith. _réižti_ "stretch, tighten", _ráižytis_ "keep stretching"
+ETYM: OIr. _con-rig_ < \*kom-rig-o-, MW _gwarwy_ and MBret. _hoari_ < \*ufo-rig-o-; cf. the parallel compounds OIr. _cuimrech_ "binding" and MoBret. _kevre_ < \*kom-rigā-(ko-). This verb should be distinguished from the homonym PCelt. [\*rig-o- "stretch"](#rigo-3). Lith. _réižti_ has the acute by Winter's law.
+REF: [EDPC]
+
+### <a id="rigo-2">\*rig-o- "go" (v)</a>
+GOID: OIr. _rigaid_, -_riga_, -_rega_ "will go" [fut. of _téit_ "goes"]; _eirgg_ "go" [impv.]
+PIE: \*h₁erǵʰ- "go" (IEW: 326ff.)
+COGN: Gr. _érkhomai_ "go", _orkhéomai_ "dance", Alb. _erdha_ "I came"
+ETYM: The PCelt. form points to PIE \*h₁rǵʰ-o-, with the zero-grade of the root. Gr. _érkhomai_ and _orkhéomai_ are usually compared to Skt. _ṛghāyáti_ "tremble", but Mayrhofer (s.v. _ṛghāy_-) doubts this etymology. Since the Greek words have also been derived from PIE \*h₁er- "rise" (Gr. _órnymi_, Lat. _orior_ < \*h₁or-, etc.) with the present-stem suffix \*sḱ-, it is possible that the Celtic words are actually unrelated, and that they should be derived from the root \*h₃reg- "extend, stretch" > PCelt. [\*rig-o-](#rigo-3) and [\*reg-o-](#rego). The semantic evolution would be from "extend (one's legs)" to "step" and "walk, go".
+REF: [EDPC]
+
+### <a id="rigo-3">\*rig-o- "stretch" (v)</a>
+GOID: OIr. _rigid_, -_rig_ "stretches"; _réiss_, -_ré_; _riris_, -_rir_ [fut.]; _reraig_ [prt.]; _rechtae_, -_recht_ [prt.pass.]
+PIE: \*h₃reǵ- "extend, stretch" (IEW: 854ff.)
+COGN: Skt. _ṛ́jyate_ "extends itself", Gr. _orégō_ "extend, stretch", Lat. _rego_ "rule", Go. _rikan_ "to heap up", ME _reken_ "to stoke a fire", ToB _räk_- "to extend, to cover"
+SEE: [\*reg-o- "extend, stretch"](#rego)
+ETYM: Cf. also OIr. _do-rig_ "to lay bare" < \*to-rig-o- and, perhaps, OIr. _ringid_ "to torture" < \*ri-n-g-o- (an infixed present formation with the original meaning "to stretch"). Some linguists, e.g. McCone (1991), prefer to derive OIr. _rigid_ from a Narten-type present (from PIE \*h₃rēǵ- "extend", with the lengthened grade), but I believe the evidence for this present type is insufficient both in Celtic and elsewhere (see de Vaan 2004). PCelt. \*rig-­ can be from the PIE zero-grade \*h₃rg-. MBret. _renaff_ "lead, govern", MoBret. _renañ_ may also be from this root, but they have also been plausibly interpreted as denominative verbs built to OFr. _ren_ "reign" (Deshayes 2003: 621).
+REF: [EDPC]
+
+### <a id="rima">\*rīmā "number, count" (n)</a>
+GOID: OIr. _rím_ [ā f]
+W: MW _rif_ [m] (GPC _rhif_)​
+BRET: OBret. _ri(m)_ gl. _summa_, MoBret. _riñv_ [m]
+CO: Co. _ryvow_ [p] "numbers", Co. _ryf_
+PIE: \*h₂reyH- "count" (IEW: 60)
+COGN: Gr. _arithmós_ "number", OE _rím_ "number, calculation", ToB _yärm_ "measure"
+ETYM: PGerm. \*rīman "number", from which OE _rím_ is derived, could be a loanword from Celtic (Orel 2003: 305). The lack of the reflex of the second laryngeal in Greek is puzzling. Maybe the second laryngeal was lost by dissimilation, especially if it was \*h₂ (\*h₂erih₂ > \*h₂eri-).
+REF: [EDPC]
+
+### <a id="rina">\*ri-na- "count, sell, exchange" (v)</a>
+GOID: OIr. _renaid_ "sells, exchanges"; _rieid_, -_ria_ [subj.]; _ririd_, -_rir_ [fut.]; _rir_ [prt.]; _ríthae_, -_ríth_ [prt.pass.]
+PIE: \*h₂reyH- "count" (IEW: 60f. (\*ari-))
+COGN: Gr. _árithmos_ "number", _nḗritos_ "countless", Lat. _rītus_ "religious observances"
+SEE: [\*rīmā. "number"](#rima)
+ETYM: Another possibility is to relate these words to OIr. _ernaid_ "bestow", cf. PCelt. \*far-na-.
+REF: [EDPC]
+
+### <a id="ringo">\*ri-n-g-o- "torture" (v)</a>
+SEE: [\*rig-o- "stretch"](#rigo-3)
+REF: [EDPC]
+
+### <a id="rinno">\*rinno- "quick, fast" (adj)</a>
+GOID: MIr. _renn_ [o] "quick, swift", substantivized _rend_, _renn_ "foot, leg"
+W: MW _rin_ (GPC _rhyn_) "unyielding, stiff, brave, fierce, cold"
+CO: Co. _rynny_ "trembling"
+PIE: \*h₃reyH- "flow"
+COGN: Skt. _riṇā́ti_ "makes flow", Gr. _orī́nō_ "whirl", OHG _rinnan_ "run", OCS _rějati_ "flow"
+ETYM: The range of meanings of the reflexes of the assumed PCelt. \*rinno- is considerable, so it is possible that two different etyma became confused. The origin of the geminate \*-nn- is unknown. The usual derivation from \*rinwo- is impossible, since \*-nw- is preserved as OIr. -_nb_-, cf. OIr. _menb_ < [\*menwo- "small"](#menwo). It seems probable, however, that the PIE root is \*HreyH- "flow". A derivative from this root \*HriH-n-do- would have given \*rīndo- and then, by Osthoff-like shortening, \*rindo- > \*rinno-. The meanings "to flow" and "to run, flee" are often expressed by a single verb, cf. OCS _tešti_ and Croat. _tèći_ "flow, run".
+REF: [EDPC]
+
+### <a id="riyatro">\*riya-tro- "torrent, waterfall" (n)</a>
+GOID: OIr. _ríathor_ [o m] gl. _torrens_
+W: OW _reatir_ [p] gl. _torrentum_, MW _rhaeadr_ [f and m] (GPC _rhaeadr_, _rheadr_); _reydr_ [p]
+SEE: [\*rēno- "large expanse of water"](#reno)
+ETYM: The PCelt. form is derivable from the zero-grade of the PIE root \*(H)riHetro- (for cognates in other IE languages see \*reno- "large expanse of water"). Note that \*(H)reyHtro- would give PCelt. \*rētro- (> MW \*\*rwydr), while \*(H)riHtro- would be reflected as PCelt. \*rītro- (OIr. \*\*ríthor). This could mean that we have to posit the suffix \*-etro- rather than the more usual \*-tro-. Another possibility is that \*-atro- was introduced analogically from other roots in which \*-H- > \*a is regular (cf. [\*aratro-](#aratro) < \*h₂erh₃-tro- "plow", [\*taratro-](#taratro) < \*terh₂tro- "auger").
+REF: [EDPC]
+
+### <a id="romi">\*rom-ī- "place, put" (v)</a>
+GOID: OIr. _fo-ruimi_, -_fuirmi_ (in MIr. as simplex _fuirid_)​
+PIE: \*h₁rem- "be still" (IEW: 864)
+COGN: Skt. _rámate_ "places oneself, stops", Gr. _ēréma_ "quiet", Go. _rimis_ "rest", Lith. _rìmsta_ "becomes quiet"
+SEE: [\*remesso- "period of time"](#remesso)
+ETYM: OIr. _fo-ruimi_ < \*ufo-rom-ī-, presumably a causative to unattested \*rem- "be at rest". The semantic development would have been from "put to rest" to "place, put". The acute in Lith. _rìmsta_ is the result of regular metatony in sta-presents, and does not presuppose a laryngeal in the root.
+REF: [EDPC]
+
+### <a id="roto">\*roto- "wheel, chariot" (n)</a>
+GOID: OIr. _roth_ [o m]
+W: MW _rot_, _rod_ [f] (GPC _rhod_)​
+BRET: MBret. _rot_, X [f]
+CO: MoCo. _rôs_
+GAUL: _Roto-magus_ [toponym] > _Rouen_
+PIE: \*(H)roth₂o- "wheel" (IEW: 866)
+COGN: Skt. _rátha_- "chariot", Lat. _rota_, OHG _rad_, Lith. _rataĩ_ "chariot"
+SEE: [\*ret-o- "run"](#reto)
+ETYM: Originally from the root \*(H)reth₂ "to run" (PCelt. \*ret-o-); the wheel is conceived of as "the runner".
+REF: [EDPC]
+
+### <a id="rowdsmon">\*rowd-smon- "red dye" (n)</a>
+SEE: [\*rowdo- "red"](#rowdo)
+REF: [EDPC]
+
+### <a id="rowdo">\*rowdo- "red" (adj)</a>
+GOID: OIr. _rúad_ [o], ? Ogam _ROD-AGNI_
+W: OW _rud_, W _rhudd_
+BRET: OBret. _rud_ gl. _rufus_, MoBret. _ruz_
+CO: OCo. _rud_ gl. _ruber_, Co. _ruth_, _ruyth_
+GAUL: _Roudius_ [PN]
+PIE: \*h₁rewdʰ- "red" (IEW: 872)
+COGN: Skt. _rudhirá_-, Lat. _ruber_, Gr. _erythrós_, OE _réad_
+ETYM: Another derivative from this root in Celtic, but probably with PIE pedigree, is OIr. _rúam_ "red dye" < PCelt. \*rowd-smon-, cf. Stifter 1998. Cf. also Gallo-Lat. _rodarum_ "a plant with red leaves" (Pliny) and OIr. _rú_ (dat.sg. _roid_) "red dye". OIr. _ruis_ [f] "holly; name of the letter _r_ in Ogam" could reflect PCelt. \*russi- < \*h₁rudʰ-ti-, while OIr. _rus_ [u m] "face, cheeks" has been derived from \*russu- < \*h₁rudʰ-tu- (Irslinger 2002: 124f.).
+REF: [EDPC]
+
+### <a id="rowesya">\*rowesyā "field, open ground" (n)</a>
+GOID: OIr. _róe_ [iā f] "level piece of ground, battlefield"
+PIE: \*(H)rewHos- "open space" (IEW: 874)
+COGN: Lat. _rūs_ "village, countryside", Av. _rauuah_-, OE _rūm_ "space, room"
+ETYM: It seems probable that we have to start from a PIE s-stem \*(H)rewos / \*(H)rewes-os (cf. Lat. _rūs_). This could have first given \*rowes-­ (with PCelt. \*ew > ow) and hence PCelt. \*rowesyā.
+REF: [EDPC]
+
+### <a id="rowkk">\*rowk(k)-/\*ruk- "tunic, mantle" ()</a>
+GOID: MIr. _rucht_
+W: W _rhuch_, _rhuchen_ [f] "film, pellicle, layer, jerkin, coat"
+PIE: \*(H)rewk- "garment" (?)(IEW: 874)
+COGN: OHG _rocko_ "overcoat", OE _rocc_ "upper garment", ON _rokkr_ "jerkin"
+ETYM: The words attested in Celtic are not perfect matches, but they must be related. MIr. _rucht_ probably represents PCelt. \*ruxtu- (it is not well attested), while W _rhuch_ must be from \*rowkka. The Germanic correspondences point to PGerm. \*rukkaz (Orel 2003: 308), cf. also OCS _ruxo_ "garment", which may be from \*rowk-so-. Vacillations in vocalism and consonantism, as well as the fact that correspondences are limited to Germanic, probably point to a borrowing from some unknown source.
+REF: [EDPC]
+
+### <a id="rowtro">\*rowtro- "assault, onrush" (n)</a>
+GOID: MIr. _rúathar_ [o m, perhaps originally n]
+W: MW _ruthyr_ (GPC _rhuthr_) [m] "rush, attack, invasion"
+PIE: \*h₃rew- "hurry, rush"
+COGN: Lat. _ruo_, Gr. _oroúō_
+REF: [EDPC]
+
+### <a id="royno">\*royno- "route, road" (n)</a>
+GOID: OIr. _roen_ [o m] (DIL _róen_, _ráen_)​
+BRET: OBret. _runt_, MoBret. _run_ [f] "mound"
+PIE: \*(H)royno- "? landmark" (IEW: 857)
+COGN: OHG _rein_ "demarcation line on the ground", ON _rein_ "strip ofland"
+ETYM: Although formally impeccable, this etymology is weak on the semantic side. However, according to DIL, _róen_ (_ráen_) "is used loosely of surfaces, spaces and in other derived senses", cf. Molr. _ráon na sliabh_ "the range of the mountains". The original sense may have been "landmark", _vel sim_.
+REF: [EDPC]
+
+### <a id="rudi">\*rud-ī- "redden, become red" (v)</a>
+GOID: MIr. _ruidid_, -_ruidi_
+PIE: \*h₁rewdʰ- "red" (IEW: 872f.)
+COGN: Lat. _rubeo_ "be red", OHG _rotēn_ "be red", OCS _rъděti_
+SEE: [\*rowdo- "red"](#rowdo)
+ETYM: PCelt. \*rud-i- is from PIE stative \*h₁rudʰeh₁- , completely parallel to Lat. _rubēre_, OCS _rъděti_, etc.
+REF: [EDPC]
+
+### <a id="runa">\*rūnā "secret, magic" (n)</a>
+GOID: OIr. _rún_ [ā f] "mystery, secret"
+W: MW _rin_ [m and f] "mystery, charm" (GPC _rhin_)​
+BRET: MBret. _rin_ [m] "secret, wisdom"
+CO: Co. _Rin-duran_ [PN]
+GAUL: _Cob-runus_ (?) [PN]
+LEP: _Runatis_ (?) [PN]
+PIE: \*(H)rewH- (IEW: 867)
+COGN: Go. _rūna_ "secret"
+ETYM: Gaul. _Cobrunus_, if related at all, reflects \*kom-rūno-. The Germanic words for "secret" and "runes" could be early loanwords from Celtic, in which case PCelt. \*rūno- is isolated in Indo-European. I find the connection of these words to Skt. _ráuti_ "roars", OCS _ruti_ "roar", etc. (IEW 867) difficult to believe for semantic reasons. The connection with Gr. _eréō_ "ask" is also unlikely, since this is from \*h₁rh₁-ye- (LIV 224, cf. Hitt. _ariye­_- "ask an oracle"). Both Germanic and Celtic words may have been borrowed from some non-IE language.
+REF: [EDPC]
+
+### <a id="rundo">\*ru-n-d-o- "paint red" (v)</a>
+GOID: OIr. _rondaid_, -_roind_; _róiss_, -_ró_ [subj.]; _roraid_ [prt.]; _rossae_, -_ross_ [prt.pass.]
+PIE: \*h₁rewdʰ- "red" (IEW: 872f.)
+COGN: Gr. _ereúthō_ "paint red"
+SEE: [\*rud-ī- "redden"](rudi)
+REF: [EDPC]
+
+### <a id="rusklo">\*rūsk(l)o-, \*rusko- "bark" (n)</a>
+GOID: OIr. _rúsc_ [o m] gl. _cortex_
+W: MW _risgl_ [m] (GPC _rhisgl_, _rhisg_)​
+BRET: MBret. _rusquenn_, MoBret. _rusk_ [coll.] "bark", _ruskenn_ "beehive"
+CO: OCo. _rusk_ gl. _cortex_, MCo. _risc_
+GAUL: _rusca_ (MLat. > Fr. _ruche_ "beehive")
+ETYM: Gaul. _rusca_ is actually attested only indirectly, via the Medieval Latin (9th century) loanword _rusca_ "beehive". It is possible that some of the Brittonic forms (with -u-) were borrowed from Goidelic, or Romance, in the prehistoric period. The vocalism of OIr. _rúsc_ is probably original, though DIL states that it was borrowed from Brittonic. If it is inherited from PIE, then perhaps PCelt. \*rūsko- should be analyzed as \*rū-sko- and related to ON _rýja_ "shear (of sheep)", OCS _ryti_ "dig", Lat. _ruo_ "dig out", ToB _ru_- "pull out", etc. (PIE \*HrewH-, LIV 461, IEW 868). The original meaning would have been "that which is plucked, scratched, sheared". OIr. _rúsc_, etc. would then be substantivized adjectives (similar formations are well attested in Celtic, cf. [\*trussko- "dirty"](#trussko), [\*brisko- "weak"](#brisko), perhaps also [\*dolisko­ "seaweed"](#dolisko)).
+REF: [EDPC]
+
+### <a id="ruxtu">\*ruxtu- "noise" (n)</a>
+GOID: MIr. _rucht_ [? u]
+PIE: \*(H)rewk- "cry, make noise" (IEW: 867)
+COGN: Latv. _rùkt_, OCS _rykati_
+ETYM: The gender and stem formation of MIr. _rucht_ are uncertain, and the word is not very well attested, so this etymology is quite problematic. OCS _rykati_ represents a Balto-Slavic vṛddhi formation; words with similar meaning with the voiced stop adduced by IEW (p. 867, e.g. Lat. _rugio_, Gr. _ṓrygma_, Russ. _rugát'_, etc.) probably belong to another root, also onomatopoetic.
+REF: [EDPC]
