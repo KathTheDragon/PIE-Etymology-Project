@@ -1352,7 +1352,7 @@ REF: [EDPC]
 GOID: OIr. _blá_ [o]
 PIE: \*bʰleh₂ (?) "yellow" (IEW: 160)
 COGN: Lat. _flāuus_
-ETYM: OIr. _blá_ matches the meaning of Lat. _flāuus_ perfectly, so they should be connected, but the OIr. word could also be a loanword from Latin. The Germanic words often related to these adjectives, OHG _blao_, Olc. _blár_, etc., all mean "blue", but color terms often change their meaning. However, the Germanic proto-form was \*blēwa-, and the only way to relate it to the ltalo-Celtic adjective for "yellow" is to posit a vṛddhi \*bʰlēh₂wo-, with \*ē remaining uncolored by the laryngeal through Eichner's law; such a solution would clearly be _ad hoc_. One should also compare W _blawr_ "grey", which might be the same word as MIr. _Blár_ (name of a horse), and Scot. Gael. _blàr_ "horse with a white spot, white-faced horse". All of these, if related, could represent PIE \*bʰleh₂ro- > PCelt. \*blāro-. For a different PIE etymology of these words see Schrijver (1991: 147, 177, etc.).
+ETYM: OIr. _blá_ matches the meaning of Lat. _flāuus_ perfectly, so they should be connected, but the OIr. word could also be a loanword from Latin. The Germanic words often related to these adjectives, OHG _blao_, OIc. _blár_, etc., all mean "blue", but color terms often change their meaning. However, the Germanic proto-form was \*blēwa-, and the only way to relate it to the ltalo-Celtic adjective for "yellow" is to posit a vṛddhi \*bʰlēh₂wo-, with \*ē remaining uncolored by the laryngeal through Eichner's law; such a solution would clearly be _ad hoc_. One should also compare W _blawr_ "grey", which might be the same word as MIr. _Blár_ (name of a horse), and Scot. Gael. _blàr_ "horse with a white spot, white-faced horse". All of these, if related, could represent PIE \*bʰleh₂ro- > PCelt. \*blāro-. For a different PIE etymology of these words see Schrijver (1991: 147, 177, etc.).
 REF: [EDPC]
 
 ### <a id="blvdv">\*blVdV- "wolf, ?large predator" (n)</a>
@@ -1462,7 +1462,7 @@ GOID: OIr. _búaid_ [i n] "victory, gain, profit"
 W: MW _budd_ [m] "profit, advantage"
 BRET: OBret. _bud_ gl. _bradium_
 GAUL: _Boudi-latis_, _Boud-icca_ [PN]
-ETYM: In OW, there is a compound from this root, _budi-caul_ "victor, conqueror", exactly parallel to OBret. _budicol_. Germanic forms, such as German _Beute_ "booty", Du. _buit_, are sometimes considered to be loanwords from Celtic (Kluge 105), but they could also be inherited from the same root \*bʰewd-, the reflexes of which are limited to the NW ludo-European dialects (cf. also Olc. _býta_ "to deal out").
+ETYM: In OW, there is a compound from this root, _budi-caul_ "victor, conqueror", exactly parallel to OBret. _budicol_. Germanic forms, such as German _Beute_ "booty", Du. _buit_, are sometimes considered to be loanwords from Celtic (Kluge 105), but they could also be inherited from the same root \*bʰewd-, the reflexes of which are limited to the NW ludo-European dialects (cf. also OIc. _býta_ "to deal out").
 REF: [EDPC]
 
 ### <a id="bowdro">\*bowd-ro- "dirty" (adj)</a>
@@ -2104,7 +2104,7 @@ GOID: OIr. _delg_ [o m]
 W: MW _dala_ [m] "sting"
 CO: OCo. _delc(h)_ gl. _monile_
 PIE: \*dʰelg- "sting" (IEW: 247)
-COGN: Lat. _falx_ "curved blade, hook, scythe", Olc. _dálkr_ "pin, dagger", Lith. _dilgùs_ "stinging, smarting", _dìlgė_ "nettle".
+COGN: Lat. _falx_ "curved blade, hook, scythe", OIc. _dálkr_ "pin, dagger", Lith. _dilgùs_ "stinging, smarting", _dìlgė_ "nettle".
 ETYM: A Gaulish reflex of PCelt. \*delgo- may be preserved in Fr. dial. _dail_ "sickle", Pr. _dalh_ (Gamillscheg 294). These words could be from \*dalglā. de Vaan (2008: 200) shows that Lat. _falx_ is most probably a loanword from some IE language of Italy.
 REF: [EDPC]
 
@@ -3626,7 +3626,7 @@ REF: [EDPC]
 ### <a id="futro">\*futro- "ill" (adj)</a>
 GOID: MIr. _othar_ [o] "ill", _othar_ [on, later m] "illness, pain"
 PIE: \*pewH- "rot, decay" (IEW: 849)
-COGN: Lat. _puter_ "rotten", Skt. _puvas_- "pus", Gr. _pýos_ "pus", Olc. _fúinn_ "rotten"
+COGN: Lat. _puter_ "rotten", Skt. _puvas_- "pus", Gr. _pýos_ "pus", OIc. _fúinn_ "rotten"
 ETYM: Short \*u in Celtic is presumably due to Dybo's shortening in pretonic position, i.e. PIE \*puHtró- > PCelt. \*futro-.
 REF: [EDPC]
 
@@ -3963,7 +3963,7 @@ CO: OCo. _guistel_ gl. _obses_
 GAUL: _Con-geistlus_ [PN]
 PIE: \*gʰeydʰ- "desire, wait for" (IEW: 426)
 COGN: Lith. _geidžiù_ "desire", OCS _žъdati_ "wait"
-ETYM: W _gwystl_ and other Brittonic words probably have an epenthetic -_t­_- (before \*l), cf. Schrijver 1995: 404f. Olc. _gísl_ "hostage", Germ. _Geisel_, etc. are old loanwords from Celtic. The IE etymology of these Celtic words is somewhat weak on the semantic side. Could "hostage" be interpreted as "one who is waiting (to be released)"?
+ETYM: W _gwystl_ and other Brittonic words probably have an epenthetic -_t­_- (before \*l), cf. Schrijver 1995: 404f. OIc. _gísl_ "hostage", Germ. _Geisel_, etc. are old loanwords from Celtic. The IE etymology of these Celtic words is somewhat weak on the semantic side. Could "hostage" be interpreted as "one who is waiting (to be released)"?
 REF: [EDPC]
 
 ### <a id="gexdo">\*gexdo/ā- "goose" (n)</a>
@@ -5250,7 +5250,7 @@ W: MW _clun_ [f]; _cluniau_ [p]
 BRET: MBret. _clun_, MoBret. _klun_ [f] "buttock"
 CO: Co. _clun_
 PIE: \*ḱlowni- (IEW: 607f.)
-COGN: Lat. _clūnis_, Olc. _hlaun_, Lith. _šlaunìs_
+COGN: Lat. _clūnis_, OIc. _hlaun_, Lith. _šlaunìs_
 REF: [EDPC]
 
 ### <a id="klowsta">\*klowstā "hearing, ear" (n)</a>
@@ -5648,7 +5648,7 @@ BRET: OBret. _crou_ gl. _hara .i. stabulum porcorum_, MBret. _kraou_
 CO: Co. _crow_ "hut"
 PIE: \*kroh₁-po- "roof"
 COGN: ON _hróf_ "boat-shed", OE _hróf_ "roof"
-ETYM: The PIE etymology of these words is uncertain because of the semantics of the Celtic cognates, which points to the PCelt. meaning "round, circular, enclosure" (rather than "covered, roof" which seems to be primary in Germanic). Formally comparable is OCS _krěpъ_, "strong" and Olc. _hraefa_ "endure" (PIE \*kreh₁po-), but their meanings are too far apart. Go. _hrot_ "roof, house", ON _hrót_, and OCS _krada_ "pile of logs, pyre, altar" point to the same root with a dental suffix (\*kreh₁-do-), while we probably have \*kreh₁to- in OHG and OFris. _rāza_ "honeycomb". Greene 1983 relates the Celtic words for "enclosure" to OIr. _cruind_, W _crwnn_ "round" (PCelt. \*krundi-). However, this is difficult from the formal point of view (\*-ndi- does not seem like a possible suffix).
+ETYM: The PIE etymology of these words is uncertain because of the semantics of the Celtic cognates, which points to the PCelt. meaning "round, circular, enclosure" (rather than "covered, roof" which seems to be primary in Germanic). Formally comparable is OCS _krěpъ_, "strong" and OIc. _hraefa_ "endure" (PIE \*kreh₁po-), but their meanings are too far apart. Go. _hrot_ "roof, house", ON _hrót_, and OCS _krada_ "pile of logs, pyre, altar" point to the same root with a dental suffix (\*kreh₁-do-), while we probably have \*kreh₁to- in OHG and OFris. _rāza_ "honeycomb". Greene 1983 relates the Celtic words for "enclosure" to OIr. _cruind_, W _crwnn_ "round" (PCelt. \*krundi-). However, this is difficult from the formal point of view (\*-ndi- does not seem like a possible suffix).
 REF: [EDPC]
 
 ### <a id="kreddi">\*kred-dī- "believe" (v)</a>
@@ -7684,7 +7684,7 @@ W: OW _brith_ gl. _pictam_, W _brith_
 BRET: MBret. _briz_, MoBret. _brizh_
 CO: Co. _bruit_
 PIE: \*mergʷ- "dark, coloured" (IEW: 733f.)
-COGN: Gr. _amorbós_ "dark", Olc. _myrkr_ "dark", Lith. _márgas_ "variegated"
+COGN: Gr. _amorbós_ "dark", OIc. _myrkr_ "dark", Lith. _márgas_ "variegated"
 ETYM: Cf. also W denominal verb _britho_ "speckle, colour". OIr. _mrecht_ is not well attested, so this etymology is rather uncertain. The Celtic forms point to the zero-grade \*mrgʷto- (> \*mrikto- > \*mrixto-); the acute intonation in Lith. may be due to Winter's law.
 REF: [EDPC]
 
