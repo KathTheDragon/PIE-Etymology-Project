@@ -477,7 +477,7 @@ CO: Co. _enw, hanow_
 GAUL: _anuana_ [p] (Larzac)
 PIE: \*h₃nomn "name" (IEW: 321)
 COGN: Hitt. _lāman_, Skt. _nā́man_-, Lat. _nōmen_, Gr. _ónoma_, Go. _namo_, OPr. _emmens_, Russ. _ímja_, Alb. _emer_, ToB _ñom_, Arm. _anun_
-ETYM: The Celtic forms are derived from the oblique cases of the PIE word for "name", i.e. from \*h₃nmen-, just like, e.g., the Slavic forms (cf. Russ. _ímja_). The exact PIE reconstruction of the word for "name" is hotly disputed; like de Vaan (2008) I discard the evidence of Gr. _Enyma_- as too uncertain for positing the initial \*h₁-; however, unlike the Leiden school, I do not believe the evidence warrants \*h₃neh₃mn (see Beekes 1987 and Matasovic 2004: 122). The long _ō_ in Lat. _nōmen_ is analogical (presumably from _co-gnōmen_ under the influence of _co-gnōsco_ "recognize").
+ETYM: The Celtic forms are derived from the oblique cases of the PIE word for "name", i.e. from \*h₃nmen-, just like, e.g., the Slavic forms (cf. Russ. _ímja_). The exact PIE reconstruction of the word for "name" is hotly disputed; like de Vaan (2008) I discard the evidence of Gr. _Enyma_- as too uncertain for positing the initial \*h₁-; however, unlike the Leiden school, I do not believe the evidence warrants \*h₃neh₃mn (see Beekes 1987 and Matasović 2004: 122). The long _ō_ in Lat. _nōmen_ is analogical (presumably from _co-gnōmen_ under the influence of _co-gnōsco_ "recognize").
 REF: [EDPC]
 
 ### <a id="anmen">\*an-men-V- "patience, forbearance" (n)</a>
@@ -1899,7 +1899,7 @@ BRET: OBret. _dacr-lon_ "full of tears", MBret. _dazrou_ [p], MoBret. _dàer_ [m
 CO: Co. _dagrow_ [p]
 PIE: \*dh₂ḱru- "tear" (IEW: 23)
 COGN: Hitt. _ishahru_-, Skt. _áśru_-, Gr. _dákry_, Lat. _lacrima_, OE _tēar_, Lith. _ãšara_, ToB _akrūna_ [p]
-ETYM: The PIE form of this word is notoriously difficult to reconstruct. One possibility (Matasovic 2004: 126) would be to posit PIE \*h₂eḱru- (or perhaps an old heterocliton, PIE \*h₂eḱwr / \*h₂ḱwen-s) and to explain the word initial \*d- in some branches as the result of false word division with the neuter pronoun \*tod (\*tod h₂e ḱru- > \*to(d) dh₂eḱru- > \*dakru). The root involved may be PIE \*h₂eḱ- "sharp" (> "bitter" > "tear"). Another possibility (Matasovic 2000) is to start from PIE \*doḱwr / \*dḱwen-s and explain the \*a in Celtic (and other branches) as epenthetic (breaking up the difficult Anlaut \*dḱ-} Word-initial \*d- could then have been lost in some branches through false word division (\*tod daḱwr- > \*tod aḱwr), and the word could have been reshaped as a u-stem in Celtic, Indo-Iranian, Greek, etc. (perhaps through regular PIE metathesis of \*-wr > \*-ru, but cf. Lubotsky 1994a). Needless to say, both possibilities are highly speculative.
+ETYM: The PIE form of this word is notoriously difficult to reconstruct. One possibility (Matasović 2004: 126) would be to posit PIE \*h₂eḱru- (or perhaps an old heterocliton, PIE \*h₂eḱwr / \*h₂ḱwen-s) and to explain the word initial \*d- in some branches as the result of false word division with the neuter pronoun \*tod (\*tod h₂e ḱru- > \*to(d) dh₂eḱru- > \*dakru). The root involved may be PIE \*h₂eḱ- "sharp" (> "bitter" > "tear"). Another possibility (Matasović 2000) is to start from PIE \*doḱwr / \*dḱwen-s and explain the \*a in Celtic (and other branches) as epenthetic (breaking up the difficult Anlaut \*dḱ-} Word-initial \*d- could then have been lost in some branches through false word division (\*tod daḱwr- > \*tod aḱwr), and the word could have been reshaped as a u-stem in Celtic, Indo-Iranian, Greek, etc. (perhaps through regular PIE metathesis of \*-wr > \*-ru, but cf. Lubotsky 1994a). Needless to say, both possibilities are highly speculative.
 REF: [EDPC]
 
 ### <a id="dallo">\*dallo- "blind" (adj)</a>
@@ -2849,7 +2849,7 @@ BRET: OBret. _et_-
 GAUL: _eti_ (La Graufesenque)
 PIE: \*h₁eti "beyond" (IEW: 344)
 COGN: Lat. _et_ "and", Skt. _áti_ "beyond, over"
-ETYM: Gaul. _etic_ "and" (Chamalieres) is from \*eti-kʷe.
+ETYM: Gaul. _etic_ "and" (Chamalières) is from \*eti-kʷe.
 REF: [EDPC]
 
 ### <a id="exs">\*exs "out of, from" (prep)</a>
@@ -3799,7 +3799,7 @@ BRET: OBret. _gerent_ gl. _dicunt_ [3p.prs.]
 PIE: \*geh₂r- "call" (IEW: 352)
 COGN: Lat. _garrīre_, Oss. _zaryn/zarun_ "sing"
 SEE: [\*gari-, \*garyo- "word, command"](#garyo-2)
-ETYM: Gaul. adgarion [acc.sg.] (Chamalieres) might perhaps be translated as "accusatorem" (Lejeune, Delamarre, Fleuriot), in which case it is a cognate of OIr. ad-gair "summon" (Delamarre 32, Lambert 1994: 151). The short \*a in this Celtic etymon is regular, if one starts from the zero­ grade \*gh₂r-yo-.The full grade of the root is preserved in \*gari- "call".
+ETYM: Gaul. adgarion [acc.sg.] (Chamalières) might perhaps be translated as "accusatorem" (Lejeune, Delamarre, Fleuriot), in which case it is a cognate of OIr. ad-gair "summon" (Delamarre 32, Lambert 1994: 151). The short \*a in this Celtic etymon is regular, if one starts from the zero­ grade \*gh₂r-yo-.The full grade of the root is preserved in \*gari- "call".
 REF: [EDPC]
 
 ### <a id="garyo-2">\*garyo- "word, command" (n)</a>
@@ -4131,7 +4131,7 @@ BRET: OBret. -_(o)rth_ "pen", MBret. _garz_, MoBret. _garzh_ [f]
 GAUL: \*gortiā > _Gorze_ [toponym], Fr. dial. (Limousin) _gorso_ "fence"
 PIE: \*gʰōrdʰ-s, gen. \*gʰrdʰ-os "enclosure, garden, pen" (JEW: 444)
 COGN: Skt. _gṛhá_- "house", Lat. _hortus_ "garden", Gr. _khortos_, OHG _garto_ "garden", Russ. _górod_ "town", Alb. _gardh_ "hedge"
-ETYM: In MW _garth_ also means "mountain ridge, hill, woodland", but GPC treats this as a different word. The development of \*o > a in Brittonic is as in MW _gwallt_ "hair" < \*gwollt (PCelt. \*wolto-). Celtib. _korta_, _kortika_ are sometimes related to this etymon, but with little justification (the meaning of these words is unknown). For the compound \*lubi-gorto- "herb garden" cf. PCelt. [\*lubī/ā- "herb, plant"](#lubi). On the IE side of this etymology, the voiceless stop seen in Celtic, Greek and Latin is best explained if one assumes that \*-dʰs (in the Nominative) was assimilated to \*-ts, from which \*-t- was then extrapolated to other case-forms (with generalized o-grade from the accusative (\*gʰordʰ-m), see Matasovic 2004: 99, 137. It should be noted, however, that the lengthened grade of the original root noun is not preserved anywhere. For a possibly similar development, cf. PCelt. [\*druko- "bad"](#druko).
+ETYM: In MW _garth_ also means "mountain ridge, hill, woodland", but GPC treats this as a different word. The development of \*o > a in Brittonic is as in MW _gwallt_ "hair" < \*gwollt (PCelt. \*wolto-). Celtib. _korta_, _kortika_ are sometimes related to this etymon, but with little justification (the meaning of these words is unknown). For the compound \*lubi-gorto- "herb garden" cf. PCelt. [\*lubī/ā- "herb, plant"](#lubi). On the IE side of this etymology, the voiceless stop seen in Celtic, Greek and Latin is best explained if one assumes that \*-dʰs (in the Nominative) was assimilated to \*-ts, from which \*-t- was then extrapolated to other case-forms (with generalized o-grade from the accusative (\*gʰordʰ-m), see Matasović 2004: 99, 137. It should be noted, however, that the lengthened grade of the original root noun is not preserved anywhere. For a possibly similar development, cf. PCelt. [\*druko- "bad"](#druko).
 REF: [EDPC]
 
 ### <a id="gowlo">\*gowlo- "charcoal" (n)</a>
@@ -4323,7 +4323,7 @@ W: MW _imguodant_
 GAUL: _uediíumi_ [1s.prs.] (Chamalières)
 PIE: \*gʷʰedʰ- "wish" (IEW: 488)
 COGN: Gr. _pothéō_ "wish", Go. _bidjan_
-ETYM: MW _imguodant_ < \*ambi-gʷod-o-. The Celtiberian family name _kuezontikum_ (Botorrita III, IV-36) might reflect the Celtib. reflex of this root (Villar 1997: 908). Gaul. _uediíumi_ has also been connected to \*wed- "bind" (Fleuriot 1976-7); since it is a hapax, many interpretations are possible, but "I pray" makes more sense than "I bind" in the context of the Chamalieres inscription. For the possibility that this verb (and the whole OIr. BII class of present stems) originally had athematic i-inflection see [\*ar-yo- "plough"](#aryo) and cf. Kortlandt 2007: 137.
+ETYM: MW _imguodant_ < \*ambi-gʷod-o-. The Celtiberian family name _kuezontikum_ (Botorrita III, IV-36) might reflect the Celtib. reflex of this root (Villar 1997: 908). Gaul. _uediíumi_ has also been connected to \*wed- "bind" (Fleuriot 1976-7); since it is a hapax, many interpretations are possible, but "I pray" makes more sense than "I bind" in the context of the Chamalières inscription. For the possibility that this verb (and the whole OIr. BII class of present stems) originally had athematic i-inflection see [\*ar-yo- "plough"](#aryo) and cf. Kortlandt 2007: 137.
 REF: [EDPC]
 
 ### <a id="gwelo">\*gʷel-o- "graze, eat" (v)</a>
@@ -4395,7 +4395,7 @@ GOID: MIr. _grís_ [ā f] "heat, glow, embers"
 W: MW _gwres_ [m] "heat (of the sun, fire), passion, lust"
 PIE: \*gʷʰrenso- "warm" (IEW: 495)
 COGN: Skt. _ghraṃsá_- "heat of the sun"
-ETYM: OIr. _grís_ must represent a reflex of PCelt. \*gʷrīnso-, with the lengthened grade (expected in the nom.sg. of an original root noun). It appears probable that OIr. _grían_ [ā f] "sun" should be derived from PCelt. \*_gʷrensnā_ > Primitive Irish \*gʷrēnā (Matasovic _to appear_). This fits well with the semantics of Skt. _ghraṃsá_-. The PIE root is \*gʷʰer- "be hot" (Gr. _thermós_ etc.). Gaul. _Grannos_ (a name of Apollo) probably also belongs here, cf. Delamarre 183. Finally, OIr. _grés_ [u m] "handicraft, needlework, work of art, practice" may represent PCelt. \*gʷrensu- (the development of meaning would have been from "heat" to "zeal" and "work", cf. also MIr. _grésach_ "lasting, habitual").
+ETYM: OIr. _grís_ must represent a reflex of PCelt. \*gʷrīnso-, with the lengthened grade (expected in the nom.sg. of an original root noun). It appears probable that OIr. _grían_ [ā f] "sun" should be derived from PCelt. \*_gʷrensnā_ > Primitive Irish \*gʷrēnā (Matasović _to appear_). This fits well with the semantics of Skt. _ghraṃsá_-. The PIE root is \*gʷʰer- "be hot" (Gr. _thermós_ etc.). Gaul. _Grannos_ (a name of Apollo) probably also belongs here, cf. Delamarre 183. Finally, OIr. _grés_ [u m] "handicraft, needlework, work of art, practice" may represent PCelt. \*gʷrensu- (the development of meaning would have been from "heat" to "zeal" and "work", cf. also MIr. _grésach_ "lasting, habitual").
 REF: [EDPC]
 
 ## I
@@ -4464,7 +4464,7 @@ BRET: OBret. _Caer 'n Iuguinen_ [toponym], MBret. _ivin_, _iuin_, MoBret. _iwin_
 CO: OCo. _hiuin_ gl. _taxus_
 PIE: \*h₁eyw- "yew, _Taxus baccata_" (IEW: 297)
 COGN: Hitt. <sup>GIS</sup>_e(y)an_- "?yew", OE _īw_, Lith. _ievà_ "bird-cherry", Russ. _íva_ "willow", perhaps Gr. _óa_ "service-tree"
-ETYM: These forms should not be confused with PCelt. [\*eburo- "ivy"](#eburo), as in EIEC. The Gaulish word for yew-tree is unattested, so far as I know, but it is the source of Fr. _if_ (from \*iwo-). The form _iuos_ (Coligny) is of unknown meaning, _pace_ Lambert 1994. In PIE we seem to have an original u-stem, with nom.sg. \*h₁eyu- / gen.sg. \*h₁iw-os, which was thematicized independently in different languages. Celtic preserves the stem of the oblique cases. For the phonetic development cf. PCelt. \*biwo- "alive" > OIr. _béo_, W _byw_. The acute in Balto-Slavic, implied by the accentual paradigm a, (cf. Russ. gen.sg. _ívy_) is unexpected. It may be due to the secondary Balto­ Slavic vṛddhi, which is common in nominal derivation and bears the acute (in contradistinction to the inherited lengthened PIE grade formations, which bear the circumflex, cf. Matasovic 2008a: 130ff.). Note, however, that Derksen (2008: 216) reconstructs the PIE root as \*h₁eyH- and does not mention the connection with the Celtic words.
+ETYM: These forms should not be confused with PCelt. [\*eburo- "ivy"](#eburo), as in EIEC. The Gaulish word for yew-tree is unattested, so far as I know, but it is the source of Fr. _if_ (from \*iwo-). The form _iuos_ (Coligny) is of unknown meaning, _pace_ Lambert 1994. In PIE we seem to have an original u-stem, with nom.sg. \*h₁eyu- / gen.sg. \*h₁iw-os, which was thematicized independently in different languages. Celtic preserves the stem of the oblique cases. For the phonetic development cf. PCelt. \*biwo- "alive" > OIr. _béo_, W _byw_. The acute in Balto-Slavic, implied by the accentual paradigm a, (cf. Russ. gen.sg. _ívy_) is unexpected. It may be due to the secondary Balto­ Slavic vṛddhi, which is common in nominal derivation and bears the acute (in contradistinction to the inherited lengthened PIE grade formations, which bear the circumflex, cf. Matasović 2008a: 130ff.). Note, however, that Derksen (2008: 216) reconstructs the PIE root as \*h₁eyH- and does not mention the connection with the Celtic words.
 REF: [EDPC]
 
 ## K
@@ -4572,7 +4572,7 @@ CO: Co. _cam_ gl. _strabo_, _cam-hinsic_ gl. _iniustus_
 GAUL: _Cambo_ [PN], _Cambo-dunum_ [toponym]
 PIE: \*(s)kambo- "crooked" (IEW: 918)
 COGN: Gr. _skambós_
-ETYM: Gaul. _cambion_ (Chamalieres) is interpreted as "change", and is the source of Gallo-Latin _cambiare_ "change" (Fr. _changer_, etc.). I find Pokorny's attribution of OIr. _cimbid_ "prisoner", _cimbe_ "captivity" to this root objectionable on semantic grounds (the semantic connection would be "the one who must bow before his captor" > "prisoner"). Both PCelt. \*kambo- and Gr. _skambós_ are probably borrowed from some ancient non-IE substrate; the PIE form contains two very rare sounds in PIE (\*b and \*a), both of which are indicative of non-IE loanwords.
+ETYM: Gaul. _cambion_ (Chamalières) is interpreted as "change", and is the source of Gallo-Latin _cambiare_ "change" (Fr. _changer_, etc.). I find Pokorny's attribution of OIr. _cimbid_ "prisoner", _cimbe_ "captivity" to this root objectionable on semantic grounds (the semantic connection would be "the one who must bow before his captor" > "prisoner"). Both PCelt. \*kambo- and Gr. _skambós_ are probably borrowed from some ancient non-IE substrate; the PIE form contains two very rare sounds in PIE (\*b and \*a), both of which are indicative of non-IE loanwords.
 REF: [EDPC]
 
 ### <a id="kanawon">\*kanawon- "young animal, young dog, whelp" (n)</a>
@@ -5071,7 +5071,7 @@ REF: [EDPC]
 
 ### <a id="ki">\*ki / \*koy / \*ke [Demonstrative Particle or pronoun]</a>
 GOID: OIr. _ce_, _cé_ demonstrative particle: _in bith ce_ "this world", Ogam _CI_, _COI_ "this"
-GAUL: _koui_ (?), _iso-c_ "thus" (Chamalieres)
+GAUL: _koui_ (?), _iso-c_ "thus" (Chamalières)
 PIE: \*key- "this" (IEW: 609)
 COGN: Lat. _cis_, Eng. _he-re_, Lith. _šìs_
 ETYM: The OIr. form _cé_ could represent the nom.sg.masc. form of the pronoun, PIE \*keys > PCelt. \*kēs (like \*kʷeys "who" > \*kʷēs). The short form _ce_ is due to shortening in atonic position. The Ogam particle _COI_ probably also belongs here; since its meaning seems to be equivalent to Lat. _hic (iacet)_, it has been interpreted as the loc.sg. of the same pronominal stem.
