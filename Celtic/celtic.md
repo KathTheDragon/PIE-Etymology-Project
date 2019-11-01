@@ -7751,3 +7751,391 @@ PIE: \*mewk- "soft" (IEW: 744)
 COGN: Lat. _mūcor_ "mould", _mūcus_ "slime, mucus", Gr. _mýksa_ "slime", Latv. _mukls_ "marshy"
 ETYM: This is a very problematic etymology. MIr. _mocht_ is a glossary word, and it is not in DIL; moreover, its meaning does not agree with MW _mwyth_; it is possible that the meaning "luxury, pleasure" developed from something like "softness, the state of being relaxed", cf. also MIr. _múr_ "abundance" which might be from \*mux-sro- < \*muk-sro- (presuming vowels are lengthened before \*-xsr- and \*-xsl-, cf. PCelt. [\*tāxslo- "axe"](#taxslo) < \*toxslo-). GPC adduces also W _mwyth_ "fever, first signs of a disease", but it is unclear if this word is etymologically related at all.
 REF: [EDPC]
+
+## N
+
+### <a id="">\*nad-sko- "bind" (v)</a>
+GOID: OIr. _nascaid_, -_naisc_; _náiss_, -_ná_; _nenais_, -_nenai_ [fut.]; _nenaisc_ [prt.]; _nassae_, -_nass_ [prt.pass.]
+BRET: MBret. _nasca_ "bind", MoBret. _naskañ_
+PIE: \*neHd- (IEW: 758)
+COGN: Lat. _nassa_ "fish-trap made of wickerwork", OE _net_ "net"
+ETYM: The Celtic forms can be derived from PIE \*nHd-. In Lat. _nōdus_ "knot" we might have the full grade of the root, in which case the laryngeal is \*h₃. If this etymology is correct, Skt. _náhyati_ "attaches, binds" cannot be from the same root, but implies PIE \*Hnedʰ- (LIV 227; the initial laryngeal is reconstructed because of the lengthening of vowels in compounds, e.g. Skt. _upā-nah_-; cf. PCelt. [\*nesso- "closer"](#nesso)).
+REF: [EDPC]
+
+### <a id="namant">\*nāmant- "enemy" (n)</a>
+GOID: OIr. _námae_ [t m]
+GAUL: _Namanto_-, _Namantius_, _Ad-namatus_ [PN]
+PIE: \*n(e)-h₂em-nt-
+ETYM: If this etymology, which stems from Cormac (2981), is correct, this is a negated present participle of the verb related to Lat. _amo_ "love". However, it looks dangerously like a folk etymology, and the root \*h₂em- (> PCelt. \*am-) is otherwise unattested in Celtic.
+REF: [EDPC]
+
+### <a id="nanti">\*nanti- "fight, battle" (n)</a>
+GOID: MIr. _néit_ [i m]
+PIE: \*nent- "combat, fight" (IEW: 755)
+COGN: Go. _ana-nanþjan_ "dare", ON _nenna_ "to strive", OHG _nenden_ "to dare", ToA _nati_ "might, strength"
+ETYM: According to DIL, _Néit_ may have been the name of an old Irish war-god. The PIE etymology is uncertain. I doubt whether the Tocharian forms are related to this root (cf. also ToB _nete_ "might, strength"), since the \*-n- should have been preserved.
+REF: [EDPC]
+
+### <a id="nantu">\*nantu-, \*nanto- "stream, valley" (n)</a>
+W: MW _nant_ [m and f] "stream, river, brook, dale, valley"
+BRET: MBret. _nant_ [m]
+CO: OCo. _nans_ gl. _vallis_, MoCo. _nance_, _nans_
+GAUL: _nanto_ (Endlicher's Glossary) \*nanto- > Fr. dial. _nant_, _Nanto-lium_ [toponym]
+ETYM: Conceivably, PCelt. \*nanto- can be from \*nm-to- and related to [\*nemeto- "grove"](#nemeto). The original meaning would have been "wooded valley", vel sim.
+REF: [EDPC]
+
+### <a id="naro">\*nāro- "noble, great-hearted" (adj)</a>
+GOID: MIr. _nár_ [o] "modest, magnanimous, noble, diffident"
+PIE: \*h₂enr "manly strength" (IEW: 765 (\*ner-t-))
+COGN: Lith. _nóras_ "will", Hitt. _innarā_ "forcefully"
+SEE: [\*nerto- "strength, force"](#nerto)
+ETYM: Cf. also OIr. _náire_ "modesty, magnanimity" < [\*nāryā](#narya). This is a speculative etymology. If correct, we must assume PIE nom.sg. \*h₂nṓr from which PCelt. \*nār- would be derived regularly. Hitt. _innara_ is from < \*en-h₂nor-o-, and Lith. _nóras_ must have a secondary Baltic lengthened grade, cf. also OCS _nravъ_ "custom, habit" (< \*h₂nor-wo-). A different etymology is found in LIV, where PCelt. \*nāro- is derived from \*neh₂sr-o-, and compared with Hitt. _nāhi_ "is afraid" (cf. also Hitt. _nahsaratt_- "fear, respect"). If this is correct, the meaning of \*nāro- changed from "fearful" to "respected" and "modest, noble" (the simplification of \*rr < \*sr after a long vowel may be regular, cf. [\*mīros "piece of meat, food"](#miros)).
+REF: [EDPC]
+
+### <a id="narya">\*nāryā "modesty, magnanimity" (n)</a>
+SEE: [\*nāro- "noble, great-hearted"](#naro)
+REF: [EDPC]
+
+### <a id="natrik">\*natrik- "serpent" (n)</a>
+GOID: OIr. _nathir_ [k f]
+W: MW _neidr_ [f]; _nadredd_ [p]
+BRET: OBret. _natrolion_ [p] gl. _regulosis_, MBret. _(n)azr_, _aezr_, MoBret. _nàer_ [f]
+CO: OCo. _nader_ gl. _vipera vel serpens vel anguis_
+PIE: \*(s)nh₂-tr "water snake" (IEW: 747)
+COGN: Lat. _natrīx_, Go. _nadre_ [gen.pl.], ON _naðr_ "viper, snake"
+ETYM: The PIE root is \*sneh₂ "swim" (cf. PCelt. [\*snā-yo-](#snayo)). PCelt. \*na- is the regular development of PIE \*nh₂- before consonant, word-initially (cf. [\*natu- "poem"](#natu)). Note, however, that \*sn- is regularly preserved in OIr., so s­-mobile has to be assumed.
+REF: [EDPC]
+
+### <a id="natu">\*natu- "poem" (n)</a>
+GOID: OIr. _nath_ [u n, m, and f] "poem, eulogy"
+W: MW _nad_ [f and m] (GPC _nâd_) "clamor, cry, poem"
+SEE: [\*snātu- "thread"](#snatu)
+ETYM: Lambert (1994: 168) speculates that this PCelt. word might be contained in Gaul. _duscelinatia_ (Larzac), if the correct morphological analysis of this form is _dus-celi-nat-i-a_. Cf. also the Gaul. PN _Uo-nato-rix_. These Celt. words could be related to PIE \*(s)neh₁- "sew" (W _nyddu_). The semantic development could be explained in terms of the poetic metaphor, whereby a poem is identified with a thread (Matasović 1996: 150). PIE \*nh₁tu-, without s-mobile, would have developed as PCelt. \*natu- regularly. The same root may be reflected in W _nawdd_ "patronage, support" < \*noh₁to-.
+REF: [EDPC]
+
+### <a id="nawa">\*nāwā "boat" (n)</a>
+GOID: OIr. _nau_ [ā f] (DIL _nó_)
+W: MW _noe_ [f and m] "large vase, bowl"
+BRET: MBret. _neau_, _nev_, MoBret. _new_ [f] "vase"
+PIE: \*neh₂u- "boat" (IEW: 755f.)
+COGN: Skt. _nau_-, Lat. _nāuis_, Gr. _naũs_, Arm. _naw_, OIc. _nor_
+ETYM: Cf. Gallo-Lat. _nausum_ "ship" (Ausonius). Originally an u-stem in PIE, this noun became a feminine a-stem in PCelt. (cf. OIr. gen.sg. _naue_).
+REF: [EDPC]
+
+### <a id="nawinya">\*nāw(i)nyā "hunger" (n)</a>
+GOID: OIr. _naunae_, _noíne_ [iā f] (DIL _núna_) "hunger, famine"
+W: MW _neuynn_ (GPC _newyn_) [m] "hunger, famine"
+BRET: MBret. _naffa_, MoBret. _naoun_, _naon_ [m]
+CO: OCo. _naun_ gl. _faimis_, Co. _nown_
+SEE: [\*nāwito- "need"](#nawito)
+ETYM: The original OIr. form, +, was changed to _noíne_ under the influence of _oíne_ "fast" (from Lat. _ieiunium_). W _newyn_ could be from \*nāwinV- (with \*-i- under the influence of \*nāwito- "need"), but other reflexes point to \*nāwnV-. The PIE root could be \*neh₂w- (or \*newh₂, with laryngeal metathesis) "need" (OCS _nužda_ "need", _nuditi_ "compel", OPr. _nautin_ [acc.sg.] "need", Cz. _nutiti_ "compel, force", ORuss. _nyti_ "grieve", Go. _nauþs_ "need", IEW 756).
+REF: [EDPC]
+
+### <a id="nawito">\*nāwito- "need" (n)</a>
+GOID: OIr. _neóit_ [i] "narrow, stingy"
+W: MW _neued_ (GPC _neued_, _neuedd_, _neufedd_) [m]
+SEE: [\*nāw(i)nya "hunger"](#nawinya)
+ETYM: The exact development of OIr. _neóit_ is unclear to me. It may be unrelated to W _neued_, although the etymology is almost generally accepted. The PIE root could be \*neh₂w- "need" (Lith. _naudà_ "need", Go. _nauþs_ "need", IEW 756) as in \*nāw(i)nyā "hunger".
+REF: [EDPC]
+
+### <a id="ne">\*ne, \*ni, \*nī "not" [Negation]</a>
+GOID: OIr. _ni_, _ní_
+W: OW _ni_, MW _ny_, _nyt_ (GPC _ni_)​
+BRET: OBret. _ne_, MBret. _ne_
+CO: Co. _ny_
+CELTIB: _ne_-
+PIE: \*ne (IEW: 756)
+COGN: Skt. _na_, Lat. _ne_, Go. _ni_
+ETYM: PCelt. \*ne is preserved in Celtiberian, and perhaps also in the OIr. imperative negation _na_ (later _ná_). As the main clause negation \*ne was replaced by \*ni, \*nī in Insular Celtic; the particle added to the main clause negation in Insular Celtic cannot be identified with certainty. It has to be assumed, however, because there is gemination of the following word initial consonant in both Goidelic and Brittonic. One possibility is that the particle is the clitic 3sg. pres. of the copula, \*esti > \*est > \*ess. For a discussion see, e.g., Schrijver 1997: 158, Kortlandt 2000: 144f.
+REF: [EDPC]
+
+### <a id="nebo">\*nēbo- "vigour, vital spirit" (n)</a>
+GOID: MIr. _níab_ [o m] "vigour" (?)
+W: MW _nwyf_ [m] "passion, joy, strong feeling"
+PIE: \*neybʰo- "holy" (IEW: 760)
+COGN: OPers. _naiba_- "good, beautiful"
+SEE: [\*nēmā "brilliance"](#nema)
+ETYM: The meaning of MIr. _níab_ is somewhat uncertain, but cf. the denominative verb _níabaid_ "provokes, incites". Cf. also OIr. _noíb_ "holy" [o] < PCelt. \*noybo-. Gaul. PN _Noibio_ is probably from the same root.
+REF: [EDPC]
+
+### <a id="nefti">\*neftī- "niece, sister's daughter" (n)</a>
+GOID: OIr. _necht_ [? f] gl. _neptis_
+W: MW _nith_ [f]
+BRET: OBret. _nith_ gl. _nepta_, MBret. _nyz_
+CO: OCo. _noit_ gl. _neptis_
+PIE: \*neptih₂ "niece" (IEW: 764)
+COGN: Skt. _naptī́_-, Lat. _neptis_, OHG _nift_, Alb. _mbesë_
+SEE: [\*nefot- "nephew"](#nefot)
+REF: [EDPC]
+
+### <a id="nefot">\*nefot- "nephew, sister's son" ()</a>
+GOID: OIr. _nia_ [d m], Ogam _NIOTTA_ [gen.sg.]
+W: MW _ney_, _nei_ [m] (GPC _nai_)​
+BRET: MBret. _ny_, MoBret. _niz_ [m]
+CO: OCo. _noi_ gl. _nepos_
+PIE: \*nepōt- "nephew, descendant" (IEW: 764)
+COGN: Skt. _nápāt_-, Lat. _nepōs_, OHG _nefo_, RCsl. _netijь_
+SEE: [\*neftī "niece"](#nefti)
+ETYM: The Celtic reflexes seem to preserve the stem of the PIE nom.sg. (PCelt. \*nefiit- < PIE \*nepot-)
+REF: [EDPC]
+
+### <a id="nekwe">\*ne-kʷe "not" [Negation]</a>
+GOID: OIr. _nach_
+W: MW _nag_, _nac_
+CELTIB: _nekue_ (Botorrita I)
+PIE: \*ne-kʷe (IEW: 756)
+COGN: Lat. _ne-que_
+SEE: [\*ne, \*ni, \*nī (negation)](#ne)
+ETYM: The a-vocalism in Insular Celtic is the result of the change \*e > \*a in proclisis, cf. e.g. 3sg. of the (proclitic) OIr. copula _ba_ vs. the stressed 3sg. of the substantive verb _boí_; the final \*-e was apocopated early in Brittonic and Goidelic (Schrijver 1997: 160).
+REF: [EDPC]
+
+### <a id="nekwo">\*nekʷo- "someone" (pron)</a>
+GOID: OIr. _nech_
+W: OW _nepp_, MW _neb_
+BRET: OBret. _nep_, MBret. _nep_, MoBret. _neb_
+CO: Co. _nep_
+GAUL: _nepon_ [acc.sg.] (Larzac)​
+PIE: \*ne-kʷo- (IEW: 645)
+ETYM: Indefinite pronoun formed with the negative prefix. There is a similar formation of indefinite pronouns from negated interrogatives, e.g., in Slavic, cf. Croat. _nȅtko_ "someone". The meaning of Gaul. _nepon_ is not completely ascertained.
+REF: [EDPC]
+
+### <a id="nekki">\*nek(k)i "not" [part.]</a>
+GOID: OIr. _nacc_, _naicc_
+W: OW _na_, _nac_, MW _na(d)​_
+BRET: MBret. _na_, _nac_
+CO: Co. _na(g)​_
+SEE: [\*ne, \*ni, \*nī (negation)](#ne), [\*ne-kʷe "not"](#nekwe)
+ETYM: The exact relationship of this word to the PIE negation \*ne, \*ne- is unclear. The a-vocalism may be due to the development \*e > \*a in proclisis. The geminate \*-kk- may be expressive; the proto-form \*ne-kʷe assumed by Schrijver (1997: 160) yielded OIr. _nach_, MW _nag_.
+REF: [EDPC]
+
+### <a id="nema">\*nēmā "brilliance, beauty" (n)</a>
+GOID: OIr. _níam_ [ā f]
+PIE: \*ney- "shine" (IEW: 760)
+COGN: Lat. _niteo_ "shine"
+SEE: [\*nēbo- "vigour, vital spirit"](#nebo)
+ETYM: The connection with Lat. _niteo_ is uncertain. Ultimately, PCelt. \*nēmā (if from \*ney-meh₂) could be from the same root as \*nēbo- "holy", PIE \*ney-, but there is an inflation of PIE roots meaning "to shine, be radiant", so this etymology is quite uncertain.
+REF: [EDPC]
+
+### <a id="nemeto">\*nemeto- "sacred place, sanctuary" (n)</a>
+GOID: OIr. _nemed_ [o n > m]
+W: OW _Eid-nivet_ [PN]
+BRET: OBret. _lud-nimet_ [PN]
+GAUL: _nemeton_ (Vaison, RIG G-153)
+SEE: [\*nemos](#nemos), [\*nanto-](#nanto)
+ETYM: It is unclear whether MW _nyfed_ "strength" belongs here. The development would have been from "sacred, endowed with power" to "strong" and "force, strength".
+REF: [EDPC]
+
+### <a id="#nemo">\*nemo- "poison" (n)</a>
+GOID: OIr. _neim_ [s n]
+PIE: \*nem- "divide, take", \*nemos "that, which is taken" (IEW: 763)
+COGN: Go. _niman_ "take", Gr. _némō_ "divide, take"
+ETYM: Vendryès rejects this etymology on semantic grounds, but it is not hopeless (cf. Germ. _Gift_ "poison" from the verbal root which is in _geben_ "give").
+REF: [EDPC]
+
+### <a id="nemos">\*nemos- "heaven, sky" (n)</a>
+GOID: OIr. _nem_ [s n]
+W: OW _nem_ [f and m], MW _nef_
+BRET: OBret. _nem_, MBret. _neff_, MoBret. _neñv_ [m]
+CO: OCo. _nef_ gl. _celum_, MCo. _nef_
+PIE: \*nebʰos "cloud, cloudy sky" (IEW: 315)
+COGN: Hitt. _nēpis_ "sky", Skt. _nábhas_- "cloud", Gr. _néphos_, OCS _nebo_ "sky"
+ETYM: The irregular \*-m- of the Celtic forms is best explained as the result of assimilation (n...bh > n...m).
+REF: [EDPC]
+
+### <a id="nero">\*nero- "hero" (n)</a>
+GOID: MIr. _ner_ [?o m] "boar"
+W: MW _ner_ [m] "chief, hero" (GPC _nêr_)​
+PIE: \*h₂ner "man" (IEW: 765)
+COGN: Skt. _nár_-, Gr. _anḗr_, Alb. _njeri_ "person", Osc. _ner­_-
+SEE: [\*nerto- "strength, force"](#nerto)
+ETYM: MIr. _ner_ is a rare, poetic word. Cf. also W _Nerys_ [PN] < \*ner-issī. The PIE ablaut pattern was nom.sg. \*h₂nēr / acc.sg. \*h₂ner-m / gen.sg. \*h₂nr-os. The Celtic forms have generalized the full grade from the acc.sg.
+REF: [EDPC]
+
+### <a id="nerto">\*nerto- "strength, force" (n)</a>
+GOID: OIr. _nert_ [o n]
+W: OW _nerth_ [m and f] (OW and MW)
+BRET: OBret. _nerth_ gl. _robur_, MBret. _nerz_, MoBret. _nerzh_ [m] "strength", Vannetais _nerh_
+CO: Co. _nerth_
+GAUL: _Nerto-maros_ [PN]
+CELTIB: _Nerto-bi(s)_ [toponym]
+PIE: \*h₂ner-to- "virile, strong" (IEW: 765)
+COGN: Skt. _nár_- "man, male", Osc. _nerum_ [gen.pl.] "man", perhaps the Germanic theonym _Nerthus_ (Tacitus)​
+SEE: [\*nero- "hero"](#nero)
+ETYM: Cf. also the denominal verbs OIr. _nertaid_ "make stronger", W _nerthu_, MoBret. _nerza_, _nerzhañ_. Celtib. _Nertobi(s)_ should be interpreted as /nertobrixs/ and connected with the toponym _Nertobriga_ in Spain.
+REF: [EDPC]
+
+### <a id="nesso">\*nesso- "closer" (comparative) (adj)</a>
+GOID: OIr. _nessa_
+W: OW _nes_, MW _nes_
+BRET: MBret. _nes_ "close"
+CO: Co. _nes_, _nessa_
+GAUL: _neđđamon_ [gen.pl.] "_proximorum_" (Banassac, CIL XIII 10016,13)
+PIE: \*Hnedʰ- "bind" (IEW: 758)
+COGN: Osc. _nessimas_ "_proximae_"
+ETYM: The traditional connection of these words with \*nad-sk- "bind" is impossible, if this verb is from PIE \*nHd-, as argued here (see [\*nad-sko­ "bind"](#nadsko)). However, there is another PIE root, \*Hnedʰ- "bind" from which we have Skt. _náhyati_ "binds"; if PCelt. \*nesso- is from this root, it comes from PIE \*Hnedʰ-so-, or \*Hnedʰ-to-.
+REF: [EDPC]
+
+### <a id="newe">\*ne-we "or" [conj.]</a>
+GOID: OIr. _nó_
+W: MW _neu_, _nou_
+PIE: \*ne-we "or... not" (IEW: 75, 757)
+COGN: Lat. _neue_, _neu_
+ETYM: In Celtic, we assume \*newe- > \*nowe; the final \*-e was apocopated in both Brittonic and Goidelic (Schrijver 1997: 160), hence regularly OIr. _nó_, W _nou_.
+REF: [EDPC]
+
+### <a id="nexso">\*nexso- "wound" (n)</a>
+GOID: MIr. _ness_ "wound, lump or swelling on the body caused by a blow"
+W: MW _nych_ [m] "pain"
+BRET: MBret. _nech_, MoBret. _nec'h_ [m] "pain, confusion, panic"
+PIE: \*neḱ- "die, perish" (IEW: 762)
+COGN: Skt. _náśyati_ "perishes", Gr. _nekrós_ "body, dead person", Lat. _nex_ "death", ToB _näk_- "perish"
+ETYM: The MIr. word is known only from glossaries, so its gender and stem formation are unknown. PCelt. \*nexso- can be derived directly from PIE \*nek-so-, cf. also [\*anku- "death"](#anku) from the same root.
+REF: [EDPC]
+
+### <a id="nigyo">\*nig-yo- "wash" (v)</a>
+GOID: OIr. _nigid_, -_nig_; _néiss_, -_né_ [subj.]; _ninis_, -_nin_ [fut.]; _nenaig_ [prt.]; _nechtae_, -_necht_ [prt.pass.]
+PIE: \*neygʷ- "wash" (IEW: 761)
+COGN: Skt. _nij_-, _a-nij-am_ [1s.aor.], Gr. _nízō_, _níptō_
+REF: [EDPC]
+
+### <a id="ninati">\*ninati- "nettle" (n)</a>
+GOID: OIr. _nenaid_ [i f]
+W: MW _dynat_ [p] (GPC _danadl_); _danhadlen_, _dynhaden_ [sing.]
+BRET: MBret. _lenhat_, MoBret. _linad_ [coll.]
+CO: OCo. _linhaden_ gl. _urtica_
+PIE: \*neh₂t/d- (IEW: 758f.)
+COGN: OE _netele_, OHG _nazza_, _nezzila_, Lith. _notryne_, OPr. _noatis_.
+ETYM: The Brittonic forms can be explained by dissimilation (\*n...n > \*d...n in W, \*n...n > \*l...n in MBret.), but the word-initial \*l- could also be due to the influence of [\*lino- "flax"](#lino) (stalks of nettles were used for weaving clothes, Michiel de Vaan, p.c.). Correspondences in other IE languages with alternations of \*a and \*ā, \*t and \*d, imply that this is an old loanword from some unknown non-IE source. The Germanic words for "nettle" can be derived from \*natilōn and \*natōn (Orel 2003: 281f.) < PIE \*nad-, cf. also Gr. _adíkē_ "nettle", as if from \*ndi-. Skt. _náda_- "reed", Hitt. _natta_- "reed" and, perhaps, Arm. _net_ "arrow" are from a different etymon, PIE \*nedo- "reed" (Mayrhofer, s.v. _náda_-).
+REF: [EDPC]
+
+### <a id="nino">\*nino- "ash-tree" (n)</a>
+GOID: MIr. _nin_ [o m]
+W: OW _nihn_
+ETYM: Cf. also Gaul. toponym _Ninittacum_ (today _Nizy-le-Comte_), which may contain the same root. These isolated words were probably borrowed from some non-IE language.
+REF: [EDPC]
+
+### <a id="nitu">\*nītu- "battle fury, anger" ()</a>
+GOID: OIr. _níth_ [u m and n]
+PIE: \*niH-tu- "fury" (IEW: 760)
+COGN: Go. _neiþ_ "jealousy"
+ETYM: OIr. _nia_ [t m] "hero" and the first element of Ogam _NETA-(CAGI)_ may contain the same root in the full grade \*neyH-to-, but details are unclear. Cf. also W _nwyd_ [m and f] "passion, emotion", which may also come from \*neyH-to-, and perhaps also ToB _ñātse_ "distress, plague".
+REF: [EDPC]
+
+### <a id="nixto">\*nixt-o- "winnow" (v)</a>
+W: MW _nithiaw_ (GPC _nithio_)​
+BRET: MBret. _niza_, MoBret. _nizhañ_
+PIE: \*neyk- "winnow" (IEW: 761)
+COGN: Gr. _likmáō_, Lith. _niekóti_
+ETYM: The Celtic words for "wheat" are derived from the same root, cf. OIr. _cruth-necht_, W _gwenith_, MBret. _gwiniz_, Co. _gwaneth_ < PCelt. \*nixto-, \*ufo-nixto- "winnowed; wheat".
+REF: [EDPC]
+
+### <a id="">\*nixto- "clean, bright" (adj)</a>
+GOID: MIr. _necht_ [o]
+PIE: \*neygʷ- "wash" (IEW 761)
+COGN: Skt. _niktá_- "washed", Gr. _nízō_ "wash"
+ETYM: MIr. _necht_ is poorly attested (mostly in glossaries), so this etymology is quite uncertain. If it is correct, PCelt. \*nixto- is originally a past participle of the PIE root \*neygʷ-, and the original meaning of \*nigʷto­ > \*nixto- was "washed". VLat. _nectos_ .i. _merus_ (CGL V 374, emendation of _netcos murus_) has been interpreted as a Gaul. loanword, and also derived from PIE \*nigʷto- > PCelt. \*nixto- (LEIA N-6). However, this is quite dubious, since the word is a hapax.
+REF: [EDPC]
+
+### <a id="nizdo">\*nizdo- "nest" (n)</a>
+GOID: MIr. _net_ [o m, sometimes f]
+W: MW _nyth_ [m and f]
+BRET: MBret. _nez_, MoBret. _neizh_ [m]
+CO: OCo. _neid_ gl. _nidus_, MCo. _nyth_
+PIE: \*ni-sd-o- "nest" (IEW: 887)
+COGN: Skt. _nīḍá_-, Lat. _nīdus_, OHG _nest_, Lith. _lìzdas_
+ETYM: It is usually assumed that \*ni- is a prefix in the word for "nest" in PIE, and that the root is \*sed- "sit". PIE \*ni- would thus be the only prefix in the proto-language. However, the proper reconstruction may also be \*h₂ni-sd-o-, in which case \*h₂ni- is the petrified locative of an old root-noun from which we also have Gr. _ánō_ "up, upwards", Av. _ana_, Go. _ana_ and other spatial prepositions (as argued in Matasović 2008a: 246f.).
+REF: [EDPC]
+
+### <a id="nowslo">\*now-slo- "cry, shout" (n)</a>
+GOID: OIr. _nuall_ [o n]
+PIE: \*newH- "cry, roar" (IEW: 767)
+COGN: Skt. _návate_, ToB _nu_- "roar"
+ETYM: Another possible cognate is Lat. _nūntium_ "message", but that word has also been plausibly related to PIE \*newo- "new". Mayrhofer (s.v. _NAV_-) thinks this root may be onomatopoetic.
+REF: [EDPC]
+
+### <a id="nowameto">\*nowameto- "ninth" (num)</a>
+GOID: MIr. _nómad_
+W: MW _nawfet_ (GPC _nawfed_)​
+BRET: MBret. _nauvet_, _naovet_, MoBret. _nawved_
+CO: MoCo. _nawhwas_
+GAUL: _nametos_
+SEE: [\*nowan "nine"](#nowan)
+REF: [EDPC]
+
+### <a id="nowan">\*nowan "nine" (num)</a>
+GOID: OIr. _noí_ [nasalising]
+W: OW _nauou_, MW _naw_
+BRET: OBret. _nau_, MBret. _nau_, MoBret. _nao_, _naw_
+CO: Co. _naw_
+PIE: \*(h₁)newn "nine" (IEW: 318f.)
+COGN: Skt. _náva_, Lat. _nouem_, Gr. _ennéa_, Go. _niun_, Lith. _devynì_, Russ. _dévjat'_, Alb. _nëndë_, ToB _ñu_
+ETYM: The Brittonic forms can be derived from \*nawan < \*nowan by vowel assimilation. Celtib. _nouantubos_ [dat.pl.] is sometimes derived from this PCelt. root, but this is quite uncertain (it is more probably connected with PCelt. \*nowyo- "new").
+REF: [EDPC]
+
+### <a id="nowdont">\*Nowdont- (PN)</a>
+SEE: [\*snowdo- "mist, haze"](#snowdo)
+REF: [EDPC]
+
+### <a id="nowyo">\*nowyo- "new" (adj)</a>
+GOID: OIr. _núae_ [io]
+W: MW _newydd_
+BRET: OBret. _en neuidteruo_ gl. _mensis nouorum_, MoBret. _nevez_, _newez_
+CO: Co. _newyth_
+GAUL: _Nouio-(dunum)_ [toponym]
+CELTIB: ? _nou-iza_
+PIE: \*newos "new" (IEW: 769)
+COGN: Hitt. _newa_-, Skt. _náva_-, Lat. _nouus_, Gr. _néos_, Go. _niujis_, Lith. _naũjas_, OCS _novъ_, ToB _ñuwe_, Arm. _nor_
+SEE: [\*nu "now"](#nu)
+ETYM: The meaning of the Celtiberian form _nouiza_ (Botorrita III, 1) is far from ascertained, but it may be derivable from \*nowiyā if McCone (2003) is right in positing the change \*-iyV- > \*-iđV- > -izV- in Celtiberian (cf. also PCelt. [\*gab-yo-](#gabyo), which may be attested as Celtib. _kabizeti_ /gabizeti/). Celtib. _nouantubos_ has also been related to this PCelt. etymon (see under [\*nowan­ "nine"](#nowan)). OBret. _neguid_, which is sometimes adduced here, appears to be actually a verbal form (_ne guid_ "does not know"). OBret. _neuidterou_ is probably a plural form of \*neuid-ter "newness".
+REF: [EDPC]
+
+### <a id="noxtv">\*noxtV- "night" (n)</a>
+GOID: OIr. _innocht_ "tonight"
+W: OW _he-noid_ "tonight", MW _peu-noeth_ "every night"
+BRET: MBret. _hanoez_ "tonight"
+CO: Co. _haneth_ "tonight"
+GAUL: _tri-nox(tion)_ "three nights" (Coligny), _decam-noctiacis_ (Limoges)​
+PIE: \*nokʷt- "night" (IEW: 762)
+COGN: Hitt. _nekuz_ (_mēhur_) "at night", Skt. _nákt_-, Gr. _nýks_, Lat. _nox_, Lith. _naktìs_, OCS _noštь_, Alb. _natë_, ToB _nekcīye_ "at night"
+ETYM: MW _nos_ is a loanword from Latin (_nox_); the Celtic form is preserved only in the adverbial form, just as in OIr. (but see Falileyev 121 for a different opinion: OW _nos_ < PCelt. \*noxt-stu-; for the suffix, cf. [\*flenstu-](#flenstu), [\*adestu-](#adestu), etc.).
+REF: [EDPC]
+
+### <a id="noxto">\*noxto- "naked" (adj)</a>
+GOID: OIr. _nocht_ [o]
+W: MW _noeth_
+BRET: OBret. _noit_, MBret. _noaz_, MoBret. _noazh_
+CO: Co. _noeth_, _noyth_
+PIE: \*nōgʷ- "naked body", \*nogʷo- "naked" (IEW: 769)
+COGN: Hitt. _nekumanza_, Skt. _nagnás_, Lat. _nūdus_, OE _nacod_, Lith. _núogas_, OCS _nagъ_
+ETYM: OBret. _noit_ might be the same word, but the meaning of this gloss is uncertain (it might mean "naked"). The Celtic forms can be derived from PIE \*nogʷ-to-. The root is attested with different suffixes, except in BSl., where the simple thematic stem was built to the lengthened grade of the root (Winter's law would not operate in open syllables, cf. Matasović 1995). Cf. also Gr. _gymnós_ "naked" < \*nogʷmos (metathesis). A root adjective, or, more likely, a root noun meaning "naked body" should be posited in PIE.
+REF: [EDPC]
+
+### <a id="noybo">\*noybo- "holy" (adj)</a>
+SEE: [\*nēbo- "vigour"](#nebo)
+REF: [EDPC]
+
+### <a id="nu">\*nu "now" (adv)</a>
+GOID: OIr. _nu_
+W: MW _nu_
+GAUL: _nu_ (Lezoux)​
+PIE: \*nu(H) "discourse particle" (IEW: 770)
+COGN: Hitt. _nu_ "and, but", Skt. _nú_, Gr. _nỹn_ "now", Lat. _nunc_ "now", Go. _nu_, Russ. _nýne_ "now, today"
+ETYM: W _nu_ presupposes \*now, with the full-grade of the root (PIE \*newH or \*nowH). The alternation between \*nu and \*nū observed in several languages can be explained if we assume that the original form of the particle was \*nuH, but that the laryngeal was lost in pause (sentence-sandhi). This is probably also the explanation for the alternation between \*me and \*mē in the acc.sg. of the 1sg. personal pronoun.
+REF: [EDPC]
+
+### <a id="nusso">\*nūsso-, \*nowsso- "first milk, colostrum" (n)</a>
+GOID: OIr. _nús_ [o and u m]
+W: W _nus_ [?m]
+BRET: MBret. _(leaz) lusen_
+ETYM: W _nus_ is very poorly attested, and it is unclear whether it is a masculine noun (as stated in GPC). The vocalisms of Goidelic and Brittonic do not agree, since OIr. _nús_ points to \*nūss- and W _nus_ to \*nowss-. The Brittonic words might actually be loan-words from Goidelic, or all of these words were borrowed from some unknown source. Breton could have the word initial _l_- by assimilation with the preceding word in the syntagm, or by analogy with the stem of \*lūss-, which is attested in OIr. _lus(aid)_, which is originally the s-subjunctive of _ibid_ "drinks" (GOI 471).
+REF: [EDPC]
+
+### <a id="nuwo">\*nuw-o- "nod, assent to" (v)</a>
+GOID: MIr. _as-noi_ "swear"
+W: MW _dineu_ (GPC _dinau_) "flow, pour, spill"
+BRET: MBret. _dinou_ "pour out"
+CO: Co. _dynwa_ [3s.subj.]
+PIE: \*new- "nod" (IEW: 767)
+COGN: Lat. _ad-nuo_, Gr. _neúō_
+ETYM: MIr. _as-noí_ < \*exs-nuwo-, while the Brittonic forms presuppose \*dī-new-o- (the simplex verb is unattested). MW _nugio_ "shake, quiver" could be from PCelt. \*now-k- < \*new-k-. Another possible cognate is Lith. _niaũsti_ "to bend"; it may preserve the original meaning of the PIE root.
+REF: [EDPC]
