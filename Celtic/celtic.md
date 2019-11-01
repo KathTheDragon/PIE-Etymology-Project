@@ -1274,7 +1274,7 @@ REF: [EDPC]
 GOID: OIr. _benaid; -bia_ [subj.]; _bíu_ [ls fut.]; _bí_ [prt.]; -_bíth_ [prt.pass.]
 W: MW _kymynu_ "hit, cut down"; _kymyn_ [3s.prs.]
 BRET: MBret. _benaff_ "cut"
-GAUL: _biietutu_ "should strike" [Impv.] (Larzac)
+GAUL: _biietutu_ "should strike" [impv.] (Larzac)
 CELTIB: _ne-bintor_ "should not be hit" [3p Impv. Med.] (Botorrita I)
 PIE: \*bʰeyH- "strike" (IEW: 117f.)
 COGN: OLat. _perfines_ "you should strike", OCS _biti_ "strike"
