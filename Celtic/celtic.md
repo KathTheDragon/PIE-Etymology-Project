@@ -8139,3 +8139,280 @@ PIE: \*new- "nod" (IEW: 767)
 COGN: Lat. _ad-nuo_, Gr. _neúō_
 ETYM: MIr. _as-noí_ < \*exs-nuwo-, while the Brittonic forms presuppose \*dī-new-o- (the simplex verb is unattested). MW _nugio_ "shake, quiver" could be from PCelt. \*now-k- < \*new-k-. Another possible cognate is Lith. _niaũsti_ "to bend"; it may preserve the original meaning of the PIE root.
 REF: [EDPC]
+
+## O
+
+### <a id="obnu">\*obnu- "fear" (n)</a>
+GOID: OIr. _omun_ [u m]
+W: MW _ofuyn_ (GPC _ofn_) [m]
+BRET: MBret. _oun_, MoBret. _ovn_ [m]
+CO: Co. _own_
+GAUL: _Ex-obnus_ [PN]
+SEE: [\*exs-obno- "fearless"](#exsobno)
+ETYM: OIr. _omun_ is also attested with the long first vowel, _ómun_ > MIr. _uamun_. The source of the vacillation is unclear to me (short vowel by analogy with _essamin_ "fearless"?). Cf. also the denominative verb W _ofnaf_ "to fear". The PIE etymology is unknown, but a connection with Croat. jeza "fear, terror" appears possible. Cf. also Lith. _éngti_ "to strangle", ON _ekki_ "convulsive sobbing", OE _inca_ "doubt, complaint" (Orel 2003: 84). The Slavic forms presuppose Early PSl. \*endzā or \*indzā, and can be derived from PIE \*h₁engʷ-, with the nasal infix from the verbal base (present stem), cf. also Lith. _éngti_ (the acute is regular because of Winter's law). The PIE root would be \*h₁egʷ-. PCelt. \*obno- or \*obnu- can be from PIE \*h₁ogʷno­ or \*h₁ogʷnu-.
+REF: [EDPC]
+
+### <a id="odbo">\*odbo- "knot, bulge" (n)</a>
+GOID: OIr. _odb_ [o m]
+W: W _oddf_ [m]
+ETYM: Cf. also the Gaul. PNs with the first element _Osbi_- (e.g. _Osbimaca_, _Osbimanus_). EIEC and Mallory and Adams 2006 relate these words to Skt. _ádga_- "knot,joint", Gr. _óskhos_ "sucker, shoot", _óskhē_ "vine with grapes" (PIE \*Hosgo-), but do not explain the sound developments, which would be highly irregular. One could, in principle, derive the Celtic and Indo-Iranian forms from PIE \*h₃edgʷos, but then Greek _óskhos_ is unrelated. Schrijver (1995: 376) follows LEIA in deriving the Celtic forms from \*ost-bʰV- and relates them to Gr. _osphýs_ "hip", which I find less convincing. Lith. _uodegà_ "tail" is probably also unrelated to these words.
+REF: [EDPC]
+
+### <a id="ofiba">\*ofi-bā "beauty, appearance" ()</a>
+GOID: OIr. _oíph_, _oíb_ [ā f and m] "semblance, appearance, beauty"
+PIE: \*h₁opi-bʰeh₂ (IEW: 104)
+COGN: Skt. _abhi-bhā_- "inauspicious omen"
+ETYM: This old compound appears to contain the PIE root \*bʰeh₂- "shine" (Skt. _bhā́ti_ "shines", Gr. _phō̃s_ "light", etc.). However, Vendryès may be right in claiming that this reconstruction "ne repose surrien" ("not based on anything") (LEIA 0-14).
+REF: [EDPC]
+
+### <a id="ofibela">\*ofi-belā "spark, flame" (n)</a>
+GOID: MIr. _oíbell_ [ā f]
+W: MW _ufel_ [m]
+PIE: \*h₁opi-bʰel- (IEW: 119)
+ETYM: MoBret. _fulenn_ [f] "spark" may be related, if it is metathesized from \*uflenn. The reconstruction \*ofi-belā proposed here is quite doubious. Vendryès (LEIA 0-15) doubts this etymology and relates the MIr. word to _oíb_ "beauty, prosperity", which does not seem convincing.
+REF: [EDPC]
+
+### <a id="ogmiyo">\*Ogmiyo- "a mythological name" (pn)</a>
+GOID: MIr. _Ogma_ [?io m]
+GAUL: _Ogmios_ [theonym]
+ETYM: Gaul. _Ogmius_ occurs on an inscription from Salins as an epithet of Hercules, and MIr. _Ogma mac Ethlenn_ is depicted as the inventor of the Ogam writing. This theonym is usually derived from the name of _Ogam_, OIr. _ogum_, _ogom_ [o m] < PCelt. \*ogmo-, but other etymological connections are unknown. A problem for this etymology is that the development of PCelt. \*-gm- in Irish is uncertain: since \*g is lost before \*n with the lengthening of the preceding vowel (cf. \*wegno- "wagon" > OIr. _fén_), it has been argued that \*ogmo- should have given MIr. \*\*úam. However, there are no other examples to substantiate this development, so it is possible that \*-gm- was preserved.
+REF: [EDPC]
+
+### <a id="oketa">\*oketā "harrow" (n)</a>
+W: MW _ocet_ (GPC _oged_) [f]
+BRET: MBret. _oguet_, MoBret. _oged_ [f]
+CO: OCo. _ocet_, Co. _oges_
+PIE: \*Hoḱeteh₂ "harrow, rake" (IEW: 22)
+COGN: Lat. _occa_, OPr. _aketes_, Russ. _oset'_ "granary, rack for drying grain", OHG _egida_
+ETYM: Although the shape of the reconstructed word for "harrow" appears non-Indo-European, the connection with the root \*h₂eḱ- "sharp" (Lat. _acus_ "needle", etc.) seems likely (see PCelt. [\*akro-](#akro)); in that case, the correct PIE reconstruction is \*h₂oketeh₂. Note, however, that reflexes are limited to the European branches of IE, which is typical of many words belonging to agricultural terminology.
+REF: [EDPC]
+
+### <a id="okri">\*okri- "edge" (n)</a>
+SEE: [\*akro- "high"](#akro)
+REF: [EDPC]
+
+### <a id="olina">\*olīnā "elbow, angle" (n)</a>
+GOID: OIr. _uilen_ [ā f]
+W: OW _elinou_ [p], MW _elin_ [f and m]
+BRET: MBret. _elin_, MoBret. _elin_ [m]
+CO: Co. _elyn_, _elin_
+PIE: \*h₃elēn "elbow" (IEW: 307)
+COGN: Lat. _ulna_, Gr. _olénē_, Go. _aleina_, perhaps ToB _alyiye_ "palm"
+ETYM: Cf. also Gaul. hydronym _Olina_ (Sims-Williams 2006: 97). W _elin_ is from \*olin by i-Umlaut.
+REF: [EDPC]
+
+### <a id="olo">\*olo- "behind, beyond" (prep)</a>
+GOID: OIr. _ol_ 1. "beyond" 2. "than" (Preposition with the comparative)​
+W: MW _ol_ [m] (GPC _ôl_) "track", _yn ôl_ "according to"
+PIE: \*h₂el- (IEW: 24f.)
+COGN: OLat. _ollus_ "that", OCS _lani_ "in the past year"
+ETYM: The OIr. adverb and preposition _ol_ is used in comparative constructions, e.g. Wb. 12a21 _is sochrudiu láam oldó-sa_ "hand is more beautiful than I am". Word initial \*o instead of the expected a- may be due to early assimilation (\*alo- > \*olo-), or we should start from \*h₂olo- which would give PCelt. \*olo- regularly (cf. also OLat. _ollus_ < \*h₂olno-). PCelt. \*olo- is from the PIE demonstrative stem \*h₂el-, which is also in PCelt. [\*alyo- "other"](#alyo). OIr. defective verb _ol_ "(s)he said, _inquit_" has also been related to this root.
+REF: [EDPC]
+
+### <a id="olyo">\*olyo- "all, whole, every" (adj)</a>
+GOID: OIr. _uile_ [io]
+W: MW _oll_, _holl_
+BRET: OBret. _holl_, MBret. _holl_, _oll_, MoBret. _oll_
+CO: Co. _hol_, _oll_
+GAUL: _ollon_ [n] (Chamalières); _Ollo-dagos_ [PN]
+PIE: \*h₃ol-yo- "all"
+COGN: Go. _alls_ "all, whole"
+ETYM: Another etymology, somewhat less viable, relates these words to PIE \*sol-yo- "whole" (Skt. _sárva_-, Gr. _hólos_ < \*sol-wo-). This would help explain the traces of word initial \*h- (< \*s-) in Brittonic (but in most instances that word-initial _h_- can be purely graphic, and positing PCelt. \*s­ does not explain the Gaulish forms). In any case, these forms must be distinguished from PCelt. [\*folno- "great"](#folno).
+REF: [EDPC]
+
+### <a id="omiyo">\*omiyo- "copper, bronze" (n)</a>
+GOID: OIr. _umae_ [io n]
+W: OW (o) _emid_ gl. _ex aere_, W _efydd_ [m]
+PIE: \*HoHmo- "raw" (IEW: 777)
+SEE: [\*omo- "raw"](#omo)
+ETYM: Both OIr. _umae_ and W _efydd_ mean "copper" as well as "bronze, brass", and we may assume that the meaning "copper" is earlier. For the Welsh vocalism cf. PCelt. [\*olīnā "elbow"](#olina) > MW _elin_. A derivation of \*omiyo- from \*omo- "raw" appears formally possible, but the semantic connection is weak. Was "copper" conceived of as "raw metal" in contrast to iron, which is melted at much higher temperatures?
+REF: [EDPC]
+
+### <a id="omo">\*omo- "raw" (adj)</a>
+GOID: OIr. _om_ [o]
+W: W _of_
+PIE: \*HoHmo- "raw" (IEW: 777f.)
+COGN: Gr. _ōmós_, Skt. _āmá_-, Khot. _hāma_-, Arm. _hum_
+ETYM: As the Gr. and Skt. words are oxytona, this could be an instance of pretonic shortening in Celtic (Dybo's law). Note, however, that there are but a few instances of this law operating on syllables with proper PIE vowels (\*e, \*o), so in this particular case one is tempted to think that the second laryngeal was lost by dissimilation (\*HoHmo- > \*Homo- > PCelt. \*omo-). The PIE reconstruction is uncertain, since the nature of the second laryngeal cannot be ascertained (initial \*h₂ is usually reconstructed on the basis of Arm. _hum_). A connection with Lat. _amārus_ "bitter" is doubtful (it may, in principle, represent \*h₂H-emo-).
+REF: [EDPC]
+
+### <a id="onko">\*onko- "at" (prep)</a>
+GOID: OIr. _oc_ [+dat.]
+W: MW _wnc_, _wng_ "near"
+SEE: [\*ank-o- "reach"](#anko)
+ETYM: If PCelt. \*onko- is indeed related to the verbal root \*ank-o- "reach", it probably presupposes a verbal noun \*h₂onko- petrified as the preposition in Celtic. The development of meaning would be from "having reached" to "at".
+REF: [EDPC]
+
+### <a id="orbo">\*orbo- "heir, inheritor" (n)</a>
+GOID: OIr. _orb_ [o m]
+PIE: \*h₁orbʰo- "inheritance" (IEW: 781)
+COGN: Lat. _orbus_ "orphan", OCS _rabъ_ "slave", Arm. _orb_
+ETYM: OIr. _orbe_ [io n] "inheritance" is the exact parallel of PGerm. \*arbiya- (Go. _arbi_ "inheritance"). I prefer to reconstruct the PIE root with \*h₁ rather than with \*h₃ because this facilitates McCone's connection of these words with OIr. _erbaid_ "entrusts". Hitt. _harp_- "separate" is therefore not related, pace Weiss 2006.
+REF: [EDPC]
+
+### <a id="ordo">\*ordo/ā- "hammer" (n)</a>
+GOID: OIr. _ord_ [o m] gl. _malleus_
+W: OW _ord_ [f], MW _orth_
+BRET: OBret. _ord_ gl. _maleus_, MBret. _orz_ [f]
+ETYM: Gaulish ethnonym _Ordo-vices_ has also been related to this PCelt. etymon. Falileyev 126 and Pedersen (I: 114) relate these words to Arm. _urn_ "hammer" (? < \*ōrdn-) but this is highly speculative. One could also speculate that this word is an old compound, PIE \*h₃erg-dʰh₁o-, from \*h₃erg­ "perish" (see PCelt. [\*orgo- "destroy"](#orgo)) and \*dʰeh₁- "do, make" (Lat. _facio_, OCS _děti_, etc.), although it is unknown what the development of the cluster \*-rgd- should be in Celtic (but cf. \*h₂rkto- "bear" > OIr. art, so maybe \*h₃erg-dʰh₁o- > \*orxdo- > \*ordo- is regular).
+REF: [EDPC]
+
+### <a id="orgo">\*org-o- "destroy" (v)</a>
+GOID: OIr. _orgaid_, -_oirg_; _oirr_, -_orr_ [subj.]; _ieirr_, -_iarr_ [fut.]; _oirt_, -_ort_ [prt.]; _ortae_, _ort_ [prt.pass.]
+W: MW _yny-orth_ [impersonal pass.]
+GAUL: _orge_ [impv.] "kill" (CGL V 316, 70)
+PIE: \*h₃erg- "perish" (IEW: 819 (\*perg-))
+COGN: Hitt. _harkzi_, Arm. _harkanem_ "strike"
+ETYM: The Welsh simplex occurs only in Canu Aneirin (CA 13.315). Cf. also the Gaul. PN _Orgeto-rix_ (Caesar, _De Bello Gallico_ I, 2, 1).
+REF: [EDPC]
+
+### <a id="orgya">\*orgyā "testicle" (n)</a>
+GOID: MIr. _uirge_ [iā f]
+PIE: \*h₁orǵʰi- "testicle"
+COGN: Hitt. _arki_-, Av. _ərəzī_- [dual], Gr. _órkhis_, Alb. _herdhe_ [p], Arm. _orjik'_ [p]
+ETYM: The Celtic yā-stem presupposed by OIr. _uirge_ probably derives from the original PIE collective, built to the neuter i-stem. A possible cognate in Breton is MBret. _orguet_, MoBret. _orged_ "lascivous" (if it is from PCelt. \*orgeto-). Some linguists reconstruct PIE \*h₃erǵʰi- because of Alb. _herdhe_, but Alb. _h_- can be secondary (Demiraj 1997: 199).
+REF: [EDPC]
+
+### <a id="osno">\*osno- "ash-tree" (n)</a>
+GOID: MIr. _onn_ [? ?] "pine tree, furze-bush (or ash ?)"; OIr. _uinnius_ [ā f] "ash-tree"
+W: MW _onn_ [coll.]; _ynn_ [p]
+BRET: MBret. _ounn_, _onn_ [coll.]
+CO: OCo. _onnen_ gl. _fraxus_ [sing.]
+PIE: \*h₃es-n- "ash-tree" (IEW: 782)
+COGN: Lat. _ornus_, OHG _asc_, Lith. _úosis_, Russ. _jásen'_, Alb. _ah_ "beech", Gr. _oksýa_ "beech", Arm. _hac'i_.
+ETYM: Celtic shares with Italic and Slavic the suffix \*-(e)no- (other languages have \*-ko-, or \*-sko-). I do not believe the evidence warrants the reconstruction of the PIE root as \*h₃eHs-; the acute in Lith. is the result of the secondary BSl. vṛddhi (Matasović 2008a: 130ff.).
+REF: [EDPC]
+
+### <a id="owgro">\*owgro- "cold" (adj)</a>
+GOID: OIr. _úar_ [o] "cold, cool, ineffective"
+W: MW _oer_
+CO: OCo. _oir_ gl. _frigidam_
+GAUL: _Ogron_- "a winter month in the Calender of Coligny" (fifth month of the year)​
+PIE: \*h₃ewg- "cold" (IEW: 783)
+COGN: Arm. _oyc_ "cold", Latv. _aũksts_ "cold"
+SEE: [\*owxtu- "cold"](#owxtu)
+ETYM: The Gaulish form attests to the (late ) change of \*ow > _o_. BSl. acute implied by Latv. _aũksts_ may be the result of Winter's law.
+REF: [EDPC]
+
+### <a id="owi">\*owi- "sheep" (n)</a>
+GOID: MIr. _oí_ [m]
+PIE: \*h₃ewi- "sheep" (IEW: 784)
+COGN: Luv. _hawi_-, Skt. _ávi_-, Gr. _óis_, Lat. _ouis_, OE _ewe_, Lith. _avìs_, OCS _ovьca_, ToB _awi_ [nom.pl.], Arm. _hoviw_ "shepherd"
+SEE: [\*owīkā "hind, doe"](#owika)
+ETYM: MIr. _oí_ is a rare, poetic word, known chiefly from glossaries and Laws, but cf. OIr. _oegaire_ "shepherd" < \*owi-garyo- lit. "sheep-caller" (see [\*gar-yo- "call, cry"](#garyo). The PIE reconstruction of the word for "sheep" is disputed (some linguists reconstruct \*h₂owi-, which is also possible (see the discussion in Wodtko _et alii_ 2008: 335ff.).
+REF: [EDPC]
+
+### <a id="owigno">\*owigno- "lamb" (n)</a>
+GOID: MIr. _úan_ [o m]
+W: MW _oen_ [m and f]; _ŵyn_ [p]
+BRET: MBret. _oen_, MoBret. _oan_ [m]
+CO: OCo. _oin_ gl. _agnus_, Co. _oan_, _on_
+PIE: \*h₂egʷno- "lamb" (IEW: 9)
+COGN: Lat. _agnus_, Gr. _amnós_, OE _ēanian_, OCS _agnę_
+ETYM: It is impossible to derive the attested forms directly from PIE \*h₂egʷno-, since this would be reflected as PCelt. \*\*abno-, and the cluster \*bn would be preserved as OIr. _mn_, W _bn_ (cf. [\*obnu- "fear"](#obnu) > OIr. _omun_, W _ofa_, [\*dubno- "world"](#dubno) > W _dufn_). The word initial \*o- in Brittonic must be analogical in any case, presumably under the influence of [\*owi- "sheep"](#owi). OIr. _úan_ would derivable from \*owino- quite regularly (cf. [\*fowino- "foam"](#fowino) > MIr. _úan_), but this would presumably have yielded W \*\*ofyn. However, OIr. _úan_ may also reflect \*owigno-, which was either dissimilated from \*owi-gʷno-, or it represents a compound with the suffix \*-gno-. This form could then have been changed analogically to \*ogno- (under the influence of \*abno- < \*h₂egʷno-?), from which we can derive the Brittonic forms quite regularly. Although some linguists reconstruct the PIE word for "sheep" as \*h₂egʷʰno- (from which it would be much easier to derive both OIr. _úan_ and the Brittonic forms via PCelt. \*agʷno- >> \*ogʷno-), this is incompatible not only with Gr. _amnós_, but also with OCS _a_- in _agnę_, which must be due to Winter's law.
+REF: [EDPC]
+
+### <a id="owika">\*owīkā "hind, doe" (n)</a>
+W: OW _eguic_, W _ewig_ [f]
+CO: OCo. _euhig_ gl. _cerva_
+PIE: \*h₃ewi-keh₂ "little sheep" (IEW: 784)
+COGN: Skt. _avikā́_-
+SEE: [\*owi- "sheep"](#owi)
+ETYM: The development of meaning from "sheep" to "hind, doe" in Brit. may appear unusual at first glance, but cf. OIr. _oss_ "stag" < PCelt. [\*uxso-, \*uxson-](#uxso) < PIE \*ukson "ox".
+REF: [EDPC]
+
+### <a id="owma">\*owmā "cave" (n)</a>
+GOID: OIr. _úam_ [ā f] "cave, den, boar's lair"; _úaim_ [i f], _úama_ [d f]
+PIE: \*h₁ew-n- "empty" (IEW: 345)
+COGN: Gr. _eũnis_ "deprived", Arm. _unayn_, perhaps OE _wan_
+ETYM: The connection with OCS _jama_ "large hole, cave" (LEIA) appears improbable, because we would expect PIE \*(y)eh₂₃m- > OIr. \*\*ám. Therefore, the etymology proposed by Hamp 1985 is to be preferred. The Irish word can be derived from \*h₁ewn-meh₂ regularly. I doubt whether Lat. _uānus_, Skt. _ūná_- "lacking" belong here, because they point rather to a root ending in a laryngeal (PIE \*weh₂no-, \*uh₂no-).
+REF: [EDPC]
+
+### <a id="owxsanata">\*owxs-anatā "sigh" (n)</a>
+GOID: OIr. _osnad_ [ā f]
+W: MW _uchenaid_ [f]; _ucheneid(i)au_, _uchenediau_, _ucheneidion_ [p]
+BRET: MBret. _huanat_, MoBret. _huanad_ [m] "sigh"
+SEE: [\*owxso- "above"](#owxso), [\*ana- "breathe"](ana)
+ETYM: OBret. _huan_ "breath", MoBret. _huan_ [m] appear to preserve the underived \*owxsano-, which is an old compound of \*owxso- "high" and \*an-o- "breathe". OIr. _osnad_ points to a variant \*uxs-anatā, cf. also MIr. _osnam_ "sigh, groan" < \*uxs-anamā.
+REF: [EDPC]
+
+### <a id="owxsv">\*owxsV- "high" (adj)</a>
+GOID: MIr. _úais_ "high, noble"
+W: MW _uchaf_ "highest"
+CO: Co. _a-ūgh_
+GAUL: _Uxisama_, _Uxama_ [toponyms]
+CELTIB: _usama_ [PN and toponym] (Botorrita III)
+SEE: [\*owxselo- "high, elevated"](#owxselo), [\*owxso- "above"](#owxso)
+ETYM: MW _uchaf_, Gaul. _Uxama_ and Celtib. _usama_ are feminine forms of superlatives derived with the suffix \*-(s)amo- < \*-(s)mmo- from this adjective. Gaulish and Celtiberian may preserve the zero-grade of the root (\*uxs- rather than \*owxs-).
+REF: [EDPC]
+
+### <a id="owxselo">\*owxselo- "high, elevated" (adj)</a>
+GOID: OIr. _úasal_ [o]
+W: MW _uchel_
+BRET: OBret. _uchel_, _uhel_, MBret. _huel_, _uhel_, MoBret. _uhel_
+CO: Co. _huhel_
+GAUL: _Uxello-dunum_, _Uxama_ [toponyms]
+PIE: \*h₃ewp-s- "high" (IEW: 1107)
+COGN: Av. _upara_- "higher", Gr. _hypsos_ "height, summit", _hypselos_ "high, lofty", Lat. _sup-er_ "above"
+SEE: [\*owxsV- "high"](#owxsv)
+ETYM: This adjective is derived from \*owxsV- "high". Celtic seems to preserve the full grade of the PIE root, while other languages preserve the zero-grade (\*h₃up-). Lat. _s_- in _super_ is secondary (de Vaan 2008: 595).
+REF: [EDPC]
+
+### <a id="owxsos">\*owxsos "above" (prep)</a>
+GOID: OIr. _ós_ [+dat.] "above"
+W: MW _uch_
+BRET: OBret. _uh_, MBret. and MoBret. _uc'h_
+CO: Co. _(a) ugh_
+GAUL: _(a) uz_
+PIE: \*h₃ewpso- "above"
+COGN: Gr. _hýpsi_
+SEE: [\*owxselo- "high, elevated"](#owxselo)
+ETYM: The zero-grade of this PIE root may be preserved in the OIr. preverb _uss_-, _oss_- "up, off" < \*uxso- (GOI 525). The reflexes of this preverb/preposition may have been mixed up with the reflexes of \*usso- < \*ud-so- (PIE \*ud "up, off", cf. Skt. _úd_, Russ. _vy_-, OE _ūt_, etc.), but there is otherwise no evidence for PIE \*ud in Celtic.
+REF: [EDPC]
+
+### <a id="owxtu">\*owxtu- "cold" (n)</a>
+GOID: OIr. _ócht_, _úacht_ [u m]
+PIE: \*h₃ewg- "be cold" (IEW: 783)
+COGN: Lith. _áušti_ "become cold", Arm. _oyc_ "cold"
+SEE: [\*owgro- "cold"](#owgro)
+REF: [EDPC]
+
+### <a id="oxtu">\*oxtū "eight" (num)</a>
+GOID: OIr. _ocht_ [nasalising]
+W: OW _oith_, MW _wyth_
+BRET: OBret. _eith_, MBret. _eiz_, MoBret. _eizh_
+CO: Co. _eath_
+GAUL: _oxtumetos_ "eighth"
+PIE: \*h₃eḱtoh₁ "eight" (IEW: 775)
+COGN: Skt. _aṣṭáu_, Lat. _octō_, Gr. _oktṓ_, Go. _ahtau_, Lith. _aštuoni_, Alb. _tetë_, ToB _okt_
+ETYM: Gaul. _oxtumetos_ and OIr. _ochtmad_ point to PCelt. ordinal \*oxtumeto- "eighth" (cf. Skt. _aṣṭamá_-).
+REF: [EDPC]
+
+### <a id="oyget">\*oyget- "guest" (n)</a>
+GOID: OIr. _oegi_ [t m] "guest"
+PIE: \*h₃eygʰ- "go, tread" (IEW 296)
+COGN: Gr. _íkhnos_ "footprint, sole", Lith. _eigà_ "path"
+ETYM: The meaning "guest" in Celtic could have developed from "wanderer, traveller". The word formation with the suffix \*-et- is commonly used in Celtic to derive agent nouns, cf. PCelt. [\*kenget- "warrior"](#kenget) (from [\*keng-o- "tread, step"](#kengo)).
+REF: [EDPC]
+
+### <a id="oynano">\*oynāno- "alone, personally" </a>
+SEE: [\*oyno- "one"](#oyno)
+REF: [EDPC]
+
+### <a id="oyno">\*oyno- "one" (num)</a>
+GOID: OIr. _óen_
+W: OW _un_, MW _un_
+BRET: OBret. _un_, MBret. and MoBret. _un_
+CO: Co. _un_
+PIE: \*h₃ey-no- "one" (IEW: 28lff.)
+COGN: OLat. _oinos_, Lat. _ūnus_, Gr. _oinḗ_ "one (at dice)", Go. _ains_, OCS _ed-inъ_,, Lith. _víenas_
+ETYM: Other IE languages form the numeral "one" from the same root (\*h₃ey-), but with different suffixes, e.g. \*-ko- in Skt. _éka_-, \*-wo- in Av. _aiuua_-, etc. In Celtic, there is a derivative [\*oynāno- "alone, personally"](#oynano) that can be inferred from OIr. _oénán_ and MBret. _unan_, _onan_, and W _hunan_ (with secondary _h_-). Cf. also OIr. _oentu_ [d m and f] < \*oyno-tūt- (Lat. _ūnitas_). The acute in Lith. _víenas_ is unclear, but it hardly justifies positing PIE \*h₃eyHno­ rather than \*h₃eyno-.
+REF: [EDPC]
+
+### <a id="oyto">\*oyto- "oath" (n)</a>
+GOID: OIr. _oeth_ [o m]
+W: OW _an-utonau_ gl. _periuria_ [p]
+PIE: \*h₁oy-to- "a going" (IEW: 295)
+COGN: OHG _eid_ "oath", ToB _aittanka_ "directed toward".
+ETYM: Presumably, this is a derivative of the root \*h₁ey- "to go"; the original meaning of "oath" in Celtic and Germanic would be "a going, path". This could be motivated by the custom of walking between pieces of sacrificed animals to give force to the oath, cf. also Gr. _oĩtos_ "course, fate".
+REF: [EDPC]
