@@ -10203,3 +10203,876 @@ COGN: Av. _xvara_- "wound", OHG _sweran_ "feel pain"
 SEE: [\*swerwo- "bitter"](#swerwo)
 ETYM: For the development in W (\*swo- > \*xwo- > _ho_-) cf. PCelt. [\*skoltā "cleft"](#skolta). These words can represent the PIE thematic agent noun \*sworós "wounder" > "biter" (> "louse").
 REF: [EDPC]
+
+## T
+
+### <a id="tago">\*tag-o- "strangle, choke" (v)</a>
+GOID: OIr. _tachtaid_, -_tachta_ "chokes, stifles, oppresses"
+W: MW _tagu_
+BRET: MBret. _tagu_, MoBret. _tago_
+CO: Co. _tage_
+ETYM: OIr. seems to have a verbal stem built from the passive past participle, PCelt. \*taxto-, whereas Brittonic points to primary \*tag-o-. For possible, but unconvincing, IE etymologies, see LEIA T-5, IEW 1055.
+REF: [EDPC]
+
+### <a id="talamon">\*talamon- "earth, ground" (n)</a>
+GOID: OIr. _talam_ [n m]
+GAUL: _Talamone_, _Talmun_ (> _Talmont_) [toponyms]
+PIE: \*telh₂m- "surface, support" (IEW: 1061)
+COGN: Lat. _tellus_ "earth", OPr. _talus_ "ground, floor", OCS _tьlo_ "ground", OHG _þel_ "floor", Arm. _t'al_ "district"
+SEE: [\*tli-na- "raise"](tlina)
+ETYM: The PCelt. stem \*talamon- < \*telamon- < PIE \*telh₂mon- is the result of Joseph's rule. The PIE root is probably \*telh₂ "raise, support" (IEW 1060f.).
+REF: [EDPC]
+
+### <a id="tali">\*tal-ī- "pay" ()</a>
+W: MW _talu_; _talaf_ [ls Pres]
+BRET: OBret. _tal[ont]_ gl. _dependunt_, MBret. _taluout_, MoBret. _talvoud_ "be worthy, cost", _tal_, _taliñ_ "pay"
+CO: Co. _tal_
+PIE: \*teh₂li- (IEW: 1087)
+COGN: Lat. _tālis_ "such", OCS _toli_ "to such a degree", _toliko_ "so much"
+ETYM: It has been suggested that these Brittonic verbs were borrowed from ON _tal_ "number, count" (cf. also Germ. _Zahl_ "number" and the denominative _zahlen_ "pay"), but they could also be related to Lat. _tāliō_ "exaction of compensation" from PIE \*teh₂li-. We may have to do with an ltalo-Celtic legal term "to pay, exact a compensation" from the PIE root that meant "so much". PCelt. \*tal- must be from the zero-grade \*th₂l- (like OCS _toli_), but Latin _tālis_ implies the full grade \*teh₂l-. OCS _toli(ko)_ may be from the zero- grade \*th₂1-, but it is also possible that its vocalism is analogical to \*koli(ko) "so much" < \*kʷo-l-.
+REF: [EDPC]
+
+### <a id="talskv">\*talskV- "fragment, piece" (n)</a>
+W: W _talch_ [p] "oatmeal, groats, fragments"
+CO: OCo. _talch_ gl. _furfures_
+PIE: \*telk- "strike, hit" (IEW: 1062)
+COGN: ocs _tlěšti_
+SEE: [\*telmi- "sling, snare"](#telmi)
+ETYM: W _talch_ can be related to the PIE zero-grade \*tlk- by assuming that it is from \*talxsko- < \*tlk-sḱ-o- (like W _arch_- from < \*parxsko- < \*prḱ-sḱ-o-).
+REF: [EDPC]
+
+### <a id="talu">\*talu- "front, forehead" (n)</a>
+GOID: OIr. _taul_ [u n] "boss, protuberance" (DIL _tul_)​
+W: OW _tal_, MW _tal_ [m] "forehead" (GPC _tâl_)​
+BRET: OBret. _talar_, MBret. and MoBret. _tal_ [m]
+CO: OCo. _tal_ gl. _frons_, Co. _tal_, _taal_
+GAUL: _Argio-talus_ [PN]
+SEE: [\*talamon- "earth, ground"](#talamon)
+ETYM: The connection with PCelt. \*talamon- suggested by IEW (1061) is uncertain for semantic reasons. A connection may exist with Skt. _tā́lu­_ "palate", in which case we should reconstruct PIE \*teHlu- / \*tHl-ew-, with Celtic generalizing the zero-grade of the root. If this is correct, the semantic development in Skt. would be from "forehead" to "top" and "palate, top of the (interior part of the) mouth".
+REF: [EDPC]
+
+### <a id="tana">\*tanā "time" (n)</a>
+GOID: OIr. _tan_ [? f]
+W: MW _tan_ "until, while, below" (GPC _tan_, _dan_)​
+BRET: OBret. _tan_, _dan_
+SEE: [\*tan-nu- "broaden, stretch"](#tannu)
+ETYM: OIr. _tan_, _tain_ is often used as a subordinating conjunction in temporal, final, and conditional subordinated clauses, e.g. _tan tíastae_ "when they come". Formally, the derivation from \*ten-eh₂ would be possible (by Joseph's rule), and the relationship to the root \*ten- "stretch" appears probable. The evolution of meaning could have been from "a stretch of time" to "time", cf. Ved. _ténā_ [Instr. sg.] "extension, a stretch of time".
+REF: [EDPC]
+
+### <a id="tanawyo">\*tanawyo- "thin" (adj)</a>
+GOID: OIr. _tanae_, _tana_ [io]
+W: OW _teneu_, MW _teneu_ (GPC _tenau_)​
+BRET: MBret. _tanau_, MoBret. _tanaw_
+CO: OCo. _teneþen_ gl. _latus_, Co. _tanow_
+PIE: \*tenh₂u-, \*tnh₂u- "thin"
+COGN: Gr. _tanaós_, Lat. _tenuis_, OHG _dunni_
+ETYM: Gamillscheg (837) derives Fr. _tanner_ "to tan" from Gaul. \*tan­- "thin" (the original meaning of the verb would be "scrape off, make thinner"), but I do not find this very convincing. PCelt. \*tanawyo- must be a derivation of \*tanawo-, which is from PIE \*tenh₂wo-, a thematization of the original u­-stem \*tenh₂u- (cf. Gr. _tanaós_). The development \*tena- > \*tana- would be regular (Joseph's rule), but the a-vocalism could also have been generalized from the zero-grade of the root (PIE \*tnh₂u- > \*tanHu- > PCelt. \*tanu-).
+REF: [EDPC]
+
+### <a id="tandman">\*tand-man- "cutting, gnawing" (n)</a>
+GOID: OIr. _teinm_ [?n n]
+W: MW _tam_ [m] "morsel, piece"
+BRET: MBret. _tamm_ [m] "piece"
+CO: Co. _tam_
+SEE: [\*tend-o- "break, cut"](#tendo)
+ETYM: There are phonological difficulties in equating MIr. _teinm_ with W _tam_, etc., see Stuber 1998: 167. MIr. _taman_, _tamon_ [o m] "trunk (of a tree)" might also be related (LEIA T-25), but this word has also been derived from PIE \*sth₂mon-o- (cf. OHG _stam_ "stem", ToB _stām_ "tree").
+REF: [EDPC]
+
+### <a id="tangwat">\*tangʷāt- "tongue" (n)</a>
+GOID: OIr. _tengae_ [m > f d]
+W: OW _tauawt_, W _tafod_ [m and f]
+BRET: MBret. _teaut_, _teut_, MoBret. _teod_ [m]
+CO: OCo. _tauot_ gl. _lingua_, MCo. _tawes_
+PIE: \*dnǵʰuh₂- "tongue" (IEW: 223)
+COGN: Skt. _jihvā́_-, Lat. _lingua_, OHG _zunga_, OPr. _insuwis_, ToB _kantwo_
+ETYM: In Celtic, the initial \*t (instead of the expected \*d-) is best explained as the result of assimilation (\*d...t > t...t). The Celtic forms with stem-final \*-t presuppose an earlier ā-stem, \*tangʷā (see Widmer 1997). In other IE languages, the word for "tongue" has often been subject to various irregular and analogical changes, e.g. Lat. _lingua_ with _l_- under the influence of _lingo_ "lick" (similarly Lith. _liežuvìs_).
+REF: [EDPC]
+
+### <a id="tanko">\*tanko- "peace" (n)</a>
+W: OW _tagc_, MW _tang_, _tanc_ [m]
+GAUL: _Tanco-rix_ [PN]
+PIE: \*tenk- "be solid, firm" (IEW: 1068)
+COGN: Skt. _tañc_-, Germ. _dicht_ "thick", Lith. _tánkus_ "thick"
+ETYM: OIr. _téchtaid_, -_téchta_ "freeze, solidify" is a denominative verb from this root, built from the stem of OIr. _técht_ "frozen" < PCelt. \*tanxto-, cf. also MIr. _con-teici_ "freezes" < \*kom-tank-ī-. PCelt. \*tanko- presupposes the zero grade of the root, PIE \*tnko-. The evolution of meaning was presumably from "what is firm, established" to "peace" (cf. Lat. _pāx_ from _pango_ "fix"). Fr. _tanche_ < OFr. _tenche_ < Gallo-Lat. _tinca_ "tench" could also be from the same root (? PCelt. [\*tenkā, \*tenko- "firm, solid"](#tenka)), cf. also Gaul. toponym _Duro-tincum_.
+REF: [EDPC]
+
+### <a id="tanno">\*tanno- "green oak" (n)</a>
+CO: OCo. _glastannen_ gl. _quercus uel ilex_
+GAUL: _Tannetum_, _Tanno-gilum_ [toponyms]
+ETYM: OIr. _tinne_ "holly, elder (?)" is probably also related (PCelt. \*tennyo-), cf. LEIA T-71, but the PIE etymology of these tree names is unclear. Borrowing from some non-IE language seems probable, but a connection may exist to OHG _tanna_ "fir wood", OS _danna_ "pine", cf. Hitt. _tanau_ "a kind of tree" (the meaning "fir" of Hitt. _<sup>GIŠ</sup>tanau_ is actually not certain, _pace_ EIEC). We could start from \*(s)dʰonu- \*(s)dʰnwos-, and then have to assume that \*s- was lost in Celtic (presumably after \*sdʰ- > \*st-), cf. [\*tā-yo- "be, find oneself"](#tayo) < \*stā-yo-).
+REF: [EDPC]
+
+### <a id="tannu">\*tan-nu- "broaden, spread, stretch" (v)</a>
+W: MW _tannu_ "spread out, extend"
+CO: Co. _tan_ [impv.] "take"
+PIE: \*ten- "broaden, stretch" (IEW: 1065f.)
+COGN: Skt. _tanóti_, Gr. _tánymai_, Lat. _tendo_, Go. _uf-þanjan_, OHG _dennen_
+ETYM: Celtic preserves the zero-grade of the root (with regular \*n > \*an before nasal); the present stem built with the suffix \*-new- / \*-nu- is inherited from PIE, cf. Skt. _tanóti_ and Gr. _tánymai_.
+REF: [EDPC]
+
+### <a id="tanta">\*tantā "cord, cable" (n)</a>
+GOID: OIr. _tét_ [ā f] "rope, cord, stringed instrument"
+W: OW _tantou_ [p] gl. _fides_, W _tant_ [m]
+BRET: OBret. _tanntou_, MoBret. _tant_ [m]
+PIE: \*ten- "stretch" (IEW: 1065)
+COGN: Skt. _tan_-, _tanóti_ [3s.prs.], Gr. _tánymai_, Lat. _tendo_
+SEE: [\*tan-nu- "broaden, stretch"](#tannu)
+ETYM: This is an old participle of the verb \*ten- "to stretch", cf. Lat. _tentus_ (from _tendo_).
+REF: [EDPC]
+
+### <a id="tarako">\*tārāko- "tick, insect" (n)</a>
+SEE: [\*tara-wo- "hit, strike"](#tarawo)
+REF: [EDPC]
+
+### <a id="tarankyo">\*tarankyo- "nail" (n)</a>
+SEE: [\*tara-wo- "hit, strike"](#tarawo)
+REF: [EDPC]
+
+### <a id="taras">\*taras "across" (prep)</a>
+GOID: OIr. _tar_, _dar_ [+acc.]
+PIE: \*terh₂ "cross" (IEW: 1075)
+COGN: Skt. _tirás_ "across", Lat. _trāns_ "across"
+ETYM: W (and OW) _tra_, Bret. _treuz_ can be derived from a related form, \*trāns (cf. Lat. _trāns_). OIr. _tar_ presupposes PIE \*trh₂-es. The PIE root is \*terh₂- "to overcome", Hitt. _tarhu_- "prevail", Skt. _tára_-, etc. (IEW 1075f.).
+REF: [EDPC]
+
+### <a id="taratro">\*taratro- "auger" (n)</a>
+GOID: OIr. _tarathar_ [o m]
+W: OW _tarater_, W _taradr_ [m]
+BRET: MBret. _tarazr_, _talazr_, MoBret. _tarar_ [m]
+CO: Co. _tardar_
+GAUL: \*taratro- > Lat. _taratrum_ (Isidore of Seville, hence Fr. _tariere_, Pr. _taravel_, _travel_)​
+PIE: \*terh₁tro- "auger" (IEW: 1072)
+COGN: Gr. _téretron_, Lat. _terebra_
+SEE: [\*tara-wo- "hit, strike"](#tarawo)
+ETYM: The change \*-era- > \*-ara- in this word is regular (Joseph's rule). The PIE root is \*terh₁- "to drill, tear" (IEW 1071, cf. Lat. _tero_, Gr. _teírō_, etc.). Lat. _terebra_ is from \*terh₁-sro-.
+REF: [EDPC]
+
+### <a id="tarawo">\*tara-wo- "hit, strike" (v)</a>
+W: MW _taraw_, _taro_, (GPC _trawaf_ [1s.prs.])
+BRET: OBret. _toreusit_ gl. _atriuit_, MBret. _tarauat_ "rub, use", MoBret. _tarawad_
+PIE: \*terh₁- "drill, rub" (IEW: 1072)
+COGN: Lat. _tero_, Gr. _toreúō_
+SEE: [\*taratro- "auger"](#taratro)
+ETYM: The a-vocalism is explicable by Joseph's rule, see Joseph 1982. Another derivative from this root could be OIr. _tairnge_ [io m] "iron nail", if from < \*tarankyo-, cf. also OFr. _taranche_ "big iron pin" (probably from Gaulish). W _torogen_ "tick, blood-sucking insect", OBret. _torocenn_ gl. _curculio_, MoBret. _teureuguenn_ "tick" may also be from the same root (\*tārāko- < PIE \*tōrh₁-), cf. also Lat. _termes_ "termite", Gr. _terēdṓn_ (IEW 1076).
+REF: [EDPC]
+
+### <a id="targwo">\*targʷ-o- "disturb, scare" (v)</a>
+W: MW _tarfu_ "disturb, trouble, scare"
+PIE: \*tergʷ- "scare, fear" (IEW: 1076f.)
+COGN: Gr. _tarbéō_ "scare", Skt. _tarjati_ "threatens", Lat. _toruus_ "grim", Hitt. _tarkuwant_- "looking angrily"
+ETYM: The development is not straightforward as it may appear at first sight, because we would expect PCelt. \*trib- from PIE \*trgʷ-. One could assume an assimilation \*trgʷ-wo- > \*trwwo- > PCelt. \*tarwo- > W _tarfu_, but this is clearly ad hoc.
+REF: [EDPC]
+
+### <a id="tarrtu">\*tar(r)tu- "dryness, thirst" (n)</a>
+GOID: OIr. _tart_ [u m] "thirst"
+W: MW _tarth_ [m] "vapour, steam, fume"
+GAUL: _Tartos_ (?) [PN]
+PIE: \*ters- "dry" (IEW: 1078)
+COGN: Lat. _torrus_ "piece of firewood", Av. _taršna_- "thirst", OHG _durri_
+ETYM: The semantic connection of W _tarth_ and OIr. _tart_ is not beyond doubt, but the formal correspondence is perfect. The derivation from a PIE abstract noun \*trs-tu- "dryness" would be regular.
+REF: [EDPC]
+
+### <a id="tarwo">\*tarwo- "bull" (n)</a>
+GOID: OIr. _tarb_ [o m]
+W: MW _tarw_ [m]
+BRET: OBret. _taruu_, MBret. _taru_, MoBret. _tarw_ [m]
+CO: Co. _tarow_
+GAUL: _taruos_, perhaps _Tarvisium_ [toponym]
+PIE: \*tawro- "bull" (IEW: 1083)
+COGN: Lat. _taurus_, Lith. _taũras_, OCS _turъ_,
+ETYM: In Celtic, the metathesis \*-wr- > \*-rw- must be assumed; it may be a regular change. The PIE noun may have been borrowed from Semitic, or some intermediate source (cf. EIEC 98).
+REF: [EDPC]
+
+### <a id="taryo">\*tar-yo- "boil, burst" (v)</a>
+W: MW _tarddu_ "emerge, issue, sprout, appear"
+BRET: OBret. _tardom_ gl. _clangor_
+CO: Co. _tardha_ (IEW: 1074)
+COGN: Lat. _trāns_ (?)
+ETYM: This PCelt. verb is derived from PIE \*terh₂- "cross, overcome" (IEW 1074, cf. Hitt. _taruhzi_, Skt. _tū́rvati_) by KPV and LIV, but the meanings are very different. A development from "cross" to "change state" and to "boil" is possible, but speculative. Cf. also OIr. _tair_ "come" [ipv.] < \*trh₂ye "cross"?
+REF: [EDPC]
+
+### <a id="tasko">\*tasko- "badger" (n)</a>
+GOID: MIr. _tadg_ "1. poet, 2. hard", _Tadg_ [PN]
+GAUL: _Tascos_ [PN], _Tasco-uanus_ [PN] "badger-slayer"
+PIE: \*tosko- "badger"
+COGN: OHG _dahs_, perhaps Hitt. _tasku_- "testicle?"
+ETYM: OIr. tadg < \*tazgo-. It is unknown why Goidelic replaced the cluster \*sk with \*zg (dissimilation in voicing with the initial \*t?). Although this etymology appears weak on the semantic side on the first sight, it is actually quite sound, since MIr. _Tadg_ is the name of a certain king whose totem was a badger. There are also reflexes of the Gaulish word for "badger" in VLat. _taxo_ and in various Romance dialects, e.g. Fr. (dial.) _taisson_, It. _tasso_, Sp. _tejón_, etc. (some believe these words were borrowed from Germanic, but initial _t_- points to Gaulish).
+REF: [EDPC]
+
+### <a id="tatant">\*tātant- "thief" (n)</a>
+GOID: OIr. _táid_ [nt m] gl. _fur_
+PIE: \*teh₂- "steal" (IEW: 1010)
+COGN: Skt. _tāyú_- "thief", OCS _tatь_ "thief", _tajiti_ "hide", Hitt. _tāyezzi_ "steals"
+ETYM: The word formation of OIr. _táid_ is unclear. Despite LIV (559), it is not superimposable on OCS _tatь_, which is a masculine i-stem (presumably an old abstract "the stealing"). If _táid_ is an old nt-participle, we would have to assume a present with the suffix \*-t-, PIE \*teh₂-t- (the type of Lat. _plecto_, _dicto_, etc.). For a similar nominalized participle cf. [\*karant- "friend"](#karant).
+REF: [EDPC]
+
+### <a id="tato">\*tato- "father" (n)</a>
+W: MW _tat_ (GPC _tad_) [m]
+BRET: MBret. _tat_, MoBret. _tad_ [m]
+CO: OCo. _tat_ gl. _pater_, Co. _tas_
+SEE: [\*attyo- "father"](#attyo)
+ETYM: A noun from children's language, similar to Croat. _tata_ "daddy", Eng. _daddy_, etc., cf. PCelt. \*attyo- > OIr. _aite_ "father".
+REF: [EDPC]
+
+### <a id="tawso">\*tawso- "deaf" (adj)</a>
+GOID: OIr. _tó_ [o], _túae_ [yo]
+W: MW _taw_ [m] "silence"
+BRET: MBret. _tao_, MoBret. _taw_ [m] "silence"
+CO: Co. _taw_
+SEE: [\*taws-yo- "be quiet, be still"](#tawsyo)
+ETYM: Derived from the verbal root \*taws- < PIE \*teh₂ws- (IEW 1056f., for cognates see \*taws-yo-).
+REF: [EDPC]
+
+### <a id="tawsyo">\*taws-yo- "be quiet, be still" (v)</a>
+W: MW _tewi_; _tawaf_ [1s.prs.]
+BRET: MBret. _teuell_, MoBret. _tewel_
+CO: Co. _tewel_
+PIE: \*teh₂ws- "be quiet, be still" (IEW: 1056f.)
+COGN: Hitt. _tuhu(s)siyezzi_ "awaits", Luv. _tuhusiya_- "to keep silent, quiet (?)", Skt. _tūṣṇī́m_ "quietly", OPr. _tusnan_ "quiet"
+SEE: [\*tawso- "deaf"](#tawso)
+ETYM: The Hittite verb is derived from \*tuHs- < \*th₂us- by regular metathesis (but Kloekhorst 2008: 894 is sceptical). A different reconstruction of the PIE root is offered by LIV and KPV 621ff.
+REF: [EDPC]
+
+### <a id="tayo-1">\*tā-yo- "stand, find oneself (somewhere)" (v)</a>
+GOID: OIr. _at-tá_, -_fil_ "be, find oneself" (substantive verb)​
+W: MW -_tau_ [3s.prs.] "is"
+BRET: OBret. _to_ [3s.prs.]
+CO: Co. _otte_ "there is"
+PIE: \*steh₂- "stand" (IEW: 1004f.)
+COGN: Lat. _sto_, _stare_, Gr. _hístēmi_, OCS _stojati_, Lith. _stóti_
+SEE: [\*si-sta- "put"](#sista)
+ETYM: OIr. _at-tá_ is from \*ad-stā-yo-. The loss of initial \*s- is irregular, but it could be due to the generalization of a sandhi variant occurring regularly after \*-r, since \*rst > \*rt is a sound law in Celtic (cf. _tart_ "thirsty" < \*tarrtu­ < \*tarstu-).
+REF: [EDPC]
+
+### <a id="tayo-2">\*tā-yo- "melt" (v)</a>
+GOID: OIr. _taíd_ (disyllabic), -_tá_, -_taa_
+W: MW _toddi_
+BRET: MBret. _teuzi_, MoBret. _teuzo_
+PIE: \*teh₂- "melt" (IEW: 1053)
+COGN: Lat. _tābeo_, Oss. _taj_- "thaw, melt", Russ. _tájat'_, Eng. _thaw_
+ETYM: The present with the suffix \*-y- is attested in OIr. _taíd_ "melt, dissolve" < \*tā-yo-, while the Brittonic forms apparently reflect \*tā-d-o- < PIE \*teh₂dʰ-. OIr. _tám_ [u ?] "plague, swoon, death" may represent a nominal derivative from the same root (\*tāmu-). Lat. _tābeo_ must be from \*teh₂-bʰ-, which is an unusual formant in a present stem.
+REF: [EDPC]
+
+### <a id="taysto">\*taysto- "dough" (n)</a>
+GOID: OIr. _taís_, _taés_ [o] (DIL _taes_)​
+W: MW _toes_ [m] "lump of dough or pastry, farina subacta, massa farinaria"
+BRET: MBret. _toas_ [m], MoBret. (Gwened) _toés_
+CO: Co. _tôs_
+PIE: \*teh₂ys-t- "dough" (IEW: 1054)
+COGN: OCS _těsto_ "dough", OHG _theismo_, _deismo_ "dough"
+ETYM: PCelt. \*taysto- can be from PIE \*th₂eys-to-, but \*teh₂isto- is inherently more probable.
+REF: [EDPC]
+
+### <a id="taxslo">\*tāxslo- "axe" (n)</a>
+GOID: OIr. _tál_ [o m], ? Ogam _TALA-GNI_
+PIE: \*teḱs-slo- "axe" (IEW: 1058)
+COGN: OCS _tesla_, OHG _dehsa_, _dehsala_
+ETYM: OIr. _tál_ may point to a lengthened grade, PIE \*tōḱ-, which is expected only in a root-noun (for which there is no evidence in other IE languages). Widmer's (2001) reconstruction of PIE \*tōḱt-lo- (with length from a putative Narten-present \*tēḱt-ti) is also without clear parallels. It is possible, however, that vowels were regularly lengthened before the cluster \*xsl (and \*xsr?) in PCelt. (cf. PCelt. \*skāxslo- "demon" < \*skok-slo-, perhaps also \*kīsrā "comb" < \*ke-ks-reh₂) . The simplification of the geminate after a long vowel (\*taxslo- > \*taxllo- > \*tālo- > OIr. _tál_, not \*táll) is parallel to the development of [\*mīros- "piece of meat, food"](#miros) and [\*tīros­ "land"](#tiros).
+REF: [EDPC]
+
+### <a id="tefent">\*tefent- "hot, warm" (adj)</a>
+GOID: OIr. _te_, _tee_ [nt]
+PIE: \*tep- "be warm" (IEW: 1070)
+COGN: Skt. _tápati_ "burns", Lat. _tepeo_ "be warm", OCS _toplъ_ "warm"
+ETYM: Cf. OIr. _téit_ gl. _luxoriatae_ ("wanton women")< \*tefentes.
+REF: [EDPC]
+
+### <a id="tefesmi">\*tefesmi- "warm" (adj)</a>
+SEE: [\*tefnet- "hot"](#tefnet)
+REF: [EDPC]
+
+### <a id="tefnet">\*tefnet- "fire" (n)</a>
+GOID: OIr. _tene_ [d m]
+W: MW _tan_ [m] (GPC _tân_)​
+BRET: MBret. _tan_ [m]
+CO: Co. _tan_
+PIE: \*tep- "be warm" (IEW: 1070)
+SEE: [\*tefent- "hot, warm"](#tefent)
+ETYM: The Celtic form \*tefnet- presupposes an earlier s-stem (\*tepnes), see Widmer 1997. The nasal might be due to the influence of \*tefent­ "warm". Cf. also W _twym_ "warm" < \*tēmo- < \*tefesmi- as if from PIE \*tepes-mi- (Skt. _tápas_- "heat"), cf. also OIr. _timme_ "heat" < \*tefsmiyā < \*teps-mih₂.
+REF: [EDPC]
+
+### <a id="tefstu">\*tefstu- (\*texstu-) "heat" (n)</a>
+GOID: OIr. _tess_ [u m]
+W: MW _tes_ [m]
+BRET: OBret. _a tes_ gl. _fotu_, MoBret. _tes_ [coll.]
+CO: OCo. _tes_ gl. _feruor_
+GAUL: _Tessi-gnius_ (?) [PN]
+LEP: _Ašeš_- (?) [PN]
+PIE: \*tep- "be warm" (IEW: 1070)
+COGN: Skt. _tápas_- "heat", Lat. _tepeo_ "be warm", OCS _teplъ_, _toplъ_ "warm"
+SEE: [\*tefent- "hot, warm"](#tefent)
+ETYM: If related, Lep. _Ašeš_- is from \*ad-tess- < \*ad-tef-s-. Celt. \*tefstu­ presupposes PIE \*tepstu-. For the suffix \*-stu- cf. [\*flenstu-](#flenstu), [\*tlustu-](#tlustu).
+REF: [EDPC]
+
+### <a id="teg">\*tēg- "go" (v)</a>
+GOID: OIr. _téit_, -_tét_, -_tíagait_ [3p]; _téis_, -_té_ [subj.]
+W: MW _ardwyaw_ "defend, protect" (GPC _ardwyo_)​
+PIE: \*steygʰ- "tread, go" (IEW: 1017f.)
+COGN: Gr. _steíkhō_, Go. _steigan_
+ETYM: MW _ardwyaw_ < \*fare-teg-o-, cf. also MW _ymardwyaw_ "defend oneself" < \*ambi-fare-tēg-o-. The simplex \*tēg- probably had an athematic present (Kortlandt 2007: 127f.). The Celtic forms consistently point to word initial \*t-, so the simplification (probably originally in sandhi) of \*st- > \*t- is already Proto-Celtic (cf. also PCelt. [\*tā-yo- "stand"](#tayo-2) < \*stā-yo-). Gaul. _moritex_ (negotiator Britannicus, CIL XIII 8164a, Cologne) is a compound of [\*mori "sea"](#mori) and PCelt. \*tēg- "go"; cf. W _mordwy_ "movement of the sea, sea­ voyage" < \*mori-tēgV-.
+REF: [EDPC]
+
+### <a id="tegos">\*tegos- "house" (n)</a>
+GOID: OIr. _tech_ [s n]
+W: OW _tig_, W _ty_ [m] (GPC _tŷ_)​
+BRET: OBret. _bou-tig_ "stable", MBret. and MoBret. _ti_ [m]
+CO: OCo. _ti_ gl. _domus_, MCo. _chy_
+GAUL: \*attegia > Lat. _attegia_ "hut" (Juvenal)​
+PIE: \*teg-os "cover, roof" (IEW: 1013)
+COGN: Lat. _tego_ "cover", Gr. _tégos_ "roof", Germ. _Dach_
+ETYM: Celtib. _tekez_ (Luzaga) is often compared, but this form is completely obscure, not only with respect to meaning, but also grammatically: is it a verb in the 3sg. preterite, or the abl.sg. of a root noun? OCo. _to_ gl. _tectum_, W and Bret. _to_ "roof" all presuppose PCelt. \*togo-, another ablaut variant of the same root, while Gaul. ethnonym _Tecto-sages_ may contain PCelt. \*texto- (cf. Lat. _tectum_ "roof"). Lat. _attegia_ is a Gaul. loanword and reflects Gaul. \*ad-teg-yā. Cf. also OIr. _tuige_ "cover, protection" (DIL _tugae_) < \*togyā, hence the denominative _tuigithir_ "covers". The comparison of this form with Celtib. _TOGIAS_ (perhaps a gen.sg. of an ā-stem) is formally in order, but the meaning of the Celtiberian word is unclear. The lengthened grade is attested in OIr. _tí_ "cloak" < \*PCelt. \*tīg-s < \*(s)tēg-s, which is also compatible with the Brit. forms (OW _tig_, etc.). Should we reconstruct a PCelt. ablauting paradigm \*tīg-s / \*teg-os, or rather two etymons with different ablaut-grades in the root?
+REF: [EDPC]
+
+### <a id="tegoslowgo">\*tego-slowgo- "household" (n)</a>
+GOID: OIr. _teglach_ [o n]
+W: OW _telu_ "retinue", MW _teilu_ [m] (GPC _teulu_)​
+CO: OCo. _teilu_ gl. _familia_
+SEE: [\*tegos- "house"](#tegos), [\*slowgo- "retinue"](#slowgo)
+ETYM: A Proto-Celtic compound from \*tego- "roofed building, house" and \*slowgo- "retinue".
+REF: [EDPC]
+
+### <a id="tegu">\*tegu- "thick" (adj)</a>
+GOID: MIr. _tiug_ [u] "thick, dense, solid"
+W: OW _teu_, MW _tew_
+BRET: MBret. _teo_, _teu_
+CO: Co. _tew_
+PIE: \*tegu- "thick" (IEW: 1057)
+COGN: OHG _dicchi_, OE _ðicce_ "thick"
+ETYM: Reflexes of this PIE root are attested only in Celtic and Germanic. Both branches point to an original u-stem (Orel 2003: 411).
+REF: [EDPC]
+
+### <a id="tekwo">\*tekʷ-o- "run, flee" (v)</a>
+GOID: OIr. _teichid_, -_teich_; _teiss_, -_té_ [subj.]; _teiss_, -_té_ [fut.]; _táich_ [prt.]
+W: MW _techu_
+BRET: MBret. _techet_, MoBret. _tec'hed_
+CO: Co. _têgh_
+PIE: \*tekʷ- "flow, run" (IEW: 1059f.)
+COGN: Skt. _tákti_ "hurries", OCS _tešti_, _tečetъ_, Lith. _tekù_ "run", Alb. _ndjek_ "follows", perhaps Hitt. _watku<sup>zi</sup>_- "flee"
+ETYM: Brittonic -_ch_- is from an old subjunctive stem, cf. LP 399. The old present stem, parallel to OIr. _teich_- is preserved in Canu Aneirin 55.1418 _ny-debit_ [impf. impersonal rel.].
+REF: [EDPC]
+
+### <a id="telmi">\*telmi- "sling, snare" (n)</a>
+GOID: MIr. _teilm_ [if] (DIL _tailm_)​
+W: MW _telm_ [f] "snare, trap"
+BRET: OBret. _talmorion_ gl. _cum funditoribus_, MBret. and MoBret. _talm_ [f] "sling; a strike of lightning"
+SEE: [\*talskV- "fragment, piece"](#talskv)
+ETYM: A possible proto-form would also be PCelt. \*talx-smi-, from PIE \*telk- "hit, beat" (IEW 1062, see PCelt. \*talskV-). This appears more probable than \*telfsmi- > \*telxsmi- proposed by Hamp (1990a). He interpreted this reconstructed proto-form as "defence" and related it to PIE \*tpol- "defend" (Gr. _pólis_, _ptólis_ "defended settlement> town", etc.).
+REF: [EDPC]
+
+### <a id="temeslo">\*temeslo- "darkness" (n)</a>
+GOID: OIr. _temel_ [o m] "shadow, darkness" (DIL _teimel_)​
+W: OW _timuil_, W _tywyll_ "dark, darkness"
+BRET: OBret. _temoel_ gl. _fenicatum_, MBret. _teffal_, MoBret. _teñval_
+CO: OCo. _tiwoulgou_ gl. _tenebrae_, Co. _teul_, _tevle_
+PIE: \*temH- "dark" (IEW: 1064)
+COGN: Skt. _tamisrā_- "dark night", OHG _demar_ "twilight", Lat. _tenebrae_ "darkness"
+SEE: [\*temo- "dark"](#temo)
+ETYM: PCelt. \*temeslo- probably presupposes an s-stem \*temos < \*temHos-, parallel to Skt. _támas_-, cf. also Lith. _tamsà_ "darkness" and Lat. _temere_ "blindly" < \*temHesi (loc.sg.).
+REF: [EDPC]
+
+### <a id="temo">\*temo- "dark" (adj)</a>
+GOID: OIr. _tem_ (DIL _teim_)​
+SEE: [\*temeslo- "darkness"](#temeslo)
+ETYM: OIr. _tem_ "dark" is a rare word occurring only in glossaries, but cf. the derivative \*temeslo- "darkness". In any case, PCelt. \*temo- presupposes PIE \*temH-o-.
+REF: [EDPC]
+
+### <a id="tendo">\*tend-o- "break, cut" (v)</a>
+GOID: OIr. _teinnid_, -_teinn_; _téiss_, -_té_ [subj.]; _tethainn_ [prt.]
+PIE: \*tend- "cut" (IEW: 1062f.)
+COGN: Lat. _tondeo_ "shear", Gr. _téndō_ "gnaw at"
+SEE: [\*tondā "skin"](#tonda)
+REF: [EDPC]
+
+### <a id="tennyo">\*tennyo- "holly, elder" (n)</a>
+SEE: [\*tanno- "green oak"](#tanno)
+REF: [EDPC]
+
+### <a id="teterv">\*teterV- "scaldcrow" (n)</a>
+GOID: MIr. _tethra_
+PIE: \*teter- "a kind of bird" (IEW: 1079)
+COGN: Skt. _tittirá_- "partridge", Lith. _tetervà_ "capercaille", Gr. _tetráōn_ "capercaille"
+ETYM: MIr. _tethra_ is attested mostly in glossaries. Its stem-formation cannot be ascertained. In some contexts it refers to the war-goddess (_Badb_). The PIE word, whatever its precise meaning, was obviously onomatopoetic.
+REF: [EDPC]
+
+### <a id="tigerno">\*tigerno- "lord, master" (n)</a>
+GOID: OIr. _tigern_ [o m], Ogam _TIGIRN_
+W: MW _teern_, _teyrn_ [m]
+BRET: OBret. _Tiarn_ [PN], MBret. and MoBret. _tiern_ [m]
+CO: Co. _mach-deyrn_ "king"
+GAUL: _(Castrum) Tigernum_ [toponym]
+ETYM: Jordán Cólera 1998: 207ff. mentions the possibility that Celtib. _TIGINO_ (Peñalba de Villastar, var. lect. _TICINO_) actually represents _Tigernos_, but I find this unconvincing. For possible IE etymologies of PCelt. \*tigerno-, see LEIA T-63 and IEW 1016f., but I find none of them very promising. With respect to word formation, \*tigerno- contains the same suffix as Lat. _dominus_ (from _domus_ "house, household"), used to derive terms for social functions (cf. also Go. _þiudans_ "king" from _þiuda_ "people"), so \*tiger- would have to refer to some sort of social unit. A connection to \*tēg-o- "go" (the zero-grade of which is \*tig-) may be possible, but the word formation is quite unclear. One may only speculate that, if \*tiger- was "a going", i.e. "a raid, a raiding party", \*tigerno- would have been "the chief of the raiding party".
+REF: [EDPC]
+
+### <a id="tigu">\*tigu- "final, last" (adj)</a>
+GOID: OIr. _tigu_-
+W: OW _guotig_, W _wedy_, _wedi_ "after"
+BRET: OBret. _guetig_, MoBret. _goude_ "after"
+CO: OCo. _guotig_, Co. _woge_, _wosa_ "after"
+ETYM: The Brittonic forms come from PCelt. \*wo-tigu- "at the end".
+REF: [EDPC]
+
+### <a id="tini">\*ti-ni- "melt" (v)</a>
+GOID: OIr. _tinaid_, -_tin_ gl. _evanescit_, "melts, disappears"
+PIE: \*teyh₁- "become hot" (IEW: 1053f.)
+COGN: Hitt. _zēari_ "boils", OE _ðīnan_ "moisten", ON _þíðr_ "thawed"
+ETYM: Celtic reflects the zero-grade of the root, PIE \*ti-nh₁-. The lack of lowering (\*\*tina- > \*\*tena-) in OIr. shows that the original inflection must have been \*ti-nī- / \*ti-na-, which was leveled to \*ti-ni- throughout the paradigm in PCelt. The suffix \*-ni- was subsequently replaced by the productive -_na_- in OIr.
+REF: [EDPC]
+
+### <a id="tiros">\*tīros- "land, earth" (n)</a>
+GOID: OIr. _tír_ [o n]
+W: OW _tir_, MW _tir_ [m]
+BRET: MBret. _tir_ [m]
+CO: OCo. _tir_ gl. _tellus_, Co. _tyr_
+PIE: \*ter-s- "dry" (IEW: 1078)
+COGN: Hitt. _tars_- "become dry", Lat. _terra_ "land"
+ETYM: The long vowel of \*tīros < \*tēros is exactly parallel to \*sīdos < \*sēdos, OIr. _síd_ "mound" (see s.v. [\*sedo-, \*sīdos-](#sedo)). It may represent an old vṛddhi, but it may also point to a PIE root-noun \*tērs- "dryness, firmness", gen.sg. \*trs-os; Lat. _terra_ has the full grade (\*terseh₂) . The simplification of geminates (i.e. \*tīrso- > \*tīrro- > \*tīro-) is regular (cf. [\*mīros- "peace of meat"](#miros) and [\*wāri- "sunrise"](#wari)). Cf. also OIr. _tírimm_, _tirimm_ "dry" < \*tīrs-es-mi­ (for the word formation cf. [\*tefesmi- "warm"](#tefesmi).
+REF: [EDPC]
+
+### <a id="tlasta">\*tlāstā "weakness" [Noun)</a>
+SEE: [\*tlāti- "weak, sick"](#tlati)
+REF: [EDPC]
+
+### <a id="tlati">\*tlāti- "weak, sick" (adj)</a>
+GOID: MIr. _tláith_ [i] "weak, feeble, soft, pleasant"
+W: MW _tlawdd_ "poor, sick"
+PIE: \*telh₂- "support" (IEW: 1060f.)
+COGN: Gr. _talás_ "sad", OHG _dolen_ "suffer"
+ETYM: Cf. also MIr. _tlás_ [o m and ā f] "weakness, mildness" < \*tlāstā. The meaning in Celtic can be derived from "suppressed", and finally from the PIE root \*telh₂- "support", but complex semantic evolution must be assumed ("supporting" > "suppressed" > "weak", or "support" > "suffer" "be weak, sick").
+REF: [EDPC]
+
+### <a id="tlina">\*tli-na- "take away, steal" (v)</a>
+GOID: OIr. _tlenaid_, -_tlen_; _tlieid_, -_tlia_ [subj.]; -_tíuil_ [prt.]
+PIE: \*telh₂- "raise, support, bear" (IEW: 1060f.)
+COGN: Lat. _tollo_ "pick up, raise, remove", Gr. _tálanta_ "scales", Go. _þulan_ "endure, bear", ToB _tallaṃ_ "raises"
+SEE: [\*talamon- "earth"](#talamon), [\*tlāti- "weak, sick"](#tlati)
+ETYM: If the IE etymology is correct, the development of meaning was from "pick up" (cf. Lat. _tollo_) to "steal, take away". PCelt. \*talamon- "earth" (< "supporter") is from the same root. The stem \*tli- is analogical, since \*tln-­ > \*taln- in Celtic; should we assume that the source of the stem was the passive participle \*tlto- > \*tlito- (itself analogical, since \*tlH-to- would give PCelt. \*tlāto-, cf. PCelt. [\*tlāti- "weak, sick"](#tlati))?
+REF: [EDPC]
+
+### <a id="tlokwi">\*tlokʷ-i- "talk" (v)</a>
+GOID: OIr. _ad-tluchedar_, _atluchedar_ "thanks", _do-tluchedar_ "demands"
+PIE: \*tlokʷ- "talk" (IEW: 1088)
+COGN: Lat. _loquor_ "talk", OCS _tlъkъ_ "talk", Russ. _tólk_ "meaning"
+ETYM: Celtic and Latin point to o-grade \*tlokʷ-, while Slavic preserves the zero-grade \*tlkʷ-. Perhaps we may reconstruct an old perfect paradigm with regular ablaut (\*tlokʷ-e / \*tlkʷ-ro).
+REF: [EDPC]
+
+### <a id="tlustu">\*tlustu- "kine, riches" (n)</a>
+GOID: MIr. _tlus_ [u m]
+W: MW _tlws_ [m] "treasure, jewel"
+ETYM: No convincing IE etymology. However, if the Welsh word was borrowed from Irish, we can derive MIr. _tlus_ from \*(s)tloxstu- < PIE \*stlok-stu-, and compare Lat. _locus_ "place" < _stlocus_, which also has an unclear etymology (the usual connection to \*stel- "spread" does not make any sense, cf. de Vaan 2008: 347). Note that Lat. _locāre_ means not only "to place", but also "to hire out", and _loculus_ means "a box", and _locārium_ is "rent for a market stall". We may start from PIE \*(s)tlok- "property, ware (for exchange)", and an abstract noun \*tlok-stu- would yield OIr. _tlus_ regularly. For the semantic connection, cf. OCS _město_ "place", Pol. _miasto_ "town, city" < \*moy-sth₂o- (from the root \*mey- "change", cf. OCS _měna_ "exchange", Lith. _maĩnas_).
+REF: [EDPC]
+
+### <a id="to">\*to- "to" (prep)</a>
+GOID: OIr. _to_-, _do_-, _do_
+W: OW _di_, W _dy_
+BRET: OBret. _do_
+SEE: [\*tod "yes"](#tod)
+ETYM: Clear connections in other IE languages are lacking, but cf. OHitt. sentence connective _ta_, possibly related to PIE demonstrative pronominal stem \*to-.
+REF: [EDPC]
+
+### <a id="toadreto">\*to-ad-ret-o- "reach, grasp" (v)</a>
+GOID: OIr. _do-áraid_, -_tarraid_ "grasps, finds, overtakes, attains" (OIL _do-airret_, _do-airret_)​
+W: MW _daeredu_ "reach, come, pay taxes"
+SEE: [\*ret-o- "run"](#reto)
+REF: [EDPC]
+
+### <a id="toambiorgo">\*to-ambi-org-o- "press, strike down" (v)</a>
+GOID: OIr. _do-immuirc_ "presses, constrains" (OIL _do-immoirg_)​
+W: MW -_damorth_ "struck down" [3s.prt.]
+REF: [EDPC]
+
+### <a id="tod">\*tod "yes, indeed" [part.]</a>
+GOID: OIr. _tó_
+ETYM: W _do_ "indeed, yes" is probably the same word, but the word initial _d_- must somehow be analogical. Cf. also the parallelism between OIr. _nathó_ "no" and MW _naddo_ (< \*ne-tod). For a convincing argument that \*-d was preserved in Proto-Celtic see McCone 2006: 171ff. It should also be preserved in OIr. in monosyllables, to judge by _cid_ "what" < \*kʷid, _ed_ "it" < \*id, so that in OIr. _tó_ it probably dropped analogically after _nathó_.
+REF: [EDPC]
+
+### <a id="toexsbrendo">\*to-exs-brend-o- "flow" (v)</a>
+SEE: [\*brend-o- "flow"](#brendo)
+REF: [EDPC]
+
+### <a id="tofareufokano">\*to-fare-ufo-kan-o- "prophesize" (v)</a>
+GOID: OIr. _do-aurchain_
+W: MW _darogan_, _daroganu_
+SEE: [\*kan-o- "sing"](#kano)
+ETYM: Cf. OBret. _darcenneti_ gl. _hariolis_.
+REF: [EDPC]
+
+### <a id="togya">\*togyā "covering, roof" (n)</a>
+SEE: [\*tegos "house"](#tegos)
+REF: [EDPC]
+
+### <a id="tokomfarsko">\*to-kom-far-sko- "ask" (v)</a>
+GOID: MIr. _do-comairc_
+W: MW _dy-m-kyueirch_ (with infixed pronoun -_m_-)
+SEE: [\*far-sko- "ask, plead"](#farsko)
+ETYM: Cf. also OIr. verbal noun _tochmarc_ [o n] "wooing, courting" < \*to-kom-farsko-.
+REF: [EDPC]
+
+### <a id="tolgo">\*tolgo- "strength, energy" (n)</a>
+GOID: MIr. _tolg_ [o m] "strength, force, attack"
+PIE: \*(s)tolg- "effort" (?) (IEW: 1020)
+COGN: OE _stealc_ "high, steep", Lith. _stalgùs_ "stiff, defiant, proud"
+ETYM: LEIA compares Bret. (Vannetais) _tolhien_ "tuft, spike", which shows the semantic connection with the Germanic words. MIr. _tolg_ can also be used in the sense of "piercing".
+REF: [EDPC]
+
+### <a id="toliyo">\*tol-ī-yo- "sleep" (v)</a>
+GOID: OIr. _tuilid_, _con-tuili_; _con-tuil_ [prt.] "sleeps"
+PIE: \*(s)telH- "be quiet, be still" (IEW: 1061f)​
+COGN: OHG _stillen_ "make still", Lith. _tylà_ "quiet person", _tìlti_ "fall silent", OCS _u-toliti_ "quench, soothe"
+ETYM: Cf. OIr. verbal noun _cotlud_ "sleep" < \*kom-toli-tu-. That the PIE root ended in a laryngeal is shown by the accentuation in Lithuanian.
+REF: [EDPC]
+
+### <a id="tonda">\*tondā "skin, surface" (n)</a>
+GOID: OIr. _tonn_ [ā f]
+W: MW _tonn_ "skin, rind, surface, turf" (GPC _ton_ [m and f], _tonnen_ [sing.])
+BRET: OBret. _tonnenn_ gl. _cutela_, MBret. _ton(n)enn_, MoBret. _tonnenn_
+SEE: [\*tend-o- "cut"](#tendo)
+ETYM: Fr. _tonne_ "ton, great vat" is probably unrelated to these words, pace Gamillscheg 853 (the meanings are too different, although Gamillscheg starts from Gaul. \*tondā "skin" > "skin bag"). The PIE rood may well be \*tend- "cut" (IEW 1063, cf. Gr. _téndō_, Lat. _tondeo_) since the word for "skin" are often related to verbs that mean "cut" (cf. PCelt. [\*seket- "skin, hide"](#seket) < PIE \*sek- "cut").
+REF: [EDPC]
+
+### <a id="tongo">\*tong-o- "swear" (v)</a>
+GOID: OIr. _tongaid_, -_toing_; -_tó_ [subj.], _tithis_, -_tith_ [fut.], _tochtae_, -_tocht_ [prt.pass.]
+W: MW _tyngu_
+BRET: MBret. _toeaff_, _touet_, MoBret. _toued_
+CO: Co. _ty_; _tof_ [1s.prs.]
+GAUL: _toncsiiontio_ [3p.fut.rel.] (Chamalières)​
+PIE: \*teh₂g- "touch" (IEW: 1055)
+COGN: Lat. _tango_, Gr. _tetagṓn_ "having seized", Go. _tekan_ "touch", ToB _ceśäṃ_ "touch"
+ETYM: The connection with Lat. _tango_ "touch" is not beyond doubt. The usual explanation is that swearing was performed by touching a part of the body, or the ground, see LEIA T-108. However, even if this is accepted, the o-grade (PIE \*th₂og-?) is unexpected (analogy with [\*tonketo-](#tonketo) "destiny"?). KPV 650 derives this Celtic verb from \*tu-n-g-o-, from earlier \*lu-n-g-o­ and relates it to PCelt. [\*lugyo- "oath"](#lugyo); the explanation offered there how the stems \*tek- and \*leug- became confused is rather complicated. KPV also claims that the Gaulish form _toncsiiontio_ is unrelated to the Insular Celtic forms.
+REF: [EDPC]
+
+### <a id="tonketo">\*tonketo- "destiny" (n)</a>
+GOID: OIr. _tocad_ [o m] gl. _fors_
+W: MW _tynghet_ [f and m] (GPC _tynged_)​
+BRET: MBret. _tonquaff_ "presage", MoBret. _tonkañ_
+CO: Co. _tenky_
+GAUL: _Togi-marus_ (?) [PN]
+CELTIB: _tokoitei_ [dat.-loc.sg.] (Botorrita I)(?); _TOGOTI_ [dat.sg., theonym] (CIL II 893.)
+PIE: \*tenk-
+COGN: Go. _þeihan_ "prosper"
+ETYM: The attribution of the Celtiberian forms to this root is as uncertain as anything else in this language. For the possible relation to PCelt. [\*tong-­o- "swear"](#tongo) see, e.g., Delamarre 298. Much less probable is the derivation from \*tenk- "be solid, firm" (IEW 1068), cf. PCelt. [\*tanko- "peace"](#tanko).
+REF: [EDPC]
+
+### <a id="torano">\*torano- "thunder" (n)</a>
+GOID: OIr. _torann_ [o m and a f] "thunder, noise"
+W: MW _taran_ [f] "(peal of) thunder, thunderclap"
+BRET: OBret. _taran_ gl. _tonitru_, MoBret. _taran_ [m]
+CO: OCo. _taran_ gl. _tonitruum_, MCo. _taran_
+GAUL: _Taranis_ [theonym]
+PIE: \*(s)tenH- "thunder" (IEW: 1021)
+COGN: Skt. _stánati_ "to thunder", Lat. _tono_ "to thunder", OHG _donar_, Eng. _thunder_
+ETYM: The Gaulish word for "thunder" is preserved in the Gasconian dialect of French (_taram_). The Celtic forms are best explained by a metathesis \*tonaro- > \*torano-, despite some doubts expressed by LEIA (s.v.). The unmetathesized form is perhaps attested as the OBrit. theonym _Tanaro_ and in the old name of the river Po, _Tanarus_ "thundering". Both Celtic and Germanic point to PIE \*(s)tonHr- / \*stnHr-os (the zero-grade of the root is preserved in PGerm. \*þunraz).
+REF: [EDPC]
+
+### <a id="toreto">\*to-ret-o- "approach" (v)</a>
+GOID: OIr. _do-reith_, -_torreith_ "hurries, hastens"
+W: MW _dyred_ "approach"
+SEE: [\*ret-o- "run"](#reto)
+REF: [EDPC]
+
+### <a id="torid">\*to-rid- "pillar, hero" (n)</a>
+GOID: MIr. _tuir_ [d m and f]
+PIE: \*h₁reyd- "support"
+COGN: Lat. _ridica_ "vine prop", Gr. _ereídō_ "support"
+ETYM: de Vaan (2008: 522) claims that the connection of Lat. _ridica_ and Gr. _ereídō_ is "very uncertain". This should also apply to the etymology presented here. If the etymology is correct, we would have to reconstruct a root noun \*h₁reyd- / \*h₁rid-os, with Celtic preserving the zero-grade of the root from the oblique cases. Of course, this is just a speculation.
+REF: [EDPC]
+
+### <a id="torrv">\*torrV- "belly" (n)</a>
+GOID: MIr. _tarr_, _tair_ [u or i, m]
+W: OW _torr_ gl. _palma_, MW _tor_ [f] "belly"
+BRET: OBret. _tar_ gl. _ventrem_, MBret. _torr_, _teur_, MoBret. _tor_ [m] "abdomen"
+CO: OCo. _tor_ gl. _uenter_, MoCo. _torow_ [p]
+ETYM: I have some doubts whether OW _tor_ gl. _palma_ is the same word as W _tor_ "belly". It could belong rather to W _torri_ (Co. _terry_, MBret. _torret_) "break, smash", if the original meaning was "fist". MoBret. _teur_ "belly" seems to come from \*tār- with the lengthened grade, but I find it probable, in the absence of IE etymology, that these words were borrowed from some non-IE language (cf., however, Pokorny 1024).
+REF: [EDPC]
+
+### <a id="">\*torrlko- "pregnant" (adj)</a>
+GOID: OIr. torrach [o]
+W: MW torrog
+BRET: OBret. toroc
+SEE: [\*torrV- "belly"]()
+ETYM: An adjectival derivative, with the suffix \*-ako-, from \*torrV­ "belly".
+REF: [EDPC]
+
+### <a id="toskara">\*to-skara- "conquer, subject, strew" (v)</a>
+GOID: OIr. _do-scara_ "conquer, subject"; _tascrais_ [prt.]
+W: MW _dyscaraf_ [1s.prs.] "strew"
+SEE: [\*skara- "separate"](#skara)
+REF: [EDPC]
+
+### <a id="tosliyo">\*to-sl-iyo- "earn" (v)</a>
+GOID: OIr. _do-sli_, -_tuilli_; _(ro)-thuillisem_ [lp.prt.rel.] "desires, merits, earns"
+W: MW _dyrllid_ (GPC _derllyddu_, _dyrllyddu_, _dyrllys_, _dyrllid_)​
+BRET: MBret. _dellezaff_, MoBret. _dellezanv_
+CO: Co. _deleth_ [3s.prs.]
+PIE: \*selh₁- "take" (IEW: 899)
+COGN: Lat. _cōn-sulo_ "gather, advice", Gr. _heĩlon_ "I took", ON _selja_ "sell"
+ETYM: The verbal root is unattested as simplex in Celtic. W _dyrllid_ and MBret. _dellezaff_ are from \*to-fro-sl-iyo-. It is difficult to derive the PCelt. present stem \*-sl-iyo- directly from PIE \*slh₁-yo- (we would expect \*\*slāyo­ or \*\*sal-yo-, if the laryngeal were lost before \*y), but cf. the parallel case of \*gn-iyo- < \*gnh₁- yo-. Could this be due to some sort of special development of the cluster \*h₁y? Schumacher (KPV 381, 590) assumes in both cases a Celtic innovation (yo-present built to the zero grade \*sl- viz. \*gn-).
+REF: [EDPC]
+
+### <a id="towissako">\*to-wissāko- "chief, first" (adj)</a>
+GOID: OIr. _toísech_ [o]
+W: MW _tywyssawc_ [m] "prince", Brit. _TOVISACI_ [gen.sg.] (Ogam) (GPC _tywysog_)​
+BRET: OBret. _toguisoc_
+SEE: [\*wēd-o- "sight, presence"](wedo)
+ETYM: PCelt. \*to-wissāko- < \*-wid-t-āko- (or \*wid-s-āko-) < PIE \*weyd­ "see, know" (cf. \*wēd-o- "sight, presence"). Another etymology derives the attested forms from PIE \*wedʰ- "lead", i.e. PCelt. \*to-wessāko- < \*to-wed-t-āko- or \*to-wed-s-āko- (cf. OCS _voždь_ "leader" < PIE \*wodʰyo-, IEW 11lSf.). Although somewhat better from the semantic point of view, this reconstruction is difficult to square with -_i_- in the British Ogam inscription _TOVISACI_ (CIIC 399, McManus 1997: 108).
+REF: [EDPC]
+
+### <a id="towissu">\*to-wissu- "leadership, act ofleading, driving" (n)</a>
+GOID: OIr. _tuus_, _tús_ [u n] "act of leading, preceding, beginning"
+W: MW _tywys_ "lead, guide" (GPC _tywys_, _tywysio_, _tywysu_)​
+SEE: [\*to-wiss-āko- "chief, first"](#towissako), [\*wēd-o- "sight, presence"](#wedo)
+ETYM: The attested forms cannot be from PCelt. \*-wessu- < PIE \*wedʰ-tu­ (from the root \*wedʰ- "lead", IEW 1115f.), since this would yield OIr. \*\*tóes, cf. OIr. _róe_ < [\*rowesyā "field, open ground"](#rowesya).
+REF: [EDPC]
+
+### <a id="towta">\*towtā "people, tribe" (n)</a>
+GOID: OIr. _túath_ [ā f] (DIL _túaid_)​
+W: MW _tut_ [m] "people, country" (GPC _tud_)​
+BRET: MBret. _tut_, MoBret. _tud_ [p] "people"
+CO: Co. _tus_
+GAUL: _Teutates_ [theonym], _Touto_ [PN], _Touto-bodiaci_ [ethnonym]
+PIE: \*tewteh₂ "people, tribe" (IEW: 1084)
+COGN: Go. _þiuda_ "people", Osc. _touto_ "city", Lith. _tautà_ "people", perhaps Hitt. _tuzzi_- "army"
+ETYM: Gaul. _Teutates_ was presumably "god of the tribe"; this form appears strange, as the change \*ew > _ow_, _ou_ is well-attested in Gaul. (it may be just a spelling variant for a diphthong with no counterpart in Latin). Celtib. family name _Toutinikum_ [gen.pl.] (Botorrita III) probably represents a derivative from \*towtā.
+REF: [EDPC]
+
+### <a id="towto">\*towto- "left, north" (adj)</a>
+GOID: OIr. _túath_ [o]
+PIE: \*tewto-
+COGN: Lat. _tūtus_ "safe", Go. _þiuþ_ "good"
+ETYM: OBret. _tut_, which Fleuriot (DGVB) renders as "good, favorable", appears to be the same word, cf. also OBret. _tuthe_ "a kind of demon". OIr. _túath_ also means "bad, perverse". It is unclear if the meanings "left", "good", and "magic" can be brought together, since the associations of the left hand side are almost universally negative. Perhaps some sort of taboo replacement is involved, but in any case the IE part of this etymology remains somewhat conjectural.
+REF: [EDPC]
+
+### <a id="toybo">\*toybo- "side" (n)</a>
+GOID: OIr. _toíb_, _tóeb_ [o m] (DIL _taeb_)​
+W: MW _tu_ [m]
+BRET: OBret. _tu_, MBret. and MoBret. _tu_ [m]
+CO: Co. _tu_
+PIE: \*(s)teygʷ- "flank, side"(?) (IEW: 1018)
+COGN: Arm. _t'ēkn_ "shoulder", OCS _stьgno_ "femur", Russ. _stegnó_ "hip"
+ETYM: PCelt. \*toybo- would presuppose PIE \*(s)toygʷo- and the loss of s­-mobile. The semantic development would have been either from "flank" to "hip" or "shoulder" (in Slavic and Armenian respectively), or vice versa (in Celtic).
+REF: [EDPC]
+
+### <a id="tragi">\*trāgi- "beach, low tide" (n)</a>
+GOID: OIr. _tráig_ [i f]
+W: MW _trei_ [m] (GPC _trai_) "low tide, draining"; _treiau_, _treion_ [p]
+BRET: MBret. _tre_ [m], MoBret. _tre(c'h)​_
+CO: Co. _trig_
+ETYM: Cf. also the denominative verb MIr. _traigid_ "ebbs, recedes". I doubt that these words are related to PCelt. [\*treget- "foot"](#treget), as is often assumed. One would have to posit an ad hoc lengthened grade, and the meanings are worlds apart.
+REF: [EDPC]
+
+### <a id="trans">\*trāns- "across" (prep)</a>
+SEE: [\*taras- "across"](#taras)
+REF: [EDPC]
+
+### <a id="tratu">\*trātu- "length of time, hour" (n)</a>
+GOID: OIr. _tráth_ [u n]
+W: MW _trawd_ [m and f] "course, voyage" (GPC _trawd_, _trawdd_)​
+PIE: \*terh₂ "traverse, cross" (IEW: 1074)
+COGN: Skt. _tárati_ "crosses", OCS _trajati_ "to last"
+SEE: [\*taras- "across"](#taras)
+ETYM: PCelt. \*trātu- presupposes PIE \*tŕh₂tu- (the zero-grade is expected). The development of meaning was from "traversing, passing" to "duration, period" and "time".
+REF: [EDPC]
+
+### <a id="tre">\*trē "through" (prep)</a>
+GOID: OIr. _tré_ [aspirating, +acc., later also +dat.]
+W: OW _trui_, MW _trwy_, _drwy_
+BRET: OBret. _tre_, MBret. and MoBret. _dre_
+CO: Co. _dre_
+SEE: [\*taras- "across"](#taras)
+ETYM: The relationship to PCelt. \*taras-, \*trāns- "across" (PIE \*terh₂ "traverse, cross") suggested by IEW (1076) is plausible semantically, but formally quite unclear. In principle, if \*trāns- first yielded \*trās, and if this was still a root-noun in PCelt., the dative sg. form \*trās-ē could have been contracted as \*trāē > \*trē after the loss of intervocalic \*s in Insular Celtic. Needless to say, this is just a speculation.
+REF: [EDPC]
+
+### <a id="treba">\*trebā "settlement" (n)</a>
+GOID: OIr. _treb_ [ā f]
+W: MW _tref_ [f] "town, dwelling-place", _Tre_- (in PN)
+BRET: OBret. _treff_ .i. _urbs_, MoBret. _trev_ [f]
+CO: Co. _tre_- (in toponyms), _tre_ "house, village"
+GAUL: _Ambi-trebius_ [PN], _Atrebates_ [ethnonym]
+CELTIB: _Con-trebia_, _kon-terbia_ (A.75) [toponym]
+PIE: \*treb- "settlement" (IEW: 1090)
+COGN: Go. _þaurp_, Lith. _troba_ "house"
+SEE: [\*attrebā "settlement"](#attreba)
+ETYM: Old Provencal _trevar_ "inhabit" is from the lost Gaulish verb of the same meaning. MW _trefa_ [m and f] "room, house" can be derived from PCelt. \*trebno-. OIr. _trebar_ [o] "wise" is usually considered a derivative of this root (e.g. LEIA T-126f.), but this may be just a folk-etymology. In fact, OIr. _trebar_ can be from PCelt. \*trebro- "wise" < PIE \*trepro- "turning, apt" (cf. Gr. _trépō_ "turn", Skt. _trápate_ "is ashamed", perhaps Lat. hapax _trepit_ "turns"). For the semantic connection cf. Croat. _òkretan_ "handy, apt" vs. _òkret_ "turn".
+REF: [EDPC]
+
+### <a id="trebno">\*trebno- "room, house" (n)</a>
+SEE: [\*trebā "settlement"](#treba)
+REF: [EDPC]
+
+### <a id="trebro">\*trebro- "wise" (adj)</a>
+SEE: [\*trebā "settlement"](#treba)
+REF: [EDPC]
+
+### <a id="treget">\*treget- "foot" (n)</a>
+GOID: OIr. _traig_ [d m]
+W: MW _troet_ [m] (GPC _troed_)​
+BRET: OBret. _troat_, MBret. _troat_, MoBret. _troad_ [m]​
+CO: OCo. _truit_ gl. _pes_, MCo. _troys_, _tros_
+GAUL: _treide_ .i. _pede_ (Endlicher's Glossary)​
+PIE: \*tregʰ- "run, walk" (IEW: 1089)
+COGN: Go. _þragjan_ "run", Croat. _trâg_ "trace"
+ETYM: The derivation of OIr. _traig_ is straightforward, with \*e > _a_ before palatalized \*g as in _fraig_ < [\*wregi-](#wregi). The Brittonic forms are somewhat ambiguous (they could be from a variant \*troget, according to Hamp 1982b because of the analogy with [\*drogo-, \*droko- "runner" > "wheel"](#drogo)). OIr. _tráig_ "beach" etc., adduced by IEW (1089) is probably unrelated to this set of words. The connection with \*dʰregʰ- "run" (Gr. _trékhō_ etc., see Ham 1982b) is also possible, but difficult (it requires positing s-mobile, \*sdʰroget-, and its subsequent loss in Celtic (but cf. [\*tanno- "green oak"](#tanno), which may be from \*sdʰnwo-).
+REF: [EDPC]
+
+### <a id="trexsno">\*trexs(n)o- "strong" (adj)</a>
+GOID: OIr. _trén_ [o], Ogam _TRENA-GUSU_
+W: MW _trech_ "stronger"
+BRET: MBret. _trech_, MoBret. _trec'h_ [m] "victory"
+CO: Co. _trygh_ "victorious"
+GAUL: _Trexius_, _Trexa_, _Trenus_ [PN]
+PIE: \*treg- "strength" (IEW: 1090)
+COGN: OE _þraka_ "courage", ON _þrekr_ "strength"
+ETYM: The Brittonic and Gaulish forms are from underived \*trexso-, whereas OIr. _trén_ is from \*trexsno-. Cognates are attested only in Germanic and point to PGerm. \*þrakja- < PIE \*trogyo-.
+REF: [EDPC]
+
+### <a id="tris">\*trīs "three" (num)</a>
+GOID: OIr. _trí_; _téoir_ [f]
+W: MW _tri_; _teir_ [f] (GPC _tair_)​
+BRET: MBret. _tri_; _teir_ [f]
+CO: Co. _try_; _teyr_, _tyr_ [f]
+GAUL: _tri_-; _tiđres_ [f]
+PIE: \*treyes "three"; \*t(r)isres [f] (IEW: 1090f.)
+COGN: Skt. _tráyas_, Lat. _trēs_, Gr. _treĩs_, Lith. _trỹs_, Go. _þrins_ [acc.pl.], OCS _trьje_, Alb. _tre_, ToB _trai_, Hitt. _tri_-
+ETYM: OIr. _trí_ has long _í_ when used as a substantive, but short _i_ when used attributively (shortening in proclisis). A possible cognate in Celtiberian is _tiris_ (Botorrita I), but this word has also been related to PCelt. [\*tīros- "earth"](#tiros). The ordinal numeral is formed differently in various Celtic languages: Gaulish has _Tritos_ [PN], OIr. _tris_, _tres_ < \*tristo-, W _trydydd_, MoBret. _trede_ < \*tritiyo-.
+REF: [EDPC]
+
+### <a id="">\*trisano- "one third" (num)</a>
+GOID: OIr. trian
+W: OW trean, MW trayan
+BRET: OBret. troian
+SEE: [\*tns "three"]()
+REF: [EDPC]
+
+### <a id="trowgo">\*trowgo- "sorry, sad" (adj)</a>
+GOID: OIr. _trúag_, _tróg_ [o]
+W: OW _tru_, MW _tru_
+BRET: OBret. _tru[ed]_ gl. _humanitatis_, MBret. and MoBret. _truez_ [f] "pity", _tru_ "miserable"
+CO: Co. _tru_
+GAUL: _Trouceti-marus_ [PN]
+ETYM: Cf. the parallel compounds OIr. _trócar_ "merciful" < \*trowg-kar-o-, \*trowkkaro-, W _trugar-og_ "merciful", _trugar-edd_ "mercy" (W has -_g_- rather than \*ch < \*kk by analogy with the simplex \*trowgo-). Fr. _truand_ "beggar" is commonly derived from Gaul. \*trūg-ant-, \*trowgant- from the same root. Gaul. \*trowg-ant- would be an old participle present of the underlying verb, parallel to [\*kar-ant-](#karant) > OIr. _carae_ "friend". The PIE etymology is unknown, but a connection with PCelt. [\*truk-, \*truxso- "trunk, broken part"](#truk) appears possible.
+REF: [EDPC]
+
+### <a id="trowkkaro">\*trowkkaro- "merciful" (adj)</a>
+SEE: [\*trowgo- "sorry, sad"](#trowgo)
+REF: [EDPC]
+
+### <a id="truk">\*truk-, \*truxso- "trunk, broken part" (n)</a>
+GOID: MIr. _trú_ [k m and f] "doomed person, man condamned to death" (gen.sg. _troch_)​
+W: MW _trwch_ [m] "wounded, broken, sad, thickness, density"; _trychiau_ [p]
+BRET: OBret. _truch_ gl. _obtusi_, MoBret. _trouc'h_, _troc'h_ [m] "cut"
+CO: OCo. _trech_ gl. _truncus_; MoCo. _trogh_ "broken"
+PIE: \*trewk- "cut" (IEW: 1074)
+COGN: Lat. _truncus_ "1. mutilated, 2. stem"
+ETYM: GPC distinguishes two words, _trwch_ "thickness, bulk" and _trwch_ "sad, broken, wounded"; however, the meaning "thickness, density" (= GPC _trwch₁_ ) is clearly secondary, being attested only in Modern Welsh. The Brittonic forms presuppose \*truk-so- with regular metathesis to \*trusko- > W _trwch_. In Irish, we should start from a root noun \*truk-s, which meant "slain, cut man", hence "man condemned to death". Despite formal and semantic problems, the connection to Lat. _truncus_ "trunk", _trucidāre_, Lith. _trenkiù_ "hit" remains probable, but forms adduced in IEW (1074) belong to several different roots.
+REF: [EDPC]
+
+### <a id="trummo">\*trummo- "heavy" (adj)</a>
+GOID: OIr. _trom_ [o]
+W: OW _trumm_, MW _trwm_
+BRET: OBret. _trom_, _trum_ gl. _inoportune_
+CO: Co. _trom_
+PIE: \*trewd- "thrust, press" (IEW: 1095f.)
+COGN: Lat. _trudo_ "thrust, push", Go. _us-þriutan_ "to maltreat", OCS _trudo_ "trouble", perhaps also Alb. _tredh_ "castrate"
+ETYM: The Celtic forms can be derived from \*trud-smo-, or maybe \*trud-mo- (but \*-dm- is preserved in [\*dedmV- "rite"](#dedmv)). Another possibility is Ramp's (1984: 138) \*truks-mo- > \*truxsmo-, cf. W _trwch_ "thickness" < \*trukso- (cf. PCelt. [\*truk- "trunk, broken part"](#truk)). Germ. dial. (Bavaria) _Trumm_ "great piece, chunk" (Kluge, s.v. _Trümmer_) may be a loanword from Gaulish.
+REF: [EDPC]
+
+### <a id="trussko">\*trussko- "dirty, leprous" (adj)</a>
+GOID: OIr. _trosc_ [o] "leprous"
+W: MW _trwsgl_ "rash, crude, rude, coarse, clumsy"
+BRET: OBret. _trusci_ gl. _scabiem_, MBret. _trousquenn_, MoBret. _trousk_ [coll.] "polyps"
+CO: Co. _trosken_
+ETYM: OIr. _trosc_ is also used as a substantive meaning "a leper". Perhaps related are Gaulish PNs _Truxus_, _Troxus_, _Troxo_, cf. Delamarre 303. In all likelihood, these words were borrowed from some non-IE source.
+REF: [EDPC]
+
+### <a id="trusto">\*trusto- "noise, cry" (n)</a>
+GOID: MIr. _trost_ [o m]
+W: MW _trwst_ [m]
+BRET: MBret. _trous_ [m]
+CO: Co. _tros_
+ETYM: Since this word has no PIE etymology, it may have been borrowed from some non-IE language.
+REF: [EDPC]
+
+### <a id="truti">\*truti- "starling" (n)</a>
+GOID: MIr. _truit_, _truid_ [i f]
+W: MW _trydw_ (GPC drudw)​
+BRET: MBret. _dret_, _tret_, MoBret. _tred_ [f]
+CO: OCo. _troet_ gl. _turdus_, Co. _trós_
+PIE: \*trusdo- "starling, thrush" (IEW: 1096)
+COGN: Lat. _turdus_ "thrush (or similar bird)", MHG _trostel_, OPr. _tresde_, Croat. _drȍzd_
+ETYM: MIr. _truit_ could also be from \*trozdi- (cf. Lat. _turdus_ < \*trosdo-). The relationship of W _tresglen_, OBret. _tra[s]cl_ gl. _larum_, MoBret. _drask(l)_, Co. _traskel_ "thrush" to these words is unclear to me (? from PCelt. \*trezd-ko-, or \*trazd-ko-, with \*ra < \*ar < \*r̥). Cf. also Fr. _drenne_ "thrush" (earlier also _draine_, _drine_), allegedly from Gaul. \*dresdinā < \*tresd-inā (Gamillscheg 332f.). Like the word for "blackbird" ([\*mesalkā](#mesalka)), this word for "starling" has all the appearances of a loanword from some non-IE language of NW Europe (but cf. Arm. _tordik_ "thrush").
+REF: [EDPC]
+
+### <a id="">\*tū, \*tu "you" (pron)</a>
+GOID: OIr. _tú_, _tu-ssu_
+W: OW _ti_, MW _ti_ (GPC _ti_, _di_)​
+BRET: MBret. _ti_, _te_
+CO: Co. _ty_
+PIE: \*tuH "you" (IEW: 1097f.)
+COGN: Hitt. _zik_ / _tu_-, Skt. _t(u)vám_, Gr. _sý_, Lat. _tū_, Go. _þu_, OCS _ty_, Lith. _tù_, ToB _twe_
+ETYM: Two forms of this pronoun must be distinguished in PCelt., one with long \*ū, \*tū (> W ti), and the other with short \*u, PCelt. \*tu, preserved in OIr. _tu-ssu_ and relengthened in OIr. _tú_ (cf. _mé_ "I" vs. _me-sse_). Lengthening is regular in monosyllables. The origins of the alternation of \*tu and \*tū go back to PIE. Some linguists think that \*tū was the stressed variant, and \*tu the clitic pronoun, but it is also possible that the forms were actually \*tuH and \*tu, with \*tu being the result of the loss of laryngeal in pausa (this is argued for in Matasović 2008a: 233f.).
+REF: [EDPC]
+
+### <a id="tudo">\*tud-o- "fall" (v)</a>
+GOID: OIr. _do-tuit_; -_toth_ [subj.]; -_tóeth_ [fut.]
+PIE: \*(s)tewd- "hit" (IEW: 1033f.)
+COGN: Skt. _tudáti_, Lat. _tundo_, Go. _stautan_
+ETYM: OIr. _do-tuit_ < \*tu-tud-o-; the verb is unattested as simplex.
+REF: [EDPC]
+
+### <a id="tukna">\*tuknā "back, bottom, arse" (n)</a>
+GOID: MIr. _tón_ [ā f] "hindquarters, podex, bottom"
+W: MW _tin_ [f and m] "bottom, arse, rear"
+CO: Co. _tyn_
+PIE: \*tewH-k- "swell" (IEW: 1080)
+COGN: OE _þeoh_ "thigh", Lith. _táukas_ "fat"
+ETYM: In MIr. this word is also attested as a feminine i-stem _tóin_. The MIr. forms must be from \*tuknā or \*tukni- (\*tūkna would yield MIr. \*\*tún). The Brittonic forms point to \*tūnā, which is derivable from \*tuknā under the assumption that the compensatory lengthening of \*u > \*ū before \*kn is earlier than the change of \*ū> \*ī > MW _i_ (for the lengthening in Brittonic, cf. W _mawn_ "peat" < \*makni- < PIE \*mh₂kni- "swamp"). The laryngeal in PIE is confirmed by the acute in Baltic, so the short \*u in Celtic is a problem. One possibility would be to assume that it was shortened by Dybo's law (\*tuHknó- > \*tūknó- > \*tukno-).
+REF: [EDPC]
+
+### <a id="tullo">\*tullo- "pierced, perforated" (adj)</a>
+GOID: OIr. _toll_ [o]
+W: MW _twll_ [m]
+BRET: OBret. _tull_ gl. _foramen_, MBret. and MoBret. _toull_ [m] "hole"
+CO: Co. _toll_, _tol_
+PIE: \*tewk- "beat, perforate" (IEW: 1032f.)
+ETYM: The Celtic forms are usually derived from \*tuxslo- < \*tuk-slo- from the root \*tewk- "beat, perforate" (IEW 1032f. cf. Gr. _týkos_ "hammer", Latv. _tukstēt_ "beat"). However, the suffix \*-slo- is used to derive nouns, not adjectives, and it appears probable that vowels were regularly lengthened before the cluster \*xsl (cf. PCelt. \*tāxslo- "axe"). In any case, the proximate reconstruction based on the Insular Celtic forms yields \*tullo- rather than \*tuxslo-.
+REF: [EDPC]
+
+### <a id="tumbo">\*tumbo- "excrescence, hill" (n)</a>
+GOID: MIr. _tomm_ [o m] "bush, bunch, hillock" (DIL _tom_)​
+W: MW _tom_ [f and m] "dung, heap of dung, mound"
+PIE: \*tum-bʰ- "mound, hill" (IEW: 1082)
+COGN: Lat. _tumulus_ "mound"
+ETYM: OIr. _túaim_ [n n] "hill, mound" might also belong here (see LEIA T- 159), but it might also be from [\*stowxsman-](#stowxsman) (see above).
+REF: [EDPC]
+
+### <a id="tumi">\*tum-ī- "grow" (v)</a>
+W: MW _tyfu_
+BRET: OBret. _tum_ [3s.prs.], MoBret. _tenvan_
+CO: Co. _a dyff_ "grow"; _tyff_ [3s.prs.]
+PIE: \*twem- "grow, swell" (IEW: 1082)
+COGN: Skt. _túmra_- "strong, thick", Lat. _tumeo_, Lith. _tumė́ti_ "get fat", OIc. _þumal-fingr_ "thumb"
+ETYM: Celtic \*tum-ī- is a reflex of the PIE stative present \*tum-eh₁-, which is also the source of Lat. _tumeo_ and Lith. _tumė́ti_.
+REF: [EDPC]
+
+### <a id="tunda">\*tundā "wave" (n)</a>
+GOID: OIr. _tonn_ [ā f]
+W: OW _tonnou_ gl. _aequora_; MW _tonn_ [f] (GPC _ton_)​
+BRET: OBret. _tonn_ gl. _lympha_, MBret. and MoBret. _tonn_ [f]
+CO: Co. ton
+ETYM: Perhaps related to Lat. _tundo_ "beat", Skt. _tudáti_ "beat", Arm. _t'ndam_ "I am shattered" (PIE \*(s)tewd- "beat", IEW 1032ff., see [\*tud-o- "fall"](#tudo)), cf. LEIA T-109; however, the difference in meaning is considerable (the semantic connection would lie in the beating of waves against the shore?). Note also that all of the reflexes in the Celtic languages could be derived from PCelt. \*tondā, which could be identical to [\*tondā "surface, skin"](#tonda), if the word first referred to the surface of the sea, and to "wave" only secondarily.
+REF: [EDPC]
+
+### <a id="tuto">\*tuto- "vulva" (n)</a>
+GOID: MIr. _toth_ [o m] "vulva, vagina, feminine gender (in grammar)"
+GAUL: _Tuta_ [PN], _Uiro-tuti_ [dat.sg., PN] (?)
+ETYM: Of course, the interpretation of the Gaulish personal names is quite uncertain, so the connection with MIr. _toth_ is a speculation. There is also a possible connection to the name of the Roman Priapic deity _Tutūnus_.
+REF: [EDPC]
+
+### <a id="tworko">\*tworko- "boar" (n)</a>
+GOID: OIr. _tore_ [o m]
+W: MW _twrch_ [m] "young pig, boar"
+BRET: OBret. _torch_ gl. _uerres_, MoBret. _tourc'h_ [m]
+CO: OCo. _torch_ gl. _magalis_
+PIE: \*tworko- "cutter, boar"
+COGN: Av. _θβərəsa_- "piglet", perhaps Gr. _sarks_ "flesh"
+ETYM: It is assumed here that \*tw- was preserved in PCelt. (just as PIE \*dw- was retained), but it is also possible that the change \*tw- > \*t- is already Proto-Celtic, since all Celtic languages have \*t-. On the other hand, Lubotsky (1994a) derives the Celtic forms from the zero-grade of the PIE root (\*turḱ-o-), since the cluster \*rk usually resists raising in Irish. However, \*tworḱo- makes more sense from the morphological point of view, if the word was originally an agent noun of the _tomós_-type. The PIE root meant "to cut out (a pit)", cf. Av. _θβərəs_- "dig, cut out", so the meaning "boar" must have developed from "cutter, digger".
+REF: [EDPC]
