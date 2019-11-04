@@ -872,7 +872,7 @@ REF: [EDPC]
 ### <a id="aydu">\*aydu- "fire" (n)</a>
 GOID: OIr. _áed_ [?u n]
 W: W _aidd_ [m and f] "ardor"
-BRET: MBret. _oaz_ [m] "ardor,jealousy"
+BRET: MBret. _oaz_ [m] "ardor, jealousy"
 PIE: \*h₂eydʰos "firewood" (IEW: 11)
 COGN: Skt. _édhas_-, OE _ád_ "bonfire", Lat. _aedes_ "building, temple"
 ETYM: The vocalism of the two Brittonic forms does not agree (MBret. _oaz_ may perhaps regularly come from \*aydu-, but in W \*oedd would be expected). See LEIA s.v. _aed_. It is possible that the ethnonym _Aedui_ is derived from the same PCelt. form (Delamarre 35). OIr. _áed_ is not well attested, but it appears to be an u-stem (the gen.sg. is _áeda_).
@@ -4120,7 +4120,7 @@ REF: [EDPC]
 GOID: MIr. _gop_ [o m]
 GAUL: \*gobbo- > OFr. _gobel_, _gobet_ "bit", Fr. _gober_ "swallow"
 PIE: \*goph₃o- "eat, masticate (of animals)" (IEW: 382)
-COGN: OE _ceafl_ "jaw,jowl", Russ. _zobát'_ "masticate"
+COGN: OE _ceafl_ "jaw, jowl", Russ. _zobát'_ "masticate"
 ETYM: The geminate \*-bb- in Celtic is typical of expressive words. The PIE reconstruction proposed here avoids positing PIE \*b (there were no roots with two voiced stops in PIE) . However, without the doubtful Germanic cognates, the Celtic and Slavic words could well go back to PIE \*ǵ(ʰ)obʰ-.
 REF: [EDPC]
 
@@ -4459,7 +4459,7 @@ REF: [EDPC]
 
 ### <a id="iwo">\*iwo- "shaft, yew" (n)</a>
 GOID: OIr. _eó_ [o ?m] "stem, shaft, yew-tree"
-W: MW _yw_ [p] "yew, yew-wood";ywen [sing.]
+W: MW _yw_ [p] "yew, yew-wood"; _ywen_ [sing.]
 BRET: OBret. _Caer 'n Iuguinen_ [toponym], MBret. _ivin_, _iuin_, MoBret. _iwin_ [coll.]
 CO: OCo. _hiuin_ gl. _taxus_
 PIE: \*h₁eyw- "yew, _Taxus baccata_" (IEW: 297)
@@ -5500,7 +5500,7 @@ REF: [EDPC]
 ### <a id="kondo">\*kondo- "protuberance, preeminence, reason" (n)</a>
 GOID: OIr. _conn_ [o m] "protuberance, adult person, intelligence"
 PIE: \*kom-dʰh₁o- "put together" (IEW: 613)
-COGN: Lat. _condo_, OCS _sądo_ "court,judgement"
+COGN: Lat. _condo_, OCS _sądo_ "court, judgement"
 ETYM: It is not certain whether there is only one PCelt. word \*kondo­ encompassing all of the meanings attributable to OIr. _conn_. This OIr. word was also interpreted as \*kʷonno-, which would be in ablaut to [\*kʷenno­ "head"](#kwenno) (v.), in which case it cannot be from PIE \*kom-dʰh₁o- "put together".
 REF: [EDPC]
 
@@ -6966,7 +6966,7 @@ COGN: Skt. _mā́_- "to measure", Lat. _mētior_
 ETYM: Fr. _maint_ "several" preserves the Gaulish cognate of the same Celtic word, derived from the PIE participle \*mh₁-nt-. It is possible that the root is attested in Gaul. anthroponymy, e.g. _Cara-mantius_.
 REF: [EDPC]
 
-### <a id="manto">\*manto- "gums,jaw" (n)</a>
+### <a id="manto">\*manto- "gums, jaw" (n)</a>
 W: MW _mant_ [m] "mandible, gums"
 PIE: \*men-t- "jaw" (IEW: 726)
 COGN: Lat. _mentum_ "jaw", OHG _munt_ "mouth", ? Hitt. _mēni_-, _mēna_- "face, cheek"
@@ -7104,7 +7104,7 @@ COGN: Gr. _mémphomai_ "to blame", Go. _bi-mampjan_ "to mock"
 ETYM: Possibly an expressive formation, but parallels in Gr. and Germ. point to a probable PIE origin. IEW reconstructs the root as \*membʰ- and assumes the change \*mbl > \*bl in Celtic. However, -m- in Gr. _mémphomai_ and Go. -_mampjan_ can also be present stem infixes, but note that -_p_- (rather than \*b) in Gothic is unexpected.
 REF: [EDPC]
 
-### <a id="medo">\*med-o- "measure,judge" (v)</a>
+### <a id="medo">\*med-o- "measure, judge" (v)</a>
 GOID: OIr. _midithir_, -_midethar_; _mestair_, -_mestar_ [subj.]; _miastair_, -_miastar_ [fut.]; _médair_ [prt.]; _messae_, -_mess_ [prt.pass.]
 W: MW _meddu_ "possess, rule"
 CO: Co. _medhes_ "say"
@@ -7238,7 +7238,7 @@ REF: [EDPC]
 ### <a id="menman">\*menman- "thought, mind" (n)</a>
 GOID: OIr. _menme_ [n m]
 W: MW _mynw_ [?m] "nature, disposition"
-BRET: MBret. _meno_ [m] (MoBret.) "opinion,judgement"
+BRET: MBret. _meno_ [m] (MoBret.) "opinion, judgement"
 GAUL: _Menman-dutis_ [dat.pl., theonym]
 PIE: \*men-mn- (IEW: 726)
 COGN: Skt. _mánman_- "mind, thought"
@@ -7969,7 +7969,7 @@ GOID: OIr. _nessa_
 W: OW _nes_, MW _nes_
 BRET: MBret. _nes_ "close"
 CO: Co. _nes_, _nessa_
-GAUL: _neđđamon_ [gen.pl.] "_proximorum_" (Banassac, CIL XIII 10016,13)
+GAUL: _neđđamon_ [gen.pl.] "_proximorum_" (Banassac, CIL XIII 10016, 13)
 PIE: \*Hnedʰ- "bind" (IEW: 758)
 COGN: Osc. _nessimas_ "_proximae_"
 ETYM: The traditional connection of these words with \*nad-sk- "bind" is impossible, if this verb is from PIE \*nHd-, as argued here (see [\*nad-sko­ "bind"](#nadsko)). However, there is another PIE root, \*Hnedʰ- "bind" from which we have Skt. _náhyati_ "binds"; if PCelt. \*nesso- is from this root, it comes from PIE \*Hnedʰ-so-, or \*Hnedʰ-to-.
@@ -8155,7 +8155,7 @@ REF: [EDPC]
 ### <a id="odbo">\*odbo- "knot, bulge" (n)</a>
 GOID: OIr. _odb_ [o m]
 W: W _oddf_ [m]
-ETYM: Cf. also the Gaul. PNs with the first element _Osbi_- (e.g. _Osbimaca_, _Osbimanus_). EIEC and Mallory and Adams 2006 relate these words to Skt. _ádga_- "knot,joint", Gr. _óskhos_ "sucker, shoot", _óskhē_ "vine with grapes" (PIE \*Hosgo-), but do not explain the sound developments, which would be highly irregular. One could, in principle, derive the Celtic and Indo-Iranian forms from PIE \*h₃edgʷos, but then Greek _óskhos_ is unrelated. Schrijver (1995: 376) follows LEIA in deriving the Celtic forms from \*ost-bʰV- and relates them to Gr. _osphýs_ "hip", which I find less convincing. Lith. _uodegà_ "tail" is probably also unrelated to these words.
+ETYM: Cf. also the Gaul. PNs with the first element _Osbi_- (e.g. _Osbimaca_, _Osbimanus_). EIEC and Mallory and Adams 2006 relate these words to Skt. _ádga_- "knot, joint", Gr. _óskhos_ "sucker, shoot", _óskhē_ "vine with grapes" (PIE \*Hosgo-), but do not explain the sound developments, which would be highly irregular. One could, in principle, derive the Celtic and Indo-Iranian forms from PIE \*h₃edgʷos, but then Greek _óskhos_ is unrelated. Schrijver (1995: 376) follows LEIA in deriving the Celtic forms from \*ost-bʰV- and relates them to Gr. _osphýs_ "hip", which I find less convincing. Lith. _uodegà_ "tail" is probably also unrelated to these words.
 REF: [EDPC]
 
 ### <a id="ofiba">\*ofi-bā "beauty, appearance" ()</a>
@@ -8405,7 +8405,7 @@ W: OW _un_, MW _un_
 BRET: OBret. _un_, MBret. and MoBret. _un_
 CO: Co. _un_
 PIE: \*h₃ey-no- "one" (IEW: 28lff.)
-COGN: OLat. _oinos_, Lat. _ūnus_, Gr. _oinḗ_ "one (at dice)", Go. _ains_, OCS _ed-inъ_,, Lith. _víenas_
+COGN: OLat. _oinos_, Lat. _ūnus_, Gr. _oinḗ_ "one (at dice)", Go. _ains_, OCS _ed-inъ_, Lith. _víenas_
 ETYM: Other IE languages form the numeral "one" from the same root (\*h₃ey-), but with different suffixes, e.g. \*-ko- in Skt. _éka_-, \*-wo- in Av. _aiuua_-, etc. In Celtic, there is a derivative [\*oynāno- "alone, personally"](#oynano) that can be inferred from OIr. _oénán_ and MBret. _unan_, _onan_, and W _hunan_ (with secondary _h_-). Cf. also OIr. _oentu_ [d m and f] < \*oyno-tūt- (Lat. _ūnitas_). The acute in Lith. _víenas_ is unclear, but it hardly justifies positing PIE \*h₃eyHno­ rather than \*h₃eyno-.
 REF: [EDPC]
 
