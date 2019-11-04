@@ -3321,7 +3321,7 @@ W: MW _lledr_ [m]
 BRET: MBret. _lezr_, MoBret. _ler_
 PIE: \*pel- "to skin" (IEW 803f.)
 COGN: Lat. _pellis_ "skin", OE _fell_ "hide", Russ. _plená_ "membrane"
-ETYM: The Germanic words for "leather" (OHG _leadar, leder_) are prehistoric loanwords from Celtic. The Celtic forms presuppose the zero­ grade of the PIE root (\*pl-etro-), with the unusual form of the suffix \*-etro­ (rather than \*-tro-), cf. Russ. _plená_ < \*pl-en-eh 2•
+ETYM: The Germanic words for "leather" (OHG _leadar, leder_) are prehistoric loanwords from Celtic. The Celtic forms presuppose the zero­ grade of the PIE root (\*pl-etro-), with the unusual form of the suffix \*-etro­ (rather than \*-tro-), cf. Russ. _plená_ < \*pl-en-eh₂.
 REF: [EDPC]
 
 ### <a id="fletyo">\*fletyo- "shoulder, shoulder blade" (n)</a>
@@ -8741,7 +8741,7 @@ GOID: OIr. _roen_ [o m] (DIL _róen_, _ráen_)​
 BRET: OBret. _runt_, MoBret. _run_ [f] "mound"
 PIE: \*(H)royno- "? landmark" (IEW: 857)
 COGN: OHG _rein_ "demarcation line on the ground", ON _rein_ "strip ofland"
-ETYM: Although formally impeccable, this etymology is weak on the semantic side. However, according to DIL, _róen_ (_ráen_) "is used loosely of surfaces, spaces and in other derived senses", cf. Molr. _ráon na sliabh_ "the range of the mountains". The original sense may have been "landmark", _vel sim_.
+ETYM: Although formally impeccable, this etymology is weak on the semantic side. However, according to DIL, _róen_ (_ráen_) "is used loosely of surfaces, spaces and in other derived senses", cf. MoIr. _ráon na sliabh_ "the range of the mountains". The original sense may have been "landmark", _vel sim_.
 REF: [EDPC]
 
 ### <a id="rudi">\*rud-ī- "redden, become red" (v)</a>
