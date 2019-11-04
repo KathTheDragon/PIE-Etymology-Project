@@ -11076,3 +11076,201 @@ PIE: \*tworko- "cutter, boar"
 COGN: Av. _θβərəsa_- "piglet", perhaps Gr. _sarks_ "flesh"
 ETYM: It is assumed here that \*tw- was preserved in PCelt. (just as PIE \*dw- was retained), but it is also possible that the change \*tw- > \*t- is already Proto-Celtic, since all Celtic languages have \*t-. On the other hand, Lubotsky (1994a) derives the Celtic forms from the zero-grade of the PIE root (\*turḱ-o-), since the cluster \*rk usually resists raising in Irish. However, \*tworḱo- makes more sense from the morphological point of view, if the word was originally an agent noun of the _tomós_-type. The PIE root meant "to cut out (a pit)", cf. Av. _θβərəs_- "dig, cut out", so the meaning "boar" must have developed from "cutter, digger".
 REF: [EDPC]
+
+## U
+
+### <a id="udenskyo">\*uden-sk-yo- "water" (n)</a>
+GOID: OIr. _uisce_ [io m]
+PIE: \*wod-r / \*uden- "water" (IEW: 79)
+COGN: Skt. _udán_-, Hitt. _watar_-, Gr. _hýdōr_ (gen. _hýdatos_), Umbr. _utur_, Lat. _unda_ "wave", OCS _voda_, Germ. _Wasser_
+ETYM: Although this etymology is often repeated in handbooks, I am not absolutely certain that it is correct. The suffix combination \*-skyo- seems odd. Another possibility is to posit \*ud-es-kyo- (cf. the s-stem in Gr. dial. _hýdos_ "water", and cf. Skt. _útsa_- "well"). OIr. _odar_ "brown, dun" is often derived from the same PIE root for "water" (PCelt. \*ud-ro-), but the semantic difference is considerable.
+REF: [EDPC]
+
+### <a id="ufelo">\*ufelo- "bad, evil" (adj)</a>
+GOID: MIr. _fel_ [o]
+PIE: \*h₂wop- "treat badly" (IEW: 1107)
+COGN: Hitt. _huwapzi_ "harrows, despoils", Go. _ubils_ "bad, evil"
+ETYM: The development is regular: PIE \*h₂up-elo- > \*ufelo- > \*welo- > OIr. _fel_. The closest cognates are found in Germanic, cf. also OE _yfel_ "evil, bad".
+REF: [EDPC]
+
+### <a id="ufo">\*ufo- "under" (prep)</a>
+GOID: OIr. _fo_ [aspirating, +acc, +dat]
+W: OW _guo_, MW _go_, _go_- "under, rather, partly"
+BRET: OBret. _guo_, MoBret. _gwa_-, _gou_-
+CO: Co. _go_- _gwa_-
+GAUL: _Vo_-
+LEP: _Uvamo-kozis_ (Prestino)​
+PIE: \*upo- "under, up to" (IEW: 1106)
+COGN: Skt. _úpa_, Gr. _hypó_, Go. _uf_
+ETYM: I am not certain whether Lep. _Uvamokozis_ (var. lect. _Uvamakozis_) stands for \*uwamo-gostis, as is usually supposed, but the first element of this compound is likely to contain the reflex of PCelt. \*ufo- (whether or not the letter _v_ of the Lugano alphabet actually stands for the preserved PCelt. \*f). The other element of this compound is thought to represent \*_gostis_ < PIE \*gʰostis "guest" (OCS _gostь_, Go. _gasts_, etc.), but it is unclear whether this word is otherwise not preserved in Celtic (see under [\*gazdo- "withe"](#gazdo)).
+REF: [EDPC]
+
+### <a id="ufoatekwrina">\*ufo-ate-kʷri-na- "buy back, redeem" (v)</a>
+GOID: OIr. _do-aithchren_
+BRET: MBret. _dazprenaff_
+REF: [EDPC]
+
+### <a id="ufobiyo">\*ufo-biyo- "blow, injury" (n)</a>
+GOID: OIr. _fubae_ [io n]
+W: MW _gofwy_ "to visit, afflict with sickness, punish" (GPC _gofwy_, _gofwyo_)​
+PIE: \*bʰeyH- "strike, hit" (IEW: 117f.)
+COGN: OCS _biti_, OLat. _per-finas_ [2s.subj.]
+SEE: [\*bi-na- "strike"](#bina)
+REF: [EDPC]
+
+### <a id="ufodamyo">\*ufo-dam-yo- "suffer" (v)</a>
+GOID: OIr. _fo-daim_, -_fodaim_; -_fadam_ [1s.prs.subj.]; _fondidmae_ [2s.fut.]; _forodamair_ [3s.perf.]
+W: OW _ni cein-godemisauch_ gl. _non bene passa_; MW _goddef_ "suffer, allow, bear"
+BRET: MBret. _gouzaff_
+CO: Co. _godhaff_
+SEE: [\*dam-yo- "suffer"](#damyo)
+REF: [EDPC]
+
+### <a id="ufodexta">\*ufo-dex-tā "blaze" (n)</a>
+SEE: [\*degʷi- "flame"](#degwi)
+REF: [EDPC]
+
+### <a id="ufogniyo">\*ufo-gni-yo- "serve, be useful" (v)</a>
+GOID: OIr. _fo-gni_, -_fognai_; -_fogna_ [3 ssubj.]; _fugen-sa_ [1s.fut.] "serves, avails, profits, is used by"
+W: MW _gweini_; _gweinyt_ [3s.prs.] (GPC _gweini_, _gweinyddu_)​
+BRET: MBret. _go(u)nit_
+CO: Co. _gonis_ "work"
+SEE: [\*gn-iyo- "do"](#gniyo)
+REF: [EDPC]
+
+### <a id="ufokwrina">\*ufo-kʷri-na- "buy, earn" (v)</a>
+GOID: MIr. _fo-cren_ "buys, exchanges, hires"; _fo-chiura_ [fut.]; _fa-crith_ [pass.]
+W: MW _gobryn_ "earn" (GPC _gobryn_, _gobrynu_)​
+SEE: [\*kʷri-na- "sell"](#kwrina)
+REF: [EDPC]
+
+### <a id="ufokano">\*ufo-kan-o- "sing along, play" (v)</a>
+GOID: OIr. _fo-cain_ "accompanies (with a musical instrument)"
+W: MW _goganu_ "praise" (GPC _goganu_, _gogan_, _goganyd_)​
+SEE: [\*kan-o- "sing"](#kano)
+REF: [EDPC]
+
+### <a id="ufokelo">\*ufo-kel-o- "protect, cover" (v)</a>
+GOID: MIr. _fo-ceil_ "hide, cover"
+W: MW _goglyt_ "defend, protect"; _gogel_ [3s.prs.] (GPC _goglyd_, _gogelyd_, _gogel_, _gogelu_)​
+SEE: [\*kel-o- "hide"](#kelo)
+REF: [EDPC]
+
+### <a id="ufolawto">\*ufo-lawto- "property, wealth" (n)</a>
+GOID: OIr. _folud_ [o n] "substance, material, property, equivalent, reason, cause"
+W: MW _golud_ [m and f]
+CO: OCo. _wuludoc_ gl. _dives_
+PIE: \*leh₂u- "benefit, prize" (IEW: 655)
+COGN: Gr. _apolaúnō_ "enjoy", Lat. _lucrum_ "profit", OE _lēan_ "reward", Go. _laun_ "reward"
+ETYM: The Celtic forms represent a derivative with the suffix \*-to-, or the past participle (\*leh₂u-to-). Cf. also OIr. _lúag_, _lóg_ "prize" < \*lowgo- < \*loh₂u-go-. OE _lēan_ and Go. _laun_ can be from \*leh₂w-no-. Lat. _lucrum_ may represent \*lu-tlo-, but the loss of laryngeal is unusual (by Dybo's rule?). OIr. _lour_ "enough" and W _llawer_ "many, a lot" (Co. _lower_), _llawen_ "merry" (MBret. _louen_, Co. _lowen_) could also be from the same root (\*law-ero-, \*law-eno- ?, cf. Gr. _lārós_ "tasty" < \*lāwaros).
+REF: [EDPC]
+
+### <a id="ufoleg">\*ufo-leg- "shelter, lair" (n)</a>
+GOID: OIr. _foil_, _fail_ [k f]
+W: MW _gwal_ [f and m] "lair, pigsty" (GPC _gwâl_)​
+PIE: \*leg - "lie" (IEW: 659)
+ETYM: Cf. also W _gwely_ "bed" < \*ufo-leg-yo-.
+REF: [EDPC]
+
+### <a id="uforedo">\*ufo-rēdo- "horse" (n)</a>
+W: MW _gorwydd_ [m] "horse"; _gorwyddawr_, _gorwyddod_ [p]
+GAUL: \*verēdo- > VLat. _uerēdus_ "post horse"
+SEE: [\*rēdo- "riding"](#redo), [\*rēd-smen-](#redsmen)
+ETYM: VLat. _para-ueredus_ (ultimately from Gaulish) is the source of Germ. _Pferd_ "horse" and Fr. _palefroi_. The Gaulish form \*werēdo- can represent the result of assimilation from \*woredo- < \*ufo-rēdo-.
+REF: [EDPC]
+
+### <a id="ufor">\*ufor- "over, on" (prep)</a>
+GOID: OIr. _for_ [+acc., +dat.]
+W: OW _guor_, MW _gor_, _gwar_
+BRET: OBret. _guor_-, _gor­_
+CO: Co. _gor_
+GAUL: _Ver-cingeto-rix_ [PN]
+CELTIB: _UER-AMOM_ [acc.sg.] "highest"
+PIE: \*uper- "over" (IEW: 1105)
+COGN: Skt. _upári_, Gr. _hyper_, Go. _ufar_
+ETYM: It is not clear whether PCelt. \*ufor- is a variant of \*ufer- < \*uper-, or a development thereof. For the development of \*ufV- > \*wV- cf. PCelt. [\*ufelo-](#ufelo) and [\*ufo-](#ufo).
+REF: [EDPC]
+
+### <a id="uforbuyo">\*ufor-bu-yo- "remain" (v)</a>
+GOID: OIr. _for-tá_; -_forbái_ [3s.prt.]; -_forbía_ [3s fut.]
+W: MW _gorfot_ "win, force (someone)" (GPC _gorfodi_)​
+SEE: [\*bu-yo- "be"](#buyo)
+REF: [EDPC]
+
+### <a id="uforeto">\*ufo-ret-o- "help, save" (v)</a>
+GOID: OIr. _fo-reith_ "helps, takes someone's place"
+W: MW _gwared_ "save, be helpful to" (GPC _gwaredu_, _gwared_)​
+GAUL: _Uoreto-uirius_ [PN]
+SEE: [\*ret-o- "run"](#reto)
+ETYM: Cf. also OIr. _cobair_, _cobuir_ "help" < \*kom-ufo-ret-, OIr. _tóir_ "help" < \*to-ufo-ret-. For the semantic development of the verb "to run" (\*ret-o-) with the prefix \*ufo- > \*wo- "under" cf. Lat. _su-curro_ "help" (the Insular Celtic verbs may actually be calques of Latin).
+REF: [EDPC]
+
+### <a id="uforkwenno">\*ufor-kʷenno- "end" (n)</a>
+GOID: OIr. _forcenn_ [o n>m] "end, final limit, what is destined"
+W: MW _gorffen_ [m]
+BRET: MBret. _gourffenn_
+CO: Co. _gorfen_
+SEE: [\*kʷenno- "head"](#kwenno)
+ETYM: There is also the denominative verb OIr. _for-cenna_ "puts an end to", W _gorffennu_ "finish off". This may be the result of a parallel development in Goidelic and Brittonic.
+REF: [EDPC]
+
+### <a id="uforkano">\*ufor-kan-o- "teach" (v)</a>
+GOID: OIr. _for-cain_
+W: MW _gwarchanu_ (GPC _gorchan_, _gorchanu_, _gwarchan_)​
+SEE: [\*kan-o- "sing"](#kano)
+REF: [EDPC]
+
+### <a id="ufoskito">\*ufo-skito/u- "shadow, shelter" (n)</a>
+GOID: OIr. _foscad_ [u and o n>m] "shade, shelter"
+W: MW _gwascawt_ (GPC _gwasgod_) [m] "shelter, shady place, shadow"
+BRET: OBret. _guascotou_ gl. _frigora_, MBret. _goasquet_, MoBret. _gwasked_ [m]
+PIE: \*skeh₃t- "darkness" (IEW: 957)
+COGN: Gr. _skótos_, OE _sceadu_ "darkness"
+SEE: [\*skāto- "shadow"](#skato)
+REF: [EDPC]
+
+### <a id="ufosodyo">\*ufo-sodyo- "ground" (n)</a>
+SEE: [\*sodyo- "seat"](#sodyo)
+REF: [EDPC]
+
+### <a id="ufostarna">\*ufo-star-na- "strew" (v)</a>
+GOID: MIr. _fo-sern_ "arranges in due order, spreads abroad"
+W: MW _gwassarnu_ (GPC _gwasarnu_, _gosarnu_)​
+SEE: [\*star-na- "strew, broaden"]()
+REF: [EDPC]
+
+### <a id="ufowiko">\*ufo-wik-o- "commit an offence" (v)</a>
+GOID: OIr. _fo-fich_ "trespasses, commits an offence"
+W: MW _gowyn_ [m] (GPC _goŵyn_) "shame, disgrace"
+SEE: [\*wik-o- "fight"](#wiko)
+REF: [EDPC]
+
+### <a id="ulkwo">\*ulkʷo- "bad, evil" (adj)</a>
+GOID: OIr. _olc_ [o]
+LEP: _Ulkos_ [PN]
+PIE: \*wlkʷo- "wolf" (IEW: 1178f.)
+COGN: Skt. _vṛ́ka_-, Gr. _lýkos_, Lat. _lupus_, Lith. _vil̃kas_, OCS _vlъkъ_, Go. _wulfs_
+ETYM: The meaning of this word in PCelt. could have been "wolf", as in PIE. Another etymology, less persuasive in my opinion, relates OIr. _olc_ to Lat. _ulciscor_ "take vengeance" (see LP 43). The Gaulish ethnonym _Volcae_ and W _gwalch_ "hawk, rascal" are sometimes also connected with the PIE word for "wolf", but this is quite uncertain (Gaulish and Brittonic would have preserved the o-grade \*wolkʷo-).
+REF: [EDPC]
+
+### <a id="unko">\*u-n-k-o- "understand" (v)</a>
+GOID: OIr. _do-ucai_ (OIL _do-ucci_, s.v. _do-beir_)​
+PIE: \*h₁ewk- "get used to" (IEW: 347)
+COGN: Skt. _ucyati_, Go. _bi-uhts_ "used to", OCS _učiti_ "learn", _vyknąti_ "get used to", Lith. _jùnkti_ "get used to"
+ETYM: OIr. _do-ucai_ is from \*to-u-n-k-o-. The simplex is not attested. Cf. the verbal noun _tuicse_, _tuicsiu_ "understanding" < \*to-unk-syon-.
+REF: [EDPC]
+
+### <a id="uppu">\*up(p)u "ouch" (interj.)</a>
+GOID: OIr. _upp_ gl. _ei mihi_
+W: MW _wb_ (GPC _wb_, _ub_)​
+REF: [EDPC]
+
+### <a id="uxso">\*uxso-, \*uxson- "ox" (n)</a>
+GOID: MIr. _oss_ [o m] "stag, cow"
+W: MW _ych_ [m], _ychen_ [p]
+BRET: OBret. _penn ohen_ gl. _caput boum_ [p], MBret. _ouhen_, MoBret. _oc'hen_ [p]
+CO: Co. _oghan_ [p]
+PIE: \*ukson "ox" (IEW: 1118)
+COGN: OE _oxa_, Av. _uxšan_- "bull", ToB _okso_ "draft-ox"
+ETYM: The Brittonic forms presuppose an-stem (with nom.sg. \*uxsō(n) > \*uxsū > \*uxsī and subsequent i-affection in W). MIr. _oss_ presupposes a thematic \*uxso-, cf. also the PN _Os-car_ ("stag-loving").
+REF: [EDPC]
