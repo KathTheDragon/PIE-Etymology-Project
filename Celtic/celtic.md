@@ -298,7 +298,7 @@ W: MW _ymenyn_ [m] (GPC _ymenyn (e)menyn_​)
 BRET: MBret. _amanen_, MoBret. _amann, amannen_ [m]
 CO: OCo. _amanen_ gl. _butyrum_ , MoCo. _manyn_
 PIE: \*h₃engʷ-en- "butter" (IEW: 779)
-COGN: Lat. _unguen_ "grease", OHG _ancho_ "butter", OPr. _anctan_ "butter",
+COGN: Lat. _unguen_ "grease", OHG _ancho_ "butter", OPr. _anctan_ "butter"
 ETYM: The Celtic forms can be derived from the stem of the oblique cases of the PIE noun for "butter", PIE \*h₃ngwen-. The development \*am-> \*em­ (> OIr. _im_-) is the same as in OIr. _imbliu_ < PCelt. \*ambliyon- "navel". The PIE root is \*h₃engw- "smear, anoint" (Skt. _anákti_, Lat. _unguo_, Arm. _awcanem_​)
 REF: [EDPC]
 
@@ -1152,7 +1152,7 @@ ETYM: The fact that the vocalism of OIr. does not agree with the (expected) o-gr
 REF: [EDPC]
 
 ### <a id="bena">\*benā, \*bena "woman" (n)</a>
-GOID: OIr. _bé_ [n], _ben_ [f], _mná_ [gen.sg.],
+GOID: OIr. _bé_ [n], _ben_ [f], _mná_ [gen.sg.]
 W: OW _ben_ [f]
 BRET: MBret. _e-ben_ "other", lit. "his wife"; OBret. _ban-leu_ gl. _lene_
 CO: OCo. _benen_ gl. _sponsa_
@@ -1534,7 +1534,7 @@ BRET: OBret. _brotr_, MBret. _breuzr_, MoBret. _breur_ [m]
 CO: OCo. _broder .l. braud_ gl. _frater_
 GAUL: _Bratronos_ [PN]
 PIE: \*bʰreh₂ter "brother" (IEW: 163f.)
-COGN: Skt. _bhrā́tar_-, Lat. _frāter_, Gr. _phrátēr_ "member of a _phratria_ (brotherhood)", Go. _broþar_, Lith. _brólis_, OCS _bratrъ_,
+COGN: Skt. _bhrā́tar_-, Lat. _frāter_, Gr. _phrátēr_ "member of a _phratria_ (brotherhood)", Go. _broþar_, Lith. _brólis_, OCS _bratrъ_
 REF: [EDPC]
 
 ### <a id="bratu">\*brātu- "judgement" (n)</a>
@@ -3052,7 +3052,7 @@ REF: [EDPC]
 ### <a id="fasto">\*fāsto- "growth" (n)</a>
 GOID: OIr. _ás_ [o n > m]
 PIE: \*peh₂-s- "herd, protect" (IEW: 787)
-COGN: Lat. _pāsco_ "feed, pasture", Hitt. _pahhaszi_ "keeps, protects", OCS _pasti, pasetъ_,
+COGN: Lat. _pāsco_ "feed, pasture", Hitt. _pahhaszi_ "keeps, protects", OCS _pasti, pasetъ_
 ETYM: Cf. the denominative verb OIr. _ásaid, fásaid_ (with unetymological _f_-) "grows". A difficult etymology in light of the fact that OIr. _ás_ can go back to a great number of PCelt. and PIE root-forms, so the possibility of chance correspondence is significant. If the etymology proposed here is correct, we must start from PIE \*peh₂s-to- "what is herded and fed" > "growth". Note the absence of shortening by Dybo's law.
 REF: [EDPC]
 
@@ -6848,7 +6848,7 @@ REF: [EDPC]
 
 ### <a id="maglo">\*maglo- "noble, chief" (n)</a>
 GOID: OIr. _mál_ [o m], Ogam _CUNA-MAGLI_
-W: MW _mael_ [m] "chieftain, lord"; MW -_mael_, -_fael_ (in PN) (e.g. _Brochfael_ < \*Brocco-maglos);
+W: MW _mael_ [m] "chieftain, lord"; MW -_mael_, -_fael_ (in PN) (e.g. _Brochfael_ < \*Brocco-maglos)
 BRET: MBret. -_mael_ (in PN, e.g. _Tiernmael_)​
 GAUL: _Magalos_, -_maglus_ [PN]
 PIE: \*meǵh₂ "great" (IEW: 709)
@@ -7485,7 +7485,7 @@ REF: [EDPC]
 ### <a id="mlato">\*mlāto/i- "tender, soft" (adj)</a>
 GOID: OIr. _mláith_ [i]
 W: MW _blawd_ [m] "flour"
-BRET: OBret. _blot_, MoBret. _bleud_ [m] "flour",
+BRET: OBret. _blot_, MoBret. _bleud_ [m] "flour"
 CO: Co. _blot_ "flour", MCo. _bles_
 PIE: \*melh₂ "grind" (IEW: 716)
 COGN: Lat. _molo_, Lith. _malti_
