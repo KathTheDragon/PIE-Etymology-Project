@@ -141,7 +141,7 @@ REF: [EDPC]
 
 ### <a id="ago">\*ag-o- "drive" (v)</a>
 GOID: OIr. _agid, -aig; agaid, -aga_ [subj.]; _acht, -acht_ [prt.]
-W: OW _hegit_ [prs.3s] "go", MW _a, aa_ [prs.3s]; _aeth, ayth_ [prt.]
+W: OW _hegit_ [3s.prs.] "go", MW _a, aa_ [3s.prs.]; _aeth, ayth_ [prt.]
 BRET: MBret. _a_ "go", OBret. _nit-a; aez_ [prt.]
 CO: Co. _a_ "go"; _eth, etha_ [prt.]
 PIE: \*h₂eǵ- "drive" (IEW: 4f.)
