@@ -746,7 +746,7 @@ CO: Co. _ufer_ "vain"
 ETYM: In principle, these words can be derived from the negative prefix \*aw- and the verbal root \*ber-o- "carry", but both the semantic connection and the word formation are difficult. The original meaning could have been "not carrying" hence "lazy" and "vain".
 REF: [EDPC]
 
-### <a id="awe">\*awe-C- "inspiration, insight" (n)</a>
+### <a id="aweC">\*awe-C- "inspiration, insight" (n)</a>
 GOID: OIr. _aui, aí_ [t m>f] "poetic inspiration"
 W: MW _awen_ [f] "poetic inspiration, talent"
 SEE: [\*awelā "breeze, wind"](#awela)
@@ -802,7 +802,7 @@ W: MW _odid_ "scarce, rare, exceptional"
 ETYM: These words are derived with the negative/ablative prefix \*aw­ from the verbal base \*ti-nā- of OIr. _tinaid_ "fades away". Further etymological connections are unclear. PCelt. \*ti-nā- can be derived from PIE \*dʰgʷʰi- "perish" (Gr. _phthínō_, Skt. _kṣi_-) only if one assumes a form of the root with s-mobile, hence \*sdʰgʷʰi-nā- > \*stinā- > \*ti-nā- (with \*st- > \*t- as in OIr. _tá_ < \*stā-, which is perhaps due to a generalization of one sandhi form).
 REF: [EDPC]
 
-### <a id="awv">\*awV- (?) "liver" (n)</a>
+### <a id="awV">\*awV- (?) "liver" (n)</a>
 GOID: OIr. _óa_ [f] gl. _iecur_, _óeib_ [dat.pl.]
 W: MW _ahu, auu, afu_ [m and f]
 BRET: MBret. _auu_, MoBret. _avu_ [m]
@@ -1330,7 +1330,7 @@ SEE: [\*bitu- "world"](#bitu)
 ETYM: The short \*i is the result of the regular development by Dybo's rule (cf. Skt. _jīvá_-).
 REF: [EDPC]
 
-### <a id="biwv">\*bīwV- "pitch" (n)</a>
+### <a id="biwV">\*bīwV- "pitch" (n)</a>
 GOID: OIr. _bí_ [?f]
 PIE: \*gʷiHu- "pitch" (IEW: 482)
 COGN: Russ. _živíca_, Arm. _kiv_ (gen. _kvoy_)​
@@ -1354,7 +1354,7 @@ COGN: Lat. _flāuus_
 ETYM: OIr. _blá_ matches the meaning of Lat. _flāuus_ perfectly, so they should be connected, but the OIr. word could also be a loanword from Latin. The Germanic words often related to these adjectives, OHG _blao_, OIc. _blár_, etc., all mean "blue", but color terms often change their meaning. However, the Germanic proto-form was \*blēwa-, and the only way to relate it to the ltalo-Celtic adjective for "yellow" is to posit a vṛddhi \*bʰlēh₂wo-, with \*ē remaining uncolored by the laryngeal through Eichner's law; such a solution would clearly be _ad hoc_. One should also compare W _blawr_ "grey", which might be the same word as MIr. _Blár_ (name of a horse), and Scot. Gael. _blàr_ "horse with a white spot, white-faced horse". All of these, if related, could represent PIE \*bʰleh₂ro- > PCelt. \*blāro-. For a different PIE etymology of these words see Schrijver (1991: 147, 177, etc.).
 REF: [EDPC]
 
-### <a id="blvdv">\*blVdV- "wolf, ?large predator" (n)</a>
+### <a id="blVdV">\*blVdV- "wolf, ?large predator" (n)</a>
 GOID: OIr. _bled_ [ā f] "monster, large animal, whale"
 W: MW _bleidd_ [m] "wolf, hero" (GPC _blaidd_)​
 BRET: OBret. _bleid_, MBret. and MoBret. _bleiz_ [m]
@@ -1914,7 +1914,7 @@ W: MW _deillyau_ (GPC _deillio_) "emanate, proceed, derive, come about, originat
 PIE: \*dʰelh₁- (IEW: 234)
 COGN: Gr. _thállō_ "blossom" (v), OE _dile_ "dill", Arm. _dalar_ "green", perhaps Alb. _dal_ "flow out, exit, grow"
 SEE: [\*dolisko- "seaweed"](#dolisko)
-ETYM: Schumacher (KPV 257f.) derives the OIr. verbal noun _dul_ [u m] "going" from the same PIE root, but this is dubious on semantic grounds. Some linguists reconstruct the PIE root as \*dʰelh₁- (e.g. KPV and LIV), but I do not believe that the evidence warrants that reconstruction. Celtic generalized the zero-grade of the root in \*dal-n- (< \*dʰl-n-eh₁), but the o­ grade is probably attested in [\*dolisko- "seaweed"](#dolisko) and [\*dol-V- "leaf"](#dolv). Thee­ grade seems to be attested in PGerm. \*delja- (OE _dile_, Germ. _Dill_, etc.).
+ETYM: Schumacher (KPV 257f.) derives the OIr. verbal noun _dul_ [u m] "going" from the same PIE root, but this is dubious on semantic grounds. Some linguists reconstruct the PIE root as \*dʰelh₁- (e.g. KPV and LIV), but I do not believe that the evidence warrants that reconstruction. Celtic generalized the zero-grade of the root in \*dal-n- (< \*dʰl-n-eh₁), but the o­ grade is probably attested in [\*dolisko- "seaweed"](#dolisko) and [\*dol-V- "leaf"](#dolV). Thee­ grade seems to be attested in PGerm. \*delja- (OE _dile_, Germ. _Dill_, etc.).
 REF: [EDPC]
 
 ### <a id="dalo">\*dālo- "share, part" (n)</a>
@@ -2057,7 +2057,7 @@ CO: Co. _-duer_ [3s.prs.]
 ETYM: In OIr. this verb was confused with \*tā- "be, find oneself" < PIE \*steh₂- , see KPV 266ff. The IE etymology of PCelt. \*dā-yo- is uncertain, but a derivation from PIE \*deh₁- "bind" (IEW 183, LIV 86, cf. Gr. _déō_) has been proposed. In my opinion, the semantic connection is too weak for this etymology to be plausible.
 REF: [EDPC]
 
-### <a id="dedmv">\*dedmV- "rite, ceremony, usage" (n)</a>
+### <a id="dedmV">\*dedmV- "rite, ceremony, usage" (n)</a>
 GOID: OIr. _deidmea_ [gen.sg.] "law, usage"
 W: MW _deuawt, defawt_ "rite, ceremony, law"; _deddf_ [f] "rite, decree, ordinance, law"
 BRET: OBret. _domot_ gl. _ritum_
@@ -2198,7 +2198,7 @@ COGN: Lat. _dē_
 ETYM: In OIr. the long i was shortened in unstressed position, but the length is generally preserved before consonants in compounds, cf. e.g. digal < \*dI-gala "vengeance". The root in this Italic and Celtic preposition could be the same as in \*h₂ed-, but with a different suffix (or instrumental case­ ending) \*-eh₁; see \*ad "to".
 REF: [EDPC]
 
-### <a id="diakv">\*dī-ākV- "lazy, lit. un-swift" (adj)</a>
+### <a id="diakV">\*dī-ākV- "lazy, lit. un-swift" (adj)</a>
 W: OW _diauc_ gl. _segnem_, MW _diawg_ (GPC _diog_)​
 BRET: OBret. _diochi_, MBret. _diek_, MoBret. _dieg_
 CO: OCo. _dioc_ gl. _piger_
@@ -2346,7 +2346,7 @@ COGN: Skt. _daśā_- "fringe", Go. _tagl_ "a single hair", Croat. _dlàka_ "a si
 ETYM: While Sanskrit points to the root \*deḱ-, Celtic agrees well with Germanic and Slavic (cf. the regular depalatalization in Proto-Slavic \*doklā and subsequent metathesis \*dolkā > Croat. _dlàka_).
 REF: [EDPC]
 
-### <a id="dolv">\*dol-V- "leaf" (n)</a>
+### <a id="dolV">\*dol-V- "leaf" (n)</a>
 GOID: MIr. _duilne, duille_ [iā f] "leaf, foliage"
 W: MW _deil_, (GPC _dail_) [p] "leaves, foliage"; _deilen_ [sing.]
 BRET: OBret. _dol_, MoBret. _del_ [coll.] "leaves"
@@ -2371,7 +2371,7 @@ REF: [EDPC]
 GOID: MIr. _duilesc_ [o m]
 W: MW _delysc_ [m] "fucus palmatus, edible seaweed, stuff which is cast up by the sea" (GPC _delysg, dylysg, dylusg_)​
 PIE: \*dʰelh₁- "blossom" (IEW: 234)
-SEE: [\*dal-n-](#daln), [\*dolV- "leaf"](#dolv)
+SEE: [\*dal-n-](#daln), [\*dolV- "leaf"](#dolV)
 ETYM: A connection with PCelt. \*dolV- "leaf" appears probable both in terms of form and meaning. For the reconstruction of the PIE root see [\*dal-n- "come into being"](#daln).
 REF: [EDPC]
 
@@ -2702,7 +2702,7 @@ COGN: Luv. _assu_-, Skt. _aśva_-, Lat. _equus_, Gr. _híppos_, OE _eoh_, Lith. 
 ETYM: Gaul. _Equos_ "name of the ninth month" (Coligny) might be an archaic form (with preserved _qu_ < \*kw), but it might also be a Latin loanword (although this possibility is seldom taken into consideration). The Brit. forms (except OBret. _eb_) are from a derivative \*ekʷālo- (cf. also Celtib. _ekualaku_ and _ekualakos_, which has been interpreted as a nom.sg. of an adjective "belonging to _ekuala_"). MoBret. has also the compound _ken-eb_ "pregnant, inseminated mare".
 REF: [EDPC]
 
-### <a id="elv">\*elV- "swan" (n)</a>
+### <a id="elV">\*elV- "swan" (n)</a>
 GOID: OIr. _elu_, MIr. _elae, ela_ [? f]
 W: MW _alarch_ [m and f]; _eleirch, elyrch_ [f]
 BRET: MoBret. _alarc'h_ [m]
@@ -2938,7 +2938,7 @@ COGN: Skt. _pṛṇā́ti_ "gives", Lat. _paro_ "prepare"
 ETYM: Cf. OIr. perf. 3. sg. _ro-ír_ "has granted" < \*pro-peporh₃-e (Isaac 2007: 15, _pace_ KPV 509f.).
 REF: [EDPC]
 
-### <a id="farv">\*farV- "prepare" (v)</a>
+### <a id="farV">\*farV- "prepare" (v)</a>
 GOID: MIr. _aradu_ [n f] "preparation, disposition"
 PIE: \*perh₃- "bestow" (IEW: 818)
 COGN: Lat. _paro_ "furnish, prepare"
@@ -3361,7 +3361,7 @@ SEE: [\*fletyo- "shoulder, shoulder-blade"](#fletyo)
 ETYM: Celtib. _litanokum_ is sometimes adduced as a derivative from PCelt. \*flitano-, but the meaning of this form is uncertain (most probably it is a family name). The PIE form was \*plth₂u- m., \*plth₂wih₂ f. (cf. Gr. _platýs, plateĩa_). PCelt. \*flitawī directly represents the feminine form, while \*flitano- is from the derived \*plth₂-no- (cf. Hitt. _paltana_- "shoulder").
 REF: [EDPC]
 
-### <a id="flittv">\*flittV- "pap, porridge" (n)</a>
+### <a id="flittV">\*flittV- "pap, porridge" (n)</a>
 GOID: MIr. _littiu_ [n f]
 W: MW _llith_ [m] "food, nourishment, bait"
 PIE: \*polt- / \*plt-os "pap, porridge" (IEW: 802)
@@ -3606,7 +3606,7 @@ COGN: Lat. _sternuo_, Gr. _ptárnymai_, Arm. _p'ṙnem_ "sneeze"
 ETYM: Cf. also MIr. _srennid_ "snorts, snores" (verbal noun _sreim_). Although these words are related, their exact relationships are unclear. The Irish forms might eventually be from an original tu-stem, with the zero-grade of the root (PCelt. \*fstri-tu-).
 REF: [EDPC]
 
-### <a id="fulv">\*ful-V- "beard" (n)</a>
+### <a id="fulV">\*ful-V- "beard" (n)</a>
 GOID: MIr. _ul_ [?]
 GAUL: _Ulatos_ [PN]
 PIE: \*pul- "body hair" (IEW: 850)
@@ -3715,7 +3715,7 @@ GOID: OIr. _ro-geinn_ "takes place"
 W: MW _genni_; _gannaf_ [1s.prs.] "contain, find room in"
 PIE: \*gʰed- "take, seize" (IEW: 437f.)
 COGN: Lat. _prae-hendo_, Gr. _khandánō_, Alb. _gjen_ "find"
-SEE: [\*gendV- "wedge, block"](#gendv)
+SEE: [\*gendV- "wedge, block"](#gendV)
 ETYM:· OIr. _ro-geinn_ < \*fro-gan-d-e-ti (the simplex 1s unattested in Goidelic).
 REF: [EDPC]
 
@@ -3765,7 +3765,7 @@ SEE: [\*gar(r)man- "cry, shout"](#garrman), [\*garyo- "call, cry"](#garyo)
 ETYM: These Celtic forms preserve the full grade of the PIE root; the zero­ grade is preserved in \*garsman- and \*gari- (v.).
 REF: [EDPC]
 
-### <a id="garrv">\*garrV- "calf of the leg, shank" (n)</a>
+### <a id="garrV">\*garrV- "calf of the leg, shank" (n)</a>
 GOID: OIr. _gairr_ [i m or f] "calf of the leg"
 W: MW _garr_ [m and f] (GPC _gar_) "leg, shank, ham, thigh"
 BRET: MBret. _garr_ "leg", MoBret. _gar_
@@ -3906,7 +3906,7 @@ REF: [EDPC]
 SEE: [\*gan-yo- "be born"](#ganyo), [\*genos- "family"](#genos)
 REF: [EDPC]
 
-### <a id="gendv">\*gendV- "wedge, block, lump" (n)</a>
+### <a id="gendV">\*gendV- "wedge, block, lump" (n)</a>
 GOID: MIr. _geind_ (DIL _genn_) [d f] "wedge, block"
 W: W _gaing_ "chisel, wedge"
 BRET: OBret. _genn_, MBret. _guenn_, MoBret. _genn_
@@ -4233,7 +4233,7 @@ COGN: OE _grēada_ "breast"
 ETYM: The evidence that _grúad_ was an s-stem is not absolutely certain, so the PCelt. reconstruction is purely conjectural. On the IE side, one may also want to connect the Slavic words from "breast" (Russ. _grud'_, OPol. _grędzi_), which may be from nasalized \*gʰru-n-d-. The semantic side of this etymology is rather weak (\*gʰrowdo- would presumably have denoted "round body parts").
 REF: [EDPC]
 
-### <a id="gulbv">\*gulbV-, \*gulbīno- "beak" (n)</a>
+### <a id="gulbV">\*gulbV-, \*gulbīno- "beak" (n)</a>
 GOID: MIr. _gulba_ [n f] "beak, jaw", _gulban_ [o m] "beak, sting"
 W: OW _gilbin_ [m and f] "point", MW _gylfin_ "beak"
 BRET: OBret. _golbin_, _golbinoc_ gl. _ac rostratam_; MBret. _golff_, MoBret. _golv_ "without tail"
@@ -4654,7 +4654,7 @@ CELTIB: _kamanom_ (?) (Botorrita I)
 ETYM: VLat. \*cammīnus "path, way" (Fr. _chemin_, It. _camino_, etc.) is a reflex of the Gaulish cognate of this word (Gamillscheg 220). Meid 1994a: 22 interprets Celtib. _kamanom_ as "way", but I doubt whether it is related to PCelt. \*kanxsman at all, since the derivation requires many _ad hoc_ sound changes (my doubts are shared by Wodtko, cf. MLH V.1: 155). An etymological connection of PCelt. \*kanxsman- with [\*keng-o- "step"](#kengo) appears probable.
 REF: [EDPC]
 
-### <a id="kanxtv">\*kanxtV- "power" (n)</a>
+### <a id="kanxtV">\*kanxtV- "power" (n)</a>
 GOID: MIr. _cécht_
 PIE: \*ḱe(n)k- "force" (IEW: 522)
 COGN: Skt. _śakti_- "power", _saknóti_ "is able, helps", ON _háttr_ "ability"
@@ -5020,7 +5020,7 @@ SEE: [\*kentu-](#kentu), [\*samon-](#samon)
 ETYM: This is a compound containing \*kentu- "first" and \*samon­ "summer".
 REF: [EDPC]
 
-### <a id="kerv">\*kerV- "fall" (v)</a>
+### <a id="kerV">\*kerV- "fall" (v)</a>
 GOID: OIr. _do-cer_ "felled" [3s.prt.]; -_torchar_ [3s.perf.]
 PIE: \*ḱerh₂ "break" (IEW: 578)
 COGN: Skt. _śar_- "break", _śīrti_- "breaking", Gr. _keraḯzō_ "destroy"
@@ -7399,7 +7399,7 @@ COGN: Lat. _mē(d)​_
 ETYM: In PCelt. two forms must be posited, \*mī and \*me. The form with the short \*e was later lengthened to yield OIr. (emphatic pronoun) _mé_. Already in PIE, this was the suppletive acc.sg. to the 1st person singular personal pronoun \*(h₁)eǵh₂om (Lat. _ego_ etc.) which left no traces in Celtic. For the source of the alternation \*me / \*mē see PCelt. [\*nu](#nu).
 REF: [EDPC]
 
-### <a id="minv">\*mi-nV- "change position" (v)</a>
+### <a id="minV">\*mi-nV- "change position" (v)</a>
 W: MW _tramwy_ "movement"
 BRET: MBret. _tremen_ "pass by"
 CO: Co. _tremena_
@@ -7705,7 +7705,7 @@ COGN: Lat. _muger_ "dice-cheat", ME _micher_ "thief", OHG _mūhho_ "bandit"
 ETYM: A very dubious etymology, not only because of the difference in meaning, but also in light of the unexpected long \*ū in Celtic.
 REF: [EDPC]
 
-### <a id="mukv">\*muk-V- "smoke" (n)</a>
+### <a id="mukV">\*muk-V- "smoke" (n)</a>
 GOID: MIr. _múch_ [ā f]
 W: MW _mwg_ [m]
 BRET: MBret. _mog_, _moug_ "hearth"
@@ -8088,7 +8088,7 @@ SEE: [\*nu "now"](#nu)
 ETYM: The meaning of the Celtiberian form _nouiza_ (Botorrita III, 1) is far from ascertained, but it may be derivable from \*nowiyā if McCone (2003) is right in positing the change \*-iyV- > \*-iđV- > -izV- in Celtiberian (cf. also PCelt. [\*gab-yo-](#gabyo), which may be attested as Celtib. _kabizeti_ /gabizeti/). Celtib. _nouantubos_ has also been related to this PCelt. etymon (see under [\*nowan­ "nine"](#nowan)). OBret. _neguid_, which is sometimes adduced here, appears to be actually a verbal form (_ne guid_ "does not know"). OBret. _neuidterou_ is probably a plural form of \*neuid-ter "newness".
 REF: [EDPC]
 
-### <a id="noxtv">\*noxtV- "night" (n)</a>
+### <a id="noxtV">\*noxtV- "night" (n)</a>
 GOID: OIr. _innocht_ "tonight"
 W: OW _he-noid_ "tonight", MW _peu-noeth_ "every night"
 BRET: MBret. _hanoez_ "tonight"
@@ -8335,7 +8335,7 @@ SEE: [\*owxso- "above"](#owxso), [\*ana- "breathe"](ana)
 ETYM: OBret. _huan_ "breath", MoBret. _huan_ [m] appear to preserve the underived \*owxsano-, which is an old compound of \*owxso- "high" and \*an-o- "breathe". OIr. _osnad_ points to a variant \*uxs-anatā, cf. also MIr. _osnam_ "sigh, groan" < \*uxs-anamā.
 REF: [EDPC]
 
-### <a id="owxsv">\*owxsV- "high" (adj)</a>
+### <a id="owxsV">\*owxsV- "high" (adj)</a>
 GOID: MIr. _úais_ "high, noble"
 W: MW _uchaf_ "highest"
 CO: Co. _a-ūgh_
@@ -8353,7 +8353,7 @@ CO: Co. _huhel_
 GAUL: _Uxello-dunum_, _Uxama_ [toponyms]
 PIE: \*h₃ewp-s- "high" (IEW: 1107)
 COGN: Av. _upara_- "higher", Gr. _hypsos_ "height, summit", _hypselos_ "high, lofty", Lat. _sup-er_ "above"
-SEE: [\*owxsV- "high"](#owxsv)
+SEE: [\*owxsV- "high"](#owxsV)
 ETYM: This adjective is derived from \*owxsV- "high". Celtic seems to preserve the full grade of the PIE root, while other languages preserve the zero-grade (\*h₃up-). Lat. _s_- in _super_ is secondary (de Vaan 2008: 595).
 REF: [EDPC]
 
@@ -9240,7 +9240,7 @@ COGN: OE _spor_ "footprint", ToB _sprāne_ [dual] "flanks"
 ETYM: MoBret. _fer_ "heel" is a loanword from W. (Deshayes 2003: 232). Gr. _sphyrón_ "ankle(bone)" is probably related, but the aspirate is unexpected. The vowel y in Gr. _sphyrón_ "heel" might be the result of Cowgill's law (_o_ > _y_ between labials and resonants). The reflexes in other IE languages probably justify the reconstruction of a paradigm \*sperh₁- / \*sporh₁-m / \*sprh, -os. Celtic generalized the full grade (\*sperh₁-), while Germanic generalized the zero-grade (PIE \*sprh₁o- > PGerm. \*spura- > OE _spor_). Lubotsky (2006) relates these forms to Skt. _sphuráti_ "kicks away", Lat. _sperno_ "push away, despise" and reconstructs the root \*tsperH- "kick with the heel". The same root might, perhaps, be posited for Skt. _pā́rṣṇi_- "heel", Gr. _ptérna_ "heel", Lat. _perna_ "leg, haunch"(< \*tperH-sneh₂).
 REF: [EDPC]
 
-### <a id="sfiyonv">\*sfiyonV- "foxglove" (n)</a>
+### <a id="sfiyonV">\*sfiyonV- "foxglove" (n)</a>
 GOID: MIr. _síon_ (DIL _sían_)​
 W: OW _fionou_ [p], MW _ffion_ (GPC. _ffion_, _ffuon_) "rose, purple fox-glove"
 BRET: OBret. _fionauc_ gl. _rosarium_
@@ -10093,10 +10093,10 @@ W: MW _chwegr_ [f]
 CO: OCo. _hweger_ gl. _socrus_
 PIE: \*sweḱru-h₂ "mother-in-law" (IEW: 1043f.)
 COGN: Skt. _śvaśrū́_-, Lat. _socrus_, OCS _svekry_, Arm. _skesur_, Alb. _vjehërr_, OHG _sweger_
-SEE: [\*swekrVno- "father-in-law"](#swekrvno)
+SEE: [\*swekrVno- "father-in-law"](#swekrVno)
 REF: [EDPC]
 
-### <a id="swekrvno">\*swekrVno- "father-in-law" (n)</a>
+### <a id="swekrVno">\*swekrVno- "father-in-law" (n)</a>
 W: MW _chwegrwn_ [m]
 CO: OCo. _hwigeren_ gl. _socer_
 SEE: [\*swekrū- "mother-in-law"](#swekru)
@@ -10231,7 +10231,7 @@ COGN: Lat. _tālis_ "such", OCS _toli_ "to such a degree", _toliko_ "so much"
 ETYM: It has been suggested that these Brittonic verbs were borrowed from ON _tal_ "number, count" (cf. also Germ. _Zahl_ "number" and the denominative _zahlen_ "pay"), but they could also be related to Lat. _tāliō_ "exaction of compensation" from PIE \*teh₂li-. We may have to do with an ltalo-Celtic legal term "to pay, exact a compensation" from the PIE root that meant "so much". PCelt. \*tal- must be from the zero-grade \*th₂l- (like OCS _toli_), but Latin _tālis_ implies the full grade \*teh₂l-. OCS _toli(ko)_ may be from the zero- grade \*th₂1-, but it is also possible that its vocalism is analogical to \*koli(ko) "so much" < \*kʷo-l-.
 REF: [EDPC]
 
-### <a id="talskv">\*talskV- "fragment, piece" (n)</a>
+### <a id="talskV">\*talskV- "fragment, piece" (n)</a>
 W: W _talch_ [p] "oatmeal, groats, fragments"
 CO: OCo. _talch_ gl. _furfures_
 PIE: \*telk- "strike, hit" (IEW: 1062)
@@ -10554,7 +10554,7 @@ REF: [EDPC]
 GOID: MIr. _teilm_ [if] (DIL _tailm_)​
 W: MW _telm_ [f] "snare, trap"
 BRET: OBret. _talmorion_ gl. _cum funditoribus_, MBret. and MoBret. _talm_ [f] "sling; a strike of lightning"
-SEE: [\*talskV- "fragment, piece"](#talskv)
+SEE: [\*talskV- "fragment, piece"](#talskV)
 ETYM: A possible proto-form would also be PCelt. \*talx-smi-, from PIE \*telk- "hit, beat" (IEW 1062, see PCelt. \*talskV-). This appears more probable than \*telfsmi- > \*telxsmi- proposed by Hamp (1990a). He interpreted this reconstructed proto-form as "defence" and related it to PIE \*tpol- "defend" (Gr. _pólis_, _ptólis_ "defended settlement> town", etc.).
 REF: [EDPC]
 
@@ -10586,7 +10586,7 @@ REF: [EDPC]
 SEE: [\*tanno- "green oak"](#tanno)
 REF: [EDPC]
 
-### <a id="teterv">\*teterV- "scaldcrow" (n)</a>
+### <a id="teterV">\*teterV- "scaldcrow" (n)</a>
 GOID: MIr. _tethra_
 PIE: \*teter- "a kind of bird" (IEW: 1079)
 COGN: Skt. _tittirá_- "partridge", Lith. _tetervà_ "capercaille", Gr. _tetráōn_ "capercaille"
@@ -10775,7 +10775,7 @@ COGN: Lat. _ridica_ "vine prop", Gr. _ereídō_ "support"
 ETYM: de Vaan (2008: 522) claims that the connection of Lat. _ridica_ and Gr. _ereídō_ is "very uncertain". This should also apply to the etymology presented here. If the etymology is correct, we would have to reconstruct a root noun \*h₁reyd- / \*h₁rid-os, with Celtic preserving the zero-grade of the root from the oblique cases. Of course, this is just a speculation.
 REF: [EDPC]
 
-### <a id="torrv">\*torrV- "belly" (n)</a>
+### <a id="torrV">\*torrV- "belly" (n)</a>
 GOID: MIr. _tarr_, _tair_ [u or i, m]
 W: OW _torr_ gl. _palma_, MW _tor_ [f] "belly"
 BRET: OBret. _tar_ gl. _ventrem_, MBret. _torr_, _teur_, MoBret. _tor_ [m] "abdomen"
@@ -10971,7 +10971,7 @@ BRET: OBret. _trom_, _trum_ gl. _inoportune_
 CO: Co. _trom_
 PIE: \*trewd- "thrust, press" (IEW: 1095f.)
 COGN: Lat. _trudo_ "thrust, push", Go. _us-þriutan_ "to maltreat", OCS _trudo_ "trouble", perhaps also Alb. _tredh_ "castrate"
-ETYM: The Celtic forms can be derived from \*trud-smo-, or maybe \*trud-mo- (but \*-dm- is preserved in [\*dedmV- "rite"](#dedmv)). Another possibility is Ramp's (1984: 138) \*truks-mo- > \*truxsmo-, cf. W _trwch_ "thickness" < \*trukso- (cf. PCelt. [\*truk- "trunk, broken part"](#truk)). Germ. dial. (Bavaria) _Trumm_ "great piece, chunk" (Kluge, s.v. _Trümmer_) may be a loanword from Gaulish.
+ETYM: The Celtic forms can be derived from \*trud-smo-, or maybe \*trud-mo- (but \*-dm- is preserved in [\*dedmV- "rite"](#dedmV)). Another possibility is Ramp's (1984: 138) \*truks-mo- > \*truxsmo-, cf. W _trwch_ "thickness" < \*trukso- (cf. PCelt. [\*truk- "trunk, broken part"](#truk)). Germ. dial. (Bavaria) _Trumm_ "great piece, chunk" (Kluge, s.v. _Trümmer_) may be a loanword from Gaulish.
 REF: [EDPC]
 
 ### <a id="trussko">\*trussko- "dirty, leprous" (adj)</a>
@@ -11630,7 +11630,7 @@ COGN: OHG _wini_ "friend"
 ETYM: The same root is attested in OIr. _fingal_ "slaying of a relative" (\*weni-galā); cf. also the parallel compound PNs OIr. _Finchar_, OW _Guncar_, Gaul. _Uenicarus_ < \*weni-kar-o-. Some authors interpret Lepontic _uenia_ as "family" and derive it from the same root (cf McCone 2006: 28, Solinas 1995: 372f.).
 REF: [EDPC]
 
-### <a id="werv">\*wer-V- "find" [Verb]</a>
+### <a id="werV">\*wer-V- "find" [Verb]</a>
 GOID: OIr. -_fúar_ [prt.]; _fo-fríth_ "was found" [pass. prt.]
 PIE: \*werh₁- "find" (IEW: 1160)
 COGN: Gr. _heurískō_, Arm. _gerem_ "take prisoner"
@@ -12059,7 +12059,7 @@ SEE: [\*wekʷo- "face"](#wekwo)
 ETYM: OIr. _focal_, _focul_ [o n] is presumably a Latin loanword (Lat. _uocābulum_; inherited \*woxtlo- would have given \*\*fochtul). The same root (\*wokʷ-) appears in OIr. _an-ocht_ "a metrical fault" < PCelt. [\*an-uxto-](#anuxto) < \*n-ukʷto-, parallel to Skt. _anukta_-.
 REF: [EDPC]
 
-### <a id="woxsv">\*woxs-V- "wasp" (n)</a>
+### <a id="woxsV">\*woxs-V- "wasp" (n)</a>
 W: MW _gwychi_ [p] (GPC _gwychi_, _gwchi_)​
 BRET: OBret. _guohi_ gl. _fucos_
 CO: OCo. _guhi-en_ [sing.] gl. _uespa_
@@ -12262,7 +12262,7 @@ COGN: Hitt. _is(sa)na_- "dough", Skt. _yásyati_ "boils", Gr. _zéō_ "boil", To
 ETYM: Gaul. PN _Iestinus_ might be related to this root, cf. also Gallo-Lat. _esta_ "foam" and MoBret. _go_ "boiled", if from \*ufo-yes-o-, MBret. _goaff_, MoBret. _goiñ_ "boil, digest".
 REF: [EDPC]
 
-### <a id="yextv">\*"yextV- "speech, language" (n)</a>
+### <a id="yextV">\*"yextV- "speech, language" (n)</a>
 GOID: MoIr. _icht_ [?u m] "people, tribe"
 W: MW _ieith_ [f] "language, nation, race" (GPC iaith)​
 BRET: MBret. _yez_, MoBret. _yezh_ [f] "language"
@@ -12342,7 +12342,7 @@ COGN: Lat. _iūs_ "justice, right", Av. _yaoš_
 ETYM: Willi (2002) argues against this etymology and relates OIr. _uisse_ to Lat. _iūbeo_ "order" (PIE \*Hyewdʰ-). If this is correct, OIr. _uisse_ would be derivable from \*(H)yudʰtyo- > PCelt. \*yussyo-, and ultimately from the past passive participle (\*(H)yudʰto-). If the original meaning of this root in Celtic was "to order", \*yussyo- would be "what is ordered", i.e. "just". Possible other reflexes of PIE \*(H)yudʰ- include elements of personal names, e.g. OW _Mor-iud_ and OBret. _Iud-nimet_, as well as W _udd_ "lord" (but Lambert 1994a: 227f. derives these from Lat. _iudex_ "judge").
 REF: [EDPC]
 
-### <a id="yutv">\*yutV- "pap, porridge" ()</a>
+### <a id="yutV">\*yutV- "pap, porridge" ()</a>
 GOID: OIr. _íth_ gl. _puls_
 W: OW _iot_, MW _iwt_, _iwd_ (GPC _uwd_)​
 BRET: MBret. _yot_, _iot_, MoBret. _yod_ [m]
