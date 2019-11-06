@@ -6147,7 +6147,7 @@ REF: [EDPC]
 
 ### <a id="kwo">\*kʷo- "to" (prep)</a>
 GOID: OIr. _co_ [geminating, +acc.]
-W: MW _py_ (GPC _pwy_)
+W: MW _py_ (GPC _pwy_)​
 PIE: \*kʷo- [Prep.] (IEW: 613)
 COGN: OCS _kъ_ "to"
 REF: [EDPC]
@@ -7015,7 +7015,7 @@ GOID: OIr. _már_, _mór_ [o]
 W: OW _maur_, MW _mawr_
 BRET: OBret. _mor_, MoBret. _meur_
 CO: OCo. _maur_ gl. _magnus_, MCo. _mur_
-GAUL: -_maros_ (in PN, e.g. _lantumarus_)
+GAUL: -_maros_ (in PN, e.g. _lantumarus_)​
 LEP: _Latu-marui_ [PN] (Omavasso)​
 PIE: \*meh₁-, \*moh₁-ro- "great" (IEW: 704)
 COGN: OHG _māri_ "news; known, famous, great", Gr. -_mōros_ (in compounds)​
@@ -7308,7 +7308,7 @@ REF: [EDPC]
 
 ### <a id="merwi">\*merwi- "lifeless" (adj)</a>
 GOID: OIr. _meirb_ [i]
-W: MW _merw_ "limp, lifeless" (GPC _merf_)
+W: MW _merw_ "limp, lifeless" (GPC _merf_)​
 PIE: \*mer- "die", \*mer-wo- "lifeless" (IEW: 736)
 COGN: OHG _maro_, _marawi_ "tender, soft", Gr. _maraínō_ "destroy, quench", Croat. _mrva_ "crumble"
 ETYM: Fr. (dial.) _marv_ "rigid, insensible" is from the Gaulish cognate of these words, cf. Delamarre 219.
@@ -7813,7 +7813,7 @@ ETYM: Lambert (1994: 168) speculates that this PCelt. word might be contained in
 REF: [EDPC]
 
 ### <a id="nawa">\*nāwā "boat" (n)</a>
-GOID: OIr. _nau_ [ā f] (DIL _nó_)
+GOID: OIr. _nau_ [ā f] (DIL _nó_)​
 W: MW _noe_ [f and m] "large vase, bowl"
 BRET: MBret. _neau_, _nev_, MoBret. _new_ [f] "vase"
 PIE: \*neh₂u- "boat" (IEW: 755f.)
@@ -9047,7 +9047,7 @@ REF: [EDPC]
 
 ### <a id="sego">\*sego- "force" (n)</a>
 GOID: MIr. _seg_ [o m] (DIL _sed_, _seg_) "strength, heed, interest, an equal"
-W: MW _hy_ "bold, brave" (GPC _hŷ_, _hyf_)
+W: MW _hy_ "bold, brave" (GPC _hŷ_, _hyf_)​
 GAUL: _Sego-maros_ [PN], perhaps _Segestica_ [toponym]
 LEP: _seχeθu_ (?) "Lepontic coin"
 CELTIB: _Segouia_ (?) [toponym], _Sekobirikez_ [abl.sg., toponym] (A8)
