@@ -12173,3 +12173,180 @@ PIE: ?\*ksweybʰ- "make a swift movement" (IEW: 1041 (\*swey-))
 COGN: Skt. _kṣipáti_ "throw", OCS _šibati_ "to whip"
 ETYM: Sanskrit -_p_- is puzzling. It may be the result of assimilation to the initial _k_-. OE _swápan_ "sweep" and its Germanic cognates may be derived from the same root, if we assume that \*xsw- > \*sw-. In any case, the form of the PIE root is highly unusual, perhaps onomatopoetic.
 REF: [EDPC]
+
+## Y
+
+### <a id="yalo-1">\*yalo- "clearing" (n)</a>
+W: MW _ial_ (GPC _iâl_)​
+GAUL: _Eburo-ialum_ (> _Ebreuil_), _Verno-ialum_ (_Verneuil_) [toponyms]
+ETYM: Cf. also MW _an-ial_ "wasteland". Pokorny's (IEW: 504f.) comparison with PSl. \*jalъ "waste, bare, unfruitful" (Russ. _jálovyj_, _jályj_, Cz. _jalový_) is possible under the assumption that PIE \*yHC- would be reflected as PCelt. \*yal- rather than \*īl-. For the possibility that \*wHC- likewise gives PCelt. \*waC- rather than \*ūC- cf. PCelt. [\*waxto- "bad"](#waxto).
+REF: [EDPC]
+
+### <a id="yalo-2">\*yālo- "praise, worship" (n)</a>
+GOID: OIr. _áil_, _ál_ "request, act of asking"
+W: MW _iawl_ [?f] "prayer, supplication, worship"
+PIE: \*(H)yeh₂lo- "zeal" (IEW: 501)
+COON: Gr. _zē̃los_ "zeal", Croat. _jal_ "envy"
+ETYM: OIr. _áil_ is usually used with the copula in phrases such as _is áil do_... "it is desirable to...", cf. also the denominative verb _áilid_ "wishes". Cf. also OBret. _iolent_ [3pl.] gl. _precentur_, W _iolaf_ "praise".
+REF: [EDPC]
+
+### <a id="yano">\*yāno- "true, noble" (adj)</a>
+GOID: OIr. _án_ [o] "true, just"
+W: MW _iawn_ "true, just"
+BRET: OBret. _ion_, _eunt_, MBret. _effn_
+CO: OCo. _eun-hinsic_ gl. _iustus_, MCo. _ewn_
+ETYM: OIr. _án_ "ardent, splendid" might or might not be a different word. In OBret. both _eunt_ and _ion_ are found with the same meaning; _ion_ seems to be the older form. IE etymology is uncertain. Connection with PIE \*h₂eh₁- "be hot" (so reconstructed in LIV, cf. Pal. _hāri_, Av. _ātr_- "fire", IEW 68) appears possible for OIr. _án_ "ardent", but not for the Brittonic words, which must be from PCelt. \*yano-.
+REF: [EDPC]
+
+### <a id="yanti">\*yāntī "place" (n)</a>
+GOID: OIr. _áit_ [?ī f], _áitt_ (DIL)
+PIE: \*yeh₂- "ride, go" (IEW: 296)
+COON: Skt. _yā́ti_ "rides", Lith. _jóti_ "ride", OCS _jaxati_
+SEE: [\*yātu- "ford"](#yatu)
+ETYM: The usual derivation of OIr. _áit_ from PIE \*pōntH- "bridge, path" is not convincing, since the long \*ō is unjustified. Bammesberger's (1998) proposal to derive _áit_ from a vṛddhi formation \*pōtniyā "belonging to a female ruler", \*potnī) is also quite unconvincing from the semantic point of view. The etymology proposed here is also provisory because of semantic difficulties. PCelt. \*yāntī- would be the feminine form of the active participle of the verb \*yeh₂- (cf. OIr. _birit_ "sow" < \*bʰerontih₂) . Note, however, that participles in \*-nt- sometimes have passive, rather than active meaning in Celtic, cf. OIr. _méit_ "size, quantity" < \*mh₁ntih₂ (the root is PIE \*meh₁- "to measure"). In the one case, the semantic development is "the measured amount" > "amount" > "size, quantity", in the other case it would be from "the traversed area" to "area" and "place".
+REF: [EDPC]
+
+### <a id="yantu">\*yantu- "zeal, jealousy" (n)</a>
+GOID: OIr. _ét_ [o m] gl. _aemulatio_ "emulation, jealousy"
+W: MW _add-iant_, _add-iat_ [m] "wish"
+PIE: \*yet- "to place oneself firmly, establish oneself" (IEW: 506)
+COGN: Skt. _yátate_ "put in place, line up", Lat. _nītor_ "to strive", ToA _yatatär_ "is capable"
+ETYM: Gaulish name _Iantumarus_ has an exact correspondance in MIr. _étmar_ "jealous". The nasal is lost in the Gaul. PN _Ad-ietumarus_. It is probably analogical, introduced from the n-presents (although the verb from this root is unattested in Celtic). The etymology relating these Celt. words to Skt. _yátate_, Lat. nītor < \*ni-yet-, etc., has been doubted on semantic grounds; it is not even mentioned by Mayrhofer and by LIV (277). Another possibility is to derive PCelt. \*yantu- from PIE \*yeh₂- "desire, wish, beg" (IEW 501, LIV 274, A. Lubotsky, p.c.), cf. Skt. _yā́mi_ "I ask". Original \*yāntu- may have developed to \*yantu- by Osthoff-like shortening.
+REF: [EDPC]
+
+### <a id="yaro">\*yaro- "chicken, hen" (n)</a>
+W: OW _iar_, MW _yar_, _iar_ [f] (GPC _iâr_, _giâr_); _ieir_, _gieir_ [p]
+BRET: MBret. _yar_ [f]
+CO: OCo. _yar_ gl. _gallina_, Co. _yar_
+GAUL: _Iaros_ [PN]
+ETYM: MIr. _eirin(e)_ "chicken" is related to these words, but details are unclear. All of these words might be related to Lat. _pīpio_ "to cheep", Skt. _píppakā_- "a species of bird" and derived from something like \*pipero- > PCelt. \*fifero-. Of course, with such onomatopoetic roots, any comparison can be accidental.
+REF: [EDPC]
+
+### <a id="yas">\*yās "chariot" (n)</a>
+GOID: OIr. _á_; _aaib_ gl. _axibus_ [dat.pl.]
+PIE: \*yeh₂- "ride, go"(IEW: 296)
+COGN: Skt. _yā́ti_ "rides", Lith. _jóti_ "ride"
+SEE: [\*yātu- "ford"](#yatu)
+ETYM: If this etymology is correct, OIr. _á_ is an archaic root-noun derived directly from the PIE verbal root \*yeh₂ "to go".
+REF: [EDPC]
+
+### <a id="yatu">\*yātu- "ford" (n)</a>
+GOID: OIr. _áth_ [u m]
+PIE: \*yeh₂ "ride, go" (IEW: 296)
+COGN: Skt. _yā́ti_ "rides", Lith. _jóti_ "ride"
+SEE: [\*yāntī "place"](#yanti)
+REF: [EDPC]
+
+### <a id="yegi">\*yegi- "ice" (n)</a>
+GOID: OIr. _áig_ [i f]
+W: MW _ia_ [m] (GPC _iâ_)​
+BRET: MBret. _yen_ "cold", MoBret. _yein_
+CO: OCo. _iein_ gl. _frigus_; _iey_ gl. _glacies_
+GAUL: \*yegōnia > Fr. _Jouanne_, _Jogne_ [hydronyms]
+PIE: \*yeg- "ice" (IEW: 503)
+COGN: Hitt. _eka_- "cold, frost, ice", ON _jaki_, Wakhi _yaz_ "glacier"
+ETYM: MBret. _yen_ and OCo. _iein_ are from \*yeg-no-, a derivative of the same root.
+REF: [EDPC]
+
+### <a id="yemono">\*yemono- "twin" (n)</a>
+GOID: MIr. _emon_ [o m] "twin, a pair (or triplet) born at one birth"
+PIE: \*yem(H)o- "twin" (IEW: 505)
+COGN: Skt. _yamá_-, Lat. _geminus_, Latv. _jùmis_ "pair"
+ETYM: Celtic shares the derivation by means of the suffix \*-no- with Latin. The initial _g_- in Lat. is irregular, probably by analogy with _genus_ "offspring".
+REF: [EDPC]
+
+### <a id="yestu">\*yestu- "boiling" (n)</a>
+GOID: MIr. _es(s)_ [u m] "cataract, stream"
+W: MW _ias_ [f and m] "boiling"
+PIE: \*(H)yes- "boil" (IEW: 506)
+COGN: Hitt. _is(sa)na_- "dough", Skt. _yásyati_ "boils", Gr. _zéō_ "boil", ToA _yäs­_ "boil, excite sexually", OHG _jesan_ "to foam, ferment"
+ETYM: Gaul. PN _Iestinus_ might be related to this root, cf. also Gallo-Lat. _esta_ "foam" and MoBret. _go_ "boiled", if from \*ufo-yes-o-, MBret. _goaff_, MoBret. _goiñ_ "boil, digest".
+REF: [EDPC]
+
+### <a id="yextv">\*"yextV- "speech, language" (n)</a>
+GOID: MoIr. _icht_ [?u m] "people, tribe"
+W: MW _ieith_ [f] "language, nation, race" (GPC iaith)​
+BRET: MBret. _yez_, MoBret. _yezh_ [f] "language"
+CO: Co. _yēth_
+PIE: \*yek- "say, speak" (IEW: 503f.)
+COGN: OHG _jehan_ "speak", Lat. _iocus_ "joke"
+ETYM: The stem and gender of Early MoIr _icht_ are uncertain (it is a rare word). If it was a feminine i-stem, then the PCelt. reconstruction \*yexti­ would be probable. A possible Gaulish cognate of these Insular Celtic forms is found in the inscription on the Châteaubleau tile (Lambert 1998-2000), where on line 2 we read _iexsetesi_, which might mean "you will say" (McCone 2006: 101). This might be the 2pl. future of a denominative verb from the root \*yext-. Skt. _yā́cati_ "ask, solicite, entreat" is unrelated (LIV, s.v. \*yek-).
+REF: [EDPC]
+
+### <a id="yo">\*yo "which" [Relative particle]</a>
+GAUL: _dugiionti-io_ "who worship(?)" (Alise St. Reine)​
+CELTIB: _iom_ [acc.sg.]; _iomui_ [dat.sg.]; _ios_ [nom.sg.] (Botorrita I)
+PIE: \*yo- "which" (IEW: 283)
+COGN: Skt. _ya_-, Gr. _hós_
+ETYM: In OIr. the relative pronoun is preserved as the aspiration of the verbal root in leniting relative clauses, chiefly with subject antecendents (see Schrijver 1997: 105). PIE \*yo- may be a thematicized formation from the demonstrative stem \*h₁ey- (Lat. _is_, _ea_, _id_), in which case the correct PIE reconstruction is \*h₁yo-.
+REF: [EDPC]
+
+### <a id="yorko">\*yorko- "roebuck" (n)</a>
+W: MW _iwrch_ [m]; _(i)yrch_, _ywrchod_ [p]
+BRET: OBret. _iorch_ gl. _caprea_, MBret. _yourch_, MoBret. _yourc'h_ [m]
+CO: OCo. _yorch_ gl. _caprea_
+GAUL: _iorkos_ "roebuck" (probably Galatian)​
+PIE: \*(H)yorko- "goat" (IEW: 513)
+COGN: Gr. _zórks_ "gazelle, roedeer"
+ETYM: The vowel of W _iwrch_ is unexplained. It would be regular in the plural, as the result of raising, so perhaps the stem of the plural was generalized. The attested plural _(i)yrch_ then must be analogical.
+REF: [EDPC]
+
+### <a id="yowanko">\*yowanko- "young" (adj)</a>
+GOID: OIr. _óac_ [o], _óc_ (DIL)
+W: MW _ieuanc_ (GPC _ieuanc_, (-_ng_), _ifanc_, _iefanc_)​
+BRET: MBret. _youanc_, MoBret. _yowank_
+CO: OCo. _iouenc_, MCo. _yo(wy)nk_
+GAUL: _Iouinc-illus_, _Iouinca_ [PN]
+PIE: \*h₂yuh₁-nk-o- "young" (IEW: 510)
+COGN: Skt. _yuvaśá_- "young", Lat. _iuuencus_ "young cow", OE _geong_ "young"
+ETYM: The change of (Early PCelt.) \*yuwanko- to \*yowanko- is regular, cf. \*supno- "sleep" > \*suwno- > \*sowno- (OIr. _súan_). PIE \*h₂yuh₁nḱ-o- is a derivative from \*h₂yu-h₁en- "young, possessing vital force" (Lat. _iuuenis_, Skt. _yúvan_-, Lith. _jáunas_, and OCS _junъ_). The root is \*h₂oyu- "vital force, lifetime" (Skt. _ā́yu_-), cf. also the parallel formations of OIr. _oítiu_ [d f] "youth" and Lat. _iuuentūs_ < \*h₂yu-h₁n-tuHt-.
+REF: [EDPC]
+
+### <a id="yowni">\*yownī "time, opportunity" (n)</a>
+GOID: OIr. _úain_ [ī f] "opportunity, time, period, reign"
+PIE: \*yowni- "seat, place" (IEW: 512)
+COGN: Skt. _yóni_- "seat, home, womb"
+ETYM: Since it is limited to just two branches (Celtic and Indo-Iranian), and the meanings do not match completely, this is a conjectural etymology. If true, it presupposes that the meaning "place" was changed to "right place and time, opportunity" in Celtic. But note that Vendryès considers uain to be a by-form of _óin_, which is the verbal noun of _oidid_ "lends, grants". If this is correct, the original meaning of _úain_ would have been "leisure, free time".
+REF: [EDPC]
+
+### <a id="yoyni">\*yoyni- "rushes, reed" (n)</a>
+GOID: MIr. _áin_ [?i, gen.sg. _áine_]
+PIE: \*yoyni- "reed" (IEW: 513)
+COGN: Lat. _iuncus_, ON _einir_ "juniper"
+ETYM: Lat. _iuncus_ represents \*yoyni-ko-, while the underived i-stem seems to be preserved in OIr. Cf. also Lat. _iūniperus_ "juniper-berry". The shape of this PIE root and its distribution only in western dialects suggests that it is a loanword from some non-IE source.
+REF: [EDPC]
+
+### <a id="yugo">\*yugo-"yoke" (n)</a>
+GOID: MIr. _cuing_ [i f]
+W: OW _iou_, MW _iau_, _yeu_ [f and m]
+BRET: MBret. _yeu_, _ieo_, MoBret. _yew_ [f]
+CO: Co. _ieu_, _yew_
+GAUL: _Ver-iugus_ [PN]
+PIE: \*yugo- "yoke" (IEW: 508f.)
+COGN: Hitt. _iukan_, Skt. _yugá_-, Gr. _zygón_, Lat. _iugum_, OCS _igo_, Lith. _jùngas_, Go. _juk_, Arm. _luc_
+ETYM: The Brittonic forms might be borrowings from Lat. _iugum_, while OIr. _cuing_ presupposes \*kom-yungi-, with \*-n- from the present tense of the verbal stem (cf. Lith. _jùngas_), but the verb is unattested in Celtic.
+REF: [EDPC]
+
+### <a id="yusko">\*yūsko-, \*yusko- "soup, broth" (n)</a>
+GOID: MIr. _úsc_, _úsca_ "lard, fat"
+W: MW _isgell_ [m] "soup"
+CO: OCo. _iskel_ gl. _ius_, Co. _isgal_
+PIE: \*yuHs- "broth" (IEW: 507)
+COGN: Skt. _yūṣ_-, Lat. _ius_, OCS _juxa_
+ETYM: The Brit. words might be loanwords from Lat. (so in GPC, but Lat. \*iūscellum, the alleged source of these words according to GPC, is not attested; the closest match is _iusculum_ (OLD, s.v.) which means "broth" and is scarcely attested in the whole Lat. corpus).
+REF: [EDPC]
+
+### <a id="yustyo">\*yustyo- "just" (adj)</a>
+GOID: OIr. _uisse_ [io]
+PIE: \*yows- "right, regular" (IEW: 512)
+COGN: Lat. _iūs_ "justice, right", Av. _yaoš_
+ETYM: Willi (2002) argues against this etymology and relates OIr. _uisse_ to Lat. _iūbeo_ "order" (PIE \*Hyewdʰ-). If this is correct, OIr. _uisse_ would be derivable from \*(H)yudʰtyo- > PCelt. \*yussyo-, and ultimately from the past passive participle (\*(H)yudʰto-). If the original meaning of this root in Celtic was "to order", \*yussyo- would be "what is ordered", i.e. "just". Possible other reflexes of PIE \*(H)yudʰ- include elements of personal names, e.g. OW _Mor-iud_ and OBret. _Iud-nimet_, as well as W _udd_ "lord" (but Lambert 1994a: 227f. derives these from Lat. _iudex_ "judge").
+REF: [EDPC]
+
+### <a id="yutv">\*yutV- "pap, porridge" ()</a>
+GOID: OIr. _íth_ gl. _puls_
+W: OW _iot_, MW _iwt_, _iwd_ (GPC _uwd_)​
+BRET: MBret. _yot_, _iot_, MoBret. _yod_ [m]
+CO: OCo. _iot_ gl. _puls_, Co. _yôs_
+ETYM: Gallo-Lat. _iutta_, _iotta_ "a kind of soup, porridge" is presumably borrowed from the Gaulish equivalent of these Insular Celtic words. The long _í_ in OIr. is analogical, probably having developed under the influence of _íth_ "fat" (GOI 39), or _ithid_ "eats". It is not well attested, so that its gender and stem are unknown (DIL). The alternation of \*o and \*u in Brittonic perhaps points to PCelt. variant forms with various vowels in the final syllable. Perhaps we should reconstruct both \*yuti- and \*yuto-. Pokorny's PIE etymology (p. 507), relating these words to PIE \*yewH- "soup, broth" (Gr. zyme, OCS juxa, etc.) is unconvincing from both formal (no trace of laryngeal in Celtic) and semantic point of view (but cf. PCelt. \*yūsko-, \*yusko- "soup, broth"). In all probability, this word is a loanword from some non-IE source.
+REF: [EDPC]
