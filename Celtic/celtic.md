@@ -608,7 +608,7 @@ GOID: OIr. _art_ [o m] "bear, hero, warrior"
 W: MW _arth_ [m and f]
 BRET: OBret. _Ard-, Arth_-, MoBret. _arzh_ [m]
 GAUL: _Artio_ [theonym]
-PIE: \*h₂rtko- "bear" (IEW: 845)
+PIE: \*h₂rtḱo- "bear" (IEW: 845)
 COGN: Hitt. _hartagga_-, Skt. _ŕ̥kṣa_-, Gr. _árktos_, Lat. _ursus_, Alb. _arí_
 ETYM: Basque _hartz_ "bear" is presumably a Celtic loanword. The development of the syllabic resonant \*r > _ar_ before a stop is probably to be explained by assuming a special development of the cluster \*tḱ (to \*þ or \*xþ) and that this cluster behaved like the fricative \*s when the syllabic resonant developed vocalic prothesis (but cf. PCelt. \*mrixto-, which shows that original, non metathesised \*kt was preserved in Celtic until the development of the prothesis in syllabic resonants). Thus we had \*h₂rtḱos > \*(H)rxþos > \*arxþos > \*artos, but \*mrktos > \*mriktos > \*mrixtos. Another, in my opinion less probable explanation, would involve positing a special rule \*h₂rC > \*arC before CRC > CriC (Joseph 1982: 50f.).
 REF: [EDPC]
