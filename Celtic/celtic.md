@@ -12162,3 +12162,14 @@ PIE: \*wlh₂no- "wool" (IEW: 1139)
 COGN: Hitt. _hulana_-, Skt. _ū́rṇā_-, Lat. _lāna_, Gr. _lē̃nos_, Go. _wulla_, Lith. _vìlna_, OCS _vlъna_
 ETYM: Some authors think that OIr. _olann_ is a loanword from Brittonic (e.g. Falileyev, p. 70), which I find unlikely. The word initial _o_- in OIr. can be explained if we start from \*ulanā, with a different syllabification than in Brittonic, which reflects \*wlano-; we should probably reconstruct both a feminine \*ulanā and a neuter \*wlano- for Proto-Celtic (the feminine being an old collective), see Matasović 2005: 128. Hittite _h_- is the result of metathesis; there is no other evidence for the word-initial laryngeal in PIE.
 REF: [EDPC]
+
+## X
+
+### <a id="xswibi">\*xswib-ī- "move, recede" (v)</a>
+GOID: MIr. _scibid_, -_scibi_
+W: MW _chwyfu_ (GPC _chwifio_, _chwyfio_, _chwyfu_, _chwyfan_)​
+BRET: MBret. _fifual_, MoBret. _fiñval_ "move"
+PIE: ?\*ksweybʰ- "make a swift movement" (IEW: 1041 (\*swey-))
+COGN: Skt. _kṣipáti_ "throw", OCS _šibati_ "to whip"
+ETYM: Sanskrit -_p_- is puzzling. It may be the result of assimilation to the initial _k_-. OE _swápan_ "sweep" and its Germanic cognates may be derived from the same root, if we assume that \*xsw- > \*sw-. In any case, the form of the PIE root is highly unusual, perhaps onomatopoetic.
+REF: [EDPC]
