@@ -118,7 +118,6 @@ SEE: [\*adestu- "merit"](#adestu)
 ETYM: The reconstruction of the PCelt. form is based on the assumption that OIr. _ada_ "legal" is actually the genitive singular of _ad_, which might not be the case. W _addas_ "convenient, worthy of" presumably represents a derivative \*adestu-, parallel to OIr. _adas_ "lawful, just".
 REF: [EDPC]
 
-
 ### <a id="ag">\*āg-V- "fear" (v)</a>
 GOID: OIr. -_ágadar, ni-ágathar_
 PIE: \*h₂egʰ- "be afraid" (IEW: 7)
