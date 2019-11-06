@@ -836,7 +836,7 @@ COGN: Lat. _ōuum_, Gr. _ōión_, Av. _aēm_ [acc.sg], OCS _ajъce_, Russ. _jajc
 ETYM: The OIr. word for "egg", _og_ [s n, later m and f] probably does not belong here (some consider it to be a loanword from Brittonic). PIE \*h₂ōwyo- is a vṛddhi derivative from \*h₂ewi- "bird" (Skt. _váy_-, Lat. _auis_, Gr. _aietós_ "eagle", etc.). MW _hwyat_ "duck" and MBret. _houat_ "duck" are sometimes derived from the same PIE root, but the initial _h_- (< PIE \*s-) is unclear, so I doubt whether this etymology is correct.
 REF: [EDPC]
 
-### <a id="">\*axsi- "back" (n)</a>
+### <a id="axsi">\*axsi- "back" (n)</a>
 SEE: [\*axsila "axis"](#axsila)
 REF: [EDPC]
 
