@@ -6538,7 +6538,7 @@ ETYM: MoBret. _liac'h_ "stone" is a borrowing from Goidelic. It. _lava_ "lava", 
 REF: [EDPC]
 
 ### <a id="liwo-1">\*līwo- "stream" (n)</a>
-SEE: [\*li-yo- "flow"](#liyo)
+SEE: [\*li-yo- "flow"](#liyo-2)
 REF: [EDPC]
 
 ### <a id="liwo-2">\*liwo- "color" (n)</a>
