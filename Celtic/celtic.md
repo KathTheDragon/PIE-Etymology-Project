@@ -6551,11 +6551,11 @@ COGN: Lat. _līuor_, _līuidus_, OCS _sliva_ "plum", OE _slāh_ "sloe"
 ETYM: OIr. _lí_ is often indeclinable. Gaul. _Lionus_ [PN] may be derivable from the same root (Delamarre).
 REF: [EDPC]
 
-### <a id="#liyant">\*liy-ant- "flood" (n)</a>
+### <a id="liyant">\*liy-ant- "flood" (n)</a>
 SEE: [\*liy-o- "flow"](#liyo)
 REF: [EDPC]
 
-### <a id="#liyo">\*liy-o- "charge, accuse" (v)</a>
+### <a id="liyo-1">\*liy-o- "charge, accuse" (v)</a>
 GOID: OIr. _liid_, -_lí_; _líthae_, -_líth_ [pass.] "accuses"
 PIE: \*sleyH- "accuse" (IEW: 650f.)
 COGN: Lat. _līs_, _lītis_ "strife, accusation"
@@ -6563,7 +6563,7 @@ SEE: [\*līti-(āko)- "accused"](#litiako)
 ETYM: Perhaps related is Celtib. _litom_ (?) "what is permitted" (Botorrita I), cf. Meid 1994a: 17f. However, this Celtib. form allows many other etymological interpretations including, e.g., PCelt. \*lixtom < \*likʷ-to- (from the root \*leykʷ- "to leave", Lat. _linquo_, OIr. _léicid_, etc.).
 REF: [EDPC]
 
-### <a id="#liyo-2">\*liy-o- "flow" (v)</a>
+### <a id="liyo-2">\*liy-o- "flow" (v)</a>
 W: MW _dillydd_ [3s.prs.]
 PIE: \*leyH- "flow" (IEW: 664f)​
 COGN: OCS _liti_, Lith. _líeti_
@@ -6571,7 +6571,7 @@ SEE: [\*līno- "flow, flood"](#lino)
 ETYM: W _dillydd_ < \*dī-exs-liy-o- (the simplex verb is unattested). Derived from the same root are W _lli_, _llif_ [m] Co. _lyf_, "stream, flow" (< \*līwo-). OIr. _li(a)e_ "flood" and W _lliant_ "flood, flux" can be old present participles of this verbal root (PCelt. \*liy-ant-).
 REF: [EDPC]
 
-### <a id="#loferno">\*loferno- "fox" (n)</a>
+### <a id="loferno">\*loferno- "fox" (n)</a>
 W: MW _llewyrn_ [coll., sometimes m] "foxes", W _llwyrn_, _llwyrn_ "will­ o'-the-wisp, _ignis fatuus_"
 BRET: MBret. _louarn_, MoBret. _louarn_, _lowern_ [m]
 CO: OCo. _louuern_ gl. _vulpes_, Co. _lowarn_
