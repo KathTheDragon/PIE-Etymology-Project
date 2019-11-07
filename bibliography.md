@@ -22,7 +22,9 @@ Derksen:
 <a id="Martirosyan-2010">Martirosyan 2010</a> - Etymological Dictionary of the Armenian Inherited Lexicon
 
 
-<a id="Matasovic-2009">Matasović 2009</a> - Etymological Dictionary of Proto-Celtic
+Matasović:
+<a id="Matasovic-2009">2009</a> - Etymological Dictionary of Proto-Celtic
+<a id="Matasovic-2011">2011</a> - [_Addenda et Corrigenda_ to EDPC](https://www.academia.edu/1489376/Addenda_et_Corrigenda_to_Etymological_Dictionary_of_Proto-Celtic_Brill_Leiden_2009_)
 
 
 <a id="Mayrhofer-1992">Mayrhofer 1992</a> - Etymologisches Wörterbuch des Altindoarischen
