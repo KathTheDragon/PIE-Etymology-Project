@@ -4050,7 +4050,7 @@ SEE: [\*gli-na- "glue"](#glina)
 ETYM: The gender and stem-formation of MIr. _gláed_ are uncertain. It is possible that the Brit. words were actually borrowed from Lat. _gluten_ (Haarmann 1970: 122). Cf. also Fr. _glaise_ "clay" which may be from Gaul. \*glēssā < \*gleyd-tā (Gamillscheg 480).
 REF: [EDPC]
 
-### <a id="gloywo">\*gloywo-, \*glewi- "liquid, clear" (adj)</a>
+### <a id="gloywo">\*gloywo-, \*glēwi- "liquid, clear" (adj)</a>
 GOID: OIr. _glé_ "clear, evident"
 W: OW _gloiu_ [m] gl. liquidum, MW _gloyw_, _gloew_
 BRET: OBret. _gloeu_
