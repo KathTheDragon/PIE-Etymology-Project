@@ -2822,8 +2822,8 @@ GAUL: _Eburo-dunum_ [toponym]\
 CELTIB:? _Ebur-sunos_ [PN]\
 PIE: \*h₁ebʰro- "yew" (IEW: 334)\
 COGN: Germ. _Eber-esche_, Alb. dial. _bershe_ \
-SEE: [\*yewo- "yew"](#yewo)\
-ETYM: Cf. also Fr. _bourdaine_ (Fr. dial. _bourdaigne_, OFr. _borjaine_) "alder", perhaps from Gaul. \*eburyenā (Gamillscheg 136). PCelt. \*eburo- should not be confused with PCelt. \*yewo-, as in EIEC 654. Derivation from PIE \*h₁erbʰ- "dark, brown" (Gr. _orphnós_, OE _eorp_, etc.) in IEW (334) is quite speculative.\
+SEE: [\*iwo- "yew"](#iwo)\
+ETYM: Cf. also Fr. _bourdaine_ (Fr. dial. _bourdaigne_, OFr. _borjaine_) "alder", perhaps from Gaul. \*eburyenā (Gamillscheg 136). PCelt. \*eburo- should not be confused with PCelt. \*iwo-, as in EIEC 654. Derivation from PIE \*h₁erbʰ- "dark, brown" (Gr. _orphnós_, OE _eorp_, etc.) in IEW (334) is quite speculative.\
 REF: [EDPC]
 
 ### <a id="edo">\*ed-o- "eat" (v)</a>
@@ -12884,9 +12884,6 @@ PIE: \*yek- "say, speak" (IEW: 503f.)\
 COGN: OHG _jehan_ "speak", Lat. _iocus_ "joke"\
 ETYM: The stem and gender of Early MoIr _icht_ are uncertain (it is a rare word). If it was a feminine i-stem, then the PCelt. reconstruction \*yexti­- would be probable. Moreover, if it were an u-stem, we would not expect raising of \*e to \*i (cf. OIr. _recht_ "outburst of anger" < \*rextu-). However, a pre-form \*yexti- would be reflected as \*(i)th in Welsh, so the Brittonic do not seem to correspond exactly to MoIr. _icht_. A possible Gaulish cognate of these Insular Celtic forms is found in the inscription on the Châteaubleau tile (Lambert 1998-2000), where on line 2 we read _iexsetesi_, which might mean "you will say" (McCone 2006: 101). This might be the 2pl. future of a denominative verb from the root \*yext-. Skt. _yā́cati_ "ask, solicite, entreat" is unrelated (LIV, s.v. \*yek-).\
 REF: [EDPC-AC]
-
-### <a id="yewo">\*yewo- "yew?" (n)</a>
-ETYM: This entry is referenced by [EDPC], but it contains no such entry. Further details unknown.
 
 ### <a id="yo">\*yo "which" [Relative particle]</a>
 GAUL: _dugiionti-io_ "who worship(?)" (Alise St. Reine)\
