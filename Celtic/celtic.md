@@ -12885,6 +12885,9 @@ COGN: OHG _jehan_ "speak", Lat. _iocus_ "joke"\
 ETYM: The stem and gender of Early MoIr _icht_ are uncertain (it is a rare word). If it was a feminine i-stem, then the PCelt. reconstruction \*yexti­- would be probable. Moreover, if it were an u-stem, we would not expect raising of \*e to \*i (cf. OIr. _recht_ "outburst of anger" < \*rextu-). However, a pre-form \*yexti- would be reflected as \*(i)th in Welsh, so the Brittonic do not seem to correspond exactly to MoIr. _icht_. A possible Gaulish cognate of these Insular Celtic forms is found in the inscription on the Châteaubleau tile (Lambert 1998-2000), where on line 2 we read _iexsetesi_, which might mean "you will say" (McCone 2006: 101). This might be the 2pl. future of a denominative verb from the root \*yext-. Skt. _yā́cati_ "ask, solicite, entreat" is unrelated (LIV, s.v. \*yek-).\
 REF: [EDPC-AC]
 
+### <a id="yewo">\*yewo- "yew?" (n)</a>
+ETYM: This entry is referenced by [EDPC], but it contains no such entry. Further details unknown.
+
 ### <a id="yo">\*yo "which" [Relative particle]</a>
 GAUL: _dugiionti-io_ "who worship(?)" (Alise St. Reine)\
 CELTIB: _iom_ [acc.sg.]; _iomui_ [dat.sg.]; _ios_ [nom.sg.] (Botorrita I)\
