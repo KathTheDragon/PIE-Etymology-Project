@@ -1,6 +1,6 @@
 # Proto-Celtic
 [EDPC]: ../bibliography.md#Matasovic-2009 "Etymological Dictionary of Proto-Celtic (Matasović 2009)"
-[EDPC-AC]: ../biblography.md#Matasovic-2011 "Etymological Dictionary of Proto-Celtic - Addenda et Corrigenda (Matasovic 2011)"
+[EDPC-AC]: ../bibliography.md#Matasovic-2011 "Etymological Dictionary of Proto-Celtic - Addenda et Corrigenda (Matasovic 2011)"
 
 ## A
 
