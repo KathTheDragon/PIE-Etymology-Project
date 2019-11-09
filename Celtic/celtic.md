@@ -8938,7 +8938,7 @@ SEE: [\*rēd-o- "ride"](#redo)\
 ETYM: OIr. _réimm_ is the verbal noun of _réidid_ (cf. \*red-o- "ride").\
 REF: [EDPC]
 
-### <a id="regini">\*regini- "hard, stiff" ()</a>
+### <a id="regini">\*regini- "hard, stiff" (adj)</a>
 GOID: OIr. _rigin_ [i] "tough, hard, slow"\
 W: MW _rein_ "stiff, rigid" (GPC _rhain_)\
 SEE: [\*reg-o- "stretch"](#rego)\
