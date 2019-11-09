@@ -10428,7 +10428,7 @@ SEE: [\*star-na- "broaden, extend"](#starna)\
 ETYM: PCelt. \*strato- is derivable from the participle \*strh₃-tó-, with shortening of the first vowel by Dybo's law.\
 REF: [EDPC]
 
-### <a id="stronko">\*stronko- "excrement" ()</a>
+### <a id="stronko">\*stronko- "excrement" (n)</a>
 W: W _trwnc_ [m] "urine"\
 BRET: MoBret. _stroñk_, _stronk_ [m] "excrements"\
 PIE: \*sterk- "excrement, dung" (IEW: 103lf.)\
