@@ -11306,12 +11306,12 @@ CO: OCo. _tor_ gl. _uenter_, MoCo. _torow_ [p]\
 ETYM: I have some doubts whether OW _tor_ gl. _palma_ is the same word as W _tor_ "belly". It could belong rather to W _torri_ (Co. _terry_, MBret. _torret_) "break, smash", if the original meaning was "fist". MoBret. _teur_ "belly" seems to come from \*tār- with the lengthened grade, but I find it probable, in the absence of IE etymology, that these words were borrowed from some non-IE language (cf., however, Pokorny 1024).\
 REF: [EDPC]
 
-### <a id="">\*torrlko- "pregnant" (adj)</a>
-GOID: OIr. torrach [o]\
-W: MW torrog\
-BRET: OBret. toroc\
-SEE: [\*torrV- "belly"]()\
-ETYM: An adjectival derivative, with the suffix \*-ako-, from \*torrV­ "belly".\
+### <a id="torrako">\*torrāko- "pregnant" (adj)</a>
+GOID: OIr. _torrach_ [o]\
+W: MW _torrog_\
+BRET: OBret. _toroc_\
+SEE: [\*torrV- "belly"](#torrV)\
+ETYM: An adjectival derivative, with the suffix \*-āko-, from \*torrV­ "belly".\
 REF: [EDPC]
 
 ### <a id="toskara">\*to-skara- "conquer, subject, strew" (v)</a>
@@ -11477,11 +11477,11 @@ COGN: Skt. _tráyas_, Lat. _trēs_, Gr. _treĩs_, Lith. _trỹs_, Go. _þrins_ [
 ETYM: OIr. _trí_ has long _í_ when used as a substantive, but short _i_ when used attributively (shortening in proclisis). A possible cognate in Celtiberian is _tiris_ (Botorrita I), but this word has also been related to PCelt. [\*tīros- "earth"](#tiros). The ordinal numeral is formed differently in various Celtic languages: Gaulish has _Tritos_ [PN], OIr. _tris_, _tres_ < \*tristo-, W _trydydd_, MoBret. _trede_ < \*tritiyo-.\
 REF: [EDPC]
 
-### <a id="">\*trisano- "one third" (num)</a>
-GOID: OIr. trian\
-W: OW trean, MW trayan\
-BRET: OBret. troian\
-SEE: [\*tns "three"]()\
+### <a id="trisano">\*trisano- "one third" (num)</a>
+GOID: OIr. _trían_\
+W: OW _trean_, MW _trayan_\
+BRET: OBret. _troian_\
+SEE: [\*trīs "three"](#tris)\
 REF: [EDPC]
 
 ### <a id="trowgo">\*trowgo- "sorry, sad" (adj)</a>
