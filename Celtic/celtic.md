@@ -916,7 +916,7 @@ COGN: Skt. _édhas_-, OE _ád_ "bonfire", Lat. _aedes_ "building, temple"\
 ETYM: The vocalism of the two Brittonic forms does not agree (MBret. _oaz_ may perhaps regularly come from \*aydu-, but in W \*oedd would be expected). See LEIA s.v. _aed_. It is possible that the ethnonym _Aedui_ is derived from the same PCelt. form (Delamarre 35). OIr. _áed_ is not well attested, but it appears to be an u-stem (the gen.sg. is _áeda_).\
 REF: [EDPC]
 
-## B\
+## B
 
 ### <a id="ba">\*bā-, \*ba-yo- "die" (v)</a>
 GOID: OIr. _baïd, -bá; bebaid_ [fut.]; _bebais_ [prt.]; -_bath_ [prt.pass.]\
@@ -1973,7 +1973,7 @@ COGN: MHG _quast_ "scrub", Alb. _gjeth(e)_ "foliage", OCS _gvozdъ_ "nail"\
 ETYM: MIr. _bot_ comes from \*buzdo- straightforwardly, but W _both_ must be from the corresponding feminine \*buzdā. Gaul. _buđđutton_ has also been interpreted as "kiss" (see \*bussu- "lip"): it boils down to the problem of how indecent is the Gallo-Latin inscription _Moni gnatha gabi buđđutton imon_ (St. Reverien, cf. Meid 1980: 15f.). Does it mean "Come, girl, give me a kiss", "Come, girl, take my penis"? Both interpretations are possible. Cf. also Gaul. PN _Bussu-maros_ which is slightly more probably interpreted as "having a large penis" than "big kiss". The PIE etymology is uncertain; it presupposes an ablauting paradigm, perhaps PIE \*gwōsdʰ-s / \*gwosdʰ-m / \*gusdʰ-os (for the lengthened grade cf. Alb. _gjeth(e)_, with e < \*ō, though Demiraj 1997j 187f. presupposes an umlauted variant of \*gath), and that \*gʷ > PCelt. \*b in the nom. and acc., whereas the u-vocalism of the root is from the oblique cases. A paradigm \*bozd- / \*guzdo- would have been regularized and thematicized into PCelt. \*buzdo-.\
 REF: [EDPC]
 
-## D\
+## D
 
 ### <a id="da">\*dā- "give" (v)</a>
 GOID: OIr. _-tartat_ "could give" [3s.prs.] _do-rat_ "has given" [perf.]\
@@ -2804,7 +2804,7 @@ COGN: Lith. _dūsiù_, OCS _dyšati_, Germ. _Tier_ "animal"\
 ETYM: Middle Irish _doé_ is attested chiefly in poetic texts. A possible parallel in Gaul. is _Dusios_ "a kind of demon, incubus", attested in the works of Lat. writers (e.g. Augustine). See Delamarre 158.\
 REF: [EDPC]
 
-## E\
+## E
 
 ### <a id="e">\*ē- "this, that" (pron)</a>
 GOID: OIr. _é, hé_ "he"; _ed_ "it"\
@@ -3050,7 +3050,7 @@ COGN: Gr. _ektós_ \
 SEE: [\*extero- "without"](#extero)\
 REF: [EDPC]
 
-## F\
+## F
 
 ### <a id="fales">\*fales- "rock, stone" (n)</a>
 GOID: OIr. _ail_ [i and k f] "boulder, rock, grave-stone, basis"\
@@ -3834,7 +3834,7 @@ COGN: Gr. _peúkē_, OHG _fiuhta_ "fir", Lith. _pušìs_ \
 ETYM: The Proto-Celtic form presupposes the zero-grade of the root in PIE (\*puḱ-, cf. Lith. _pušìs_). The word formation is unclear (note the dental suffix also in OHG _fiuhta_).\
 REF: [EDPC]
 
-## G\
+## G
 
 ### <a id="gablo">\*gablo/ā- "fork, forked branch" (n)</a>
 GOID: OIr. _gabul_ [o m and ā f]\
@@ -4555,7 +4555,7 @@ COGN: Skt. _jyā́_, Gr. _biós_ "bowstring"\
 ETYM: The word-initial \*g- (instead of \*\*b) presupposes an early delabialization of \*gʷ before \*yin Celtic, see McCone 1996: 42.\
 REF: [EDPC]
 
-## Gʷ\
+## Gʷ
 
 ### <a id="gwano">\*gʷan-o- "strike, kill" (v)</a>
 GOID: OIr. _gonaid_, -_goin_; _gonaid_, -_gona_ [subj.]; _gignid_, _gignea_ [fut.]; _geguin_ [prt.]; _gétae_, -_gét_ [pass.ptcp.]\
@@ -4658,7 +4658,7 @@ COGN: Skt. _ghraṃsá_- "heat of the sun"\
 ETYM: OIr. _grís_ must represent a reflex of PCelt. \*gʷrīnso-, with the lengthened grade (expected in the nom.sg. of an original root noun). It appears probable that OIr. _grían_ [ā f] "sun" should be derived from PCelt. \*_gʷrensnā_ > Primitive Irish \*gʷrēnā (Matasović _to appear_). This fits well with the semantics of Skt. _ghraṃsá_-. The PIE root is \*gʷʰer- "be hot" (Gr. _thermós_ etc.). Gaul. _Grannos_ (a name of Apollo) probably also belongs here, cf. Delamarre 183. Finally, OIr. _grés_ [u m] "handicraft, needlework, work of art, practice" may represent PCelt. \*gʷrensu- (the development of meaning would have been from "heat" to "zeal" and "work", cf. also MIr. _grésach_ "lasting, habitual").\
 REF: [EDPC]
 
-## I\
+## I
 
 ### <a id="i-1">\*i- "go" (v)</a>
 GOID: OIr. _etha_ [pass.ptcp.]\
@@ -4731,7 +4731,7 @@ COGN: Hitt. <sup>GIS</sup>_e(y)an_- "?yew", OE _īw_, Lith. _ievà_ "bird-cherry
 ETYM: These forms should not be confused with PCelt. [\*eburo- "ivy"](#eburo), as in EIEC. The Gaulish word for yew-tree is unattested, so far as I know, but it is the source of Fr. _if_ (from \*iwo-). The form _iuos_ (Coligny) is of unknown meaning, _pace_ Lambert 1994. In PIE we seem to have an original u-stem, with nom.sg. \*h₁eyu- / gen.sg. \*h₁iw-os, which was thematicized independently in different languages. Celtic preserves the stem of the oblique cases. For the phonetic development cf. PCelt. \*biwo- "alive" > OIr. _béo_, W _byw_. The acute in Balto-Slavic, implied by the accentual paradigm a, (cf. Russ. gen.sg. _ívy_) is unexpected. It may be due to the secondary Balto­ Slavic vṛddhi, which is common in nominal derivation and bears the acute (in contradistinction to the inherited lengthened PIE grade formations, which bear the circumflex, cf. Matasović 2008a: 130ff.). Note, however, that Derksen (2008: 216) reconstructs the PIE root as \*h₁eyH- and does not mention the connection with the Celtic words.\
 REF: [EDPC]
 
-## K\
+## K
 
 ### <a id="kado">\*kādo- "regret, anger" (n)</a>
 W: MW _cawdd_ [m] "anger"\
@@ -6285,7 +6285,7 @@ SEE: [\*kuwo- "hollow"](#kuwo)\
 ETYM: This etymology is not completely persuasive, because the PIE root, as reconstructed in IEW, has an exceedingly broad meaning ("swell, be hollow") and it is difficult to avoid random associations.\
 REF: [EDPC]
 
-## Kʷ\
+## Kʷ
 
 ### <a id="kwakwo">\*kʷākʷo- "everyone" (pron)</a>
 GOID: OIr. _cách_ \
@@ -6588,7 +6588,7 @@ CO: Co. _pry_ \
 ETYM: These words are probably related to Lat. _crēta_ "chalk", but details are obscure. Mallory & Adams 2006: 121 reconstruct PIE \*tkʷreh₁yot- and add ToB _tukri_ "clay". Perhaps it is more sensible to start with the root \*kʷreh₁- with the suffix (?) \*-yet- and assume that the Tocharian words contain some kind of prefix. It is also possible that all of these words were borrowed from non-IE languages.\
 REF: [EDPC]
 
-## L\
+## L
 
 ### <a id="labaro">\*lab(a)ro- "eloquent, talkative" (adj)</a>
 GOID: OIr. _labar_ [o]\
@@ -7233,7 +7233,7 @@ GAUL: _luxtos_ [?gen.sg.] (La Graufesenque)\
 ETYM: The etymology in IEW (686) deriving these Celtic words from PIE \*lewǵ- "break" is not convincing because of the difference in meaning. In Celtic, the basic meaning is "contents" from which the meaning "people" developed in a similar manner as in Lat. _plēbs_ < \*pleh₁- "be full". The word may have been borrowed from some non-IE language.\
 REF: [EDPC]
 
-## M\
+## M
 
 ### <a id="ma">\*mā, \*ma "if" [conj.]</a>
 GOID: OIr. _ma_, _má_ \
@@ -8184,7 +8184,7 @@ COGN: Lat. _mūcor_ "mould", _mūcus_ "slime, mucus", Gr. _mýksa_ "slime", Latv
 ETYM: This is a very problematic etymology. MIr. _mocht_ is a glossary word, and it is not in DIL; moreover, its meaning does not agree with MW _mwyth_; it is possible that the meaning "luxury, pleasure" developed from something like "softness, the state of being relaxed", cf. also MIr. _múr_ "abundance" which might be from \*mux-sro- < \*muk-sro- (presuming vowels are lengthened before \*-xsr- and \*-xsl-, cf. PCelt. [\*tāxslo- "axe"](#taxslo) < \*toxslo-). GPC adduces also W _mwyth_ "fever, first signs of a disease", but it is unclear if this word is etymologically related at all.\
 REF: [EDPC]
 
-## N\
+## N
 
 ### <a id="">\*nad-sko- "bind" (v)</a>
 GOID: OIr. _nascaid_, -_naisc_; _náiss_, -_ná_; _nenais_, -_nenai_ [fut.]; _nenaisc_ [prt.]; _nassae_, -_nass_ [prt.pass.]\
@@ -8579,7 +8579,7 @@ COGN: Lat. _ad-nuo_, Gr. _neúō_ \
 ETYM: MIr. _as-noí_ < \*exs-nuwo-, while the Brittonic forms presuppose \*dī-new-o- (the simplex verb is unattested). MW _nugio_ "shake, quiver" could be from PCelt. \*now-k- < \*new-k-. Another possible cognate is Lith. _niaũsti_ "to bend"; it may preserve the original meaning of the PIE root.\
 REF: [EDPC]
 
-## O\
+## O
 
 ### <a id="obnu">\*obnu- "fear" (n)</a>
 GOID: OIr. _omun_ [u m]\
@@ -8868,7 +8868,7 @@ COGN: OHG _eid_ "oath", ToB _aittanka_ "directed toward".\
 ETYM: OW _an-ut-on-au_ contains the negative prefix _an-adnd_ a nasal suffix. In Gaul., we find PNs such as _Oitoccius_, _Ar-oitus_, which may be related. Presumably, this is a derivative of the root \*h₁ey- "to go"; the original meaning of "oath" in Celtic and Germanic would be "a going, path". This could be motivated by the custom of walking between pieces of sacrificed animals to give force to the oath, cf. also Gr. _oĩtos_ "course, fate".\
 REF: [EDPC-AC]
 
-## R\
+## R
 
 ### <a id="radi">\*rād-ī- "talk" (v)</a>
 GOID: OIr. _rádid_, _radid_, -_radi_ "talks"\
@@ -9239,7 +9239,7 @@ COGN: Latv. _rùkt_, OCS _rykati_ \
 ETYM: The gender and stem formation of MIr. _rucht_ are uncertain, and the word is not very well attested, so this etymology is quite problematic. OCS _rykati_ represents a Balto-Slavic vṛddhi formation; words with similar meaning with the voiced stop adduced by IEW (p. 867, e.g. Lat. _rugio_, Gr. _ṓrygma_, Russ. _rugát'_, etc.) probably belong to another root, also onomatopoetic.\
 REF: [EDPC]
 
-## S\
+## S
 
 ### <a id="sadi">\*sād-ī- "set,fix" (v)</a>
 GOID: OIr. _sáidid_, -_sáidi_ "thrusts, fixes, implants"\
@@ -10703,7 +10703,7 @@ SEE: [\*swerwo- "bitter"](#swerwo)\
 ETYM: For the development in W (\*swo- > \*xwo- > _ho_-) cf. PCelt. [\*skoltā "cleft"](#skolta). These words can represent the PIE thematic agent noun \*sworós "wounder" > "biter" (> "louse").\
 REF: [EDPC]
 
-## T\
+## T
 
 ### <a id="tago">\*tag-o- "strangle, choke" (v)</a>
 GOID: OIr. _tachtaid_, -_tachta_ "chokes, stifles, oppresses"\
@@ -11626,7 +11626,7 @@ COGN: Av. _θβərəsa_- "piglet", perhaps Gr. _sarks_ "flesh"\
 ETYM: It is assumed here that \*tw- was preserved in PCelt. (just as PIE \*dw- was retained), but it is also possible that the change \*tw- > \*t- is already Proto-Celtic, since all Celtic languages have \*t-. On the other hand, Lubotsky (1994a) derives the Celtic forms from the zero-grade of the PIE root (\*turḱ-o-), since the cluster \*rk usually resists raising in Irish. However, \*tworḱo- makes more sense from the morphological point of view, if the word was originally an agent noun of the _tomós_-type. The PIE root meant "to cut out (a pit)", cf. Av. _θβərəs_- "dig, cut out", so the meaning "boar" must have developed from "cutter, digger".\
 REF: [EDPC]
 
-## U\
+## U
 
 ### <a id="udenskyo">\*uden-sk-yo- "water" (n)</a>
 GOID: OIr. _uisce_ [io m]\
@@ -11839,7 +11839,7 @@ COGN: OE _oxa_, Av. _uxšan_- "bull", ToB _okso_ "draft-ox"\
 ETYM: The Brittonic forms presuppose an-stem (with nom.sg. \*uxsō(n) > \*uxsū > \*uxsī and subsequent i-affection in W). MIr. _oss_ presupposes a thematic \*uxso-, cf. also the PN _Os-car_ ("stag-loving").\
 REF: [EDPC]
 
-## W\
+## W
 
 ### <a id="wadsko">\*wā(d)-sko- "press" (v)</a>
 GOID: MIr. _fáiscid_, -_fáisci_ "presses"\
@@ -12774,7 +12774,7 @@ COGN: Hitt. _hulana_-, Skt. _ū́rṇā_-, Lat. _lāna_, Gr. _lē̃nos_, Go. _wu
 ETYM: Some authors think that OIr. _olann_ is a loanword from Brittonic (e.g. Falileyev, p. 70), which I find unlikely. The word initial _o_- in OIr. can be explained if we start from \*ulanā, with a different syllabification than in Brittonic, which reflects \*wlano-; we should probably reconstruct both a feminine \*ulanā and a neuter \*wlano- for Proto-Celtic (the feminine being an old collective), see Matasović 2005: 128. Hittite _h_- is the result of metathesis; there is no other evidence for the word-initial laryngeal in PIE.\
 REF: [EDPC]
 
-## X\
+## X
 
 ### <a id="xswibi">\*xswib-ī- "move, recede" (v)</a>
 GOID: MIr. _scibid_, -_scibi_ \
@@ -12785,7 +12785,7 @@ COGN: Skt. _kṣipáti_ "throw", OCS _šibati_ "to whip"\
 ETYM: Sanskrit -_p_- is puzzling. It may be the result of assimilation to the initial _k_-. OE _swápan_ "sweep" and its Germanic cognates may be derived from the same root, if we assume that \*xsw- > \*sw-. In any case, the form of the PIE root is highly unusual, perhaps onomatopoetic.\
 REF: [EDPC]
 
-## Y\
+## Y
 
 ### <a id="yalo-1">\*yalo- "clearing" (n)</a>
 W: MW _ial_ (GPC _iâl_)\
