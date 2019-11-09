@@ -3653,7 +3653,7 @@ COGN: Lat. _paueo, pauor_ \
 ETYM: While other Celtic reflexes seem to come from PIE \*pow-tu-, W _uthr_ represents \*pow-tro-. Lat. _paueo, pauor_ do not presuppose PIE \*ph₂ew-, but rather \*pow-, with \*ow > _au_ by Thurneysen-Havet's law. McCone 1992b connects these words with W _ofn_, MIr. _omun_ "fear" (< \*fowno-), but here a different etymology is proposed (cf. PCelt. \*obno-).\
 REF: [EDPC]
 
-### <a id="">\*frasnā "part" (n)</a>
+### <a id="frasna">\*frasnā "part" (n)</a>
 GOID: OIr. _rann_ [ā f]\
 W: OW _rann_ [f] "share", MW _ran, rann_ [f] (GPC _rhan_)\
 BRET: OBret. _rannou_ gl. _partimonia_, MBret. _rann_ \
@@ -4300,7 +4300,7 @@ REF: [EDPC]
 SEE: [\*gnāto- "known, usual"](#gnato)\
 REF: [EDPC]
 
-### <a id="">\*gnāto- "known, usual" (adj)</a>
+### <a id="gnato">\*gnāto- "known, usual" (adj)</a>
 GOID: OIr. _gnáth_ [o]\
 W: MW _gnawt_ (GPC _gnawd_)\
 BRET: OBret. _gnot_ "usual"\
