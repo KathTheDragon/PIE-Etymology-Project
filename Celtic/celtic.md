@@ -931,7 +931,7 @@ W: MW _boddi_ \
 BRET: MBret. _beuziff_, MoBret. _beuziñ_ \
 CO: Co. _buthy, bedhy_ \
 PIE: \*gʷeh₂d - "tread, wade" (IEW: 465)\
-COGN: Skt. giidha- "ford"\
+COGN: Skt. _gādhá_- "ford"\
 ETYM: The Celtic formations can be interpreted as causatives or iteratives, derived from \*gʷoh₂dʰ-eye-. Gr. _bē̃ssa_, Dor. _bā̃ssa_ "valley" (if from \*gʷeh₂dʰ-tih₂) is possibly cognate, but the meanings are quite different. Skt. _gā́hate_ "wade", Lith. _góžti_ "overthrow, overturn", Croat. _gȁziti_ "tread, wade" appear to be from the same root (\*gʷeh₂-, cf. Skt. _jígāti_ "goes", Gr. _ébē_ "went"), but with a different suffix (\*-ǵʰ-).\
 REF: [EDPC]
 
