@@ -2063,8 +2063,8 @@ CO: OCo. _dauat_ gl. _ouis_ \
 GAUL: _Damona_ (?) [theonym], Gallo-Lat. _damma_ (> Fr. _daim_) "roe"\
 PIE: \*dmh₂o- "the tamed one" (IEW: 199f.)\
 COGN: Skt. _damya_- "young bull to be tamed", Alb. _dem_ "bull, steer"\
+SEE: [\*dam-yo- "allow, permit, endure"](#damyo), [\*dam-na- "subdue, break a horse"](#damna)\
 ETYM: The Celtic a-vocalism is best explained by starting from a proto­ form \*dm-Ho-, with syllabic \*m. The Brit. forms point to a derivative \*damato- (< \*dmh₂eto-) rather than \*damo- > OIr. dam. The PIE root \*demh₂ is presumably also reflected in the British tribal name _Demetae_ (> MW _Dyfed_), which can be interpreted as "Tamers".\
-SEE: [\*dam-yo- "allow, permit, endure"](#damyo), [\*dam-na- "subdue, break a horse"](damna)\
 REF: [EDPC]
 
 ### <a id="damyo">\*dam-yo- "allow, permit, endure" (v)</a>
@@ -6840,7 +6840,7 @@ W: MW _llyu_ (GPC _llyfu_, _llyo_, _llyu_)\
 BRET: MBret. _leat_, MoBret. _lead_ \
 PIE: \*leyǵʰ- "lick" (IEW: 668)\
 COGN: Gr. _leíkhō_, Lat. _lingo_, OCS _lizati_ \
-SEE: [\*lēgā "spoon"](lega)\
+SEE: [\*lēgā "spoon"](#lega)\
 REF: [EDPC]
 
 ### <a id="lima">\*lim-ā- "sharpen, polish" (v)</a>
@@ -6864,7 +6864,7 @@ W: MW _llynn_ [m and f] "drink, lake" (GPC _llyn_)\
 BRET: OBret. _lin_ "lake", MoBret. _lenn_ "pool"\
 CO: OCo. _gre-lin_ gl. _lacus_ \
 GAUL: _linda_ [nom.pl.] (Banassac), _Lindiacum_ [toponym]\
-ETYM: GPC has two different entries, _llyn_ [m and f] "lake, pool" and _llyn_ [m] "drink, beverage". It is possible that this difference goes back to PCelt. (? \*lindo- "drink", \*lindā "pool, lake"); the basic meaning of \*lind- could have been "drinkable water" (St. Zimmer, p.c.). In principle, it would be possible to derive these words from the same root as in [\*liy-o- "flow"](liyo), but the derivation is difficult: PIE \*liH-nd-u (with unclear word formation) would give PCelt. \*līndu-, and \*ī could have been shortened either by the Celtic variant of Osthoffs law, or by Dybo's law, if it had been in the pretonic position.\
+ETYM: GPC has two different entries, _llyn_ [m and f] "lake, pool" and _llyn_ [m] "drink, beverage". It is possible that this difference goes back to PCelt. (? \*lindo- "drink", \*lindā "pool, lake"); the basic meaning of \*lind- could have been "drinkable water" (St. Zimmer, p.c.). In principle, it would be possible to derive these words from the same root as in [\*liy-o- "flow"](#liyo), but the derivation is difficult: PIE \*liH-nd-u (with unclear word formation) would give PCelt. \*līndu-, and \*ī could have been shortened either by the Celtic variant of Osthoffs law, or by Dybo's law, if it had been in the pretonic position.\
 REF: [EDPC]
 
 ### <a id="linkwo">\*li-n-kʷ-o- "leave, let" (v)</a>
@@ -8779,7 +8779,7 @@ REF: [EDPC]
 GOID: OIr. _osnad_ [ā f]\
 W: MW _uchenaid_ [f]; _ucheneid(i)au_, _uchenediau_, _ucheneidion_ [p]\
 BRET: MBret. _huanat_, MoBret. _huanad_ [m] "sigh"\
-SEE: [\*owxso- "above"](#owxso), [\*ana- "breathe"](ana)\
+SEE: [\*owxso- "above"](#owxso), [\*ana- "breathe"](#ana)\
 ETYM: OBret. _huan_ "breath", MoBret. _huan_ [m] appear to preserve the underived \*owxsano-, which is an old compound of \*owxso- "high" and \*an-o- "breathe". OIr. _osnad_ points to a variant \*uxs-anatā, cf. also MIr. _osnam_ "sigh, groan" < \*uxs-anamā.\
 REF: [EDPC]
 
@@ -9220,7 +9220,7 @@ REF: [EDPC]
 GOID: OIr. _rondaid_, -_roind_; _róiss_, -_ró_ [subj.]; _roraid_ [prt.]; _rossae_, -_ross_ [prt.pass.]\
 PIE: \*h₁rewdʰ- "red" (IEW: 872f.)\
 COGN: Gr. _ereúthō_ "paint red"\
-SEE: [\*rud-ī- "redden"](rudi)\
+SEE: [\*rud-ī- "redden"](#rudi)\
 REF: [EDPC]
 
 ### <a id="rusklo">\*rūsk(l)o-, \*rusko- "bark" (n)</a>
@@ -9936,7 +9936,7 @@ GOID: OIr. _scíath_ [o m] "wing"\
 W: MW _ysgwydd_ [f] "shoulder"\
 BRET: MBret. _scoaz_, _diou scoaz_ "shoulders"\
 CO: OCo. _scuid_ gl. _scapula_, MCo. _dyw-scoth_ "shoulders"\
-SEE: [\*sketo- "shield"]()\
+SEE: [\*sketo- "shield"](#sketo)\
 ETYM: OIr. _scíath_ may have the final -_th_ rather than -_d_ because of the influence of the word for "shield", OIr. _scíath_ < \*sketo-. However, it is also possible that _scíath_ "shield" was borrowed from Brittonic before the lenition of \*t > th, and that _scíath_ "wing" is the original OIr. word for "shield", with metaphorical change of meaning. The Brittonic words for "shoulder" then must have a different etymology.\
 REF: [EDPC]
 
@@ -10424,7 +10424,7 @@ BRET: MBret. _strad_ "bottom"\
 CO: Co. _Straet-neat_ [toponym]\
 PIE: \*sterh₃- "extend, strew" (IEW: 1029f.)\
 COGN: Skt. _stṛṇā́ti_, Lat. _sterno_, Gr. _stórnymi_ \
-SEE: [\*star-na- "broaden, extend"]()\
+SEE: [\*star-na- "broaden, extend"](#starna)\
 ETYM: PCelt. \*strato- is derivable from the participle \*strh₃-tó-, with shortening of the first vowel by Dybo's law.\
 REF: [EDPC]
 
@@ -10718,7 +10718,7 @@ GOID: OIr. _talam_ [n m]\
 GAUL: _Talamone_, _Talmun_ (> _Talmont_) [toponyms]\
 PIE: \*telh₂m- "surface, support" (IEW: 1061)\
 COGN: Lat. _tellus_ "earth", OPr. _talus_ "ground, floor", OCS _tьlo_ "ground", OHG _þel_ "floor", Arm. _t'al_ "district"\
-SEE: [\*tli-na- "raise"](tlina)\
+SEE: [\*tli-na- "raise"](#tlina)\
 ETYM: The PCelt. stem \*talamon- < \*telamon- < PIE \*telh₂mon- is the result of Joseph's rule. The PIE root is probably \*telh₂ "raise, support" (IEW 1060f.).\
 REF: [EDPC]
 
@@ -11800,7 +11800,7 @@ REF: [EDPC]
 ### <a id="ufostarna">\*ufo-star-na- "strew" (v)</a>
 GOID: MIr. _fo-sern_ "arranges in due order, spreads abroad"\
 W: MW _gwassarnu_ (GPC _gwasarnu_, _gosarnu_)\
-SEE: [\*star-na- "strew, broaden"]()\
+SEE: [\*star-na- "strew, broaden"](#starna)\
 REF: [EDPC]
 
 ### <a id="ufowiko">\*ufo-wik-o- "commit an offence" (v)</a>
