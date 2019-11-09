@@ -108,8 +108,8 @@ W: MW _eirif_ [m] "number, amount, sum"\
 SEE: [\*rīmā "number, count"](#rima)\
 REF: [EDPC-AC]
 
-### <a id="adsadyo">\*ad-sād-yo- "very easy" (adv)</a>
-SEE: [\*sād-yo- "easy"](#sadyo)\
+### <a id="adsadsyo">\*ad-sād-syo- "very easy" (adv)</a>
+SEE: [\*sād-o- "easy"](#sado)\
 REF: [EDPC]
 
 ### <a id="adtekwo">\*ad-tekʷ-o- "run to, approach" (v)</a>
@@ -354,7 +354,7 @@ REF: [EDPC]
 GOID: OIr. imbliu [n, m or f] (DIL _imliu, imbliu_)\
 PIE: \*h₃nobʰ-li- "navel, nave" (IEW: 314f.)\
 COGN: Skt. _nā́bhi_-, Gr. _omphalós_, Lat. _umbilicus_, OE _nafela_ \
-ETYM: Like Lat. _umbilicus_, the stem of the PCelt. word for "navel" generalized the PIE oblique stem \*h₃nbhl-. For the development of the initial \*am-> OIr. _im_ cf. [\*angʷen- "butter"](#angwen).\
+ETYM: Like Lat. _umbilicus_, the stem of the PCelt. word for "navel" generalized the PIE oblique stem \*h₃nbhl-. For the development of the initial \*am-> OIr. _im_ cf. [\*amben- "butter"](#amben).\
 REF: [EDPC]
 
 ### <a id="amo">\*amo- "time" (n)</a>
@@ -566,7 +566,7 @@ BRET: MBret. _arazr_ \
 CO: OCo. _aradar_ gl. _aratrum_ \
 PIE: \*h₂erh₃-tro- "plough" (IEW: 62)\
 COGN: Lat. _aratrum_, Gr. _arotron_, Lith. _árklas_ \
-SEE: [\*ar-yo- "to plow"](#aryo)\
+SEE: [\*ar-yo- "to plow"](#aryo-2)\
 REF: [EDPC]
 
 ### <a id="arawar">\*arawar / \*arawen- "grain, cereal" (n)</a>
@@ -574,7 +574,7 @@ GOID: OIr. _arbor_ [n n]\
 W: W _erwain_ [p] "meadow-sweet"\
 PIE: \*h₂erh₃wr "field" (IEW: 63)\
 COON: Lat. _aruum_ "plowed field", Gr. (Myc.) _a-ro-u-ra_ "field"\
-SEE: [\*ar-yo- "to plow"](#aryo)\
+SEE: [\*ar-yo- "to plow"](#aryo-2)\
 ETYM: The inflection of OIr. _arbor_ shows that this word was a heterocliton in PCelt. The exact development of W _erw_ "field" is unclear to me. McCone 1994: 72 assumes that it is from the British pl. \*arwī through raising. If it belonged to the same paradigm as the precursor of OIr. _arbor_, then the meaning of PCelt. \*arawar was probably "cultivated field". The PCelt. oblique stem \*ar(a)wen- is reflected in W _erwain_ and in MIr. _airmnech_ "man who possesses a lot of grain" (Cormac).\
 REF: [EDPC]
 
@@ -603,7 +603,7 @@ GAUL: _Arganto-magus_ [toponym] (today _Argenton-sur-Creuse_)\
 CELTIB: _arkato-bezom_ (K.O.7)\
 PIE: \*h₂erǵ-nt-o- "silver" (IEW: 64)\
 COGN: Lat. _argentum_, Skt. _rajatá_-, Arm. _arcat'_ \
-ETYM: Celtib. _arkato-bezom_ has been interpreted as "silver mine", but this is uncertain; however, the existence of this word for silver in Celtiberian is supported by PN _Arkanta_. There is some inconclusive evidence that Celtiberian also had another word for "silver", _silapur_ (Botorriui I), which is probably a _Wanderwort_ of unknown origin, identical to Go. _silubr_, OCS _sьrebro_ and Lith. _sidãbras_ (MLH V.1: 333). Positing a full grade in PIE \*h₂erǵnto- to account for the Celtic reflexes appears more probable than accepting the rule \*h₂rC- > PCelt. \*arC-, but see also the development in \*arto- "bear". The zero-grade \*h₂rgnto- would probably have yielded PCelt. \*\*riganto-. Skt. _rajatá_- is compatible only with \*h₂rgnto-, not with \*h₂ergnto-, but cp. Skt. _árjuna_- "silver", which may be from \*h₂erǵ-u-no-, just as Gr. _árgyros_ "silver" is presumably from \*h₂erǵ-u-ro-. This shows that the PIE word for "silver" may have had an ablauting paradigm, perhaps originally heteroclitic \*h₂erǵw-r / \*h₂rǵwen-s.\
+ETYM: Celtib. _arkato-bezom_ has been interpreted as "silver mine", but this is uncertain; however, the existence of this word for silver in Celtiberian is supported by PN _Arkanta_. There is some inconclusive evidence that Celtiberian also had another word for "silver", _silapur_ (Botorriui I), which is probably a _Wanderwort_ of unknown origin, identical to Go. _silubr_, OCS _sьrebro_ and Lith. _sidãbras_ (MLH V.1: 333). Positing a full grade in PIE \*h₂erǵnto- to account for the Celtic reflexes appears more probable than accepting the rule \*h₂rC- > PCelt. \*arC-, but see also the development in [\*arto- "bear"](#arto-1). The zero-grade \*h₂rgnto- would probably have yielded PCelt. \*\*riganto-. Skt. _rajatá_- is compatible only with \*h₂rgnto-, not with \*h₂ergnto-, but cp. Skt. _árjuna_- "silver", which may be from \*h₂erǵ-u-no-, just as Gr. _árgyros_ "silver" is presumably from \*h₂erǵ-u-ro-. This shows that the PIE word for "silver" may have had an ablauting paradigm, perhaps originally heteroclitic \*h₂erǵw-r / \*h₂rǵwen-s.\
 REF: [EDPC]
 
 ### <a id="argo">\*argo- "noble, great" (adj)</a>
@@ -625,7 +625,7 @@ REF: [EDPC]
 GOID: OIr. _ar_ [on> m] "tilling, the land ploughed, husbandry"\
 W: MW _ar_ [m] "ploughed land" (GPC _ar_)\
 PIE: \*h₂erh₃-o- "ploughing"\
-SEE: [\*ar-yo- "plough"](#aryo)\
+SEE: [\*ar-yo- "plough"](#aryo-2)\
 ETYM: The PCelt. form reflects a simple nomen actionis (\*h₂órh₃o-) from the PIE verb "to plough".\
 REF: [EDPC]
 
@@ -737,7 +737,7 @@ ETYM: The Brittonic forms do not agree very well in meaning with the OIr. verb; 
 REF: [EDPC]
 
 ### <a id="atisekwo">\*ati-sekwo- "answer" (n)</a>
-SEE: [\*sekw-o- "say"](#sekwo)\
+SEE: [\*sekw-o- "say"](#sekwo-2)\
 REF: [EDPC-AC]
 
 ### <a id="attreba">\*attrebā "settlement" (n)</a>
@@ -815,7 +815,7 @@ BRET: MBret. _eontr_ \
 CO: OCo. _euitor_, MoCo. _ewnter_ \
 PIE: \*h₂ewh₂on- (IEW: 89)\
 COGN: Lat. _auunculus_ "maternal uncle"\
-SEE: [\*awyo- "grandfather"](#awyo)\
+SEE: [\*awyo- "descendent"](#awyo-2)\
 ETYM: OIr. _amnair_ [r m] "maternal uncle" is derived from the same root in the oblique cases, but with a different suffix (\*awn-er), by analogy with other kinship terms in \*-r.\
 REF: [EDPC]
 
@@ -1021,7 +1021,7 @@ REF: [EDPC-AC]
 ### <a id="banowessa">\*bano-wessā "wedding" (n)</a>
 GOID: OIr. _banais_ [ā f]\
 BRET: MBret. _banues_, MoBret. _banvez_ [m]\
-ETYM: A compound containing \*bano- "woman" (see [\*benā](#bena)) and \*wessā, which is derived from the same root as PCelt. [\*wed-o- "lead, bring together"](#wedo). PCelt. \*wessā represents PIE \*wedʰ-teh₂. The root \*wedʰ- was used to express the concept of "leading the bride" in PIE, cf. Skt. _vadhū́_ "bride".\
+ETYM: A compound containing \*bano- "woman" (see [\*benā](#bena)) and \*wessā, which is derived from the same root as PCelt. [\*wed-o- "lead, bring together"](#wedo-1). PCelt. \*wessā represents PIE \*wedʰ-teh₂. The root \*wedʰ- was used to express the concept of "leading the bride" in PIE, cf. Skt. _vadhū́_ "bride".\
 REF: [EDPC-AC]
 
 ### <a id="banssu">\*banssu- "custom, habit"\
@@ -2033,7 +2033,7 @@ REF: [EDPC]
 GOID: OIr. _damnaid, -damna_ "binds, subdues"\
 PIE: \*demh₂- "subdue, tame" (IEW: 199f.)\
 COGN: Hitt. _damaszi_ "press, push", Skt. _damāyáti_ "subdue, tame", Lat. _domo_ \
-SEE: [\*damo- "bull"](#damo)\
+SEE: [\*damo- "bull"](#damo-2)\
 REF: [EDPC]
 
 ### <a id="damniyo">\*damniyo- "matter, material" (n)</a>
@@ -2074,8 +2074,8 @@ BRET: MBret. _gouzaff_ "suffer, permit", MoBret. _gouzañv_ \
 CO: Co. _godhaff_ "suffer"\
 PIE: \*demh₂ "subdue, tame" (IEW: 199f.)\
 COGN: Hitt. _damaszi_ "forces, pushes", Skt. _damáyati_ "forces, tames", Lat. _domo, domāre_ "to tame"\
-ETYM: The simplex \*dam-yo- is attested only in OIr., the Brit. forms pointing to PCelt. \*ufo-dam-, cf. also OIr. fo-daim, -fodaim "suffer, endure" < \*ufo-dam-yo-.\
 SEE: [\*damo-, \*damato- "bull"](#damo-2), [\*dam-na- "subdue, break a horse"](#damna)\
+ETYM: The simplex \*dam-yo- is attested only in OIr., the Brit. forms pointing to PCelt. \*ufo-dam-, cf. also OIr. fo-daim, -fodaim "suffer, endure" < \*ufo-dam-yo-.\
 REF: [EDPC]
 
 ### <a id="danu">\*dānu- "gift" (n)</a>
@@ -2103,7 +2103,7 @@ CO: Co. _darn_ \
 GAUL: \*darnā > Fr. _darne_ "piece, slice offish"\
 PIE: \*der(H)- "tear" (IEW: 206ff.)\
 COGN: Gr. _deírō_ "tear", Lith. dial. _dìrti_ \
-ETYM: The Celtic words adduced here seem to be originally adjectives from the root "to tear", but the phonetic development is not completely clear. From \*drH-no- we would expect PCelt. \*drāno-. Invoking Dybo's law would not help, since this would give \*drano- (cf. [\*sfraxto- "eloquent"](#sfraxto), [\*frati- "fem"](#frati)), which means that we must start from an anit-form of the PIE root. The derivation \*dmo- > \*damo- is then straightforward. LIV (_s.v._) also distinguishes two roots, \*der- and \*derH-, and both may be attested in Lith. _dir̃ti_ "peel" (< \*der-) vs. Lith. dial. _dìrti_ "tear".\
+ETYM: The Celtic words adduced here seem to be originally adjectives from the root "to tear", but the phonetic development is not completely clear. From \*drH-no- we would expect PCelt. \*drāno-. Invoking Dybo's law would not help, since this would give \*drano- (cf. [\*sfraxto- "eloquent"](#sfraxto), [\*frati- "fern"](#frati-1)), which means that we must start from an anit-form of the PIE root. The derivation \*dmo- > \*damo- is then straightforward. LIV (_s.v._) also distinguishes two roots, \*der- and \*derH-, and both may be attested in Lith. _dir̃ti_ "peel" (< \*der-) vs. Lith. dial. _dìrti_ "tear".\
 REF: [EDPC]
 
 ### <a id="daru">\*daru- "oak" (n)</a>
@@ -2268,7 +2268,7 @@ COGN: OE _deorc_ "dark", Lith. _dárgana_ "bad weather", _dérgti_ "to become di
 ETYM: Delamarre (140) mentions the possibility that the PN _An-dergus_, attested in Lusitania, is related to the same PCelt. root.\
 REF: [EDPC]
 
-### <a id="derk">\*derk- "see" (v)</a>
+### <a id="derko">\*derk-o- "see" (v)</a>
 GOID: OIr. _-darc, a-t-chondarc_ [1s.prs.]; _ad-chon-dairc_ [3s.prt.rel.]\
 PIE: \*derk- "glance at" (IEW: 213)\
 COGN: Skt. _darś_-, Gr. _dérkomai_, OE _torht_ "bright, clear", Alb. _dritë_ "light"\
@@ -2410,7 +2410,7 @@ REF: [EDPC]
 ### <a id="diwedo-1">\*dī-wed-o- "stop" (v)</a>
 GOID: OIr. _do-ruid_ [3s.perf.rel.]\
 W: MW _dywedd(u)_ (GPC _diweddu, diwedd_)\
-SEE: [\*wed-o-, \*dī-wedo- "end"](#diwedo-2)\
+SEE: [\*wed-o-](#wedo-1), [\*dī-wedo- "end"](#diwedo-2)\
 ETYM: The OIr. form _do-ruid_ contains the perfective preverb \*fro­ (\*dī-fro-wed-o-)\
 REF: [EDPC]
 
@@ -2421,7 +2421,7 @@ BRET: OBret. _diued_, MBret. _divez_, MoBret. _diwez_ [m]\
 CO: Co. _deweth_ \
 PIE: \*wedʰ- "lead" (IEW: ll 15f.)\
 COGN: OCS _vesti, vedetъ_, Lith. _vèsti, vẽda_ \
-SEE: [\*wed-o- "lead"](#wedo)\
+SEE: [\*wed-o- "lead"](#wedo-1)\
 ETYM: This verb contains the PCelt. prefix \*dī- "from, away", and the same root as in \*wed-o- "lead".\
 REF: [EDPC]
 
@@ -3159,7 +3159,7 @@ REF: [EDPC]
 ### <a id="farekomwedo">\*fare-kom-wed-o- "prevent, wound" (v)</a>
 GOID: OIr. _ar-coat, arcói_ [prs.subj.3s] "prevent, hinder"; -_airchós_ [prt.pass.]\
 W: MW _argyweddu_ "injure, damage"\
-SEE: [\*wed-o- "lead"](#wedo)\
+SEE: [\*wed-o- "lead"](#wedo-1)\
 REF: [EDPC]
 
 ### <a id="farekoro">\*fare-koro- "blow, shot" (n)</a>
@@ -3191,14 +3191,14 @@ REF: [EDPC]
 ### <a id="farewedo">\*fare-wed-o- "lead, bring to" (v)</a>
 GOID: OIr. _ar-feid_ (OIL _ar-fet_) "precede, take precedence of"\
 W: MW _arwein_ "bear, carry" (GPC _arwain, arweddu_)\
-SEE: [\*wed-o- "lead"](#wedo)\
+SEE: [\*wed-o- "lead"](#wedo-1)\
 REF: [EDPC]
 
 ### <a id="farewedyo">\*fare-wed-yo- "sign" (n)</a>
 GOID: OIr. _airde_ [io n] "sign, token, quality"\
 W: MW _arwydd_ [m and f] "sign, mark, standard, banner"\
 BRET: OBret. _aroued-ma_ gl. _signaculum_, MBret. _argoez_, MoBret. _arouez_ [m] "sign, symbol"\
-SEE: [\*wēd-o- "know"](#wedo)\
+SEE: [\*wēd-o- "tell, relate"](#wedo-3)\
 REF: [EDPC]
 
 ### <a id="farextu">\*fare-xtu- "conversation, assembly, meeting" (n)</a>
@@ -3324,7 +3324,7 @@ REF: [EDPC]
 GOID: OIr. _íasc_ [o m]\
 PIE: \*pi(ḱ)sḱo- "trout, fish" (IEW: 796)\
 COGN: Lat. _piscis_, OHG _fisc_ \
-ETYM: W river-name _Wysg_ could reflect \*fēskā (Sims-Williams 2006: 80). Cf. also Gaul. river-name _Isca_, which would be from \*fiska. The vocalism of OIr. _íasc_ requires that we start from PIE \*pey(ḱ)sḱo- (the cluster \*ksk may have been dissimilated to \*sk as in \*prḱsḱ- > PCelt. [\*farsk- "ask"](#farsk)).\
+ETYM: W river-name _Wysg_ could reflect \*fēskā (Sims-Williams 2006: 80). Cf. also Gaul. river-name _Isca_, which would be from \*fiska. The vocalism of OIr. _íasc_ requires that we start from PIE \*pey(ḱ)sḱo- (the cluster \*ksk may have been dissimilated to \*sk as in \*prḱsḱ- > PCelt. [\*farsk-o- "ask"](#farsko)).\
 REF: [EDPC]
 
 ### <a id="fesskuta">\*fesskūtā "(leather) boot, shoe" (n)</a>
@@ -3358,7 +3358,7 @@ REF: [EDPC]
 GOID: OIr. _íath_ [u n] "land, territory"\
 PIE: \*peyH-tu- "prairy, rich grassland" (IEW: 793)\
 COGN: Gr. _poíē_ "grass", Lith. _píeva_ "meadow"\
-SEE: [\*fiweryon- "earth, soil"](#fīweryon)\
+SEE: [\*fīweryon- "earth, soil"](#fiweryon)\
 ETYM: The name of the Gaulish tribe _Heluētiī_ could be a compound \*felu-etyo- "_Die Landreichen_" (see Delamarre 168). The PCelt. form is from PIE \*peyh₂-tu-. The laryngeal is reconstructed on the basis of the acute in Lithuanian, which means that this root has to be separated from \*peyt­ "feed" (cf. [\*fitu- "food"](#fitu)). It is probably the same root as in PCelt. \*fīweryon­ "earth, soil" < \*piHwer-. I am not sure whether OIr. _íth_ [u n] belongs here as well, but it could, in principle, be from \*fītu- < \*pih₂tu-).\
 REF: [EDPC-AC]
 
@@ -3374,10 +3374,10 @@ GOID: OIr. _ibid, -ib; ebaid, -eba_ [subj.]; _íbaid, -íba_ [fut.]; _ibis, -ib_
 W: MW _yuet; yf_ [3s.prs.] (GPC _yfed_)\
 BRET: MBret. _euaff, yvet_ \
 CO: Co. _eva, eve_ \
-GAUL: _ibetis_ [2p Impv. or Ind.]\
+GAUL: _ibetis_ [2p impv. or ind.]\
 PIE: \*peh₃(y)- "drink" (IEW: 839f.)\
 COGN: Skt. _píbati_, Lat. _bibo_, Gr. _pínō_, OCS _piti_ \
-ETYM: Cf. also Gaul. theonym _Ibosus_ (CIL XIII 1370), which might be from the same root. In OW, the form _iben_ is attested (Juvencus 3). It is the 1p. imperfect. For the possibility that this PCelt. verb originally had athematic i-inflexion (Kortlandt 2007: 137), cf. [\*ar-yo- "plough"](#aryo).\
+ETYM: Cf. also Gaul. theonym _Ibosus_ (CIL XIII 1370), which might be from the same root. In OW, the form _iben_ is attested (Juvencus 3). It is the 1p. imperfect. For the possibility that this PCelt. verb originally had athematic i-inflexion (Kortlandt 2007: 137), cf. [\*ar-yo- "plough"](#aryo-2).\
 REF: [EDPC]
 
 ### <a id="filu">\*filu- "many" (adj)</a>
@@ -3522,7 +3522,7 @@ REF: [EDPC-AC]
 GOID: OIr. _do-lin_ \
 PIE: \*pleh₁- "be full, fill" (IEW: 798f.)\
 COGN: Skt. _pṛṇā́ti_ "fill", Arm. _lnum_ \
-SEE: [\*flānos "full"](#flanos)\
+SEE: [\*flāno- "full"](#flano)\
 ETYM: OIr. _do-lin_ < \*to-fli-nu- (the simplex is unattested). In EIEC, the OIr. verb is related rather to PIE \*leyH- "set in motion, pour" (Lat. _lītus_ "beach", OCS _liti_ "pour", Lith. _líeti_, etc., IEW 664ff.), which is also a possiblity.\
 REF: [EDPC]
 
@@ -3682,7 +3682,7 @@ BRET: MBret. _bez-ret_ "cemetery"\
 GAUL: _ratin_ [acc.] (RIG L-3, Le Vieux-Poitiers), _Argento-rate_ [toponym]\
 PIE: \*preh₂t-i- "field" (IEW: 843)\
 COGN: Lat. _prātum_ "field"\
-ETYM: The reconstruction here is based on the comparison with Lat. _prātum_ "field", but this has been contested on semantic grounds (de Vaan 2008: 487). McCone (1996: 52) prefers the derivation of the Celtic forms from \*h₂rh₃-ti-, from the root \*h₂erh₃- "to plow" (cf. PCelt. [\*ar-yo-](#aryo)). If this is correct, the PCelt. form would be \*rāti-, and the original meaning would be "a dugout, a digging".\
+ETYM: The reconstruction here is based on the comparison with Lat. _prātum_ "field", but this has been contested on semantic grounds (de Vaan 2008: 487). McCone (1996: 52) prefers the derivation of the Celtic forms from \*h₂rh₃-ti-, from the root \*h₂erh₃- "to plow" (cf. PCelt. [\*ar-yo-](#aryo-2)). If this is correct, the PCelt. form would be \*rāti-, and the original meaning would be "a dugout, a digging".\
 REF: [EDPC]
 
 ### <a id="frato">\*frato- "grace, virtue, good fortune" (n)</a>
@@ -3768,7 +3768,7 @@ SEE: [\*ank-o-](#anko)\
 REF: [EDPC]
 
 ### <a id="frobowdo">\*fro-bowdo- "notice, warning" (n)</a>
-SEE: [\*bu-n-do- "proclaim, give notice"](#bundo)\
+SEE: [\*bu-n-do- "proclaim, give notice"](#bundo-2)\
 REF: [EDPC]
 
 ### <a id="froguso">\*fro-gus-o- "choice" (n)</a>
@@ -3866,7 +3866,7 @@ GAUL: _gabi_ [2s Impv.] ?_Gabiae_ [theonym]\
 CELTIB: _kabizeti_ [3s] (Botorrita I)\
 PIE: \*gʰHbʰ- (IEW: 407ff.)\
 COGN: Lat. _habeo_ "have"\
-ETYM: McCone (2003) argues rather persuasively that Celtib. _kabizeti_ can be derived from \*gabiyeti, i.e. that it is a present indicative rather than (sigmatic) desiderative formation; all certain examples of Celtib. _z_ come from PIE \*d rather than \*s, which is generally preserved in Celtib., and the change of \*(i)y > _z_ may also be attested in PCelt. \*nowyo- > Celtib. _nouiza_. However, Wodtko (MLH V.1: 144) considers the meaning of this form as unknown, and one would wish that there were more examples of the change \*(i)y > _z_ in Celtiberian. de Bernardo Stempel (2006) attempts to prove that the original meaning of PCelt. \*gab- was "give", rather than "take", and interprets Gaul. _gabi_ as "give", and the theonym Gabiae as "the Givers, Bestowers", which seems plausible; whether this is correct or not, the etymological equations gathered here are unaffected. For the possibility that this PCelt. verb had an athematic i-present see Kortlandt 2007: 137 and cf. [\*ar-yo- "plough"](#aryo). The PIE reconstruction is disputed. The only certain cognate is Lat. _habeo_ and the related Italic words (de Vaan 2008: 277). I do not believe that Skt. _gábhasti_- "hand, forearm" is related (it would have to be from \*gʰHebʰ-); likewise, I find it improbable that PGerm. \*geban "give" is from \*gʰh₁ebh-, although this cannot be wholly excluded. Lith. _gabùs_ "handy" and Lith. _gabana_ "armful of hay" are possible cognates, but the e­-grade in Lith. _gebė́ti_ "be able" would then have to be secondary (a new formation based on the frequent ablaut of _a_ : _e_ in other roots).\
+ETYM: McCone (2003) argues rather persuasively that Celtib. _kabizeti_ can be derived from \*gabiyeti, i.e. that it is a present indicative rather than (sigmatic) desiderative formation; all certain examples of Celtib. _z_ come from PIE \*d rather than \*s, which is generally preserved in Celtib., and the change of \*(i)y > _z_ may also be attested in PCelt. \*nowyo- > Celtib. _nouiza_. However, Wodtko (MLH V.1: 144) considers the meaning of this form as unknown, and one would wish that there were more examples of the change \*(i)y > _z_ in Celtiberian. de Bernardo Stempel (2006) attempts to prove that the original meaning of PCelt. \*gab- was "give", rather than "take", and interprets Gaul. _gabi_ as "give", and the theonym Gabiae as "the Givers, Bestowers", which seems plausible; whether this is correct or not, the etymological equations gathered here are unaffected. For the possibility that this PCelt. verb had an athematic i-present see Kortlandt 2007: 137 and cf. [\*ar-yo- "plough"](#aryo-2). The PIE reconstruction is disputed. The only certain cognate is Lat. _habeo_ and the related Italic words (de Vaan 2008: 277). I do not believe that Skt. _gábhasti_- "hand, forearm" is related (it would have to be from \*gʰHebʰ-); likewise, I find it improbable that PGerm. \*geban "give" is from \*gʰh₁ebh-, although this cannot be wholly excluded. Lith. _gabùs_ "handy" and Lith. _gabana_ "armful of hay" are possible cognates, but the e­-grade in Lith. _gebė́ti_ "be able" would then have to be secondary (a new formation based on the frequent ablaut of _a_ : _e_ in other roots).\
 REF: [EDPC]
 
 ### <a id="gala">\*galā "valor, ability" (n)</a>
@@ -3959,7 +3959,7 @@ W: MW _gawr_ [f and m]; _gewri_, _geuri_, _goriau_ [p]\
 GAUL: _Garo-marus_ [PN]\
 PIE: \*ǵeh₂r- "shout, call" (JEW: 352)\
 COGN: Gr. _gē̃rys_ "voice, call", Lat. _garrio_ "chatter", OE _cearu_ "care, sorrow", Khot. _ysār_- "to sing" [caus.]\
-SEE: [\*gar(r)man- "cry, shout"](#garrman), [\*garyo- "call, cry"](#garyo)\
+SEE: [\*gar(r)man- "cry, shout"](#garrman), [\*garyo- "call, cry"](#garyo-1)\
 ETYM: These Celtic forms preserve the full grade of the PIE root; the zero­ grade is preserved in \*garsman- and \*gari- (v.).\
 REF: [EDPC]
 
@@ -3977,7 +3977,7 @@ GOID: OIr. _gairm_ [n n] "the act of shouting, calling"\
 W: MW _garm_ [f]\
 BRET: MBret. _garm_ [m]\
 CO: Co. _garm_ \
-SEE: [\*gari-](#gari), [\*garyo- "word, command"](#garyo)\
+SEE: [\*gāri-](#gari), [\*garyo- "word, command"](#garyo-2)\
 ETYM: The short vowel is impossible if one starts from \*geh₂r-smen-; however, the development from the zero-grade of the root (\*gh₂r-smen-) is regular, and the zero-grade is attested in other such formations (cf. [\*kanxsman-](#kanxsman), [\*lanxsman-](#lanxman)). The chronology of the developments was probably \*gh₂r-smn- > \*garsman- > \*garrman- (> \*garman-).\
 REF: [EDPC]
 
@@ -3995,7 +3995,7 @@ W: MW _garddu_ "groan, creak, crush, shake"\
 BRET: OBret. _gerent_ gl. _dicunt_ [3p.prs.]\
 PIE: \*geh₂r- "call" (IEW: 352)\
 COGN: Lat. _garrīre_, Oss. _zaryn/zarun_ "sing"\
-SEE: [\*gari-, \*garyo- "word, command"](#garyo-2)\
+SEE: [\*gāri-](#gari), [\*garyo- "word, command"](#garyo-2)\
 ETYM: Gaul. adgarion [acc.sg.] (Chamalières) might perhaps be translated as "accusatorem" (Lejeune, Delamarre, Fleuriot), in which case it is a cognate of OIr. ad-gair "summon" (Delamarre 32, Lambert 1994: 151). The short \*a in this Celtic etymon is regular, if one starts from the zero­ grade \*gh₂r-yo-.The full grade of the root is preserved in \*gari- "call".\
 REF: [EDPC]
 
@@ -4109,7 +4109,7 @@ ETYM: The PCelt. word cannot be reconstructed precisely, since the suffixes in G
 REF: [EDPC]
 
 ### <a id="genan">\*genan- "birth" (n)</a>
-SEE: [\*gan-yo- "be born"](#ganyo), [\*genos- "family"](#genos)\
+SEE: [\*gan-yo- "be born"](#ganyo), [\*geno- "family"](#geno)\
 REF: [EDPC]
 
 ### <a id="gendV">\*gendV- "wedge, block, lump" (n)</a>
@@ -4140,7 +4140,7 @@ GAUL: _Ad-genus_, _Cintu-genus_ [PN]\
 PIE: \*ǵenh₁-os "family, clan, descendants" (IEW: 373ff.)\
 COGN: Skt. _jánas_-, Gr. _génos_, Lat. _genus_ \
 SEE: [\*gan-yo- "be born"](#ganyo)\
-REF: [EDPC]
+REF: [EDPC-AC]
 
 ### <a id="genu">\*genu- "jaw" (n)</a>
 GOID: OIr. _gin_ [u m] "mouth"\
@@ -4583,12 +4583,12 @@ W: MW _imguodant_ \
 GAUL: _uediíumi_ [1s.prs.] (Chamalières)\
 PIE: \*gʷʰedʰ- "wish" (IEW: 488)\
 COGN: Gr. _pothéō_ "wish", Go. _bidjan_ \
-ETYM: MW _imguodant_ < \*ambi-gʷod-o-. The Celtiberian family name _kuezontikum_ (Botorrita III, IV-36) might reflect the Celtib. reflex of this root (Villar 1997: 908). Gaul. _uediíumi_ has also been connected to \*wed- "bind" (Fleuriot 1976-7); since it is a hapax, many interpretations are possible, but "I pray" makes more sense than "I bind" in the context of the Chamalières inscription. For the possibility that this verb (and the whole OIr. BII class of present stems) originally had athematic i-inflection see [\*ar-yo- "plough"](#aryo) and cf. Kortlandt 2007: 137.\
+ETYM: MW _imguodant_ < \*ambi-gʷod-o-. The Celtiberian family name _kuezontikum_ (Botorrita III, IV-36) might reflect the Celtib. reflex of this root (Villar 1997: 908). Gaul. _uediíumi_ has also been connected to \*wed- "bind" (Fleuriot 1976-7); since it is a hapax, many interpretations are possible, but "I pray" makes more sense than "I bind" in the context of the Chamalières inscription. For the possibility that this verb (and the whole OIr. BII class of present stems) originally had athematic i-inflection see [\*ar-yo- "plough"](#aryo-2) and cf. Kortlandt 2007: 137.\
 REF: [EDPC]
 
 ### <a id="gwelo">\*gʷel-o- "graze, eat" (v)</a>
 GOID: OIr. _geilid_, -_geil_; _gelaid_, -_gela_ [subj.]; _gilt_, -_gelt_ [prt.]\
-SEE: [\*gʷeltā "grass"](#gwetla)\
+SEE: [\*gʷeltā "grass"](#gwelta)\
 ETYM: The reconstruction of the PIE root from which this etymon developed is not generally agreed upon; Arm. _klanem_ "swallow", Russ. _glotat'_ "swallow", Lat. _gluttio_ "devour" point to PIE \*glew- (IEW 365), which might be onomatopoetic (cf. also Lat. _gula_ "throat"). OE _ceole_, Germ. _Kehle_ "throat" might contain the reflex of PIE \*gel-, but if OIr. _gelid_ is related to the word for "grass", the Celtic proto-form must be from the root with initial \*gʷʰ-, since PIE \*gʷ > PCelt. \*b. However, a PIE root \*gʷʰel-­ with a comparable meaning does not seem to exist.\
 REF: [EDPC]
 
@@ -4930,7 +4930,7 @@ REF: [EDPC]
 GOID: OIr. _cécht_ [u m]\
 PIE: \*ḱnk-t- "pointed object" (IEW: 523)\
 COGN: Skt. _śakti_- "spear"\
-SEE: [\*kanka "branch"](#kanka)\
+SEE: [\*kankā "branch"](#kanka)\
 ETYM: Obviously a derivative of the PCelt. word for "branch". For the change of meaning cf. OCS _soxa_ "plough" vs. Lith. _šakà_ "branch" < PIE \*ḱokHo-. On the connection of Skt. _śakti_- "power" to _śakti_- "spear" see Mayrhofer, s.v. A. Lubotsky (p.c.) doubts whether _śakti_- "spear" exists.\
 REF: [EDPC]
 
@@ -5013,7 +5013,7 @@ ETYM: The semantic reconstruction is the key to the etymology of this word. If t
 REF: [EDPC-AC]
 
 ### <a id="karut">\*karut- "champion" (n)</a>
-SEE: [\*kawaro- "hero, champion"](#karawo)\
+SEE: [\*kawaro- "hero, champion"](#kawaro)\
 REF: [EDPC]
 
 ### <a id="karwo">\*karwo- "deer" (n)</a>
@@ -5289,7 +5289,7 @@ REF: [EDPC]
 ### <a id="kentusamonyo">\*kentu-samonyo- "May" (n)</a>
 GOID: OIr. _cétamain_ [indecl.]\
 W: MW _kintevin_ [m] (GPC _cyntefin_) "beginning of summer, May"\
-SEE: [\*kentu-](#kentu), [\*samon-](#samon)\
+SEE: [\*kentu-](#kentu), [\*samo-](#samo)\
 ETYM: This is a compound containing \*kentu- "first" and \*samon­ "summer".\
 REF: [EDPC]
 
@@ -5337,7 +5337,7 @@ BRET: MBret. _quern_ "top", MoBret. _kern_ [f]\
 CO: Co. _Kernow_ "Cornwall"\
 PIE: \*ḱer(h₂)-no- "horn" (IEW: 576)\
 COGN: Go. _haurna_ "horn", Lat. _cornu_ "horn"\
-SEE: [\*karno- "horn, hoof"](#karno)\
+SEE: [\*karno- "horn, hoof"](#karno-1)\
 ETYM: MIr. _cern_ "corner" might be the same word as _cern_ "receptacle, dish" (if this latter word originally denoted only dishes of angled shape). If this etymon is indeed from the PIE root for "horn", Celtic must have generalized the root shape without the laryngeal (just as Latin _cornu_). The same root is in the zero-grade in PCelt. \*karno-.\
 REF: [EDPC]
 
@@ -5416,7 +5416,7 @@ REF: [EDPC]
 
 ### <a id="kladiwo">\*kladiwo- "sword" (n)</a>
 GOID: OIr. _claideb_ [o m]\
-SEE: \*klādo-, [\*klado- "trench"](#klado-2)\
+SEE: [\*klādo-, \*klado- "trench"](#klado-2)\
 ETYM: The Brittonic words (MW _cledyf_, MBret. _clezeff_, Co. _clethe_) are early loanwords from Goidelic. It is usually assumed that Lat. _gladius_ was borrowed from Celtic in prehistoric times, but it could also be inherited (with \*kl > _gl_- as in Lat. _gloria_ < \*klowesyā).\
 REF: [EDPC]
 
@@ -5430,7 +5430,7 @@ SEE: [\*klādo-, \*klado- "trench"](#klado-2)\
 ETYM: The Celtic forms show the reflexes of the zero-grade of the PIE root. Schumacher (KPV 412) thinks that \*klad- is the regular reflex of \*klh₂d-, which I find unlikely. The expected reflex \*klād- is preserved in the Subjunctive, OIr. -_cláiss_ < \*klāds-, while the short vowel in the present may be the result of Dybo's law, if the original present was \*klh₂déti, \*klh₂dónti (the type of Skt. _tudáti_).\
 REF: [EDPC]
 
-### <a id="klado">\*klādo-, \*klado- "trench" (n)</a>
+### <a id="klado-2">\*klādo-, \*klado- "trench" (n)</a>
 GOID: MIr. _clad_, _clod_ [o m] "hole dug in the ground, trench"\
 W: MW _cladd_ [m and f] "pit, ditch" (GPC _cladd_), _clawd_ [m] "mound, ditch, pit, bulwark" (GPC _clawdd_); _cloddiau_, _cloddion_ [p]\
 BRET: MBret. _kleuz_ (MoBret.)\
@@ -5697,7 +5697,7 @@ GOID: OIr. _cuilén_ [o m] "pup, whelp, cub, kitten"\
 W: MW _colwyn_ [m]; _colwynod_ [p]\
 BRET: OBret. _coloinan_ gl. _catulaster_, MBret. qu_oalen\
 CO: OCo. _coloin_ gl. _catulus_ \
-ETYM: Theoretically, it would be possible to derive \*koligno- by dissimilation from \*koni-gno-, and relate the first element of this compound to PIE \*ken- "young, new" (see PCelt. [\*kanawon-](#kanawon)). The second element would be derivable from PIE \*ǵenh₁- "bear, give birth to" (see PCelt. [\*genos-](#genos)). However, this is highly speculative. Since no persuasive IE etymology is at hand, it is quite likely that this word was borrowed from some non-IE language.\
+ETYM: Theoretically, it would be possible to derive \*koligno- by dissimilation from \*koni-gno-, and relate the first element of this compound to PIE \*ken- "young, new" (see PCelt. [\*kanawon-](#kanawon)). The second element would be derivable from PIE \*ǵenh₁- "bear, give birth to" (see PCelt. [\*geno-](#geno)). However, this is highly speculative. Since no persuasive IE etymology is at hand, it is quite likely that this word was borrowed from some non-IE language.\
 REF: [EDPC]
 
 ### <a id="kolino">\*kolino- "holly tree" (n)</a>
@@ -5773,7 +5773,7 @@ SEE: [\*daw-yo- "kindle, burn"](#dawyo)\
 REF: [EDPC]
 
 ### <a id="komdelgo">\*kom-delgo- "contract, comparison" </a>
-SEE: [\*delg-o- "hold"](#delgo)\
+SEE: [\*delg-o- "hold"](#delgo-1)\
 REF: [EDPC]
 
 ### <a id="komfroanko">\*kom-fro-ank-o- "meet, fight" (v)</a>
@@ -5804,7 +5804,7 @@ CO: OCo. _chefuidoc_ gl. _omnipotens_ \
 REF: [EDPC]
 
 ### <a id="komriga">\*kom-rigā "binding, bond" (n)</a>
-SEE: [\*rig-o- "bind"](#rigo)\
+SEE: [\*rig-o- "bind"](#rigo-1)\
 REF: [EDPC]
 
 ### <a id="komruno">\*kom-rūno- "secret, confident" (adj)</a>
@@ -6050,7 +6050,7 @@ W: MW _cryddu_ "shrink"\
 BRET: MBret. _crezz_, MoBret. _krez_ "stingy"\
 PIE: \*(s)krdʰ-\
 COGN: Skt. _kṛdhu_- "short, shortened, small", Lith. _skur̃sti_ "lack"\
-ETYM: MIr. _credb_ can be from \*kridwV (stem and gender are unknown). MIr. _cres_ [o] "small, narrow" could also, in principle, be from the same root (PCelt. [\*krisso-](#krisso) < \*krdʰ-to-).\
+ETYM: MIr. _credb_ can be from \*kridwV (stem and gender are unknown). MIr. _cres_ [o] "small, narrow" could also, in principle, be from the same root (PCelt. \*krisso- < \*krdʰ-to-).\
 REF: [EDPC-AC]
 
 ### <a id="kridyo">\*kridyo- "heart" (n)</a>
@@ -6411,7 +6411,7 @@ W: OW _penn_ [m], MW _penn_, (GPC _pen_)\
 BRET: OBret. _penn_, _pen_, MoBret. _penn_ [m]\
 CO: OCo. _pen_ gl. _capud_, MCo. _pen_ \
 GAUL: _pennon_ (Clermont-Ferrand, RIG L-136), _Penno-ouindos_ [PN]\
-ETYM: MIr. spelling _cend_ (rather than _cenn_) is late, and does not prove a pre-form \*kʷendo-. Ogam PN _CUNA-CENNI_ (gen.sg.) has the perfect match in Gaul. _Cunopennus_ "Dog-head". OIr. _conn_ [o m] "chief" is sometimes derived from the same root (see PCelt. [\*kʷondos](#kwondos)). If that is so, the ablaut shows that these words are inherited rather than borrowed from some substratum, but all attempts to identify a PIE root have proven futile.\
+ETYM: MIr. spelling _cend_ (rather than _cenn_) is late, and does not prove a pre-form \*kʷendo-. Ogam PN _CUNA-CENNI_ (gen.sg.) has the perfect match in Gaul. _Cunopennus_ "Dog-head". OIr. _conn_ [o m] "chief" is sometimes derived from the same root (see PCelt. [\*kondos](#kondos)). If that is so, the ablaut shows that these words are inherited rather than borrowed from some substratum, but all attempts to identify a PIE root have proven futile.\
 REF: [EDPC]
 
 ### <a id="kweno">\*kʷēno- "long" (adj)</a>
@@ -6797,7 +6797,7 @@ REF: [EDPC]
 ### <a id="lesko">\*lesko- "weak, lazy" (adj)</a>
 GOID: OIr. _lesc_ [o] gl. _piger_ \
 W: W _llesg_ "weak, frail, faint, feeble"\
-ETYM: It is doubtful whether the GL PNs _Liscus_, _Lisca_ belong here. The IE etymology is unclear. In principle, it is formally possible to derive PCelt. \*lesko- from \*lexsko- < \*legʰ-sko-, from the root \*legʰ- "lay, lie down" (see [\*leg-o-](#lego)) and compare OHG _ir-lescan_ "extinguish" (Germ. _löschen_), but a deverbal adjective with the present suffix \*-sko- would be surprising.\
+ETYM: It is doubtful whether the GL PNs _Liscus_, _Lisca_ belong here. The IE etymology is unclear. In principle, it is formally possible to derive PCelt. \*lesko- from \*lexsko- < \*legʰ-sko-, from the root \*legʰ- "lay, lie down" (see [\*leg-o-](#lego-2)) and compare OHG _ir-lescan_ "extinguish" (Germ. _löschen_), but a deverbal adjective with the present suffix \*-sko- would be surprising.\
 REF: [EDPC-AC]
 
 ### <a id="lessu">\*lessu- "benefit, use" (n)</a>
@@ -6831,7 +6831,7 @@ W: MW _lleith_ [m] "death, destruction" (GPC _llaith_)\
 PIE: \*legʰ- "lie" (IEW 658f.)\
 COGN: Lat. _lectus_ "bed"\
 SEE: [\*leg(y)o- "bed"](#legyo)\
-ETYM: OIr. _lecht_ is sometimes considered to be a borrowing from Lat. _lectus_, but the parallels in Welsh make it probable that the word is inherited. MW _lleas_, _llias_ "death, bloodshed" may represent a derivative from the same root ([\*legastu-](#legastu)).\
+ETYM: OIr. _lecht_ is sometimes considered to be a borrowing from Lat. _lectus_, but the parallels in Welsh make it probable that the word is inherited. MW _lleas_, _llias_ "death, bloodshed" may represent a derivative from the same root (\*legastu-).\
 REF: [EDPC-AC]
 
 ### <a id="ligo">\*lig-o- "lick" (v)</a>
@@ -6864,7 +6864,7 @@ W: MW _llynn_ [m and f] "drink, lake" (GPC _llyn_)\
 BRET: OBret. _lin_ "lake", MoBret. _lenn_ "pool"\
 CO: OCo. _gre-lin_ gl. _lacus_ \
 GAUL: _linda_ [nom.pl.] (Banassac), _Lindiacum_ [toponym]\
-ETYM: GPC has two different entries, _llyn_ [m and f] "lake, pool" and _llyn_ [m] "drink, beverage". It is possible that this difference goes back to PCelt. (? \*lindo- "drink", \*lindā "pool, lake"); the basic meaning of \*lind- could have been "drinkable water" (St. Zimmer, p.c.). In principle, it would be possible to derive these words from the same root as in [\*liy-o- "flow"](#liyo), but the derivation is difficult: PIE \*liH-nd-u (with unclear word formation) would give PCelt. \*līndu-, and \*ī could have been shortened either by the Celtic variant of Osthoffs law, or by Dybo's law, if it had been in the pretonic position.\
+ETYM: GPC has two different entries, _llyn_ [m and f] "lake, pool" and _llyn_ [m] "drink, beverage". It is possible that this difference goes back to PCelt. (? \*lindo- "drink", \*lindā "pool, lake"); the basic meaning of \*lind- could have been "drinkable water" (St. Zimmer, p.c.). In principle, it would be possible to derive these words from the same root as in [\*liy-o- "flow"](#liyo-2), but the derivation is difficult: PIE \*liH-nd-u (with unclear word formation) would give PCelt. \*līndu-, and \*ī could have been shortened either by the Celtic variant of Osthoffs law, or by Dybo's law, if it had been in the pretonic position.\
 REF: [EDPC]
 
 ### <a id="linkwo">\*li-n-kʷ-o- "leave, let" (v)</a>
@@ -6889,7 +6889,7 @@ BRET: MBret. _lin_ \
 CO: Co. _lyn_ \
 PIE: \*leyH- "flow" (IEW: 664f.)\
 COGN: OCS _liti_ "flow, pour", Lith. _líeti_ "pour"\
-SEE: [\*liy-o- "flow"](#liyo)\
+SEE: [\*liy-o- "flow"](#liyo-2)\
 ETYM: A nominal derivative from PCelt. \*liy-o- "flow". It presupposes the zero-grade of the PIE root (\*liH-no-).\
 REF: [EDPC]
 
@@ -6917,14 +6917,14 @@ REF: [EDPC]
 ### <a id="litiako">\*līti(-āko)- "accused" (adj)</a>
 GOID: OIr. _líthech_ [o] "accused person"\
 COGN: Lat. _līs_, _lītis_, OLat. _slis_ (Lex Acilia: _quanti eius rei slis ae[stumata erit_ "such damages as shall have been assessed in this case")\
-SEE: [\*li-yo- "accuse"](#liyo)\
+SEE: [\*li-yo- "accuse"](#liyo-1)\
 ETYM: OIr. lithech is a legal term, occurring mostly in early legal tracts. It is a nominalized adjective derived from unattested \*(s)liti- "lawsuit, accusation". The connection to Lat. Ifs is compelling, but we must assume that the PCelt. word lacked the s-mobile, which is attested in Old Latin.\
 REF: [EDPC]
 
 ### <a id="litu">\*lītu- "feast, celebration" (n)</a>
 GOID: OIr. _lith_ [u m]\
 BRET: OBret. _lit_, MoBret. _lid_ [m] "feast, rite"\
-ETYM: Gaulish names with the first element _Litu_- may contain the same root (e.g. _Litu-genus_, _Litu-maros_), but they can also be related to PCelt. \*flitano- "broad". The absence of clear cognates outside Celtic means that the PCelt. reconstruction is quite uncertain (PCelt. \*flitu- would also be possible). In principle, PCelt. \*lītu- can be derived from \*liH-tu- "flowing (of drinks/libations)", from the PIE root \*leyH- "flow" (see PCelt. [\*liy-o­ "flow"](#liyo)), but this is, of course, merely a root etymology.\
+ETYM: Gaulish names with the first element _Litu_- may contain the same root (e.g. _Litu-genus_, _Litu-maros_), but they can also be related to PCelt. \*flitano- "broad". The absence of clear cognates outside Celtic means that the PCelt. reconstruction is quite uncertain (PCelt. \*flitu- would also be possible). In principle, PCelt. \*lītu- can be derived from \*liH-tu- "flowing (of drinks/libations)", from the PIE root \*leyH- "flow" (see PCelt. [\*liy-o­ "flow"](#liyo-2)), but this is, of course, merely a root etymology.\
 REF: [EDPC]
 
 ### <a id="liwank">\*līwank- "stone, pillar" (n)</a>
@@ -6953,7 +6953,7 @@ SEE: [\*liy-o- "charge, accuse"](#liyo-1)\
 REF: [EDPC-AC]
 
 ### <a id="liyant">\*liy-ant- "flood" (n)</a>
-SEE: [\*liy-o- "flow"](#liyo)\
+SEE: [\*liy-o- "flow"](#liyo-2)\
 REF: [EDPC]
 
 ### <a id="liyo-1">\*liy-o- "charge, accuse" (v)</a>
@@ -7244,20 +7244,20 @@ COGN: Gr. _mḗn_ (particle)\
 ETYM: The short vowel seen in OIr. _ma_ and MBret. _ma_ could perhaps be explained by shortening in clitics. Cf. also particles such as Hitt. -_ma_ "but", Skt. _sma_.\
 REF: [EDPC]
 
-### <a id="madyo">\*mad-yo- "break" (v)</a>
+### <a id="madyo-1">\*mad-yo- "break" (v)</a>
 GOID: OIr. _maidid_, -_maid_; _máis_, -_má_ [subj.]; _memais_, -_mema_ [fut.]; _memaid_ [prt.]\
 W: MW _maeddu_ "break, win"\
 BRET: MBret. _mezaff_ "knead", MoBret. _mezañ_ \
 PIE: \*mad-? (\*mh₂d-) "be wet, become wet" (IEW: 694f.)\
 COGN: Lat. _madeo_, Gr. _madáō_, Skt. _mádati_ "rejoice, be intoxicated"\
-ETYM: For the possibility that this PCelt. verb originally had athematic i­-inflexion (Kortlandt 2007: 137), cf. [\*ar-yo- "plough"](#aryo). The PIE etymology is semantically dubious because it is difficult to derive the meaning in Celtic ("break") from the PIE meaning "be wet". However, OIr. _maidid_ can be used impersonally in the sense of "burst", and this may have been the original meaning of the root in Celtic. If so, then the meaning "to burst" may have been extended from the more specific (the bursting of streams and torrents) to the more general, cf. the connection in Croatian between _pȑskati_ "sprinkle" and _pȑsnuti_ "burst, explode". Formally, Celtic \*mad- can be from PIE zero­ grade of the root (\*mh₂d-).\
+ETYM: For the possibility that this PCelt. verb originally had athematic i­-inflexion (Kortlandt 2007: 137), cf. [\*ar-yo- "plough"](#aryo-2). The PIE etymology is semantically dubious because it is difficult to derive the meaning in Celtic ("break") from the PIE meaning "be wet". However, OIr. _maidid_ can be used impersonally in the sense of "burst", and this may have been the original meaning of the root in Celtic. If so, then the meaning "to burst" may have been extended from the more specific (the bursting of streams and torrents) to the more general, cf. the connection in Croatian between _pȑskati_ "sprinkle" and _pȑsnuti_ "burst, explode". Formally, Celtic \*mad- can be from PIE zero­ grade of the root (\*mh₂d-).\
 REF: [EDPC]
 
-### <a id="madyo">\*madyo- "futile, useless" (adj)</a>
+### <a id="madyo-2">\*madyo- "futile, useless" (adj)</a>
 GOID: OIr. _madae_ [io] "useless"\
 W: MW _madeu_ in _eneit vadeu_ "lost soul"; _madau_ (GPC _maddau_) "forfeit, give up, lose"\
 BRET: OBret. _in vadau_ gl. _pessum_ \
-SEE: [\*mad-yo- "break"](#madyo)\
+SEE: [\*mad-yo- "break"](#madyo-1)\
 ETYM: It is possible that this adjective is derived from the root \*mad- "to break". The semantic development would be from "broken" to "useless".\
 REF: [EDPC]
 
@@ -7323,7 +7323,7 @@ BRET: MBret. _maguaff_ "feed, rear", MoBret. _maezhur_, _magañ_ "feed, rear"\
 CO: Co. _maga_ \
 PIE: \*meh₂ḱ- "thin, elongated" (IEW: 709 (\*megʰ-))\
 COGN: Lat. _maceo_ "be lean", Gr. _makrós_ "big", Hitt. _maklant_- "thin, meagre, slim (of animals)", OHG _magar_ "meagre"\
-SEE: [\*makʷos "son"](#makwos)\
+SEE: [\*makʷo- "son"](#makwo)\
 ETYM: OIr. _do-formaig_ < \*to-wor-mak-o- (the simplex is unattested in Goidelic). The Celtic forms presuppose the zero-grade of the root, PIE \*mh₂k- > PCelt. \*mak-. The development of meaning would have been from "make thin" to "make long" and, finally "increase" (cf. also Gr. _makrós_ "great" from "\*long, elongated"). It is quite uncertain whether OIr. _mér_ [o m] "digit, finger" also belongs here; formally, it would be derivable from \*mak-ro-, but the semantic development is difficult (from "thin/long finger" to "finger"?).\
 REF: [EDPC-AC]
 
@@ -7354,7 +7354,7 @@ COGN: Lat. _molo_, Lith. _málti_, Arm. _malem_ \
 ETYM: The Brittonic forms can be derived from the zero-grade of the root, PIE \*mlh₂o- > \*malH-o- > PCelt. \*mal-o-. OIr. _meilid_ preserves the full grade (PIE \*melh₂o-).\
 REF: [EDPC]
 
-### <a id="mālo">\*malo- "praise" (n)</a>
+### <a id="malo-2">\*mālo- "praise" (n)</a>
 SEE: [\*mol-ā- "praise"](#mola)\
 REF: [EDPC]
 
@@ -7538,7 +7538,7 @@ W: MW _meddu_ "possess, rule"\
 CO: Co. _medhes_ "say"\
 PIE: \*med- "measure" (IEW: 705f.)\
 COGN: Lat. _medeor_ "heal", _modus_ "measure", Gr. _médomai_ "care for, think of", Go. _mitan_ "measure"\
-ETYM: OIr. _mess_ [u m] "judgement" is derived from the same root (PCelt. \*messu- < PIE \*med-tu-), cf. also OIr. _tomus_ "measure, mass" < \*to-messu-, _commus_ "control, power" < \*kom-messu- and _coimdiu_ [t m] "lord, master" < PCelt. \*kom-med-wot- (a substantivized perfect participle). For the possibility that this verb originally had athematic i-inflexion (Kortlandt 2007: 137) see [\*ar-yo- "plough"](#aryo).\
+ETYM: OIr. _mess_ [u m] "judgement" is derived from the same root (PCelt. \*messu- < PIE \*med-tu-), cf. also OIr. _tomus_ "measure, mass" < \*to-messu-, _commus_ "control, power" < \*kom-messu- and _coimdiu_ [t m] "lord, master" < PCelt. \*kom-med-wot- (a substantivized perfect participle). For the possibility that this verb originally had athematic i-inflexion (Kortlandt 2007: 137) see [\*ar-yo- "plough"](#aryo-2).\
 REF: [EDPC-AC]
 
 ### <a id="medu">\*medu "mead, alcoholic drink" (n)</a>
@@ -7563,14 +7563,14 @@ BRET: OBret. _med_, (lit. "middle (period) of the summer")\
 GAUL: _Medio-lanum_ [toponym] > _Milano_ \
 PIE: \*medʰyo- "middle"(IEW: 706)\
 COGN: Skt. _mádhya_-, Lat. _medius_, Gr. _méssos_, OHG _mitti_ "in the middle"\
-ETYM: W _Mehefin_, MBret. _mez-even_ "June" is a compound of \*medyo- and [\*samono- "summer"](#samono). MW _meiau_ "middle yoke" (length) is a compound of \*medyo- and [\*yugo- "yoke"](#yugo).\
+ETYM: W _Mehefin_, MBret. _mez-even_ "June" is a compound of \*medyo- and [\*samo- "summer"](#samo). MW _meiau_ "middle yoke" (length) is a compound of \*medyo- and [\*yugo- "yoke"](#yugo).\
 REF: [EDPC]
 
 ### <a id="meko">\*mēko- "sack, bushel (of grain)" (n)</a>
 GOID: OIr. _míach_ [o n and f]\
 PIE: \*meyǵ(ʰ)- "barley, grain"\
 COGN: OPr. _moasis_ "barley", Latv. _mìeži_ [p] "barley"\
-ETYM: The semantic connection with the Baltic words for "barley" might lie in the fact that OIr. _míach_ is used chiefly to denote a measure of capacity for corn (according to DIL). However, the etymology is very uncertain, since the devoicing of \*g > \*k in Celtic is irregular; one would have to assume a root-noun \*mēyǵ(ʰ)s [mēyks] from which the root form with \*k could have been extended analogically (cf. [\*druko- "bad"](#drugo)).\
+ETYM: The semantic connection with the Baltic words for "barley" might lie in the fact that OIr. _míach_ is used chiefly to denote a measure of capacity for corn (according to DIL). However, the etymology is very uncertain, since the devoicing of \*g > \*k in Celtic is irregular; one would have to assume a root-noun \*mēyǵ(ʰ)s [mēyks] from which the root form with \*k could have been extended analogically (cf. [\*druko- "bad"](#druko)).\
 REF: [EDPC]
 
 ### <a id="meldo">\*meldo- "mild, pleasant"; \*mlido- "soft" (adj)</a>
@@ -7613,8 +7613,8 @@ REF: [EDPC]
 ### <a id="mello">\*mello- "destruction, confusion" (n)</a>
 GOID: OIr. _mell_ "error, confusion"\
 COGN: ToB _mäl_- "to wound, damage", ?Lat. _malus_ "bad"\
-SEE: [\*malno- "slow, lazy"](#malno)\
-ETYM: The OIr. word is known mostly from glossaries, but there is a denominative verb _millid_ "to destroy", and a possible cognate in OBret. _milin_ "prostitute" (DGVB 257). The geminate \*-ll- in PCelt. is presumably from \*-ls-, so we should posit a proto-form \*melso- in PIE. The connection to \*malno- "slow, lazy" is just a possibility, since the meanings are very different (but cf. Lat. _malus_ "bad", which could be related).\
+SEE: [\*mallo- "slow, lazy"](#mallo)\
+ETYM: The OIr. word is known mostly from glossaries, but there is a denominative verb _millid_ "to destroy", and a possible cognate in OBret. _milin_ "prostitute" (DGVB 257). The geminate \*-ll- in PCelt. is presumably from \*-ls-, so we should posit a proto-form \*melso- in PIE. The connection to \*mallo- "slow, lazy" is just a possibility, since the meanings are very different (but cf. Lat. _malus_ "bad", which could be related).\
 REF: [EDPC]
 
 ### <a id="mena">\*menā "flour" (n)</a>
@@ -7701,7 +7701,7 @@ REF: [EDPC]
 GOID: OIr. _toimtiu_ [n f]\
 PIE: \*men-ti-Hon- (IEW: 726)\
 COGN: Lat. _mentio_ "mention"\
-SEE: [\*man-yo- "think"](#menyo)\
+SEE: [\*man-yo- "think"](#manyo)\
 ETYM: OIr. _toimtiu_ presupposes \*to-mentyon-. The simplex \*mentyon- is unattested. It is a derivative of the root \*men- "think" with the Italo-Celtic compound suffix \*-ti-on- (or \*-ti-Hon-), cf. Lat. _mentiō_ "a calling in mind, mention".\
 REF: [EDPC]
 
@@ -7736,7 +7736,7 @@ REF: [EDPC]
 ### <a id="mero">\*mero- "crazy, silly" (adj)</a>
 GOID: OIr. _mer_ [o] "crazy, wild"\
 W: MW _meredig_, _mereddig_ "foolish, strange"\
-ETYM: LEIA adduces as the Brittonic cognates MW _mererid_, _meryerid_ "foolish, crazy" which are not found in GPC (_merierid_ "pearl" is of course another word, borrowed from Lat. _margarita_). This could be due to simple confusion. In Gaulish, the element _Mero_-, -_mero_- in compound names (e.g. _Es-merius_) may be from the same root. It is assumed here that the formation found in MIr. is original, while Welsh shows a derivative from the same root. None of the deeper etymologies suggested by LEIA (s.v. _mer_) are more than guesses, but a connection with Gr. _mōrós_ "stupid" appears possible (see PCelt. [\*mar-o-](#maro)). If this is correct, the Greek word would have to be derived from \*mōrh₂o-, with the lengthened grade of the root, while the Celtic forms would be from \*merh₂-o-. The development of meaning would be from "slow" to "silly" and "crazy".\
+ETYM: LEIA adduces as the Brittonic cognates MW _mererid_, _meryerid_ "foolish, crazy" which are not found in GPC (_merierid_ "pearl" is of course another word, borrowed from Lat. _margarita_). This could be due to simple confusion. In Gaulish, the element _Mero_-, -_mero_- in compound names (e.g. _Es-merius_) may be from the same root. It is assumed here that the formation found in MIr. is original, while Welsh shows a derivative from the same root. None of the deeper etymologies suggested by LEIA (s.v. _mer_) are more than guesses, but a connection with Gr. _mōrós_ "stupid" appears possible (see PCelt. [\*mar-o-](#maro-1)). If this is correct, the Greek word would have to be derived from \*mōrh₂o-, with the lengthened grade of the root, while the Celtic forms would be from \*merh₂-o-. The development of meaning would be from "slow" to "silly" and "crazy".\
 REF: [EDPC-AC]
 
 ### <a id="merwi">\*merwi- "lifeless" (adj)</a>
@@ -7767,7 +7767,7 @@ GOID: OIr. _mess_ [u m] "acorns, tree-fruit"\
 W: MW _mes_ [p] _mesen_ [sing.]\
 BRET: MBret. _mes_, MoBret. _mes_ [coll.]\
 CO: Co. _mesen_ \
-ETYM: I find it difficult to accept the usual connection to PIE \*med­- "measure" (IEW 705f.). Go. _mats_, OE _mete_ "food" would fit semantically, but these words are plausibly derived from \*mh₂d- "be wet" (Gr. _madáō_, etc., cf. Orel 2003: 262); the primary meaning of PGerm. \*matiz would have been "soft, wet food" as opposed to "hard food". However, PCelt. \*messu- cannot be related to this root. It may have been borrowed from some non-IE language, although it is conceivable that it is derived from \*met-tu-, where \*met- is the root found in [\*met-o- "reap, cut"](#meto) (MW _medi_ etc.). If so, the original meaning would have been "that which is cut, reaped".\
+ETYM: I find it difficult to accept the usual connection to PIE \*med­- "measure" (IEW 705f.). Go. _mats_, OE _mete_ "food" would fit semantically, but these words are plausibly derived from \*mh₂d- "be wet" (Gr. _madáō_, etc., cf. Orel 2003: 262); the primary meaning of PGerm. \*matiz would have been "soft, wet food" as opposed to "hard food". However, PCelt. \*messu- cannot be related to this root. It may have been borrowed from some non-IE language, although it is conceivable that it is derived from \*met-tu-, where \*met- is the root found in [\*met-o- "reap, cut"](#meto-1) (MW _medi_ etc.). If so, the original meaning would have been "that which is cut, reaped".\
 REF: [EDPC-AC]
 
 ### <a id="messu-2">\*messu- "judgement" (n)</a>
@@ -7781,7 +7781,7 @@ CO: Co. _midil_ gl. _messor_ \
 GAUL:? _Metlosedum_ [toponym] > Fr. _Melun_ \
 PIE: \*met- "throw, reap" (IEW: 704)\
 COGN: Lat. _meto_ "reap", OCS _metati_, _mesti_ \
-SEE: [\*met-o- "reap, cut"](#meto)\
+SEE: [\*met-o- "reap, cut"](#meto-1)\
 ETYM: PCelt. \*metelā would be a collective denoting a group of reapers (\*metelo-). These words are derived from \*met-o- "reap, harvest".\
 REF: [EDPC]
 
@@ -7854,7 +7854,7 @@ W: MW _ed-mygu_ "admire", _myged_ "admiration"\
 BRET: MBret. _dismegans_ "disdain", MoBret. _dismeg_ "lax"\
 PIE: \*meyk- "twinkle, blink" (IEW: 712f.)\
 COGN: Lat. _mico_, _micāre_ "twinkle, vibrate", ULus. _mikać_ "blink", Russ. _mečtá_ "day-dream"\
-ETYM: MIr. _dimicnigid_ < \*dī-mik-n-. IEW (713) says that the Goidelic fonns are loanwords from Brittonic, but this is not certain. We would expect the cluster \*kn to yield n in Goidelic, with the lengthening of the preceding vowel (cf. [\*tuknā](#tukna), [\*makni-](#makni)), but it is possible that _dimicnigid_ is a new formation, and that _do-meiccethar_ points to a variant of the root with the geminate (\*mikk-).\
+ETYM: MIr. _dimicnigid_ < \*dī-mik-n-. IEW (713) says that the Goidelic fonns are loanwords from Brittonic, but this is not certain. We would expect the cluster \*kn to yield n in Goidelic, with the lengthening of the preceding vowel (cf. [\*tuknā](#tukna)), but it is possible that _dimicnigid_ is a new formation, and that _do-meiccethar_ points to a variant of the root with the geminate (\*mikk-).\
 REF: [EDPC]
 
 ### <a id="milo">\*mīlo- "animal" (n)</a>
@@ -7874,7 +7874,7 @@ ETYM: Falileyev (s.v. _minn_, _minnou_) thinks that the Brittonic words could be
 REF: [EDPC]
 
 ### <a id="mino">\*mīno- "tender, soft" (adj)</a>
-SEE: [\*mēto-, \*mēti- "fat, soft"](#meto)\
+SEE: [\*mēto-, \*mēti- "fat, soft"](#meto-2)\
 REF: [EDPC]
 
 ### <a id="mins">\*mīns- "month" (n)</a>
@@ -7911,7 +7911,7 @@ BRET: MBret. _blaz_, _blas_, MoBret. _bals_ [m]\
 CO: Co. _blas_ \
 PIE: \*mel-s- (IEW: 725)\
 COGN: Russ. _molsát'_ "suck", Cz. _mlsati_ "lick"\
-ETYM: As Hamp (1973: 154) notes, from PIE \*mlsto- we would expect PCelt. \*malsto- rather than \*mlasto-. The aberrant form might be due to metathesis, which may be regular between a labial and a dental cluster, cf. [\*wlanno- "blood red"](#wlanno), [\*wrasto- "shower"](#wrasto).\
+ETYM: As Hamp (1973: 154) notes, from PIE \*mlsto- we would expect PCelt. \*malsto- rather than \*mlasto-. The aberrant form might be due to metathesis, which may be regular between a labial and a dental cluster, cf. [\*wlanno- "blood red"](#wlanno), [\*wrastā "shower"](#wrasta).\
 REF: [EDPC]
 
 ### <a id="mlato">\*mlāto/i- "tender, soft" (adj)</a>
@@ -7921,7 +7921,7 @@ BRET: OBret. _blot_, MoBret. _bleud_ [m] "flour"\
 CO: Co. _blot_ "flour", MCo. _bles_ \
 PIE: \*melh₂ "grind" (IEW: 716)\
 COGN: Lat. _molo_, Lith. _malti_ \
-SEE: [\*mal-o- "grind"](#malo)\
+SEE: [\*mal-o- "grind"](#malo-1)\
 ETYM: The development in Celtic was from "ground" to "tender, soft", and the PIE proto-form was presumably the past participle of the verb "to grind", \*mlh₂to-, or the derived adjective \*mlh₂ti- (which may be more probable in the light of the fact that Dybo's law did not operate; we would expect \*mlato- from \*mlh₂tó-). The Brittonic forms could also be from PCelt. [\*blātu- "flower"](#blatu) with the same semantic development as in English _flour_ < Fr. _fleur (de farine)_.\
 REF: [EDPC-AC]
 
@@ -8086,7 +8086,7 @@ REF: [EDPC]
 ### <a id="moyto">\*moyto- "tender" (adj)</a>
 GOID: OIr. _moíth_ [o] (DIL _maeth_ (_moeth_))\
 W: W _mwydion_ [p] "tender parts of the body"; _mwydyn_ [m] "pulp, soft inner part"\
-SEE: [\*mēto-, \*mēti- "soft"](#meto)\
+SEE: [\*mēto-, \*mēti- "soft"](#meto-2)\
 ETYM: MBret. _boedenn_, MoBret. _bouedenn_ "pulp, marrow" is sometimes derived from the same root (by assimilation \*m...d > b...d), but this is improbable; it is rather derived from _boued_ "food" < PCelt. [\*bētu- "food"](#betu) (OIr. _bíad_, etc.).\
 REF: [EDPC]
 
@@ -8215,7 +8215,7 @@ COGN: Go. _ana-nanþjan_ "dare", ON _nenna_ "to strive", OHG _nenden_ "to dare",
 ETYM: According to DIL, _Néit_ may have been the name of an old Irish war-god. Gaulish personal names with the element _Nanti_- (e.g. _Nantio-rix_) may also belong here, but in many cases it is difficult to separate them from the element [\*nantu-, \*nanto- "valley, stream"](#nantu). The PIE etymology is uncertain. I doubt whether the Tocharian forms are related to this root (cf. also ToB _nete_ "might, strength"), since the \*-n- should have been preserved.\
 REF: [EDPC-AC]
 
-### <a id="nantu">\*nantu-, \*nanto- "stream, valley" (n)</a>
+### <a id="nanto">\*nantu-, \*nanto- "stream, valley" (n)</a>
 W: MW _nant_ [m and f] "stream, river, brook, dale, valley"\
 BRET: MBret. _nant_ [m]\
 CO: OCo. _nans_ gl. _vallis_, MoCo. _nance_, _nans_ \
@@ -8242,13 +8242,13 @@ BRET: OBret. _natrolion_ [p] gl. _regulosis_, MBret. _(n)azr_, _aezr_, MoBret. _
 CO: OCo. _nader_ gl. _vipera vel serpens vel anguis_ \
 PIE: \*(s)nh₂-tr "water snake" (IEW: 747)\
 COGN: Lat. _natrīx_, Go. _nadre_ [gen.pl.], ON _naðr_ "viper, snake"\
-ETYM: The PIE root is \*sneh₂ "swim" (cf. PCelt. [\*snā-yo-](#snayo)). PCelt. \*na- is the regular development of PIE \*nh₂- before consonant, word-initially (cf. [\*natu- "poem"](#natu)). Note, however, that \*sn- is regularly preserved in OIr., so s­-mobile has to be assumed.\
+ETYM: The PIE root is \*sneh₂ "swim" (cf. PCelt. [\*snā-](#sna)). PCelt. \*na- is the regular development of PIE \*nh₂- before consonant, word-initially (cf. [\*natu- "poem"](#natu)). Note, however, that \*sn- is regularly preserved in OIr., so s­-mobile has to be assumed.\
 REF: [EDPC]
 
 ### <a id="natu">\*natu- "poem" (n)</a>
 GOID: OIr. _nath_ [u n, m, and f] "poem, eulogy"\
 W: MW _nad_ [f and m] (GPC _nâd_) "clamor, cry, poem"\
-SEE: [\*snātu- "thread"](#snatu)\
+SEE: [\*snāto- "thread"](#snato)\
 ETYM: Lambert (1994: 168) speculates that this PCelt. word might be contained in Gaul. _duscelinatia_ (Larzac), if the correct morphological analysis of this form is _dus-celi-nat-i-a_. Cf. also the Gaul. PN _Uo-nato-rix_. These Celt. words could be related to PIE \*(s)neh₁- "sew" (W _nyddu_). The semantic development could be explained in terms of the poetic metaphor, whereby a poem is identified with a thread (Matasović 1996: 150). PIE \*nh₁tu-, without s-mobile, would have developed as PCelt. \*natu- regularly. The same root may be reflected in W _nawdd_ "patronage, support" < \*noh₁to-.\
 REF: [EDPC]
 
@@ -8746,7 +8746,7 @@ GOID: MIr. _oí_ [m]\
 PIE: \*h₃ewi- "sheep" (IEW: 784)\
 COGN: Luv. _hawi_-, Skt. _ávi_-, Gr. _óis_, Lat. _ouis_, OE _ewe_, Lith. _avìs_, OCS _ovьca_, ToB _awi_ [nom.pl.], Arm. _hoviw_ "shepherd"\
 SEE: [\*owīkā "hind, doe"](#owika)\
-ETYM: MIr. _oí_ is a rare, poetic word, known chiefly from glossaries and Laws, but cf. OIr. _oegaire_ "shepherd" < \*owi-garyo- lit. "sheep-caller" (see [\*gar-yo- "call, cry"](#garyo). The PIE reconstruction of the word for "sheep" is disputed (some linguists reconstruct \*h₂owi-, which is also possible (see the discussion in Wodtko _et alii_ 2008: 335ff.).\
+ETYM: MIr. _oí_ is a rare, poetic word, known chiefly from glossaries and Laws, but cf. OIr. _oegaire_ "shepherd" < \*owi-garyo- lit. "sheep-caller" (see [\*gar-yo- "call, cry"](#garyo-1). The PIE reconstruction of the word for "sheep" is disputed (some linguists reconstruct \*h₂owi-, which is also possible (see the discussion in Wodtko _et alii_ 2008: 335ff.).\
 REF: [EDPC]
 
 ### <a id="owigno">\*owigno- "lamb" (n)</a>
@@ -8805,7 +8805,7 @@ SEE: [\*owxsV- "high"](#owxsV)\
 ETYM: This adjective is derived from \*owxsV- "high". Celtic seems to preserve the full grade of the PIE root, while other languages preserve the zero-grade (\*h₃up-). Lat. _s_- in _super_ is secondary (de Vaan 2008: 595).\
 REF: [EDPC]
 
-### <a id="owxsos">\*owxsos "above" (prep)</a>
+### <a id="owxso">\*owxso- "above" (prep)</a>
 GOID: OIr. _ós_ [+dat.] "above"\
 W: MW _uch_ \
 BRET: OBret. _uh_, MBret. and MoBret. _uc'h_ \
@@ -8884,7 +8884,7 @@ GOID: MoIr. _rón_ [o m]; MIr. _róinne_, _rúainne_ [io m] "a single hair"\
 W: MW _raun_ [m] (GPC _rhawn_)\
 BRET: MBret. _reun_ [m]\
 CO: Co. _rün_ \
-ETYM: According to Pedersen (I: 49) OIr. ron was borrowed from Brittonic, but it is not obvious that it should be. In any case, the IE etymology of the Brittonic words is uncertain. They could, in principle, be connected to PSl. \*pormy "lock (of hair)", Croat. _prȁmen_, Cz. _pramen_, Pol. _promień_ < PIE \*porH-men. PCelt. \*frāno- would be regularly derivable from \*prHno- or \*prHmno- (the development of PIE \*-mn- in Celtic is uncertain; all instances of \*-mn- in PCelt. are from earlier \*-bn-, cf. [\*obno- "fear"](#obno)).\
+ETYM: According to Pedersen (I: 49) OIr. ron was borrowed from Brittonic, but it is not obvious that it should be. In any case, the IE etymology of the Brittonic words is uncertain. They could, in principle, be connected to PSl. \*pormy "lock (of hair)", Croat. _prȁmen_, Cz. _pramen_, Pol. _promień_ < PIE \*porH-men. PCelt. \*frāno- would be regularly derivable from \*prHno- or \*prHmno- (the development of PIE \*-mn- in Celtic is uncertain; all instances of \*-mn- in PCelt. are from earlier \*-bn-, cf. [\*obnu- "fear"](#obnu)).\
 REF: [EDPC]
 
 ### <a id="rasmiyo">\*rāsmiyo- "oar" </a>
@@ -8934,7 +8934,7 @@ REF: [EDPC-AC]
 
 ### <a id="redsman">\*rēd-sman-, \*ressman- "movement, course" (n)</a>
 GOID: OIr. _réimm_ [n n] "course, movement"\
-SEE: [\*rēd-o- "ride"](#redo)\
+SEE: [\*rēd-o- "ride"](#redo-2)\
 ETYM: OIr. _réimm_ is the verbal noun of _réidid_ (cf. \*red-o- "ride").\
 REF: [EDPC]
 
@@ -9244,7 +9244,7 @@ REF: [EDPC]
 ### <a id="sadi">\*sād-ī- "set,fix" (v)</a>
 GOID: OIr. _sáidid_, -_sáidi_ "thrusts, fixes, implants"\
 W: MW _gwahawd_ "invites" (GPC _gwahodd_)\
-SEE: [\*sed-o- "sit"](#sedo)\
+SEE: [\*sed-o- "sit"](#sedo-1)\
 ETYM: MW _gwahawd_ is from the prefixed \*ufo-sād-. This Celtic verb is originally the causative to \*sed-o- "sit"; the ō-grade is found in OCS _saditi_ "set", which is also from PIE \*sōd-eye-.\
 REF: [EDPC-AC]
 
@@ -9396,7 +9396,7 @@ SEE: [\*somo- "same"](#somo)\
 REF: [EDPC]
 
 ### <a id="sassa">\*sāss-ā- "satisfy" (v)</a>
-SEE: [\*sāti- "sufficiency, fill"](#sati)\
+SEE: [\*sāti- "sufficiency, fill"](#sati-2)\
 REF: [EDPC]
 
 ### <a id="sasyo">\*sasyo- "barley" (n)</a>
@@ -9431,7 +9431,7 @@ W: MW _had_ [coll.]\
 CO: MCo. _has_ [coll.]\
 BRET: MBret. _hat_, MoBret. _had_ [m]\
 PIE: \*sh₁-tV- ( IEW:890)\
-SEE: [\*sīlo- "seed"](#silo), [\*sati-, \*satyo- "swarm, throng"](#sati)\
+SEE: [\*sīlo- "seed"](#silo), [\*sati-, \*satyo- "swarm, throng"](#sati-1)\
 ETYM: The vocalism of the suffix cannot be established. Since the attested forms are collectives, PCelt. \*satā is a plausible reconstruction.\
 REF: [EDPC-AC]
 
@@ -9463,7 +9463,7 @@ GOID: OIr. _saeth_ [u m] "trouble, hardship, distress"\
 W: MW _hoed_ [m] "pain, regret"\
 PIE: \*sh₂ey-tu- (IEW: 877)\
 COGN: Hitt. _sāi-<sup>zi</sup>_ "to become sullen, angry", Lat. _saeuus_ "wild, ferocious", OE _sár_ "sore"\
-ETYM: Cf. also OIr. _saethar_ [o n] "work, labour" < \*saytro-. Lat. _saeuus_ must be from PIE \*sh₂ey-wo-, while OE _sár_ and the related Germ. words reflect \*sh₂ey-ro-. The underived root PIE \*seh₂y- is attested in Hitt. _sāi-<sup>zi</sup>__ \
+ETYM: Cf. also OIr. _saethar_ [o n] "work, labour" < \*saytro-. Lat. _saeuus_ must be from PIE \*sh₂ey-wo-, while OE _sár_ and the related Germ. words reflect \*sh₂ey-ro-. The underived root PIE \*seh₂y- is attested in Hitt. _sāi-<sup>zi</sup>_ \
 REF: [EDPC]
 
 ### <a id="sebro">\*sēbro- "demon, spectre" (n)</a>
@@ -9541,7 +9541,7 @@ REF: [EDPC]
 GOID: OIr. _sechithir_, -_sechethar_ \
 PIE: \*sekʷ- "follow, be associated with" (JEW: 896f.)\
 COGN: Skt. _sácate_, Gr. _hépomai_, Lat. _sequor_, Go. _saihwan_ "to see", Lith. _sekti_ "to follow"\
-SEE: [\*sekʷ-o- "say"](#sekwo-1)\
+SEE: [\*sekʷ-o- "say"](#sekwo-2)\
 ETYM: The deponent inflection in OIr. agrees well with the fact that the reflex of this verb is a deponent in Lat. and that it belongs to _media tantum_ in Gr. and Skt. There may have been a connection between this PIE root and \*sekʷ- "say" (> PCelt. \*sekʷ-o- "say") at a deeper level, but in Late PIE it is best to treat them as homonyms.\
 REF: [EDPC]
 
@@ -9551,7 +9551,7 @@ W: OW _hepp_ [3s.prs.], MW _hebu_ \
 BRET: OBret. _hep_ \
 PIE: \*sekʷ- "say" (JEW: 895)\
 COGN: Gr. _enn-épō_ "tell", Lat. _in-seque_ "say!", _inquit_ "says", OHG _sagen_ \
-SEE: [\*sekʷ-o- "follow"](#sekwo), [\*skʷetlo- "story"](#skwetlo)\
+SEE: [\*sekʷ-o- "follow"](#sekwo-1), [\*skʷetlo- "story"](#skwetlo)\
 ETYM: W. _ateb_ "answer" is from PCelt. \*ati-sekwo-, cf. also OIr. _aithesc_ [o n] "answer". The exact relationship of PIE \*sekʷ- "say" and \*sekʷ- "follow" is unclear, but there was probably a single verb with both meanings.\
 REF: [EDPC-AC]
 
@@ -9566,7 +9566,7 @@ ETYM: If this etymology is correct, the development of meaning was from "followi
 REF: [EDPC]
 
 ### <a id="seket">\*seket- "hide, skin" (n)</a>
-SEE: [\*sextā/i- "rushes, sedge"](#sexta)\
+SEE: [\*sex-skā/i- "rushes, sedge"](#sexska)\
 REF: [EDPC]
 
 ### <a id="selga">\*selgā "hunt" (n)</a>
@@ -9756,7 +9756,7 @@ REF: [EDPC]
 W: MW _ffrwst_ [m] "rush, haste"\
 PIE: \*sprew-d- "quick" (JEW: 994f.)\
 COGN: Go. _sprautō_ "quick"\
-ETYM: PCelt. \*sfrusso- > W _ffrwst_ presupposes PIE \*sprud-to-. W _ffrau_ "stream, flow", adduced by JEW (982) in this connection, is much more likely derived rom \*srew- "to flow", cf. PCelt. [\*srowman-](#srowman), [\*srutu-](#srutu). The equation of OIr. _srab_ "torrent" and W _ffrawdd_ "passion, ardour" found in IEW 993, GPC I: 1311f., LEIA S-180 is implausible on both semantic and formal grounds (W _dd_ cannot correspond to OIr. _b_, and positing two suffixes, \*-do- and \*-bo- is ad hoc).\
+ETYM: PCelt. \*sfrusso- > W _ffrwst_ presupposes PIE \*sprud-to-. W _ffrau_ "stream, flow", adduced by JEW (982) in this connection, is much more likely derived rom \*srew- "to flow", cf. PCelt. [\*srowman-](#srowman), [\*sruto-](#sruto). The equation of OIr. _srab_ "torrent" and W _ffrawdd_ "passion, ardour" found in IEW 993, GPC I: 1311f., LEIA S-180 is implausible on both semantic and formal grounds (W _dd_ cannot correspond to OIr. _b_, and positing two suffixes, \*-do- and \*-bo- is ad hoc).\
 REF: [EDPC]
 
 ### <a id="si">\*sī "she" (pron)</a>
@@ -9782,7 +9782,7 @@ GOID: MIr. _sellaid_, -_sella_ "looks"\
 W: MW _syllu_ "stare, gaze" (GPC _syllu_, _syllio_)\
 BRET: MBret. _sellout_, MoBret. _selloud_, _sell_ [m] "view"\
 CO: Co. _sellos_ \
-ETYM: All of these verbs are originally denominative, but the original form of the noun from which they are derived cannot be reconstructed with any certainty, cf. OIr. _sell_ "eye, iris" [?n], W _syll_, MoBret. _sell_ "look". Schrijver's connection with the word for "star" (PCelt. [\*ster-](#ster)) is far-fetched from the semantic point of view, but possible (cf. the semantic development of \*sūli­ from "sun" to "eye", OIr. _súil_). The proto-form would have been \*stillo- < \*stirlo-. For the initial \*s- instead of \*h- in Brittonic cf., e.g., [\*sextam "seven"](#sextam) > MW _seith_.\
+ETYM: All of these verbs are originally denominative, but the original form of the noun from which they are derived cannot be reconstructed with any certainty, cf. OIr. _sell_ "eye, iris" [?n], W _syll_, MoBret. _sell_ "look". Schrijver's connection with the word for "star" (PCelt. [\*sterā](#stera)) is far-fetched from the semantic point of view, but possible (cf. the semantic development of \*sūli­ from "sun" to "eye", OIr. _súil_). The proto-form would have been \*stillo- < \*stirlo-. For the initial \*s- instead of \*h- in Brittonic cf., e.g., [\*sextam "seven"](#sextam) > MW _seith_.\
 REF: [EDPC]
 
 ### <a id="silo">\*sīlo- "seed, descendants" (n)</a>
@@ -9847,7 +9847,7 @@ GOID: OIr. _sissidir_, -_sissedar_ "stands"; _siasair_ [prt.]\
 CELTIB: _SISTAT_ [3s.prs.] "puts, constructs" (Pefialba, K.3.3)\
 PIE: \*steh₂- "stand" (IEW: 1004f.)\
 COGN: Lat. _sto_, _stare_, Gr. _hístēmi_, Lith. _stóti_, OCS _stojati_, OHG _stān_ \
-SEE: [\*tā-yo- "be, find oneself"](#tayo), [\*stā-tlā "heel"](#statla), [\*eni-stī "island"](#enisti)\
+SEE: [\*tā-yo- "be, find oneself"](#tayo-1), [\*stā-tlā "heel"](#statla), [\*eni-stī "island"](#enisti)\
 REF: [EDPC]
 
 ### <a id="siti">\*siti- "length" (n)</a>
@@ -9927,7 +9927,7 @@ REF: [EDPC]
 GOID: OIr. _scál_ [o n]\
 W: MW _yscawl_ [m] "young hero, warrior" (GPC _ysgawl_)\
 COGN: Go. _skōhsl_ "demon"\
-SEE: [\*skek- "move, stir" (IEW: 922f.)](#skek)\
+SEE: [\*skek- "move, stir"](#skek)\
 ETYM: W _yscawl_ is not very well attested and its meaning is rather vaguely established. The relation to the PIE root \*skek- is purely conjectural, but see Hamp 1965a. The long vowel in the root may be the result of regular lengthening before the cluster \*xsl, cf. PCelt. [\*tāxslo-](#taxslo) (if from \*toḱ-slo­ rather than (\*tōḱ-slo-).\
 REF: [EDPC]
 
@@ -9936,8 +9936,8 @@ GOID: OIr. _scíath_ [o m] "wing"\
 W: MW _ysgwydd_ [f] "shoulder"\
 BRET: MBret. _scoaz_, _diou scoaz_ "shoulders"\
 CO: OCo. _scuid_ gl. _scapula_, MCo. _dyw-scoth_ "shoulders"\
-SEE: [\*sketo- "shield"](#sketo)\
-ETYM: OIr. _scíath_ may have the final -_th_ rather than -_d_ because of the influence of the word for "shield", OIr. _scíath_ < \*sketo-. However, it is also possible that _scíath_ "shield" was borrowed from Brittonic before the lenition of \*t > th, and that _scíath_ "wing" is the original OIr. word for "shield", with metaphorical change of meaning. The Brittonic words for "shoulder" then must have a different etymology.\
+SEE: [\*skēto- "shield"](#sketo)\
+ETYM: OIr. _scíath_ may have the final -_th_ rather than -_d_ because of the influence of the word for "shield", OIr. _scíath_ < \*skēto-. However, it is also possible that _scíath_ "shield" was borrowed from Brittonic before the lenition of \*t > th, and that _scíath_ "wing" is the original OIr. word for "shield", with metaphorical change of meaning. The Brittonic words for "shoulder" then must have a different etymology.\
 REF: [EDPC]
 
 ### <a id="skek">\*skek- "move, stir" (v)</a>
@@ -9949,7 +9949,7 @@ ETYM: The Slavic and Celtic forms of the present point to a PIE causative \*skok
 REF: [EDPC]
 
 ### <a id="skeno">\*skēno- "knife" (n)</a>
-SEE: [\*skiy-o- "cut"](#skiyo)\
+SEE: [\*skiy-o- "cut"](#skiyo-2)\
 REF: [EDPC]
 
 ### <a id="skerdyo">\*skerd-(y)o- "scrape off" (v)</a>
@@ -10068,7 +10068,7 @@ REF: [EDPC]
 GOID: OIr. _slíab_ [s n, later m] "mountain, moor"\
 W: W _llwyfan_ [f and m] "stage, platform"\
 BRET: OBret. _libiriou_ gl. _lapsus_ \
-SEE: [\*slimono- "polished, smooth"](#slimono)\
+SEE: [\*slimno- "polished, smooth"](#slimno)\
 ETYM: The relationship of OBret. _libiriou_ to the other words is unclear. PCelt. \*slēbo- could be from PIE \*sley-bʰo-, with the root \*sley- "smear" identical as in \*slimono- "polished, smooth". The basic meaning of \*slēbo­- would have been "slippery surface, slope". However, the semantic connection is weak. W _llwyfan_ has also been related to MIr. _léibenn_ [o m] "open surface, terrace, threshing-floor", but this could have been borrowed from Brittonic at an early stage.\
 REF: [EDPC]
 
@@ -10227,7 +10227,7 @@ REF: [EDPC]
 GOID: OIr. _suide_ [io n] "sitting, seat"\
 PIE: \*sodyo- "seat" (IEW: 884)\
 COGN: Lat. _solium_ < \*sodiom "throne, high-backed chair, bath-tub"\
-SEE: [\*sed-o- "sit"](#sedo)\
+SEE: [\*sed-o- "sit"](#sedo-1)\
 ETYM: Cf. also MIr. _fothae_ "ground, basis", which can be from \*ufo­-sodyo-.\
 REF: [EDPC]
 
@@ -10263,7 +10263,7 @@ REF: [EDPC]
 ### <a id="sowono">\*sowono- "sun, sunlight" (n)</a>
 W: MW _huan_ [m and f] "sun"\
 SEE: [\*suw-o- "turn"](#suwo)\
-ETYM: W _huan_ is usually derived from the oblique cases of the PIE heterocliton \*seh₂wol/n- "sun", but the phonetic development is difficult. Therefore, it is preferable to relate this noun to PIE \*sewh₂- "turn, set in motion" (Skt. _suváti_). The Vedic theonym _Savitár_-, which is also derived from this root, is often just an epithet of the Sun (_sū́rya_-) in the Rig Veda. The suffix would have been \*-ono- (cf. [\*antono-](#antono), [\*slimono-](#slimono)).\
+ETYM: W _huan_ is usually derived from the oblique cases of the PIE heterocliton \*seh₂wol/n- "sun", but the phonetic development is difficult. Therefore, it is preferable to relate this noun to PIE \*sewh₂- "turn, set in motion" (Skt. _suváti_). The Vedic theonym _Savitár_-, which is also derived from this root, is often just an epithet of the Sun (_sū́rya_-) in the Rig Veda. The suffix would have been \*-ono- (cf. [\*antono-](#antono)).\
 REF: [EDPC]
 
 ### <a id="soybo">\*soybo- "crooked" (adj)</a>
@@ -10322,7 +10322,7 @@ REF: [EDPC]
 GOID: OIr. _sab_ [o m]\
 PIE: \*steh₂- "stand" (IEW: 1012)\
 COGN: OHG _stap_ "staff, crane", Lith. _stãbas_ "post"\
-SEE: [\*tā-yo- "stand, find oneself"](#tayo)\
+SEE: [\*tā-yo- "stand, find oneself"](#tayo-1)\
 ETYM: The etymology is quite dubious, but if correct, PCelt. \*stabo- must be from PIE \*sth₂-bʰo-. The connection with Skt. _stambha_- "pillar" is improbable because this noun is derived from \*stembʰ-(H)- "support", cf. Skt. _stabhnā́ti_ "supports", ToB _śama_ "stood" (LIV: 541).\
 REF: [EDPC]
 
@@ -10356,7 +10356,7 @@ W: MW _saudel_ (GPC _sawdl_) [m and f]; _sodlau_ [p]\
 BRET: MBret. _seuzl_ \
 CO: Co. _suthel_, _sul_ \
 PIE: \*steh₂- "stand" (IEW: 1004)\
-SEE: [\*tā-yo- "stand, find oneself"](#tayo), [\*stabo- "shaft, pole"](#stabo)\
+SEE: [\*tā-yo- "stand, find oneself"](#tayo-1), [\*stabo- "shaft, pole"](#stabo)\
 ETYM: De Bernardo Stempel 1999: 303 derives these words from PIE \*sth₂-dʰleh₂, with zero-grade and a different suffix, cf. also MW _stadl_, _ystadl_ "position". The connection with Lat. _tālus_ "ankle" is problematic, since the diminutive _taxillus_ implies a proto-form \*takslos, not \*(s)tātlos.\
 REF: [EDPC]
 
@@ -10414,7 +10414,7 @@ W: MW _ystum_ "curve, gesture, shape, trick" [m and f]\
 BRET: MBret. _stum_ "form"\
 CO: Co. _Stym(codde)_ [toponym]\
 SEE: [\*stu-n-g-o- "bend"](#stungo)\
-ETYM: The exact meaning of MIr. _túaimm_ is unknown, but it appears to mean something like "tumulus, mound". Greene (1958) related it to OIr. _túag_ [ā f] "arch". W _ystum_ is apparently the same word as _túaimm_ with the s­-mobile, or, alternatively, with the prefix \*eks- (Stiiber 1998: 68). Alternatively, OIr. _túaimm_ might reflect a sandhi-variant which lost the initial \*s-. Since the change \*rst > \*rt is regular, the loss of the initial \*s­ may have been generalized from the environments after the final \*-r of the preceding word in the sentence, cf. also [\*tā-yo- "stand, find oneself"](#tayo) < \*stā-yo-).\
+ETYM: The exact meaning of MIr. _túaimm_ is unknown, but it appears to mean something like "tumulus, mound". Greene (1958) related it to OIr. _túag_ [ā f] "arch". W _ystum_ is apparently the same word as _túaimm_ with the s­-mobile, or, alternatively, with the prefix \*eks- (Stiiber 1998: 68). Alternatively, OIr. _túaimm_ might reflect a sandhi-variant which lost the initial \*s-. Since the change \*rst > \*rt is regular, the loss of the initial \*s­ may have been generalized from the environments after the final \*-r of the preceding word in the sentence, cf. also [\*tā-yo- "stand, find oneself"](#tayo-1) < \*stā-yo-).\
 REF: [EDPC]
 
 ### <a id="strato">\*strato- "valley" (n)</a>
@@ -10455,7 +10455,7 @@ W: MW _estwng_, _ystwng_, _estyngi_ "bend, lower oneself"\
 BRET: MBret. _stoeaff_ "bend, lower oneself"\
 PIE: \*(s)tewg- "move abruptly" (IEW: 1032f.)\
 COGN: Skt. _tuj_- "set in motion", _tuñjáte_ "moves swiftly", Gr. _stygéō_ "hate"\
-ETYM: MIr. _as-toing_ < \*exs-stungo- (the simplex verb is unattested). In Old Irish, forms of PCelt. [\*tungo- "swear"](#tungo) were confused with the forms derived from \*stungo- "bend", see KPV 605. The connection with PIE \*(s)tewg- "move abruptly" is not completely convincing, because the meanings are quite different.\
+ETYM: MIr. _as-toing_ < \*exs-stungo- (the simplex verb is unattested). In Old Irish, forms of PCelt. [\*tongo- "swear"](#tongo) were confused with the forms derived from \*stungo- "bend", see KPV 605. The connection with PIE \*(s)tewg- "move abruptly" is not completely convincing, because the meanings are quite different.\
 REF: [EDPC]
 
 ### <a id="su">\*su- "good" (adv), [(Prefixed) Adjective]</a>
@@ -10792,13 +10792,13 @@ W: OW _tagc_, MW _tang_, _tanc_ [m]\
 GAUL: _Tanco-rix_ [PN]\
 PIE: \*tenk- "be solid, firm" (IEW: 1068)\
 COGN: Skt. _tañc_-, Germ. _dicht_ "thick", Lith. _tánkus_ "thick"\
-ETYM: OIr. _téchtaid_, -_téchta_ "freeze, solidify" is a denominative verb from this root, built from the stem of OIr. _técht_ "frozen" < PCelt. \*tanxto-, cf. also MIr. _con-teici_ "freezes" < \*kom-tank-ī-. PCelt. \*tanko- presupposes the zero grade of the root, PIE \*tnko-. The evolution of meaning was presumably from "what is firm, established" to "peace" (cf. Lat. _pāx_ from _pango_ "fix"). Fr. _tanche_ < OFr. _tenche_ < Gallo-Lat. _tinca_ "tench" could also be from the same root (? PCelt. [\*tenkā, \*tenko- "firm, solid"](#tenka)), cf. also Gaul. toponym _Duro-tincum_.\
+ETYM: OIr. _téchtaid_, -_téchta_ "freeze, solidify" is a denominative verb from this root, built from the stem of OIr. _técht_ "frozen" < PCelt. \*tanxto-, cf. also MIr. _con-teici_ "freezes" < \*kom-tank-ī-. PCelt. \*tanko- presupposes the zero grade of the root, PIE \*tnko-. The evolution of meaning was presumably from "what is firm, established" to "peace" (cf. Lat. _pāx_ from _pango_ "fix"). Fr. _tanche_ < OFr. _tenche_ < Gallo-Lat. _tinca_ "tench" could also be from the same root (? PCelt. \*tenkā, \*tenko- "firm, solid", cf. also Gaul. toponym _Duro-tincum_.\
 REF: [EDPC]
 
 ### <a id="tanno">\*tanno- "green oak" (n)</a>
 CO: OCo. _glastannen_ gl. _quercus uel ilex_ \
 GAUL: _Tannetum_, _Tanno-gilum_ [toponyms]\
-ETYM: OIr. _tinne_ "holly, elder (?)" is probably also related (PCelt. \*tennyo-), cf. LEIA T-71, but the PIE etymology of these tree names is unclear. Borrowing from some non-IE language seems probable, but a connection may exist to OHG _tanna_ "fir wood", OS _danna_ "pine", cf. Hitt. _tanau_ "a kind of tree" (the meaning "fir" of Hitt. _<sup>GIŠ</sup>tanau_ is actually not certain, _pace_ EIEC). We could start from \*(s)dʰonu- \*(s)dʰnwos-, and then have to assume that \*s- was lost in Celtic (presumably after \*sdʰ- > \*st-), cf. [\*tā-yo- "be, find oneself"](#tayo) < \*stā-yo-).\
+ETYM: OIr. _tinne_ "holly, elder (?)" is probably also related (PCelt. \*tennyo-), cf. LEIA T-71, but the PIE etymology of these tree names is unclear. Borrowing from some non-IE language seems probable, but a connection may exist to OHG _tanna_ "fir wood", OS _danna_ "pine", cf. Hitt. _tanau_ "a kind of tree" (the meaning "fir" of Hitt. _<sup>GIŠ</sup>tanau_ is actually not certain, _pace_ EIEC). We could start from \*(s)dʰonu- \*(s)dʰnwos-, and then have to assume that \*s- was lost in Celtic (presumably after \*sdʰ- > \*st-), cf. [\*tā-yo- "be, find oneself"](#tayo-1) < \*stā-yo-).\
 REF: [EDPC]
 
 ### <a id="tannu">\*tan-nu- "broaden, spread, stretch" (v)</a>
@@ -11019,7 +11019,7 @@ GOID: OIr. _téit_, -_tét_, -_tíagait_ [3p]; _téis_, -_té_ [subj.]\
 W: MW _ardwyaw_ "defend, protect" (GPC _ardwyo_)\
 PIE: \*steygʰ- "tread, go" (IEW: 1017f.)\
 COGN: Gr. _steíkhō_, Go. _steigan_ \
-ETYM: MW _ardwyaw_ < \*fare-teg-o-, cf. also MW _ymardwyaw_ "defend oneself" < \*ambi-fare-tēg-o-. The simplex \*tēg- probably had an athematic present (Kortlandt 2007: 127f.). The Celtic forms consistently point to word initial \*t-, so the simplification (probably originally in sandhi) of \*st- > \*t- is already Proto-Celtic (cf. also PCelt. [\*tā-yo- "stand"](#tayo-2) < \*stā-yo-). Gaul. _moritex_ (negotiator Britannicus, CIL XIII 8164a, Cologne) is a compound of [\*mori "sea"](#mori) and PCelt. \*tēg- "go"; cf. W _mordwy_ "movement of the sea, sea­ voyage" < \*mori-tēgV-.\
+ETYM: MW _ardwyaw_ < \*fare-teg-o-, cf. also MW _ymardwyaw_ "defend oneself" < \*ambi-fare-tēg-o-. The simplex \*tēg- probably had an athematic present (Kortlandt 2007: 127f.). The Celtic forms consistently point to word initial \*t-, so the simplification (probably originally in sandhi) of \*st- > \*t- is already Proto-Celtic (cf. also PCelt. [\*tā-yo- "stand"](#tayo-1) < \*stā-yo-). Gaul. _moritex_ (negotiator Britannicus, CIL XIII 8164a, Cologne) is a compound of [\*mori "sea"](#mori) and PCelt. \*tēg- "go"; cf. W _mordwy_ "movement of the sea, sea­ voyage" < \*mori-tēgV-.\
 REF: [EDPC]
 
 ### <a id="tegos">\*tegos- "house" (n)</a>
@@ -11135,7 +11135,7 @@ BRET: MBret. _tir_ [m]\
 CO: OCo. _tir_ gl. _tellus_, Co. _tyr_ \
 PIE: \*ter-s- "dry" (IEW: 1078)\
 COGN: Hitt. _tars_- "become dry", Lat. _terra_ "land"\
-ETYM: The long vowel of \*tīros < \*tēros is exactly parallel to \*sīdos < \*sēdos, OIr. _síd_ "mound" (see s.v. [\*sedo-, \*sīdos-](#sedo)). It may represent an old vṛddhi, but it may also point to a PIE root-noun \*tērs- "dryness, firmness", gen.sg. \*trs-os; Lat. _terra_ has the full grade (\*terseh₂) . The simplification of geminates (i.e. \*tīrso- > \*tīrro- > \*tīro-) is regular (cf. [\*mīros- "peace of meat"](#miros) and [\*wāri- "sunrise"](#wari)). Cf. also OIr. _tírimm_, _tirimm_ "dry" < \*tīrs-es-mi­ (for the word formation cf. [\*tefesmi- "warm"](#tefesmi).\
+ETYM: The long vowel of \*tīros < \*tēros is exactly parallel to \*sīdos < \*sēdos, OIr. _síd_ "mound" (see s.v. [\*sedo-, \*sīdos-](#sedo-2)). It may represent an old vṛddhi, but it may also point to a PIE root-noun \*tērs- "dryness, firmness", gen.sg. \*trs-os; Lat. _terra_ has the full grade (\*terseh₂) . The simplification of geminates (i.e. \*tīrso- > \*tīrro- > \*tīro-) is regular (cf. [\*mīros- "peace of meat"](#miros) and [\*wāri- "sunrise"](#wari)). Cf. also OIr. _tírimm_, _tirimm_ "dry" < \*tīrs-es-mi­ (for the word formation cf. [\*tefesmi- "warm"](#tefesmi).\
 REF: [EDPC]
 
 ### <a id="tixta">\*tixtā "going, coming" (n)</a>
@@ -11259,7 +11259,7 @@ CO: Co. _ty_; _tof_ [1s.prs.]\
 GAUL: _toncsiiontio_ [3p.fut.rel.] (Chamalières)\
 PIE: \*teh₂g- "touch" (IEW: 1055)\
 COGN: Lat. _tango_, Gr. _tetagṓn_ "having seized", Go. _tekan_ "touch", ToB _ceśäṃ_ "touch"\
-ETYM: The connection with Lat. _tango_ "touch" is not beyond doubt. The usual explanation is that swearing was performed by touching a part of the body, or the ground, see LEIA T-108. However, even if this is accepted, the o-grade (PIE \*th₂og-?) is unexpected (analogy with [\*tonketo-](#tonketo) "destiny"?). KPV 650 derives this Celtic verb from \*tu-n-g-o-, from earlier \*lu-n-g-o­ and relates it to PCelt. [\*lugyo- "oath"](#lugyo); the explanation offered there how the stems \*tek- and \*leug- became confused is rather complicated. KPV also claims that the Gaulish form _toncsiiontio_ is unrelated to the Insular Celtic forms.\
+ETYM: The connection with Lat. _tango_ "touch" is not beyond doubt. The usual explanation is that swearing was performed by touching a part of the body, or the ground, see LEIA T-108. However, even if this is accepted, the o-grade (PIE \*th₂og-?) is unexpected (analogy with [\*tonketo-](#tonketo) "destiny"?). KPV 650 derives this Celtic verb from \*tu-n-g-o-, from earlier \*lu-n-g-o­ and relates it to PCelt. [\*lugiyo- "oath"](#lugiyo); the explanation offered there how the stems \*tek- and \*leug- became confused is rather complicated. KPV also claims that the Gaulish form _toncsiiontio_ is unrelated to the Insular Celtic forms.\
 REF: [EDPC]
 
 ### <a id="tonketo">\*tonketo- "destiny" (n)</a>
@@ -11334,14 +11334,14 @@ REF: [EDPC]
 GOID: OIr. _toísech_ [o]\
 W: MW _tywyssawc_ [m] "prince", Brit. _TOVISACI_ [gen.sg.] (Ogam) (GPC _tywysog_)\
 BRET: OBret. _toguisoc_ \
-SEE: [\*wēd-o- "sight, presence"](wedo)\
+SEE: [\*wēd-o- "sight, presence"](#wedo-4)\
 ETYM: PCelt. \*to-wissāko- < \*-wid-t-āko- (or \*wid-s-āko-) < PIE \*weyd­ "see, know" (cf. \*wēd-o- "sight, presence"). Another etymology derives the attested forms from PIE \*wedʰ- "lead", i.e. PCelt. \*to-wessāko- < \*to-wed-t-āko- or \*to-wed-s-āko- (cf. OCS _voždь_ "leader" < PIE \*wodʰyo-, IEW 11lSf.). Although somewhat better from the semantic point of view, this reconstruction is difficult to square with -_i_- in the British Ogam inscription _TOVISACI_ (CIIC 399, McManus 1997: 108).\
 REF: [EDPC]
 
 ### <a id="towissu">\*to-wissu- "leadership, act ofleading, driving" (n)</a>
 GOID: OIr. _tuus_, _tús_ [u n] "act of leading, preceding, beginning"\
 W: MW _tywys_ "lead, guide" (GPC _tywys_, _tywysio_, _tywysu_)\
-SEE: [\*to-wiss-āko- "chief, first"](#towissako), [\*wēd-o- "sight, presence"](#wedo)\
+SEE: [\*to-wiss-āko- "chief, first"](#towissako), [\*wēd-o- "sight, presence"](#wedo-4)\
 ETYM: The attested forms cannot be from PCelt. \*-wessu- < PIE \*wedʰ-tu­ (from the root \*wedʰ- "lead", IEW 1115f.), since this would yield OIr. \*\*tóes, cf. OIr. _róe_ < [\*rowesyā "field, open ground"](#rowesya).\
 REF: [EDPC]
 
@@ -11440,7 +11440,7 @@ CO: OCo. _truit_ gl. _pes_, MCo. _troys_, _tros_ \
 GAUL: _treide_ .i. _pede_ (Endlicher's Glossary)\
 PIE: \*tregʰ- "run, walk" (IEW: 1089)\
 COGN: Go. _þragjan_ "run", Croat. _trâg_ "trace"\
-ETYM: The derivation of OIr. _traig_ is straightforward, with \*e > _a_ before palatalized \*g as in _fraig_ < [\*wregi-](#wregi). The Brittonic forms are somewhat ambiguous (they could be from a variant \*troget, according to Hamp 1982b because of the analogy with [\*drogo-, \*droko- "runner" > "wheel"](#drogo)). OIr. _tráig_ "beach" etc., adduced by IEW (1089) is probably unrelated to this set of words. The connection with \*dʰregʰ- "run" (Gr. _trékhō_ etc., see Ham 1982b) is also possible, but difficult (it requires positing s-mobile, \*sdʰroget-, and its subsequent loss in Celtic (but cf. [\*tanno- "green oak"](#tanno), which may be from \*sdʰnwo-).\
+ETYM: The derivation of OIr. _traig_ is straightforward, with \*e > _a_ before palatalized \*g as in _fraig_ < [\*wregi-](#wregi). The Brittonic forms are somewhat ambiguous (they could be from a variant \*troget, according to Hamp 1982b because of the analogy with [\*droko- "runner" > "wheel"](#droko)). OIr. _tráig_ "beach" etc., adduced by IEW (1089) is probably unrelated to this set of words. The connection with \*dʰregʰ- "run" (Gr. _trékhō_ etc., see Ham 1982b) is also possible, but difficult (it requires positing s-mobile, \*sdʰroget-, and its subsequent loss in Celtic (but cf. [\*tanno- "green oak"](#tanno), which may be from \*sdʰnwo-).\
 REF: [EDPC]
 
 ### <a id="trexsno">\*trexs(n)o- "strong" (adj)</a>
@@ -11716,7 +11716,7 @@ REF: [EDPC]
 GOID: OIr. _fochla_ [yo n]\
 W: _gogledd_ [m]\
 BRET: MoBret. _gwalez_ "northern wind"\
-SEE: [\*kliyo- "left"](#kliyo)\
+SEE: [\*klēyo- "left"](#kleyo)\
 ETYM: The motivation of the development from "left" to "north" lies in the fact that the north is on the left side when one is facing the east (the rising sun).\
 REF: [EDPC-AC]
 
@@ -11739,7 +11739,7 @@ REF: [EDPC]
 ### <a id="uforedo">\*ufo-rēdo- "horse" (n)</a>
 W: MW _gorwydd_ [m] "horse"; _gorwyddawr_, _gorwyddod_ [p]\
 GAUL: \*verēdo- > VLat. _uerēdus_ "post horse"\
-SEE: [\*rēdo- "riding"](#redo), [\*rēd-smen-](#redsmen)\
+SEE: [\*rēdo- "riding"](#redo-1), [\*rēd-sman-](#redsman)\
 ETYM: VLat. _para-ueredus_ (ultimately from Gaulish) is the source of Germ. _Pferd_ "horse" and Fr. _palefroi_. The Gaulish form \*werēdo- can represent the result of assimilation from \*woredo- < \*ufo-rēdo-.\
 REF: [EDPC]
 
@@ -11784,7 +11784,7 @@ W: MW _gwarchanu_ (GPC _gorchan_, _gorchanu_, _gwarchan_)\
 SEE: [\*kan-o- "sing"](#kano)\
 REF: [EDPC]
 
-### <a id="ufoskito">\*ufo-skito/u- "shadow, shelter" (n)</a>
+### <a id="ufoskato">\*ufo-skāto/u- "shadow, shelter" (n)</a>
 GOID: OIr. _foscad_ [u and o n>m] "shade, shelter"\
 W: MW _gwascawt_ (GPC _gwasgod_) [m] "shelter, shady place, shadow"\
 BRET: OBret. _guascotou_ gl. _frigora_, MBret. _goasquet_, MoBret. _gwasked_ [m]\
@@ -11923,7 +11923,7 @@ W: OW _guas_, MW _gwas_ [m]; _gweision_, _gweis_ [p]\
 BRET: MBret. -_uuas_, -_guas_ [in PN], MoBret. _gwaz_ "man, husband"\
 CO: Co. _guas_ \
 GAUL: \*uassos > MLat. _uassus_ (cf. Fr. _vassal_)\
-ETYM: OIr. _foss_ "male servant" should be distinguished from OIr. _foss_ [o m] "rest, resting place". Some linguists derive these words from PIE \*upo-sth₂o- "standing beneath", cf. Delamarre 307, IEW 1106. However, this proto-form should give PCelt. \*ufo-sto- > \*wosso-, from which we could derive OIr. _foss_ "rest, resting place", while PCelt. \*wasto- must have a different etymology. See, however, PCelt. [\*wostu-](#wostu).\
+ETYM: OIr. _foss_ "male servant" should be distinguished from OIr. _foss_ [o m] "rest, resting place". Some linguists derive these words from PIE \*upo-sth₂o- "standing beneath", cf. Delamarre 307, IEW 1106. However, this proto-form should give PCelt. \*ufo-sto- > \*wosso-, from which we could derive OIr. _foss_ "rest, resting place", while PCelt. \*wasto- must have a different etymology. See, however, PCelt. [\*wastu-](#wastu).\
 REF: [EDPC]
 
 ### <a id="wastu">\*wastu- "dwelling" (n)</a>
@@ -11976,7 +11976,7 @@ REF: [EDPC-AC]
 GOID: OIr. _faílenn_, _foílenn_ [o m] W _gwylan_ [f]\
 BRET: MoBret. _gouelan_ \
 CO: OCo. _guilan_ gl. _alcedo_ \
-ETYM: The Brittonic forms probably represent the feminine \*waylanā parallel to the masculine \*waylino- in Goidelic. A derivation from the interjection [\*way](#way) is formally possible, but semantically not quite convincing (see also [\*waylo- "wolf"](#waylo)). The word may be a borrowing from some non-IE substratum in Insular Celtic.\
+ETYM: The Brittonic forms probably represent the feminine \*waylanā parallel to the masculine \*waylino- in Goidelic. A derivation from the interjection [\*way](#way) is formally possible, but semantically not quite convincing (see also [\*waylo- "wolf"](#waylo-2)). The word may be a borrowing from some non-IE substratum in Insular Celtic.\
 REF: [EDPC-AC]
 
 ### <a id="waylo-1">\*waylo- "poor, wretched" (adj)</a>
@@ -12005,7 +12005,7 @@ GOID: MIr. _fedil_ (DIL _feidil_)\
 W: MW _gwedd_ [m and f]\
 PIE: \*wedʰ- "bind" (IEW: 1117f.)\
 COGN: Go. _ga-widan_ "bind", OHG _wetan_ "bind", perhaps Hitt. _weda_-, _wete­_ "build"\
-SEE: [\*wed-o- "lead, bring to"](#wedo)\
+SEE: [\*wed-o- "lead, bring to"](#wedo-1)\
 ETYM: The Welsh formation is original, and the MIr. noun is a derivative (? \*wed-el-o-). Cf. also _gweddu_ "subject oneself to, submit, be humbled" (originally "be bound, harnessed"). GPC claims these words are derived from [\*wed-o- "lead"](#wedo-1); the semantic connection would presumably lie in the fact that oxen are harnessed in order to be led. I find this difficult to accept, and I believe that it is better to separate PIE \*wedʰ- "lead" and \*wedʰ- "bind, harness", as Pokorny does (IEW 1116-7). Skt. _vádhra_- "leather belt" is sometimes compared, but it may be actually dissimilated from _várdhra_-, which is from "enclose, encompass" (cf. Mayrhofer, s.v. _vádhra_-).\
 REF: [EDPC]
 
@@ -12014,7 +12014,7 @@ GOID: OIr. _ad-fét_ "tells"; _ad-fé_ [subj.]; _ad-fí_ [fut.]; _ad-fíad_ [prt
 W: MW _amkawdd_ [3s.prt.]\
 PIE: \*weyd- "perceive, see" (IEW: 1125f.)\
 COGN: Skt. _vindáti_ "finds", Lat. _uideo_, OCS _viděti_ "see", Arm. _gitem_ "know"\
-ETYM: OIr. _ad-fét_ < \*ad-wed-o-, MW _amkawdd_ < \*ambi-kom-wed-o-. The simplex is not attested. The semantic evolution from "perceive, see" to "tell, relate" is somewhat difficult (one would expect a causative formation of which there is no trace in Celtic).\
+ETYM: OIr. _ad-fét_ < \*ad-wēd-o-, MW _amkawdd_ < \*ambi-kom-wēd-o-. The simplex is not attested. The semantic evolution from "perceive, see" to "tell, relate" is somewhat difficult (one would expect a causative formation of which there is no trace in Celtic).\
 REF: [EDPC]
 
 ### <a id="wedo-4">\*wēdo- "sight, presence" (n)</a>
@@ -12092,7 +12092,7 @@ ETYM: A difficult etymology. Ogam PN _VEQREQ_ could contain the same element as 
 REF: [EDPC]
 
 ### <a id="welet">\*welet- "seer, poet" (n)</a>
-SEE: [\*wel-o- "see"](#welo)\
+SEE: [\*wel-o- "see"](#welo-1)\
 REF: [EDPC]
 
 ### <a id="weli">\*weli-, \*woli- "blood" (n)</a>
@@ -12110,7 +12110,7 @@ REF: [EDPC]
 GOID: OIr. _féle_ gl. _honestas_ [iā f]\
 W: OW _guiled_ [m], MW _gwyled_ (GPC _gwyledd_)\
 BRET: OBret. _guiled_ gl. _honestas_ \
-SEE: [\*wēlo- "modest"](#welo)\
+SEE: [\*wēlo- "modest"](#welo-2)\
 ETYM: In Gaulish, there are PN with the element _uelio_- (e.g. _Uelio-casses_), but the length of the vowel _e_ is unknown. Therefore, the connection with PCelt. \*wēliyo- must remain conjectural.\
 REF: [EDPC]
 
@@ -12324,7 +12324,7 @@ BRET: OBret. _Or-guest_ [PN]\
 CO: Co. _gwest_ "lodging"\
 PIE: \*wes- "graze" (IEW: 1171)\
 COGN: Hitt. _wesi_- "pasture", Skt. _svásara_- "pasture, meadow" (if from \*su-vásar-a-), Lat. _uēscor_ "make use of, enjoy", OHG _wist_ "food", ToA _wäsri_- "pasture"\
-ETYM: It is not certain whether the OIr. words under 1. and 2. belong together. OIr. _feis(s)_ 1. is actually the VN of _fo-aid_ "spends the night, sleeps". Cf. also OBret. _guest-hemisiou_ gl. _laticlauia_ and W _cy-westach_ "chambering, sexual intercourse". We may be dealing with two PCelt. words, \*wes-tā "food, feast" < \*wes- "graze" and \*wessā "sexual union, sex" < \*wedʰ-teh₂ (from \*wedʰ- "lead, marry", cf. PCelt. [\*wed-o-](#wedo), or from \*h₂wes­ "spend the night", cf. PCelt. [\*wos-o-](#woso)).\
+ETYM: It is not certain whether the OIr. words under 1. and 2. belong together. OIr. _feis(s)_ 1. is actually the VN of _fo-aid_ "spends the night, sleeps". Cf. also OBret. _guest-hemisiou_ gl. _laticlauia_ and W _cy-westach_ "chambering, sexual intercourse". We may be dealing with two PCelt. words, \*wes-tā "food, feast" < \*wes- "graze" and \*wessā "sexual union, sex" < \*wedʰ-teh₂ (from \*wedʰ- "lead, marry", cf. PCelt. [\*wed-o-](#wedo-1), or from \*h₂wes­ "spend the night", cf. PCelt. [\*wos-o-](#woso)).\
 REF: [EDPC]
 
 ### <a id="wesu">\*wesu- "excellent, noble" (adj)</a>
@@ -12372,7 +12372,7 @@ GOID: OIr. _bél_ [o m]\
 W: MW _gwefl_ [f]\
 BRET: MBret. _guefl_ "mouth"\
 CO: Co. _gwelv_ \
-ETYM: The exact reconstruction of this PCelt. etymon is difficult, but the attested forms are doubtlessly related. Perhaps the original \*wewlo- was a reduplicated form, created after the Common Celtic shift of \*ew > \*ow. It is assumed here that the OIr. word is the result of a dissimilation (\*w...w > \*b...w). This is clearly preferable than deriving _bél_ from \*beklo- (IEW 481, cf. PCelt. [\*bekko- "beak, snout"](#bekko)), although this latter etymology is not impossible.\
+ETYM: The exact reconstruction of this PCelt. etymon is difficult, but the attested forms are doubtlessly related. Perhaps the original \*wewlo- was a reduplicated form, created after the Common Celtic shift of \*ew > \*ow. It is assumed here that the OIr. word is the result of a dissimilation (\*w...w > \*b...w). This is clearly preferable than deriving _bél_ from \*beklo- (IEW 481, cf. PCelt. [\*bekko- "beak, snout"](#bekko-1)), although this latter etymology is not impossible.\
 REF: [EDPC]
 
 ### <a id="wexta">\*wextā "time, course, turn" (n)</a>
@@ -12459,7 +12459,7 @@ BRET: MBret. _gouz(o)ut_; _goun_, _gon_ [1s.prs.] "know"\
 CO: Co. _godhvos_ "know"\
 PIE: \*weyd- "see, know" (IEW: 1125f.)\
 COGN: Skt. _vindáti_ "finds", Lat. _uideo_, Arm. _gitem_ "know"\
-SEE: [\*wēd-o- "find"](#wedo)\
+SEE: [\*wēd-o- "tell"](#wedo-3)\
 ETYM: OIr. _ro-finnadar_ is from \*fro-wi-n-d-o-. In the perfect, the forms of this verb meant "to know", cf. OIr. _ro-fitir_ "knows" (synchronically [3sg.prs.], but historically from the perfect stem); in Brittonic, the following forms are preterites, formed from the PCelt. perfect stem: MW _gwyr_, MBret. _goar_, MCo. _gor_ [3sg.prt.] "knew"; in KPV 693ff. these forms are listed under a separate entry. OIr. _fíado_ [nt m] "lord" (_feda_, gen.sg. _fedot_ in the archaic Cambrai Homily) represents PCelt. \*wēdonts, originally "knower", the present active participle.\
 REF: [EDPC]
 
@@ -12517,7 +12517,7 @@ GOID: MIr. _fí_ [??]\
 GAUL: _visu-marus_ "clover" (Marcellus of Bordeaux)\
 PIE: \*weys / \*wis-os "poison" (IEW: 1134)\
 COGN: Skt. _viṣá_-, Lat. _uīrus_, Gr. _īós_ \
-ETYM: Gaul. _visu-marus_ is interpreted as a compound originally meaning "juicy" by Meid (1996: 10). The second element would be PCelt. [\*māro­- "great"](#maro). Clover was considered to be an antidote for poisons in Antiquity. The MIr. word _fí_ is attested chiefly in poetic texts. OIL does not state its gender and stem, so the PCelt. reconstruction is only tentative (an u-stem is also possible). The OIr. form cannot be from the thematic \*wiso-, since this would have given \*\*feo (cf. MIr. _feo_ < \*wiwo- "withered"), and Gaul. _visu_-, although attested late, gives additional support for reconstructing an u-stem. Note, however, that the attested forms would also be compatible with PCelt. \*wīso-. However, the length of _ī_ in Lat. _uīrus_ is best accounted for by positing an original root-noun \*weys / \*wis-os; Lat. preserved the stem of the nominative, whereas the other languages generalized the stem of the oblique cases. This leaves the length of _ī_ in Gr. _īós_ unexplained. It could be from an adjectival stem \*wisyos (M. de Vaan, p.c.). Hydronyms such as Gaul. _Visera_ > Fr. _Vesère_ might belong here, if one starts from the basic meaning "liquid" (cf. Skt. _veṣati_ "flows"), and W _gwyar_ [m] "blood" might be from a derivative \*weysHro- > PCelt. \*wēsaro-, but the semantic connection (?"flowing" > "blood") is not beyond reproach.\
+ETYM: Gaul. _visu-marus_ is interpreted as a compound originally meaning "juicy" by Meid (1996: 10). The second element would be PCelt. [\*māro­- "great"](#maro-2). Clover was considered to be an antidote for poisons in Antiquity. The MIr. word _fí_ is attested chiefly in poetic texts. OIL does not state its gender and stem, so the PCelt. reconstruction is only tentative (an u-stem is also possible). The OIr. form cannot be from the thematic \*wiso-, since this would have given \*\*feo (cf. MIr. _feo_ < \*wiwo- "withered"), and Gaul. _visu_-, although attested late, gives additional support for reconstructing an u-stem. Note, however, that the attested forms would also be compatible with PCelt. \*wīso-. However, the length of _ī_ in Lat. _uīrus_ is best accounted for by positing an original root-noun \*weys / \*wis-os; Lat. preserved the stem of the nominative, whereas the other languages generalized the stem of the oblique cases. This leaves the length of _ī_ in Gr. _īós_ unexplained. It could be from an adjectival stem \*wisyos (M. de Vaan, p.c.). Hydronyms such as Gaul. _Visera_ > Fr. _Vesère_ might belong here, if one starts from the basic meaning "liquid" (cf. Skt. _veṣati_ "flows"), and W _gwyar_ [m] "blood" might be from a derivative \*weysHro- > PCelt. \*wēsaro-, but the semantic connection (?"flowing" > "blood") is not beyond reproach.\
 REF: [EDPC]
 
 ### <a id="wissu">\*wissu- "knowledge" (n)</a>
@@ -12525,7 +12525,7 @@ GOID: OIr. _fius_ [u and o m]\
 W: MW _gwys_ [m and f] "declaration, summons"\
 PIE: \*weyd- "see" (IEW 1125ff.)\
 COGN: Skt. _vindáti_ "finds", Lat. _uideo_, Arm. _gitem_ "know"\
-SEE: [\*wēd-o- "find"](#wedo)\
+SEE: [\*wēd-o- "tell"](#wedo-3)\
 ETYM: The Celtic forms represent an abstract tu-stem (\*wid-tu-) from the root \*weyd- "to see". There are many derivatives in OIr. and MIr., e.g. _cubus_ "conscience" < \*kom-wissu-, _ros_ "great knowledge" < \*fro-wissu-, _nós_ "custom" < \*nowo-wissu- "new knowledge", etc.\
 REF: [EDPC-AC]
 
@@ -12568,7 +12568,7 @@ SEE: [\*walo- "prince, chief"](#walo)\
 ETYM: Gaul. PN _Ulattius_ might be related, cf. also the ethnonym _Ulatti_. OIr. _flaithem_ [n m] "ruler" represents PCelt. \*wlati-mon-. PCelt. \*wlati presupposes PIE \*wlHtí- with shortening of the first vowel by Dybo's law (see \*walo- "prince, chief").\
 REF: [EDPC]
 
-### <a id="wlidā">\*wlida "feast, banquet" (n)</a>
+### <a id="wlida">\*wlidā "feast, banquet" (n)</a>
 GOID: OIr. _fled_ [ā f]\
 W: OW _guled_ [f], MW _gwledd_ \
 BRET: MoBret. _gloe_ (Gwened)\
