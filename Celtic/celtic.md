@@ -46,7 +46,7 @@ REF: [EDPC]
 SEE: [\*brū- "brow"](#bru)\
 REF: [EDPC]
 
-### <a id="ad">\*ad "to" (prp)</a>
+### <a id="ad">\*ad "to" (prep)</a>
 GOID: OIr. _ad_-\
 W: OW _ad_, W _add_-\
 GAUL: _Ad-ianto_- (PN)\
@@ -6393,7 +6393,7 @@ COGN: Skt. _páñca_, Gr. _pénte_, Lat. _quīnque_, Go. _fimf_, Lith. _penkì_,
 ETYM: The ordinal \*kʷenkʷeto- can be reconstructed on the basis of OW _pimphet_, Gaul. _pinpetos_ (La Graufesenque), MBret. _pempet_ and OIr. _cóiced_. OIr. _deac_, _deëc_ "ten" is often derived from \*dwē-penkʷom, with the loss of -_p_- rather than the assimilation with the following \*kʷ, but doubts have been raised on the possibility of this derivation (Cowgill 1970: 145, Schrijver 1993). The form \*dwē-penkʷom looks quite artificial, and the sound development that has to be assumed is difficult. However, Cowgill's suggestion that _deëc_ is from the gen.sg. \*dekan-os through metathesis (\*deankos > _deëc_) is hardly more persuasive. A derivation from PCelt. \*dekan-kʷe "ten and" with the apocope of final \*-e (\*dekankʷe > \*dekank > \*deank > _deëc_) is possible if one accepts the dissimilatory loss of the first velar stop (Schrijver 1993).\
 REF: [EDPC]
 
-### <a id="kwenkwekont">\*kʷenkʷekont- "fifty" (Num)</a>
+### <a id="kwenkwekont">\*kʷenkʷekont- "fifty" (num)</a>
 GOID: OIr. _cóica_ [m nt]\
 W: OW _pimmunt_, MW _pymmwnt_ \
 SEE: [\*kʷenkʷe "five"](#kwenkwe)\
@@ -7553,7 +7553,7 @@ COGN: Skt. _mádhu_-, Gr. _méthy_ "wine", Lith. _medùs_ "mead"\
 ETYM: OBret. _medot_ corresponds to MW _meddawt_ "drunkenness"; both represent a derivative \*medātu-. The Celtiberian name _Mezukenos_ is a rare instance of a compound name in that language. It is completely parallel to Ogam _MEDDOGENI_, OIr. _Midgen_, OW _Medgen_ < PCelt. \*Medu-genos.\
 REF: [EDPC]
 
-### <a id="medugeno">\*Medu-geno- (PN)</a>
+### <a id="medugeno">\*Medu-geno- (pn)</a>
 SEE: [\*medu- "mead, alcoholic drink"](#medu)\
 REF: [EDPC-AC]
 
@@ -8511,7 +8511,7 @@ COGN: Skt. _náva_, Lat. _nouem_, Gr. _ennéa_, Go. _niun_, Lith. _devynì_, Rus
 ETYM: The Brittonic forms can be derived from \*nawan < \*nowan by vowel assimilation. Celtib. _nouantubos_ [dat.pl.] is sometimes derived from this PCelt. root, but this is quite uncertain (it is more probably connected with PCelt. \*nowyo- "new").\
 REF: [EDPC]
 
-### <a id="nowdont">\*Nowdont- (PN)</a>
+### <a id="nowdont">\*Nowdont- (pn)</a>
 SEE: [\*snowdo- "mist, haze"](#snowdo)\
 REF: [EDPC]
 
@@ -9808,7 +9808,7 @@ BRET: MBret. _hynon_, _hinon_ [f] "nice weather", MoBret. _hinon_ \
 ETYM: MoBret. _hin_ [f] "climate" is borrowed from W _hin_ "id." IE etymology is unknown, but a connection with PCelt. \*sī-ni- "stretch, extend" appears possible, at least formally. The semantic development could have been from "a stretch of time" to "time" and "weather". Note that many languages do not distinguish between "time" and "weather" (e.g. Fr. _temps_ and MoBret. _amzer_).\
 REF: [EDPC]
 
-### <a id="sindo">\*sindo- "this" (pron.)</a>
+### <a id="sindo">\*sindo- "this" (pron)</a>
 GOID: OIr. _sin_ \
 W: OW _hinn_, MW _hynn_ [n sand p]\
 CO: Co. _hen-ma_ \
@@ -11458,7 +11458,7 @@ REF: [EDPC-AC]
 SEE: [\*trexs(n)o- "strong"](#trexsno)\
 REF: [EDPC-AC]
 
-### <a id="trikont">\*trīkont- "thirty" (Num)</a>
+### <a id="trikont">\*trīkont- "thirty" (num)</a>
 GOID: OIr. trícho [nt m]\
 BRET: OBret. tricont, trigont, MBret. tregont\
 GAUL: tricontis\
@@ -11824,7 +11824,7 @@ COGN: Skt. _ucyati_, Go. _bi-uhts_ "used to", OCS _učiti_ "learn", _vyknąti_ "
 ETYM: OIr. _do-ucai_ is from \*to-u-n-k-o-. The simplex is not attested. Cf. the verbal noun _tuicse_, _tuicsiu_ "understanding" < \*to-unk-syon-.\
 REF: [EDPC]
 
-### <a id="uppu">\*up(p)u "ouch" (interj.)</a>
+### <a id="uppu">\*up(p)u "ouch" (interj)</a>
 GOID: OIr. _upp_ gl. _ei mihi_ \
 W: MW _wb_ (GPC _wb_, _ub_)\
 REF: [EDPC]
@@ -11957,7 +11957,7 @@ CO: Co. _gweth_ "worse"\
 ETYM: OIr. _facht_ is very poorly attested, and stem formation, gender, and precise meaning of this word are unknown. Gaul. name Vaxtulla (CIL XIII 5864, Billy 1993: 152) might be from the same root, but there is no proof that it is. Schrijver (1995: 132, following Morris Jones 1913: 246) derives the MW superlative _gwaeth-af_ from < \*ufo-fed-isamo- < \*upo-ped-is-mmo-, where \*ped- is the word for "foot" (Lat. _pēs_, etc.). The positive _gwaeth_ would be analogical (since \*ufo-ped-yo- would yield MW \*\*gweidd). All of this makes the etymology proposed here rather problematic. The connection of PCelt. \*waxto- and Lat. _uacillo_ "stagger, waver" (IEW 1135, as if from PIE \*wak-) is a mere possiblity. I believe that Lat. _uacō_ "be empty", _uacuus_ "empty" are better candidates for cognates outside Celtic. We could reconstruct a PIE root \*weh₂k-, and both the Latin and the Celtic reflexes could be regularly derived from the zero-grade of that root under the assumption that \*wHk- > \*wak- (rather than \*ūk-). The Celtic form could be an old to-participle, and the semantic development could have been from "emptied" to "lacking" and "bad". Note that de Vaan (2008: 649, 653) connects Lat. _uacuus_ to _uānus_ "hollow, devoid", and reconstructs the PIE root as \*h₁weh₂-, with \*h₁- because of Gr. _eáō_ "let, permit" (cf. also Go. _wans_ "missing" and Skt. _ūná_- "empty").\
 REF: [EDPC]
 
-### <a id="way">\*way "woe, oh, alas" (interj.)</a>
+### <a id="way">\*way "woe, oh, alas" (interj)</a>
 GOID: MIr. _fáe_ "alas"\
 W: MW _gwae_ "woe, misery, trouble"\
 BRET: MBret. _goa_, MoBret. _gwa_ \
