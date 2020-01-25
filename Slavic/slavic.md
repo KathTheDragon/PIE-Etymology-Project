@@ -103,3 +103,99 @@ S: SCr. _ako_ "if"; Sln. _àkọ_ "if, insofar as, although"; Bulg. _akó_ "if" 
 The \*a- may probably be identified with the conjunction → [\*a "and, but"](#a). \
 See also: [\*akъ "such as"](#aku)
 
+### <a id="aku">\*akъ "such as" (pron)</a>
+CS: OCS _jakъ_ (Mar., Zogr., Supr.) "such as" \
+W: Cz. _jaký_ "what (kind of ), which"; Slk. _jaký_ "what (kind of ), which"; Pl. _jaki_ "what (kind of ), which"; USrb. _jakny_ "outstanding, strong" \
+S: SCr. _jȃk_ [m.] "strong, healthy", _jáka_ [f.], _jáko_ [n.]; Čak. _jå̑k_ [m.] "strong, healthy", _jå̄kȁ_ [f.], _jå̑ko_ [n.]; Sln. _jȃk_ "strong, prominent, superb, brave"; Bulg. _jakyj_ "strong, healthy" \
+I endorse the hypothesis that the meaning "strong", attested in South Slavic and Upper Sorbian, is secondary, cf. Rom. _tare_ "strong" from \*talis "such" (Meyer-Lübke 1935: 705). \
+See also: [\*ako "as, if"](#ako)
+
+### <a id="ama">\*àma [f.ā (a)] "pit, hole" (n)</a>
+CS: OCS _jama_ "pit, hole" \
+E: Ru. _jáma_ "pit, hole", _njáma_ (dial.) "pit, hole"; ORu. _jama_ "pit, hole, ditch, grave"; Ukr. _jáma_ "pit, hole, grave" \
+W: Cz. _jáma_ "pit, hole"; Slk. _jama_ "pit, hole"; Pl. _jama_ "pit, hole, cave"; Slnc. _ją̄mă_ "pit, hole, cave" \
+S: SCr. _jȁma_ "pit, hole"; Čak. _jȁma_ (Vrg., Novi) "pit, hole", _jȁma_ (Orb.) "pit, hole, two vines planted together in a hole"; Sln. _jáma_ "pit, hole, cave"; Bulg. _jáma_ "pit, hole" \
+Etymology unclear.
+
+### <a id="arimo">\*arь̀mъ, \*arьmò [m.o, n.o (b)] "(ox-)yoke" (n)</a>
+CS: OCS _jarьmъ_ (Supr.) [m.] \
+E: Ru. _jarmó_ [n.], _jarém_ (obs.) [m.], _jarëm_ (dial.) [m.] "busy period, haymaking time"; Ukr. _jarem_ (dial.) [m.] \
+W: Cz. _jařmo_ [n.]; Slk. _jarmo_ [n.]; Pl. _jarzmo_ [n.] \
+S: SCr. _járam_ [m.], Gsg. _járma_; Čak. _jå̃rå̃m_ (Vrg.) [m.], Gsg. _jå̄rmȁ_, _jārám_ (Novi) [m.], Gsg. _jārmȁ_, _jārãm_ (Orb.) [m.], Gsg. _jārmȁ_; Sln. _járəm_ [m.], Gsg. _járma_; Bulg. _jarém_ [m.] \
+According to the traditional etymology, this is a derivative of the root \*h₂er- "join", cf. Gk. _ἀραρίσκω_ "join, fit together". The long initial vowel must be a Slavic innovation (cf. Pedersen 1937: 312-318). In view of the fact that \*arь- is found everywhere in all parts of the Slavic linguistic territory I do not consider it plausible that the long vocalism is of the rare type found in OCS _alъdii_ "ship, boat", _alъkati_ "be hungry", etc., the more so because the \*ь (instead of \*ъ) would be an anomaly. \
+See also: [\*kojariti](#kojariti), [\*orьmo "part of a plough"](#orimo)
+
+### <a id="aseni">\*àsenь, \*àsenъ [m.jo, m.o (a)] "ash-tree" (n)</a>
+E: Ru. _jásen'_ \
+W: Cz. _jasan_, _jasaň_ (dial.), _jesen_ (obs.), _jeseň_ (dial.); Slk. _jaseň_; Pl. _jesion_, _jasień_ (arch., S. dial.), _jesień_ (arch.), _jasion_ (arch., S. dial.) {1}; OPl. _jasień_; Slnc. _jȧ̃sȯu̯n_; USrb. _jaseń_ \
+S: SCr. _jȁsēn_, Gsg. _jȁsena_; Čak. _jȁsen_ (Vrg.), Gsg. _jȁsena_, _jȅsēn_ (Novi), _jȅsen_ (Orb.), Gsg. _jȅsena_; Sln. _jásen_, Gsg. _jasẹ́na_, _jésen_, Gsg. _jesẹ́na_; Bulg. _jásen_, _ósen_ (N.) \
+BSl:  \*oʔs-en-, \*oʔs-i-o- \
+B: Lith. _úosis_ [m.(io) 1]; Latv. _uôsis_ [m.(io)] OPr. _woasis_ (EV) \
+PIE: \*Heh₃-s- \
+Cogn:  Lat. _ornus_ [f.] "mountain-ash"; OIr. _uinnius_ [m.] "ash-tree"; OIc. _askr_ [m.] "ash-tree"; OHG _asc_ [m.] "ash-tree"; Arm. _hac'i_ "ash-tree"; Alb. _ah_ [m.] "beech" \
+In view of the Baltic forms as well as Ru. _ja-_ (_je-_ > _ja-_ is common in West Slavic and western South Slavic but not in East Slavic), we must reconstruct \*oʔs- < \*Heh₃-s- for Balto-Slavic. Unless the West and South Slavic forms with _je-_/_o-_ continue _ja-_ (cf. Slawski SP I: 159), Slavic also offers evidence for the elsewhere in Indo-European widely attested stem shape \*Hh₃-es-. The _e_-vocalism could be considered an example of Rozwadowski"s change (see Andersen 1996: 142-143). \
+{1} The Standard Polish form _jesion_ originates from the Mazowian dialect area (Bankowski 2000a: 588).
+
+### <a id="asutrebu">\*às(ъ)trę̄bъ, \*às(ъ)trě̄bъ [m.o (a)] "hawk" (n)</a>
+E: Ru. _jástreb_; ORu. _jastrjabъ_, _jastrebъ_; Ukr. _jástrib_, _astrjáb_ (dial.), _jástrjab_ \
+W: Cz. _jestřáb_; OCz. _jestřáb_, _jěstřáb_; Slk. _jastrab_; Pl. _jastrząb_ m.(jo), Gsg. _jastrzębia_ {1}; Slnc. _jȧ̃střïb_; USrb. _jatřob_ m.(jo); LSrb. _jastśeb_ m.(jo) \
+S: SCr. _jȁstrijeb_; Čak. _jȁstreb_ (Vrg.), _jãstrop_ (Orlec); Sln. _jȃstreb_; Bulg. _jástreb_ \
+Cogn. Gk. _ὠκύπτερος_ (Il.) "swift-flying"; Lat. _accipiter_ m. "hawk, falcon" \
+As far as I can see, there are no serious objections to the daring etymology \*h₁oh₁ḱu-ptr- "fast-flier" (Vey 1953, cf. Kortlandt 1982: 26). According to Vey, the Slovene falling tone points to the former presence of a weak jer in the medial syllable, but it seems to me that the neo-circumflex may also reflect original posttonic length. The compound has nice parallels in Homeric _ἴρηξ ὠκύπτερος_ N 62 "a swift-winged hawk (or falcon)" and Lat. _accipiter_ "hawk, falcon". \
+{1} The original Gsg. _jastrzęba_ was replaced by _jastrzębia_ on the analogy of _gołąb_, Gsg. _gołębia_ "pigeon" (Bankowski 2000a: 577).
+
+### <a id="asceru">\*aščerъ, \*aščerica [m.o, f.jā] "lizard" (n)</a>
+CS: OCS _aštera_ (Supr.) Gsg. [m.] "lizard" \
+E: Ru. _jáščer_ [m.] "inflammation of the tongue (cattle, horses)", _jáščerica_ [f.] "lizard" \
+W: Cz. _ještěr_ [m.] "saurian, dragon", _ještěrka_ [f.] "lizard", _ještěřice_ [f.] (rare) "lizard"; Pl. _jaszczur_ [m.] "salamander, saurian", _jaszczurka_ [f.] "lizard", _jaszczór_ (dial.) [m.] "lizard"; Slnc. _vješčìe̯řäcă_ [f.] "lizard" \
+S: SCr. _jȁster_ (obs.) [m.] "lizard", _jȁšterica_ [f.] "vesicle on the tongue"; Čak. _jȁšćerica_ (Vrg.) [f.] "vesicle on the tongue"; Sln. _jȃščerica_ [f.] "green lizard", _jȃščarica_ [f.] "green lizard" \
+B: Lith. _skėrỹs_ [m. 4] "locust"; Latv. _sķìrgaîlis_ [m.] "lizard", _sķir̃gaila_ [f.] "lizard" OPr. _estureito_ (EV) "lizard" \
+Cogn:  : Gk. _ἀσκαρίς_ f. "worm in the intestines, larva of a mosquito", _σκαρίδες εἶδος ἑλμίνθων_ (Hesych.) \
+Though the details would remain unclear, there is definitely a possibility that this is a substratum word showing prefixation of a non-Indo-European type (cf. Schrijver 1997: 307-312). Among the alternative solutions, the analysis \*h₁oh₁ḱu-sker-, a compound of the word for "quick" and the verbal root that is found in Gk. _σκαίρω_ "frisk" as well as probably Lith. _skėrỹs_ "harvestman, daddy-long-legs" and Latv. _šķìrgaîlis²_, seems the most attractive (Vey 1953, see also → [\*astrębъ "hawk"](#astrebu)).
+
+### <a id="ave">\*avě "manifestly" (adv)</a>
+CS: OCS _javě_ "manifestly, openly, clearly", _avě_ "manifestly, openly, clearly" \
+S: SCr. _javi_ "manifestly, openly"; Bulg. _áve_ "in reality", _jáve_ "in reality"; Mcd. _jave_ "in reality" \
+BSl. \*āw-? \
+B: Lith. _ovyje_ (DP) "in reality" \
+PIE: \*h₂ēu-ēi- \
+Cogn. Skt. _āvíṣ_ "apparently, noticeably"; Av. _auuiš_ "apparently, evidently" \
+OLith. _ovyje_ "in reality" is sometimes regarded as a borrowing from Slavic but there are no compelling arguments for this view. The absence of initial _j-_ rather points in the direction of an etymological relationship (thus Būga RR I: 370), cf. OLith. _jovnai_ "openly", which is a borrowing from Belorussian. In that case we would have to start from a PBSl. i-stem \*āv-i- (cf. Anikin 1998: 21, see also s.v. [\*avìti "show"](#aviti)). On the other hand, it seems possible that the form _ovyje_, whose oldest attestations are two occurrences in Daukša, is based on Church Slavic _avě_. The Slavic adverb, in turn, may have been borrowed from Iranian (Lubotsky p.c.). \
+See also: [\*avìti "show"](#aviti), [\*avьnъ "obvious"](#avinu), [\*úmъ "mind"](#umu)
+
+### <a id="aviti">\*avìti "show" (v)</a>
+CS: OCS _javiti_ "show, reveal", _aviti_ "show, reveal" \
+E: Ru. _javít'_ "show, display", 1sg. _javljú_, 3sg. _jávit_ {1} \
+W: Cz. _jeviti_ "show"; Pl. _jawić_ (obs.) "show" \
+S: SCr. _jáviti_ "inform", 1sg. _jȃvīm_; Čak. _jå̄vȉti_ (Vrg.) "inform?", 2sg. _jå̃viš_, _jāvȉt_ (Vrg.) "(_se_) greet, answer", 3sg. _jãve_; Sln. _jáviti_ "announce", 1sg. _jávim_ \
+BSl:  \*āw-? \
+B: Lith. _ovytis_ "appear", 3sg. _ovijasi_ \
+Lith. _ovytis_ (arch.) "appear" derives from the i-stem which must underlie _ovyje_ "in reality". Fraenkel (I: 519) claims that _ovytis_ "appear, rage" and Latv. _âvîtiês_ "talk nonsense, get up to mischief" are inherited words cognate with Lith. _óvaidas_ (< \*avi-vaidas) "rowdy, braggart", while Lith. _jė́vaidas_ (< \*jeva-vaidas) "ghost" and Latv. _jàvîtiês_ or _jâvîtiês_ "behave like an idiot" are borrowings from Slavic (see also Anikin 1998: 22). I am not convinced that this solution, which seems to rely exclusively on the presence or absence of _j-_, is correct. Moreover, it is not obvious that _ovytis_ "appear" and _ovytis_ (also _jõvytis_) "rage" are cognates. It seems quite possible that Lith. _óvaidas_ must be connected with Ukr. _jávida_ (dial.) "devil", Ru. _jávid'_ (dial.) "snake". \
+{1} AP (c) in Old Russian (Zaliznjak 1985: 140). \
+See also: [\*avě "manifestly"](#ave), [\*avьnъ "obvious"](#avinu), [\*úmъ "mind"](#umu)
+
+### <a id="avinu">\*avьnъ [o] "manifest, obvious" (adj)</a>
+E: ORu. _javьnyj_ "manifest, obvious" \
+W: Cz. _jevný_ (Kott) "manifest, public", _zjevný_ "manifest, obvious"; Pl. _jawny_ "manifest, public, open" \
+S: SCr. _jȃvan_ "manifest, obvious"; Sln. _jávən_ "manifest, obvious"; Bulg. _jáven_ "obvious" \
+Probably derived from the adverb → [\*avě "manifestly"](#ave).
+
+### <a id="azu">\*azъ "I" (pron)</a>
+CS: OCS _azъ_ \
+E: Ru. _ja_; ORu. _(j)azъ_ \
+W: Cz. _já_; OCz. _jáz_; Pl. _ja_; OPl. _jaz_ (Flor., possibly a Bohemianism), _ja_ \
+S: SCr. _jȃ_, _jȁz_ (dial.); Čak. _jå̃_ (Vrg.), _jȁ_ (Novi), _jã_ (Orb.) "I, me"; Sln. _jàz_; Bulg. _az_, _ja_ (dial.) \
+BSl:  \*eʔź-um, \*eś (?) \
+B: Lith. _àš_, _eš_ (OLith.); Latv. _es_, _ȩs_ (dial.) OPr. _as_, _es_ \
+PIE: \*h₁eg-H-om \
+Cogn:  Skt. _ahám_; Gk. _ἐγώ_; Go. _ik_ \
+The distribution of \*azъ and \*á suggests that the latter form is a Proto-Slavic innovation (Kortlandt 2006b: 6).
+
+### <a id="azino">\*azьno [n.o] "goat-skin" (n)</a>
+CS: RuCS _jazьno_ "skin, leather"; SerbCS _(j)azno_ "skin, leather" \
+BSl:  \*aʔź-ino- \
+B: Lith. _oženà_ [f. 3ᵃ] "goat-skin", _ožìnis_ adj. "goat-" \
+PIE: \*h₂eǵ-ino- \
+Cogn:  Skt. _ajína-_ [n.] "(animal) skin" \
+The Balto-Slavic acute root vowel originates from Winter"s law.
+
