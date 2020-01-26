@@ -69,7 +69,7 @@ S: SCr. _jȁgnjac_; Čak. _jȁńe_ (Vrg.) [n.] "lamb", Npl. _jå̃ńci_, _jȁnja
 PIE: \*h₂egʷ-n- \
 PSl. \*agn- < \*h₂egʷ-n- (N.B. Winter"s law) with the diminutive suffix \*-ьcь < \*-iko- (cf. → [\*àgnę "lamb"](#agne)).
 
-### <a id="agoda">\*àgoda [f.ā (a)] "berry"</a>
+### <a id="agoda">\*àgoda [f.ā (a)] "berry" (n)</a>
 CS: OCS _agoda_ (Sav.) "fruit" \
 E: Ru. _jágoda_ "berry" \
 W: Cz. _jahoda_ "strawberry"; Slk. _jahoda_ "strawberry"; Pl. _jagoda_ "berry" \
@@ -81,7 +81,7 @@ Cogn. Go. _akran_ [n.] "fruit (of trees, corn)" \
 Adams (1999: 109-110) connects Toch.B _oko_ n. "fruit, effect" with this etymon and claims that we are dealing with “a remarkable Balto-Slavo-Tocharian correspondence” (Germanic being more remote). The vocalism of the Tocharian form, which Adams reconstructs as \*h₂óg-eh₂, is not without problems, however. OIr. _áirne_ [m.] "sloe, fruit of the blackthorn", W _eirin_ "plums" may contain \*h₂eg-, but there are more possibilities. Here, as well as in the case of _akran_, a connection with \*h₂eǵ-ro- "field" may be taken into consideration. \
 {1} SerbCS _vinjaga_ (XVIIth c.), SCr. _vìnjaga_ "wild grapes" is a derivation of _vino_ rather than a compound containing \*jaga.
 
-### <a id="aje">\*ȃje [n.jo (c)] "egg"</a>
+### <a id="aje">\*ȃje [n.jo (c)] "egg" (n)</a>
 W: Pl. _jajo_, _jaje_ (obs.); Slnc. _jãjä_; USrb. _jejo_; LSrb. _jajo_; Plb. _joji_ \
 S: SCr. _jáje_, Npl. _jája_; Čak. jå̑je (Vrg.), Npl. _jãja_, _jȃje_ (Novi), Npl. _jája_, _jȃje_ (Orb.), Npl. _jãja_ \
 PIE: \*h₂ōui-om \
@@ -89,7 +89,7 @@ Cogn:  Gk. _ᾠόν_ [n.]; Lat. _ovum_ [n.]; OIc. _egg_ [n.]; OHG _ei_ [n.]; W 
 A derivative of \*h₂eui- "bird". \
 See also: [\*ajьce "egg"](#ajice)
 
-### <a id="ajice">\*ajьce [n.jo] "egg"</a>
+### <a id="ajice">\*ajьce [n.jo] "egg" (n)</a>
 CS: OCS _aice_ \
 E: Ru. _jajcó_, _jájko_ (dial.) \
 W: Cz. _vejce_, _vajko_ (dial.); Slk. _vajce_; Pl. _jajko_, _jajce_ (obs., dial.); USrb. _jejko_ "testicle"; LSrb. _jajko_ "Easter-egg, berry" \
