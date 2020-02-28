@@ -405,7 +405,7 @@ COGN: Latv. _ieska_ [f.] "desire" < \*h₂ois-sk-eh₂- (whence Lith. _ieškóti
 An eh₂-stem derived from a PIE sk-present \*h₂is-sk-e-, cf. Skt. _iccháti_ "to long for", Av. _isaiti_ "id.". In Germanic, it gave rise to OE _āscian_ [wk.] "to question, interrogate", E _to ask_, OFri. _āskia_ [wk.] "to investigate", MDu. _eiscen_, _escen_ [wk.] "to demand", Du. _eisen_ [wk.] "id.", OHG _eiscōn_ [wk.] "to claim, demand" < \*aiskōjan-, which is derivationally parallel to Lith. _ieškóti_ and Latv. _iēskât_. Also cf. OE _ǣsce_ [f.] "question, search" < \*aiskjōn-. \
 REF: [EDPG]\: 13
 
-### <a id="aiso(ja)n">\*aisō(ja)n- [wk.] "to rush" (v)</a>
+### <a id="aisojan">\*aisō(ja)n- [wk.] "to rush" (v)</a>
 N: ON _eisa_ "to rush, dash" \
 PIE: \*h₁ois-eh₂(-ie)- \
 COGN: Skt. _íṣyati_ "to set in motion, send" < \*h₁is-ie-, Av. _fraēšiiā_ 1sg.pres.act. "to urge" < \*h₁eis-ie-, Skt. _eṣá_- "quick" < \*h₁ois-o-, Lat. _īra_ [f.] "anger, rage" < \*h₁eis-eh₂- \
@@ -634,7 +634,7 @@ PIE: \*h₂el-ti- \
 A ti-stem derived from the strong verb [\*alan- "to grow"](#alan) (q.v.). \
 REF: [EDPG]\: 20
 
-### <a id="aldo(n)">\*aldō(n)- [f.] "hollow (of a tree)" (n)</a>
+### <a id="aldon">\*aldō(n)- [f.] "hollow (of a tree)" (n)</a>
 N: ON _alda_ "wave, roller", Icel. _alda_ "wave, small land ridge", Far. _alda_ "wave", Nw. _alde_ "wave", dial. _alde_, _olde_ "billow, rivulet, well, (wooden) trough", Sw. dial. _ålla_ "furrow, vessel" \
 W: OE _aldaht_, _aldot_ "trough(?), channel(?)", G Bav. _alden_ "furrow" \
 PIE: \*Holdʰ-eh₂- \
@@ -770,7 +770,7 @@ PIE: \*h₃embʰ-on- \
 An n-stem in _Schwebeablaut_ relation to PIE \*h₃nóbʰ-s, gen. \*h₃mbʰ-és (for which see [\*nabō- "nave"](#) and [\*nablan- "navel"](#)). The OHG na-stem results from secondary thematization, cf. Lat. _umbo_ "boss (of a shield); protuberance" < \*h₃embʰ-on-. \
 REF: [EDPG]\: 24
 
-### <a id="am(m)on">\*am(m)ōn- [wk.] "to irritate" (v)</a>
+### <a id="ammon">\*am(m)ōn- [wk.] "to irritate" (v)</a>
 N: ON _ama_ "to vex, molest", Icel. _ama_ "to trouble, vex", Far. _ama_ "to spend", Nw. _ama_, _amma_ "to chafe, grate; incite" \
 PIE: \*h₃emh₃-neh₂- \
 COGN: Skt. _ámīti_ "to take hold of, enforce" < \*h₃émh₃-e-, Skt _āmáyati_ "to hurt" < \*h₃omh₃-éie-, Skt. _ámīvā_- [f.] "suffering, disease" < \*h₃emh₃-ueh₂-, Lith. _ũmyti_ "to push" < \*h₃mh₃-ie-(?), Gr. _ὄµνυµι_, -_υµαι_ "to swear" < \*h₃m-néh₂ (with \*-neu- replacing \*-neh₃-) \
@@ -1146,7 +1146,7 @@ COGN: Hitt _ārra_- [c.] "arse, anus", Gr. _ὄρρος_ [m.] "rump, arse", Arm.
 The appurtenance of OIr. _err_ is uncertain, because o-stems in Proto-Indo-European did not have paradigmatic root ablaut. The reconstruction of a more primary s-stem \*h₁érs-os, \*h₁rs-és-s does not solve much either, because s-stems did not have o-grade roots in their paradigm. The Celtic e-grade is possibly paralleled, however, by MDu. _ers_, _eers_ (Franck 1949: 6), which can hardly have developed from \*arsa-. \
 REF: [EDPG]\: 35
 
-### <a id="arto(n)">\*artō(n)- [f.] "wagtail?" (n)</a>
+### <a id="arton">\*artō(n)- [f.] "wagtail?" (n)</a>
 N: ON _arta_ "a species of teal, garganey" (also cf. _ertla_ "wagtail" < \*artilōn-), Icel. _urt_, _ōrt_ "teal", Sw. _årta_ "garganey", Elfd. _arta_ "(Baikal) teal" \
 W: OE _earte_ "pied wagtail" \
 COGN: ?Gr. _ἐρῳδιός_ (with secondary iota subscriptum), _ἐρωδιός_, _ῥωδιώς_, _ἀρωδιός_ [m.] "heron" < \*h₁/₂roHd-io-, ?Lat. _ardea_ "id." < \*h₂er(H)d-eh₂-, ?SCr. _róda_ "stork" < \*Hrodʰ-eh₂-(?) \
