@@ -538,7 +538,8 @@ N: \
 -- Elfd. _ien_ [m.], _iene_ [n.] \
 -- Da. _ene-brer_ \
 W: \
--- LG _ēn(e)ke_, G dial. _Einbeerbaum_ \
+-- LG _ēn(e)ke_ \
+-- G dial. _Einbeerbaum_ \
 PIE: \*h₁oi-n-io- \
 COGN: Hitt. _eyan_- [n.] "a certain evergreen tree" < \*h₁ei-n-, Lat. _iūni-pe/irus_ [m.] "juniper" < \*h₁oi-no- (with unexplained _i_- and etymologically obscure second member) \
 A word that is likely to have been a collective formation, especially in view of the neuters Far. _eini_ and Elfd. _iene_. The word is usually reconstructed as PGm. \*jainja- on the basis of the comparison with Lat. _iūni-perus_, but the West Germanic forms exclude initial \*j. If Hitt. _eyan_- is related (Kroonen 2011a: 32), we may reconstruct a static n-stem \*h₁ói-n, gen. \*h₁ei-n-s. \
@@ -946,7 +947,8 @@ N: \
 -- Nw. _alde_ "wave", dial. _alde_, _olde_ "billow, rivulet, well, (wooden) trough" \
 -- Sw. dial. _ålla_ "furrow, vessel" \
 W: \
--- OE _aldaht_, _aldot_ "trough(?), channel(?)", G Bav. _alden_ "furrow" \
+-- OE _aldaht_, _aldot_ "trough(?), channel(?)" \
+-- G Bav. _alden_ "furrow" \
 PIE: \*Holdʰ-eh₂- \
 COGN: Lith. _eldijà_, _aldijà_ [f.] "hollowed out tree trunk, canoe", OCS _ladii_, _al(ъ)dii_, _al(ь)dija_, Ru. _lad'ja_ "boat", dial. _lód'já_ "boat, trough", SCr. dial. _lȃdja_ [f.] "(river) ship" < \*Holdʰ-ih₂-, gen. \*-ieh₂-s \
 An Indo-European word for "boat". \
@@ -1917,7 +1919,8 @@ N: \
 W: \
 -- OE _adel(a)_ "mud, dirt" \
 -- NFri. _ethel_ "liquid manure" \
--- MDu. _ad(d)el_ "id." (var. _iddel_ << Fri. \*edel), G Bav. _adel_ "id." \
+-- MDu. _ad(d)el_ "id." (var. _iddel_ << Fri. \*edel) \
+-- G Bav. _adel_ "id." \
 Probably related to Icel. _eðja_ [f.] "mud" < \*aþjōn- or \*adjōn- (Magnusson 1989: 2), cf. Icel. _aða_, Far. _øða_ [f.] "horse mussel". In spite of the absence of cognates outside Germanic, the word cannot be too recent in view of the Verner variation of NFri. _ethel_ and Bav. _adel_ < \*aþla(n)- vs. OE _adel(a)_ < \*adla(n)-. Nw. dial. _åle_, _ale_ < ON \*aðli also points to \*aþlan-, as \*adlan- would have given \*\*alli. Metathesis occurred in Du. _aal(t)_, as in _naald_ "needle" < \*nēþlō-. Note the divergent meaning of OHG _adel_ [m.] "ulcer" (Riecke 2004: 279) \
 REF: [EDPG]\: 40
 
