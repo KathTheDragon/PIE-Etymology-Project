@@ -443,7 +443,7 @@ REF: [EDPG]\: 10
 
 ### <a id="aikwernan">\*aikwernan- ~ \*īkurnan- [m.] "squirrel" (n)</a>
 N: \
--- ON _íkorni_  \
+-- ON _íkorni_ \
 -- Far. _íkorni_ \
 -- Elfd. _aikuonn_ \
 W: \
