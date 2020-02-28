@@ -135,7 +135,7 @@ W: \
 -- OS _egitha_ \
 -- MDu. _egede_, _eegde_, _eg_ \
 -- OHG _egida_, MHG _egede_, _egde_ \
-PIE: \*ok-et\
+PIE: \*ok-et \
 COGN: OPru. _aketes_, Lith. _akė́čios_ [f.pl.] "harrow" (with -_ė́_- after _akė́ti_ "to harrow"), Lat _occa_ [f.] "harrow" (< \*otek-eh₂-), W _oged_ "id." \
 A European word. The form \*agiþō- may be a remodeling of \*ageþi-, the equivalent of \*oteki- as found in the other languages; synchronically it looks like a derivation from \*agjan-, cf. OS _gi-eggian_, OHG _ecken_ "to harrow", with the same suffix as in OHG _erida_ "plough" < \*ariþō- and ON _sigð_ "scythe" < \*segiþō- (EWAhd: II, 958). However, the verb is attested later than the noun and could be a back-formation. No further etymology. Oss. _adæg_ "harrow", apparently metathesized from \*agæd, clearly belongs here too, but may have been borrowed from a European language. Gr. _ὀξίνα_ [f.] "harrow(?)" is unrelated, as it seems to be derived from _ὀξύς_ "sharp, pointed". \
 REF: [EDPG]\: 4
@@ -436,7 +436,7 @@ REF: [EDPG]\: 10
 ### <a id="aikjan">\*aikjan- [wk.] "to irritate" (v)</a>
 N: \
 -- Nw. _eikja_ "to annoy, pester" \
-PIE: \*h₂oig-eie\
+PIE: \*h₂oig-eie \
 COGN: Identical to Skt. _éjayati_ "to shake"; also cf. Skt. _éjati_ "to move, stir, flutter" < \*h₂eig-e-, Gr. _αἰγίς_ [f.] "rushing storm, hurricane" < \*h₂eig-i-, OCS _igra_ [f.] "entertainment, dance, play" < PSl. \*jьgra < \*h₂ig-reh₂- \
 A causative preserved in both Sanskrit and Germanic. Also cf. OE _ācol_, _ācul_ "excited (by fear)" < \*aikala- and ON _eikinn_ "wild, furious", Icel. _eikinn_ "restive (of bulls)", Nw. _eikjen_ "restive, stubborn", Elfd. _ietjin_ "harsh, strong, sharp" < \*aikina-. \
 REF: [EDPG]\: 10
@@ -833,7 +833,7 @@ W: \
 -- OS _akkar_ \
 -- Du. _akker_ [c.] \
 -- OHG _ackar_, G _Acker_ \
-PIE: \*h₂eǵ-ro-\
+PIE: \*h₂eǵ-ro- \
 COGN: Skt _ájra_- [m.] "field", Arm. _art_ [m.] "id.", Gr. _ἀγρός_ [m.] "id.", Lat. _ager_ [m.] "id.". \
 A PIE ro-stem to the root of [\*akan- "to drive"](#akan-1) \
 REF: [EDPG]\: 18
@@ -1762,7 +1762,7 @@ N: \
 W: \
 -- OE _earu_ "quick, ready, prepared" \
 -- OS _aru_ "ready" \
-PIE: \*h₂/₃er-uo\
+PIE: \*h₂/₃er-uo \
 COGN: Close to ToA _ārwar_, ToB _ārwer_ "ready" < PTo. \*arwer < \*h₂/₃er-ur and Av. _auruuaṇt_- "quick", YAv. _auruua_- "quick, courageous" < \*h₂/₃er-uent- \
 Given the vacillation of the meaning between "ready" and "quick" both within and outside Germanic, the word can be derived from the root \*h₂er- "to order, arrange, fit" or from \*h₃er- "to set in motion". Although \*arwa- straightforwardly seems to continue \*h₂/₃er-uo-, it may have started off as a (heteroclitic?) verbal adjective, e.g. \*h₂/₃er-ur, gen. \*h₂/₃r-unt-ós. See also [\*garwjan- "prepare"](#garwjan). \
 REF: [EDPG]\: 37
