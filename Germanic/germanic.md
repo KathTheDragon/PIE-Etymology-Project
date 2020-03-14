@@ -584,7 +584,7 @@ W: \
 -- OE _ār_, E oar \
 PIE: \*h₃eiH-r-eh₂- \
 COGN: Hitt _hissa_- [c.] "carriage pole" < \*h₃iH-so-, Gr. _οἴαξ_, -_ᾱκος_ [m.] "handle of the rudder, rudder" < \*h₃(e)iH-s-, Skt _īṣā́_- [f.] "drawbar" < \*h₃iH-s-eh₂-, Sin. _oję̑_ [n.] "thill" < \*h₃eiH-es-, Lith. _íena_ [f.] "rod" < \*h₃eiH-n-eh₂- \
-No certain etymology. The meaning "oar" makes connection with the verb [\*rōan- "to row"](#roan) < \*h₁roh₁-e- seem attractive, but this is formally impossible. The word has more convincingly been compared to the PIE s-stem \*h₃eiH-s, \*h₃iH-es- as continued by the aforementioned forms. The Germanic word cannot directly be derived from this s-stem, however, as \*aizō- would give ON \* \*eir. It must therefore be reconstructed as \*HeiH-r-eh₂-. Could it together with Lith. _íena_ have split off from an old heteroclitic noun \*h₃óiH-r, gen. \*h₃éiH-n-s? \
+No certain etymology. The meaning "oar" makes connection with the verb [\*rōan- "to row"](#roan) < \*h₁roh₁-e- seem attractive, but this is formally impossible. The word has more convincingly been compared to the PIE s-stem \*h₃eiH-s, \*h₃iH-es- as continued by the aforementioned forms. The Germanic word cannot directly be derived from this s-stem, however, as \*aizō- would give ON \*\*eir. It must therefore be reconstructed as \*HeiH-r-eh₂-. Could it together with Lith. _íena_ have split off from an old heteroclitic noun \*h₃óiH-r, gen. \*h₃éiH-n-s? \
 REF: [EDPG]\: 13
 
 ### <a id="airu">\*airu- [m.] "messenger" (n)</a>
@@ -638,7 +638,7 @@ REF: [EDPG]\: 14
 E: Go. _aistan_ \
 PIE: \*h₂eisd-eh₁-ie- \
 COGN: Skt. _ī́ṭṭe_ "to invoke, worship", OAv. _išasōit̰_ 3sg.pres.opt. "to implore" < \*Hisd-s- \
-A stative formation containing the root \*Heisd-, which is probably an extension of \*h₂eis- (see [\*aizō-](#aizo)), perhaps with the suffixed root \*dh₃- ("to give respect"?). PIE \*h₂eisd- is well-attested in Indo-Iranian, but the appurtenance of Gr. _αἴδομαι_ "to respect" is uncertain given the fact that the expected outcome of PIE \*h₂eisd-e- would be \* \*_αἴζομαι_. \
+A stative formation containing the root \*Heisd-, which is probably an extension of \*h₂eis- (see [\*aizō-](#aizo)), perhaps with the suffixed root \*dh₃- ("to give respect"?). PIE \*h₂eisd- is well-attested in Indo-Iranian, but the appurtenance of Gr. _αἴδομαι_ "to respect" is uncertain given the fact that the expected outcome of PIE \*h₂eisd-e- would be \*\*_αἴζομαι_. \
 REF: [EDPG]\: 14
 
 ### <a id="aiston">\*aistōn- [n.] "testicle" (n)</a>
