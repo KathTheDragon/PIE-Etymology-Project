@@ -2223,3 +2223,2167 @@ PIE: \*h₁os-on-i- \
 COGN: Gr. _ὀπώρα_ [f.] "end of the summer" < \*-h₁os-r-eh₂-, OPru. _assanis_ "autumn" < \*h₁e/os-oni-, CS _esenь_, Ru. _ósen'_, SCr. _jȅsēn_ < \*h₁e/os-eni- \
 A PIE static r/n-stem, nom. \*h₁ós-r, gen. \*h₁és-n-s. The PIE word was borrowed as Finno-Volgaic \*kesä, cf. Fi. _kesä_, Mordv. _ḱize_ "summer" (cf. Koivulehto 199 1: 36). Further cf. OS _asna_ [f.] "tax" < \*asanō-. \
 REF: [EDPG]\: 46
+
+## B
+
+### <a id="ba">\*ba- "both" (num)</a>
+E: Go. _bai_, acc. _bans_, gen. _baddje_, [n.] _ba_ \
+N: \
+-- ON _báðir_, acc. _báða_, [f.] _báðar_, [n.] _bæði_, gen. _beggja_, dat. _báðum_ \
+-- Far. _báðir_, [f.] _báðar_, [n.] _bæði_, gen. _beggja_, dat. _báðum_ \
+-- Elfd. _båðer_, [n.] _båðų_ \
+W: \
+-- OE _bēgen_ [m.] (with secondary ending from "two": _bēgen twēgen_, lit. "both two"), _bā_ (_þā_) [f.], _bū_ [n.], E _both_ \
+-- OFri. _bēthe_ \
+-- OS _bē-thia_, -_e_ [m./f.], _bē-thiu_ [n.] \
+-- Du. _beide_ \
+-- OHG _bei dē_, G _beide_ \
+PIE: \*bʰo- \
+COGN: Skt. _ubhá_- (_ubhā́_, _ubháu_ [m.], _ubhé_ [f.]), OAv. _uba_- (_ubē_ [f.]), OP _ubā_ [m.] "both" < \*u-bʰo-, Lith. _abù_ [m.], _abì_ [f.], OCS _oba_ [m.], _obě_ [f./n.], Ru. _óba_ [m.], _óbe_ [f.], SCr. _ȍba_ [m.], _ȍbje_ [m.] "id." < \*h₁o-bʰo-, ToA _āmpi_, _āmpuk_, ToB _antapi_, _āṃtpi_ "id.", Gr. _ἄμφω_ "id.", Lat _ambō_ [m.], -_ae_ [f.] "id." < \*h₂(e)nt-bʰo- (Jasanoff 1977) \
+The original PGmc. paradigm was \*bai, acc. \*bans [m.], \*bōz, \*bōns [f.], \*bō [n.] with the original dual endings (PIE \*bʰoh₁) replaced by the usual pronominal plural endings. The gen. \*bajjan, for instance, was created on the basis of the [m.pl.] form by adding the gen.pl. ending (\*bʰoi-óm), just as the gen. of [\*twa- "two"](#twa) (q.v.), i.e. \*twajjan-, was created to \*twai < \*duoi. Note that this plural form similarly supplanted the PIE dual \*duoh₁. \
+REF: [EDPG]\: 46
+
+### <a id="badja">\*badja- [n.] "bed, bedding" (n)</a>
+E: Go. _badi_ "bed, pallet" \
+N: \
+-- ON _beðr_ [m.] "bolster, bedding" \
+-- Far. poet. _beður_ [m.] "bed" \
+-- Nw. _bed_ "flower bed" \
+W: \
+-- OE _bed_ "bed", E _bed_ \
+-- ODu. _beddi_ "id.", Du. _bed_ "id." \
+-- OHG _betti_ "id.", G _Bett_ "bed", _Beet_ "flower bed" \
+PIE: \*bʰodʰ-io- \
+COGN: Hitt. _paddai_ ~ _paddanzi_ "to dig" < \*bʰodʰ-ói-ei, \*bʰodʰ-i-énti, ToA _pātar_ "they ploughed" < \*bʰodʰ-, Lat. _fodiō_, -_ere_ "to pierce; to dig" < \*bʰodʰ-ie-, OCS _bosti_ (_bodǫ_) < \*bʰodʰ-, Lith. _badýti_ "to poke", Latv. _badît_ "to butt, prick" < \*bʰodʰ-eie-, Lith. _bèsti_ (_bedù_) "to stick, drive (into), dig", Latv. _best_ "to dig, bury" < \*bʰedʰ- \
+A neuter ja-stem to the PIE root \*bʰedʰ- "to poke, dig". \
+REF: [EDPG]\: 46
+
+### <a id="badojan">\*badōjan- [wk.] "to frighten" (v)</a>
+N: \
+-- Nw. _bada_ "to weigh down, press; to knead" \
+W: \
+-- OS _undar-badon_ "to frighten" \
+COGN: Close to Lith. _bãdas_ [m.] "famine" < \*bʰodʰ-o-; also cf. Skt _bā́dhate_ "to press, trouble, oppose" < \*bʰódʰ-e-, Skt _bā́dh_- [f.] "distress", YAv. _auui.bāδ(a)_- "id.", OCS _běda_ "distress, need, necessity", Ru. _bedá_ "misfortune, trouble", SCr. _bijèda_ [f.] "grief, misfortune", Lith. _bėdà_ [f.] "distress, worry" < \*bʰēdʰ- \
+A verb derived from the noun \*bada-, cf. Nw. _bad_ [n.] "effort, trouble, fear", EDa. _bad_ [n.] "damage, destruction; fight". The Norse word may have been borrowed into Middle English, so as to give rise to the hitherto unetymologized E _bad_. \
+REF: [EDPG]\: 47
+
+### <a id="badwo">\*badwo- [f.] "battle" (n)</a>
+N: \
+-- ON poet _bǫð_, gen. -_var_ \
+W: \
+-- OE _beado_ \
+-- OS _badu_ \
+-- OHG _batu_- \
+PIE: \*bʰodʰ-ueh₂- \
+COGN: Identical to MIr. _bodb_, _badb_ [m./f.] "war-god(dess); scald-crow", OBret _bodou_ "heron" < \*bʰodʰ-uo/eh₂- \
+A Celtic-Germanic isogloss. \
+REF: [EDPG]\: 47
+
+### <a id="bagma">\*bagma- [m.] "beam, tree" (n)</a>
+E: Go. _bagms_ "tree" \
+N: \
+-- ON _baðmr_ \
+-- OSw. _baghn_ [n.] "tree trunk" \
+W: \
+-- OE _bēam_ "tree, pillar, beam, post", E _beam_ \
+-- OFri. _bām_ "tree; pole" \
+-- OS _bōm_ "id." \
+-- Du. _boom_ [c.] "id." \
+-- OHG _boum_ "id.", G _Baum_ "id." \
+PIE: \*bʰh₂ǵʰ-mo- \
+The widely spread idea that this word continues \*baww-ma- (with \*-ww> \*-ggw- by NEGm. _Verschärfung_), and was derived from PIE \*bʰh₂u- "to grow" (see [\*bōan- ~ \*būan-](#boan)), is flawed (_pace_ Johansson 1891: 224-5; Pokorny IEW: 146-50; Magnusson 1989: 35), because the original meaning was "beam" rather than "tree", cf. Sw. dial. _bagne_ "branch". It is more plausible that the word is related to [\*bōgu- "shoulder, upper arm"](#bogu) (q.v.) < PIE \*bʰeh₂ǵʰ-u-, which shows a similar semantic scope, cf. OE _bog_ [m.] "shoulder, arm; branch", E _bough_ "larger limb or offshoot of a tree". For another parallel semantic development, cf. PGmc. [\*arma- "arm"](#arma) (q.v.) < \*h₂er-mo- vs. Lat. _rāmus_ [m.] "branch" < \*h₂rh₂-mo-. Note that, as a result of the labial environment, the \*-g- developed into \*-w- in WGm., and into \*-ð- in Old Norse (cf. ON _fjǫgur_ [n.] "four" < \*fedur-ō). For a discussion of other existing views, see Mankov 2007. \
+REF: [EDPG]\: 47
+
+### <a id="baidjan">\*baidjan- [wk.] "to force, demand" (v)</a>
+E: Go. _baidjan_ "to force" \
+N: \
+-- ON _beiða_ "to ask, request" \
+-- Far. _beiða_ "to request, demand; to trouble" \
+W: \
+-- OE _bǣdan_ \
+-- OHG _beitten_, MHG _beiten_ "to wait" \
+PIE: \*bʰoidʰ-eie- \
+The causative to [\*bīdan- "to wait"](#bidan) (q.v). The meaning "to force" is problaby more primitive than the meanings of e.g. Gr. _πείθομαι_ "to trust, rely, obey, be persuaded", Lat. _fīdō_, -_ere_ "to trust", which seem to have evolved in medio-passive use ('to be persuaded' > "to confide in"). \
+REF: [EDPG]\: 47
+
+### <a id="baina">\*baina- [n.] "bone, leg" (n)</a>
+N: \
+-- ON _bein_ \
+W: \
+-- OE _bān_ "bone", E _bone_ \
+-- OFri. _bēn_ \
+-- OS _bēn_ \
+-- Du. _been_ \
+-- OHG _bein_, G _Bein_. \
+Unrelated to OIr. _benaid_ "to hew" in the sense of "chopped offbone" (Hamp 1985), but derived from ON _beinn_ "straight" < \*baina- (De Vries 1962: 30). No further etymology. If the original meaning of the root was "beam (ray; post)", it is possible that the word belongs to the root \*bʰeh₂- "to shine" (for which see [\*bōnjan-](#bonjan)), cf. PGmc. [\*strēlō- "ray; arrow"](#strelo). The underlying form would then be \*bʰh₂-oi-no-, a no-formation to an i-present \*bʰh₂-ei-, for which cf. Far. _bína_, Nw. _bina_ [wk.] "to stare" < \*bīnēn-. Unrelated to Nw. dial. _buna_ [f.] "bone" < \*bunōn- (pace Bugge 1899: 459) \
+REF: [EDPG]\: 48
+
+### <a id="baira">\*baira- [m.] "boar" (n)</a>
+W: \
+-- OE _bār_, E _boar_ \
+-- OS _bēr_ \
+-- Du. _beer_ [c.] \
+-- OHG _bēr_ \
+COGN: MW _baed_, W _baedd_ "boar", OCorn. _bahet_ "_aper, verres_" \
+A Germanic-Celtic isogloss. The Germanic word has been reconstructed as both \*baira- and \*baiza-, but the former is preferable in view of the hypocorism ON _val-bassi_, OSw. _basse_, _val-basse_ [m.] "boar" < \*barsi, which is more likely to have been created to ON \*_bárr_ < \*baira- than to \*_beirr_ < \*baiza-. The origin of the word is uncertain. In view of the irregular correspondence with the British forms, which point to Proto-Brit \*basio- or \*baðio-, the word is unlikely to be of Indo-European provenance (Schrijver 1997: 304). According to Polomé 1986: 80: "It is ... obvious that we are dealing with a term of the pre-Indo-European population of the area". If this is true, both the Celtic and Germanic words must have been adopted from an extinct European language that was spoken in Europe prior to the arrival of the Indo-Europeans. \
+REF: [EDPG]\: 48
+
+### <a id="baita">\*baita- [n.] "boat" (n)</a>
+N: \
+-- ON _beit_ \
+W: \
+-- OE _bāt_ [m.], E _boat_ \
+-- MDu. _beitel_ [m.] "small boat" (< \*baitila-) \
+Given the potential link with the verb \*bītan-, it is possible that \*baita- originally denoted a small boat made of a tree hollowed out like a trough, cf. the Ru. loanword _bat_ "dugout". OE or OFri. _bāt_ was the source of ON _bátr_ and G _Boot_, Du. _boot_. \
+REF: [EDPG]\: 48
+
+### <a id="baka">\*baka- [n.] "back" (n)</a>
+N: \
+-- ON _bak_ \
+-- Far. _bak_ \
+W: \
+-- OE _bæc_, E _back_ \
+-- OFri. _bek_ [m.] \
+-- OS _bak_ \
+PIE: \*bʰog-o- \
+Borrowed into Slavic as OCS _bok-ъ_ [m.] "side". Also cf. OHG _bahho_, MHG _bache_, MDu. _bake_ [m.] "bacon" < \*bakan-. \
+REF: [EDPG]\: 48
+
+### <a id="bakja">\*bakja- [m.] "creek" (n)</a>
+N: \
+-- ON _bekkr_ \
+-- Far. _bekkur_ \
+W: \
+-- OE _bece_ \
+-- OS _beki_ \
+-- Du. _beek_ [c.] \
+-- OHG _bah_, G _Bach_ \
+PIE: \*bʰog-io- \
+COGN: ORu. _bagъno_ "mud, marsh", Ru. _bagnó_ [n.] "swamp", Ukr. _bahnó_ "marsh, mud" < \*bʰog-no-; perhaps also here: OIr. _búal_ [f.] "water; bathing, healing, cure" < \*bʰog-1-eh₂-(?) \
+The Slavic forms have also been compared to Du. _bagger_ "mud" < \*bag-ra- (Franck 1949 : 27-8; Derksen 2008: 33), and would then have to be reconstructed as \*bʰōgʰ-no-. The connection of Skt. _bhaṅga_- [m.] "breaking; wave", Lith. _bangà_ [f.] "wave" < \*bʰo-n-g-o/eh₂- should probably be abandoned, as these formations belong to a root meaning "to break", cf. Skt. _bhanákti_ "id.". \
+REF: [EDPG]\: 48
+
+### <a id="bakkan">\*bak(k)an- [st.] "to bake, fry" (v)</a>
+W: \
+-- OE _bacan_ "to bake", E _to bake_ \
+-- MDu. _backen_ [st./wk.] "to bake", Du. _bakken_ [st./wk.] "id." \
+-- OHG _bahhan_, _backan_ "id.", MHG _bachen_, _backen_ "id.", G _backen_ [wk.] "id." \
+PIE: \*bʰh₃g-e- \
+COGN: Gr. _φώγω_ "to roast, fry" < \*bʰéh₃g-e- \
+A zero-grade strong verb apparently derived from PIE \*bʰh̥₃g-é-. The dialectal vacillation between \*bakan- and \*bakkan- may be due to contamination with the iterative \*bak(k)ōn- < \*bʰh₃g-neh₂-, with which the strong verb merged in several dialects. It is also conceivable that the strong verb was back-formed to the iterative. Less likely is the view that the geminate arose from a presentic n-suffix (thus Braune 1891: 346, fn. 4). \
+REF: [EDPG]\: 49
+
+### <a id="bakkon">\*bak(k)ōn- [wk.] "to bake, fry" (v)</a>
+N: \
+-- ON _baka_ "to bake; to warm; to rub" \
+-- Far. _baka_ "to bake; to warm the udder of a cow" \
+-- Elfd. _båkå_ \
+W: \
+-- OHG _backōn_ \
+PIE: \*bʰh₃g-neh₂- \
+The iterative to [\*bak(k)an- "to bake"](#bakkan) (q.v.). \
+REF: [EDPG]\: 49
+
+### <a id="balgi">\*balgi- [m.] "skin bag" (n)</a>
+E: Go. _balgs_ "leather bag, bag made of skin" \
+N: \
+-- ON _belgr_ "skin; skin bag; bellows" \
+-- Elfd. _bōg_ "bag, skin bag" \
+W: \
+-- OE _belig_ "bag; bellows", E _belly_, _bellows_ \
+-- OFri. _blēs-balch_ "bellows", WFri. _bealch_ [c.] "trunk, belly; bulge" \
+-- MDu. _balch_ "bellows", Du. _blaas-balg_ [c.] "id." \
+-- OHG _balg_ "skin, tube, pod", G _Balg_ "id." \
+PIE: \*bʰolǵʰ-i- \
+COGN: Skt. _barhíṣ_- [n.] "bundle of straw", Av. _barəzis_- [n.] "pad, pillow" < \*bʰolǵʰ-is-, OPru. _balsinis_ "pillow" < \*bʰolǵʰ-ino-, SCr. _blàzina_ [f.] "pillow, bolster" < \*bʰolǵʰ-in-eh₂-; with depalatalization before n, cf. OPru. _balgnan_, Lith. _bal̃nas_ (OLith. _balgnas_) "saddle" < \*bʰolǵʰ-no- \
+An i-stem related to [\*belgan- "to swell"](#belgan) (q.v.). With another root vowel, cf. Far. _bjølgur_ [m.] "animal skin; bellows; paunch" < \*belgu-, whence Far. _bjølga_ [wk.] "to puff out, bulge". Perhaps further related to [\*bulgjan- ~ \*bulkjan- "to bellow"](#bulgjan). \
+REF: [EDPG]\: 49
+
+### <a id="balgjan">\*balgjan- [wk.] "to make swell, make angry" (v)</a>
+N: \
+-- ON _belgja_ "to inflate" \
+W: \
+-- OE _ā-belgan_ "to anger, to irritate" \
+-- OS _belgian_ "id." \
+-- OHG _gi-belgen_ "to irritate" \
+PIE: \*bʰolǵʰ-eie- \
+The causative to [\*belgan- "to swell"](#belgan) (q.v.). \
+REF: [EDPG]\: 49
+
+### <a id="balikan">\*balika/ōn- [m./f.] "coot" (n)</a>
+W: \
+-- OS _beliko_ [m.] \
+-- OHG _belihha_ [f.], MHG _belche_ [f.], G _Bōlch_, _Belche_ [f.] \
+COGN: Lat. _fulica_ [f.] "id." \
+A word usually compared to Lat _fulica_ on the assumption that it can be traced back to \*bʰol-ik/g-eh₂-. The suffixations of the two formations do not match, however, and are likely to be secondary in both languages. This leaves the element \*bʰol-, which has been identified as the root \*bʰolH- "white" (for which see [\*bēla-](#bela)) in view of the white spot on the bird's bill, cf. G _Blāss-huhn_ and the derivation of Gr. _φαληρίς_ [f.] "coot" from Gr. Hsch. _φαλός_ "light" < \*bʰlH-o-. However, Lat _fulica_ actually points to \*bʰul- rather than \*bʰol-. This additional formal discrepancy makes it unlikely that we are dealing with an Indo-European word. \
+REF: [EDPG]\: 50
+
+### <a id="ballan">\*ballan- [m.] "ball" (n)</a>
+N: \
+-- ON _bǫllr_ \
+-- Far. _bøllur_ "lump, clump; something rolled up" \
+-- Sw. _boll_ \
+W: \
+-- E _ball_ \
+-- MDu. _bal_ "ball (of the foot)", Du. _bal_ [c.] "id." \
+-- OHG _ballo_, _bal_, G _Ball_, _Ballen_ \
+PIE: \*bʰol-on- \
+COGN: Gr. _φαλλός_ [m.] "penis" < \*bʰl-no-, Lat _follis_ [m.] "bag, sack; ball, testicle" < \*bʰol-ni-, OIr. _ball_ [m.] "member, penis", W _balleg_ "sack, purse" < \*bʰl-no- \
+An old n-stem, nom. \*balō, gen. \*ballaz < \*bʰól-ōn, \*bʰl-n-ós, probably derived from an unattested PIE verbal root \*bʰel- "to swell up". NGm. \*ballu- split off from the original acc.pl. \*balluns < \*bʰol-n-ń̥s, cf. ON _ǫrn_ "eagle" < \*arnu- vs. PGmc. [\*aran-](#aran-1) (q.v.). See also [\*bellōn-](#bellon) and [\*bullan-](#bullan). \
+REF: [EDPG]\: 50
+
+### <a id="baltja">\*baltja- [m./n.] "belt" (n)</a>
+N: \
+-- ON _belti_ [n.] \
+W: \
+-- OE _belt_ [m.], E _belt_ \
+-- OHG _balz_ [m.] "belt, neck-chain" \
+A NWGm. loanword from Lat _balteus_, pl. _baltea_ "girdle, belt". A loanword of similar antiquity is \*kāsja- "cheese", for which see under [\*jū̆sta-](#justa). \
+REF: [EDPG]\: 50
+
+### <a id="baltha">\*balþ/da- "brave" (adj)</a>
+E: Go. _balþs_\* "bold, frank" \
+N: \
+-- ON _ballr_ "dangerous, dire" \
+W: \
+-- OE _beald_, E _bold_ \
+-- OFri. _balde_ "soon" (adv) \
+-- MDu. _boude_ "bold, brave", Du. _boud_ "frank, daring" \
+-- OHG _bald_ "bold, strong, intense", G _bald_ "soon" (adv) \
+Also cf. the factitive Go. _balþjan_ "to dare", Icel. _bella_ "to dare, carry out", Nw. _bella_ "to cope", Elfd. _bella_ [wk.] "to be able to" < \*balþjan- and the Verner variant OE _bieldan_ "to incite" < \*baldjan-. \
+REF: [EDPG]\: 50
+
+### <a id="balwa">\*balwa- [n.] "evil" (n)</a>
+N: \
+-- ON _bǫl_ "misfortune" \
+W: \
+-- OE _bealo_, E _bale_ \
+-- OS _balo_ \
+-- OHG _balo_ [m./n.] "evil, harm, disease" \
+COGN: OCS _bolь_ [m.] "sick person", Ru. _bol'_ [m.] "pain", SCr. _bôl_ [m.] "pain, illness" < \*bʰol(H)-i- \
+A noun derived from the adjective \*balwa-, cf. Go. _balwa-wesei_ [f.] "malice", OE _bealo_ "evil, destructive", whence also Go. _balwjan_ [wk.] "to torment", ON _bølva_ [wk.] "to damn". \
+REF: [EDPG]\: 50
+
+### <a id="banda">\*banda- [n.] "band, bond" (n)</a>
+N: \
+-- ON _band_ "binding; band, cord; bond" \
+-- Far. _band_ "string" \
+-- Elfd. _band_ "id." \
+W: \
+-- OE _beand_ [m.], E _band_ \
+-- OFri. _bend_ [m.] \
+-- OS _band_ \
+-- Du. _band_ [c.] "band; tire" \
+PIE: \*bʰondʰ-o- \
+COGN: YAv. _baṇda_- [m.] "bond, fetter" < \*bʰondʰ-o- \
+An a-stem derived from the strong verb [\*bindan- "bind"](#bindan) (q.v.). \
+REF: [EDPG]\: 51
+
+### <a id="bandi">\*bandī- [f.] "bond, fetter" (n)</a>
+E: Go. _bandi_ \
+W: \
+-- OE _bend_ \
+-- OFri. _be(i)nde_ \
+-- MDu. _bende_ \
+An ih₂-stem derived from [\*bindan- "bind"](#bindan) (q.v.). \
+REF: [EDPG]\: 51
+
+### <a id="bandjan">\*bandjan- [wk.] "to bend (a bow)" (v)</a>
+N: \
+-- ON _benda_ "to bend" \
+W: \
+-- OE _bendan_ "id." \
+PIE: \*bʰondʰ-éie- \
+COGN: Identical to YAv. _baṇdaiieiti_ "to bind" \
+The causative to [\*bindan- "bind"](#bindan) (q.v.). \
+REF: [EDPG]\: 51
+
+### <a id="bandwjan">\*bandwjan- [wk.] "to give a sign, beckon" (v)</a>
+E: Go. _bandwjan_ \
+N: \
+-- ON _benda_ \
+A factitive to Go. _bandwo_ [f.] "sign" < \*bʰonh₂-tueh₂-, which was created to the root of [\*bannan-](#bannan) with the tuh₂-suffix. \
+REF: [EDPG]\: 51
+
+### <a id="banjo">\*banjō- [f.] "wound" (n)</a>
+E: Go. _banja_ \
+N: \
+-- ON _ben_ \
+-- Far. _ben_ "wound; cut" \
+W: \
+-- OE _benu_ \
+-- OS _beni-wunda_ \
+PIE: \*bʰon-ih₂- \
+COGN: OAv. _bąnaiiən_ 3pl.inj. "to make ill, afflict" < \*bʰon-eie- \
+A word related to or simply derived from ON _bani_, OE _bana_, OFri. _bona_, OHG _bano_ [m.] "death, bringer of death, bane, killer" < \*banan- < \*bʰon-on-. The derivation of these forms from the PIE root \*gʷʰen- "to kill" is semantically apt, but in spite of Seebold 1967, it is unlikely that \*gʷʰ developed into \*b here or anywhere else in Germanic (cf. Markey 1980: 290). \
+REF: [EDPG]\: 51
+
+### <a id="bankan">\*bankan- [m.] "elevation" (n)</a>
+N: \
+-- ON _bakki_ "hill, slope" \
+-- Far. _bakki_ "slope, cliff, (river or fog) bank" \
+-- Elfd. _bokke_ "slope; hill" \
+COGN: Lith. _banga_ [f.] "multitude", Latv. dial. _buoga_ [f.] "grove, multitude, crowd" < \*bʰong-eh₂- \
+Related to [\*banki-](#banki) (q.v). Cf. with another stem formant Far. _b11kkur_ [m.] "lump, hillock, tuft" < \*banku-, a formation that probably split off from the original ace.pl. \*bankuns < \*bʰong-n-vs. A zero-grade variant may be extant in Du. _bank_ [c.] "lump" < \*bunkan- and Nw. dial. _bunka_ "pile, lump" < \*bunkon-, but these forms appear to be more closely related to Icel. _bunga_ "bump, elevation", Far. _bunga_ "raising on a level base, bulge", Nw. dial. _bunga_ "bump" < \*bungon-. \
+REF: [EDPG]\: 51
+
+### <a id="banki">\*banki- [m.] "bench" (n)</a>
+N: \
+-- ON _bekkr_ \
+-- Far. _bekkur_ "thwart; bench" \
+-- Elfd. _baink_ \
+W: \
+-- OE _benc_ [f.], E _bench_ \
+-- OFri. _bank_, _benk_ [m./f.] \
+-- OS _bank_ \
+-- Du. _bank_ [c.] \
+-- OHG _banc_, G _Bank_. \
+Usually connected to [\*bankan- "slope, cliff"](#bankan), possibly through an intermediate meaning "elevation" \
+REF: [EDPG]\: 51
+
+### <a id="bannan">\*bannan- [st.] "to command, summon" (v)</a>
+N: \
+-- ON _banna_ [wk.] "to forbid, prohibit; to curse" \
+-- Far. _banna_ [wk.] "to curse; to swear (an oath), to vow" \
+W: \
+-- OE _bannan_, _bonnan_ "to summon" \
+-- OFri. _bonna_, _banna_ "id." \
+-- MDu. _bannen_ "id." \
+-- OHG _bannan_ "to ban, order, summon" \
+PIE: \*bʰó-n-h₂-e- \
+COGN: Skt. _bhánati_ "to speak" < \*bʰenh₂-e-, Gr. _φημί_ "to say, explain, argue", Lat _fārī_ "to speak, say" (cf. _fābula_ [f.] "talk, rumour; story, tale" < \*bʰeh₂-dʰlo-), Arm. _bam_ "to speak, say" < \*bʰeh₂-, RuCS _bajati_ "to tell fables", SCr. _bȁjati_ "to practise sorcery, exorcize" < \*bʰeh₂-ie- \
+An o-grade intensive verb that in view of its geminate \*-nn- appears to have been created to a thematicized nu-present \*bʰe-nu-e-. This formation may have replaced the n-present \*bʰe-n-h₂- that is perhaps also supported by Skt. _bhánati_. See also [\*bōni-](#boni). \
+REF: [EDPG]\: 52
+
+### <a id="bansta">\*bans(t)a- [m.] "cowshed" (n)</a>
+E: Go. _bansts_ "barn" \
+N: \
+-- ON _báss_ "stall in a cow-barn" \
+-- Far. _básur_ "id." \
+-- Elfd. _bą̊s_ [n.] "id." \
+W: \
+-- OE _bōsig_ "cowshed", E _boosy_ \
+-- OFri. _bōs_ "cow-barn" \
+-- MDu. _banst_, _baenst_ "round basket made of straw or reed", Du. dial. _boes_ [c.] "id." \
+-- MHG _banse_ [m./f.] "shelter, lean-to", G _Banse_ [m./f.] "id." \
+PIE: \*bʰondʰ-sth₂-o- \
+COGN: To Lith. _banda_ [f.] "cattle" < \*bʰondʰ-eh₂-? \
+The material contains evidence for two different forms, \*bansa- and \*bansta-, which may both have been derived from an element \*band- "cattle". The former simply continues \*bʰondʰ-to- with a to-suffix. The latter probably contains the st-suffix (< \*sth₂- "to stand") which is also found in e.g. OHG _ouwist_ [m.] "sheepfold" < \*awista- (see [\*awist(r)a-](#awistra)) and ON _naust_ "boathouse" < [\*naust(r)a-](#naustra). The word is unrelated to the formally identical OFri. _bōst_ "marriage" (whence _bōstigia_ [wk.] "to marry"), which was derived from the strong verb [\*bindan- "to bind"](#bindan) \
+REF: [EDPG]\: 52
+
+### <a id="bariz">\*bariz- ~ \*barza- [n.] "barley" (n)</a>
+N: \
+-- ON _barr_ \
+W: \
+-- OE _bere_ [m.], E _barley_ \
+-- NFri. _berre_ \
+PIE: \*bʰar-es- \
+COGN: Alb. _bar_ "grass", Lat. _far_, -_rris_ [n.] "husked wheat, emmer; grain, flour", < \*bʰar-s-, OCS _brašьno_ [n.] "food", ORu. _borošьno_ [n.] "(farinaceous) food", SCr. _brȁšno_ [n.] "flour, food" < \*bʰar-s-ino- \
+Also cf. Go. _barizeins_ "made of barley". The stem alternation of \*bariz- (Gothic, Old English) and \*barza- (Old Norse) points to a primary s-stem nom. \*baraz, gen. \*barizaz that was thematicized in two different ways. Note that the original meaning must have been "awn", in view of ON _barr_ [n.] "acicular leaves, needles of the fir or pine" < \*barza-, cf. Far. _egi_ [n.] "corn, straw; sprout, shoot; barleyfield" under [\*aiginþ-](#aiginth). See also [\*barsa-](#barsa) and [\*brazda-](#brazda). \
+REF: [EDPG]\: 52
+
+### <a id="barjan">\*barjan- [wk.] "to fight" (v)</a>
+N: \
+-- ON _berja_ "to beat, strike" \
+-- Far. _berja_ "to bear, strike; to knock, hammer; to smash" \
+-- Elfd. _berra-s_ "to resist" \
+W: \
+-- OE _bered_ ptc. "vexed, oppressed, crushed" \
+-- OHG _berjan_ "to hit, knock", MHG _berjen_, _bern_ "id." \
+PIE: \*bʰorH-ie- \
+COGN: OCS _brati_ (_sę_) "to fight", Ru. _borót'_ (_borjú_) "to overpower, throw to the ground", _borót'sja_ "to fight" < \*bʰorH-ie-, Lith. _bárti_ (_barù_), Latv. _bãrt_ "to scold", refl. "to quarrel" < \*bʰorH-e-, Lat. _feriō_, -_īre_ "to strike" < \*bʰerH-ie-, OIr. _barae_ [f.] "anger, hostility" < \*bʰrH-en- \
+An o-grade ie-present. The meaning "to fight" in reflexive uses of the verb seems to be a Balto-Slavo-Germanic isogloss. The link with Lat. _foro_, -_āre_ "to bore through, pierce" and PGmc. \*burōjan- < \*bʰrH-eh₂-ie- is more uncertain because of the semantic difference. \
+REF: [EDPG]\: 53
+
+### <a id="barkjan">\*barkjan- [wk.] "to roar" (v)</a>
+N: \
+-- Icel. _berkja_ [st.] "to boast" \
+PIE: \*bʰorg-éie- \
+The causative to [\*berkan-](#berkan) and [\*burkōn-](burkon). The appurtenant ON, Icel., Far. _barki_ [m.] "throat, larynx" < \*barkan- is often directly linked to Gr. _φάρυνξ_ [m./f.] "pharynx", _φάρανξ_ [f.] "crevice" and Lat. _frūmen_ [n.] "larynx, throat" (cf. De Vries 1962: 26), but this etymology poses critical formal problems. Moreover, the Germanic n-stem is a relatively young deverbal formation that cannot simply be projected back into the Indo-European parent language. See also [\*kragan-](#kragan). \
+REF: [EDPG]\: 53
+
+### <a id="barku">\*barku- [m.] "bark" (n)</a>
+N: \
+-- ON _bǫrkr_ \
+-- Icel. _bōrkur_ "bark, rind" \
+-- Far. _børkur_ "bark; skin on milk"
+W: \
+-- WPhal. _bark_ "id." \
+PIE: \*bʰorh₁ǵ- \
+COGN: Alb. _barmë_ [f.] "bast" < \*bʰorh₁ǵ-mo- \
+Closely related to Far. _bark_ [n.] "tanning material; bark", Nw. _bark_ [n.] "lye from bark". The u-stem \*barku- has no parallel outside Germanic and may have split off from the acc.pl. \*barkuns < \*bʰorg-ns of a root noun \*bʰérHg-s "birch, birch bark". The same root noun may have served as the source for the related zero-grade formation MLG _borke_ [f.] "bark" < \*burkō-. Related to [\*berkō-](#berko) "birch-tree" and [\*berhta- "bright"](#berhta). \
+REF: [EDPG]\: 53
+
+### <a id="barna">\*barna- [n.] "child" (n)</a>
+E: Go. _barn_ \
+N: \
+-- ON _barn_ \
+W: \
+-- OE _bearn_ \
+-- OFri. _bern_, WFri. _bern_, _barn_ \
+-- OS _barn_ \
+-- OHG _barn_, MHG _barn_ \
+PIE: \*bʰor-no- \
+A derivation from the PIE root \*bʰer- "to carry", for which see [\*beran-](#beran-1). \
+REF: [EDPG]\: 53
+
+### <a id="barsa">\*barsa- [m.] "pike, bass" (n)</a>
+W: \
+-- OE _bears_, _bærs_, E _bass_ \
+-- WFri. _bears_ [c.] \
+-- MDu. _barse_, _baerse_, Du. _baars_ [c.] \
+-- OHG _bars_, G _Barsch_ \
+PIE: \*bʰors-o- \
+A fish named after its prickly dorsal fin, cf. ON _barr_ [m.] "pine needle" < \*barza-. The WGm. o-grade \*barsa- is accompanied by a Nordic zero-grade formation in a compound with ON _ǫgr_ [m.] "sea-bass", cf. e.g. OSw. _agh-borre_, ODa. _ag-borræ_, Da. _aborre_ < \*aga-burzan-. Related to [\*brazda-](#brazda)? \
+REF: [EDPG]\: 53
+
+### <a id="baruga">\*baruga- [m.] "barrow" (n)</a>
+N: \
+-- ON _bǫrgr_ \
+W: \
+-- OE _bearg_, _bearh_, E _barrow_ \
+-- Du. _barg_ [c.] \
+-- OHG _barug_, MHG _barc_ \
+PIE: \*bʰoru-ḱo- \
+COGN: CS _bravъ_ [m.] "small lifestock", Ru. _bórov_ [m.] "hog, castrated boar", SCr. _brâv_ [m.] "sheep, dial. hog, castrated boar" < \*bʰoru- \
+A Germanic-Slavic isogloss. The Germanic suffixation is paralleled by [\*elha(n)- "elk"](#elhan), [\*selha- "seal"](#selha) and - on a deeper level - by PIE \*h₂rt-ḱo- "bear", cf. Hitt. _hartakka_-, Skt. _ŕ̥kṣa_, -, Gr. _ἄρκτος_, Lat _ursus_, OIr. _art_, W _arth_. \
+REF: [EDPG]\: 54
+
+### <a id="barwa">\*barwa- [m.] "grove(?)" (n)</a>
+N: \
+-- ON _bǫrr_ "unknown dendronym" \
+W: \
+-- OE _bearu_ "grove" \
+-- OHG _bara-wāri_ "forest keeper; priest" \
+PIE: \*bʰor-uo- \
+COGN: RuCS _borъ_ [m.] "pine-tree, pine forest", Ru. _bor_ [m.] "coniferous forest", SCr. _bôr_ [m.] "pine-tree" < \*bʰor-u- \
+A Germanic-Slavic isogloss. \
+REF: [EDPG]\: 54
+
+### <a id="barzda">\*barzda- [m.] "edge, brim; beard" (n)</a>
+E: Go. Crim. _bars_ \
+N: \
+-- ON _barð_ [n.] "brim, prow; beard" \
+-- Far. _barð_ [n.] "stern; promontory" \
+-- Nw. _bard_ "edge, side" \
+W: \
+-- OE _beard_ "beard", E _beard_ \
+-- OFri. _berd_ "id." \
+-- Du. _baard_ [c.] "id." \
+-- OHG _bart_ "id.", G _Bart_ "id." \
+PIE: \*bʰorzdʰ-o- \
+COGN: OCS _brada_ [f.] "beard", Ru. _borodá_ [f.] "beard, chin", SCr. _bráda_ [f.] "id." < \*bʰor(z?)dʰ-eh₂-, Lith. _barzdà_ [f.] "id." < \*bʰorzdʰ-eh₂- \
+Within Germanic, the word appears to be closely related to [\*brezda-](#brezda), [\*brazda-](#brazda) and [\*burzda- "tip; edge; board"](#burzda), which makes it plausible that the meaning "beard" developed from "prickle" (cf. OIr. _brot_ [m.] "id." < \*bʰrozdʰ-o-). The question that thus arises is whether the Balto-Slavic forms could have been borrowed from PGmc. \*barzda-. This indeed seems to be confirmed by the fact that the ablaut slot of \*barzda- must be analogical after the zero grade \*burzda-, \*brazda- being the expected outcome of the full-grade form \*bʰrosdʰ-o- underlying OIr. _brot_ (cf. Kroonen 2011a: 150). Lat. _barba_ [f.] "beard", which probably reflects PIt. \*bar8a, could be from Germanic as well; the regular outcome of \*bʰorzdʰ-eh₂- would at any rate be \*\*_forba_. \
+REF: [EDPG]\: 54
+
+### <a id="basja">\*basja- ~ \*bazja- [n.] "berry" (n)</a>
+E: Go. _basi_ \
+N: \
+-- ON _ber_ \
+-- Far. _ber_ \
+-- Elfd. _ber_ \
+W: \
+-- OE _berige_ [f.] "berry, grape", E _berry_ \
+-- OS _beri_ \
+-- MDu. _bes_, _besie_ [f.] "berry, grape; bunch of grapes", Du. _bes_ [c.] "berry" \
+-- OHG _beri_ "berry, grape", G _Beere_ [f.] "berry" \
+A ja-stem that in view of the Verner alternation of e.g. Du. _bes_ vs. G _Beere_, E _berry_ was probably inflected as sg. \*basjan, pl. \*bazjo. Related to Nw. _bas_ [m./n.], _base_ [m.] "shrub" and WPhal. _base_ [f.] "leafstalk; petiole" < \*basō(n)-. No further etymology. Some have compared OIr. _basc_ "red" in view of the related OE _basu_ "purple" < \*baswa-. The color name, however, was conversely derived from the noun with the productive \*wa-suffix. Perhaps more plausible is the link with Lat. _fascis_ [m.] "bundle, faggot" and its potential cognates OIr. _basc_ [m.] "necklace", W _beich_ "burden", Bret. _bec'h_ "load" < \*bʰask-i(o)-. There can be no connection, on the other hand, with Lat _bācula_ [f.] "small berry", cf. _bacci-fer_ "having berries". \
+REF: [EDPG]\: 54
+
+### <a id="basta">\*basta- [m.] "bast" (n)</a>
+N: \
+-- ON _bast_ [n.] "bast, inner bark; string" \
+W: \
+-- OE _bæst_ [m./n.]? "id.", E _bast_ \
+-- Du. _bast_ [c.] "id." \
+-- OHG _bast_ "bast, rope", G _Bast_ \
+Also cf. the lengthened grade form MHG _buost_ [m./n.] "rope made of bast", G Rhnl. _Bust_ [f.] "nut shell", Du. dial. _boest_ [f.] "husk" < \*bōsta/ō-. No further etymology; hardly to Lat. _fascis_ "bundle". \
+REF: [EDPG]\: 55
+
+### <a id="batiz">\*batiz "better" (adv)</a>
+E: Go. _batis_ \
+N: \
+-- ON _betr_ \
+-- Far. _betur_ \
+W: \
+-- OE _bet_ \
+-- OS _bat_ \
+-- MDu. _bet_ \
+-- OHG _baz_ \
+PIE: \*bʰHd-is \
+COGN: Skt _bhadrá_- "auspicious, happy, pleasant", YAv. _hu-baδra_- "very happy" < \*bʰoHd-ro- (with loss of \*H in front of \*-dr- as per Lubotsky 1981) \
+The adverb to the comparative of [\*gōda- "good"](#goda). Also cf. ON _bati_ [m.] "improvement", OFri. _bata_ [m.] "advantage", Du. _baat_ [c.] "profit" < \*batan-. Ablauting with [\*bōtō-](#boto). \
+REF: [EDPG]\: 55
+
+### <a id="batha">\*baþa- [n.] "bath" (n)</a>
+N: \
+-- ON _bað_ \
+-- Far. _bað_ \
+-- Elfd. _bað_ \
+W: \
+-- OE _bæþ_, E _bath_ \
+-- OFri. _beth_ \
+-- OS _bath_ \
+-- Du. _bad_ \
+-- OHG _bad_, G _Bad_ \
+PIE: \*bʰh₁-to-(?) \
+A zero-grade to-formation to an exclusively Germanic root \*bʰeh₁-, cf. the related OHG _bāwan_, _bāen_ [st.?], G _bähen_ [wk.] "to foment", Bav., Alem. "to toast" < \*bēan- (with secondary _j_ in the hiatus). The derivation of this verb from \*gʷʰr-eh₁-ie- (see [\*warma-](#warma)) with "irregular loss" of the \*r is to be rejected. Also cf. Elfd. _beða_ [wk.] "to well, gush; to weld", EDu. _betten_ [wk.] "to warm up", Du. _betten_ [wk.] "to moisturize" < \*baþjan-. \
+REF: [EDPG]\: 55
+
+### <a id="baugjan">\*baugjan- [wk.] "to (make) bend" (v)</a>
+N: \
+-- ON _beygja_ \
+-- Far. _boyggja_ \
+-- Elfd. \
+W: \
+-- OE _bīegan_ \
+-- OS _bōgian_ \
+-- OHG _bougen_, G _beugen_ \
+PIE: \*bʰougʰ-éie- \
+The causative to [\*beugan- ~ \*būgan-](#beugan) (q.v.). \
+REF: [EDPG]\: 55
+
+### <a id="bauno">\*baunō- [f.] "bean" (n)</a>
+N: \
+-- ON _baun_ \
+W: \
+-- OE _bēan_, E _bean_ \
+-- OS _bōna_ \
+-- Du. _boon_ [c.] \
+-- OHG _bōna_, G _Bohne_ \
+PIE: \*bʰau(-neh₂)- \
+COGN: Lat _faba_ [f.] "bean", OPru. _babo_ "id.", OCS _bobъ_, Ru. _bob_, SCr. _bȍb_ [m.] "id.", < \*bʰabʰ-o/eh₂- and Gr. _φακός_ [m.] "lentil", Alb. _bathë_ "bean" < \*bʰaḱ-o/eh₂-; also cf. Gr. _ἄφακος_, _ἀφάκη_) "vetch" \
+The Germanic form is derived from \*bʰau-n-eh₂-, whose root is close to, but formally irreconcilable with both \*bʰabʰ- and \*bʰaḱ- as evidenced by the other comparanda. These formal discrepancies suggest that we are dealing with a non-IE word borrowed from a European language belonging to a deeply agricultural culture. \
+REF: [EDPG]\: 55
+
+### <a id="bausa">\*bausa- "evil" (adj)</a>
+N: \
+-- Nw. _baus_ "proud" \
+W: \
+-- OFri. _bās_\* "obscene" \
+-- OS _gi-bōsi_ "vain" \
+-- ODu. _bōsi_ "evil, wicked", Du. _boos_ "angry; evil" \
+-- OHG _bōsi_ "weak, useless", G _böse_ "wicked, evil, mean" \
+PIE: \*bʰouHs-o- \
+COGN: \*Ru. _búxnut'_ "to swell up" < \*bʰou(H)s-, Kash. _bucha_ [f.] "pride, haughtiness" < \*bʰou(H)s-eh₂- \
+An adjective derived from a marginally attested root \*bʰeuHs- with a meaning "to swell" (whence "to rage, be angry, evil"). Also cf. MHG _būs_ [m.] "abundance" < \*būsa-. \
+REF: [EDPG]\: 56
+
+### <a id="bautan">\*bautan- [st.] "to beat" (v)</a>
+N: \
+-- ON _bauta_ [wk.] "to beat; to chase" \
+W: \
+-- OE _bēatan_ "to beat, strike", E _to beat_ \
+-- MDu. _boten_ "to hit, beat" \
+-- OHG _bōzan_ "id.", MHG _bōzen_ [st./wk.] "id." \
+PIE: \*bʰóud-e-(?) \
+COGN: Lat. -_fūto_, -_āre_ "to strike" < \*bʰou-t-eh₂-ie-, MIr. _búailid_ "to beat, strike" (a denominal verb from an instrumental formation \*bʰou-dʰlo-?), Alb. _butë_ "tender" < \*bʰu-to- \
+The root of this verb, an o-grade intensive, is usually reconstructed as \*bʰeud- (cf. Gordon 2011, who assumes a root \*bʰeu- with a d-suffix). It is likely, however, that \*bautan- continues Pre-Gm. \*bauttan- with a geminate adopted from the appurtenant iterative [\*butt/dōn-](#button) (q.v.) < \*bʰut-neh₂- or \*bʰudʰ-neh₂-. Influence from this iterative is also seen in MHG _biezen_ ~ _būzen_ [st.] "to hit", which in view of the \*eu ~ \*ū alternation may represent a secondary back-formation. As a result, the original root-final consonant cannot be identified as \*d, but only as \*t or \*dʰ. \
+REF: [EDPG]\: 56
+
+### <a id="baza">\*baza- "naked, visible" (adj)</a>
+N: \
+-- ON _berr_ \
+-- Far. _berur_ \
+-- Elfd. _ber_ \
+W: \
+-- OE _bær_, E _bare_ \
+-- OFri. _ber_ \
+-- OS _bar_ \
+-- Du. _barre-voets_ "barefoot" (adv) \
+-- OHG _bar_ "naked, bare; pure; public", G _bar_ "id." \
+PIE: \*bʰos-ó- \
+COGN: Lith. _bãsas_, Latv. _bass_ "barefoot", CS _bosъ_, Ru. _bosój_, SCr. _bōs_ "id." < \*bʰos-o-, Arm. _bok_ "id." < \*bʰoso-gʷh₂-o- ("going naked", a compound with the PIE root \*gʷeh₂- "to go") \
+The Indo-European word for "bare, barefoot". \
+REF: [EDPG]\: 56
+
+### <a id="bebura-1">\*bebura- [m.] "beaver" (n)</a>
+N: \
+-- ON _bjórr_ \
+-- Elfd. _biuor_ \
+W: \
+-- OE _beofor_, E _beaver_ \
+-- OS _biƀar_, _biƀor_ \
+-- Du. _bever_ [c.] \
+-- OHG _bibar_, _bibur_, G _Biber_ \
+PIE: \*bʰe-bʰr- \
+COGN: YAv. _baβra_- [m.] "beaver", Lat. _fiber_, _feber_ [m.] "id.", Bret. _beuer_ "id.", OPru. _bebrus_, Lith. _bẽbras_, _bebrùs_, _bãbras_, Latv. _bȩbrs_, _bebris_ [m.] "id.", CS _bebrъ_, _bobrъ_, Ru. _bobr_, SCr. _dȁbar_ [m.] "id." \
+An animal name generally assumed to have been derived from an adjective preserved as Skt _babhrú_- "(reddish) brown" < \*bʰebʰ-ru-. Since, however, u-stem adjectives denoting color names were productive in Proto-Indo-European, I assume derivation in the opposite direction. In my view, the original paradigm is to be reconstructed as nom. \*bʰé-bʰr, gen. \*bʰi-bʰr-ós (cf. Beekes 1995: 265). The thematic forms YAv. _baβra_-, Lat. _fiber_, Lith. _bẽbras_ and CS _bebrъ_ continue the nominative form, as does the Germanic base \*bebur- (with vocalization of the r). The u-stems OPru. _bebrus_ and Lith. _bebrùs_ etc. are probably secondary. \
+REF: [EDPG]\: 56
+
+### <a id="bebura-2">\*bebura- [m.] "piece of skin, cloth(?)" (n)</a>
+N: \
+-- ON _bjórr_ "triangular cut off piece of skin; land; front wall, party wall" \
+-- Far. _bjóri_ "patch, strip, slip" \
+-- Nw. _bjor(e)_ "wedge-shaped patch" \
+-- Sw. _bjur-ås_ "cross-beams supporting the thatch of a roof" \
+-- Gutn. _bjaur_ "stern post" \
+Although the word can straightforwardly be reconstructed as \*beura- (cf. ON _bjórr_ "beer" < \*beura-), it is usually derived from \*bebura- (cf. ON _bjórr_ "beaver" < \*bebura-) in view of the potential link with Lat. _fibra_ [f.] "fiber" (cf. De Vries 1962: 40; Magnusson 1989: 60). This link is uncertain in view of the irregular variant Lat. _fimbriae_ [f.pl.] "fringe on a garment" (cf. De Vaan 2008: 217), but I would nevertheless like to adduce Far. _bjarva_ [wk.] "to mend, patch; to wrap" in support of it. This clearly denominal verb obviously developed from \*beburōjan- through metathesis of an unattested ON \*_bjafra_. Note that EFri. _bjuure_ [f.] "bed tick, pillow-case, bag", which theoretically can be brought up in support of the alternative proto-form \*beurōn-, is actually a loanword from Fr. _bure_ "homespun" (Löfstedt 193 1: 132) < VLat. _burra_ [f.] "wool, shaggy garment", cf. EDu. _buer_ "tick, ticking". \
+REF: [EDPG]\: 57
+
+### <a id="bedjan">\*bedjan- [st.] "to ask, beg, pray" (v)</a>
+E: Go. _bidjan_ \
+N: \
+-- ON _biðja_ \
+-- Far. _biðja_ \
+-- Elfd. _biða_ \
+W: \
+-- OE _biddan_, E _to bid_ \
+-- OFri. _bidda_ [wk.] "to ask, bid, order" \
+-- OS _biddian_ [wk.] "to ask" \
+-- Du. _bidden_ "to pray" \
+-- OHG _bitten_ "to ask; to pray", G _bitten_ "id." \
+PIE: \*bʰedʰ-ie- \
+Etymology debated. In view of the causative \*baidjan-, it has been suggested that \*bedjan- arose from \*bidjan- in analogy to [\*legjan- "to lie"](#legjan) and [\*setjan- "to sit"](#setjan). The meaning "to ask" would then have developed from a more primitive "to expect". Since the merger of \*e and \*i required for the reinterpretation of \*bidjan- as \*bedjan- happened in East and West Germanic independently, however, this solution cannot be maintained. The alternative link with Gr. _ποθέω_ "to desire, long for, miss" and OIr. _guidid_ "to pray"< \*gʷʰodʰ-éie- is more attractive, but hinges on the controversial development of PIE \*gʷʰ to PGmc. \*b (Seebold 1970). Further cf. ON _kne-beðr_ "hassock", OS _kneo-beda_ "prayer", which has sometimes been equated with Skt. _jñu-bā́dh_- "bending the knee". \
+REF: [EDPG]\: 57
+
+### <a id="bela">\*bēla- [n.] "(bon)fire, (funeral) pyre" (n)</a>
+N: \
+-- ON _bál_ "fire; pyre" \
+-- Far. _bál_ "(bon)fire" \
+W: \
+-- OE _bǣl_ "id." \
+PIE: \*bʰḗlH-o- \
+COGN: OCS _bělъ_, Ru. _bélyj_, SCr. _bȉo_, _bȅo_ "white" < \*bʰēlH-o-, Lith. _bãlas_ "white", Latv. _bā̀ls_ "pale" < \*bʰolH-o- \
+An etymology left uncertain by the semantic difference between "pyre" and "white". \
+REF: [EDPG]\: 57
+
+### <a id="belgan">\*belgan- [st.] "to swell" (v)</a>
+N: \
+-- ON _bolginn_ ptc. "swollen" \
+W: \
+-- OE _belgan_ "to swell with anger" \
+-- OFri. _for-bolgen_ ptc. "angry" \
+-- OS _ar-belgan_ "to move to anger" \
+-- EDu. _ver-bolgen_ "angered" \
+-- OHG _belgan_ "to be or grow angry", MHG _belgen_ "to swell (up)", refl. "to become angry" \
+PIE: \*bʰélǵʰ-e- \
+COGN: Comparable to OIr. _bolgaid_ "to swell" < \*bʰolǵʰ-eh₂-ie-, Ru. _bólozen'_ [m.] "callus, bump" < \*bolǵʰ-nio- \
+A strong verb with derivatives that have cognates throughout the IE languages, for which see [\*balgi- "skin bag"](#balgi). Also cf. [\*bulgjōn-](#bulgjon) and the causative [\*balgjan-](#balgjan) (q.v.). \
+REF: [EDPG]\: 58
+
+### <a id="belkan">\*belkan- ~ \*balkan- ~ \*bulkan- [m.] "beam" (n)</a>
+N: \
+-- ON _bjalki_, _bǫlkr_ \
+W: \
+-- OE _balca_ "beam, bank, ridge", E _balk_ \
+-- OFri. _balka_ "roof beam, rafter" \
+-- MLG _balke_ "beam, hayloft, ceiling" \
+-- Du. _balk_ [c.] "beam, bar" \
+-- OHG _balko_ "plank, winepress, part of a ship", G _Balken_ "beam, bar" \
+PIE: \*bʰélǵʰ-on \
+COGN: Ru. dial. _bólozno_ [n.] "thick board" < \*bʰolǵʰ-ino-, Lith. _balžíenas_, Latv. _bàlziêns_ [m.] "cross-beam" < \*bʰolǵʰ-eiH-no- \
+An ablauting n-stem with generalization of the geminate that arose from the sequence \*-gʰ-n- in the genitive (Kroonen 2011a: 148-149). The original paradigmatic distribution of the roots \*belk- and \*balk- is revealed by the closely related ON _bǫlkr_, Icel. _bálkur_ [m.] "partition, section", Far. _bólkur_ [m.] "section; small flock", Nw. _bolk_, pl. _belker_ [m.] "section; bulkhead", OSw. _balker_, _balker_ [m.] "beam; section" < \*balku-, which split off from the original acc.pl. \*balk(k)uns < \*bʰolgʰ-n-ń̥s. The zero grade can be retrieved from OE _bolca_ [m.] "gangway, duckboard", OHG _bolko_ [m.] "gangboard" < \*bulkan-, which was created on the basis of the gen. \*bulk(k)az < \*bʰl̥ǵʰ-n-ós. Outside Germanic, the word is clearly related to Ru. _b6lozno_ and Lith. _balzienas_, which point to a root \*bʰolgʰ- (not \*bʰolg- in view of Winter's law). These cognates, in turn, can in spite of the diverging semantics hardly be separated from e.g. OPru. _balsinis_ "pillow" and SCr. _blazina_ [f.] "pillow, bolster" as mentioned under [\*balgi- "skin bag"](#balgi). \
+REF: [EDPG]\: 58
+
+### <a id="bellan">\*bellan- [st.] "to roar, bark" (v)</a>
+N: \
+-- Icel. _bjalla_ [wk.] "to chatter; to croak" \
+W: \
+-- OE _bellan_ "to bellow, roar, bark" \
+-- MDu. _bellen_ [wk.] "to bark" \
+-- OHG _bellan_ "to bark, resound", MHG _bellen_ "to bark", G _bellen_ [wk.] "id." \
+A strong verb that in view of the double l appears to have been back-formed from the pertaining iterative [\*bullōn-](#bullon) (q.v.) < \*bʰlh₁-néh₂- (there is consequently no need to assume gemination by the laryngeal as per Luhr 1976: 77). The original present is represented by [\*blējan- "to bleat"](#blejan) (q.v.) < \*bʰleh₁-ie-. \
+REF: [EDPG]\: 58
+
+### <a id="bellon">\*bellōn- [f.] "knoll(?)" (n)</a>
+N: \
+-- Icel. _bjalla_ "hill" \
+-- Sw. _fota-bjälle_ [n.] "heel" \
+Ablauting with [\*ballan-](#ballan) (q.v.). \
+REF: [EDPG]\: 58
+
+### <a id="belunon">\*belunōn- ~ \*bulmōn- [f.] "henbane" (n)</a>
+N: \
+-- OSw. _bulma_ \
+-- Sw. _bolma_, _bolm-ōrt_ \
+-- ODa. _bylne_, EDa. _bølme_, _bulme_, Da. _bulme-urt_ \
+W: \
+-- OE _beolone_ \
+-- OS _bilina_ \
+-- MDu. _belne_ \
+PIE: \*bʰel-uon- \
+COGN: W _bela_, _bele_ "henbane" < \*bʰel-es-eh₂-, RuCS _belenъ_ [m.], Ru. _belená_ [f.] < \*bʰel-en-o/eh₂-, SCr. _bûn_ [m.] "id." < \*bʰl-no- \
+Also cf. OE _beolonan sǣd_, MDu. _belne-saet_, MLG _billen-saat_ "henbane seed". The opposition of OE _beolone_ vs. OSw. _bulma_ could point to an ablauting un-stem, \*belwō, gen. \*bulwunaz < \*bʰel-uōn, \*bʰl-un-ós. The _m_ of the Scandinavian forms must then be secondary, cf. Da. _bulne_ ~ _bulme_ "to swell up" = ODa. _bulnæ_. ON _bolgna_ (see [\*belgan-](#belgan)). The Slavic forms, on the other hand, rather point to an ablauting n-stem (cf. Schrijver 1999b), e.g. nom. \*bʰél-ōn, gen. \*bʰl-n-ós. OHG _bilisa_, G _Bilsen-kraut_ together with Romance forms such as Sp. _belesa_ "plumbago" were adopted from Celtic \*belisa, as continued by W _bela_ (Schrijver l.c.). \
+REF: [EDPG]\: 59
+
+### <a id="benuta">\*benuta- [m.] "bentgrass" (n)</a>
+W: \
+-- OE _beonet_, E _bent_ \
+-- OFri. _benet_ "bentgrass(?)", OWFri. _bjint_ [c./n.], EFri. _bjunt_ [n.] \
+-- OHG _binuz_, MHG _binez_, _binz_, G _Binse_ [f.] \
+It is possible that Nw. _bunt_ [m.] "tufted grass (_Aira caespitosa_)" is related, and if so, it represents an ablauting form \*bunuta- that would point to a root \*bʰ(e)nH- with a laryngeal. The root has no extra-Gm. cognates, however, and can in view of the irregular correspondence with MLG _bēse_, MDu. _bies(e)_ [f.], Du. _bies_ [c.] "bulrush, sedge" < \*beusō-(?) be analyzed as a word of non-IE origin. \
+REF: [EDPG]\: 59
+
+### <a id="beran-1">\*beran- [st.] "to bear, carry, give birth" (v)</a>
+E: Go. _bairan_ "to bear, bring; to endure, suffer; to give birth" \
+N: \
+-- ON _bera_ "to bear, carry; to wear; to produce, yield" \
+-- Elfd. _bjärå_ "id." \
+W: \
+-- OE _beran_ "id.", E _to bear_ \
+-- OFri. _bera_ "to carry; to give birth" \
+-- OS _beran_ "to bear, possess" \
+-- Du. _baren_ [wk.] "to give birth" \
+-- OHG _beran_ "to bear, produce, bring forth, render", G _ge-bähren_ "to bear, give birth" \
+PIE: \*bʰér-e- \
+COGN: ToAB _pär_- "to bring, carry", Skt. _bhárati_ "to carry, bear, bring, maintain", Av. _baraitī_ "to bring", Arm. _berem_ "to bring, bear, give fruit", Alb. _bie_ "to bear, carry", Gr. _φέρω_, Lat. _ferō_, _ferre_ "to carry, take", OIr. _beirid_ "to carry", OW _beryt_, MBret _beraff_ "to flow", OCS _bьrati_ "to gather, select", Ru. _brat'_ (_berú_) "to take", SCr. _brȁti_ "to gather" \
+An old PIE thematic verb. See also [\*barna-](#barna), [\*beri-](#beri), [\*bero-](#bero), [\*buri-](#buri) and [\*burjan-](#burjan). \
+REF: [EDPG]\: 59
+
+### <a id="beran-2">\*beran- [m.] "bear" (n)</a>
+N: \
+-- OSw. _Biari_ (prop) \
+W: \
+-- OE _bera_ \
+-- MDu. _bere_, Du. _beer_ [c.] \
+-- OHG _bero_, G _Bär_ \
+PIE: \*bʰerH-on- \
+The PGmc. word was inflected as an n-stem. In Nordic, it was replaced by the u-stem \*bernu-, cf. ON _bjǫrn_, Far. _bjørn_ (f.), Elfd. _byōnn_, which split off from the acc.pl. case \*bernuns < \*bʰer-n-ń̥s. Other secondary derivations are ON _bera_ [f.] "she-bear" < \*berōn- and ON _birna_ [f.] "id." < \*bernjōn-. OHG _Berri_ "Keeper of the Bear (arctophylax)" seems to point to an ablauting form \*barja-, to which one may compare ON _bassi_ [m.] "bear" < \*barsan-(?), a variant of ON _bersi_ < \*bersan-, cf. EDu. _bers_, _bors_ "id.". \
+Outside Germanic, the word is usually compared to Lith. _bė́ras_, Latv. _bȩ̃rs_ "brown" < \*bʰerH-o-, assuming that the Gm. word started out as a tabooistic formation meaning "the brown one". Another possibility is to derive PGmc. \*beran- from PIE \*ǵʰuēr- "wild animal" as represented by Gr. _θήρ_, Lith. _žvėrìs_, OCS _zvěrь_ [m.] "wild animal" (Ringe 2006: 106), but this explanation depends on the controversial change of PIE \*gʷʰ (or \*ǵʰu-) to PGmc. \*b (cf. [\*banjo-](banjo)). The sometimes compared OCS _brъlogъ_ [m.]. Ru. _berlóga_ [f.], SCr. _bŕlog_ [m.] "puddle, den" cannot be related: either the element \*bъr- was borrowed from Gm. \*ber-, or the word was created to the Slavic formation continued by SCr. _brljati_ "to dabble" with the suffix -_og_- (cf. Skok 1971: 214). \
+REF: [EDPG]\: 59
+
+### <a id="berga">\*berga- [m./n.] "mountain" (n)</a>
+N: \
+-- ON _bjarg_, _berg_ [n.] \
+W: \
+-- OE _beorg_ [m.], E _barrow_ \
+-- OFri. _berch_ [m.] \
+-- OS _berg_ [m.] \
+-- Du. _berg_ [c.] \
+-- OHG _berg_, _berag_ [m.], G _Berg_ [m.] \
+PIE: \*bʰerǵʰ-o- \
+COGN: OIr. _bri_ [f.] "hill, plain" < \*bʰrǵʰ-eh₂-, Arm. _barjr_ "high", Hitt. _parku_- "id." < \*bʰrǵʰ-u-, Skt. _br̥hánt_-, Av. _bərəz(ant)_- "high" < \*bʰrǵʰ-ent- \
+Also cf. Go. _bairgahei_ [f.] "mountainous area" < \*berg-ah-īn-. \
+REF: [EDPG]\: 60
+
+### <a id="bergan">\*bergan- [st.] "to keep (safe)" (v)</a>
+E: Go. _bairgan_ "to preserve, protect, keep" \
+N: \
+-- ON _bjarga_ [wk.] "to save, help" \
+W: \
+-- OE _beorgan_ "to spare" \
+-- Du. _bergen_ "to hide; to salvage" \
+-- OHG _bergan_ "to protect, hide", G _bergen_ "to contain, retrieve, salvage" \
+PIE: \*bʰérgʰ-e- \
+COGN: OCS _brěšti_ (_brěgǫ_) "to care" < \*bʰergʰ-e-, Lith. _bìrginti_ "to save" < \*bʰrgʰ-néh₂-, OIr. _commairge_ [f.] "protection, security" < \*ḱom-bʰorgʰ-ieh₂- \
+In view of the apparent etymological link with [\*berga- "mountain"](#berga); the original meaning of the verb can be reconstructed as "to take to high ground", whence "to keep safe", cf. [\*burgjan-](#burgjan) and [\*burg-](#burg). This is implausible, however, since the unpalatalized velars of OCS _brěšti_ (_bregǫ_) "to care" and Lith. _bìrginti_ point to a root \*bʰergʰ- "to safeguard" that was unidentical to PIE \*bʰerǵʰ- "high". The link with the Balto-Slavic forms can consequently only be maintained by assuming that they were adopted from Germanic. \
+REF: [EDPG]\: 60
+
+### <a id="berhta">\*berhta- "bright" (adj)</a>
+E: Go. _bairhts_ "bright, clear, manifest, evident" \
+N: \
+-- ON _bjartr_ "bright, shining; illustrious" \
+W: \
+-- OE _beorht_, E _bright_ \
+-- OS _berht_ "shining" \
+-- OHG _beraht_ "bright, shining", MHG _berht_ "id." \
+PIE: \*bʰerh₁ǵ-to- \
+COGN: Identical to W _berth_ "beautiful" < \*bʰerh₁ǵ-to-; also Alb. _bardhë_ "white" < \*bʰorh₁ǵ-o- (not \*bʰrǵ-o-, pace Huld 1984: 40). The derivational base of Go. _bairhtjan_, ON _birta_, OE _ge-bierhtan_ "to shine, make bright" < \*berhtjan-. In Germanic, the root also occurs without a suffix, e.g. in Nw. _bjerk_ "bright" < \*berka- < \*bʰerh₁ǵ-o- and in [\*brōka-](#broka) (q.v.) \
+REF: [EDPG]\: 60
+
+### <a id="beri">\*bēri- "portable" (adj)</a>
+N: \
+-- ON _bærr_ "due, entitled to" \
+-- Far. -_bærur_ "capable of bearing" \
+COGN: Skt. _bhāryá_- "to be borne, to be nourished" < \*bʰēr-io- \
+A _vr̥ddhi_-gerundive to [\*beran-](#beran-1) (q.v.). \
+
+### <a id="berkan">\*berkan- [st.] "to roar" (v)</a>
+W: \
+-- OE _beorcan_ "to make a sharp explosive sound, bark", E _to bark_ \
+PIE: \*bʰerg-e- \
+COGN: To Lith. _burgė́ti_ "to sputter; grumble", Latv. _burgžêt_ "to purr" < \*bʰrg-eh₁- (Pokorny IEW: 138-139)? Also cf. [\*burkōn-](#burkon) and [\*barkjan-](#barkjan) \
+REF: [EDPG]\: 61
+
+### <a id="berko">\*berkō- [f.] "birch-tree" (n)</a>
+N: \
+-- ON _bjǫrk_ \
+W: \
+-- OE _beorc_, E _birch_ \
+-- Du. _berk_ [c.] \
+PIE: \*bʰerh₁ǵ-eh₂- \
+COGN: Skt. _bhūrja_- [m.] "kind of birch", Oss. _bærz_ / _bærzæ_ "birch" < \*bʰrh₁ǵ-o-, Lith. _béržas_ [m.] "id.", SCr. _brȅza_ [f.] "id." < \*bʰerh₁ǵ-o/eh₂- \
+Also cf. - with a different suffix - OE _birce_, OHG _bircha_, _birihha_, G _Birke_ [f.] "id." < \*berkjō(n)-. Related to [\*barku- "bark"](#barku) and [\*berhta- "bright"](#berhta) (the bark of the birch-tree is whitish in color). \
+REF: [EDPG]\: 61
+
+### <a id="bero">\*bērō- [f.] "bier" (n)</a>
+W: \
+-- OE _bār_, _bǣr_ , E _bier_ \
+-- OFri. _bēre_ \
+-- OS _bāra_ \
+-- Du. _baar_ [c.] \
+-- OHG _bāra_, G _Bahre_ \
+A lengthened grade ō-stem derived from the strong verb [\*beran-](#beran-1) (q.v.). \
+REF: [EDPG]\: 61
+
+### <a id="beudan">\*beudan- [st.] "to command; to offer" (v)</a>
+E: Go. _biudan_ \
+N: \
+-- ON _bjóða_ "to offer; to invite" \
+-- Far. _bjóða_ "to offer; to invite; to command" \
+-- Elfd. _biuoða_ "to offer; to assist" \
+W: \
+-- OE _bēodan_ "to bid; to command, order", E _to bid_ \
+-- OS _biodan_ "to offer" \
+-- Du. _bieden_ "id." \
+-- OHG _biotan_ "id.", G _bieten_ "id." \
+PIE: \*bʰéudʰ-e- \
+COGN: ToA _potā_-, B _pautā_- "to honor, flatter", Skt. _bódhati_ "to perceive, notice", YAv. _baoδaiti_ "to pay attention", Gr. _πεύθω_ "to give notice" < \*bʰeudʰ-e-, OCS _bljusti_ "to watch, guard", Ru. _bljustí_ (_bljudú_) "id.", SCr. _bljȕsti_ "id." < \*bʰéudʰ-, Gr. _πυνθάνομαι_ "to find out, inquire", Lith. _bùsti_ (_bundù_) "to awake, wake up" < \*bʰu-n-dʰ- \
+A strong verb of IE origin. See also [\*buda-](#buda) and [\*budan-](#budan). \
+REF: [EDPG]\: 61
+
+### <a id="beugan">\*beugan- ~ \*biigan- [st.] "to bow, bend" (v)</a>
+E: Go. _biugan_ \
+N: \
+-- ON _bjúga_ \
+-- Far. _bogin_ "bent" \
+W: \
+-- OE _būgan_ "to bend", E _to bow_ \
+-- MDu. _bugen_, Du. _buigen_ \
+-- OHG _biogan_ "to bend, swing", G _biegen_ \
+PIE: \*bʰéugʰ-e- \
+COGN: Ru. _bgat'_ "to bend" < \*bʰugʰ-eh₂-ie-, Ru. _bugór_ [m.] "hillock", Latv. _baũgurs_ [m.] "hill" < \*bʰougʰ-ro-; and with metathesis Lith. _gùbti_ (_gumbu_), Latv. _gubt_ "to bend, curve" < \*gʰu-m-bʰ-e-, RuCS _gъ(b)nuti_, Ru. _gnut'_ (_gnu_) "to bend", SCr. _gànuti_ "to move" < \*gʰubʰ-neu-; appurtenance uncertain: Skt _bhujáti_ "to bend, shove" < \*bʰug-é- \
+The Germanic verb just like some Balto-Slavic forms points to a root \*bʰeugʰ-. It appears in metathesized form in Lith. _gùbti_, RuCS _gъ(b)nuti_, and also in PGmc. [\*gubēn- "to cower"](#guben) (q.v.). Skt. _bhujáti_ points to an unexplained root variant \*bʰeug-. See also [\*baugjan-](#baugjan), [\*bugan-](#bugan) and [\*bukk/gōn-](#bukkon). \
+REF: [EDPG]\: 61
+
+### <a id="beura">\*beura- [n.] "beer" (n)</a>
+N: \
+-- ON _bjórr_ [m.] \
+-- Far. _bjór_ \
+W: \
+-- OE _bēor_, E _beer_ \
+-- MDu. _bier_, Du. _bier_ \
+-- OHG _bior_, G _Bier_ \
+PIE: \*bʰreuH-ro \
+Etymology debated. Some have compared Sw. _buska_ "newly brewed beer" (cf. Pokorny IEW: 98-102), but the implied proto-form \*beuza- cannot be maintained, as it would have given ON \*\*býrr by R-mutation. It can be contended that ON _bjórr_ was adopted from Old English, but in view of the formal regularity of the sound correspondences as well as the borrowing of the word as OIr. _béoir_ and SaaN _biev'ra_, this seems unlikely. Not very attractive either is the idea that the word started out as a West Germanic monastic loanword from Lat. _biber_ "drink" (Kluge/Mitzka 1975). In my view, the best possible explanation is to assume dissimilation of the first _r_ in a PGmc. form \*breura- (Osthoff 1882: 555), because this formation can straightforwardly be derived from the verb [\*brewwan- "to brew"](#brewwan) with a ro-suffix, cf. Gr _βρῦτος_ or _βρῦτον_ "fermented liquor made from barley, beer". It is furthermore conceivable that this ro-stem continues an older heteroclitic formation \*bʰreuH-ur \
+REF: [EDPG]\: 62
+
+### <a id="beusta">\*beusta- [m.] "beestings" (n)</a>
+W: \
+-- OE _bēost_, E _beestings_ \
+-- WFri. _bjist_ [c.], NFri. Hall. _biaost_ [n.] \
+-- MDu. _biest_ [f.], Du. _biest_ [c.] \
+-- OHG _biost_, G _Biest_ \
+The original form and etymology of the word are uncertain. In view of ?OFra. gl. _biastr_, G Pal. _Briester_ and Swi. _briešt_, it is possible to assume that the original form was \*breustra-, and that this form was dissimilated into both \*breusta- and \*beustra-. This \*breustra- can then be connected to MHG _briustern_ [wk.] "to swell up", which was compared by MHW: 357-8 to [\*breusta- "breast"](#breusta) (q.v.). However, the assumption of a two-way dissimilation is still unable to account for the common form \*beusta-, which has no \*r at all. Are we dealing with some kind of compound, e.g. \*bi-justa-, the second element being [\*jū̆sta- "cheese"](#justa) (q.v.)? Uncertain. The potentially related Icel. _á-brystir_, -_brestir_, -_bristir_ [f.pl.] "dish made from beestings" has been derived from ON _bresta_ [st.] "to break" < \*brestan- (Magnusson 1989: 2). Icel. _broddr_ [m.] "beestings" seems to be unrelated, as it may be identical to _broddr_ "spike, tip; beginning" < \*bruzda- in the sense of "first milk" (Magnusson 19899: 83). Unclear is the position of Nw. _budde_ [f.] "beestings; fluid from a pregnant cow's teat; cheese made of beestings; newly-born lamb or calf" < \*buzdōn-. \
+REF: [EDPG]\: 62
+
+### <a id="bewwa">\*bewwa- [n.] "yield; barley" (n)</a>
+N: \
+-- ON _bygg_ "barley" \
+-- Far. _bygg_ "id." \
+-- Elfd. _begg_ "id." \
+W: \
+-- OE _bēow_ "id." \
+-- OS _beu_ [n.(?)] "harvest" \
+PIE: \*bʰeuh₂-o- \
+An a-stem related to [\*bōan- ~ \*būan-](#boan) (q.v.). Note that Elfd. _begg_ proves that the root vowel was \*e rather than \*i. \
+REF: [EDPG]\: 63
+
+### <a id="bian">\*bīan-(?) [st?] "to forsee(?), worry(?)" (v)</a>
+N: \
+-- Far. _bíggja_ [wk.] "to herald, announce" \
+-- Nw. _bjå_ [wk.] "to tremble; to warn, predict something bad; to care about; to be of use" \
+PIE: \*bʰéiH-e-\
+COGN: Skt _bháyate_ "to be afraid" < \*bʰéiH-e-, OPru. _biātwei_, Lith. _bijóti(s)_, Latv. _bîtiês_ "to fear, to be scared" < \*bʰiH-ie-, OCS _bojati sę_, Ru. _bojat'sja_, SCr. _bòjati se_ "to fear, be afraid" < \*bʰoiH-eh₂-, Lith. _baisùs_, Latv. _baîss_ "terrible" < \*bʰoiH-s-u-, OCS _běsъ_, Ru. _bes_, SCr. _bȉjes_ [m.] "demon" < \*bʰoiH-so- \
+The verb has received no IE etymology so far, but given the Norwegian meanings "to shiver" and "to worry", it is likely to contain the IE root \*bʰeiH- "to fear". This was originally a perfective verb, cf. Skt _bibhā́ya_ "is afraid" < \*bʰi-bʰoiH-e (also cf. [\*bibēn-](#biben)). Far. _bíggja_ and Nw. _bjå_ are weak verbs and may continue \*bī̆(j)ēn- or \*bī̆(j)ōn- (cf. Lith. _bijóti_ < \*bʰiH-eh₂-). Given the late attestation of the two verbs, however, it cannot be excluded that the verb originally was strong, continuing \*bīan- < \*bʰéiH-e-, cf. Skt. _bháyate_. \
+REF: [EDPG]\: 63
+
+### <a id="biben">\*bibēn- [wk.] "to tremble" (v)</a>
+N: \
+-- ON _bifa_ \
+-- Far. _biva_ \
+W: \
+-- OE _beofian_ \
+-- OFri. _beva_ \
+-- OS _beƀon_ \
+-- Du. _beven_ \
+-- OHG _bibēn_, G _beben_ \
+PIE: \*bʰi-bʰoih₂- \
+A stative verb based on a PIE reduplicated perfect \*bʰe-bʰoiH- (Narten 1981: 10) to the root \*bʰeiH-, for which see [\*bīan-(?)](#bian). Just like Skt _bibhéti_, which was created to Skt _bibhā́ya_ "is afraid", the PGmc. stem \*bebai- seems to have given rise to a class 3 weak verb (Kiimmel 2000: 338). For a similar scenario, cf. [\*gīgēn-](#gigen) and [\*rīrēn-](#riren). \
+REF: [EDPG]\: 63
+
+### <a id="bidan">\*bīdan- [st.] "to wait" (v)</a>
+E: Go. _beidan_ "to await, look for" \
+N: \
+-- ON _bíða_ "to wait for; to suffer, undergo" \
+-- Far. _bíða_ \
+-- Elfd. _baiða_ \
+W: \
+-- OE _bīdan_ "to wait, remain", E _to bide_ \
+-- OFri. _bīdia_ [wk.] "id." \
+-- OS _bīdan_ "to wait, stay, expect" \
+-- MDu. _biden_ \
+-- OHG _bītan_ "to wait, anticipate, hope", MHG _bīten_ "to await" \
+PIE: \*bʰéidʰ-e- \
+COGN: Gr. _πείθομαι_ "to trust, rely, obey, be persuaded", Lat _fīdō_, -_ere_ "to trust" < \*bʰéidʰ-e-, Alb. _bindem_ "to be convinced, believe" < \*bʰi-n-dʰ- \
+A European verb. The Germanic meaning "to wait" probably developed from "to suffer", cf. ON _bíða_ with both meanings. With a more primitive meaning, cf. [\*baidjan- "to force"](#baidjan). \
+REF: [EDPG]\: 63
+
+### <a id="bijen">\*bi(j)ēn- [wk.] "to hit" (v)</a>
+N: \
+-- Icel. _bjá_ "to fight, struggle" \
+PIE: \*bhiH-eh₁-ie- \*OIr. _benaid_ "to strike, hit", MW _kymynu_ "to hit, cut down", MBret. _benaff_ "to cut" < \*bʰiH-neh₂-, OCS _biti_, Ru. _bit'_ (_b'ju_) "to beat", SCr. _bȉti_ "to beat, kill", Ru. _bítva_, SCr. _bȉtva_ [f.] "battle" < \*bʰiH-tueh₂-, OCS _uboi_ [m.] "murder", Ru. _boj_ [m.] "battle, fight, beating", SCr. _bȏj_ [m.] "battle, war" < \*bʰoiH-o- \
+I reconstruct Icel. _bja_ as \*bi(j)ēn- in view of the similar development of PGmc. [\*fi(j)ēn-](#fijen) (q.v.) to ON _fjá_ "to hate". This reconstruction enables us to derive the verb from the PIE root \*bʰeiH- "to hit". The derivation from \*bewōn- (Magnusson 1989: 58) is less attractive. \
+REF: [EDPG]\: 64
+
+### <a id="bila">\*bila- "equal, even" (adj)</a>
+W: \
+-- OS _bile-wit_ "ambidextrous" \
+-- MDu. _bil-lijc_ "reasonable, right" (adv), Du. _bil-lijk_ "id." (adv) \
+-- OHG _bil-līh_ "id." (adv), MHG _un-bil_ "unappropriated, injust" \
+PIE: \*bʰi-lo-\
+COGN: Gr. _φίλος_ "friendly, dear; related, own", OIr. _bil_ "good" < \*bʰi-lo- \
+The original meaning of the word seems to have been "(one's) equal, even", cf. ON _Billingr_ (name of a mythical dwarf or giant), Elfd. _bilingg_ [m.] "twin" and Elfd. _bila_ [wk.] "to plane" (= "to make even"?). This further follows from OS _bilithi_, ODu. _bilithe_, Du. _beeld_, OHG _biladi_, _biledi_, G _Bild_ [n.] "image, likeness" < WGm. \*bil-eþja-. \
+REF: [EDPG]\: 64
+
+### <a id="bilon">\*bilōn- [wk.] "to give way" (v)</a>
+N: \
+-- ON _bila_ "to give way; to fail" \
+-- Icel. _bila_ "to fail, break down, give out" \
+-- Far. _bila_ "to be missing; to fail, betray, let down; to err" \
+-- Nw. _bila_ "to yield, give way, fail, lack" \
+-- Sw. _bila_ "to run out, come to an end" \
+W: \
+-- Du. arch., dial. _belen_ "to pull out (from an agreement), to resile" \
+(E)Du. _be(e)len_ (Plantijn 1573: _beel zijn_ "_se repentir d'un marché, marriage, et semblable_"), has not yet received an etymology, but since Nordic _bila_ appears to have had a primary meaning "to give way, to fail", there are no semantic objections against connecting it. No certain extra-Gm. etymology; perhaps to be compared to Lith. _bailùs_, Latv. _baîls_ "afraid" < \*bʰoih₂-l-u-, for which cf. [\*bīan-](#bian) \
+REF: [EDPG]\: 64
+
+### <a id="bindan">\*bindan- [st.] "to bind" (v)</a>
+E: Go. _bindan_ \
+N: \
+-- ON _binda_ \
+W: \
+-- OE _bindan_, E _to bind_ \
+-- OFri. _binda_ \
+-- OS _bindan_ \
+-- Du. _binden_ \
+-- OHG _bintan_, G _binden_ \
+PIE: \*bʰéndʰ-e- \
+COGN: Skt. _badhnā́ti_ "to bind, tie, fix" < \*bʰndʰ-neh₂-, Av. _basta_-, OP _basta_- ptc. "bound" < \*bʰndʰ-to-, Gr. _πεĩσμα_ [n.] "rope, cable" < \*bʰendʰ-s-men- \
+A strong verb of IE origin. See further [\*banda-](#banda), [\*bandjan-](bandjan), [\*bandī-](bandi), [\*bans(t)a-](bansta) and [\*bunda-](bunda). \
+REF: [EDPG]\: 64
+
+### <a id="bion">\*bīōn- [f.] "bee" (n)</a>
+N: \
+-- ON _bý_ [n.], _bý-jluga_ \
+-- Far. _bý-fluga_ \
+-- Nw. _bie_ \
+-- Elfd. _bia_ (for expected \*_baja_) \
+W: \
+-- OE _bēo_, E _bee_ \
+-- OHG _bīa_, _bīan_ [m.], MHG _bīe_, _bī̆n_ [m.], G _Biene_ \
+PIE: \*bʰéi-on- \
+COGN: Lat _fūcus_ [m.] "drone" < \*bʰoi-ko-, OIr. _bech_ "id.", W _begegyr_ "bee" < \*bʰi-ko-, OCS _bьcela_, Ru. _pčelá_, SCr. _pčèla_ [f.] "bee" < \*bʰi-k-el-eh₂-, Lith. _bìtė_, _bitìs_ [f.] "bee", OPru. _bitte_ "id." < \*bi-ti(-eh₂)- \
+A European word. The oldest formation was probably an ablauting n-stem nom. \*bīō, gen. \*binaz in view of the co-occurrence of the full-grade stems OHG _bīa_, OE _bēo_, Nw. _bie_ on the one hand, and the zero grade variants OHG _bian_ < \*biana- and MHG _bin_, G _Biene_ < \*binan- (MHG _bini_ [n.] "id." continues a diminutive \*bin-īn-) on the other (cf. Liihr 2000: 98). The vowel and gender of ON by are analogical to the semantically adjacent _mý_ [n.] "mosquito" < \*mūja- (see [\*muwī-](#muwi)), cf. the parallelism of Icel. _bý-fluga_ "bee" and _mý-fluga_ "midge" (Kroonen 2011a: 228-23 1). \
+REF: [EDPG]\: 64
+
+### <a id="bison-1">\*bīsōn- [f.] "wind" (n)</a>
+W: \
+-- Du. Flem. _bijs_ "rain shower, hail storm" \
+-- OHG _bīsa_ "storm", MHG _bise_ "id." \
+Probably a derivation from the verb [\*bisōn-](#bison-2) (q.v.). \
+REF: [EDPG]\: 65
+
+### <a id="bison-2">\*bisōn- [wk.] "to run around (of cattle chased by insects)" (v)</a>
+N: \
+-- OSw. _bisa_ \
+-- Sw. _besa_ \
+W: \
+-- Du. Flem. _biezen_ "to run around (of cattle)" \
+-- OHG _bisōn_ "id.", MHG _bisen_ "id.", G _biesen_ "id." \
+A NWGm. word for frenzying of cattle. Perhaps the same root extension of the root \*bʰeih₂- "to fear" (for which see \*bian-) as found in Skt _bhīṣáyate_ "to be startled" < \*bʰih₂-s-eie-. Also cf. [\*bīsōn-](#bison-1). \
+REF: [EDPG]\: 65
+
+### <a id="bitan-1">\*bītan- [st.] "to bite, be sharp" (v)</a>
+E: Go. _beitan_ \
+N: \
+-- ON _bíta_ \
+-- Far. _bíta_ \
+-- Elfd. _baita_ \
+W: \
+-- OE _bītan_, E _to bite_ \
+-- OFri. _bīta_ \
+-- OS _bītan_ \
+-- Du. _bijten_ \
+-- OHG _bīzan_, G _beißen_ \
+PIE: \*bʰéid-e- \
+COGN: Skt. _bhinátti_ "to split, break, destroy, cut up", Lat _findō_, -_ere_ "to split, cleave" < 3sg. \*bʰi-n-éd-ti, 3pl. \*bʰi-n-d-enti, YAv. _astō.bid_- "who breaks a bone", Khot _bid_-/_bista_- "to pierce", Gr. _φείδομαι_ "to spare, save, refrain from" (< "to separate oneself from") \
+An old IE verb. Also cf. [\*baita-](#baita), [\*bitan-](#bitan-2), [\*bitra-](#bitra) and [\*bīþla-](#bithla). \
+REF: [EDPG]\: 65
+
+### <a id="bitan-2">\*bitan- [m.] "bite; little bit, fragment" (n)</a>
+N: \
+-- ON _biti_ \
+W: \
+-- OE _bita_, E _bit_ \
+-- MDu. _bete_, Du. _beet_ [c.] \
+-- OHG _bizzo_, G _Bissen_ \
+A zero-grade n-stem derived from [\*bītan-](#bitan-1) (q.v.). \
+REF: [EDPG]\: 65
+
+### <a id="bitlan">\*bitlan- [m.] "beetle" (n)</a>
+N: \
+-- Da. _bille_ [c.] \
+W: \
+-- OE _bitela_ \
+Da. _bille_ can be derived from ON \*bitli (cf. Falk/Torp 1960: 73) and may thus be identical to OE _bitela_ < \*bitlan-. This formation is thought to have been derived from [\*bītan- "to pierce, bite"](#bitan-1). The alternative is to connect Da. _bille_ to Icel. _bjalla_ [f.] "bug" (< \*bellōn-?), but the origin of the latter is uncertain. \
+REF: [EDPG]\: 65
+
+### <a id="bitra">\*bitra- "bitter, sharp" (adj)</a>
+N: \
+-- ON _bitr_ "biting, sharp; bitter" \
+-- Far. poet _bitur_ "sharp, keen" \
+-- Elfd. _bitter_ "bitter; angry" \
+W: \
+-- OE _bitor_, _bitter_, _bittor_ "bitter", E _bitter_ \
+-- OS _bittar_ "id." \
+-- Du. _bitter_ "id." \
+-- OHG _bittar_ "bitter, harsh, spicy", G _bitter_ "bitter" \
+A ra-stem created to [\*bītan-](#bitan-1) (q.v.). The o-grade of Go. _baitrs_ "bitter" is remarkable, as ro-stems usually take the zero grade. It is substantiated, however, by ON -_beitr_ in _slíðr-beitr_ "sharp as a razor". Also cf. OE _bitela_ "biting" < \*bitala-. \
+REF: [EDPG]\: 66
+
+### <a id="bithla">\*bīþla- [m.] "axe" (n)</a>
+N: \
+-- ON _bíldr_ \
+W: \
+-- MDu. _bijl_ [f./n.], Du. _bijl_ [c.] \
+-- OHG _bīhal_ [n.], G _Beil_ [n.] \
+An instrumental noun derived from [\*bītan-](#bitan-1) (q.v.) . \
+REF: [EDPG]\: 66
+
+### <a id="blada">\*blada- [n.] "leaf, blade" (n)</a>
+N: \
+-- ON _blað_ \
+-- Far. _blað_ \
+-- Elfd. _blað_ \
+W: \
+-- OE _blæd_ [f.] "cup, bowl" \
+-- OFri. -_bleth_ "surface" \
+-- OS _blad_ "leaf" \
+-- Du. _blad_ "leaf; surface" \
+-- OHG _blat_ "leaf; sheet", G _Blatt_ "id." \
+Derived from the strong verb [\*blōan- "to bloom"](#bloan), quasi PIE \*bʰlh₁-tó-; as this proto-form would regularly develop into PGmc. \*bulda-, the formation must have been created at a late stage, i.e. within Germanic itself. For an archaic meaning, cf. MDu. _blad_ [n.] "yield, profit, interest". \
+REF: [EDPG]\: 66
+
+### <a id="blahjon">\*blahjon- [f.] "cloth" (n)</a>
+N: \
+-- ON _blæja_ "fine colored cloth; cover of a bed; burial sheet" \
+W: \
+-- OHG _blaha_ "coarse linen", G _Blache_, _Blahe_, _Plane_ "id." \
+ON _blæja_ (the spelling _blægja_ is probably hypercorrect) presupposes a form \*blahjōn-, which is corroborated by the North Frisian form _bleix_ < OFri. \*blehhe (LOfstedt 1928-193 1: 241). EDa. _blā_, pl. _blār_, Da. _blår_ "waste material when hemp or flax is processed" has been compared to G _Blahe_, as if continuing \*blahōn-, but the variant _Blache_ (with -_ch_- < -_hh_-) proves that the German word, too, must be reconstructed as \*blahjōn- (with j-gemination but blocking of the umlaut before -_h_- as in _lachen_ < \*hlahjan-). No further etymology: unrelated to Lat. _floccus_ [m.] "tuft of wool". \
+REF: [EDPG]\: 66
+
+### <a id="blaika">\*blaika- "pale" (adj)</a>
+N: \
+-- ON _bleikr_ \
+W: \
+-- OE _blāc_ \
+-- OS _blēk_ \
+-- Du. _bleek_ \
+-- OHG _bleih_, G _bleich_ \
+An a-grade created to the strong verb [\*blīkan-](#blikan) (q.v.). \
+REF: [EDPG]\: 66
+
+### <a id="blaita">\*blaita- "pale" (adj)</a>
+W: \
+-- OE _blāt_ \
+PIE: \*bʰloid-o- \
+COGN: Identical to OCS _blědъ_, Ru. _bledój_, SCr. _blȉjed_ "pale" \
+Cf. OHG _blizza_ [f.] "bluish discoloration" < \*blit-jō-. Reminiscent of [\*blaika-](#blaika) with the same meaning. \
+REF: [EDPG]\: 66
+
+### <a id="blandan">\*blandan- [st.] "to mix, mingle" (v)</a>
+E: Go. _blandan_ (_sik_) \
+N: \
+-- ON _blanda_ "to blend, mix" \
+W: \
+-- OE _blandan_, _blondan_ [wk.] "id." \
+-- OHG _blantan_ "id." \
+PIE: \*bʰlóndʰ-e- \
+COGN: OCS _blęsti_ "to chatter, talk nonsense", SCr. _blesti_ "to talk nonsense, blaspheme" < \*bʰléndʰ-e-, Lith. _blę̃sti_ (_blendžiù_) "to sleep, stir flour into soup, talk nonsense, become cloudy" < \*bʰlendʰ-ie- \
+An o-grade intensive verb. The original meaning was "to blend", whence "to make murky" and "to be blind" (see [\*blinda-](#blinda)). \
+REF: [EDPG]\: 66
+
+### <a id="blanka">\*blanka- "colorless(?)" (adj)</a>
+N: \
+-- ON _blakkr_ "black, dun-colored" \
+-- Elfd. _blokk_ "pale" \
+W: \
+-- Du. _blank_ "white, transparent; inundated" \
+-- OHG _blanc_ "shining, white", G _blank_ "shiny, sheer" \
+An adjective created to the poorly attested strong verb \*blinkan-, cf. Du. _blinken_ [st.] "to shine", G Pal. _blinken_ [st./wk.] "to blink; to shine", a secondary nasalized variant of [\*blīkan-](#blikan) (q.v.). Note that Elfd. _blokk_ instead of \*\*_blakk_ proves that the Nordic form continues \*blanka- rather than \*blakka-. The Germanic adjective spread to Romance, cf. VLat. _blancus_, Italian _bianco_, Spanish _blanco_, Fr. _blanc_, and from there into English as _blank_ "empty". English must originally have had the native adjective, however, in view of OE _blanca_ [m.] "grey horse" < \*blankan- (cf. Far. _Blakkur_ "name of a dog"). Also cf. ON _blekkja_ [wk.] "to deceive", ME _blenchen_ [wk.] "to jerk, twist, to flinch; to wink; to shine", E _to blench_, _blink_, MDu. _blenken_, _blinken_ [wk.] "to shine" < \*blankjan-. \
+REF: [EDPG]\: 67
+
+### <a id="blauta">\*blauta- "soft" (adj)</a>
+N: \
+-- ON _blautr_ "soft, weak; wet, soaked" \
+-- Far. _bleytur_ "soft, tender, sensitive" \
+-- Elfd. _blot_ \
+W: \
+-- OE _blēat_ "miserable" \
+-- OFri. _blāt_ "poor; naked" \
+-- Du. _bloot_ "naked" \
+-- OHG _blōz_ "naked", G _bloß_ "id." \
+PIE: \*bʰloudh₂-o- \
+COGN: Gr. _φλυδάω_ "to be soft, weak" < \*bʰludh₂-ie-, Gr. _φλυδαρός_ "weak" < \*bʰludh₂-ro- \
+An o-grade adjective to a Germanic and Greek root \*bʰleudh₂-. lt served as the basis for the inchoative ON _blotna_, Elfd. _blottn_ [wk.] "to become weak" < \*blutnan-. Further cf. G obs. _Blutz_ [m.] "naked body" < \*bluttu- and Du. _blut_ "broke" < \*blut(t)ja-. \
+REF: [EDPG]\: 67
+
+### <a id="blauthu">\*blauþu- "soft, weak, timid" (adj)</a>
+N: \
+-- ON _blauðr_ \
+W: \
+-- OE _blēaþ_ \
+-- OHG _blōdi_ "lazy, timid", G _blöde_ "dumb, witless" \
+PIE: \*mlóu-tu- \
+COGN: Gr. _ἀμβλύς_ "blunt; dim, faint" < \*n̥-ml-u-, Av. _mruta_- "crushed(?), weak" < \*mlu-to- \
+A tu-stem related to [\*blewwan-](#blewwan) (q.v.). Also cf. the factitive Go. _blauþjan_ [wk.] "to weaken, defeat". \
+REF: [EDPG]\: 67
+
+### <a id="blean">\*blēan- [st.] "to blow" (v)</a>
+W: \
+-- OE _blāwan_, E _to blow_ \
+-- OFri. _bliā(n)_ \
+-- MDu. _blaeyen_ [wk.] \
+-- OHG _blāen_ [wk./st.], MHG _blæjen_ [wk.] (ptc. _geblæt_ / _geblān_) "to blow; to smelt", G _blähen_ [wk.] "to swell, distend" \
+PIE: \*bʰléh₁-e- \
+COGN: Lat. _flō_, _flāre_ "to blow" < \*bʰlh₁- \
+The combination of PGmc. \*blēan- < \*bʰleh₁- and Lat. _flāre_ < \*bʰlh₁- points to an originally athematic verb 3sg. \*bʰléh₁-ti, 3pl. \*bʰlh₁-énti. Related to [\*blēsan-](#blesan) \
+REF: [EDPG]\: 67
+
+### <a id="blejan">\*blejan- [wk.] "to bleat" (v)</a>
+W: \
+-- E obs. _to blea_ \
+-- MLG _blēen_ \
+-- OHG _blāen_(?), MHG _blæjen_, _plēhen_ \
+PIE: \*bʰleh₁-ie- \
+COGN: Lat. _fleō_, _flēre_ "to cry, weep", Latv. _blêt_ (_blêju_) "to bleat", RuCS _blějati_, Ru. _bléjat'_ "to bleat", dial. "to cry" < \*bʰleh₁-ie- \
+Also cf. the frequentative OE _blǣgettan_, _blǣtan_, OHG _blāzen_, MHG _blāzen_, MLG _blāten_, MDu. _blaten_, _bleten_, Du. _blaten_ [wk.] "to bleat" < \*blēatjan-, whence e.g. OHG _blāzunga_ [f.] "bleating". There is no compelling reason to reconstruct a Pre-Gm. extended root \*bʰleh₁-d-, as has sometimes been assumed. \
+REF: [EDPG]\: 68
+
+### <a id="blesan">\*blēsan- [st.] "to blow" (v)</a>
+E: Go. _uf-blesan_ "to blow up" \
+N: \
+-- ON _blása_ \
+-- Far. _blása_ [st./wk.] \
+-- Elfd. _blåsa_ \
+W: \
+-- MDu. _blasen_, Du. _blazen_ \
+-- OHG _blāsan_, G _blasen_ \
+PIE: \*bʰléh₁-s-e- \
+A strong verb based on the sigmatic aorist \*bʰléh₁-s- of the root \*bʰleh₁- (Kortlandt 2011: 147), for which see [\*blēan-](#blean). Also cf. [\*blēstu-](#blestu). \
+REF: [EDPG]\: 68
+
+### <a id="blestu">\*blēstu- [m.] "blowing, blast" (n)</a>
+N: \
+-- ON _blástr_, dat. _blæsti_ "blast, blowing, breathing" \
+-- Far. _blástur_, _blóstur_ "breathing; wind; windy weather" \
+-- Elfd. _bläst_ "blast, gust" \
+W: \
+-- OE _blǣst_ "blast", E _blast_ \
+-- OHG _blāst_ "breath", MHG _blāst_ "breath, blow" \
+PIE: \*bʰleh₁-s-tu- \
+A tu-stem derived from the strong verb [\*blēsan-](#blesan) (q.v.). \
+REF: [EDPG]\: 68
+
+### <a id="blewa">\*blēwa- "blue" (adj)</a>
+N: \
+-- ON _blár_ "blue, livid, black" \
+-- Far. _bláur_ "blue; dark" \
+-- Elfd. _blå_ \
+W: \
+-- OE _blāw_, E Scot. _blae_ "blackish; livid, pale" \
+-- OFri. _blāw_ "id." \
+-- Du. _blauw_ "id." \
+-- OHG _blāo_ "blue, dark, grey", G _blau_ "id." \
+PIE: \*bʰleh₁-uo- \
+COGN: Lat. _flāvus_ "blond", OIr. _blá_ "yellow", W _blaw_ "grey" < \*bʰlh₁-uo- \
+Lat. _flāvus_ taken at face value poins to \*bʰlH-uo- or \*bʰleh₂-uo-, the latter of which is in contradiction with the PGmc. \*blēwa- < \*bʰléh₁-uo-. It has been claimed that the laryngeal in the sequence \*-eh₃-uo- was delabialized, so as to merge with \*h₂ in Italo-Celtic and with \*h₁ in Germanic (Schrijver 1991: 298-301). In Germanic, however, the evidence for this delabialization is extremely limited, consisting only of the uncertain cases \*grēwa- and \*knēwa- (for which see [\*knawa-](#knawa)). I therefore reconstruct an ablauting u-stem \*bʰléh₁-u-s, gen. \*bʰlh₁-uó-s to account for both the Germanic and Italo-Celtic forms. For another ablauting u-stem, see [\*gelwa- ~ \*gulu- "yellow"](#gelwa). \
+REF: [EDPG]\: 68
+
+### <a id="blewwan">\*blewwan- [st.] "to beat (up), blow" (v)</a>
+E: Go. _bliggwan_ \
+W: \
+-- E _to blow_ \
+-- MDu. _blouwen_ \
+-- OHG _bliuwan_ \
+PIE: \*mléu-e-\
+COGN: Gr. _ἀμβλύς_ "blunt; dim, faint" < \*n̥-ml-u-, Av. _mruta_- "crushed(?), weak" < \*mlu-to- \
+A strong verb, usually derived from an exclusively Germanic root \*bʰleuH- (cf. Seebold 1970: 120-1; LJV2: 90). It is alternatively possible to reconstruct the verb as \*mléu-e-. See also [\*blauþu-](#blauthu). \
+REF: [EDPG]\: 69
+
+### <a id="blikan">\*blikan- [st.] "to shine" (v)</a>
+W: \
+-- OE _blīcan_ "to shine, glitter" \
+-- OFri. _blīka_ "to be visible" \
+-- OS _blīkan_ \
+-- Du. _blijken_ "to appear" \
+-- MHG _blīchen_ \
+PIE: \*bʰléiǵ-e- \
+COGN: OCS _bliskati sę_, _bliscati sę_ "to sparkle, shine", Ru. _blistát'_ "to shine", SCr. _blȉskati_, _blìstati_ (_se_) "id." < \*bliǵ-ske-, Lith. _blyškė́ti_, _blizgė́ti_ "to shine" < \*bliǵ-sk-eh₁- \
+Also cf. ON _blíkja_ [wk.] "to shine" < \*blīkjan-, [\*blaika-](#blaika) and [\*blanka-](#blanka). \
+REF: [EDPG]\: 69
+
+### <a id="blinda">\*blinda- "blind" (adj)</a>
+E: Go. _blinds_ \
+N: \
+-- ON _blindr_ \
+W: \
+-- OE _blind_ \
+-- OFri. _blind_ \
+-- OS _blind_ \
+-- Du. _blind_ \
+-- OHG _blint_, G _blind_ \
+Derived from [\*blandan-](#blandan). \
+REF: [EDPG]\: 69
+
+### <a id="blitha">\*blīþa- "mild, kind" (adj)</a>
+E: Go. _bleiþs_\* "merciful" \
+N: \
+-- ON _blíðr_ "gentle, friendly; pleasant" \
+W: \
+-- OE _blīðe_ "joyful, glad", E _blithe_ \
+-- OS _blīthi_ "joyful, happy" \
+-- Du. _blij_ "id." \
+-- OHG _blīdi_ "id." \
+No certain etymology: possibly related to [\*bliwa-](#bliwa-1) if the original meaning was "bright". Also cf. OE _blīþs_, E _bliss_, OE _blīdsea_ [f.] "joy" < \*blīþisō-. \
+REF: [EDPG]\: 69
+
+### <a id="bliwa-1">\*blīwa- [n.] "color, hue" (n)</a>
+W: \
+-- OE _blēo_ "color, hue, complexion", ME _blē_ "color, hue; appearance, guise" \
+-- OFri. _blī_ [n.(?)] "complexion" \
+-- OS _blī_ "color" \
+-- MDu. _blie_ "complexion" \
+PIE: \*bʰloi-uo- \
+COGN: Lith. _blaivýtis_ (_blaivaũs_) "to become bright, clear up" < \*bʰloi-u-éie- \
+Unrelated to [\*bliwa- "lead"](#bliwa-2). \
+REF: [EDPG]\: 69
+
+### <a id="bliwa-2">\*blīwa- [n.] "lead" (n)</a>
+N: \
+-- ON _blý_ \
+-- Far. _blýggj_ \
+W: \
+-- OS _blī_ \
+-- OHG _blīo_, G _Blei_ \
+PIE: \*mlīuo- \
+A non-IE _Wanderwort_ reminiscent of Myc. _mo-ri-wo-do-_, Gr. _μόλυβδος_, _μόλιβος_, _βόλιμος_ [m.] "lead" and Lat. _plumbum_ "id.". The Greek forms, with their interchange of initial _μ_ and _β_, are highly irregular and must be analyzed as borrowings from a Pre-IE source, e.g. \*molü(m)bd-. It therefore seems likely that PGmc. \*blīwa-, too, goes back to a non-IE proto-form \*mlīuo- with initial \*m. \
+REF: [EDPG]\: 69
+
+### <a id="bloan">\*blōan- [st.] "to bloom, flourish" (v)</a>
+W: \
+-- OE _blōwan_ \
+-- OFri. _bloia_ \
+-- OS _blōian_ \
+-- Du. _bloeien_ [wk.] \
+-- OHG _bluoen_, G _blühen_ [wk.] \
+PIE: \*bʰleh₃-e- \
+COGN: Lat. _flōs_, _flōris_ [m.] "flower" < \*bʰleh₃-os-, OIr. _bláth_, MW _blawd_ [m.] "flower" < \*bʰl(e)h₃-tu- \
+A verb only attested in Germanic. The laryngeal of the underlying root has been identified as \*h₃ in view of OIr. _bláth_ and PGmc. \*blōman- (Schrijver 1991: 13 1). lndeed, PGmc. \*blōman- is likely to contain an e-grade in view of the original mn-suffix. OE _blǣd_ [m.(?)] "flower, blossom, fruit" has contrarily been adduced to reconstruct a formation \*blēdu- < \*bʰleh₁-tú- with h₁, but it is more likely that this form represents a variant of the ti-stem _blēd_ [m./f.] "id." (for which see [\*blōdi-](#blodi)). It therefore seems safe to reconstruct the Germanic strong verb as \*bʰleh₃-e- rather than an o-graded \*bʰlóh₁-e-. \
+REF: [EDPG]\: 69
+
+### <a id="bloda">\*blōda- [n.] "blood" (n)</a>
+E: Go. _bloþ_ \
+N: \
+-- ON _blóð_ \
+-- Elfd. _bluoð_ \
+W: \
+-- OE _blōd_, E _blood_ \
+-- OFri. _blōd_ \
+-- MDu. _bloet_ "blood; blushing", Du. _bloed_ \
+-- OHG _bluot_, G _Blut_ \
+A neuter collective created to either [\*blēan- "to blow"](#blean) or [\*blōan- "to flower"](#bloan). The latter connection is based on the idea that the color of the blood served as the _Benennungsmotiv_ (cf. MDu. _bloet_ [n.] "blushing"), the former on the assumption of a semantic primitive "to gush" (cf. EWAhd: II, 212). Alternatively, it is possible to start from a meaning "life" derived from "breath", cf. OHG _blāt_ [m.] "blowing", OE _blǣd_ [m.] "breath, spirit, life" < \*blēda-. \
+REF: [EDPG]\: 70
+
+### <a id="blodi">\*blōdi- [f.] "bloom" (n)</a>
+W: \
+-- OE _blēd_ "shoot, branch, flower, fruit" \
+-- OHG _bluot_ "blossom, blossoming", G _Blüte_ "id." \
+PIE: \*bʰleh₃-tí- \
+A ti-stem derived from the root \*bʰleh₃-, for which see [\*blōan-](#bloan). \
+REF: [EDPG]\: 70
+
+### <a id="bloman">\*blōman- [m.] "flower" (n)</a>
+E: Go. _bloma_ \
+N: \
+-- ON _blómi_ \
+-- Far. _blómi_, _blóma_ [f.] "flower, bloom" \
+-- Elfd. _bljomme_ "id." \
+W: \
+-- OS _blōmo_ "id." \
+-- Du. _bloem_ [c.] "id." \
+-- OHG _bluomo_, _bluoma_ [f.] "id.", MHG _bluome_ [m./f.] "id.", G _Blume_ [f.] "id." \
+PIE: \*bʰleh₃-mon- \
+Apparently an mn-stem derived from the strong verb [\*blōan-](#bloan) (q.v.). It is possible, too, to derive \*blōman- from \*blōmman- < \*blōzman-, which would be a Verner variant of the Ingvaeonic formation OE _blos(t)ma_ [m.] "blossom", MLG _blosem_, _blossem_ [m.] "id.", MDu. _bloesem_ [m.] "id.", Du. _bloesem_ [c.] "blossom" < \*blōsman-. \
+REF: [EDPG]\: 70
+
+### <a id="blotan">\*blotan- [st.] "to sacrifice" (v)</a>
+E: Go. _blotan_ "to serve, worship" \
+N: \
+-- ON _blóta_ "to worship; to sacrifice" \
+W: \
+-- OE _blōtan_ \
+-- OHG _blōzan_ [st./wk.] \
+PIE: \*bʰlóh₂d-e-(?) \
+COGN: Lat. _flāmen_ [m.] "priest" < \*bʰleh₂(d/g)-men- \
+The traditional connection with _flamen_ [m.] "priest" (cf. Pokorny IEW: 154) is possible, but uncertain because it is impossible to see whether the root of the Lat. word was \*flii-, \*fliid- or \*flag-. In view of the potentially archaic semantics of the loanword Fi. _luote_ "enchantment", it is possible to alternatively connect e.g. Lith. _blódėti_, Latv. _blãdêt_ "to babble, ramble" < \*bʰleh₂d-eh₁-, assuming a primary meaning "invocation". Within Germanic, also cf. OHG _bluostar_ [n.] "sacrifice" < \*blōstra- and the derivation Go. -_blostreis_ [m.] "worshipper" < \*blōstrja- \
+REF: [EDPG]\: 70
+
+### <a id="boan">\*bōan- ~ \*būan- [st.] "to live, dwell" (v)</a>
+E: Go. _bauan_ [st./wk.] \
+N: \
+-- ON _búa_ "to live; to prepare, fix" \
+-- Far. _búgva_ [st./wk.] "id." \
+W: \
+-- OE _būan_, _būgan_ \
+-- OS _būan_ [wk.] \
+-- Du. _bouwen_ [wk.] "to build" \
+-- OHG _bū(w)an_, _bū(w)en_ [st./wk.] "to live, dwell; to build", G _bauen_ [wk.] "to build" \
+PIE: \*bʰeh₂u- \
+COGN: Skt _bhávati_ "to become, happen, come about", OAv. _bauuaiti_ 3sg.pres. "to become" < \*bʰéuh₂-e-, Gr. _φύομαι_ "to grow, arise, spring up, become", Lith. _bū́ti_, Latv. _bût_ "to be", OCS _byti_, Ru. _byt'_ (_búdu_), SCr. _bȉti_ "id." < \*bʰuh₂-e-, Lat _fuī_ "to become" < \*bʰuh₂-, OIr. _biid_ "is wont to be", OW _bez_, _bit_ "to be" < \*bʰh₂u-ie- (cf. McCone 1991: 122, Zair 2009), Alb. _bij_ "to sprout, grow out" \
+The etymological cluster belonging to this verb is difficult to analyze formally (cf. Seebold 1970: 127), but in all likelihood, the difference between \*būan- and \*bōan- is simply to be explained as resulting from an ablauting paradigm, e.g. a root present 3sg. \*bʰéh₂u-ti, pl. \*bʰh₂u-enti. The full-grade root \*bʰeh₂u- should through \*bōw- regularly have given \*bō- by the loss of \*u after \*ō in open syllables (cf. e.g. [\*nō- "ship"](#no) < \*neh₂u-), while \*bū- developed from \*bʰh₂u- by laryngeal metathesis (cf. \*būra-). See also [\*bewwa-](#bewwa) and [\*buwwēn-](#buwwen). \
+REF: [EDPG]\: 71
+
+### <a id="bogu">\*bōgu- [m.] "shoulder, upper arm" (n)</a>
+N: \
+-- ON _bógr_ "shoulder" \
+-- Elfd. _buog_ "id." \
+W: \
+-- OE _bōg_ "shoulder, arm, branch", E _bow_ \
+-- Du. _boeg_ [c.] "bow" \
+-- OHG _buog_ "shoulder, hip, bow", G _Bug_ "id." \
+PIE: \*bʰeh₂ǵʰ-u- \
+COGN: Identical to ToA _poke_, ToB _poko_ "arm", Skt _bāhú_- [m.] "arm, forearm, forefoot of an animal", YAv. _bāzu_- [m.] "arm", NP _bāzū_ "id.", Oss. _bazyg_ / _bazug_ "id.", Gr. _πῆχυς_, Dor., Aeol. _πᾶχυς_ [m.] "forearm, arm; cubit" \
+A u-stem related to [\*bōsma- "bosom"](#bosma) and [\*bagma- "beam; tree"](#bagma) (q.v.). Also cf. ON _bœgsl_, Icel. _bægsl_, Far. _bøksl_ [n.] "(front) flipper of a whale" < \*bōg-isla-. \
+REF: [EDPG]\: 71
+
+### <a id="bok">\*bōk- [f.] "book" (n)</a>
+N: \
+-- ON _bók_, pl. _bœkr_ \
+-- Far. _bók_, pl. _bøkr_ \
+-- Elfd. _buok_, pl. _byōker_ \
+W: \
+-- OE _bōc_, pl. _bēc_, E _book_ \
+-- OFri. _bōk_ \
+Also cf. Go. _boka_ [f.] "letter", OHG _buoh_ [m./n./f.] "book, script, scripture, letter", _Buch_ [n.] "book", OS _bōk_ [n.] "book, tablet", Du. _boek_ [n.] "book", OFri. _bōk_ [f./n.] "id." < \*bōka/ō-. Related to [\*bōk(j)ō- "beech"](#bokjo) (q.v.); it is generally assumed that the first scriptures consisted of wooden tablets (cf. OS _bōk_), cf. Tacitus (Germania 10): _Virgam frugiferae arboris decisam in surculos amputant, eosque notis quibusdam discretos super candidam vestem temere ac fortuite spargunt_. \
+REF: [EDPG]\: 71
+
+### <a id="bokjo">\*bōk(j)ō- [f.] "beech" (n)</a>
+N: \
+-- ON _bók_ \
+-- Far. _bók_ \
+W: \
+-- OE _bōc_, _bēce_, E _beech_ \
+-- OS _bōka_ \
+-- Du. _beuk_ [c.] \
+-- OHG _buohha_, G _Buche_ \
+PIE: \*bʰeh₂g/ǵ-eh₂- \
+COGN: Gr. _φηγός_, Dor. _φαγός_ [f.] "oak", Lat. _fāgus_ [f.] "beech", Gaul. \*bāgos "id." (in French toponyms) < \*bʰeh₂g/ǵ-o- \
+An old IE tree name. Most Germanic forms straightforwardly point to PGmc. \*bōk-. Icel. _beyki_ [n.] "beech", a collective formation, has been interpreted as continuing \*baukja-, apparently with a -u- in its root, but it is more likely that _beyki_ [peikʲɪ] is an irregular continuant of ON \*bœki (cf. _bœki-skógr_ "beech forest"), a form directly continued by Icel. _bæki_ (cf. Magnusson 1989: 53). Du. _beuk_ does not go back to a PGmc. form with \*u either, but was borrowed from the eastern dialects that were affected by umlaut of PGmc. \*ō to \*ȫ. Any direct connection to Ru. _boz_ "elder", allegedly continuing PIE \*bʰugʰ-o-, must therefore be rejected, not least in view of the mismatch between Pre-Gm. \*g/ǵ and Pre-Slav. \*ǵʰ. \
+REF: [EDPG]\: 71
+
+### <a id="boni">\*bōni- [f.] "request, prayer" (n)</a>
+N: \
+-- ON _bœn_ \
+-- Far. _bøn_ \
+-- Elfd. _byōn_ \
+W: \
+-- OE _bōn_ \
+PIE: \*bʰéh₂-ni- \
+COGN: Arm. _ban_ "word, speech; matter, thing" < \*bʰeh₂-ni- \
+A Germanic-Armenian isogloss (Olsen 1999: 79) derived from the root of [\*bannan-](#bannan) (q.v.) with a ni-suffix. \
+REF: [EDPG]\: 72
+
+### <a id="bonjan">\*bōnjan- [wk.] "to decorate" (v)</a>
+W: \
+-- OE _bōnian_ "to ornament" \
+-- MDu. _boenen_ "to polish", Du. boenen "id." \
+-- MHG _büenen_ "id." \
+PIE: \*bʰeh₂- \
+COGN: Skt. _bhā́ti_ "to shine, be bright", YAv. _fra-uuāiti_ "id.", Oss. _ivajyn_ "to become pale" < \*bʰeh₂-, Gr. _φαίνω_ "to show, make visible, bring to light" < \*bʰh₂-n-ie- \
+The verb looks like a factitive of an adjective \*bōna- < \*bʰoh₂-no-, which is possibly attested as MDu. _boen_ "fit, good, pretty", and has an exact parallel in OIr. _bán_ "white". Derived from the PIE root \*bʰeh₂- "to shine". Related to Far. _bína_, Nw. _bina_ [wk.] "to stare" < \*bʰh₂-i-n-eh₁-? \
+REF: [EDPG]\: 72
+
+### <a id="bosma">\*bōsma- [m.] "bosom" (n)</a>
+W: \
+-- OE _bōsm_, E _bosom_ \
+-- OFri. _bōsem_ \
+-- MDu. _boesem_, _bosem_, Du. _boezem_ [c.] \
+-- OHG _buosum_ "bosom, lap", G _Busen_ "id." \
+A collective(?) derived from [\*bōgu- "shoulder, upper arm"](#bogu). \
+REF: [EDPG]\: 72
+
+### <a id="boto">\*bōtō- [f.] "improvement" (n)</a>
+E: Go. _bota_ "advantage, benefit" \
+N: \
+-- ON _bót_ "improvement; compensation; patch" \
+-- Far. _bót_ "id." \
+-- Elfd. _buot_ "cure, remedy; fine" \
+W: \
+-- OE _bōt_ "help; remedy" \
+-- OFri. _bōte_ "recovery; compensation, fine" \
+-- OS _bōta_ "healing; penitence" \
+-- Du. _boete_ [c.] "penitence; fine" \
+-- OHG _buoz_ "id.", G _Buße_ "id." \
+PIE: \*bʰoHd-eh₂- \
+An o-stem derived from the root \*bat-, for which see [\*batiz "better"](#batiz). Also cf. Go. _botjan_ "to help", ON _bœta_ "to repair, compensate", OE _bētan_, OFri. _bēta_, OS _bōtian_, OHG _buozen_, G _büßen_ [wk.] "to improve, compensate" < \*bōtjan-. \
+REF: [EDPG]\: 72
+
+### <a id="bragna">\*bragna- [m.] "brain" (n)</a>
+W: \
+-- OE _brægen_ [n.] \
+-- OFri. _brein_ [n.] \
+-- MLG _bragen_, _bregen_ [n.] \
+-- MDu. _bragen_, _brein_ [n.], Du. _brein_ [n.] \
+PIE: \*mrógʰ-no- \
+COGN: Gr _βρεχμός_ [m.] "front part of the head" < \*mregʰ-mo-, Skt. _mastr̥han_- [m.] "brain", YAv. _mastərəɣan_- [m.] "id.", MP _mastarg_, _masturg_ "brains" < \*most-(m)rgʰ-e/on- (Lubotsky 2008a) \
+An IE word preserved only in the Ingvaeonic area. The development of \*bragna- to Du. _brein_, -_ei_- usually being a contraction of -_eg(i)_- rather than -_ag_-, could point to a Frisianism. Frisian influence may similarly account for the _e_ of MLG _bregen_, although it has been claimed on the basis of this form that PGmc. had a stem variant \*bragina- (Lühr 1988: 332). Both \*bragna- and \*bragina- are explicable from an IE ablauting consonant stem, e.g. a static neuter nom. \*mregʰ-mn, gen. \*mrógʰ-mn-s, Joe. \*mrogʰ-mén-i. The e-grade would then have been preserved by Gr. _βρεχμός_. For the loss of the m in Germanic, cf. [\*budman- ~ \*buttaz "bottom"](#budman) \
+REF: [EDPG]\: 73
+
+### <a id="braida">\*braida- "broad" (adj)</a>
+E: Go. _braiþs_ \
+N: \
+-- ON _breiðr_ \
+-- Far. _breiður_ \
+-- Elfd. _brieð_ \
+W: \
+-- OE _brād_, E _broad_ \
+-- OFri. _brēd_ \
+-- OS _brēd_ \
+-- Du. _breed_ \
+-- OHG _breit_, G _breit_ \
+PIE: \*bʰroidʰ-o-\
+A Germanic word without any clear cognates in other IE languages. Perhaps to Lith. _ber̃ti_ (_beriù_) "to strew, distribute" < \*bʰer-e- (cf. Heidermanns 1993: 137) : if so, \*braida- would have to be a to-participle to an (unattested) i-present \*bʰr-oi-. Rather to a disappeared strong verb \*brīdan-? Cf. OHG _breta_ [f.] "palm of the hand" < \*bridō-. \
+REF: [EDPG]\: 73
+
+### <a id="brakka">\*brakka- "briny, brackish" (adj)</a>
+W: \
+-- MLG _brack_ \
+-- Du. _brak_ (whence E _brack_, _brackish_) \
+An adjective related to [\*brōka- "swamp"](#broka-2). No further cognates. OIr. _brén_, MW _braen_ "putrid, foul" < PCelt. \*bragno- does not belong here, but to the PIE root \*bʰrh₁g- "to smell" (see under [\*brakkan-](#brakkan)). The often compared Gr. _βραγός_ "swamp" is a Hesychian gloss that in combination with the irregular variant _βράχος_ [m.] "shallow water" cannot possibly be derived from a PIE proto-form \*mrg-o-. This leaves us with an exclusively Germanic word. \
+REF: [EDPG]\: 73
+
+### <a id="brakkan">\*brakka(n)- [m.] "sleuth dog" (n)</a>
+W: \
+-- MDu. _bracke_, Du. _brak_ [c.] \
+-- OHG _bracko_, G _Bracke_ \
+COGN: Lat. _fragrō_, -_āre_ "to smell strongly" (derived from an adj. \*bʰrh₁g-ro-?), MIr. _brén_ "putrid, foul", MW _braen_, MoB _brein_ "putrid, corrupt" < \*bʰrh₁g-no- \
+No existing etymology: the word may be connected with PCelt. \*brokko-, cf. OIr. _brocc_ "badger", an animal with a strong sense of smell. In view of the animal's strong odor, the word has been linked to MHG _bræhen_ [wk.] "to smell", which when reconstructed as PGmc. \*brēkjan-, can be compared to Lat. _fragrō_, -_āre_ "to smell strongly" (derived from an adj. \*bʰrh₁g-ro-?) and MIr. _brén_ "putrid, foul", MW _braen_, Bret _brein_ "putrid, corrupt" < \*bʰrhl{J-no- (De Vaan 2008: 238-9). MHG _bræhen_, however, may also continue \*brējan- (with unetymological _h_ in hiatus position) from older [\*brēan-](#brean) (q.v.). Finally, there is the formal similarity with [\*rak(k)an- "dog"](#rakkan), which has not yet been satisfactorily accounted for. \
+REF: [EDPG]\: 73
+
+### <a id="brakkon">\*brakkōn-(?) [f.] "pants" (n)</a>
+N: \
+-- Elfd. _brakka_ \
+-- EDa. _brakker_ pl. "lower leg covers" \
+W: \
+-- OE _braccas_ [m.pl.] "breeches" (< \*brakka-(?)) \
+Usually assumed to be a loanword from Lat. _bracca_, which developed from Lat. _brāca_ "breeches", an originally Gaulish word connected with PGmc. \*brōk-. The attestation in (East) Nordic is peculiar, however, and seems to imply a Germanic origin. \
+REF: [EDPG]\: 74
+
+### <a id="brannjan">\*brannjan- [wk.] "to make burn" (v)</a>
+E: Go. _brannjan_ \
+N: \
+-- ON _brenna_ \
+W: \
+-- OE _bærnan_ \
+-- OHG _brennen_, G _brennen_ \
+The causative to [\*brinnan-](#brinnan) (q.v.). \
+REF: [EDPG]\: 74
+
+### <a id="branta">\*branta- "steep" (adj)</a>
+N: \
+-- ON _brattr_ "steep; sudden" \
+W: \
+-- OE _brant_, _bront_ "high, deep, steep, difficult" \
+PIE: \*bʰrond-o-\
+No certain etymology: perhaps to W _brynn_ [m.] "heap, mound" if from \*bʰrendo-. The alternative is to link the cluster to OIr. _do-eprinn_ "to gush, pour out" < \*bʰre-n-d- and MIr. _bruinnid_ "to spring, flow, rush" < \*bʰrond-éie-, which would require a semantic shift from "skewed, slanting" to "pour" in Celtic. Also cf. ON _bretta_ [wk.] "to turn upwards", OSw. _brænta_ [wk.] "to bend back, bend upwards" < \*brantjan-. \
+REF: [EDPG]\: 74
+
+### <a id="brauda">\*brauda- [n.] "bread" (n)</a>
+N: \
+-- ON _brauð_ \
+W: \
+-- OE _brēad_, E _bread_ \
+-- OFri. _brād_ \
+-- OS _brōd_ \
+-- Du. _brood_ \
+-- OHG _brōt_, G _Brot_ \
+PIE: \*bʰrouh₁-tó- \
+A to-stem derived from [\*brewwan- "to brew"](#brewwan) (q.v.). \
+REF: [EDPG]\: 74
+
+### <a id="brazda">\*brazda- [n.] "edge, brim" (n)</a>
+N: \
+-- Icel. _bradd_ "edge" \
+-- Nw. _bradd_ [m.] "shore, side" \
+-- Elfd. _bradd_ [m.] "edge" \
+W: \
+-- OE _breard_ [m.] "brim, margin" \
+-- OHG _brart_ "edge", MHG _brart_ [m.] "edge, board" \
+PIE: \*bʰrozdʰ-o- \
+An o-grade formation related to [\*brezda-](#brezda) and [\*burzda-](#burzda) (q.v.). It is cognate with OIr. _brot_ [m.] "goad, spike" < \*bʰrozdʰ-o-, which was probably not borrowed from ON _broddr_ < \*bruzda- (Greene 1972: 70). A secondary formation is represented by [\*barzda- "edge; beard"](#barzda) which in view of the position of the ablaut slot must have been created on the basis of the zero grade [\*burzda-](#burzda) (q.v.). \
+REF: [EDPG]\: 74
+
+### <a id="brean">\*brēan- [st.] "to fume, smell" (v)</a>
+W: \
+-- MHG _bræhen_ [wk.] "to smell" \
+PIE: \*bʰreh₁-e-. \
+A marginally attested verb. It has a weak conjugation in MHG, but was probably originally strong in view of the broader tendency of strong "hiatus verbs" to move to the weak jan-class. A strong conjugation is also supported by the derivatives OE _brǣþ_ [m.] "breath" < \*brēþi- and OHG _brādam_, G _Brodem_ [m.] "haze, vapor, breath" < \*brēþma-. See further [\*brōan-](#broan). \
+REF: [EDPG]\: 74
+
+### <a id="brekan">\*brekan- [st.] "to break" (v)</a>
+E: Go. _brikan_ \
+W: \
+-- OE _brecan_, E _to break_ \
+-- OFri. _breka_ \
+-- OS _brekan_ \
+-- Du. _breken_ \
+-- OHG _brehhan_, G _brechen_ \
+PIE: \*bʰrég-e- \
+A strong verb closely related to the iterative \*bruk(k)ōn-, which may be etymologically identical to Lat. _frangō_ "to break" < \*bʰrg-néh₂-. There must also have been an a-grade intensive verb \*brakan- in view of OE _bracan_, pret. _brōc_. It probably served as the basis for [\*brōk- "breeches"](#brok) (q.v.). \
+REF: [EDPG]\: 75
+
+### <a id="breman">\*breman- ~ \*brimman- [st.] "to drone, hum" (v)</a>
+W: \
+-- OHG _breman_, MHG _bremen_, _brimmen_ \
+PIE: \*bʰrém-e- \
+COGN: MP _bl'm_- "to cry, weep", Lat. _fremō_, -_ere_ "to drone, roar", W _brefu_ "to roar" < \*bʰrém-e- \
+A strong verb derived from a Proto-Indo-European onomatopoetic root \*bʰrem-. MHG _bremen_ preserves the original form of the verb, while _brimman_ appears to have been influenced by the iterative [\*brummon-](#brummon) (q.v.). See further [\*bremisa/ōn-](#bremisan). \
+REF: [EDPG]\: 75
+
+### <a id="bremisan">\*bremisa/ōn- [m./f.] "gadfly" (n)</a>
+W: \
+-- OE _brēosa_, _brīosa_ [m.], _brimse_ [f.], ME _brēse_, _brimse_ "gadfly; locust" \
+-- OS _brimissa_ [f.], MLG _bromese_ [f.] \
+-- MDu. _breemse_, _bremse_ [f.] "gadfly; locust; beetle", Du. _brems_ [c.] \
+Derived from the more primary \*breman-, cf. OS, OHG _bremo_ [m.] "id.", an n-stem created to the strong verb [\*breman- ~ \*brimman-](#breman) (q.v.). OE _brēosa_ / _brīosa_, which previously has been derived from \*breusan-, probably developed from \*bremisan-, just as OE _þīestre_ "darkness" developed from \*þemestrja- (see under [\*þemestra-](#themestra)). This development (see Gqsiorowski 2012) implies a form \*briũs- with loss of the \*m before \*s after the syncope of the medial vowel. Also cf. ODu. _bremmia_, MDu. _brem_ [f.] "gadfly" and MLG _bromete_ [f.] "id." < \*bremutō(n)- (with the same suffixation as e.g. [\*hurnuta/ō- "hornet"](#hurnuta)). \
+REF: [EDPG]\: 75
+
+### <a id="brestan">\*brestan- [st.] "to break, burst" (v)</a>
+N: \
+-- ON _bresta_ \
+-- Far. _bresta_ "to break, collapse, strike" \
+W: \
+-- OE _berstan_ "to burst", E _to burst_ \
+-- OFri. _bersta_ "to break; to disappear" \
+-- OS _brestan_ \
+-- Du. _barsten_ [wk.] \
+-- OHG _brestan_ "to burst, tear; to lack", G _bersten_ "to crack" \
+PIE: \*bʰrést-e\
+COGN: To OIr. _brissid_ "to break; to defeat"?
+A strong verb to an obscure Pre-Gm. root \*bʰrest-. Also cf. the inchoative Elfd. _brussn_ [wk.] "to break" < \*brustnan- and the derived u-stem \*brustu- \
+REF: [EDPG]\: 75
+
+### <a id="breusta">\*breusta- [n.] "breast, chest" (n)</a>
+N: \
+-- ON _brjóst_ \
+W: \
+-- OE _brēost_, E _breast_ \
+-- OFri. _briast_ \
+-- OS _briost_ \
+PIE: \*bʰreus-sth₂-o- \
+COGN: OIr. _brúasach_ "big-bellied" < PCelt \*brous-t-āko- < \*bʰreus-t-, Ru. _brjúxo_ [n.] "belly, paunch" < \*bʰreus-o-, OIr. _brú_, gen. _bronn_ [f.], MW _bru_ [m.] "womb, belly", MW _bron_ [f.] < \*bʰrus-on-, OIr. _bruinne_ [m.] "breast, bosom, chest" < \*bʰrus-n-io- \
+In (unclear) ablaut relation with the root noun [\*brust-](#brust) (q.v.). Given the largely complementary dialectal distribution with the latter word, it is likely that both formations split off from a single PGmc. paradigm. It is unclear, however, how this paradigm should be reconstructed. \
+REF: [EDPG]\: 76
+
+### <a id="breutan">\*breutan- [st.] "to break (open), bud" (v)</a>
+N: \
+-- ON _brjóta_ "to break, break open; to destroy" \
+-- Far. _bróta_ "to break; to infringe; to offend" \
+-- Elfd. _briuota_ "to break" \
+W: \
+-- OE _brēotan_ "id." \
+-- MHG _briezen_ "to break open, to bud, swell up" \
+A strong verb possibly back-formed to the iterative [\*brut(t)on-](#brutton) (q.v.). Closely related to OE _brēatan_ [st.] "to break, kill", continuing an o-grade iterative-intensive verb \*brautan-. For a similar parallelism of a class 2 with a class 7 strong verb, cf. [\*beutan- ~ \*būtan-](#beutan) vs. [\*bautan-](#bautan) and [\*brekan-](#brekan) vs. [\*brakan-](#brakan). \
+REF: [EDPG]\: 76
+
+### <a id="brewo">\*brēwō- [f.] "eyebrow" (n)</a>
+N: \
+-- ON _brǫ́_, _brá_ "eyelid" \
+-- Icel. _brá_ "eyelid; eyelash" \
+-- Far. _brá_ "eyelash" \
+W: \
+-- OS _brāwa_ "eyelid" \
+-- MDu. _brauwe_ "eyebrow; edge", Du. _wenk-brauw_ [c.] \
+-- OHG _brāwa_, G _Augen-braue_ \
+PIE: \*h₃bʰrēuH-o/eh₂- \
+Also cf. OHG _wint-brāwa_, OS _wint-brāwa_, MDu. _wint-brauwe_ "eyebrow; eyelid", Du. _wimper_ "eyelash" < \*winda-brēwō- (for the first element, cf. Gr. _ἴονθος_ [m.] "young, downy hair" < \*ui-uondʰ-o-) and the closely related OE _brǣw_, _brēaw_ [m.] "eyelid", OFri. _āch-brē_ [n.] "eyebrow; eyelid" < \*brēwa-. In PIE, the word may have been in paradigmatic relation with the zero-grade formation [\*brū- "bridge; eyebrow"](#bru) (q.v.), e.g. nom. \*h₃bʰrḗuH-s, gen. \*h₃bʰruH-ós (Beekes 1995: 190). \
+REF: [EDPG]\: 76
+
+### <a id="brewwan">\*brewwan- [st.] "to brew" (v)</a>
+N: \
+-- ON _brugginn_ ptc. \
+-- Far. _bryggja_ [wk.] \
+-- OSw. _bryggia_ \
+-- Elfd. _bryddja_ [wk.] \
+W: \
+-- OE _brēowan_, E _to brew_ \
+-- OFri. _briouwa_, _brouwa_ \
+-- OS _gi-breuwan_ \
+-- Du. _brouwen_ [st./wk.] \
+-- MHG _briuwen_, _brūwen_, G _brauen_ [wk.] \
+PIE: \*bʰréuh₁-e- \
+COGN: Gr. Hsch. _ἀπ-έφρυσεν_ aor. "brewed" < \*bʰruh₁-s-, Lat. _de-frū̆tum_ [n.] "must" < \*-bʰruh₁-to- \
+A strong verb to the PIE root \*bʰreuh₁- "to boil, brew" (cf. LIV2: 96). The weak verb ON, Icel., Elfd. _brugga_ appears to continue a secondary iterative \*bruwwōn-. See also [\*brauda-](#brauda), [\*brunnan-](#brunnan) and [\*beura-](#beura). \
+REF: [EDPG]\: 76
+
+### <a id="brezda">\*brezda- [n.] "side, edge; board" (n)</a>
+N: \
+-- Far. _breddi_ [m.] "edge, side" \
+-- Nw. _bredd_ [m.] "id." \
+-- OSw. _brædder_ [m.] "id." \
+W: \
+-- OHG _bret_ "board", G _Brett_ "id." \
+PIE: \*bʰrezdʰ-o- \
+A full-grade formation to [\*burzda-](#burzda) (q.v.). The loss of the \*z in OHG _bret_ is irregular, but may be due to dissimilation in the plural OHG \*brertira < \*brezd-izō. ME _bred_ "board, tablet" can be a loanword from Old Norse \*breddr as presupposed by the OSw. and Far. forms. Du. _berd_ "board" does not belong here, but represents a dialectal form of _bord_ < \*burzda-. \
+REF: [EDPG]\: 77
+
+### <a id="brindan">\*brinda(n)- [m.] "elk" (n)</a>
+N: \
+-- Elfd. _brinde_ \
+-- Nw. _bringe_ "male elk" \
+Unrelated to Messap. _βρένδον_ "deer" < \*bʰrendʰ-(?) as given by Hesychius or to OPru. _braydis_, Latv. _briêdis_ "elk" < \*braidi- (pace Pokorny IEW: 168-9). In view of Elfd. _brunda_ [wk.] "to rut" and the Nw. Sunnmøre context _elgen hev alt teke til å brunda_ "the elk has started rutting" < \*brundōjan-, it is evident that the word started out as a late North Germanic deverbal formation that has nothing to do with the extra-Germanic look-alikes mentioned above. It is rather cognate with Nw. _brund_ [m.] "rut; male elk" < \*brunda-, which was derived from [\*breman- ~ \*brimman "to drone, roar"](#breman) (q.v.), cf. MHG _brunft_, G _Brunst_ [f.] "rut" < \*brumþi- \
+REF: [EDPG]\: 77
+
+### <a id="bringan">\*bringan- [st.] "to bring" (v)</a>
+E: Go. _briggan_ [wk.] \
+W: \
+-- OE _bringan_ [wk.], E _to bring_ \
+-- OFri. _bringa_ [wk.] \
+-- OS _bringan_ [wk.] \
+-- Du. _brengen_ [wk.] \
+-- OHG _bringan_ [wk.], G _bringen_ [wk.] \
+A verb of obscure origin. Perhaps it can be analyzed as a conflation of the PIE roots \*bʰer- "to carry" and \*h₁enḱ- "to arrive", arisen from a suppletive paradigm, cf. Gr. _φέρω_, aor. _ἤνεγκα_ < \*h₁ne-h₁nḱ-, cf. OCS _nesti_, Ru. _nestí_ (_nesù_), SCr. _nèsti_ "to carry" < \*h₁neḱ-, cf. MW _he-bryngaf_ "to bring" < \*-bʰrenk- < \*bʰr- + \*h₁/₂nḱ- (Matasovic 2009: 7 6). Alternatively, it is possible to analyze the perfective \*ga-bringan (cf. OE _ge-bringan_, OS _gi-bringan_) as a re-modeling of \*kom-pro-h₁enḱ-, cf. OIr. _ro-ic_, W _rynghu_ "to meet" < \*pro-h₁(e)nḱ-. The initial \*b < PIE \*p would then have to be explained by Verner's law. \
+REF: [EDPG]\: 77
+
+### <a id="brinka">\*brinka- [m.] "edge" (n)</a>
+N: \
+-- ON _brekka_ [f.] "slope" (< \*brinkōn-) \
+W: \
+-- ME _brinke_, _brenke_ "seashore; rim, edge; margin, end, boundary", E _brink_ \
+-- MLG _brink_ "hill, edge, shore" \
+-- MDu. _brinc_ "edge, grass verge; stretch of grass; market", Du. _brink_ [c.] "village square, green" \
+PIE: \*bʰrong-o- \
+COGN: ToA _praṅk_, ToB _preṅke_ "island" < \*bʰrong-o- \
+A Germanic-Tocharian isogloss. \
+REF: [EDPG]\: 77
+
+### <a id="brinnan">\*brinnan- [st.] "to burn" (v)</a>
+E: Go. _brinnan_ \
+N: \
+-- ON _brinna_, _brenna_ \
+-- Far. _brenna_ \
+-- Elfd. _brinna_, pres. _brið_ \
+W: \
+-- OE _beornan_, E _to burn_ \
+-- OFri. _berna_ [wk.] \
+-- OS _brinnan_ \
+-- OHG _brinnan_ \
+PIE: \*bʰré-n-wh₁-e- \
+COGN: OIr. _do-bruinn_ "to flow, trickle" < \*bʰru-n-h₁-ie-, Lat. _ferveo_, -_ere_ "to be hot; to boil" < \*bʰerwh₁-e- \
+An n-present to the root \*bʰreuh₁- "to boil, brew". See also [\*brewwan-](#brewwan), [\*brunnan-](#brunnan) and [\*beura-](#beura). \
+REF: [EDPG]\: 77
+
+### <a id="broan">\*brōan- [st.] "to singe" (v)</a>
+W: \
+-- MDu. _broeyen_ [wk.], Du. _broeien_ [wk.] "to be brewing" \
+-- MHG _brüejen_ [wk.] "to singe", G _brühen_ [wk.] "to boil, brew" \
+PIE: \*bʰróh₁-e- \
+An a-grade intensive verb related to [\*brēan-](#brean) (q.v.). Also cf. OE _brōd_ [f.] "brood", MHG _bruot_ [f.] "heat; incubation" < \*brōdi-. \
+REF: [EDPG]\: 78
+
+### <a id="brok">\*brōk- [f.] "loin-cloth, breeches; rump(?)" (n)</a>
+N: \
+-- ON _brōk_ "leg of a pair of breeches", pl. _brœkr_ "breeches" \
+-- Far. _brók_ "id.", pl. _brøkur_ "pants" \
+-- Elfd. _bruok_, pl. _bryōker_ "shorts; diapers" \
+W: \
+-- OE _brōc_ "behind, breech", pl. "breeches", E _breech(es)_ \
+-- OFri. _brēk_ "pants" \
+-- Du. _broek_ [c.] "id." \
+-- OHG _bruoh_ "id." \
+COGN: To Lat. _suffrāgō_, -_inis_ [n.] "joint in the hind leg of a quadruped; sucker shoot" < \*-bʰrg-en-?
+Etymology disputed. Within Germanic, the word can have been derived from an a-grade intensive to [\*brekan-](#brekan), viz. OE _bracan_ [st.] "to break, bruise" < \*brakan-, but only if the original meaning was "behind" (i.e. "area where the legs split"). This meaning does allow for the well-known etymological connection with Lat. _suffrāgō_, but the exact derivation of this (late) Latin word is problematic (cf. De Vaan 2008: 597-8). The position of Gaul. \*brāca, implied by Latin _brācae_, _braccae_ (for which see [\*brakkōn-](#brakkon)) is unclear: it may have been borrowed from Germanic in view of the root-final \*k, but borrowing in the opposite direction has, too, been suggested (Griepentrog 1995: 89). The inflection of the Germanic word as a root noun could be a confirmation of that, as old loanwords were absorbed by this category more frequently (cf. [\*arwīt- "pea"](#arwit)) \
+REF: [EDPG]\: 78
+
+### <a id="broka-1">\*brōka- [n.] "spot, speckle(?)" (n)</a>
+N: \
+-- Nw. _brok_ [m.] "young (speckled) salmon" \
+-- Sw. dial. _brok_ "spot; spotted animal" \
+PIE: \*bʰroh₁ǵ-o- \
+COGN: Skt. _bhrā́jati_ "to shine, to beam, to sparkle", YAv. _brāzaiti_ "to shine" < \*bʰréh₁ǵ-e-, Lith. _brė́kšti_ (_brė́kšta_) "to dawn" < \*bʰreh₁ǵ-ske-, OCS _pro-brězgъ_, Ru. dial. _brezg_, Sin. _brẹ̑sk_ [m.] "dawn" < \*bʰreh₁ǵ-sk-o- \
+A Nordic word related to [\*berhta-](#berhta). Also cf. OSw. _brōkōter_ (Sw. _brokig_), Da. _broget_ "variegated" < \*brōk-uhta-. \
+REF: [EDPG]\: 78
+
+### <a id="broka-2">\*broka- [m.] "swamp" (n)</a>
+W: \
+-- OE _brōc_, E _brook_ \
+-- MLG _brōk_ [n.] "wet pasture" \
+-- MDu. _broec_ "marsh", Du. _broek_ [n.] \
+-- OHG _bruoh_ [n.], MHG _bruoch_ [n.] \
+Probably a _vr̥ddhi_-derivation to the adjective [\*brakka- "brackish"](#brakka) (q.v.); the geminate of this adjective was regularly shortened in the overlong syllable \*brōkk-. \
+REF: [EDPG]\: 78
+
+### <a id="brother">\*brōþer- [m.] "brother" (n)</a>
+E: Go. _broþar_ \
+N: \
+-- ON _bróðir_, pl. _brœðr_ \
+-- Far. _bróðir_, pl. _brøður_ \
+-- Elfd. _bruoðer_, pl. _bryōðrer_ \
+W: \
+-- OE _brōðor_, E _brother_ \
+-- OFri. _brōther_ \
+-- OS _brōthar_ \
+-- Du. _broer_ [c.] \
+-- OHG _bruodar_, G _Bruder_ \
+PIE: \*bʰreh₂-ter- \
+COGN: ToA _pracar_, ToB _procer_ "brother", Skt _bhrā́tar_-, Av. _brātar_- [m.] "id.", Arm. _eɫbayr_ "id.", Gr. Att. _φρᾱ́τηρ_, Dor. _φρᾱτήρ_ [m.] "member of a brotherhood", Phryg _βρατερε_ dat.sg. "brother", Lat. _frāter_ [m.] "id.", OIr. _bráthair_, W _brawd_ [m.] "id.", OPru. _brāti_, _brote_, Lith. _brólis_, Latv. _brãlis_ "id.", OCS _bratrъ_, _bratъ_ [m.] "id." \
+The Indo-European word for "brother". \
+REF: [EDPG]\: 79
+
+### <a id="bru">\*brū- [f.] "bridge" (n)</a>
+N: \
+-- ON _brú_ \
+-- Far. _brúgv_ "bridge; quay; heap, pile; eyebrow" \
+-- Nw. _bru_ "bridge", dial. "edge; eyebrow" \
+W: \
+-- OE _brū_ "eyebrow", E _brow_ \
+PIE: \*h₃bʰruH- \
+COGN: ToB _pärwā-ne_ du. "eyebrow", Skt _bhrū́_- [f.] "(eye)brow", YAv. _bruuat̰.biiąm_ dat.du. "id.", MP _brūg_ "id.", Oss. _ærfyg_ / _ærfug_ "id.", Gr. _ὀφρῦς_ [f.] "id.", Lith. _bruvìs_ [f.] "id.", OCS _brъvь_ [f.] "id." \
+A zero-grade root noun, perhaps originally the same word as [\*brēwō-](#brewo) (q.v.). See also [\*bru(w)ī- ~ \*brujjō-](#bruwi). \
+REF: [EDPG]\: 79
+
+### <a id="brudi">\*brūdi- [f.] "bride" (n)</a>
+E: Go. _bruþs_ \
+N: \
+-- ON _brúðr_ \
+-- Far. _brúður_ \
+-- Elfd. _brauðe_ \
+W: \
+-- OE _brȳd_, E _bride_ \
+-- OFri. _breid_ \
+-- OS _brūd_ \
+-- Du. _bruid_ [c.] \
+-- OHG _brūt_, G _Braut_ \
+No certain etymology. The reconstruction as \*mruH-tí- "who is spoken for" (Hirt 1897: 234) is based on the erroneous derivation of Skt _brávīti_, _bruvánti_ "to say" from PIE \*mr(e)uH- rather than \*ml(e)uH-, cf. Ru. _mólvit'_. Cz. _mluviti_ "to say". I am tempted to assume a correlation with ON _brúða_ "bundle of flax", Icel. _brúða_ [f.] "doll, puppet" < \*brūdōn- and Nw. _brugde_ [f.] "bundle, tuft" < \*bruwwVþōn-, both from a Pre-Gm. root \*bʰruH-. The ti-suffix can then be compared to the one of [\*magaþi- "girl"](#magathi) (q.v.). \
+REF: [EDPG]\: 79
+
+### <a id="bruki">\*bruki- [m./f.] "breach" (n)</a>
+W: \
+-- OE _bryce_ [f.], E _breach_ \
+-- OFri. _breke_ [m./f.] \
+-- MDu. _broke_ [f.], Du. _breuk_ [c.] \
+-- OHG _bruh_ [m.], G _Bruch_ [m.] \
+An i-stem derived from [\*brekan-](#brekan) (q.v.). \
+REF: [EDPG]\: 79
+
+### <a id="brukkon">\*bruk(k)on- [wk.] "to break, crumble" (v)</a>
+N: \
+-- Nw. _broka_ "to break, bite, tear" \
+W: \
+-- MDu. _brocken_, _broken_ "to bend, break" \
+-- MHG _er-brochen_ "to crush, squash" \
+COGN: Lat. _frangō_, -_ere_ "to break" < \*bʰrg-neh₂- (< \*frag-n- with Thurneysen's law) \
+The iterative to \*brekan- (q.v.), probably to be equated with Lat. _frangō_ (if from \*bʰrg-neh₂-). Also cf. OHG _brocko_, G _Brocken_ [m.] "chunk, crumb" < \*brukkan-. \
+REF: [EDPG]\: 79
+
+### <a id="brummon">\*brummōn- [wk.] "to drone, hum" (v)</a>
+W: \
+-- Du. _brommen_ \
+-- MHG _brummen_, G _brummen_ \
+PIE: \*bʰrm-néh₂- \
+The iterative to [\*breman- ~ \*brimman-](#breman) (q.v.) \
+REF: [EDPG]\: 80
+
+### <a id="brunjon">\*brunjōn- [f.] "breastplate" (n)</a>
+E: Go. _brunjo_ \
+N: \
+-- ON _brynja_ "coat of mail" \
+W: \
+-- OE _byrne_ "id." \
+-- OS _brunnia_ "id." \
+-- OHG _brunja_, _brunna_ "id.", G _Brünne_ "id." \
+Suspected to be a loanword from Celtic, perhaps from a pre-form of OIr. _bruinne_ [m.] "breast" < \*bʰrus-n-io-, for which see [\*breusta-](#breusta). \
+REF: [EDPG]\: 80
+
+### <a id="brunnan">\*brunna(n)- [m.] "well, spring" (n)</a>
+E: Go. _brunna_ \
+N: \
+-- ON _brunnr_ \
+W: \
+-- OE _brunna_, _burna_ \
+-- OS _brunno_ \
+-- Du. _bron_ [c.] \
+-- OHG _brunno_, G _Brunnen_ \
+PIE: \*bʰreh₁u-r/n- \
+COGN: Gr. _φρέαρ_, -_ατος_ [n.] "well", Arm. _aɫbewr_, _aɫbiwr_, gen. _aɫber_ "fountain, spring" < \*bʰréh₁u-r, \*bʰrh₁u-n(t)-ós \
+An n-stem continuing a PIE heteroclitic nom. \*bʰréh₁u-r-, gen. \*bʰrh₁u-én-s / \*bʰrh₁u-n-ós. The second genitive is postulated on the basis of the PGmc. root \*brun-, which developed from \*bʰruh₁-n-ós by Dybo's law of pretonic shortening. The geminated root \*brunn- may have arisen by the generalization of the obi. stem \*brun- and the subsequent addition of a secondary n-suffix. See also [\*brewwan-](#brewwan). \
+REF: [EDPG]\: 80
+
+### <a id="bruska">\*bruska- [m.] "shrub" (n)</a>
+N: \
+-- Nw. _brusk_ "shrub, undergrowth" \
+E _brush_ < ME _brusche_ was adopted from OFr. _brosse_, _broce_, _broche_, which in turn must be a loanword from WGm. \*bruska-. Thus, the PGmc. origin of the word seems firmly established. Outside Germanic, the only known potential cognate is Lith. _brū̃zgai_ [m.pl.] "underbrush" (Torp 1909: 282), but the exact derivation of this word is uncertain: from \*bʰrusgo-? \
+REF: [EDPG]\: 80
+
+### <a id="brust">\*brust- [f.] "breast, chest" (n)</a>
+E: Go. _brusts_ \
+W: \
+-- OFri. _brust_, _burst_ [n.] \
+-- OS _brust_, MLG _borst_ \
+-- Du. _borst_ [c.] \
+-- OHG _brust_, G _Brust_ \
+PIE: \*bʰrus-sth₂-o- \
+A root noun closely related to [\*breusta-](#breusta) (q.v.) with the same meaning. In the older literature, a link with MHG _briustern_ "to swell up" is usually assumed, but this is probably a frequentative to a strong verb \*breusan- (cf. OE _brīesan_ [wk.] "to break" < \*brausjan-) through a meaning "to break open, to bud". \
+REF: [EDPG]\: 80
+
+### <a id="brustu">\*brustu- [m.] "fissure" (n)</a>
+W: \
+-- OHG _brust_ "burst, rip", MHG _brust_ "id." \
+A u-stem derived from the strong verb [\*brestan- "to break, burst"](#brestan) (q.v.). Also cf. OS _brustian_ [wk.] "to bud" < \*brustjan- \
+REF: [EDPG]\: 80
+
+### <a id="brutton">\*brut(t)ōn- [wk.] "to bud" (v)</a>
+W: \
+-- MHG _brozzen_, G Als. _brossen_ \
+PIE: \*bʰrd-neh₂- \
+COGN: To Lat. _frōns_, -_ondis_ [f.] "foliage, leaves" < \*bʰrod-ni- (with Thurneysen's law) \
+The iterative to [\*breutan- "to break, bud"](#breutan) (q.v.), originally conjugated as 3sg. \*bruttōþi, 3pl. \*brutunanþi. The Pre-Gm. root seems to have been \*bʰrud-, but in view of the potential Latin cognate, the u is likely to have arisen secondarily in an iterative derived from a strong verb \*bretan- (< \*bʰred-e-). The resulting \*brut(t)on- may in turn have given rise to \*breutan- by back-formation. \
+REF: [EDPG]\: 81
+
+### <a id="bruwi">\*bru(w)ī- ~ \*brujjō- [f.] "bridge" (n)</a>
+N: \
+-- ON _bryggja_ "pier, quay; bridge" \
+-- Far. _bryggja_ "wharf, quay; bridge of a ship" \
+-- Elfd. _bryddja_ "dock" \
+W: \
+-- OE _brycg_, _bricg_, E _bridge_ \
+-- OFri. _bregge_ "bridge; arch" \
+-- OS _bruggia_ \
+-- Du. _brug_ [c.] \
+-- OHG _brucka_, G _Brücke_ \
+PIE: \*h₃bʰruH-ih₁- \
+An old ih₂-stem related to the root noun [\*brū-](#bru) (q.v.). The original paradigm \*h₃bʰruH-íh₂, gen. \*h₃bʰruH-iéh₂-s regularly developed into PGmc. \*bru(w)ī, gen. \*brujjōz under the influence of Dybo's law (pretonic shortening) and Holtzmann's law (pretonic gemination of \*-j- and \*-w-). The genitive root was generalized in the NGm. paradigm, thus giving rise to ON _bryggja_ < \*brujjōn-. In WGm., the \*w that arose in the hiatus of the nom. \*bruī became velarized (cf. OHG _jugund_ "youth" < \*juwunþi-). The resulting root \*brug- then spread to the genitive, thus giving rise to the required stem \*brugjō- (Kroonen 2011b: 158-159). \
+REF: [EDPG]\: 81
+
+### <a id="bruzda">\*bruzda- [m.] "spike" (n)</a>
+N: \
+-- ON _broddr_ \
+-- Far. _broddur_ "thorn, prickle; spike" \
+-- Elfd. _brudd_ "shoot, sprout" \
+W: \
+-- OE _brord_ "point; grass shoot" \
+-- OHG _brort_ "spear; edge" \
+A zero-grade variant of [\*brazda-](#brazda) (q.v.). \
+REF: [EDPG]\: 81
+
+### <a id="buda">\*buda- [n.] "offer" (n)</a>
+N: \
+-- ON _boð_ \
+W: \
+-- OE _bod_ "command; message" \
+-- OFri. _bod_ "command; announcement" \
+-- Du. _bod_ "bid" \
+-- OHG _bot_ "authoritative pronouncement" \
+Derived from the strong verb [\*beudan-](#beudan) (q.v.). Also cf. OE _ge-bod_, OS _gi-bod_, Du. _ge-bod_, G _Ge-bot_ [n.] "command, commandment" from the perfective \*ga-beudan-. \
+REF: [EDPG]\: 81
+
+### <a id="budan">\*budan- [m.] "messenger" (n)</a>
+N: \
+-- ON _boði_ \
+W: \
+-- OE _boda_ \
+-- OFri. _boda_ \
+-- OS _bodo_ \
+-- Du. _bode_ [c.] \
+-- OHG _boto_, G _Bote_ \
+Derived from the strong verb [\*beudan-](#beudan) (q.v.). \
+REF: [EDPG]\: 81
+
+### <a id="budman">\*budman- ~ \*buttman- [m.] "bottom" (n)</a>
+N: \
+-- ON _botn_ \
+-- Far. _botnur_ \
+-- Elfd. _buottn_ \
+W: \
+-- OE _botm_, E _bottom_ \
+-- OS _bodom_ \
+-- Du. _bodem_ [c.] \
+-- OHG _bodam_, G _Boden_ \
+PIE: \*bʰudʰ-men- \
+COGN: Gr. _πυθμήν_ [m.] "bottom, depth, root" < \*bʰudʰ-mén-, Skt. _budhná_- [m.] "bottom", Lat. _fundus_ [m.] "id.", MIr. _bond_ "foot sole" < \*bʰudʰ-nó- \
+An old hysterokinetic mn-stem nom. \*bʰudʰ-men, gen. \*bʰudʰ-mn-ós. In the genitive, the m was dissimilated at the Proto-Indo-European stage, which resulted in Skt. _budhná_-, Lat. _fundus_ (with Thurneysen's law), and PGmc. \*buttaz (Kluge 1884; Kroonen 2006). The resulting paradigm \*budmē, \*buttaz gave rise to multiple stem variants, i.e. OS _bodom_ < \*budma-, OE _botm_ < \*buttma- and ON _botn_ < \*buttna-. The PIE root \*bʰudʰ- itself seems to have been metathesized from \*dʰubʰ-, for which cf. [\*deupa- "deep"](#deupa). \
+REF: [EDPG]\: 82
+
+### <a id="bugan">\*bugan- [m.] "bow" (n)</a>
+E: Go. Crim. _boga_ \
+N: \
+-- ON _bogi_ \
+-- Elfd. _bugi_ \
+W: \
+-- OE _boga_, E _bow_ \
+-- OFri. _boga_ \
+-- OS _bogo_ \
+-- Du. _boog_ [c.] \
+-- OHG _bogo_, G _Bogen_ \
+An n-stem derived from [\*beugan- ~ \*būgan-](#beugan) (q.v.). \
+REF: [EDPG]\: 82
+
+### <a id="bugjan">\*bugjan- [wk.] "to buy" (v)</a>
+E: Go. _bugjan_ \
+N: \
+-- ON _byggja_ "to get married; to lend out, let out" \
+W: \
+-- OE _bycgan_, E _to buy_ \
+-- OS _buggian_ "to buy, pay" \
+PIE: \*bʰugʰ-ie- \
+No clear etymology (cf. Lehmann 1986: 84). In spite of the formal similarities, probably unrelated to [\*beugan- "to bend"](#beugan). \
+REF: [EDPG]\: 82
+
+### <a id="bugon">\*bugōn- [wk.] "to brag(?)" (v)</a>
+W: \
+-- OE _bogian_, _boian_ "to boast" \
+-- OFri. _bāgia_ "id." \
+-- MDu. _bogen_ "id.", Du. _bogen op_ "id." \
+No etymology: perhaps related to Nw. _bauka_ [wk.] "to plow through, rush forth, roar", Da. _bøge_ [wk.] "to roar" < \*baukōn- (< Pre-Gm. \*baukk-?). The connection with OIr. _bocaid_ "to move, shake, brandish", refl. "to boast" < \*bukkā- is uncertain, the origin of this verb being obscure as well. \
+REF: [EDPG]\: 82
+
+### <a id="bukkan">\*bukka(n)- [m.] "billy-goat" (n)</a>
+N: \
+-- ON _bokkr_, _bukkr_, _bokki_ "fellow" \
+-- Far. _bukkur_ \
+-- Elfd. _bukk_ \
+W: \
+-- OE _bucc_ "roebuck", _bucca_, E _buck_ \
+-- MDu. _boc_, Du. _bok_ [c.] \
+-- OHG _bock_, G _Bock_ \
+PIE: \*bʰuǵ-on- \
+COGN: Av. _buza_- "goat, buck", P _buz_ "id." < \*bʰuǵ-o- \
+Most of the evidence points to a thematic form \*bukka-, but in view of the gemination of the final consonant it seems likely that the word was originally inflected as an n-stem, viz. \*buko, gen. \*bukkaz < \*bʰug-ōn, \*bʰug-n-ós. OIr. _boc_, W _bwch_ [m.] "billy-goat" must in view of the geminate have been borrowed from Germanic. \
+REF: [EDPG]\: 82
+
+### <a id="bukkon">\*bukk/gōn- [wk.] "to bend" (v)</a>
+N: \
+-- Far. _boga_, _buga_, _bukka_ "to bend, curve" \
+-- Nw. _boga_ "to bend, swing", _bukka_ "to nod" \
+W: \
+-- OFri. _bukkia_ "to bend down" \
+-- MHG _bocken_ "to alight" \
+PIE: \*bʰugʰ-néh₂- \
+The iterative to [\*beugan- ~ \*būgan-](#beugan) (q.v.). Also cf. Swi. Visp. _bikku_ [wk.] "to bend, turn" < \*bugjan-. \
+REF: [EDPG]\: 83
+
+### <a id="bulgjan">\*bulgjan- ~ \*bulkjan- [wk.] "to bellow" (v)</a>
+W: \
+-- OE _bylgian_, E to _bellow_ \
+-- MDu. _bulgen_ "to cough, rattle", Du. _bulken_ "to bellow" \
+PIE: \*bʰlgʰ/ǵʰ-ie- \
+Related to OE _bealcan_ [wk.] "to utter; to belch", MDu. _balken_ [wk.] "to bellow", Du. _balken_ [wk.] "to bray, hee-haw" < \*balkōn- and MDu. _belken_ [wk.] "to bellow", E _to belch_ < \*balkjan-. The _g_ of OE _bylgian_ and MDu. _bulgen_ must be old, which implies that the _k_ of the other forms arose under the influence of a related iterative \*bulkon- < \*bʰlgʰ/ǵʰ-neh₂-, cf. MDu. _bolken_ [wk.] "to bellow". Further related to the cluster of \*balgi- in the sense of "belly"? \
+REF: [EDPG]\: 83
+
+### <a id="bulgjon">\*bulgjōn- [f.] "wave; bag" (n)</a>
+N: \
+-- ON _bylgja_ "wave" \
+-- Far. _bylgja_ "id." \
+W: \
+-- E _billow_ \
+-- MLG _bulge_ "wave; hide" \
+-- MHG _bulge_ "wave; leather bag" \
+A zero-grade formation (quasi PIE \*bʰlǵʰ-ieh₂-) to [\*belgan- "to swell"](#belgan) and [\*balgi- "skin bag"](#balgi). The word was taken over by the Romans, cf. Lat _bulga_ "leather knapsack", and it seems likely that the continuant OFr. _boulge_, _bouge_ was the source of ME _bulge_ "leather bag, wallet; hump", E _bulge_. As the meaning "protuberance" is reminiscent of \*belgan-, however, it is possible that _bulge_ at least partly continues a native word, i.e. OE \*bylge. E _billow_ is usually taken to be a Norse loanword. Further cf. MDu. _bulgen_ [wk.] "to swell up" < \*bulgjan- and the derived _bulge_ [m.] "blister, tumor; entrails of a dead animal" < \*bulgjan-. \
+REF: [EDPG]\: 83
+
+### <a id="bullan-1">\*bullan- "ball" (n)</a>
+N: \
+-- ON _bolli_ [m.] "cup" \
+-- Far. _bolli_ [m.] "cup, bowl; head; ball" \
+W: \
+-- OE _bolla_ [m.] "bowl" \
+-- OFri. _bolla_ [m.] "type of (round?) bread" \
+-- MDu. _bolle_ [m.] "sphere, round object", Du. _bol_ [c.] "id." \
+-- OHG _bolla_ [f.] "bud; bowl" \
+Ablauting with [\*ballan-](#ballan) (q.v.). \
+REF: [EDPG]\: 83
+
+### <a id="bullan-2">\*bul(l)an- [m.] "bull" (n)</a>
+N: \
+-- ON _boli_ \
+W: \
+-- OE _bula_, E _bull_ \
+-- MLG _bulle_ \
+-- MDu. _bul(le)_, Du. _bul_ [c.] \
+PIE: \*bʰl-én- \
+COGN: Gr. _φαλλός_ [m.] "penis" < \*bʰl-no-, Lat. _follis_ [m.] "bag, sack; ball, testicle" < \*bʰol-ni-, OIr. _ball_ [m.] "member, penis", W _balleg_ "sack, purse" < \*bʰl-no- \
+An n-stem alternating between \*bulan- and \*bullan-, thus pointing to a paradigm with consonant gradation, nom. \*bulō, gen. \*bullaz. Analogically to other hysterokinetic male animal names, e.g. [\*uhsan- "ox"](#uhsan) and [\*urzan- "_capercaillie_"](#urzan), the Pre-Germanic paradigm may be reconstructed as \*bʰl-ḗn, \*bʰl-n-ós, assuming that the vocalized l was generalized throughout the paradigm. The formation seems to have been derived from a PIE word for "testicle", cf. ON _bǫllr_ [m.] "testicle" and OE _bealloc_ [m.] "id." < \*ballaka-, for which see [\*ballan-](#ballan). \
+REF: [EDPG]\: 83
+
+### <a id="bullon">\*bullōn- [wk.] "to roar, howl" (v)</a>
+N: \
+-- Icel. _bulla_ "to bubble; to talk nonsense" \
+-- Far. _bulla_ "to gush, bubble; to chatter, babble" \
+W: \
+-- MDu. _bullen_ "to bubble up" \
+-- OHG _bullōn_ "to howl, bark, roar", MHG _bullen_ "id." \
+PIE: \*bʰlh₁-néh₂- \
+COGN: Lat. _fleō_, _flēre_ "to cry, weep", Latv. _blêt_ (_blêju_) "to bleat", RuCS _blějati_, Ru. _bléjat'_ "to bleat, dial. to cry" < \*bʰleh₁-ie- \
+An iterative synchronically belonging to [\*bellan-](#bellan) (q.v.). This verb may be secondary, however, replacing a more primitive \*blējan-. \
+REF: [EDPG]\: 84
+
+### <a id="bulstran">\*bulstra(n)- [m.] "bolster, pillow" (n)</a>
+N: \
+-- ON _bolstr_ "id." \
+W: \
+-- OE _bolster_ [n.] "id." \
+-- Du. _bolster_ "husk" \
+-- OHG _bolstar_ "cushion", G _Polster_ "id." \
+PIE: \*bʰolǵʰ-stro- \
+A formation created to the same root as found in [\*balgi-](#balgi) (q.v.). \
+REF: [EDPG]\: 84
+
+### <a id="bulton">\*bultōn- [wk.] "to roll, turn over" (v)</a>
+N: \
+-- Far. _bólta_ "to turn over, overturn, tumble" \
+W: \
+-- G _bolzen_ "to kick around (a ball)" \
+PIE: \*bʰld-néh₂- \
+COGN: Formally identical to Lith. _bìldinti_ "to rumble" < \*bʰld-neh₂-; further cf. Lith. _bélsti_ (_béldžiu_) "to knock, poke" < \*bʰeld-ie- and Lith. _báldyti_ (_baldà_) "to rumble" < \*bʰold-éie- \
+An old iterative formation closely related to the o-grade variant G _balzen_ [wk.] "to croon; to perform a courtship display" < \*baltōn- < \*bʰold-neh₂-, which is semantically close to Nw. _bolt_ [m.] "male cat or bird; bragger", _Bolze_ [m.] "male cat" < \*bulta(n)-. There is evidence for a meaning "to kick over, make roll", cf. ON _bolti_ [m.] "ball", Far. _boltur_, _bóltur_ [m.] "id." < \*bulta(n)-, but this may have developed out of an older "to hit, bump", cf. OE _bolt_ [m.] "bolt, arrow", MLG _bolte(n)_ [m.] "id.", Du. _bout_ [c.] "peg", OHG _bolz_ [m.] "bullet, bolt, peg", G _Bolz(en)_ [m.] "cross-bow bolt" < \*bulta(n)- and MLG _ane-belte_, MDu. _ane-belt_, _aen-belt_, Du. _aambeeld_ [n.] "anvil" < \*ana-baltja-. \
+REF: [EDPG]\: 84
+
+### <a id="bunda">\*bunda- [m.] "binding" (n)</a>
+W: \
+-- OS _gi-bund_ [n.] "bundle" \
+-- Du. _bond_ [c.] "league" \
+-- MHG _bunt_ [m./n.] "fetter; bundle", G _Bund_ "league; bundle" \
+A zero-grade neuter derived from [\*bindan-](#bindan) (q.v.). \
+REF: [EDPG]\: 84
+
+### <a id="bura">\*būra- [n.] "cabin, hut" (n)</a>
+N: \
+-- ON _búr_ "women's apartment; pantry; storehouse" \
+W: \
+-- OE _būr_ [m.] "hut, chamber", E _bower_ \
+-- OS _būr_ "chamber, dwelling" \
+-- OHG _būr_ [m.] "dwelling; cage", G _Bauer_ [m.] "(bird)cage" \
+PIE: \*bʰuh₂-ro- \
+Related to [\*bōan- ~ \*būan-](#boan) (q.v.). \
+REF: [EDPG]\: 84
+
+### <a id="burdi">\*burdi- [f.] "birth" (n)</a>
+E: Go. _ga-baurþs_ "id." \
+N: \
+-- ON _burðr_ [m.] "birth; foetus" \
+W: \
+-- OE _(ge-)byrd_ "birth", E _birth_ \
+-- OFri. _berde_ "birth; foetus" \
+-- OS _gi-burd_ "birth, descent" \
+-- Du. _ge-boorte_ [c.] "birth" \
+-- OHG _gi-burt_ "id.", G _Ge-burt_ "id." \
+PIE: \*bʰr-tí- \
+COGN: Identical to Skt. _bhr̥tí_- [f.] "carrying, sustenance, livelihood, food", Av. _bərəti_- [f.] "carrying", Lat _fors_, -_tis_ [f.] "chance, luck"; also cf. OIr. _brith_, _breth_ [f.] "carrying, judgement" < \*bʰr-t-eh₂- and MW _bryd_ [m.] "thought, mind, intent, aim", Co. _brys_ "thought" < \*bʰr-tu- \
+A ti-stem created to the root of [\*beran-](#beran-1). \
+REF: [EDPG]\: 84
+
+### <a id="burg">\*burg- [f.] "fortified place, town" (n)</a>
+E: Go. _baurgs_ "id." \
+N: \
+-- ON _borg_ "town; citadel; small hill" \
+-- Far. _borg_ "castle; town" \
+W: \
+-- OE _burg_ "city", E _borough_ \
+-- OFri. _burch_, _burich_ [m.] "castle; city" \
+-- OS _burg_ "id." \
+-- OHG _burg_ "id.", MHG _burc_ "id." \
+PIE: \*bʰrgʰ/ǵʰ- \
+A root noun related to either [\*berga- "mountain"](#berga) < \*bʰerǵʰ-o- or [\*bergan- "to keep safe"](#bergan) < \*bʰergʰ-e-; the formal as well as the semantic properties of the word allow for both of these etymologies. \
+REF: [EDPG]\: 85
+
+### <a id="burgjan">\*burgjan- [wk.] "to hide(?)" (v)</a>
+N: \
+-- ON _byrgja_ "to close, shut" \
+W: \
+-- OE _byrian_ "to bury", E _to bury_ \
+PIE: \*bʰrgʰ-ie- \
+A zero-grade ie-present related to [\*bergan-](#bergan) (q.v.). Also cf. OE _byrga_, OS _burgio_, OHG _burigo_, G _Bürge_ [m.] "surety" < \*burgjan-. \
+REF: [EDPG]\: 85
+
+### <a id="buri">\*buri- [m.] "son" (n)</a>
+E: Go. _baur_ "id." \
+N: \
+-- ON poet. _burr_ "id." \
+W: \
+-- OE _byre_ "son, child" \
+An i-stem to the strong verb [\*beran-](#beran-1) (q.v.). \
+REF: [EDPG]\: 85
+
+### <a id="burjan">\*burjan- [wk.] "to raise; to come to pass" (v)</a>
+N: \
+-- ON _byrja_ "to start" \
+W: \
+-- OE _ge-byrian_ "id." \
+-- OFri. _bera_ "to raise, collect" \
+-- OS _gi-burian_ "to happen" \
+-- Du. _beuren_ "to collect money", _ge-beuren_ "to happen" \
+-- OHG _burren_ "to raise", _gi-burren_ "to happen", MHG _bürn_ "id.", G _ge-bühren_ "to collect charges" \
+PIE: \*bʰr-ie- \
+A zero-grade ie-present related to [\*beran-](#beran-1). \
+REF: [EDPG]\: 85
+
+### <a id="burkon">\*burkōn- [wk.] "to roar" (v)</a>
+N: \
+-- Nw. _borka_ "to boast" \
+W: \
+-- OE _borcian_ "to bark" \
+PIE: \*bʰrg-neh₂- \
+The iterative to [\*berkan-](#berkan) (q.v.). \
+REF: [EDPG]\: 85
+
+### <a id="burojan">\*burōjan- [wk.] "to bore" (v)</a>
+N: \
+-- ON _bora_ \
+W: \
+-- OE _borian_, E _to bore_ \
+-- OS _boron_ \
+-- Du. _boren_ \
+-- OHG _borōn_, G _bohren_ \
+PIE: \*bʰr(H)-eh₂-ie- \
+COGN: Identical to Lat. _forō_, -_āre_ "to bore through, pierce" \
+A denominal verb derived from \*burō-, cf. OHG _bora_ [f.] "bore", or from \*bura- as in OE, MLG _bor_ [n.] "id.". The suffixation of OE _byris_ [f.(?)] "graving-iron, file" < \*burisō- is comparable to that of OE _lynis_ [m.] "axletree" < \*lunisa- (for which see [\*luniz-](#luniz)). Related to [\*barjan-](#barjan)? \
+REF: [EDPG]\: 85
+
+### <a id="burzda">\*burzda- [n.] "board" (n)</a>
+E: Go. _fotu-baurd_ "footstool" \
+N: \
+-- ON _borð_ "board, plank, table" \
+-- Far. _borð_ "id." \
+W: \
+-- OE _bord_ "board, table" \
+-- OFri. _bord_ [m./n.]? "id." \
+-- Du. _bord_ "plate, plank" \
+PIE: \*bʰrzdʰ-o- \
+Related to [\*brezda-](#brezda) and [\*brazda-](#brazda) (q.v.). There is no trace of the PGmc. \*z because it was assimilated by the preceding r in Gothic as well as in NWGm. (after the rhotacism). It was preserved, however, in the secondary zero-grade form \*bruzda-, cf. ON _broddr_ [m.] "tip, edge, shoot", OHG _brort_ [m.] "point, margin". Apparently, the original zero grade was remodeled on the basis of the closely related full-grade forms in this formation (cf. Kroonen 201 1a: 149ff). \
+REF: [EDPG]\: 86
+
+### <a id="button">\*butt/dōn- [wk.] "to shove" (v)</a>
+N: \
+-- Nw. _butta_ "to hit, shove" \
+W: \
+-- OFri. _del-boddia_ "to knock down" \
+-- MDu. _botten_ "to bump, hit" \
+-- G Als. _butzen_ "id." \
+PIE: \*bʰudʰ-néh₂- \
+The iterative to [\*bautan-](#bautan) (q.v.). \
+REF: [EDPG]\: 86
+
+### <a id="buwwen">\*buwwēn- [wk.] "to dwell; to form, build" (v)</a>
+N: \
+-- ON _byggva_, _byggja_ \
+-- Far. _byggja_ \
+-- Elfd. _byddja_ \
+W: \
+-- OE _bogian_, _bug(i)an_ "to inhabit" \
+-- OFri. _bogian_ "to dwell" \
+PIE: \*bʰuh₂-éh₁- \
+The NGm. forms point to a jan-verb closely related to [\*bōan- ~ \*būan](#boan) (q.v.). The formation cannot be derived from \*bewwjan- (_pace_ Pokorny IEW: 146-50; Magnusson 1989: 69), as this would have given Elfd. \*\*_begga_. As a result, the verb can safely be reconstructed as \*buwwjan- or - in view of the WGm. forms - perhaps rather as a stative \*buwwēn- < \*bʰh₂u-éh₁-. Note that the formation may have gone through an intermediate stage \*būwḗ-. which by 1) Dybo's law and 2) Holtzmann's law would have regularly produced \*buwwēn- \
+REF: [EDPG]\: 86
