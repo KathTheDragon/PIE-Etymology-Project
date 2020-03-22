@@ -40,7 +40,7 @@ REF: [EDPG]\: 1
 ### <a id="abra">\*abra- "fierce" (adj)</a>
 E: Go. _abrs_ "great, severe" \
 PIE: \*h₃ep-ró- \
-Within Germanic, the adjective appears to be related to [\*afla- "strength"](#afla-1) (q.v.) as well as to the secondary _vṛddhi_-formation ON _œfr_ "vehement" < \*ōbja-, which both belong to the PIE root \*h₃ep- "to labor". ON _afar_-, on the other hand, is conspicuously close to MIr. _abor_-, W _afr_- "very", which points to late Germanic-Celtic language contact. Also cf. Go. _bi-abrjan_ [wk.] "to be astonished". \
+Within Germanic, the adjective appears to be related to [\*afla- "strength"](#afla-1) (q.v.) as well as to the secondary _vr̥ddhi_-formation ON _œfr_ "vehement" < \*ōbja-, which both belong to the PIE root \*h₃ep- "to labor". ON _afar_-, on the other hand, is conspicuously close to MIr. _abor_-, W _afr_- "very", which points to late Germanic-Celtic language contact. Also cf. Go. _bi-abrjan_ [wk.] "to be astonished". \
 REF: [EDPG]\: 1
 
 ### <a id="abuha">\*abuha- "turned the wrong way" (adj)</a>
@@ -116,7 +116,7 @@ REF: [EDPG]\: 3
 ### <a id="agan">\*agan- [pp.] "to fear" (v)</a>
 E: Go. _ogan_, 3sg. _og_ \
 COGN: Gr. _ἄχομαι_ "to grieve, lament" < \*h₂egʰ-e-, OIr. -_ágadar_ "to fear" < \*h₂e-h₂ogʰ-e- \
-The Gothic verb is conjugated as a preterite-present of the reduplicating class, PGm. 3sg. \*ōge, 3pl. \*ōgun < \*h₂e-h₂ogʰ-e, \*h₂e-h₂ogʰ-nt, which is formally close to OIr. -_ágadar_ < \*h₂e-h₂ogʰ- (Matasovic 2009: 2 6). The full-grade root \*ōg- served as the basis for the Gothic infinitive form _ogan sis_, while the original zero grade survived in the petrified ptc. _un-agands_ "fearless". Also cf. [\*agiz- "fear"](#agiz), Go. _agei_, OHG _agī_, _egī_ [f.] "fear" < \*agīn-, [\*ōgjan- "to scare"](#ogjan) and OE _ōga_ [m.] "terror" < \*ōgan-. \
+The Gothic verb is conjugated as a preterite-present of the reduplicating class, PGmc. 3sg. \*ōge, 3pl. \*ōgun < \*h₂e-h₂ogʰ-e, \*h₂e-h₂ogʰ-nt, which is formally close to OIr. -_ágadar_ < \*h₂e-h₂ogʰ- (Matasovic 2009: 2 6). The full-grade root \*ōg- served as the basis for the Gothic infinitive form _ogan sis_, while the original zero grade survived in the petrified ptc. _un-agands_ "fearless". Also cf. [\*agiz- "fear"](#agiz), Go. _agei_, OHG _agī_, _egī_ [f.] "fear" < \*agīn-, [\*ōgjan- "to scare"](#ogjan) and OE _ōga_ [m.] "terror" < \*ōgan-. \
 REF: [EDPG]\: 3
 
 ### <a id="agana">\*agana- [n.] "bait" (n)</a>
@@ -229,7 +229,7 @@ REF: [EDPG]\: 5
 
 ### <a id="ahjan">\*ahjan- [wk.] "to think" (v)</a>
 E: Go. _ahjan_ "to assume, think" \
-No clear etymology. The verb is obviously related to Go. _aha_ [m.] "mind, understanding" < \*ahan-, Go. _ahma_ [m.] "spirit" < \*ahman- and PGm. [\*ahtō-"attention"](#ahto) (q.v.), but it lacks clear extra-Gm. cognates. The connections with [\*augōn- "eye"](#augon) < \*h₃ekʷ- (Osthoff 1910: 175) and Gr. _ὄκνος_ [m.] "hesitation, shrinking" (Pokorny IEW: 774) do not convince, at any rate. Theoretically, the verb could be identical to ON _æja_ [wk.] "to graze" < \*ahjan- (through a meaning "to ruminate"), but it is preferable, in my view, to reconstruct this verb as [\*aiwjan- "graze"](#aiwjan) (q.v.) \
+No clear etymology. The verb is obviously related to Go. _aha_ [m.] "mind, understanding" < \*ahan-, Go. _ahma_ [m.] "spirit" < \*ahman- and PGmc. [\*ahtō-"attention"](#ahto) (q.v.), but it lacks clear extra-Gm. cognates. The connections with [\*augōn- "eye"](#augon) < \*h₃ekʷ- (Osthoff 1910: 175) and Gr. _ὄκνος_ [m.] "hesitation, shrinking" (Pokorny IEW: 774) do not convince, at any rate. Theoretically, the verb could be identical to ON _æja_ [wk.] "to graze" < \*ahjan- (through a meaning "to ruminate"), but it is preferable, in my view, to reconstruct this verb as [\*aiwjan- "graze"](#aiwjan) (q.v.) \
 REF: [EDPG]\: 6
 
 ### <a id="ahslo">\*ahslō- [f.] "shoulder, armpit" (n)</a>
@@ -303,7 +303,7 @@ W: \
 -- OHG _ahorn_, _ahurn_, _acharn_ , G _Ahorn_ \
 PIE: \*akr̥-no- \
 COGN: Lat. _acer_, -_eris_ [n.] "maple" < \*ak-r- (cf. _acernus_ "made of maple"); hardly to Gr. Hsch. _ἄκαστος_ "maple" and _ἄκαρνα_ "laurel-tree" \
-A European word, possibly of non-IE origin. The main form, PGm. \*ahurna-, was adopted by Slavic, cf. OCS _avor-ovъ_ "made of maple". The Upper German form _Acher_ may continue \*ahra- without a nasal, to which _Ahre_ and _Ähre_ are secondary feminine derivations in \*-(j)ō- (cf. OHG _voraha_, MoG _Föhre_ "pine" < \*furhwjo(n)- vs. ON _fura_ < \*furhwōn-). The latter variant probably served as the source for Sw. ära and Da. _ære-træ_. It seems unlikely, at any rate, that these forms continue an ablauting form \*ēhirōn- through ON \*_æra_ (thus Torp 1909: 23). \
+A European word, possibly of non-IE origin. The main form, PGmc. \*ahurna-, was adopted by Slavic, cf. OCS _avor-ovъ_ "made of maple". The Upper German form _Acher_ may continue \*ahra- without a nasal, to which _Ahre_ and _Ähre_ are secondary feminine derivations in \*-(j)ō- (cf. OHG _voraha_, MoG _Föhre_ "pine" < \*furhwjo(n)- vs. ON _fura_ < \*furhwōn-). The latter variant probably served as the source for Sw. ära and Da. _ære-træ_. It seems unlikely, at any rate, that these forms continue an ablauting form \*ēhirōn- through ON \*_æra_ (thus Torp 1909: 23). \
 REF: [EDPG]\: 7
 
 ### <a id="ahwo">\*ahwo- [f.] "river" (n)</a>
@@ -360,7 +360,7 @@ W: \
 -- OHG _eigan_, _heigan_, 3pl. _eigun_ "to have, own, keep, receive", MHG _eigen_, _heigen_ "id." \
 PIE: \*(h₂e-)h₂óik-(?) \
 COGN: ToB _aik_- "to know" (< "to have in mind"), Skt. _ī́śe_, _ī́ṣṭe_ "to control, possess", OAv. _isē_, YAv. _ište_ 3sg.med. "to have" < \*h₂e-h₂iḱ- \
-A preterite-present 3sg. \*aihe, 3pl. \*aigunþ. The lack of ablaut in this verb is unique, the expected paradigm being \*aihe, \*igunþ < \*h₂óiḱ-e, \*h₂iḱ-ń̥t. It is possible that the ablaut was removed at an early stage, but if so, the question still remains why the paradigm of only this preterite-present was leveled, while all others kept their ablaut intact right through to the modern Germanic languages. It therefore seems likely that the verb belonged to the reduplicating class with o-grade throughout the preterite (cf. Seebold 1970: 70). I thus reconstruct the Pre-Gm. paradigm as \*h₂e-h₂óiḱ-e, \*h₂e-h₂iḱ-ń̥t, which regularly should have produced PGm. \*aihe (< \*ā́ike by Osthoff's law), \*aigunþ. See also [\*aigena- "own"](#aigena) and [\*aihti- "property"](#aihti). \
+A preterite-present 3sg. \*aihe, 3pl. \*aigunþ. The lack of ablaut in this verb is unique, the expected paradigm being \*aihe, \*igunþ < \*h₂óiḱ-e, \*h₂iḱ-ń̥t. It is possible that the ablaut was removed at an early stage, but if so, the question still remains why the paradigm of only this preterite-present was leveled, while all others kept their ablaut intact right through to the modern Germanic languages. It therefore seems likely that the verb belonged to the reduplicating class with o-grade throughout the preterite (cf. Seebold 1970: 70). I thus reconstruct the Pre-Gm. paradigm as \*h₂e-h₂óiḱ-e, \*h₂e-h₂iḱ-ń̥t, which regularly should have produced PGmc. \*aihe (< \*ā́ike by Osthoff's law), \*aigunþ. See also [\*aigena- "own"](#aigena) and [\*aihti- "property"](#aihti). \
 REF: [EDPG]\: 8
 
 ### <a id="aigena">\*aigena- "own" (adj)</a>
@@ -452,7 +452,7 @@ W: \
 -- OHG _eihhurno_, _eihhorno_, G _Eichhörnchen_ [n.] \
 PIE: \*h₂ei-h₂u-r \
 COGN: NP _varvarah_ "squirrel" < \*h₂uer-h₂uer-o-, Lat. _vīverra_ [f.] "ferret" < \*h₂ui-h₂uer-neh₂-, OIr. _íaru_ [f.] "squirrel", Ir. _iora_ "id." < \*h₂i-h₂uer-(?), Gael. _feòrag_, W _gwywer_ "id." < \*h₂ui-h₂uer-, Lith. _voverė̃_, _vóverė_, Latv. _vāvere_ "id." < \*h₂ue-h₂uer-ieh₂-, Lith. _vaiverìs_, Ru. _véverica_ "id." < \*h₂uoi-h₂uer-io- etc \
-A reduplicated formation comparable to [\*bebura- "beaver"](#bebura-1) (q.v.) < \*bʰe-bʰr, gen. \*bʰi-bʰr-ós (Beekes 1995: 190). The Germanic word (together with Ir. _iora_?) preserved the simplest type of reduplication, \*h₂ei-h₂ur, gen. \*h₂i-h₂ur-6s, which resulted in a paradigm \*aikwur, \*īkuraz (for the change \*-aiHu- > PGm. \*-aikw-, cf. [\*taikwer- "brother-in-law"](#taikwer)). After the loss of initial laryngeals, the daughter languages restored the reduplication in several different ways, giving rise to a plethora of stem variants. \
+A reduplicated formation comparable to [\*bebura- "beaver"](#bebura-1) (q.v.) < \*bʰe-bʰr, gen. \*bʰi-bʰr-ós (Beekes 1995: 190). The Germanic word (together with Ir. _iora_?) preserved the simplest type of reduplication, \*h₂ei-h₂ur, gen. \*h₂i-h₂ur-6s, which resulted in a paradigm \*aikwur, \*īkuraz (for the change \*-aiHu- > PGmc. \*-aikw-, cf. [\*taikwer- "brother-in-law"](#taikwer)). After the loss of initial laryngeals, the daughter languages restored the reduplication in several different ways, giving rise to a plethora of stem variants. \
 REF: [EDPG]\: 10
 
 ### <a id="ailida">\*ailida- [m.] "fire" (n)</a>
@@ -542,7 +542,7 @@ W: \
 -- G dial. _Einbeerbaum_ \
 PIE: \*h₁oi-n-io- \
 COGN: Hitt. _eyan_- [n.] "a certain evergreen tree" < \*h₁ei-n-, Lat. _iūni-pe/irus_ [m.] "juniper" < \*h₁oi-no- (with unexplained _i_- and etymologically obscure second member) \
-A word that is likely to have been a collective formation, especially in view of the neuters Far. _eini_ and Elfd. _iene_. The word is usually reconstructed as PGm. \*jainja- on the basis of the comparison with Lat. _iūni-perus_, but the West Germanic forms exclude initial \*j. If Hitt. _eyan_- is related (Kroonen 2011a: 32), we may reconstruct a static n-stem \*h₁ói-n, gen. \*h₁ei-n-s. \
+A word that is likely to have been a collective formation, especially in view of the neuters Far. _eini_ and Elfd. _iene_. The word is usually reconstructed as PGmc. \*jainja- on the basis of the comparison with Lat. _iūni-perus_, but the West Germanic forms exclude initial \*j. If Hitt. _eyan_- is related (Kroonen 2011a: 32), we may reconstruct a static n-stem \*h₁ói-n, gen. \*h₁ei-n-s. \
 REF: [EDPG]\: 12
 
 ### <a id="airi">\*airi "early" (adv)</a>
@@ -557,7 +557,7 @@ W: \
 -- OHG _ē(r)_ "before, earlier" (adv, conj), MHG _ē(r)_ "earlier, sooner" \
 PIE: \*h₂ei-er-i \
 COGN: Av. _aiiarə_, gen. _aiiąn_ [n.] "day" < \*h₂ei-r/n-, Gr _ἦρι_ "in the morning" < \*h₂ei-er-i, Gr. _ἠέριος_ "matutinal" < \*h₂eier-io- \
-PGm. \*airi is identical to Gr. _ἦρι_, continuing the locative of an old r/n-stem meaning "day" (or "daybreak"?), cf. Av. _aiiarə_. The e of \*ajeri was regularly raised to \*i after \*j, and triggered the merger of \*aji- with \*ai- (cf. [\*aiza- "ore"](#aiza) < PIE \*h₂ei-es-). Note that ON, Icel. _árla_, Sw. _arla_, Da. _årle_ "early" (adv) developed from _árliga_ by some sort of syncope, cf. _fastl(ig)a_ "firmly", _framarl(ig)a_ "in a forward position", _ill(ilig)a_ "badly, hideously" and _gerla_, _gǫrla_ "fully", _harðla_ "very", _varla_ "hardly" \
+PGmc. \*airi is identical to Gr. _ἦρι_, continuing the locative of an old r/n-stem meaning "day" (or "daybreak"?), cf. Av. _aiiarə_. The e of \*ajeri was regularly raised to \*i after \*j, and triggered the merger of \*aji- with \*ai- (cf. [\*aiza- "ore"](#aiza) < PIE \*h₂ei-es-). Note that ON, Icel. _árla_, Sw. _arla_, Da. _årle_ "early" (adv) developed from _árliga_ by some sort of syncope, cf. _fastl(ig)a_ "firmly", _framarl(ig)a_ "in a forward position", _ill(ilig)a_ "badly, hideously" and _gerla_, _gǫrla_ "fully", _harðla_ "very", _varla_ "hardly" \
 REF: [EDPG]\: 12
 
 ### <a id="airinon">\*airinōn- [wk.] "to run an errand" (v)</a>
@@ -687,7 +687,7 @@ W: \
 -- OHG eid, G Eid \
 PIE: \*Hóito- \
 COGN: Identical to OIr. _oeth_ [m.] "oath" \
-A Germanic-Celtic isogloss. Given the close formal and semantic agreement between PGm. \*aiþa- and PCelt \*oito-, it is unlikely that the formation goes back to Proto-Indo-European, only to surface in two neighboring branches at the far end of the IE-speaking area. It is more probable that the word somehow arose in a shared cultural zone with similar legal traditions. Etymologically, the word is often derived from the root \*h₁ei- "to go", cf. Sw. _ed-gång_ "oath-walk". Unrelated to Hitt. _hai_- "to believe, to trust" (_pace_ Puhvel 1984-: III 9-10), which is more commonly written _hā_- < \*h₂₃eh₂₃- (Kloekhorst 2008: 267). See also [\*aiþja- "capable of taking an oath"](#aithja). \
+A Germanic-Celtic isogloss. Given the close formal and semantic agreement between PGmc. \*aiþa- and PCelt \*oito-, it is unlikely that the formation goes back to Proto-Indo-European, only to surface in two neighboring branches at the far end of the IE-speaking area. It is more probable that the word somehow arose in a shared cultural zone with similar legal traditions. Etymologically, the word is often derived from the root \*h₁ei- "to go", cf. Sw. _ed-gång_ "oath-walk". Unrelated to Hitt. _hai_- "to believe, to trust" (_pace_ Puhvel 1984-: III 9-10), which is more commonly written _hā_- < \*h₂₃eh₂₃- (Kloekhorst 2008: 267). See also [\*aiþja- "capable of taking an oath"](#aithja). \
 REF: [EDPG]\: 15
 
 ### <a id="aithin">\*aiþīn- ~ \*aiþōn- [f.] "mother" (n)</a>
@@ -749,7 +749,7 @@ N: \
 -- ON _æja_ (pret. _áða_) "to rest, eat" \
 W: \
 -- Du. _eeuwen_ "to feed, graze" \
-Usually interpreted as a causative formation to the root \*h₂eḱH- "to eat", cf. Skt. _āśayati_ "to make eat" (for which cf. [\*agana- "bait"](#agana)), starting from a proto-form \*ahjan-. Still, the implied PIE causative \*h₂oḱH-éie- should have given PGm. \*agjan-, ON \*_egja_, which is not the case. The connection with Du. _eeuwen_ (also cf. MDu. _eeusel_ [n.] "pasture") < \*aiwjan- (cf. De Vries 1962: 681) is therefore preferable. \
+Usually interpreted as a causative formation to the root \*h₂eḱH- "to eat", cf. Skt. _āśayati_ "to make eat" (for which cf. [\*agana- "bait"](#agana)), starting from a proto-form \*ahjan-. Still, the implied PIE causative \*h₂oḱH-éie- should have given PGmc. \*agjan-, ON \*_egja_, which is not the case. The connection with Du. _eeuwen_ (also cf. MDu. _eeusel_ [n.] "pasture") < \*aiwjan- (cf. De Vries 1962: 681) is therefore preferable. \
 REF: [EDPG]\: 16
 
 ### <a id="aiza">\*aiza- [n.] "ore, brass" (n)</a>
@@ -793,7 +793,7 @@ W: \
 -- OHG _ei_, G _Ei_ \
 PIE: \*h₂ōu-ió- \
 COGN: Identical to YAv. _aēm_ acc. "id.", MP _xāy-ag_ "id.", Arm. _ju_ "id." (with unclear _j_-). Gr _ᾠόν_ [n.] "id.", Lat. _ōvum_ [n.] "id.", OW _ui_, MW _wy_ [m.] "id.", OCS _aice_, Ru. _jajcó_, SCr. _jájce_ [n.] "id." (< PSlav. \*aj-ьce) \
-A neuter (i)o-stem directly continuing the PIE word for "egg". The word is generally taken to have come about as a _vṛddhi_-formation \*h₂ōu-ió- to PIE \*h₂eu-is, gen. \*h₂u-ei-s "bird", cf. Skt. _vís_, gen. _vés_, Lat. _avis_. Less attractive is the reconstruction as \*ō-h₂u-io- with the marginally attested preposition \*ō "toward" (Schindler 1969). I consider the word to be crucial to establishing the relative chronology as well as the phonetic conditioning of several important Germanic sound laws. PGm. \*ajja- has been derived from the Siever's variant \*ōiyo- by Jasanoff 1978b: 85 under the assumption that Osthoffs law gave rise to an intermediate form \*aija- (Zair 2011: 292). In my view, PGm. \*ajja- rather developed from \*ōuió- by 1) regular loss of the labial glide after \*ō; 2) pretonic shortening of \*ō to \*o (Dybo's law); and 3) gemination of \*-y- to \*-yy- (Holtzmann's law). It follows from this chronology that Holtzmann's law was triggered by the following accent (thus already Kluge 1879: 128), and not by the assimilation of an adjacent laryngeal (Smith 1941). See also [\*wīa- "(fly) egg"](#wia). \
+A neuter (i)o-stem directly continuing the PIE word for "egg". The word is generally taken to have come about as a _vr̥ddhi_-formation \*h₂ōu-ió- to PIE \*h₂eu-is, gen. \*h₂u-ei-s "bird", cf. Skt. _vís_, gen. _vés_, Lat. _avis_. Less attractive is the reconstruction as \*ō-h₂u-io- with the marginally attested preposition \*ō "toward" (Schindler 1969). I consider the word to be crucial to establishing the relative chronology as well as the phonetic conditioning of several important Germanic sound laws. PGmc. \*ajja- has been derived from the Siever's variant \*ōiyo- by Jasanoff 1978b: 85 under the assumption that Osthoffs law gave rise to an intermediate form \*aija- (Zair 2011: 292). In my view, PGmc. \*ajja- rather developed from \*ōuió- by 1) regular loss of the labial glide after \*ō; 2) pretonic shortening of \*ō to \*o (Dybo's law); and 3) gemination of \*-y- to \*-yy- (Holtzmann's law). It follows from this chronology that Holtzmann's law was triggered by the following accent (thus already Kluge 1879: 128), and not by the assimilation of an adjacent laryngeal (Smith 1941). See also [\*wīa- "(fly) egg"](#wia). \
 REF: [EDPG]\: 17
 
 ### <a id="ajuki">\*ajuki- "eternal" (adj)</a>
@@ -801,7 +801,7 @@ E: Go. _ajuk-duþs_ [f.] "eternity" \
 W: \
 -- OE _ǣce_ "eternal" \
 PIE: \*h₂oi-u-gʷih₃- \
-An old derivation from [\*aiwa/ō- "age"](#aiwa-1) (q.v.) with a different realization of the PIE \*u. The origin of the PGm. k-suffix is uncertain, but with Lat. _iūgis_ "constant" and Av. _yauuaē-jī_- "living forever" < PIE \*h₂ieu-gʷih₃-, it is attractive to assume that PGm. \*ajuki- continues \*h₂oiu-gʷih₃- (< \*-gʷh₃-i-) "everliving" (Weiss 1995). \
+An old derivation from [\*aiwa/ō- "age"](#aiwa-1) (q.v.) with a different realization of the PIE \*u. The origin of the PGmc. k-suffix is uncertain, but with Lat. _iūgis_ "constant" and Av. _yauuaē-jī_- "living forever" < PIE \*h₂ieu-gʷih₃-, it is attractive to assume that PGmc. \*ajuki- continues \*h₂oiu-gʷih₃- (< \*-gʷh₃-i-) "everliving" (Weiss 1995). \
 REF: [EDPG]\: 17
 
 ### <a id="akan-1">\*akan- [st.] "to drive" (v)</a>
@@ -892,7 +892,7 @@ N: \
 -- ON _alr_ (< \*ala-) \
 -- Nw. _ale_ "thin stick to dry meat on" (< \*alan-) \
 PIE: \*h₁oh₁-ló-(?) \
-Generally assumed to be related to [\*ēlō-](#elo) with the same meaning, but the ablaut is problematic. Vocalic differences between two semantically similar words usually point to an ablauting paradigm in the parent language, but it is unclear how this could explain the alternation \*a ~ \*ē in this particular case. One possibility would be to reconstruct PIE \*h₁eh₁l-eh₂, gen. \*h₁h̥₁l-h₂-ós > PGm. \*ēlō, \*alaz with regular(?) vocalization of the laryngeal between two stops, cf. \*ēbanþ- ~ \*ēbund- "evening". Alternatively, one could reconstruct \*ala- as an independent formation \*h₁oh₁l-ó-, assuming that the resulting form \*ōló- developed into \*ala- by pretonic shortening. See also [\*alasno- "awl"](#alasno). \
+Generally assumed to be related to [\*ēlō-](#elo) with the same meaning, but the ablaut is problematic. Vocalic differences between two semantically similar words usually point to an ablauting paradigm in the parent language, but it is unclear how this could explain the alternation \*a ~ \*ē in this particular case. One possibility would be to reconstruct PIE \*h₁eh₁l-eh₂, gen. \*h₁h̥₁l-h₂-ós > PGmc. \*ēlō, \*alaz with regular(?) vocalization of the laryngeal between two stops, cf. \*ēbanþ- ~ \*ēbund- "evening". Alternatively, one could reconstruct \*ala- as an independent formation \*h₁oh₁l-ó-, assuming that the resulting form \*ōló- developed into \*ala- by pretonic shortening. See also [\*alasno- "awl"](#alasno). \
 REF: [EDPG]\: 19
 
 ### <a id="alasno">\*alasno- [f.] "awl" (n)</a>
@@ -980,7 +980,7 @@ REF: [EDPG]\: 21
 ### <a id="algi-2">\*algi- [m.] "slush" (n)</a>
 N: \
 -- Icel. _elgur_ [m.] "slush, melting snow" \
-The word has been connected to Lat. _algor_ [m.] "cold", which may reflect an s-stem \*h₂elg/gʰ-os- (Liden 1897: 66), but in spite of the fact that the PGm. form \*algi-, too, can theoretically have evolved from an s-stem \*algiz- (cf. [\*hwali- "whale"](#hwali)), it is more likely to be related to Far. _elgja_ [wk.] "to pour (down the throat)" < \*algjan-. Also note that the identification of Icel. _elgur_ with ON _elgr_\*, as found in the kennings _alþjóð elgjar galga_ and _æðiveðrs elgjar_, is uncertain, as it probably means "elk" (see \*algi- 2) in these contexts (cf. De Vries 1962: 100; Heide 2001). Related to ODu. _alk_- top. "mud"? \
+The word has been connected to Lat. _algor_ [m.] "cold", which may reflect an s-stem \*h₂elg/gʰ-os- (Liden 1897: 66), but in spite of the fact that the PGmc. form \*algi-, too, can theoretically have evolved from an s-stem \*algiz- (cf. [\*hwali- "whale"](#hwali)), it is more likely to be related to Far. _elgja_ [wk.] "to pour (down the throat)" < \*algjan-. Also note that the identification of Icel. _elgur_ with ON _elgr_\*, as found in the kennings _alþjóð elgjar galga_ and _æðiveðrs elgjar_, is uncertain, as it probably means "elk" (see \*algi- 2) in these contexts (cf. De Vries 1962: 100; Heide 2001). Related to ODu. _alk_- top. "mud"? \
 REF: [EDPG]\: 21
 
 ### <a id="algjan">\*algjan- [wk.] "to be nauseated" (v)</a>
@@ -1019,7 +1019,7 @@ W: \
 -- OHG _elena_, _elna_ "id.", G _Elle_ "id." \
 PIE: \*Heh₃l-én-eh₂- \
 COGN: Gr. _ὠλένη_ [f.] "elbow, underarm", Lat. _ulna_ [f.] "forearm" < \*Heh₃l-én-eh₂-, Gr. Hsch. _ὠλλόν_ "elbow" < \*Heh₃l-n-o-?, Gr. _ὠλήν_ [f.] "elbow", OIr. _uilen_ "angle", W _elin_, Bret. _ilin_ "id." < \*Heh₃l-ḗn- \
-The Germanic word together with Lat. ulna goes back to PIE \*Heh₃/-en-eh₂- through an intermediate form \*olenā- with pretonic shortening. The suffix was later substituted by \*-īnō-. In PIE, the word was probably inflected as an amphidynamic n-stem, nom. \*Héh₃l-ōn, gen. \*Hh₃l-n-ós, acc. \*Hh₃l-én-m. Note that the latter case also may have given PGm. \*alen- by vocalization of the second laryngeal. \
+The Germanic word together with Lat. ulna goes back to PIE \*Heh₃/-en-eh₂- through an intermediate form \*olenā- with pretonic shortening. The suffix was later substituted by \*-īnō-. In PIE, the word was probably inflected as an amphidynamic n-stem, nom. \*Héh₃l-ōn, gen. \*Hh₃l-n-ós, acc. \*Hh₃l-én-m. Note that the latter case also may have given PGmc. \*alen- by vocalization of the second laryngeal. \
 REF: [EDPG]\: 22
 
 ### <a id="aliskon">\*aliskōn- [wk.] "to tend to(?)" (v)</a>
@@ -1152,7 +1152,7 @@ W: \
 -- MDu. _amper_ "sour, bitter, harsh", Du. _amper_ "barely" (adv) \
 PIE: \*Hom-ro- \
 COGN: Skt. _amla_-, _ambla_- "bitter" < \*Hom-ro- \
-A Germanic-Indic isogloss. The further connection with Lat. _amārus_ "bitter" is uncertain, because its long ā cannot be explained from the proto-form underlying PGm. \*ampra- < \*Hom-ro- (cf. De Vaan 2008: 37). In view of Hebr. _mar_ "bitter" (cf. Lewis-Short), the word may be of Semitic origin. The connection with Skt. _āma_-, Gr. _ὠμός_ "raw" < \*h₁oh₁m-o- (for which see [\*ēmōn- "erysipelas"](#emon-1)) as given by Pokorny IEW: 777-778 is uncertain. See also [\*ampra/ōn- "sorrel"](#ampran) \
+A Germanic-Indic isogloss. The further connection with Lat. _amārus_ "bitter" is uncertain, because its long ā cannot be explained from the proto-form underlying PGmc. \*ampra- < \*Hom-ro- (cf. De Vaan 2008: 37). In view of Hebr. _mar_ "bitter" (cf. Lewis-Short), the word may be of Semitic origin. The connection with Skt. _āma_-, Gr. _ὠμός_ "raw" < \*h₁oh₁m-o- (for which see [\*ēmōn- "erysipelas"](#emon-1)) as given by Pokorny IEW: 777-778 is uncertain. See also [\*ampra/ōn- "sorrel"](#ampran) \
 REF: [EDPG]\: 25
 
 ### <a id="ampra/ōn">\*ampra/on- [m./f.] "sorrel, dock" (n)</a>
@@ -1171,7 +1171,7 @@ N: \
 -- Elfd. _ą̊s_ "ridge" \
 PIE: \*h₃em-so- \
 COGN: Identical to Skt. _áṃsa_- [m.] "shoulder", Oss. _wæn_, _won_, _on_ / _iwonæ_? "shoulder blade", ToA _es_, ToB _āntse_ [m.] "shoulder" (with unexpected \*a), Arm. _us_ "id.", Gr. _ὦµoc_ [m.] "shoulder, shoulder with the upper arm" < \*h₃em-so-, Lat _umerus_ [m.] "id." < \*h₃em-es-o- \
-PGm. \*amsa- can together with e.g. Skt _áṃsa_- be reconstructed as \*h₃em-so-. In view of the ablaut with Lat. _umerus_ and Arm. _us_, this formation must be a thematization of a more primary s-stem \*h₃ém-ōs, gen. \*h₃m-s-ós (cf. \*h₂éus-ōs, \*h₂us-s-ós "daybreak" under [\*austrōn- "Easter"](#austron)). Note that the m of \*amsa- is based on the Gothic form only: ON _áss_ "1) hill; 2) beam" is a merger of \*amsa- and \*ansa- (for the original nasality of the ON vowel, cf. Elfd. _ą̊s_ "ridge", Nystrom 1995). \
+PGmc. \*amsa- can together with e.g. Skt _áṃsa_- be reconstructed as \*h₃em-so-. In view of the ablaut with Lat. _umerus_ and Arm. _us_, this formation must be a thematization of a more primary s-stem \*h₃ém-ōs, gen. \*h₃m-s-ós (cf. \*h₂éus-ōs, \*h₂us-s-ós "daybreak" under [\*austrōn- "Easter"](#austron)). Note that the m of \*amsa- is based on the Gothic form only: ON _áss_ "1) hill; 2) beam" is a merger of \*amsa- and \*ansa- (for the original nasality of the ON vowel, cf. Elfd. _ą̊s_ "ridge", Nystrom 1995). \
 REF: [EDPG]\: 25
 
 ### <a id="amslon">\*amslōn- [f.] "blackbird" (n)</a>
@@ -1536,7 +1536,7 @@ W: \
 -- OHG _aro_, _arn_, MHG _are_, _ar_, G _Aar_ \
 PIE: \*h₃er-on- \
 COGN: Identical to Hitt. _hāran_- [c.] "eagle"; further cf. Gr. _ὄρνις_ [m./f.] "bird" < \*h₃(e)r-ni-, Lith. _erẽlis_, Latv. _ḕrglis_ [m.] "eagle" (with a > e by Rozwadowsky's change), OPru. _arelie_ "id." < \*h₃er-el-io-, OCS _orьlъ_, Ru. _orël_, SCr. _orao_ [m.] "id." < \*h₃er-l-i-; formally problematic: OIr. _irar_, _ilar_, W _eryr_ "id." < \*eriro- \
-An old n-stem \*h₃er-ōn, \*h₃(e)r-n-ós that is preserved as such only in Hittite and Germanic. In Nordic, the acc.pl. \*arnuns < \*h₃er-n-n̥s gave rise to a split-off stem \*arnu-, which is fully parallel to the u-stem PN \*kattu- vs. PGm. [\*kattōn- "cat"](#katton) (q.v.). OE _earn_, OHG _arn_ and Du. _arend_ continue thematicized \*arna-. \
+An old n-stem \*h₃er-ōn, \*h₃(e)r-n-ós that is preserved as such only in Hittite and Germanic. In Nordic, the acc.pl. \*arnuns < \*h₃er-n-n̥s gave rise to a split-off stem \*arnu-, which is fully parallel to the u-stem PN \*kattu- vs. PGmc. [\*kattōn- "cat"](#katton) (q.v.). OE _earn_, OHG _arn_ and Du. _arend_ continue thematicized \*arna-. \
 REF: [EDPG]\: 32
 
 ### <a id="aran-2">\*aran- [m.] "phalanx bone(?)" (n)</a>
@@ -1550,7 +1550,7 @@ REF: [EDPG]\: 32
 N: \
 -- ON _arfr_ [m.] "ox" \
 PIE: \*h₃orbʰ-o- \
-COGN: Arm. _orb_ "orphan", OCS _rabъ_, ORu. _robъ_, SCr. _rob_ [m.] "servant, slave", Lat _orbus_ "deprived of, childless, orphaned", Gr. _ὀρφανός_ [m.] "orphan", "orphaned". The Germanic continuant of the IE word \*h₃orbʰ-o-, which - among other things - denoted the status of "orphan". In view of the Slavic meaning "servant", it seems that this status implied forced labor (PGm. [\*arbaidi- "labour"](#arbaidi)) for the benefit of the caretakers. This may also explain the Old Norse meaning "cattle". In Indo-European culture, the \*h₃orbʰos may have been a captive in the service of an alien clan. This makes sense, at any rate, in view of the semantically more primitive Hitt. _harp_- "to separate and reassociate oneself, to change sides". See also [\*arbja- "inheritance"](#arbja), [\*arma- "miserable"](#arma-2) and [\*urba- "inheritance"](urba) \
+COGN: Arm. _orb_ "orphan", OCS _rabъ_, ORu. _robъ_, SCr. _rob_ [m.] "servant, slave", Lat _orbus_ "deprived of, childless, orphaned", Gr. _ὀρφανός_ [m.] "orphan", "orphaned". The Germanic continuant of the IE word \*h₃orbʰ-o-, which - among other things - denoted the status of "orphan". In view of the Slavic meaning "servant", it seems that this status implied forced labor (PGmc. [\*arbaidi- "labour"](#arbaidi)) for the benefit of the caretakers. This may also explain the Old Norse meaning "cattle". In Indo-European culture, the \*h₃orbʰos may have been a captive in the service of an alien clan. This makes sense, at any rate, in view of the semantically more primitive Hitt. _harp_- "to separate and reassociate oneself, to change sides". See also [\*arbja- "inheritance"](#arbja), [\*arma- "miserable"](#arma-2) and [\*urba- "inheritance"](urba) \
 REF: [EDPG]\: 32
 
 ### <a id="arbaidi">\*arbaidi- [f.] "toil, labor" (n)</a>
@@ -1596,7 +1596,7 @@ N: \
 -- Far. _ørdugur_ "id." \
 PIE: \*h₃erdʰu-ko- \
 COGN: Skt. _ūrdhvá_- "tending upwards, upright, high", YAv. _ərəδβa_-, _ərəduua_- "risen, upright, erect", Gr. _ὀρθός_ "set upright", Lat. _arduus_ "high, steep", OIr. _ard_ "high" < \*h₃rdʰuo- \
-Probably an old compound of the root \*h₃er- "to rise" and the root \*dʰh₁- "to put". The appurtenance of the Germanic word is beyond doubt, but, unlike the other languages, it offers proof of a full-grade root. This may point to an ablauting u-stem \*h₃erdʰ-u-s, gen. \*h₃rdʰ-u-ós. For the k-suffix, cf. other archaic u-stems such as PGm. [\*þunnu- "thin"](#thunnu) (q.v.) vs. Skt. tanú(ka)- < \*tnh₂-u(-ko)-. \
+Probably an old compound of the root \*h₃er- "to rise" and the root \*dʰh₁- "to put". The appurtenance of the Germanic word is beyond doubt, but, unlike the other languages, it offers proof of a full-grade root. This may point to an ablauting u-stem \*h₃erdʰ-u-s, gen. \*h₃rdʰ-u-ós. For the k-suffix, cf. other archaic u-stems such as PGmc. [\*þunnu- "thin"](#thunnu) (q.v.) vs. Skt. tanú(ka)- < \*tnh₂-u(-ko)-. \
 REF: [EDPG]\: 33
 
 ### <a id="arfan">\*arfan-(?) [m.] "chickweed" (n)</a>
@@ -1711,7 +1711,7 @@ N: \
 W: \
 -- OE _earte_ "pied wagtail" \
 COGN: ?Gr. _ἐρῳδιός_ (with secondary iota subscriptum), _ἐρωδιός_, _ῥωδιώς_, _ἀρωδιός_ [m.] "heron" < \*h₁/₂roHd-io-, ?Lat. _ardea_ "id." < \*h₂er(H)d-eh₂-, ?SCr. _róda_ "stork" < \*Hrodʰ-eh₂-(?) \
-Uncertain etymology. The sound correspondences in the alleged cognates are highly irregular, and hamper the reconstruction of a PIE word, e.g. \*Hérh₃d-h₂, gen. \*Hrh₃d-h₂-ós. It is possible that the word was borrowed from a Pre-IE language in Europe. Perhaps the initial \*a- of PGm. \*artō(n) can be explained as the substrate prefix also found in e.g. [\*amslōn- "blackbird"](#amslon) (q.v.). \
+Uncertain etymology. The sound correspondences in the alleged cognates are highly irregular, and hamper the reconstruction of a PIE word, e.g. \*Hérh₃d-h₂, gen. \*Hrh₃d-h₂-ós. It is possible that the word was borrowed from a Pre-IE language in Europe. Perhaps the initial \*a- of PGmc. \*artō(n) can be explained as the substrate prefix also found in e.g. [\*amslōn- "blackbird"](#amslon) (q.v.). \
 REF: [EDPG]\: 36
 
 ### <a id="arthon">\*arþōn- [f.] "crupper?" (n)</a>
@@ -1745,7 +1745,7 @@ W: \
 -- WFri. _eernje_ [wk.] "to talk" (< OFri. \*erendia, cf. Brandsma 1936: 68) \
 -- OS _ārundi_ "errand", WPhal. _êren_, _æren_ [f.] "id." \
 -- OHG _ārunti_ "id." \
-The reconstruction of the word is problematic, because the different languages point to different proto-forms that cannot be reconciled with each other nor with the supposedly obvious cognate [\*airu- "messenger"](#airu) (q.v.). OE _ǣrende_, OS _ārundi_, OHG _ārunti_ (also cf. WPhal. _æren_ with _ǟ_ from fronted WGm. \*ā) point to \*ērundja- with PGm. \*ē, while ON _erindi_ and _ørindi_ imply a form \*arundja- with \*a. Since the latter reconstruction is also substantiated by OCS _orǫdije_ [n.] "business, affair", a Germanic loanword, it has the greatest probability of dating back to PGm. The derivation of the variant ON _eyrendi_, which theoretically could be derived from \*airundja-, is uncertain, although it is formally reconcilable with the aforementioned \*airu-. \
+The reconstruction of the word is problematic, because the different languages point to different proto-forms that cannot be reconciled with each other nor with the supposedly obvious cognate [\*airu- "messenger"](#airu) (q.v.). OE _ǣrende_, OS _ārundi_, OHG _ārunti_ (also cf. WPhal. _æren_ with _ǟ_ from fronted WGm. \*ā) point to \*ērundja- with PGmc. \*ē, while ON _erindi_ and _ørindi_ imply a form \*arundja- with \*a. Since the latter reconstruction is also substantiated by OCS _orǫdije_ [n.] "business, affair", a Germanic loanword, it has the greatest probability of dating back to PGmc. The derivation of the variant ON _eyrendi_, which theoretically could be derived from \*airundja-, is uncertain, although it is formally reconcilable with the aforementioned \*airu-. \
 REF: [EDPG]\: 36
 
 ### <a id="arut">\*arut- [m.] "ore" (n)</a>
@@ -1928,7 +1928,7 @@ REF: [EDPG]\: 40
 E: Go. _aþn(s)_\* [m./n.] "period of the year, season" \
 PIE: \*h₂ét-no \
 COGN: Lat. _annus_ [m.] "year", Osk. _aceneis_ gen. "id.", Umb. _acnu_ acc. "id." < PSab. \*akno- < \*h₂et-no- \
-In Lat. _annus_, the nasal geminate can be the product of assimilation of a _t_ by a following _n_, cf. Lat. _penna_ [f.] "wing, feather" < \*pet(h₂)-neh₂-. This allows for the connection with Go. _aþn(s)_\*. The accent must have been on the first syllable, because end stress would have triggered Kluge's law, giving PGm. \*\*atta-. \
+In Lat. _annus_, the nasal geminate can be the product of assimilation of a _t_ by a following _n_, cf. Lat. _penna_ [f.] "wing, feather" < \*pet(h₂)-neh₂-. This allows for the connection with Go. _aþn(s)_\*. The accent must have been on the first syllable, because end stress would have triggered Kluge's law, giving PGmc. \*\*atta-. \
 REF: [EDPG]\: 40
 
 ### <a id="athulja">\*aþulja- "noble" (adj)</a>
@@ -2019,7 +2019,7 @@ W: \
 -- OHG _ouhhōn_ [wk.] "to add" \
 PIE: \*h₂éug-e- \
 COGN: Lith. _áugti_ (_áugu_) "to grow" < \*h₂eug-e-, Lat. _augēre_ "to increase, augment" < \*h₂eug-eie- (a secondary causative formation) \
-An Indo-European verb. Cf. with _Schwebeablaut_ PGm. \*wahs(j)an- < \*h₂uóg-s-. Note that the addition of the s-suffix seems to have pushed the ablaut slot one position to the right. \
+An Indo-European verb. Cf. with _Schwebeablaut_ PGmc. \*wahs(j)an- < \*h₂uóg-s-. Note that the addition of the s-suffix seems to have pushed the ablaut slot one position to the right. \
 REF: [EDPG]\: 42
 
 ### <a id="auke">\*auke "and; again, but" (conj, adv)</a>
@@ -2045,7 +2045,7 @@ N: \
 -- Nw. _aul_, _jol_ \
 PIE: \*h₂eul-o- \
 COGN: Hitt. _auli_- [c.] "tube-shaped organ in the neck, throat(?), windpipe(?)" < \*h₂oul-i-, Gr. _αὐλος_ [m.] "reed, flute", Lith. _aũlas_ [m.] "leg of a boot, pipe in a mill" < \*h₂eul-o-, OPru. _aulis_ "shinbone", Lith. _aulỹs_, Ru. _úlej_ "beehive" < \*h₂eul-io-, Latv. _aũle_ [f.] "leg of a boot" < \*h₂eul-ieh₂- \
-The appurtenance of PGm. \*aula- to the forms in the other IE languages is unproblematic, but the e-grade ON _jóli_, Far. _jólur_ < \*eula(n)- cannot regularly be derived from \*h₂eul-on-: as the root started with \*h₂, it must either continue \*h₂ēul- with a lengthened grade or represent a secondary e-grade that arose within Germanic itself, e.g. as a late _vṛddhi_-formation (Kimball: 1994: 14) or due to secondary ablaut (Kroonen 201la: 197-8). A zero grade may be present in Icel. _heimula_, _heimylja_, Far. _hømilia_, Nw. _høymole_, dial. _heimole_ "sorrel", Swi. _heimele_ "Good King Henry" < \*haima-ul(j)ōn- (cf. Kolb 1957: 76; Magnusson 1989: 316). \
+The appurtenance of PGmc. \*aula- to the forms in the other IE languages is unproblematic, but the e-grade ON _jóli_, Far. _jólur_ < \*eula(n)- cannot regularly be derived from \*h₂eul-on-: as the root started with \*h₂, it must either continue \*h₂ēul- with a lengthened grade or represent a secondary e-grade that arose within Germanic itself, e.g. as a late _vr̥ddhi_-formation (Kimball: 1994: 14) or due to secondary ablaut (Kroonen 201la: 197-8). A zero grade may be present in Icel. _heimula_, _heimylja_, Far. _hømilia_, Nw. _høymole_, dial. _heimole_ "sorrel", Swi. _heimele_ "Good King Henry" < \*haima-ul(j)ōn- (cf. Kolb 1957: 76; Magnusson 1989: 316). \
 REF: [EDPG]\: 42
 
 ### <a id="aura">\*aura- [m.] "mud, sand, sediment" (n)</a>
@@ -2137,7 +2137,7 @@ W: \
 -- OHG _ōra_, G _Ohr_ \
 PIE: \*h₂e/ous-n- \
 COGN: Av. _uši_ du. "ear", OPru. _āusins_ acc.pl. "id.", Lith. _ausìs_ [f.] "id.", OCS _uxo_ [n.] "id." < \*h₂eus-os-, Alb. _vesh_, Gr. _οὖς_, _οὔατος_ [n.] "id." < \*h₂ous, \*h₂ous-nt-os, Lat. _auris_ [f.] "id.", OIr. _áu_, _aue_ "id." < \*h₂eus- \
-A neuter belonging to the wider set of Germanic n-stems denoting body parts. The forms from the different Indo-European languages point to an originally static s-stem, nom. \*h₂óus-s, gen. \*h₂éus-s, du. \*h₂us-ih₁. It was created to the verbal root \*h₂eu- "to perceive" attested as Hitt. _auszi_ ~ _uwanzi_ "to see, look" < \*h₂óu-ei, \*h₂u-énti (Kloekhorst 2008: 22 7-9) and Gr. _ἀΐω_ "to perceive, hear" < \*h₂eu-ie-. It further seems probable that Skt. _āvíṣ_, Av. _āuuiš_ "evidently", PGm. \*awiz "openly" < \*h₂ou-is belongs here, too. \
+A neuter belonging to the wider set of Germanic n-stems denoting body parts. The forms from the different Indo-European languages point to an originally static s-stem, nom. \*h₂óus-s, gen. \*h₂éus-s, du. \*h₂us-ih₁. It was created to the verbal root \*h₂eu- "to perceive" attested as Hitt. _auszi_ ~ _uwanzi_ "to see, look" < \*h₂óu-ei, \*h₂u-énti (Kloekhorst 2008: 22 7-9) and Gr. _ἀΐω_ "to perceive, hear" < \*h₂eu-ie-. It further seems probable that Skt. _āvíṣ_, Av. _āuuiš_ "evidently", PGmc. \*awiz "openly" < \*h₂ou-is belongs here, too. \
 REF: [EDPG]\: 44
 
 ### <a id="awadi">\*awadi- [f.] "eiderduck" (n)</a>
@@ -2189,7 +2189,7 @@ W: \
 -- OHG _ouwiti_, _ewiti_ \
 PIE: \*h₃eui-dʰh₁-io- \
 COGN: Lith. _avìdė_ "sheepfold", ?Arm. _awdi-k'_ coll. "sheep" < \*Houi-dʰh₁-i(e)h₂- \
-A formation derived from PGm. [\*awi- "sheep"](#awi) with the PGm. suffix \*-dja- for herds, cf.[ \*kudja-](#kudja). Go. _aweþi_ is usually emended to \*_awiþi_ to reconcile the form with WGm. \*awidja-. Its -þ- arose from -d- by voice dissimilation against the _w_ (Thurneysen's law in Gothic). \
+A formation derived from PGmc. [\*awi- "sheep"](#awi) with the PGmc. suffix \*-dja- for herds, cf.[ \*kudja-](#kudja). Go. _aweþi_ is usually emended to \*_awiþi_ to reconcile the form with WGm. \*awidja-. Its -þ- arose from -d- by voice dissimilation against the _w_ (Thurneysen's law in Gothic). \
 REF: [EDPG]\: 45
 
 ### <a id="awistra">\*awist(r)a- [n.] "sheepfold" (n)</a>
@@ -2208,7 +2208,7 @@ W: \
 -- OHG _awi-zoraht_ "evident" (< \*awi-turhta-) \
 PIE: \*h₂eu-is \
 COGN: Skt. _avíṣ_ "evidently, before the eyes" (adv), Av. _āuuiš_ "id." (adv) < \*h₂ou-is / \*h₂eh₂u-is (for the suffix, cf. Skt. _bahíṣ_ "outside" (adv)), Lith. _ovyje_ "in reality" (adv) < \*h₂eh₂u-i-, OCS _(j)avě_ "manifestly, openly", SCr. _javi_ "id." < \*h₂eh₂u-oi (note that Lith. and Slav. remodeled the original suffix on the basis of synchronic locative endings) \
-The Germanic element is usually connected to PIE \*h₃ekʷ- "eye" (see [\*augon-](#augon)), but I would like to propose a link with Skt. _avíṣ_ and OCS _(j)avě_, which are formally and semantically close. The short vowel of PGm. \*awiz as opposed to the long vowel found elsewhere could point to Dybo's law of pretonic shortening: PIE \*Heh₂u-ís > \*āuís > PGm. \*awiz. However, an originally short vowel variant is extant in Gr. _αἰσθάνομαι_ "to perceive", Lat. _audire_ "to hear" < \*h₂euis-dʰh₁- (cf. Rasmussen 1987: §18). In PIE, the word seems to be derived from a root \*h₂eu- "to perceive", for which see [\*auzōn- "ear"](#auzon). Also cf. OE eawan, OFri. iiwia [wk.] "to show" < \*awojan-. \
+The Germanic element is usually connected to PIE \*h₃ekʷ- "eye" (see [\*augon-](#augon)), but I would like to propose a link with Skt. _avíṣ_ and OCS _(j)avě_, which are formally and semantically close. The short vowel of PGmc. \*awiz as opposed to the long vowel found elsewhere could point to Dybo's law of pretonic shortening: PIE \*Heh₂u-ís > \*āuís > PGmc. \*awiz. However, an originally short vowel variant is extant in Gr. _αἰσθάνομαι_ "to perceive", Lat. _audire_ "to hear" < \*h₂euis-dʰh₁- (cf. Rasmussen 1987: §18). In PIE, the word seems to be derived from a root \*h₂eu- "to perceive", for which see [\*auzōn- "ear"](#auzon). Also cf. OE eawan, OFri. iiwia [wk.] "to show" < \*awojan-. \
 REF: [EDPG]\: 45
 
 ### <a id="azani">\*azani- [f.] "harvest" (n)</a>
