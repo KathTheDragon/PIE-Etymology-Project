@@ -1441,11 +1441,11 @@ REF: [EDPG]\: 30
 
 ### <a id="ansu">\*ansu- [m.] "god" (n)</a>
 N: \
--- ON _áss_, _óss_, pl. _æsir_ "id." \
+-- ON _áss_, _óss_, pl. _æsir_ \
 W: \
--- OE _ōs_ "id." \
--- OS _ās_, _ōs_ "id." \
--- OHG _ans(i)_- prop. "id." \
+-- OE _ōs_ \
+-- OS _ās_, _ōs_ \
+-- OHG _ans(i)_- prop. \
 PIE: \*h₂ems-u- \
 COGN: Close to Hitt. _hassu_- [c.] "king", OAv. _ahu_-, YAv. _aŋhu_- [m.] "lord" < \*h₂ms-u-; also cf. Skt. _ásura_-, Av. _ahura_- [m.] "god, lord" < \*h₂msu-ro- \
 Also cf. Jordanes _anses_ (pl.) "demigods". An ancient Indo-European word ultimately related to Hitt _hāsi_ ~ _hassanzi_ "to give birth, to beget", which in view of CLuv. _hamsa/i_- [c.] "grandchild" must be reconstructed as \*h₂ems- (Kloekhorst 2008: 293). \
@@ -1592,8 +1592,8 @@ REF: [EDPG]\: 33
 
 ### <a id="arduga">\*arduga- "steep" (adj)</a>
 N: \
--- ON _ǫrðugr_ "id." \
--- Far. _ørdugur_ "id." \
+-- ON _ǫrðugr_ \
+-- Far. _ørdugur_ \
 PIE: \*h₃erdʰu-ko- \
 COGN: Skt. _ūrdhvá_- "tending upwards, upright, high", YAv. _ərəδβa_-, _ərəduua_- "risen, upright, erect", Gr. _ὀρθός_ "set upright", Lat. _arduus_ "high, steep", OIr. _ard_ "high" < \*h₃rdʰuo- \
 Probably an old compound of the root \*h₃er- "to rise" and the root \*dʰh₁- "to put". The appurtenance of the Germanic word is beyond doubt, but, unlike the other languages, it offers proof of a full-grade root. This may point to an ablauting u-stem \*h₃erdʰ-u-s, gen. \*h₃rdʰ-u-ós. For the k-suffix, cf. other archaic u-stems such as PGmc. [\*þunnu- "thin"](#thunnu) (q.v.) vs. Skt. tanú(ka)- < \*tnh₂-u(-ko)-. \
@@ -1743,8 +1743,8 @@ N: \
 W: \
 -- OE _ǣrende_ "id.", E _errand_ \
 -- WFri. _eernje_ [wk.] "to talk" (< OFri. \*erendia, cf. Brandsma 1936: 68) \
--- OS _ārundi_ "errand", WPhal. _êren_, _æren_ [f.] "id." \
--- OHG _ārunti_ "id." \
+-- OS _ārundi_, WPhal. _êren_, _æren_ [f.] \
+-- OHG _ārunti_ \
 The reconstruction of the word is problematic, because the different languages point to different proto-forms that cannot be reconciled with each other nor with the supposedly obvious cognate [\*airu- "messenger"](#airu) (q.v.). OE _ǣrende_, OS _ārundi_, OHG _ārunti_ (also cf. WPhal. _æren_ with _ǟ_ from fronted WGm. \*ā) point to \*ērundja- with PGmc. \*ē, while ON _erindi_ and _ørindi_ imply a form \*arundja- with \*a. Since the latter reconstruction is also substantiated by OCS _orǫdije_ [n.] "business, affair", a Germanic loanword, it has the greatest probability of dating back to PGmc. The derivation of the variant ON _eyrendi_, which theoretically could be derived from \*airundja-, is uncertain, although it is formally reconcilable with the aforementioned \*airu-. \
 REF: [EDPG]\: 36
 
@@ -1918,9 +1918,9 @@ N: \
 -- Nw. _åle_, _ale_ \
 W: \
 -- OE _adel(a)_ "mud, dirt" \
--- NFri. _ethel_ "liquid manure" \
--- MDu. _ad(d)el_ "id." (var. _iddel_ << Fri. \*edel) \
--- G Bav. _adel_ "id." \
+-- NFri. _ethel_ \
+-- MDu. _ad(d)el_ (var. _iddel_ << Fri. \*edel) \
+-- G Bav. _adel_ \
 Probably related to Icel. _eðja_ [f.] "mud" < \*aþjōn- or \*adjōn- (Magnusson 1989: 2), cf. Icel. _aða_, Far. _øða_ [f.] "horse mussel". In spite of the absence of cognates outside Germanic, the word cannot be too recent in view of the Verner variation of NFri. _ethel_ and Bav. _adel_ < \*aþla(n)- vs. OE _adel(a)_ < \*adla(n)-. Nw. dial. _åle_, _ale_ < ON \*aðli also points to \*aþlan-, as \*adlan- would have given \*\*alli. Metathesis occurred in Du. _aal(t)_, as in _naald_ "needle" < \*nēþlō-. Note the divergent meaning of OHG _adel_ [m.] "ulcer" (Riecke 2004: 279) \
 REF: [EDPG]\: 40
 
@@ -4232,9 +4232,9 @@ REF: [EDPG]\: 84
 
 ### <a id="bulstran">\*bulstra(n)- [m.] "bolster, pillow" (n)</a>
 N: \
--- ON _bolstr_ "id." \
+-- ON _bolstr_ \
 W: \
--- OE _bolster_ [n.] "id." \
+-- OE _bolster_ [n.] \
 -- Du. _bolster_ "husk" \
 -- OHG _bolstar_ "cushion", G _Polster_ "id." \
 PIE: \*bʰolǵʰ-stro- \
@@ -4271,22 +4271,22 @@ Related to [\*bōan- ~ \*būan-](#boan) (q.v.). \
 REF: [EDPG]\: 84
 
 ### <a id="burdi">\*burdi- [f.] "birth" (n)</a>
-E: Go. _ga-baurþs_ "id." \
+E: Go. _ga-baurþs_ \
 N: \
 -- ON _burðr_ [m.] "birth; foetus" \
 W: \
--- OE _(ge-)byrd_ "birth", E _birth_ \
+-- OE _(ge-)byrd_, E _birth_ \
 -- OFri. _berde_ "birth; foetus" \
 -- OS _gi-burd_ "birth, descent" \
--- Du. _ge-boorte_ [c.] "birth" \
--- OHG _gi-burt_ "id.", G _Ge-burt_ "id." \
+-- Du. _ge-boorte_ [c.] \
+-- OHG _gi-burt_, G _Ge-burt_ \
 PIE: \*bʰr-tí- \
 COGN: Identical to Skt. _bhr̥tí_- [f.] "carrying, sustenance, livelihood, food", Av. _bərəti_- [f.] "carrying", Lat _fors_, -_tis_ [f.] "chance, luck"; also cf. OIr. _brith_, _breth_ [f.] "carrying, judgement" < \*bʰr-t-eh₂- and MW _bryd_ [m.] "thought, mind, intent, aim", Co. _brys_ "thought" < \*bʰr-tu- \
 A ti-stem created to the root of [\*beran-](#beran-1). \
 REF: [EDPG]\: 84
 
 ### <a id="burg">\*burg- [f.] "fortified place, town" (n)</a>
-E: Go. _baurgs_ "id." \
+E: Go. _baurgs_ \
 N: \
 -- ON _borg_ "town; citadel; small hill" \
 -- Far. _borg_ "castle; town" \
@@ -4309,9 +4309,9 @@ A zero-grade ie-present related to [\*bergan-](#bergan) (q.v.). Also cf. OE _byr
 REF: [EDPG]\: 85
 
 ### <a id="buri">\*buri- [m.] "son" (n)</a>
-E: Go. _baur_ "id." \
+E: Go. _baur_ \
 N: \
--- ON poet. _burr_ "id." \
+-- ON poet. _burr_ \
 W: \
 -- OE _byre_ "son, child" \
 An i-stem to the strong verb [\*beran-](#beran-1) (q.v.). \
