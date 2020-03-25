@@ -875,7 +875,7 @@ W: \
 -- OHG _ackus_, G _Axt_ \
 PIE: \*h₂egʷis-ih₂-(?) \
 COGN: Gr. _ἀξίνη_ [f.] "axe" < \*h₂egʷs-i-, Lat. _ascia_ [f.] "axe, trowel" < \*h₂esk-ieh₂-(?) \
-The formal incongruences between Germanic, Latin and Greek are suggestive of a non-Indo-European origin (cf. Bjorvand/Lindeman	2000: 1085). If this is correct, there is room for the comparison with Akkadian _ḥaṣṣinu_ "axe" and Aram. _ḥaṣṣīnā_ "id.". Note that the meaning of the occasionally adduced Myc. _a-qi-ja_ is uncertain. \
+The formal incongruences between Germanic, Latin and Greek are suggestive of a non-Indo-European origin (cf. Bjorvand/Lindeman 2000: 1085). If this is correct, there is room for the comparison with Akkadian _ḥaṣṣinu_ "axe" and Aram. _ḥaṣṣīnā_ "id.". Note that the meaning of the occasionally adduced Myc. _a-qi-ja_ is uncertain. \
 REF: [EDPG]\: 19
 
 ### <a id="alan-1">\*alan- [st.] "to grow up; to rear" (v)</a>
@@ -2524,7 +2524,7 @@ N: \
 -- Far. _bakki_ "slope, cliff, (river or fog) bank" \
 -- Elfd. _bokke_ "slope; hill" \
 COGN: Lith. _banga_ [f.] "multitude", Latv. dial. _buoga_ [f.] "grove, multitude, crowd" < \*bʰong-eh₂- \
-Related to [\*banki-](#banki) (q.v). Cf. with another stem formant Far. _b11kkur_ [m.] "lump, hillock, tuft" < \*banku-, a formation that probably split off from the original ace.pl. \*bankuns < \*bʰong-n-vs. A zero-grade variant may be extant in Du. _bank_ [c.] "lump" < \*bunkan- and Nw. dial. _bunka_ "pile, lump" < \*bunkon-, but these forms appear to be more closely related to Icel. _bunga_ "bump, elevation", Far. _bunga_ "raising on a level base, bulge", Nw. dial. _bunga_ "bump" < \*bungon-. \
+Related to [\*banki-](#banki) (q.v). Cf. with another stem formant Far. _b11kkur_ [m.] "lump, hillock, tuft" < \*banku-, a formation that probably split off from the original acc.pl. \*bankuns < \*bʰong-n-vs. A zero-grade variant may be extant in Du. _bank_ [c.] "lump" < \*bunkan- and Nw. dial. _bunka_ "pile, lump" < \*bunkon-, but these forms appear to be more closely related to Icel. _bunga_ "bump, elevation", Far. _bunga_ "raising on a level base, bulge", Nw. dial. _bunga_ "bump" < \*bungon-. \
 REF: [EDPG]\: 51
 
 ### <a id="banki">\*banki- [m.] "bench" (n)</a>
