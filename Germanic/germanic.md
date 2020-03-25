@@ -403,7 +403,7 @@ N: \
 W: \
 -- OE _ǣht_ "possessions, property, lands" \
 -- OHG _ēht_ "possession, goods, wealth" \
-A ti-stem created to the root of [\*aigan- "to own"](#aigan) (q.v.). Note that the sometimes connected Ir. _icht_ [m.] "progeny, tribe" (quasi < \*h₂iḱ-ti-) is more likely to have been derived from root \*iek- "to speak" (see[ \*jehan- "to acknowledge"](#jehan)) in view of the related MW _ieith_ [f.] "language, nation, race" < \*iek-ti-. \
+A ti-stem created to the root of [\*aigan- "to own"](#aigan) (q.v.). Note that the sometimes connected Ir. _icht_ [m.] "progeny, tribe" (quasi < \*h₂iḱ-ti-) is more likely to have been derived from root \*iek- "to speak" (see [ \*jehan- "to acknowledge"](#jehan)) in view of the related MW _ieith_ [f.] "language, nation, race" < \*iek-ti-. \
 REF: [EDPG]\: 9
 
 ### <a id="aihtrojan">\*aihtrōjan- [wk.] "to beg" (v)</a>
@@ -818,7 +818,7 @@ REF: [EDPG]\: 18
 W: \
 -- OE _acan_, E _to ache_ \
 PIE: \*h₂₃eǵ-e- \
-COGN: Skt _ājí_-[ [m./f.]] "race, competition, fight", YAv. _āzi_- [m.] "greed, desire", NP _āz_ "greed" < \*h₂₃oǵ-i- \
+COGN: Skt _ājí_- [m./f.] "race, competition, fight", YAv. _āzi_- [m.] "greed, desire", NP _āz_ "greed" < \*h₂₃oǵ-i- \
 A strong verb, possibly related to YAv. _āzi_- "greed" < \*h₂₃eǵ-i-, which can be formally identical with OE _ece_ [m.] "pain" < \*aki-. No further cognates. Is the verb originally identical to [\*akan- "to drive"](#akan-1), cf. Nw. dial. _aka med_ "to irritate"? \
 REF: [EDPG]\: 18
 
@@ -2189,7 +2189,7 @@ W: \
 -- OHG _ouwiti_, _ewiti_ \
 PIE: \*h₃eui-dʰh₁-io- \
 COGN: Lith. _avìdė_ "sheepfold", ?Arm. _awdi-k'_ coll. "sheep" < \*Houi-dʰh₁-i(e)h₂- \
-A formation derived from PGmc. [\*awi- "sheep"](#awi) with the PGmc. suffix \*-dja- for herds, cf.[ \*kudja-](#kudja). Go. _aweþi_ is usually emended to \*_awiþi_ to reconcile the form with WGm. \*awidja-. Its -þ- arose from -d- by voice dissimilation against the _w_ (Thurneysen's law in Gothic). \
+A formation derived from PGmc. [\*awi- "sheep"](#awi) with the PGmc. suffix \*-dja- for herds, cf. [ \*kudja-](#kudja). Go. _aweþi_ is usually emended to \*_awiþi_ to reconcile the form with WGm. \*awidja-. Its -þ- arose from -d- by voice dissimilation against the _w_ (Thurneysen's law in Gothic). \
 REF: [EDPG]\: 45
 
 ### <a id="awistra">\*awist(r)a- [n.] "sheepfold" (n)</a>
