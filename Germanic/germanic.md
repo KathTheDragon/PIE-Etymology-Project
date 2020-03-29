@@ -4,7 +4,8 @@
 ## A
 
 ### <a id="aba">\*aba "(away) from, off" (prep, adv)</a>
-E: Go. _af_ (prep) \
+E: \
+-- Go. _af_ (prep) \
 N: \
 -- ON _af_ \
 -- Far. _av_ \
@@ -21,7 +22,8 @@ An adverb and preposition representing a fossilized allative case \*h₂p-ó to 
 REF: [EDPG]\: 1
 
 ### <a id="aban">\*aban- [m.] "man, husband" (n)</a>
-E: Go. _aba_ [m.] "husband, man" \
+E: \
+-- Go. _aba_ [m.] "husband, man" \
 N: \
 -- ON _afi_ [m.] "grandfather; man" \
 -- Far. _abbi_ [m.] "grandfather" \
@@ -38,7 +40,8 @@ This verb has often been analyzed as a derivation from the oblique stem of a PIE
 REF: [EDPG]\: 1
 
 ### <a id="abra">\*abra- "fierce" (adj)</a>
-E: Go. _abrs_ "great, severe" \
+E: \
+-- Go. _abrs_ "great, severe" \
 PIE: \*h₃ep-ró- \
 Within Germanic, the adjective appears to be related to [\*afla- "strength"](#afla-1) (q.v.) as well as to the secondary _vr̥ddhi_-formation ON _œfr_ "vehement" < \*ōbja-, which both belong to the PIE root \*h₃ep- "to labor". ON _afar_-, on the other hand, is conspicuously close to MIr. _abor_-, W _afr_- "very", which points to late Germanic-Celtic language contact. Also cf. Go. _bi-abrjan_ [wk.] "to be astonished". \
 REF: [EDPG]\: 1
@@ -65,7 +68,8 @@ An ancient Indo-European word for "adze" or "axe" (Cop 1955: 406-7). There are n
 REF: [EDPG]\: 2
 
 ### <a id="afera">\*afera- "behind, later" (prep, adv)</a>
-E: Go. _afar_ "after, according to" (prep) \
+E: \
+-- Go. _afar_ "after, according to" (prep) \
 W: \
 -- OHG _avar_, _afar_ "but" (adv, conj), MHG _aver_, _aber_ "then again, but" (adv, conj), G _aber_ "but" (conj) \
 PIE: \*h₂ep-ero- \
@@ -114,7 +118,8 @@ A haplologized compound of the elements [\*agla- "shameful"](#agla) and \*laitja
 REF: [EDPG]\: 3
 
 ### <a id="agan">\*agan- [pp.] "to fear" (v)</a>
-E: Go. _ogan_, 3sg. _og_ \
+E: \
+-- Go. _ogan_, 3sg. _og_ \
 COGN: Gr. _ἄχομαι_ "to grieve, lament" < \*h₂egʰ-e-, OIr. -_ágadar_ "to fear" < \*h₂e-h₂ogʰ-e- \
 The Gothic verb is conjugated as a preterite-present of the reduplicating class, PGmc. 3sg. \*ōge, 3pl. \*ōgun < \*h₂e-h₂ogʰ-e, \*h₂e-h₂ogʰ-nt, which is formally close to OIr. -_ágadar_ < \*h₂e-h₂ogʰ- (Matasovic 2009: 2 6). The full-grade root \*ōg- served as the basis for the Gothic infinitive form _ogan sis_, while the original zero grade survived in the petrified ptc. _un-agands_ "fearless". Also cf. [\*agiz- "fear"](#agiz), Go. _agei_, OHG _agī_, _egī_ [f.] "fear" < \*agīn-, [\*ōgjan- "to scare"](#ogjan) and OE _ōga_ [m.] "terror" < \*ōgan-. \
 REF: [EDPG]\: 3
@@ -141,7 +146,8 @@ A European word. The form \*agiþō- may be a remodeling of \*ageþi-, the equiv
 REF: [EDPG]\: 4
 
 ### <a id="agiz">\*agiz- [n.] "fear" (n)</a>
-E: Go. _agis_ \
+E: \
+-- Go. _agis_ \
 W: \
 -- OE _ege_ [m.] \
 PIE: \*h₂egʰ-es- \
@@ -169,13 +175,15 @@ The co-occurrence of OE _age_ < \*agōn- and WFri. _akke_ < \*akkōn- could poin
 REF: [EDPG]\: 4
 
 ### <a id="agla">\*agla- "painful" (adj)</a>
-E: Go. _agls_\* "disgraceful" \
+E: \
+-- Go. _agls_\* "disgraceful" \
 PIE: \*h₂egʰ-lo- \
 COGN: Skt. _aghá_- "evil, bad, dangerous", YAv. _aɣa_- "bad, evil" < \*h₂ogʰ-o-, Gr. _ἄχνυμαι_ "to grieve, lament for" < \*h₂egʰ-néu-. An adjective possibly related to [\*agan- "to fear"](#agan) and cognates. Also cf. Go. _agljan_\* "to harm", Nw. _egle_ "to provoke, incite", OE _eglan_ "to trouble", ME _eilen_ "to trouble, afflict, harm", E _ail_ "to trouble" < \*agljan- and Go. _aglo_ [f.] "affliction". See also [\*agalaitja- "licentious"](#agalaitja) and [\*aglu- "difficult"](#aglu) \
 REF: [EDPG]\: 4
 
 ### <a id="aglu">\*aglu- "difficult" (adj)</a>
-E: Go. _aglus_\* "difficult, toilsome" \
+E: \
+-- Go. _aglus_\* "difficult, toilsome" \
 W: \
 -- OE _egle_ "difficult", E obs. _ail_ "loathsome" \
 The original u-stem that is attested as Go. _aglus_\*resurfaces as the ja-stem _eg(e)le_ in OE. No clear etymology, but probably related to [\*agla- "painful"](#agla). \
@@ -190,7 +198,8 @@ A ro-stem created to the same root as found in [\*ahwō- "water"](#ahwo). E _ack
 REF: [EDPG]\: 5
 
 ### <a id="ahano">\*ahanō- ~ \*aganō- [f.] "chaff, awns" (n)</a>
-E: Go. _ahana_ "chaff" \
+E: \
+-- Go. _ahana_ "chaff" \
 N: \
 -- ON _ǫgn_ "id." \
 -- Far. _øgn_ "awn, beard of barley" \
@@ -213,7 +222,8 @@ Derived from the root \*h₂eḱ- "sharp" (cf. [\*ahiz- "ear"](#ahiz)) . With th
 REF: [EDPG]\: 5
 
 ### <a id="ahiz">\*ahiz- [n.] "ear" (n)</a>
-E: Go. _ahs_ \
+E: \
+-- Go. _ahs_ \
 N: \
 -- ON _ax_ \
 -- Far. _aks_ \
@@ -228,7 +238,8 @@ An s-stem to the root \*h₂eḱ- "sharp". The original paradigm \*ahaz, pl. \*a
 REF: [EDPG]\: 5
 
 ### <a id="ahjan">\*ahjan- [wk.] "to think" (v)</a>
-E: Go. _ahjan_ "to assume, think" \
+E: \
+-- Go. _ahjan_ "to assume, think" \
 No clear etymology. The verb is obviously related to Go. _aha_ [m.] "mind, understanding" < \*ahan-, Go. _ahma_ [m.] "spirit" < \*ahman- and PGmc. [\*ahtō-"attention"](#ahto) (q.v.), but it lacks clear extra-Gm. cognates. The connections with [\*augōn- "eye"](#augon) < \*h₃ekʷ- (Osthoff 1910: 175) and Gr. _ὄκνος_ [m.] "hesitation, shrinking" (Pokorny IEW: 774) do not convince, at any rate. Theoretically, the verb could be identical to ON _æja_ [wk.] "to graze" < \*ahjan- (through a meaning "to ruminate"), but it is preferable, in my view, to reconstruct this verb as [\*aiwjan- "graze"](#aiwjan) (q.v.) \
 REF: [EDPG]\: 6
 
@@ -257,7 +268,8 @@ Cf. [\*ahslō- "shoulder"](#ahslo) and the diminutive ON _ǫxull_, Far. _aksil_,
 REF: [EDPG]\: 6
 
 ### <a id="ahtau">\*ahtau "eight" (num)</a>
-E: Go. _ahtau_ \
+E: \
+-- Go. _ahtau_ \
 N: \
 -- ON _atta_ \
 -- Far. _atta_ \
@@ -282,7 +294,8 @@ Derived from [\*ahjan- "to think"](#ahjan). Also cf. OE _eahtian_, OS _ahton_, D
 REF: [EDPG]\: 7
 
 ### <a id="ahtudan">\*ahtudan- "eighth" (num)</a>
-E: Go. _ahtuda_ \
+E: \
+-- Go. _ahtuda_ \
 N: \
 -- ON _átti_, _áttandi_, _áttundi_ \
 -- Far. _áttandi_ \
@@ -307,7 +320,8 @@ A European word, possibly of non-IE origin. The main form, PGmc. \*ahurna-, was 
 REF: [EDPG]\: 7
 
 ### <a id="ahwo">\*ahwo- [f.] "river" (n)</a>
-E: Go. _aƕa_ "body of water, river" \
+E: \
+-- Go. _aƕa_ "body of water, river" \
 N: \
 -- ON _á_ \
 -- Far. _á_ "river; stream, brook" \
@@ -348,7 +362,8 @@ A NGm. word derived from the PIE root \*h₁ei- "to go", for which see [\*idōja
 REF: [EDPG]\: 8
 
 ### <a id="aigan">\*aigan- [pp.] "to own, possess" (v)</a>
-E: Go. _aigan_, 3sg. _aih_, _aig_, 3pl. _aigun_, _aihun_ \
+E: \
+-- Go. _aigan_, 3sg. _aih_, _aig_, 3pl. _aigun_, _aihun_ \
 N: \
 -- ON _eiga_, 3sg. _á_, 3pl. _eigu_ "to own, possess; to have" \
 -- Far. _eiga_, 3sg. _eigur_, 3pl. _eiga_ "id." \
@@ -396,7 +411,8 @@ A Germanic-Greek isogloss derived from a root \*h₂eiḱ- "barb" (cf. Pokorny I
 REF: [EDPG]\: 9
 
 ### <a id="aihti">\*aihti- [f.] "property, belongings; family" (n)</a>
-E: Go. _aihts_ "property" \
+E: \
+-- Go. _aihts_ "property" \
 N: \
 -- ON _ætt_ "family" \
 -- Far. _ætt_ "lineage, descent, family" \
@@ -407,7 +423,8 @@ A ti-stem created to the root of [\*aigan- "to own"](#aigan) (q.v.). Note that t
 REF: [EDPG]\: 9
 
 ### <a id="aihtrojan">\*aihtrōjan- [wk.] "to beg" (v)</a>
-E: Go. _aihtron_ \
+E: \
+-- Go. _aihtron_ \
 Etymology uncertain: perhaps somehow derived from [\*aikan- "to appropriate"](#aikan) (q.v.). Unrelated to Gr. _οἰκτρός_ "miserable". \
 REF: [EDPG]\: 9
 
@@ -427,7 +444,8 @@ Also cf. OHG _eihhila_, G _Eichel_ [f.], Du. _eikel_ [c.] "acorn" < \*aikilon-. 
 REF: [EDPG]\: 9
 
 ### <a id="aikan">\*aikan- [st.] "to make one's own(?)" (v)</a>
-E: Go. _afaikan_ "to deny, abjure" \
+E: \
+-- Go. _afaikan_ "to deny, abjure" \
 W: \
 -- OHG _in-eihhan_ "to sacrifice; dedicate" \
 The fact that Go. _aikan_ and OHG _eihhan_ (cf. ChWdW9: 245) are reduplicated verbs, which typically have an o-grade of the root, could imply a pre-Gm. formation \*Hoig/ǵ-e-. One could then compare Latv. _aîcinât_ "to call, invite" < \*Hoig-n(e)h₂- and OIr. _éigid_ "to cry" < \*h₁eig/ǵ-e-. From the Germanic perspective, however, it is more likely that the root \*aik- continues \*aikk- (< \*Hoik-n-ˊ), and developed from the preterite-present [\*aigan- "to own"](#aigan) (q.v.) with a semantic shift "to make one's own" > "to accept" (cf. EWAhd: II, 972). This is supported by OHG _ur-eiche_ "own" < \*uz-aikja- and OHG _(gi-)eihhōn_ [wk.] "to claim", MHG _eichen_ [wk.] "to award, to dedicate" < \*aikō(ja)n- as well as MHG _eichenen_ [wk.] "to claim" < \*aiknjan- (a medio-passive factitive "to make oneself own"). Note that the comparison of OHG _eihhinōn_ with the aforementioned Latv. _aîcinât_ is deceptive anyway, because the Latvian ending -_inã_- is a conflation of PBalt. \*-nā- and \*-in- from PIE \*-neh₂- ~ \*-n̥h₂-, and cannot be equated with the element -_en_- of MHG _eichenen_. \
@@ -485,7 +503,8 @@ A compound of [\*aima- "steam, smoke"](#aima) and \*usjōn-, cf. ON _ysja_ [f.] 
 REF: [EDPG]\: 11
 
 ### <a id="aina">\*aina- "one" (num)</a>
-E: Go. _ains_ \
+E: \
+-- Go. _ains_ \
 N: \
 -- ON _einn_ \
 -- Far. _ein_ \
@@ -502,7 +521,8 @@ A West Indo-European numeral derived from an IE root \*Hoi-, for which cf. [\*ai
 REF: [EDPG]\: 11
 
 ### <a id="ainahan">\*ainahan- "single" (adj)</a>
-E: Go. _ainaha_ \
+E: \
+-- Go. _ainaha_ \
 N: \
 -- ON _einga_ (indecl) \
 W: \
@@ -513,7 +533,8 @@ Derived from [\*aina- "one"](#aina) (q.v.). \
 REF: [EDPG]\: 11
 
 ### <a id="ainalifa">\*ainalifa- "eleven" (num)</a>
-E: Go. _ainlif_ \
+E: \
+-- Go. _ainlif_ \
 N: \
 -- ON _ellifu_ \
 -- Far. _ellivu_ \
@@ -561,14 +582,16 @@ PGmc. \*airi is identical to Gr. _ἦρι_, continuing the locative of an old r/
 REF: [EDPG]\: 12
 
 ### <a id="airinon">\*airinōn- [wk.] "to run an errand" (v)</a>
-E: Go. _airinon_ "to be an emissary, to be a messenger" \
+E: \
+-- Go. _airinon_ "to be an emissary, to be a messenger" \
 N: \
 -- ON _árna_ "to intercede, to pray" \
 Derived from [\*airu- "messenger"](#airu) (q.v.). \
 REF: [EDPG]\: 12
 
 ### <a id="airiz">\*airiz "earlier" (adv)</a>
-E: Go. _airis_ \
+E: \
+-- Go. _airis_ \
 N: \
 -- ON _áðr_ "before, earlier" \
 PIE: \*h₂ei-er-is \
@@ -588,7 +611,8 @@ No certain etymology. The meaning "oar" makes connection with the verb [\*rōan-
 REF: [EDPG]\: 13
 
 ### <a id="airu">\*airu- [m.] "messenger" (n)</a>
-E: Go. _airus_ \
+E: \
+-- Go. _airus_ \
 N: \
 -- ON _árr_ "messenger, servant" \
 -- Icel. _árr_ "id." \
@@ -635,7 +659,8 @@ Possibly a compound of the root of [\*aida- "fire"](#aida) with the locational s
 REF: [EDPG]\: 14
 
 ### <a id="aisten">\*aistēn- [wk.] "to respect" (v)</a>
-E: Go. _aistan_ \
+E: \
+-- Go. _aistan_ \
 PIE: \*h₂eisd-eh₁-ie- \
 COGN: Skt. _ī́ṭṭe_ "to invoke, worship", OAv. _išasōit̰_ 3sg.pres.opt. "to implore" < \*Hisd-s- \
 A stative formation containing the root \*Heisd-, which is probably an extension of \*h₂eis- (see [\*aizō-](#aizo)), perhaps with the suffixed root \*dh₃- ("to give respect"?). PIE \*h₂eisd- is well-attested in Indo-Iranian, but the appurtenance of Gr. _αἴδομαι_ "to respect" is uncertain given the fact that the expected outcome of PIE \*h₂eisd-e- would be \*\*_αἴζομαι_. \
@@ -675,7 +700,8 @@ COGN: Formally close to OCS _jadra_ [n.pl.] "embrace, bosom". A formation derive
 REF: [EDPG]\: 14
 
 ### <a id="aitha">\*aiþa- [m.] "oath" (n)</a>
-E: Go. _aiþs_ \
+E: \
+-- Go. _aiþs_ \
 N: \
 -- ON _eiðr_ \
 -- Far. _eiður_ \
@@ -691,7 +717,8 @@ A Germanic-Celtic isogloss. Given the close formal and semantic agreement betwee
 REF: [EDPG]\: 15
 
 ### <a id="aithin">\*aiþīn- ~ \*aiþōn- [f.] "mother" (n)</a>
-E: Go. _aiþei_ \
+E: \
+-- Go. _aiþei_ \
 N: \
 -- ON _eiða_ \
 W: \
@@ -701,7 +728,8 @@ A nursery word, cf. Basq. _aita_ "father". Hardly from [\*aiþa- "oath"](#aitha)
 REF: [EDPG]\: 15
 
 ### <a id="aithja">\*aiþja- "capable of taking an oath" (adj)</a>
-E: Go. _uf-aiþeis_\* "bound by an oath" \
+E: \
+-- Go. _uf-aiþeis_\* "bound by an oath" \
 W: \
 -- OE _ǣðe_ "qualified to swear an oath" \
 The meaning of the Old English form is clearly gerundival. Usually, gerundives are created to verbs, but in this particular case, the derivational base appears to have been [\*aiþa- "oath"](#aitha). \
@@ -716,7 +744,8 @@ No certain etymology. The word is often linked to [\*aiþa- "oath"](#aitha), imp
 REF: [EDPG]\: 15
 
 ### <a id="aiwa-1">\*aiwa/ō- [m./f.] "eternity, age" (n)</a>
-E: Go. _aiws_ [m.] \
+E: \
+-- Go. _aiws_ [m.] \
 W: \
 -- OFri. _ēwe_ [f.] \
 -- OS _ēwa_ [f.] \
@@ -753,7 +782,8 @@ Usually interpreted as a causative formation to the root \*h₂eḱH- "to eat", 
 REF: [EDPG]\: 16
 
 ### <a id="aiza">\*aiza- [n.] "ore, brass" (n)</a>
-E: Go. _ais_, gen. _aizis_ "ore" \
+E: \
+-- Go. _ais_, gen. _aizis_ "ore" \
 N: \
 -- ON _eir_ "brass, copper" \
 -- Icel. _eir_ "id." \
@@ -780,7 +810,8 @@ Also cf. ON _eira_ [wk.] "to spare, forgive", Far. _eira_ [wk.] "to save, spare;
 REF: [EDPG]\: 17
 
 ### <a id="ajja">\*ajja- [n.] "egg" (n)</a>
-E: Go. Crim. _ada_ [n.pl.] \
+E: \
+-- Go. Crim. _ada_ [n.pl.] \
 N: \
 -- ON _egg_ \
 -- Far. _egg_ \
@@ -797,7 +828,8 @@ A neuter (i)o-stem directly continuing the PIE word for "egg". The word is gener
 REF: [EDPG]\: 17
 
 ### <a id="ajuki">\*ajuki- "eternal" (adj)</a>
-E: Go. _ajuk-duþs_ [f.] "eternity" \
+E: \
+-- Go. _ajuk-duþs_ [f.] "eternity" \
 W: \
 -- OE _ǣce_ "eternal" \
 PIE: \*h₂oi-u-gʷih₃- \
@@ -823,7 +855,8 @@ A strong verb, possibly related to YAv. _āzi_- "greed" < \*h₂₃eǵ-i-, which
 REF: [EDPG]\: 18
 
 ### <a id="akra-1">\*akra- [m.] "field" (n)</a>
-E: Go. _akrs_ \
+E: \
+-- Go. _akrs_ \
 N: \
 -- ON _akr_ \
 -- Far. _akur_ \
@@ -848,7 +881,8 @@ The word _aecker_ is attested only in Early Modern Dutch in a list of metal name
 REF: [EDPG]\: 18
 
 ### <a id="akrana">\*akrana- [n.] "tree fruit, acorn" (n)</a>
-E: Go. _akran_ "fruit" \
+E: \
+-- Go. _akran_ "fruit" \
 N: \
 -- ON _akarn_ "acorn" \
 -- OSw. _akarn_ "id." \
@@ -862,7 +896,8 @@ A clear Europeanism. The Germanic word appears to contain the element \*-ana- th
 REF: [EDPG]\: 18
 
 ### <a id="akwesi">\*akwesī- [f.] "axe" (n)</a>
-E: Go. _aqizi_ \
+E: \
+-- Go. _aqizi_ \
 N: \
 -- ON _øx_ \
 -- Far. _øks_ \
@@ -879,7 +914,8 @@ The formal incongruences between Germanic, Latin and Greek are suggestive of a n
 REF: [EDPG]\: 19
 
 ### <a id="alan-1">\*alan- [st.] "to grow up; to rear" (v)</a>
-E: Go. _alan_ "to grow on, feed on" \
+E: \
+-- Go. _alan_ "to grow on, feed on" \
 N: \
 -- ON _ala_ "to give birth to, nourish, support" \
 PIE: \*h₂el-e- \
@@ -925,7 +961,8 @@ The Germanic form can be reconstructed as \*albut- with the suffix for animals t
 REF: [EDPG]\: 20
 
 ### <a id="alda">\*alda- "old" (adj)</a>
-E: Go. _alþeis_ (< \*alþja-) \
+E: \
+-- Go. _alþeis_ (< \*alþja-) \
 N: \
 -- ON _ellri_ comp. "older" \
 W: \
@@ -940,7 +977,8 @@ An adjective continuing the original participle of the verb [\*alan- "to grow; t
 REF: [EDPG]\: 20
 
 ### <a id="aldi">\*aldi- [f.] "age" (n)</a>
-E: Go. _alþs_ "generation, age" \
+E: \
+-- Go. _alþs_ "generation, age" \
 N: \
 -- ON _ǫld_, pl. "mankind" \
 PIE: \*h₂el-ti- \
@@ -963,7 +1001,8 @@ An Indo-European word for "boat". \
 REF: [EDPG]\: 21
 
 ### <a id="aldra">\*aldra- [n.] "age, life(span)" (n)</a>
-E: Go. _fram-aldrs_\* "aged" \
+E: \
+-- Go. _fram-aldrs_\* "aged" \
 N: \
 -- ON _aldr_ [m.] \
 W: \
@@ -1007,7 +1046,8 @@ The Germanic verb displays _Schwebeablaut_, or, more properly, the enlarged stem
 REF: [EDPG]\: 21
 
 ### <a id="alh">\*alh- [m.] "temple" (n)</a>
-E: Go. _alhs_, dat. _alh_ \
+E: \
+-- Go. _alhs_, dat. _alh_ \
 W: \
 -- OE _ealh_ \
 PIE: \*alk- \
@@ -1016,7 +1056,8 @@ A Baltic-Germanic word with no clear IE cognates. The link with \*h₂lek"to war
 REF: [EDPG]\: 22
 
 ### <a id="alino">\*alīnō- [f.] "forearm; cubit" (n)</a>
-E: Go. _aleina_ "cubit, ell" \
+E: \
+-- Go. _aleina_ "cubit, ell" \
 N: \
 -- ON _ǫln_ \
 -- Far. _alin_ "ell" \
@@ -1051,13 +1092,15 @@ The Slavic forms all have a suffix \*-is-, which is parallel to MDu. _else_ < \*
 REF: [EDPG]\: 22
 
 ### <a id="alja">\*alja- "someone else" (pron)</a>
-E: Go. _aljis_\* \
+E: \
+-- Go. _aljis_\* \
 PIE: \*h₂el-io- \
 COGN: Identical to Arm. _ayl_ "other", Gr. _ἄλλος_ "id.", Lat. _alius_ "id.", OIr. _aile_, W _eil_ (pron) "id." \
 REF: [EDPG]\: 23
 
 ### <a id="aljan">\*aljan- [wk.] "to make grow, rear" (v)</a>
-E: Go. _aljan_\* "to make grow, fatten" \
+E: \
+-- Go. _aljan_\* "to make grow, fatten" \
 N: \
 -- Nw. dial. _elja_ [st./wk.] "to breed, rear" \
 PIE: \*h₂ol-eie- \
@@ -1086,7 +1129,8 @@ A formation apparently derived from the root \*al(l)- as continued by Sw. _al-f�
 REF: [EDPG]\: 23
 
 ### <a id="alla">\*alla- "all" (adj)</a>
-E: Go. _alls_ "all, every" \
+E: \
+-- Go. _alls_ "all, every" \
 N: \
 -- ON _allr_ "all, entire, whole" \
 W: \
@@ -1126,7 +1170,8 @@ No extra-Gm. cognates. Formally compatible with [\*amslōn- "blackbird"](#amslon
 REF: [EDPG]\: 24
 
 ### <a id="ambahta">\*ambahta- [m.] "servant" (n)</a>
-E: Go. _andbahts_ "servant, minister" \
+E: \
+-- Go. _andbahts_ "servant, minister" \
 W: \
 -- MDu. _ambacht_ \
 -- OHG _ambaht_ "servant, employee, official", MHG _ambet_, _amt_ "servant, caretaker" \
@@ -1173,7 +1218,8 @@ The Germanic word seems to have been derived from [\*ampra- "sour"](#ampra) (q.v
 REF: [EDPG]\: 25
 
 ### <a id="amsa">\*amsa- [m.] "shoulder" (n)</a>
-E: Go. _ams_\* \
+E: \
+-- Go. _ams_\* \
 N: \
 -- Nw. _ås_ "hill, ridge" \
 -- Elfd. _ą̊s_ "ridge" \
@@ -1192,7 +1238,8 @@ The alternation of Gm. \*amsl- vs. Italo-Celtic \*mesal- has been interpreted as
 REF: [EDPG]\: 25
 
 ### <a id="ana">\*ana "on(to), to, by" (prep, adv)</a>
-E: Go. _ana_ "on, at, during, in" (prep) \
+E: \
+-- Go. _ana_ "on, at, during, in" (prep) \
 N: \
 -- ON _á_ "on(to)" \
 -- Far. _á_ "on, at" \
@@ -1237,7 +1284,8 @@ Derived from [\*anan- "to breathe"](#anan) (q.v). Also cf. ON _ǫnd_ [f.] "breat
 REF: [EDPG]\: 26
 
 ### <a id="anan">\*anan- [st.] "to breathe" (v)</a>
-E: Go. _us-anan_ "to breathe out" \
+E: \
+-- Go. _us-anan_ "to breathe out" \
 PIE: \*h₂énh₁e- \
 COGN: Skt. _ániti_ "to breathe", OIr. _anaid_ "to wait" < \*h₂enh₁-; further cf. ToB _ānāsk_- "to inhale" < \*h₂nh₁ske-, Ru. _von'_ [f.] "stench" < \*h₂enh₁i- (with unexpected _v_), OIr _anál_ [f.] "breath", W _anadyl_ [f.] "id." < \*h₂enh₁tl-eh₂- \
 An originally athematic verb preserved only by Gothic, Old Irish and Sanskrit. Also cf. ON _ørendi_, _erendi_ [n.] "breathing pause" < \*uz-andja- and OE _oroð_ [n.] "breath" < \*uz-anþa-, whence OE _ēðian_ [wk.] "to breathe" < \*anþjan-. See further [\*anadan- "breath"](#anadan) and [\*unsti- "storm"](#unsti) \
@@ -1255,7 +1303,8 @@ An adverbial comparative to the root \*h₂ent- "front", for which cf. [\*andja-
 REF: [EDPG]\: 27
 
 ### <a id="andja">\*andja- [m.] "end, extreme" (n)</a>
-E: Go. _andeis_ "end, extremity" \
+E: \
+-- Go. _andeis_ "end, extremity" \
 N: \
 -- ON _endir_ "end" \
 W: \
@@ -1287,7 +1336,8 @@ A Nordic word probably derived from the PIE root \*h₁endʰ- "to go" with the h
 REF: [EDPG]\: 27
 
 ### <a id="angan">\*angan- [m.] "curve; neck" (n)</a>
-E: Go. \*_hals-agga_ "neck" \
+E: \
+-- Go. \*_hals-agga_ "neck" \
 N: \
 -- ON _angi_ "tip, jag" \
 -- Far. _angi_ "vertebral process; cog, tooth, prong" \
@@ -1339,7 +1389,8 @@ See [\*angan- "curve"](#angan), [\*anhula- "shoot"](#anhula) and [\*anhulō- "st
 REF: [EDPG]\: 28
 
 ### <a id="angwu">\*angwu- "narrow" (adj)</a>
-E: Go. _aggwus_ \
+E: \
+-- Go. _aggwus_ \
 N: \
 -- ON _øngr_ \
 W: \
@@ -1410,7 +1461,8 @@ A proterodynamic n-stem \*h₃éngʷ-n, gen. \*h₃ngʷ-én-s created to a verba
 REF: [EDPG]\: 29
 
 ### <a id="ansa">\*ansa- [m.] "beam" (n)</a>
-E: Go. _ans_ "wooden beam" \
+E: \
+-- Go. _ans_ "wooden beam" \
 N: \
 -- ON _áss_ "thick pole, beam, yard of a sail" \
 -- Far. _ásur_ "lath; axle, shaft; post" \
@@ -1434,7 +1486,8 @@ An old ieh₂-stem. \
 REF: [EDPG]\: 30
 
 ### <a id="ansti">\*ansti- [f.] "love, favor" (n)</a>
-E: Go. _ansts_ "beneficence, grace" \
+E: \
+-- Go. _ansts_ "beneficence, grace" \
 N: \
 -- ON _ást_ "love, affection" \
 -- Far. _ást_ "id." \
@@ -1460,7 +1513,8 @@ Also cf. Jordanes _anses_ (pl.) "demigods". An ancient Indo-European word ultima
 REF: [EDPG]\: 30
 
 ### <a id="anthara">\*anþara- "the other (of two), the second" (adj, num)</a>
-E: Go. _anþar_ (num) \
+E: \
+-- Go. _anþar_ (num) \
 N: \
 -- ON _annarr_ (pron, num) \
 -- Far. _annar_ (pron, num) \
@@ -1522,7 +1576,8 @@ The word has irregular comparanda in related and unrelated languages, which sugg
 REF: [EDPG]\: 31
 
 ### <a id="apla">\*apla- [m.] "apple" (n)</a>
-E: Go. Crim. _apel_ \
+E: \
+-- Go. Crim. _apel_ \
 W: \
 -- OE _æpl_, _appel_, E _apple_ \
 -- OS _appul_ \
@@ -1534,7 +1589,8 @@ The West Germanic forms point to a form \*apla- (or \*apli- in view of the plura
 REF: [EDPG]\: 31
 
 ### <a id="aran-1">\*aran- [m.] "eagle" (n)</a>
-E: Go. _ara_ \
+E: \
+-- Go. _ara_ \
 N: \
 -- ON _ari_, _ǫrn_ \
 -- Da. _ørn_ [c.] (>> Far. _ørn_ [f.]) \
@@ -1562,7 +1618,8 @@ COGN: Arm. _orb_ "orphan", OCS _rabъ_, ORu. _robъ_, SCr. _rob_ [m.] "servant, 
 REF: [EDPG]\: 32
 
 ### <a id="arbaidi">\*arbaidi- [f.] "toil, labor" (n)</a>
-E: Go. _arbaiþs_ \
+E: \
+-- Go. _arbaiþs_ \
 N: \
 -- ON _erfiði_ [n.] "trouble, toil, labor" \
 W: \
@@ -1587,7 +1644,8 @@ A Germanic-Celtic isogloss \*h₃orbʰ-io-, possibly a late juridical innovation
 REF: [EDPG]\: 33
 
 ### <a id="arbjan">\*arbjan- [m.] "heir" (n)</a>
-E: Go. _arbja_ \
+E: \
+-- Go. _arbja_ \
 W: \
 -- OE _ierfe_ \
 -- OFri. _erva_ \
@@ -1646,7 +1704,8 @@ The NWGm. forms can theoretically be derived from an \*uh₂-stem \*h₂erk-uh�
 REF: [EDPG]\: 34
 
 ### <a id="arjan">\*arjan- [st.] "to plow" (v)</a>
-E: Go. _arjan_\* [st.?] \
+E: \
+-- Go. _arjan_\* [st.?] \
 N: \
 -- ON _erja_ [wk.] \
 W: \
@@ -1659,7 +1718,8 @@ Most of the verbal forms point to an old PIE ie-present \*h₂erh₃-ie-, which 
 REF: [EDPG]\: 34
 
 ### <a id="arma-1">\*arma- [m.] "arm" (n)</a>
-E: Go. _arms_ \
+E: \
+-- Go. _arms_ \
 N: \
 -- ON _armr_ \
 W: \
@@ -1674,7 +1734,8 @@ An old ablauting m-stem: nom. \*h₂érh₂-m, gen. \*h₂rh₂-m-és. The isola
 REF: [EDPG]\: 35
 
 ### <a id="arma-2">\*arma- "miserable, pitiful, poor" (adj)</a>
-E: Go. _arms_ \
+E: \
+-- Go. _arms_ \
 N: \
 -- ON _armr_ \
 -- Far. _armur_ \
@@ -1689,7 +1750,8 @@ By comparing Hitt. _erman_- [n.] "sickness, illness", Skt _arman_- [n.] "eye-ail
 REF: [EDPG]\: 35
 
 ### <a id="arnja">\*arnja- "serious" (adj)</a>
-E: Go. _arniba_ "certain, securely" (adv) \
+E: \
+-- Go. _arniba_ "certain, securely" (adv) \
 N: \
 -- ON _ern_ "brisk, vigorous"
 COGN: Av. _arənu_- "battle" < \*Her-nu- \
@@ -1732,7 +1794,8 @@ The word can be related to PIE \*h₂er- "to fit together". Or perhaps rather to
 REF: [EDPG]\: 36
 
 ### <a id="arthra">\*arþra- [m.] "scratch plow" (n)</a>
-E: Go. _ardrs_ "plow" \
+E: \
+-- Go. _ardrs_ "plow" \
 N: \
 -- ON _arðr_ "id." \
 -- OSw. _arþer_ [n.] "id." \
@@ -1766,7 +1829,8 @@ A root noun \*arut-, possibly also to be identified in ON _ørtog_, _ertog_ [f.]
 REF: [EDPG]\: 37
 
 ### <a id="arwa">\*arwa- "ready, fast" (adj)</a>
-E: Go. _arwjo_ "ready" (adv) \
+E: \
+-- Go. _arwjo_ "ready" (adv) \
 N: \
 -- ON _ǫrr_ "quick, generous" \
 W: \
@@ -1830,7 +1894,8 @@ A European tree name. The cross-dialectal stem alternation of \*Heh₃-s- and \*
 REF: [EDPG]\: 38
 
 ### <a id="askon">\*askōn- [f.] "ashes" (n)</a>
-E: Go. _azgo_ "ashes" \
+E: \
+-- Go. _azgo_ "ashes" \
 N: \
 -- ON _aska_ "ashes" \
 W: \
@@ -1854,7 +1919,8 @@ A word with a "Boreal" distribution with representatives in both European and Tu
 REF: [EDPG]\: 39
 
 ### <a id="at">\*at "at, to" (prep)</a>
-E: Go. _at_ "at" \
+E: \
+-- Go. _at_ "at" \
 N: \
 -- ON _at_ "towards, against; at" \
 -- Far. _at_ "by, at, to, in" \
@@ -1869,7 +1935,8 @@ COGN: NPhr. _αδ_ "to, at", Lat. _ad_ "to, up to, into", Osc. _ad_-, Umb. _ař_
 REF: [EDPG]\: 39
 
 ### <a id="atiska">\*atiska- [n.(?)] "grainfield" (n)</a>
-E: Go. _atisk_ [n.(?)] \
+E: \
+-- Go. _atisk_ [n.(?)] \
 W: \
 -- MDu. _esc_ [m.] "collective field" \
 -- OHG _ezzisc_ [n.] "seed", G _Esch_ [m./n.] "seeding field" \
@@ -1900,7 +1967,8 @@ The causative to [\*etan- "eat"](#etan) (q.v.). \
 REF: [EDPG]\: 39
 
 ### <a id="attan">\*attan- [m.] "father" (n)</a>
-E: Go. _atta_ \
+E: \
+-- Go. _atta_ \
 N: \
 -- ON _atti_ \
 W: \
@@ -1933,7 +2001,8 @@ Probably related to Icel. _eðja_ [f.] "mud" < \*aþjōn- or \*adjōn- (Magnusso
 REF: [EDPG]\: 40
 
 ### <a id="athna">\*aþna- [n.] "year" (n)</a>
-E: Go. _aþn(s)_\* [m./n.] "period of the year, season" \
+E: \
+-- Go. _aþn(s)_\* [m./n.] "period of the year, season" \
 PIE: \*h₂ét-no \
 COGN: Lat. _annus_ [m.] "year", Osk. _aceneis_ gen. "id.", Umb. _acnu_ acc. "id." < PSab. \*akno- < \*h₂et-no- \
 In Lat. _annus_, the nasal geminate can be the product of assimilation of a _t_ by a following _n_, cf. Lat. _penna_ [f.] "wing, feather" < \*pet(h₂)-neh₂-. This allows for the connection with Go. _aþn(s)_\*. The accent must have been on the first syllable, because end stress would have triggered Kluge's law, giving PGmc. \*\*atta-. \
@@ -1951,7 +2020,8 @@ An adjective derived from [\*aþala-](#athala). Also cf. ON _eðli_, _øðli_ [n
 REF: [EDPG]\: 40
 
 ### <a id="auda">\*auda- [m.] "riches" (n)</a>
-E: Go. _auda-hafts_ "fortunate" \
+E: \
+-- Go. _auda-hafts_ "fortunate" \
 N: \
 -- ON _auðr_ "wealth" \
 -- Icel. _auðr_ "wealth" \
@@ -1974,7 +2044,8 @@ The original participle of a lost verb \*audan- "to grant". This verb can be com
 REF: [EDPG]\: 41
 
 ### <a id="augjan">\*augjan- [wk.] "to bring to attention" (v)</a>
-E: Go. _at-augjan_ "to show" \
+E: \
+-- Go. _at-augjan_ "to show" \
 N: \
 -- ON _eygja_ "to furnish with a loop; to look" \
 -- Nw. _øygje_ "to see" \
@@ -1985,7 +2056,8 @@ A jan-verb created to [\*augōn- "eye"](#augon). Nw. _øygne_ [wk.] "to watch" a
 REF: [EDPG]\: 41
 
 ### <a id="augon">\*augōn- [n.] "eye" (n)</a>
-E: Go. _augo_ \
+E: \
+-- Go. _augo_ \
 N: \
 -- ON _auga_ \
 -- Far. _eyga_ \
@@ -2015,7 +2087,8 @@ A jō-stem derived from [\*ahwō-](#ahwo) (q.v.). \
 REF: [EDPG]\: 41
 
 ### <a id="aukan">\*aukan- [st.] "to grow" (v)</a>
-E: Go. _aukan_ "to increase, multiply" \
+E: \
+-- Go. _aukan_ "to increase, multiply" \
 N: \
 -- ON _auka_ "id." \
 -- Far. _eyka_ [wk.] "id." \
@@ -2031,7 +2104,8 @@ An Indo-European verb. Cf. with _Schwebeablaut_ PGmc. \*wahs(j)an- < \*h₂uóg-
 REF: [EDPG]\: 42
 
 ### <a id="auke">\*auke "and; again, but" (conj, adv)</a>
-E: Go. _auk_ "furthermore, but, since" (conj) \
+E: \
+-- Go. _auk_ "furthermore, but, since" (conj) \
 N: \
 -- ON _auk_, _ok_ "besides" (adv) \
 W: \
@@ -2105,7 +2179,8 @@ The Indo-European word for "dawn" was an s-stem, viz. nom. \*h₂eus-ōs, gen. \
 REF: [EDPG]\: 43
 
 ### <a id="authja">\*auþja- "empty, void, desolate" (adj)</a>
-E: Go. _auþs_, _auþeis_ \
+E: \
+-- Go. _auþs_, _auþeis_ \
 N: \
 -- ON _auðr_ (< \*auþa-) \
 -- Far. _eyður_ \
@@ -2132,7 +2207,8 @@ Also cf. Run. _auja_ "wellness" and Go. _awi-liuþ_ "thanks". \
 REF: [EDPG]\: 43
 
 ### <a id="auzon">\*auzon- [n.] "ear" (n)</a>
-E: Go. _auso_ \
+E: \
+-- Go. _auso_ \
 N: \
 -- ON _eyra_ \
 -- Far. _oyra_ \
@@ -2168,7 +2244,8 @@ The derivation of the suffix (\*-uol-?) is obscure, however. Note that, in Old E
 REF: [EDPG]\: 44
 
 ### <a id="awan">\*awa/ōn- [m./f.] "grandparent" (n)</a>
-E: Go. _awo_ [f.] "grandmother" \
+E: \
+-- Go. _awo_ [f.] "grandmother" \
 N: \
 -- ON _ái_ [m.] "great-grandfather" \
 PIE: \*h₂euh₂-on- \
@@ -2191,7 +2268,8 @@ The original paradigm, which on the basis of Skt. _áviṣ_, gen. _ávyaḥ_ can
 REF: [EDPG]\: 45
 
 ### <a id="awidja">\*awidja- [n.] "flock of sheep" (n)</a>
-E: Go. _aweþi_ \
+E: \
+-- Go. _aweþi_ \
 W: \
 -- OE _eowde_, _eowede_ \
 -- OHG _ouwiti_, _ewiti_ \
@@ -2201,7 +2279,8 @@ A formation derived from PGmc. [\*awi- "sheep"](#awi) with the PGmc. suffix \*-d
 REF: [EDPG]\: 45
 
 ### <a id="awistra">\*awist(r)a- [n.] "sheepfold" (n)</a>
-E: Go. _awistr_ \
+E: \
+-- Go. _awistr_ \
 W: \
 -- OE _ēowestre_ [f.] \
 -- OFri. _ēstra_, _ēster_ [m./f.] "fenced place for milking" \
@@ -2220,7 +2299,8 @@ The Germanic element is usually connected to PIE \*h₃ekʷ- "eye" (see [\*augon
 REF: [EDPG]\: 45
 
 ### <a id="azani">\*azani- [f.] "harvest" (n)</a>
-E: Go. _asans_ \
+E: \
+-- Go. _asans_ \
 N: \
 -- ON _ǫnn_ \
 -- OSw. _ann_ \
@@ -2235,7 +2315,8 @@ REF: [EDPG]\: 46
 ## B
 
 ### <a id="ba">\*ba- "both" (num)</a>
-E: Go. _bai_, acc. _bans_, gen. _baddje_, [n.] _ba_ \
+E: \
+-- Go. _bai_, acc. _bans_, gen. _baddje_, [n.] _ba_ \
 N: \
 -- ON _báðir_, acc. _báða_, [f.] _báðar_, [n.] _bæði_, gen. _beggja_, dat. _báðum_ \
 -- Far. _báðir_, [f.] _báðar_, [n.] _bæði_, gen. _beggja_, dat. _báðum_ \
@@ -2252,7 +2333,8 @@ The original PGmc. paradigm was \*bai, acc. \*bans [m.], \*bōz, \*bōns [f.], \
 REF: [EDPG]\: 46
 
 ### <a id="badja">\*badja- [n.] "bed, bedding" (n)</a>
-E: Go. _badi_ "bed, pallet" \
+E: \
+-- Go. _badi_ "bed, pallet" \
 N: \
 -- ON _beðr_ [m.] "bolster, bedding" \
 -- Far. poet. _beður_ [m.] "bed" \
@@ -2288,7 +2370,8 @@ A Celtic-Germanic isogloss. \
 REF: [EDPG]\: 47
 
 ### <a id="bagma">\*bagma- [m.] "beam, tree" (n)</a>
-E: Go. _bagms_ "tree" \
+E: \
+-- Go. _bagms_ "tree" \
 N: \
 -- ON _baðmr_ \
 -- OSw. _baghn_ [n.] "tree trunk" \
@@ -2303,7 +2386,8 @@ The widely spread idea that this word continues \*baww-ma- (with \*-ww> \*-ggw- 
 REF: [EDPG]\: 47
 
 ### <a id="baidjan">\*baidjan- [wk.] "to force, demand" (v)</a>
-E: Go. _baidjan_ "to force" \
+E: \
+-- Go. _baidjan_ "to force" \
 N: \
 -- ON _beiða_ "to ask, request" \
 -- Far. _beiða_ "to request, demand; to trouble" \
@@ -2393,7 +2477,8 @@ The iterative to [\*bak(k)an- "to bake"](#bakkan) (q.v.). \
 REF: [EDPG]\: 49
 
 ### <a id="balgi">\*balgi- [m.] "skin bag" (n)</a>
-E: Go. _balgs_ "leather bag, bag made of skin" \
+E: \
+-- Go. _balgs_ "leather bag, bag made of skin" \
 N: \
 -- ON _belgr_ "skin; skin bag; bellows" \
 -- Elfd. _bōg_ "bag, skin bag" \
@@ -2450,7 +2535,8 @@ A NWGm. loanword from Lat _balteus_, pl. _baltea_ "girdle, belt". A loanword of 
 REF: [EDPG]\: 50
 
 ### <a id="baltha">\*balþ/da- "brave" (adj)</a>
-E: Go. _balþs_\* "bold, frank" \
+E: \
+-- Go. _balþs_\* "bold, frank" \
 N: \
 -- ON _ballr_ "dangerous, dire" \
 W: \
@@ -2488,7 +2574,8 @@ An a-stem derived from the strong verb [\*bindan- "bind"](#bindan) (q.v.). \
 REF: [EDPG]\: 51
 
 ### <a id="bandi">\*bandī- [f.] "bond, fetter" (n)</a>
-E: Go. _bandi_ \
+E: \
+-- Go. _bandi_ \
 W: \
 -- OE _bend_ \
 -- OFri. _be(i)nde_ \
@@ -2507,14 +2594,16 @@ The causative to [\*bindan- "bind"](#bindan) (q.v.). \
 REF: [EDPG]\: 51
 
 ### <a id="bandwjan">\*bandwjan- [wk.] "to give a sign, beckon" (v)</a>
-E: Go. _bandwjan_ \
+E: \
+-- Go. _bandwjan_ \
 N: \
 -- ON _benda_ \
 A factitive to Go. _bandwo_ [f.] "sign" < \*bʰonh₂-tueh₂-, which was created to the root of [\*bannan-](#bannan) with the tuh₂-suffix. \
 REF: [EDPG]\: 51
 
 ### <a id="banjo">\*banjō- [f.] "wound" (n)</a>
-E: Go. _banja_ \
+E: \
+-- Go. _banja_ \
 N: \
 -- ON _ben_ \
 -- Far. _ben_ "wound; cut" \
@@ -2564,7 +2653,8 @@ An o-grade intensive verb that in view of its geminate \*-nn- appears to have be
 REF: [EDPG]\: 52
 
 ### <a id="bansta">\*bans(t)a- [m.] "cowshed" (n)</a>
-E: Go. _bansts_ "barn" \
+E: \
+-- Go. _bansts_ "barn" \
 N: \
 -- ON _báss_ "stall in a cow-barn" \
 -- Far. _básur_ "id." \
@@ -2623,7 +2713,8 @@ Closely related to Far. _bark_ [n.] "tanning material; bark", Nw. _bark_ [n.] "l
 REF: [EDPG]\: 53
 
 ### <a id="barna">\*barna- [n.] "child" (n)</a>
-E: Go. _barn_ \
+E: \
+-- Go. _barn_ \
 N: \
 -- ON _barn_ \
 W: \
@@ -2669,7 +2760,8 @@ A Germanic-Slavic isogloss. \
 REF: [EDPG]\: 54
 
 ### <a id="barzda">\*barzda- [m.] "edge, brim; beard" (n)</a>
-E: Go. Crim. _bars_ \
+E: \
+-- Go. Crim. _bars_ \
 N: \
 -- ON _barð_ [n.] "brim, prow; beard" \
 -- Far. _barð_ [n.] "stern; promontory" \
@@ -2685,7 +2777,8 @@ Within Germanic, the word appears to be closely related to [\*brezda-](#brezda),
 REF: [EDPG]\: 54
 
 ### <a id="basja">\*basja- ~ \*bazja- [n.] "berry" (n)</a>
-E: Go. _basi_ \
+E: \
+-- Go. _basi_ \
 N: \
 -- ON _ber_ \
 -- Far. _ber_ \
@@ -2709,7 +2802,8 @@ Also cf. the lengthened grade form MHG _buost_ [m./n.] "rope made of bast", G Rh
 REF: [EDPG]\: 55
 
 ### <a id="batiz">\*batiz "better" (adv)</a>
-E: Go. _batis_ \
+E: \
+-- Go. _batis_ \
 N: \
 -- ON _betr_ \
 -- Far. _betur_ \
@@ -2830,7 +2924,8 @@ Although the word can straightforwardly be reconstructed as \*beura- (cf. ON _bj
 REF: [EDPG]\: 57
 
 ### <a id="bedjan">\*bedjan- [st.] "to ask, beg, pray" (v)</a>
-E: Go. _bidjan_ \
+E: \
+-- Go. _bidjan_ \
 N: \
 -- ON _biðja_ \
 -- Far. _biðja_ \
@@ -2924,7 +3019,8 @@ It is possible that Nw. _bunt_ [m.] "tufted grass (_Aira caespitosa_)" is relate
 REF: [EDPG]\: 59
 
 ### <a id="beran-1">\*beran- [st.] "to bear, carry, give birth" (v)</a>
-E: Go. _bairan_ "to bear, bring; to endure, suffer; to give birth" \
+E: \
+-- Go. _bairan_ "to bear, bring; to endure, suffer; to give birth" \
 N: \
 -- ON _bera_ "to bear, carry; to wear; to produce, yield" \
 -- Elfd. _bjärå_ "id." \
@@ -2966,7 +3062,8 @@ Also cf. Go. _bairgahei_ [f.] "mountainous area" < \*berg-ah-īn-. \
 REF: [EDPG]\: 60
 
 ### <a id="bergan">\*bergan- [st.] "to keep (safe)" (v)</a>
-E: Go. _bairgan_ "to preserve, protect, keep" \
+E: \
+-- Go. _bairgan_ "to preserve, protect, keep" \
 N: \
 -- ON _bjarga_ [wk.] "to save, help" \
 W: \
@@ -2979,7 +3076,8 @@ In view of the apparent etymological link with [\*berga- "mountain"](#berga); th
 REF: [EDPG]\: 60
 
 ### <a id="berhta">\*berhta- "bright" (adj)</a>
-E: Go. _bairhts_ "bright, clear, manifest, evident" \
+E: \
+-- Go. _bairhts_ "bright, clear, manifest, evident" \
 N: \
 -- ON _bjartr_ "bright, shining; illustrious" \
 W: \
@@ -3026,7 +3124,8 @@ A lengthened grade ō-stem derived from the strong verb [\*beran-](#beran-1) (q.
 REF: [EDPG]\: 61
 
 ### <a id="beudan">\*beudan- [st.] "to command; to offer" (v)</a>
-E: Go. _biudan_ \
+E: \
+-- Go. _biudan_ \
 N: \
 -- ON _bjóða_ "to offer; to invite" \
 -- Far. _bjóða_ "to offer; to invite; to command" \
@@ -3042,7 +3141,8 @@ A strong verb of IE origin. See also [\*buda-](#buda) and [\*budan-](#budan). \
 REF: [EDPG]\: 61
 
 ### <a id="beugan">\*beugan- ~ \*biigan- [st.] "to bow, bend" (v)</a>
-E: Go. _biugan_ \
+E: \
+-- Go. _biugan_ \
 N: \
 -- ON _bjúga_ \
 -- Far. _bogin_ "bent" \
@@ -3112,7 +3212,8 @@ A stative verb based on a PIE reduplicated perfect \*bʰe-bʰoiH- (Narten 1981: 
 REF: [EDPG]\: 63
 
 ### <a id="bidan">\*bīdan- [st.] "to wait" (v)</a>
-E: Go. _beidan_ "to await, look for" \
+E: \
+-- Go. _beidan_ "to await, look for" \
 N: \
 -- ON _bíða_ "to wait for; to suffer, undergo" \
 -- Far. _bíða_ \
@@ -3159,7 +3260,8 @@ W: \
 REF: [EDPG]\: 64
 
 ### <a id="bindan">\*bindan- [st.] "to bind" (v)</a>
-E: Go. _bindan_ \
+E: \
+-- Go. _bindan_ \
 N: \
 -- ON _binda_ \
 W: \
@@ -3205,7 +3307,8 @@ A NWGm. word for frenzying of cattle. Perhaps the same root extension of the roo
 REF: [EDPG]\: 65
 
 ### <a id="bitan-1">\*bītan- [st.] "to bite, be sharp" (v)</a>
-E: Go. _beitan_ \
+E: \
+-- Go. _beitan_ \
 N: \
 -- ON _bíta_ \
 -- Far. _bíta_ \
@@ -3303,7 +3406,8 @@ Cf. OHG _blizza_ [f.] "bluish discoloration" < \*blit-jō-. Reminiscent of [\*bl
 REF: [EDPG]\: 66
 
 ### <a id="blandan">\*blandan- [st.] "to mix, mingle" (v)</a>
-E: Go. _blandan_ (_sik_) \
+E: \
+-- Go. _blandan_ (_sik_) \
 N: \
 -- ON _blanda_ "to blend, mix" \
 W: \
@@ -3372,7 +3476,8 @@ Also cf. the frequentative OE _blǣgettan_, _blǣtan_, OHG _blāzen_, MHG _blāz
 REF: [EDPG]\: 68
 
 ### <a id="blesan">\*blēsan- [st.] "to blow" (v)</a>
-E: Go. _uf-blesan_ "to blow up" \
+E: \
+-- Go. _uf-blesan_ "to blow up" \
 N: \
 -- ON _blása_ \
 -- Far. _blása_ [st./wk.] \
@@ -3412,7 +3517,8 @@ Lat. _flāvus_ taken at face value poins to \*bʰlH-uo- or \*bʰleh₂-uo-, the 
 REF: [EDPG]\: 68
 
 ### <a id="blewwan">\*blewwan- [st.] "to beat (up), blow" (v)</a>
-E: Go. _bliggwan_ \
+E: \
+-- Go. _bliggwan_ \
 W: \
 -- E _to blow_ \
 -- MDu. _blouwen_ \
@@ -3435,7 +3541,8 @@ Also cf. ON _blíkja_ [wk.] "to shine" < \*blīkjan-, [\*blaika-](#blaika) and [
 REF: [EDPG]\: 69
 
 ### <a id="blinda">\*blinda- "blind" (adj)</a>
-E: Go. _blinds_ \
+E: \
+-- Go. _blinds_ \
 N: \
 -- ON _blindr_ \
 W: \
@@ -3448,7 +3555,8 @@ Derived from [\*blandan-](#blandan). \
 REF: [EDPG]\: 69
 
 ### <a id="blitha">\*blīþa- "mild, kind" (adj)</a>
-E: Go. _bleiþs_\* "merciful" \
+E: \
+-- Go. _bleiþs_\* "merciful" \
 N: \
 -- ON _blíðr_ "gentle, friendly; pleasant" \
 W: \
@@ -3494,7 +3602,8 @@ A verb only attested in Germanic. The laryngeal of the underlying root has been 
 REF: [EDPG]\: 69
 
 ### <a id="bloda">\*blōda- [n.] "blood" (n)</a>
-E: Go. _bloþ_ \
+E: \
+-- Go. _bloþ_ \
 N: \
 -- ON _blóð_ \
 -- Elfd. _bluoð_ \
@@ -3515,7 +3624,8 @@ A ti-stem derived from the root \*bʰleh₃-, for which see [\*blōan-](#bloan).
 REF: [EDPG]\: 70
 
 ### <a id="bloman">\*blōman- [m.] "flower" (n)</a>
-E: Go. _bloma_ \
+E: \
+-- Go. _bloma_ \
 N: \
 -- ON _blómi_ \
 -- Far. _blómi_, _blóma_ [f.] "flower, bloom" \
@@ -3529,7 +3639,8 @@ Apparently an mn-stem derived from the strong verb [\*blōan-](#bloan) (q.v.). I
 REF: [EDPG]\: 70
 
 ### <a id="blotan">\*blotan- [st.] "to sacrifice" (v)</a>
-E: Go. _blotan_ "to serve, worship" \
+E: \
+-- Go. _blotan_ "to serve, worship" \
 N: \
 -- ON _blóta_ "to worship; to sacrifice" \
 W: \
@@ -3541,7 +3652,8 @@ The traditional connection with _flamen_ [m.] "priest" (cf. Pokorny IEW: 154) is
 REF: [EDPG]\: 70
 
 ### <a id="boan">\*bōan- ~ \*būan- [st.] "to live, dwell" (v)</a>
-E: Go. _bauan_ [st./wk.] \
+E: \
+-- Go. _bauan_ [st./wk.] \
 N: \
 -- ON _búa_ "to live; to prepare, fix" \
 -- Far. _búgva_ [st./wk.] "id." \
@@ -3625,7 +3737,8 @@ A collective(?) derived from [\*bōgu- "shoulder, upper arm"](#bogu). \
 REF: [EDPG]\: 72
 
 ### <a id="boto">\*bōtō- [f.] "improvement" (n)</a>
-E: Go. _bota_ "advantage, benefit" \
+E: \
+-- Go. _bota_ "advantage, benefit" \
 N: \
 -- ON _bót_ "improvement; compensation; patch" \
 -- Far. _bót_ "id." \
@@ -3652,7 +3765,8 @@ An IE word preserved only in the Ingvaeonic area. The development of \*bragna- t
 REF: [EDPG]\: 73
 
 ### <a id="braida">\*braida- "broad" (adj)</a>
-E: Go. _braiþs_ \
+E: \
+-- Go. _braiþs_ \
 N: \
 -- ON _breiðr_ \
 -- Far. _breiður_ \
@@ -3692,7 +3806,8 @@ Usually assumed to be a loanword from Lat. _bracca_, which developed from Lat. _
 REF: [EDPG]\: 74
 
 ### <a id="brannjan">\*brannjan- [wk.] "to make burn" (v)</a>
-E: Go. _brannjan_ \
+E: \
+-- Go. _brannjan_ \
 N: \
 -- ON _brenna_ \
 W: \
@@ -3743,7 +3858,8 @@ A marginally attested verb. It has a weak conjugation in MHG, but was probably o
 REF: [EDPG]\: 74
 
 ### <a id="brekan">\*brekan- [st.] "to break" (v)</a>
-E: Go. _brikan_ \
+E: \
+-- Go. _brikan_ \
 W: \
 -- OE _brecan_, E _to break_ \
 -- OFri. _breka_ \
@@ -3857,7 +3973,8 @@ Unrelated to Messap. _βρένδον_ "deer" < \*bʰrendʰ-(?) as given by Hesy
 REF: [EDPG]\: 77
 
 ### <a id="bringan">\*bringan- [st.] "to bring" (v)</a>
-E: Go. _briggan_ [wk.] \
+E: \
+-- Go. _briggan_ [wk.] \
 W: \
 -- OE _bringan_ [wk.], E _to bring_ \
 -- OFri. _bringa_ [wk.] \
@@ -3880,7 +3997,8 @@ A Germanic-Tocharian isogloss. \
 REF: [EDPG]\: 77
 
 ### <a id="brinnan">\*brinnan- [st.] "to burn" (v)</a>
-E: Go. _brinnan_ \
+E: \
+-- Go. _brinnan_ \
 N: \
 -- ON _brinna_, _brenna_ \
 -- Far. _brenna_ \
@@ -3936,7 +4054,8 @@ Probably a _vr̥ddhi_-derivation to the adjective [\*brakka- "brackish"](#brakka
 REF: [EDPG]\: 78
 
 ### <a id="brother">\*brōþer- [m.] "brother" (n)</a>
-E: Go. _broþar_ \
+E: \
+-- Go. _broþar_ \
 N: \
 -- ON _bróðir_, pl. _brœðr_ \
 -- Far. _bróðir_, pl. _brøður_ \
@@ -3965,7 +4084,8 @@ A zero-grade root noun, perhaps originally the same word as [\*brēwō-](#brewo)
 REF: [EDPG]\: 79
 
 ### <a id="brudi">\*brūdi- [f.] "bride" (n)</a>
-E: Go. _bruþs_ \
+E: \
+-- Go. _bruþs_ \
 N: \
 -- ON _brúðr_ \
 -- Far. _brúður_ \
@@ -4007,7 +4127,8 @@ The iterative to [\*breman- ~ \*brimman-](#breman) (q.v.) \
 REF: [EDPG]\: 80
 
 ### <a id="brunjon">\*brunjōn- [f.] "breastplate" (n)</a>
-E: Go. _brunjo_ \
+E: \
+-- Go. _brunjo_ \
 N: \
 -- ON _brynja_ "coat of mail" \
 W: \
@@ -4018,7 +4139,8 @@ Suspected to be a loanword from Celtic, perhaps from a pre-form of OIr. _bruinne
 REF: [EDPG]\: 80
 
 ### <a id="brunnan">\*brunna(n)- [m.] "well, spring" (n)</a>
-E: Go. _brunna_ \
+E: \
+-- Go. _brunna_ \
 N: \
 -- ON _brunnr_ \
 W: \
@@ -4038,7 +4160,8 @@ E _brush_ < ME _brusche_ was adopted from OFr. _brosse_, _broce_, _broche_, whic
 REF: [EDPG]\: 80
 
 ### <a id="brust">\*brust- [f.] "breast, chest" (n)</a>
-E: Go. _brusts_ \
+E: \
+-- Go. _brusts_ \
 W: \
 -- OFri. _brust_, _burst_ [n.] \
 -- OS _brust_, MLG _borst_ \
@@ -4127,7 +4250,8 @@ An old hysterokinetic mn-stem nom. \*bʰudʰ-men, gen. \*bʰudʰ-mn-ós. In the 
 REF: [EDPG]\: 82
 
 ### <a id="bugan">\*bugan- [m.] "bow" (n)</a>
-E: Go. Crim. _boga_ \
+E: \
+-- Go. Crim. _boga_ \
 N: \
 -- ON _bogi_ \
 -- Elfd. _bugi_ \
@@ -4141,7 +4265,8 @@ An n-stem derived from [\*beugan- ~ \*būgan-](#beugan) (q.v.). \
 REF: [EDPG]\: 82
 
 ### <a id="bugjan">\*bugjan- [wk.] "to buy" (v)</a>
-E: Go. _bugjan_ \
+E: \
+-- Go. _bugjan_ \
 N: \
 -- ON _byggja_ "to get married; to lend out, let out" \
 W: \
@@ -4280,7 +4405,8 @@ Related to [\*bōan- ~ \*būan-](#boan) (q.v.). \
 REF: [EDPG]\: 84
 
 ### <a id="burdi">\*burdi- [f.] "birth" (n)</a>
-E: Go. _ga-baurþs_ \
+E: \
+-- Go. _ga-baurþs_ \
 N: \
 -- ON _burðr_ [m.] "birth; foetus" \
 W: \
@@ -4295,7 +4421,8 @@ A ti-stem created to the root of [\*beran-](#beran-1). \
 REF: [EDPG]\: 84
 
 ### <a id="burg">\*burg- [f.] "fortified place, town" (n)</a>
-E: Go. _baurgs_ \
+E: \
+-- Go. _baurgs_ \
 N: \
 -- ON _borg_ "town; citadel; small hill" \
 -- Far. _borg_ "castle; town" \
@@ -4318,7 +4445,8 @@ A zero-grade ie-present related to [\*bergan-](#bergan) (q.v.). Also cf. OE _byr
 REF: [EDPG]\: 85
 
 ### <a id="buri">\*buri- [m.] "son" (n)</a>
-E: Go. _baur_ \
+E: \
+-- Go. _baur_ \
 N: \
 -- ON poet. _burr_ \
 W: \
@@ -4362,7 +4490,8 @@ A denominal verb derived from \*burō-, cf. OHG _bora_ [f.] "bore", or from \*bu
 REF: [EDPG]\: 85
 
 ### <a id="burzda">\*burzda- [n.] "board" (n)</a>
-E: Go. _fotu-baurd_ "footstool" \
+E: \
+-- Go. _fotu-baurd_ "footstool" \
 N: \
 -- ON _borð_ "board, plank, table" \
 -- Far. _borð_ "id." \
