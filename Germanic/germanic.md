@@ -339,7 +339,7 @@ REF: [EDPG]\: 7
 W: \
 -- OE _āfor_ "vehement, dire, hateful" \
 -- OHG _eipar_, _eiber_, _eiver_ "harsh, rough" \
-A ra-stem adjective, possibly related to MHG _īfer_, G _Eifer_ [m.] "zeal, eagerness" < \*īfra- \
+A ra-stem adjective, possibly related to MHG _īfer_, G _Eifer_ [m.] "zeal, eagerness" < \*īfra-. \
 REF: [EDPG]\: 7
 
 ### <a id="aida">\*aida- [m.] "pyre" (n)</a>
@@ -578,7 +578,7 @@ W: \
 -- OHG _ē(r)_ "before, earlier" (adv, conj), MHG _ē(r)_ "earlier, sooner" \
 PIE: \*h₂ei-er-i \
 COGN: Av. _aiiarə_, gen. _aiiąn_ [n.] "day" < \*h₂ei-r/n-, Gr _ἦρι_ "in the morning" < \*h₂ei-er-i, Gr. _ἠέριος_ "matutinal" < \*h₂eier-io- \
-PGmc. \*airi is identical to Gr. _ἦρι_, continuing the locative of an old r/n-stem meaning "day" (or "daybreak"?), cf. Av. _aiiarə_. The e of \*ajeri was regularly raised to \*i after \*j, and triggered the merger of \*aji- with \*ai- (cf. [\*aiza- "ore"](#aiza) < PIE \*h₂ei-es-). Note that ON, Icel. _árla_, Sw. _arla_, Da. _årle_ "early" (adv) developed from _árliga_ by some sort of syncope, cf. _fastl(ig)a_ "firmly", _framarl(ig)a_ "in a forward position", _ill(ilig)a_ "badly, hideously" and _gerla_, _gǫrla_ "fully", _harðla_ "very", _varla_ "hardly" \
+PGmc. \*airi is identical to Gr. _ἦρι_, continuing the locative of an old r/n-stem meaning "day" (or "daybreak"?), cf. Av. _aiiarə_. The e of \*ajeri was regularly raised to \*i after \*j, and triggered the merger of \*aji- with \*ai- (cf. [\*aiza- "ore"](#aiza) < PIE \*h₂ei-es-). Note that ON, Icel. _árla_, Sw. _arla_, Da. _årle_ "early" (adv) developed from _árliga_ by some sort of syncope, cf. _fastl(ig)a_ "firmly", _framarl(ig)a_ "in a forward position", _ill(ilig)a_ "badly, hideously" and _gerla_, _gǫrla_ "fully", _harðla_ "very", _varla_ "hardly". \
 REF: [EDPG]\: 12
 
 ### <a id="airinon">\*airinōn- [wk.] "to run an errand" (v)</a>
@@ -869,7 +869,7 @@ W: \
 -- OHG _ackar_, G _Acker_ \
 PIE: \*h₂eǵ-ro- \
 COGN: Skt _ájra_- [m.] "field", Arm. _art_ [m.] "id.", Gr. _ἀγρός_ [m.] "id.", Lat. _ager_ [m.] "id.". \
-A PIE ro-stem to the root of [\*akan- "to drive"](#akan-1) \
+A PIE ro-stem to the root of [\*akan- "to drive"](#akan-1). \
 REF: [EDPG]\: 18
 
 ### <a id="akra-2">\*akra- [n.(?)] "some kind of metal" (n)</a>
@@ -1288,7 +1288,7 @@ E: \
 -- Go. _us-anan_ "to breathe out" \
 PIE: \*h₂énh₁e- \
 COGN: Skt. _ániti_ "to breathe", OIr. _anaid_ "to wait" < \*h₂enh₁-; further cf. ToB _ānāsk_- "to inhale" < \*h₂nh₁ske-, Ru. _von'_ [f.] "stench" < \*h₂enh₁i- (with unexpected _v_), OIr _anál_ [f.] "breath", W _anadyl_ [f.] "id." < \*h₂enh₁tl-eh₂- \
-An originally athematic verb preserved only by Gothic, Old Irish and Sanskrit. Also cf. ON _ørendi_, _erendi_ [n.] "breathing pause" < \*uz-andja- and OE _oroð_ [n.] "breath" < \*uz-anþa-, whence OE _ēðian_ [wk.] "to breathe" < \*anþjan-. See further [\*anadan- "breath"](#anadan) and [\*unsti- "storm"](#unsti) \
+An originally athematic verb preserved only by Gothic, Old Irish and Sanskrit. Also cf. ON _ørendi_, _erendi_ [n.] "breathing pause" < \*uz-andja- and OE _oroð_ [n.] "breath" < \*uz-anþa-, whence OE _ēðian_ [wk.] "to breathe" < \*anþjan-. See further [\*anadan- "breath"](#anadan) and [\*unsti- "storm"](#unsti). \
 REF: [EDPG]\: 27
 
 ### <a id="andiz">\*andiz "earlier, rather" (adv)</a>
@@ -1852,7 +1852,7 @@ W: \
 -- OHG _arawīz_, _araweiz_, G _Erbse_ \
 PIE: \*arw-īd- \
 COGN: Gr. _ὄροβος_ [m.] "bitter vetch" < \*orobo-, Lat. _ervum_ [n.] "id." < \*eruo-, Gr. _ἐρέβινθος_ [m.] "chick-pea" < \*ereb-īd- \
-In view of the irregular correspondences with Gr. _ὄροβος_ "bitter vetch" and _ἐρέβινθος_ "chick-pea" (note the Pre-Greek suffix \*-īd-), the word must have been adopted from an agricultural language that was spoken in Europe before the arrival of the Indo-Europeans. A non-Indo-European origin is supported by the fact that the word is inflected as a root noun, for which cf. [\*arut- "ore"](#arut). Note that Pre-IE \*b surfaces as \*w also in [\*baunō- "bean"](#bauno) (q.v.) \
+In view of the irregular correspondences with Gr. _ὄροβος_ "bitter vetch" and _ἐρέβινθος_ "chick-pea" (note the Pre-Greek suffix \*-īd-), the word must have been adopted from an agricultural language that was spoken in Europe before the arrival of the Indo-Europeans. A non-Indo-European origin is supported by the fact that the word is inflected as a root noun, for which cf. [\*arut- "ore"](#arut). Note that Pre-IE \*b surfaces as \*w also in [\*baunō- "bean"](#bauno) (q.v.). \
 REF: [EDPG]\: 37
 
 ### <a id="arwiz">\*arwiz- [n.] "scar" (n)</a>
@@ -2635,7 +2635,7 @@ W: \
 -- OS _bank_ \
 -- Du. _bank_ [c.] \
 -- OHG _banc_, G _Bank_. \
-Usually connected to [\*bankan- "slope, cliff"](#bankan), possibly through an intermediate meaning "elevation" \
+Usually connected to [\*bankan- "slope, cliff"](#bankan), possibly through an intermediate meaning "elevation". \
 REF: [EDPG]\: 51
 
 ### <a id="bannan">\*bannan- [st.] "to command, summon" (v)</a>
@@ -2666,7 +2666,7 @@ W: \
 -- MHG _banse_ [m./f.] "shelter, lean-to", G _Banse_ [m./f.] "id." \
 PIE: \*bʰondʰ-sth₂-o- \
 COGN: To Lith. _banda_ [f.] "cattle" < \*bʰondʰ-eh₂-? \
-The material contains evidence for two different forms, \*bansa- and \*bansta-, which may both have been derived from an element \*band- "cattle". The former simply continues \*bʰondʰ-to- with a to-suffix. The latter probably contains the st-suffix (< \*sth₂- "to stand") which is also found in e.g. OHG _ouwist_ [m.] "sheepfold" < \*awista- (see [\*awist(r)a-](#awistra)) and ON _naust_ "boathouse" < [\*naust(r)a-](#naustra). The word is unrelated to the formally identical OFri. _bōst_ "marriage" (whence _bōstigia_ [wk.] "to marry"), which was derived from the strong verb [\*bindan- "to bind"](#bindan) \
+The material contains evidence for two different forms, \*bansa- and \*bansta-, which may both have been derived from an element \*band- "cattle". The former simply continues \*bʰondʰ-to- with a to-suffix. The latter probably contains the st-suffix (< \*sth₂- "to stand") which is also found in e.g. OHG _ouwist_ [m.] "sheepfold" < \*awista- (see [\*awist(r)a-](#awistra)) and ON _naust_ "boathouse" < [\*naust(r)a-](#naustra). The word is unrelated to the formally identical OFri. _bōst_ "marriage" (whence _bōstigia_ [wk.] "to marry"), which was derived from the strong verb [\*bindan- "to bind"](#bindan). \
 REF: [EDPG]\: 52
 
 ### <a id="bariz">\*bariz- ~ \*barza- [n.] "barley" (n)</a>
@@ -3462,7 +3462,7 @@ W: \
 -- OHG _blāen_ [wk./st.], MHG _blæjen_ [wk.] (ptc. _geblæt_ / _geblān_) "to blow; to smelt", G _blähen_ [wk.] "to swell, distend" \
 PIE: \*bʰléh₁-e- \
 COGN: Lat. _flō_, _flāre_ "to blow" < \*bʰlh₁- \
-The combination of PGmc. \*blēan- < \*bʰleh₁- and Lat. _flāre_ < \*bʰlh₁- points to an originally athematic verb 3sg. \*bʰléh₁-ti, 3pl. \*bʰlh₁-énti. Related to [\*blēsan-](#blesan) \
+The combination of PGmc. \*blēan- < \*bʰleh₁- and Lat. _flāre_ < \*bʰlh₁- points to an originally athematic verb 3sg. \*bʰléh₁-ti, 3pl. \*bʰlh₁-énti. Related to [\*blēsan-](#blesan). \
 REF: [EDPG]\: 67
 
 ### <a id="blejan">\*blejan- [wk.] "to bleat" (v)</a>
@@ -3898,7 +3898,7 @@ W: \
 -- OHG _brestan_ "to burst, tear; to lack", G _bersten_ "to crack" \
 PIE: \*bʰrést-e\
 COGN: To OIr. _brissid_ "to break; to defeat"?
-A strong verb to an obscure Pre-Gm. root \*bʰrest-. Also cf. the inchoative Elfd. _brussn_ [wk.] "to break" < \*brustnan- and the derived u-stem \*brustu- \
+A strong verb to an obscure Pre-Gm. root \*bʰrest-. Also cf. the inchoative Elfd. _brussn_ [wk.] "to break" < \*brustnan- and the derived u-stem \*brustu-. \
 REF: [EDPG]\: 75
 
 ### <a id="breusta">\*breusta- [n.] "breast, chest" (n)</a>
@@ -4123,7 +4123,7 @@ W: \
 -- Du. _brommen_ \
 -- MHG _brummen_, G _brummen_ \
 PIE: \*bʰrm-néh₂- \
-The iterative to [\*breman- ~ \*brimman-](#breman) (q.v.) \
+The iterative to [\*breman- ~ \*brimman-](#breman) (q.v.). \
 REF: [EDPG]\: 80
 
 ### <a id="brunjon">\*brunjōn- [f.] "breastplate" (n)</a>
@@ -4174,7 +4174,7 @@ REF: [EDPG]\: 80
 ### <a id="brustu">\*brustu- [m.] "fissure" (n)</a>
 W: \
 -- OHG _brust_ "burst, rip", MHG _brust_ "id." \
-A u-stem derived from the strong verb [\*brestan- "to break, burst"](#brestan) (q.v.). Also cf. OS _brustian_ [wk.] "to bud" < \*brustjan- \
+A u-stem derived from the strong verb [\*brestan- "to break, burst"](#brestan) (q.v.). Also cf. OS _brustian_ [wk.] "to bud" < \*brustjan-. \
 REF: [EDPG]\: 80
 
 ### <a id="brutton">\*brut(t)ōn- [wk.] "to bud" (v)</a>
