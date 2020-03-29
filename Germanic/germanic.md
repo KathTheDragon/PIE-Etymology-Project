@@ -925,7 +925,15 @@ The Germanic form can be reconstructed as \*albut- with the suffix for animals t
 REF: [EDPG]\: 20
 
 ### <a id="alda">\*alda- "old" (adj)</a>
-E: Go. _alþeis_ (< \*alþja-), ON _ellri_ comp. "older", OE _eald_, E _old_, OFri. _ald_, _auld_, OS _ald_, Du. _oud_, OHG _alt_, G _alt_ \
+E: Go. _alþeis_ (< \*alþja-) \
+N: \
+-- ON _ellri_ comp. "older" \
+W: \
+-- OE _eald_, E _old_ \
+-- OFri. _ald_, _auld_ \
+-- OS _ald_ \
+-- Du. _oud_ \
+-- OHG _alt_, G _alt_ \
 PIE: \*h₂el-tó- \
 COGN: Lat. _altus_ "high", OIr. _alt_ [m.] "height, cliff" < \*h₂el-to-, W _allt_ [f.] "hill" < \*h₂el-teh₂- \
 An adjective continuing the original participle of the verb [\*alan- "to grow; to bring up"](#alan) (q.v.). It gave rise to ON _elli_, OE _ild(e)_, _ildu_, OS _eldi_, OHG _altī_, _eltī_ [f.] "(old) age" < \*alþīn-. See also [\*aldi- "age"](#aldi) and [\*aldra- "lifespan"](#aldra). \
