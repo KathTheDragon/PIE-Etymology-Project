@@ -1494,7 +1494,7 @@ N: \
 -- ON _ǫnn_, _ǫnd_ \
 PIE: \*h₂enHt-h₂- \
 COGN: Skt _ā́tā_- [f.pl.] "door-frame, door-posts", YAv. _aθā-huua_ [loc.pl.] "house" (< \*_āθā_-), Arm. _dr-and_ (\*dʰur-) "porch, threshold", Lat. _antae_ [f.pl.] "square pilasters" < \*H(e)nHt-(e)h₂-, YAv. _ąiθiiā_- [f.pl.] "door-post" < \*h₂enHt-ieh₂- \
-An ablauting h₂-stem, nom. \*h₂enHt-h₂, gen. \*h₂nHt-h₂-ós (Beekes apud De Vaan 2003: 136). The Verner alternation proves that the accentual mobility, which was originally coupled with the IE ablaut alternation, was still intact in PGmc. Since the root \*h₂enHt- is too long to be primary, it is possible to think that the word arose as a collective form of a neuter t-stem created to the preposition \*h₂enh₂ "on", viz. \*h₂enh₂-t-h₂. Another possibility is to reconstruct a compound of the same preposition with the root \*h₂et(H)- (LIV2: 273), cf. Skt. _átati_ "to go". \
+An ablauting h₂-stem, nom. \*h₂enHt-h₂, gen. \*h₂nHt-h₂-ós (Beekes apud De Vaan 2003: 136). The Verner alternation proves that the accentual mobility, which was originally coupled with the IE ablaut alternation, was still intact in PGmc. Since the root \*h₂enHt- is too long to be primary, it is possible to think that the word arose as a collective form of a neuter t-stem created to the preposition \*h₂enh₂ "on", viz. \*h₂enh₂-t-h₂. Another possibility is to reconstruct a compound of the same preposition with the root \*h₂et(H)- (LIV²: 273), cf. Skt. _átati_ "to go". \
 REF: [EDPG]\: 31
 
 ### <a id="apaldra">\*apaldra/ō- [m./f.] "apple-tree" (n)</a>
@@ -3738,7 +3738,7 @@ REF: [EDPG]\: 74
 ### <a id="brean">\*brēan- [st.] "to fume, smell" (v)</a>
 W: \
 -- MHG _bræhen_ [wk.] "to smell" \
-PIE: \*bʰreh₁-e-. \
+PIE: \*bʰreh₁-e- \
 A marginally attested verb. It has a weak conjugation in MHG, but was probably originally strong in view of the broader tendency of strong "hiatus verbs" to move to the weak jan-class. A strong conjugation is also supported by the derivatives OE _brǣþ_ [m.] "breath" < \*brēþi- and OHG _brādam_, G _Brodem_ [m.] "haze, vapor, breath" < \*brēþma-. See further [\*brōan-](#broan). \
 REF: [EDPG]\: 74
 
@@ -3835,7 +3835,7 @@ W: \
 -- MHG _briuwen_, _brūwen_, G _brauen_ [wk.] \
 PIE: \*bʰréuh₁-e- \
 COGN: Gr. Hsch. _ἀπ-έφρυσεν_ aor. "brewed" < \*bʰruh₁-s-, Lat. _de-frū̆tum_ [n.] "must" < \*-bʰruh₁-to- \
-A strong verb to the PIE root \*bʰreuh₁- "to boil, brew" (cf. LIV2: 96). The weak verb ON, Icel., Elfd. _brugga_ appears to continue a secondary iterative \*bruwwōn-. See also [\*brauda-](#brauda), [\*brunnan-](#brunnan) and [\*beura-](#beura). \
+A strong verb to the PIE root \*bʰreuh₁- "to boil, brew" (cf. LIV²: 96). The weak verb ON, Icel., Elfd. _brugga_ appears to continue a secondary iterative \*bruwwōn-. See also [\*brauda-](#brauda), [\*brunnan-](#brunnan) and [\*beura-](#beura). \
 REF: [EDPG]\: 76
 
 ### <a id="brezda">\*brezda- [n.] "side, edge; board" (n)</a>
