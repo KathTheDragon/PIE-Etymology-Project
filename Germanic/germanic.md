@@ -3131,7 +3131,8 @@ REF: [EDPG]\: 63
 ### <a id="bijen">\*bi(j)ēn- [wk.] "to hit" (v)</a>
 N: \
 -- Icel. _bjá_ "to fight, struggle" \
-PIE: \*bhiH-eh₁-ie- \*OIr. _benaid_ "to strike, hit", MW _kymynu_ "to hit, cut down", MBret. _benaff_ "to cut" < \*bʰiH-neh₂-, OCS _biti_, Ru. _bit'_ (_b'ju_) "to beat", SCr. _bȉti_ "to beat, kill", Ru. _bítva_, SCr. _bȉtva_ [f.] "battle" < \*bʰiH-tueh₂-, OCS _uboi_ [m.] "murder", Ru. _boj_ [m.] "battle, fight, beating", SCr. _bȏj_ [m.] "battle, war" < \*bʰoiH-o- \
+PIE: \*bhiH-eh₁-ie- \
+COGN: OIr. _benaid_ "to strike, hit", MW _kymynu_ "to hit, cut down", MBret. _benaff_ "to cut" < \*bʰiH-neh₂-, OCS _biti_, Ru. _bit'_ (_b'ju_) "to beat", SCr. _bȉti_ "to beat, kill", Ru. _bítva_, SCr. _bȉtva_ [f.] "battle" < \*bʰiH-tueh₂-, OCS _uboi_ [m.] "murder", Ru. _boj_ [m.] "battle, fight, beating", SCr. _bȏj_ [m.] "battle, war" < \*bʰoiH-o- \
 I reconstruct Icel. _bja_ as \*bi(j)ēn- in view of the similar development of PGmc. [\*fi(j)ēn-](#fijen) (q.v.) to ON _fjá_ "to hate". This reconstruction enables us to derive the verb from the PIE root \*bʰeiH- "to hit". The derivation from \*bewōn- (Magnusson 1989: 58) is less attractive. \
 REF: [EDPG]\: 64
 
