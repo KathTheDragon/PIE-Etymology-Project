@@ -595,7 +595,7 @@ E: \
 N: \
 -- ON _áðr_ "before, earlier" \
 PIE: \*h₂ei-er-is \
-An adverbial comparative often derived from \*_árðr_ < \*air-þera- (see \*airi) with dissimilation of the first _r_ after the monophthongization of \*ai to _á_ (thus Torp 1909: 3). Or should we rather assume dissimilation of \*āriʀ to \*āðiʀ (before the syncope of i, but after the monophthongization of \*ai to \*ā)? If so, the Old Norse form must originally have been identical to Go. _airis_ < \*air-iz. For similar dissimilations, cf. Go. _izwis_ obi.du. "you" vs. ON _yðr_ < PN \*iðwiʀ < \*iʀwiʀ and Icel. hleði < \*hloʀi < \*hluzan-, for which see [\*hluza- "listening"](#hluza). The traditional connection with [\*ēdra- "quick"](#edra) seems less attractive. \
+An adverbial comparative often derived from \*_árðr_ < \*air-þera- (see \*airi) with dissimilation of the first _r_ after the monophthongization of \*ai to _á_ (thus Torp 1909: 3). Or should we rather assume dissimilation of \*āriʀ to \*āðiʀ (before the syncope of i, but after the monophthongization of \*ai to \*ā)? If so, the Old Norse form must originally have been identical to Go. _airis_ < \*air-iz. For similar dissimilations, cf. Go. _izwis_ obl.du. "you" vs. ON _yðr_ < PN \*iðwiʀ < \*iʀwiʀ and Icel. hleði < \*hloʀi < \*hluzan-, for which see [\*hluza- "listening"](#hluza). The traditional connection with [\*ēdra- "quick"](#edra) seems less attractive. \
 REF: [EDPG]\: 12
 
 ### <a id="airo">\*airō- [f.] "oar" (n)</a>
@@ -2986,7 +2986,7 @@ W: \
 -- OE _bellan_ "to bellow, roar, bark" \
 -- MDu. _bellen_ [wk.] "to bark" \
 -- OHG _bellan_ "to bark, resound", MHG _bellen_ "to bark", G _bellen_ [wk.] "id." \
-A strong verb that in view of the double l appears to have been back-formed from the pertaining iterative [\*bullōn-](#bullon) (q.v.) < \*bʰlh₁-néh₂- (there is consequently no need to assume gemination by the laryngeal as per Luhr 1976: 77). The original present is represented by [\*blējan- "to bleat"](#blejan) (q.v.) < \*bʰleh₁-ie-. \
+A strong verb that in view of the double l appears to have been back-formed from the pertaining iterative [\*bullōn-](#bullon) (q.v.) < \*bʰlh₁-néh₂- (there is consequently no need to assume gemination by the laryngeal as per Lühr 1976: 77). The original present is represented by [\*blējan- "to bleat"](#blejan) (q.v.) < \*bʰleh₁-ie-. \
 REF: [EDPG]\: 58
 
 ### <a id="bellon">\*bellōn- [f.] "knoll(?)" (n)</a>
@@ -4150,7 +4150,7 @@ W: \
 -- OHG _brunno_, G _Brunnen_ \
 PIE: \*bʰreh₁u-r/n- \
 COGN: Gr. _φρέαρ_, -_ατος_ [n.] "well", Arm. _aɫbewr_, _aɫbiwr_, gen. _aɫber_ "fountain, spring" < \*bʰréh₁u-r, \*bʰrh₁u-n(t)-ós \
-An n-stem continuing a PIE heteroclitic nom. \*bʰréh₁u-r-, gen. \*bʰrh₁u-én-s / \*bʰrh₁u-n-ós. The second genitive is postulated on the basis of the PGmc. root \*brun-, which developed from \*bʰruh₁-n-ós by Dybo's law of pretonic shortening. The geminated root \*brunn- may have arisen by the generalization of the obi. stem \*brun- and the subsequent addition of a secondary n-suffix. See also [\*brewwan-](#brewwan). \
+An n-stem continuing a PIE heteroclitic nom. \*bʰréh₁u-r-, gen. \*bʰrh₁u-én-s / \*bʰrh₁u-n-ós. The second genitive is postulated on the basis of the PGmc. root \*brun-, which developed from \*bʰruh₁-n-ós by Dybo's law of pretonic shortening. The geminated root \*brunn- may have arisen by the generalization of the obl. stem \*brun- and the subsequent addition of a secondary n-suffix. See also [\*brewwan-](#brewwan). \
 REF: [EDPG]\: 80
 
 ### <a id="bruska">\*bruska- [m.] "shrub" (n)</a>
