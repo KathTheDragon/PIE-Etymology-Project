@@ -4525,3 +4525,1470 @@ W: \
 PIE: \*bʰuh₂-éh₁- \
 The NGm. forms point to a jan-verb closely related to [\*bōan- ~ \*būan](#boan) (q.v.). The formation cannot be derived from \*bewwjan- (_pace_ Pokorny IEW: 146-50; Magnusson 1989: 69), as this would have given Elfd. \*\*_begga_. As a result, the verb can safely be reconstructed as \*buwwjan- or - in view of the WGm. forms - perhaps rather as a stative \*buwwēn- < \*bʰh₂u-éh₁-. Note that the formation may have gone through an intermediate stage \*būwḗ-. which by 1) Dybo's law and 2) Holtzmann's law would have regularly produced \*buwwēn- \
 REF: [EDPG]\: 86
+
+## D
+
+### <a id="daban">\*daban- [st.] "to fit" (v)</a>
+E: \
+-- Go. _ga-daban_ "to happen, be suitable, be appertinent to" \
+PIE: \*dʰóbʰ-e- \
+COGN: OCS _dobrъ_ "good" < \*dʰobʰ-ro-, OCS _doba_ [f.] "opportunity" < \*dʰobʰ-eh₂-, Lith. _dabnùs_ "gracious" < \*dʰobʰ-nu-; hardly to Lat. _faber_ "craftsman" in view of the a-vocalism \
+An o-grade present to a Germanic-Balto-Slavic root \*dʰebʰ- "to fit". The appurtenance of Hitt. _tapesni_ "in the act" (Puhvel 2008: 64) is less certain. \
+REF: [EDPG]\: 86
+
+### <a id="daga">\*daga- [m.] "day" (n)</a>
+E: \
+-- Go. _dags_ \
+N: \
+-- ON _dagr_ \
+-- Far. _dagur_ \
+-- Elfd. _dag_ \
+W: \
+-- OE _dreg_, E _day_ \
+-- OFri. _dei_ \
+-- OS _dag_ \
+-- Du. _dag_ [c.] \
+-- OHG _tac_, G _Tag_ \
+PIE: \*dʰoǵʰ-o-.
+A thematic noun related to [\*dōgera- ~ \*dōgena-](#dogera) (q.v.). Also cf. the _vr̥ddhi_-adjective \*-dōga- as in Go. _fidur-dogs_ "lasting four days" and _ahtau-dogs_ "eight days old". \
+REF: [EDPG]\: 86
+
+### <a id="daiga">\*daiga- [m.] "dough" (n)</a>
+E: \
+-- Go. _daig_ \
+N: \
+-- ON _deigr_ \
+-- Far. _deiggj_ [n.] \
+-- Elfd. _dieg_ \
+W: \
+-- OE _dah_, E _dough_ \
+-- MDu. _deech_ [n.], Du. _deeg_ [n.] \
+-- OHG _teig_, G _Teig_ \
+PIE: \*dʰoiǵʰ-o- \
+COGN: ORu. _děža_ [f.] "dough trough" < \*dʰoiǵʰ-ieh₂- \
+Derived from the strong verb [\*dī̆gan-](#digan) (q.v.). Also cf. ON _deigr_, Far. poet. _deigur_, MHG _teic_, MDu. _deech_ "soft, weak" < \*daiga-. \
+REF: [EDPG]\: 87
+
+### <a id="daila">\*daila- [n.] "share, part" (n)</a>
+W: \
+-- OE _dāl_, E _dole_ \
+-- OFri. _dēl_ [m./n.] \
+-- Du. _deel_ \
+-- OHG _teil_ [m./n.], G _Teil_ [m.] \
+PIE: \*dʰ(h₁)oi-lo-(?) \
+COGN: Rues _dělъ_ [m.] "part", Ru. dial. _del_ "division, section", SCr. _dȉjel_ [m.] "part, mountain" \
+A Germanic/Balto-Slavic isogloss. Theoretically, \*daila- can be derived from \*dʰh₁-oi-lo-, i.e. a derivative of the root \*dʰeh₁- "to put", cf. Hitt. _dāi_ ~ _tianzi_ "to put" < \*dʰh₁-ói-ei, \*dʰh₁-i-enti, but the formation has no direct parallels in any other IE language. OIr. _dál_ and OW _daul_ "share, part" appear to have been adopted from OE _dāl_. Within Germanic, further cf. Go. _dails_ [f.] "part, share", OE _dǣl_ [m.] "id.", E _deal_ < \*daili- and the factitive Go. _dailjan_, ON _deila_, OE _dǣlan_, E _to deal_, OFri. _dēla_, OS _dēlian_, Du. _delen_ "to share" < \*dailjan-. \
+REF: [EDPG]\: 87
+
+### <a id="dajjan">\*dajjan- [wk.] "to suckle" (v)</a>
+E: \
+-- Go. _daddjan_ \
+N: \
+-- OSw. _dæggia_ \
+W: \
+-- OHG _taen_ \
+PIE: \*dʰh₁-oi-éie- \
+COGN: OCS _doiti_ (_dojǫ_) "to breast-feed, nurse", Ru. _doít'_ (_dojú_) "to milk", SCr. _dòjiti_ "to breast-feed, suckle, give milk" < \*dʰh₁-oi-éie- \
+Both the strong verb \*dīan- and the causative \*dajjan- point to a PIE i-present \*dʰh₁-éi-ti, \*dʰh₁-i-énti. The causative \*dʰh₁-oi-éie- developed into PGmc. \*dajjan- with a geminate -jj-. This geminate may have arisen as the result of Holtzmann's law (pretonic _Verschärfung_), but it is conceivable, too, that it arose out of an intermediate form \*dajijan- by loss of the i in the second syllable (cf. Jasanoff 1978a: 85; Rasmussen 1991: 1, 381). OHG _tāan_ "to suckle" may continue the derivationally more primitive \*dēan- < \*dʰéh₁-e-. \
+REF: [EDPG]\: 87
+
+### <a id="dala">\*dala- [m.] "valley" (n)</a>
+E: \
+-- Go. _dal(s)_ [m./n.] \
+N: \
+-- ON _dalr_ \
+-- Far. _dalur_ \
+-- Elfd. _dal_ \
+W: \
+-- OE _dæl_ [n.], E _dale_ \
+-- OS _dal_ [n.] \
+-- Du. _dal_ [n.] \
+-- OHG _tal_ [n.], G _Tal_ [n.] \
+PIE: \*dʰolh₂-o- \
+COGN: Ru. obs. _dol_ [m.] "valley; ditch", SCr. _dô_ [m.] "valley, dale" < \*dʰolh₂-o-, MW _dol_ [f.] "meadow, dale" < \*dʰolh₂-eh₂-, Gr. _θαλάμη_ "den, lair" < \*dʰlh₂-em-eh₂- \
+A European o-stem that in view of the possible connection with Gr. _θαλάμη_ can be derived from a root \*dʰelh₂-. See also [\*dōljō-](#doljo) and [\*dula-](#dula). \
+REF: [EDPG]\: 87
+
+### <a id="dampa">\*dampa- [m.] "vapor" (n)</a>
+W: \
+-- ME _damp_ "fire damp" \
+-- MDu. _damp_ "vapor, fog", Du. _damp_ [c.] "id." \
+-- MHG _tampf_, _dampf_ "id.", G _Dampf_ "id." \
+Derived from [\*dimban- ~ \*dimpan-](#dimban) (q.v.). Nw. _damb_ [n.] "dust" was created from the same verb, but retained the original consonantism. Also cf. E _damp_ "humid" < \*dampa-. \
+REF: [EDPG]\: 88
+
+### <a id="dangjan">\*dangjan- [wk.] "to beat" (v)</a>
+N: \
+-- ON _dengja_ "to beat, to hammer" \
+-- Far. _deingja_ "to beat, strike; to fling, throw; to hang about" \
+-- Elfd. _daindja_ "to hit, bear" \
+W: \
+-- OE _dencgan_ "to knock" \
+-- MHG _tengen_ "to hit, knock, hammer" \
+PIE: \*dʰongʷʰ-éie- \
+An iterative-intensive causative to [\*dingʷan-](#dingwan) (q.v.). The delabialization of the velar was triggered by the combination of a preceding round vowel and a following j-suffix (cf. [\*sagja- "man, hero"](#sagja-1) < \*sokʷH-ió-). Also cf. OHG _tangal_ [m.] "hammer" < \*dangala-. \
+REF: [EDPG]\: 88
+
+### <a id="dankon">\*dank/gōn- [wk.] "to beat" (v)</a>
+N: \
+-- Icel. _danga_ "to beat, hit" \
+-- Nw. _dakka_ "to slap" \
+-- Sw. dial. _danka_ "to hit" \
+PIE: \*dʰongʷʰ-néh₂- \
+The iterative to [\*dingʷan-](#dingwan) (q.v.). There are additional traces of a zero-grade variant \*dung/kon-, cf. Icel., Far., Nw. _dunka_ "to beat, thump, knock": the n should have been assimilated in the West Norse forms continuing \*dankon- and \*dunkon-, but may have been restored under the influence ofthe ungeminated formations [\*dingʷan-](#dingwan) and [\*dangjan-](#dangjan) (q.v.). \
+REF: [EDPG]\: 88
+
+### <a id="dappon-1">\*dapp/bōn- [wk.] "to become heavy, sink, deteriorate" (v)</a>
+N: \
+-- Nw. _dabba_ "to fade, decrease, deteriorate (esp. of sight)", _dapa_ "to fade; become downcast" \
+PIE: \*dʰobʰ-néh₂- \
+COGN: RuCS _debelyj_ "fat", Ru. _debélyj_ "plump, corpulent", SCr. _dèbeo_ "fat" < \*dʰebʰ-lo-, OCS _doblь_ "strong", Ru. _dóblij_ "valiant", Latv. _dabļš_ "strong, lush" < \*dʰobʰ-l-io- \
+An iterative to a Germanic-Balto-Slavic root \*dʰebʰ- "heavy". Also cf. Nw. _davre_ [wk.] "to decrease, to diminish" and perhaps also OHG _debben_ [wk.] "to depress" (whence OHG _tabī_ [f.] "numbness"). The iterative served as the derivational base of [\*dapra-](#dapra) (q.v.). \
+REF: [EDPG]\: 88
+
+### <a id="dappon-2">\*dapp/bōn- [wk.] "to beat" (v)</a>
+N: \
+-- Nw. _dabba_ "to beat, kick" \
+W: \
+-- ME _dabben_ "to strike", E _to dab_ \
+-- G Pal. _tapfen_, _tappen_ "to grope" \
+PIE: \*dʰh₂bʰ-néh₂- \
+COGN: Lith. _dóbti_ (_dóbiu_) "to beat, kill", Latv. _dâbt_ "to strike, beat" < \*dʰeh₂bʰ-ie- \
+An iterative 3sg. \*dappōþi, 3pl. \*dabunanþi  \*dʰh₂bʰ-néh₂-ti, \*dʰh₂bʰ-nh₂-énti to the Germanic-Baltic root \*dʰeh₂bʰ- (cf. Pokorny IEW: 233). With secondary full-grade and geminate, cf. MHG _tāpe_, Swi. (App.) _tɔɔppə_, Visp. _daappo_ [m.] "paw, hand" < \*dēbban- (Kroonen 2011a: 327). Unrelated to [\*tabjan-](#tabjan) (q.v.) \
+REF: [EDPG]\: 88
+
+### <a id="dapra">\*dapra- "heavy" (adj)</a>
+N: \
+-- ON _dapr_ "downcast, sad" \
+-- Icel. _dapur_ "sad", _sjón-dapur_ "blind" \
+-- Nw. _daper_ "shy, weak, with young" \
+W: \
+-- MLG _dapper_ "heavy" \
+-- MDu. _dapper_ "stout, strong", Du. _dapper_ "brave" \
+-- G _tapfer_ "brave, stout" \
+COGN: RuCS _debelyj_ "fat", Ru. _debélyj_ "plump, corpulent", SCr. _dèbeo_ "fat" < \*dʰebʰ-lo-, OCS _doblь_ "strong", Ru. _dóblij_ "valiant", Latv. _dabļš_ "strong, lush" < \*dʰobʰ-l-io- \
+This adjective is usually directly compared to the aforementioned forms in Slavic, but the underlying root \*dʰebʰ- can only be reconciled with PGmc. \*dapra- by assuming that it was derived from \*dapōn-, an analogical variant belonging to the iterative [\*dapp/bōn- "to become heavy"](#dappon) (q.v.) < \*dʰobʰ-néh₂-. The original meaning "heavy" split into both "depressed" and "bold". In Nordic, the root \*dap- further became associated with eyesight deterioration, cf. Icel. _depra_ [f.] "weakening eyesight" < \*daprjōn- and Icel. _depl_ [n.] "drooping of the eyes" < \*daplja-. See also [\*dōbnan-](#dobnan). \
+REF: [EDPG]\: 89
+
+### <a id="darbja">\*darbja- "hostile" (adj)</a>
+W: \
+-- OFri. _derve_ "fierce, severe" \
+-- OS _derƀi_ "powerful, hostile, bad", MLG _derve_ "bad" \
+A ja-stem adjective derived from [\*derban- "to perish"](#derban) or the pertaining causative [\*darbjan-](#darbjan) (q.v.). \
+REF: [EDPG]\: 89
+
+### <a id="darbjan">\*darbjan- [wk.] "to destroy" (v)</a>
+W: \
+-- MLG _derven_ "to shrink, wither, spoil" \
+-- MHG _ver-derben_ "to ruin, kill" \
+PIE: \*dʰorHbʰ-éie- \
+The causative of [\*derban-](#derban) (q.v.). \
+REF: [EDPG]\: 89
+
+### <a id="darjan">\*darjan- [wk.] "to hurt" (v)</a>
+W: \
+-- OE _derian_ \
+-- OFri. _dera_ \
+-- OS _derian_ \
+-- Du. _deren_ \
+-- OHG _terjen_, _terren_, MHG _teren_, _tern_ \
+PIE: \*dʰorh₃-éie- \
+COGN: Lith. _dùrti_ (_duriù_) "to stab, prick, ache", Latv. _dur̃t_ "to stab, prick" \*dʰrh₃- (with \*h₃ in view of the vocalization \*-r̥- > \*-ur-) \
+A Germanic-Baltic root Also cf. OE _daru_ [f.] "damage, injury", OHG _tara_ [f.] "injury" < \*darō- < \*dʰorh₃-eh₂-. \
+REF: [EDPG]\: 89
+
+### <a id="darran">\*darran- [m.] "hinge" (n)</a>
+N: \
+-- Nw. _darre_ "hinge; vertebra" \
+PIE: \*dʰor-on- \
+COGN: Gr. _θαιρός_ [m.] "pivot of a door, axle of a chariot" < \*dʰr-io- \
+An n-stem \*darō, \*darraz < \*dʰór-ōn, \*dʰr-n-ós. Also cf. ON _dǫrr_ [m.] "spear" < \*darru-, which continues the original acc.pl. \*darruns < \*dʰor-n-ń̥s, and - with a zero grade of the root - Icel. _dorra_ [f.] "piece of wood, stick" < \*durrōn-. Together, all these forms point to a hysterokinetic n-stem \*dʰór-ēn, gen. \*dʰr-n-ós, acc.pl. \*dʰor-n-ń̥s. This formation is likely to be related to Gr. _θαιρός_ < \*dʰr̥-io- (the alternative reconstruction \*dʰwr̥-io- is based on the uncertain connection with _θύρα_ [f.] "door" < \*dʰur-h₂-). \
+REF: [EDPG]\: 89
+
+### <a id="dauba">\*dauba- "deaf; sluggish; numb" (adj)</a>
+E: \
+-- Go. _daubs_ \
+N: \
+-- ON _daufr_ \
+-- Far. _deyvur_ \
+-- Elfd. _dov_ \
+W: \
+-- OE _dēaf_, E _deaf_ \
+-- OFri. _dāf_ \
+-- Du. _doof_ \
+-- OHG _toub_, G _taub_ \
+PIE: \*dʰoubʰ-o- \
+COGN: Gr. _τυφλός_ "blind, dark, blocked, clogged" < \*dʰubʰ-lo-, OIr. _dub_, OW _dub_, W _du_ "id." < \*dʰubʰ-u-, MIr. _dobur_ "black, unclean" < \*dʰubʰ-ro- \
+A thematic adjective related to [\*duba-](#duba) (q.v.). \
+REF: [EDPG]\: 89
+
+### <a id="dauda">\*dauda- "dead" (adj)</a>
+E: \
+-- Go. _dauþs_ \
+N: \
+-- ON _dauðr_ \
+W: \
+-- OE _dēad_, E _dead_ \
+-- OFri. _dāth_ \
+-- OS _dōd_ \
+-- Du. _dood_ \
+-- OHG _tōt_, G _tot_ \
+PIE: \*dʰou(H)-tó- \
+The original past participle of [\*daujan- "to die"](#daujan) (q.v.). \
+REF: [EDPG]\: 90
+
+### <a id="daugjan">\*daugjan- [wk.] "to endure" (v)</a>
+W: \
+-- OE _ge-dīegan_ \
+-- OS _ā-dōgian_ "to withstand" \
+PIE: \*dʰougʰ-éie- \
+Given the meaning, the verb probably represents an intensive formation rather than a causative. Related to [\*dugan-](#dugan) (q.v.). \
+REF: [EDPG]\: 90
+
+### <a id="daujan">\*daujan- [st.] "to die" (v)</a>
+N: \
+-- ON _deyja_ \
+-- Far. _doyggja_ [wk.] \
+-- Elfd. _däa_ \
+W: \
+-- OE _dīegan_, E _to die_ \
+-- OS _dōian_ [wk.] \
+-- OHG _touwen_, _tewen_ [wk.], MHG _touwen_, _tōuwen_ [wk.] \
+PIE: \*dʰouh₂/₃-ié- \
+COGN: Hitt. _tuhhuszi_ "to end" < \*dʰuh₂/₃-s-, Lat _fūnus_ [n.] "funeral" < \*dʰuh₂/₃-n-es-(?) \
+An originally strong verb \*daujan-, pret. 3sg. \*dōe (ON _dó_, Elfd. _duo_), 3pl. \*dōunþ (ON _dóu_), ptc. \*dawe/ana- (ON _dáinn_) < \*dʰou(H)-ie-. LJV2: 123 reconstructs a causative, but this formation cannot be reconciled with the strong conjugation in Nordic. I therefore start from an o-grade intensive verb with a presentic ie-suffix. Within Germanic, it is cognate with Go. _diwans_\* "mortal" < \*dewana-, possibly an old participle to an unattested strong verb \*dewan-, and further to [\*dauda- "dead"](#dauda) and [\*dauþu- "death"](dauthu) (q.v.). On the Proto-Indo-European level, the formation has been compared to the root \*dʰeu- "to run, rush", cf. Skt. _dhávate_, Gr. _θέω_ "to run" and \*dʰueh₂- "to blow, smoke, be misty", see [\*du(w)ēn-](#duwen) (cf. Seebold 1970: 148, LIV²: l.c.), but I find it preferable to assume a link with Hitt. _tuhhuszi_ "to end" < \*dʰuh₂/₃-s-. Apparently, Hittite preserved the basic meaning of the word, while in Germanic, it euphemistically became associated with dying. \
+REF: [EDPG]\: 90
+
+### <a id="dauma">\*dauma- [m.] "vapor" (n)</a>
+N: \
+-- Far. _deymur_ "strong smell" \
+W: \
+-- MDu. _doom_ "mist, haze" \
+-- OHG _tuom_ "vapor, haze, fume", MHG _tuom_ "id." \
+PIE: \*dʰouh₂-mo \
+COGN: Close to Skt. _dhūma_- [m.] "smoke, vapor", Lat _fūmus_ [m.] "smoke", Lith. _dū́mai_ [m.pl.] "id.", OCS _dymъ_ [m.] "id." < \*dʰuh₂-mo- \
+An o-grade mo-stem to the root \*dʰuh₂- "to smoke". See also [\*dauna-](#dauna) and [\*dawwa/ō-](#dawwa). \
+REF: [EDPG]\: 90
+
+### <a id="dauna">\*dauna- [m.] "smell" (n)</a>
+N: \
+-- ON _daunn_ \
+-- OSw. _døn_ [m./n.] \
+PIE: \*dʰouh₂-no- \
+A no-stem derived from the root \*dʰuh₂- "to blow, smoke, be misty", for which see [\*dauma-](#dauma) and [\*dawwa/ō-](#dawwa). Also cf. Go. _dauns_, gen. -_ais_ [f.] "id." < \*dauni- and Elfd. _dena_ [wk.] "to smell (bad)" < \*daunjan-. \
+REF: [EDPG]\: 90
+
+### <a id="daupjan">\*daupjan- [wk.] "to dip" (v)</a>
+E: \
+-- Go. _daupjan_ "immerse, baptize" \
+N: \
+-- ON _deypa_ "to dip; to baptize" \
+-- Far. _doypa_ "to baptize" \
+W: \
+-- OFri. _depa_ "id." \
+-- OS _dopian_ "id." \
+-- Du. _dopen_ "id." \
+-- OHG _toufen_ "id.", G _taufen_ "id." \
+A causative created either to the strong verb [\*diiban-](#duban) (q.v.) or - more probably - directly to the iterative [\*dupp/b6n-](#duppon) (q.v.) < \*dʰubʰ-neh₂-. See also [\*deupa-](#deupa). \
+REF: [EDPG]\: 91
+
+### <a id="dauthu">\*dauþu- [m.] "death" (n)</a>
+E: \
+-- Go. _dauþus_ \
+N: \
+-- ON _dauðr_, gen. -_ar_ \
+W: \
+-- OE _dēaþ_, E _death_ \
+-- OFri. _dāth_ \
+-- OS _dōđ_ \
+-- Du. _dood_ [c.] \
+-- OHG _tōt_, G _Tod_ \
+PIE: \*dʰóu(H)-tu- \
+A tu-stem created to [\*daujan-](#daujan) (q.v.). \
+REF: [EDPG]\: 91
+
+### <a id="dauzan">\*dauzan- [m.] "fool" (n)</a>
+W: \
+-- MLG _dōre_ \
+-- MHG _tōre_ \
+PIE: \*dʰous-on- \
+COGN: For the ablaut, cf. Lith. _daũsios_ [f.pl.] "air" < \*dʰous-ieh₂- \
+Related to [\*dwēsa-](#dwesa) (q.v.), with _Schwebeablaut_ as in Baltic. \
+REF: [EDPG]\: 91
+
+### <a id="dawen">\*dawēn- [wk.] "to marvel" (v)</a>
+N: \
+-- ON _dá_ "to admire" \
+PIE: \*dʰh̥₂u-eh₁- \
+COGN: Gr. _θαῦμα_ [n.] "wonder, astonishment" < \*dʰeh₂u-mn- (but cf. the irregular alternants _θῶμα_ and _θῶυμα_) \
+A Germanic-Greek isogloss. Also cf. ON _dá_ [n.] "trance, senseless state" < \*dawa- and Far. _dáni_ [m.] "wonder". \
+REF: [EDPG]\: 91
+
+### <a id="dawwa">\*dawwa/ō- [m./f.] "dew" (n)</a>
+N: \
+-- ON _dǫgg_ [f.] \
+-- Far. _døgg_ [f.] \
+-- Elfd. _dagg_ [f.] \
+W: \
+-- OE _dēaw_ [m.], E _dew_ \
+-- OFri. _daw_ [n.] \
+-- ODu. _dou_ [m.], Du. _dauw_ [c.] \
+-- OHG _tou_ [m./n.], G _Tau_ [m.] \
+PIE: \*dʰouh₂-o/eh₂- \
+COGN: Lith. _dujà_ [f.] "drizzle, mist" < \*dʰuh₂-ieh₂- \
+An o-stem derived from the PIE root \*dʰuh₂- "to smoke, haze", for which see [\*dauma-](#dauma) and [\*du(w)ēn-](#duwen). \
+REF: [EDPG]\: 91
+
+### <a id="dazen">\*dazēn- [wk.] "to be numbed(?)" (v)</a>
+W: \
+-- OE _darian_ "to lie motionless, be appalled", ME _daren_ "to stay in one place, remain quiet; to lurk; to be motionless, inactive; to hesitate" \
+-- MDu. _be-daren_ 'to control oneself, Du. _be-daren_ "to settle, calm down", Flem. _ver-daren_ "to be appalled" \
+A stative verb that can theoretically be related to Skt. _dhāráyati_ "to hold, support" < \*dʰor-éie- and Arm. _dadarem_ "to settle (of wind)" < \*dʰo-dʰor- (thus Pokorny IEW: 252-5). It is preferable, however, to reconstruct the verb as \*dazēn- rather than \*darēn-, and derive it from \*daza-, an adjective apparently in Verner alternation with MDu. _daes_ "foolish", Du. _daas_ "dizzy, confused, excited" < \*dasa- and ON _dasa-sk_, Nw. _dase_ [wk.] "to become weary, exhausted" (cf. E _to daze_ "to benumb, stun; to be stupefied" < \*dasōjan-). In ablaut with [\*dusēn-](#dusen).
+REF: [EDPG]\: 91
+
+### <a id="dean">\*dēan- [st.] "to suckle" (v)</a>
+W: \
+-- OHG _tāan_, _tāen_ [wk.], G Cimb. _taien_ [wk.] \
+PIE: \*dʰéh₁-e- \
+An originally strong verb to the PIE root \*dʰeh₁-. This root is more frequently found in the extension \*dʰh₁-ei-, for which cf. [\*dīan-](#dian) and [\*dajjan-](#dajjan). For a form without this extension, see [\*delō-](#delo). \
+REF: [EDPG]\: 92
+
+### <a id="dedi">\*dēdi- [f.] "deed, action" (n)</a>
+E: \
+-- Go. _ga-deþs_ \
+N: \
+-- ON _dáð_ \
+-- Far. _dáð_ \
+-- Elfd. _dåð_ \
+W: \
+-- OE _dǣd_, E _deed_ \
+-- OFri. _dēde_, WFri. _died_ [c.] \
+-- OS _dād_ \
+-- Du. _daad_ [c.] \
+-- MHG _tāt_ "deed, action, thing" \
+PIE: \*dʰeh₁-tí- \
+COGN: OCS _blago-dětь_ "good deed" < \*dʰeh₂ti-, Gr. _θέσις_ "placement", Skt. -_dhiti_- "id." < \*dʰh₁-ti- \
+A ti-stem derived from the root \*dʰeh₁-, for which see [\*dōn-](#don). \
+REF: [EDPG]\: 92
+
+### <a id="delban">\*delban- [st.] "to dig, delve" (v)</a>
+W: \
+-- OE _delfan_ \
+-- OS _bi-delƀan_ "to bury" \
+-- Du. _delven_ "to mine" \
+-- OHG _bi-telban_ "to bury", MHG _telben_, _delben_ "to dig" \
+PIE: \*dʰelbʰ-e- \
+COGN: RuCS _dъlbsti_, _dlъbsti_ "to scoop, chisel", SCr. _dúpsti_ "id." < \*dʰlbʰ-, OPru. _dalptan_ "drift punch", OCS _dlato_ [n.] "chisel", Ru. _dolotó_ [n.] "id." < \*dʰolbʰ-to-, Latv. _dal̃ba_ [f.] "pole" < \*dʰolbʰ-eh₂- \
+A European root. Also cf. MLG _delf_ [n.] "grave", OE _ge-delf_ [n.] "ditch" < \*delba- and MDu. _delve_ [f.] "ditch" < \*delbō-. \
+REF: [EDPG]\: 92
+
+### <a id="deli">\*dēli- "easily to deal with(?)" (adj)</a>
+N: \
+-- ON _dæll_ "gentle, easy to deal with" \
+-- Nw. dial. _dæl_ "easy-going, good to talk to" \
+-- Elfd. _däl_ "trustworthy" \
+A _vr̥ddhi_-gerundive without any etymology. The connection with OCS _dělo_ [n.] "work" < \*dʰeh₁-lo- and the root \*dʰeh₁- "to put, do" in general (cf. Torp 1909: 198) cannot be maintained. The Germanic material rather points to an unattested strong verb \*delan- < \*dʰél-e-. \
+REF: [EDPG]\: 92
+
+### <a id="deli">\*deli- ~ \*delja- [m.] "dill" (n)</a>
+W: \
+-- OE _dile_, _dyle_, E _dill_ \
+-- OS _dilli_ \
+-- Du. _dille_ [c.] \
+-- OHG _tilli_, MHG _tille_, _tülle_ \
+The material offers evidence for both an i-stem (OE _dile_) and a ja-stem (OS _dilli_, OHG _till1_). Perhaps the forms with rounded vowels (OE _dyle_, MHG _tiille_) can be adduced to reconstruct an additional ablauting pair \*duli- ~ \*dulja-. If so, the original paradigm probably had ablaut of the root, viz. nom. \*deliz, gen. \*duljaz < \*dʰél-i-s, \*dʰl-i-ós. \
+REF: [EDPG]\: 92
+
+### <a id="delo">\*delō- [f.] "nipple" (n)</a>
+W: \
+-- OE _delu_ \
+-- OHG _tila_ \
+PIE: \*dʰeh₁-l-éh₂- \
+COGN: Gr. _θηλή_ [f.] "breast" < \*dʰeh₁-l-eh₂- (cf. Lat _fēlō_, -_āre_ "to suck" < \*dʰeh₁-l-eh₂-ie-), OIr. _del_ "nipple" < \*dʰeh₁-l-ó- \
+A word that by pretonic shortening (Dybo's law) regularly developed from \*dʰeh₁-l-eh₂-, the exact same formation underlying Gr. _θηλή_. Also cf. Sw. dial. _del_ < \*dela-, which, in turn, is formally identical to OIr. _del_ < \*dʰeh₁-ló-. See also [\*dīan-](#dian) and [\*dajjan-](#dajjan). \
+REF: [EDPG]\: 93
+
+### <a id="denra">\*denra- [m.] "hollow hand" (n)</a>
+W: \
+-- OHG _tenar_, _tenara_ [f.], MHG _tener_ \
+PIE: \*dʰen-r- \
+COGN: YAv. _danarə_ [n.] "handful", Gr. _θέναρ_, -_αρος_ "palm of the hand" \
+One of the Indo-European words for the "palm of the hand". Also here belongs OHG _dreno_ [m.] "sole of the foot", Lomb. _treno_ "lower arm" < \*drenan-. Riecke 2004: 2, 251 calls the origin of this word uncertain, but it may have metathesized from \*dʰn-er- at an early stage. The implied paradigm would then be nom. \*dʰén-r, gen. \*dʰn-ér-s, possibly continuing an older heteroclitic \*dʰén-r, gen. \*dʰn-én-s. \
+REF: [EDPG]\: 93
+
+### <a id="derba">\*derba- "brave" (adj)</a>
+N: \
+-- ON _djarfr_ "bold, daring" \
+W: \
+-- OE _deorf_ "valiant" \
+-- OS _derƀi_ "powerful" \
+PIE: \*dʰerbʰ-o- \
+Derived from [\*derban-](#derban) (q.v.). Also cf. the factitive ON, Icel. _dirfa_ [wk.] "to make bold", Nw. _dirva-st_ [wk.] "to venture, dare" < \*derbjan-, ON _dirfð_ [f.] "boldness" < \*derbiþo- and Nw. _dirna_, _dyrna_ [wk.] "to grow strong, recover from illness" < \*derbnjan-. \
+REF: [EDPG]\: 93
+
+### <a id="derban">\*derban- [st.] "to perish" (v)</a>
+W: \
+-- OE _deorfan_ "to labor, perish" \
+-- MLG _vor-derven_ "to perish" \
+-- MDu. _be-derven_ "to be damaged; to perish", Du. _be-derven_ [wk.] "to spoil; to go bad" \
+-- MHG _ver-derben_, -_terben_ "to be killed, to die" \
+PIE: \*dʰerHbʰ-e- \
+COGN: Lith. _dìrbti_ (_dìrbu_) "to work", _dir̂bt_ "to walk fast, to toil" < \*dʰrHbʰ-, Lith. _dárbas_ [m.] "work", Latv. _dar̂bs_ [m.] "work, deed" < \*dʰorHbʰ-o- \
+A strong verb to a European root \*dʰerHbʰ-. For the semantics, cf. Gr. _κάμνω_ "to work" vs. _οἱ καμόντες_ "the dead". See also [\*derba-](#derba) and [\*darbjan-](#darbjan). \
+REF: [EDPG]\: 93
+
+### <a id="derka">\*derka- "dark" (adj)</a>
+W: \
+-- OE _deorc_, E _dark_ \
+PIE: \*dʰerg-o- \
+COGN: ToA _tärkär_, ToB _tarkär_ "cloud" < \*dʰrg-ru-, Lith. _dargà_ [f.] "bad, rainy weather" < \*dʰorg-eh₂-, Lith. _dérgti_ (_dérgiù_) "to sleet, make dirty, soil, slander, defile, spoil"; ?OIr. _derg_ "red" < \*derg-o- \
+Also cf. OHG _terchinen_, MHG _terken_ [wk.] "to obscure, soil, defile" < \*darknjan-, possibly a causative-inchoative "to make go dark". \
+REF: [EDPG]\: 93
+
+### <a id="deuhtra">\*deuhtra- [n.] "grandchild" (n)</a>
+W: \
+-- MHG _diehter_, _tiehter_, G Bav. _Tichter_ \
+PIE: \*dʰeugh₂-tro- \
+A uniquely Germanic formation that represents an unparalleled full-grade formation to \*duhter- < PIE \*dʰugh₂-ter- "daughter". It is likely to be a _vr̥ddhi_-derivation comparable to [\*swēgura- "son-in-law"](#swegura) < \*suēḱuro- (Szemerényi 1977: 52-3), the neuter gender correlating with the meaning "grandchild". Note that Lye. _kbatra_- may represent a different full grade \*dʰuegh₂-tr- (Kloekhorst 2008: 902-903) \
+REF: [EDPG]\: 93
+
+### <a id="deupa">\*deupa- "deep" (adj)</a>
+E: \
+-- Go. _diups_ \
+N: \
+-- ON _djúpr_ \
+-- Far. _djúpur_ \
+-- Elfd. _diuop_ \
+W: \
+-- OE _dēop_, E _deep_ \
+-- OFri. _diāp_ \
+-- OS _diop_ \
+-- Du. _diep_ \
+-- OHG _tiuf_, G _tief_ \
+PIE: \*dʰeubʰ-nó- \
+COGN: ToA _tpär_, ToB _tapre_ "high" < \*dʰubʰ-ro-, OIr. _domain_ "deep", W _dwfn_ "id." < \*dʰubʰ-ni-, Lith. _dubùs_ "hollow, deep, spacious" < \*dʰubʰ-u- \
+An adjective closely related to the verbal complex of [\*dūban-](#duban) and [\*daupjan-](#daupjan) (q.v.). Since this formation is derivationally parallel to e.g. \*seuka- "ill" (see [\*seukan-](#seukan)) and other full-grade adjectives created to strong verbs, it is possible to postulate a verb \*dūpan-, a variant of the aforementioned strong verb \*dūban-. Both variants can be explained as back-formations to the iterative [\*dupp/bōn-](#duppon) (q.v.). Alternatively, \*deupa- can be derived from a pre-Gm. formation \*dʰeubʰ-nó- (with Kluge's law and shortening of geminates in overlong syllables). It would then be derivationally parallel to e.g. [\*hwīta- ~ \*hwitta-](#hwita) "white". Note that the PIE root \*dʰeubʰ- occurs in metathesized form in [\*budman- ~ \*buttman- "bottom"](#budman) (q.v.). \
+REF: [EDPG]\: 94
+
+### <a id="deurja">\*deurja- "precious, valuable, expensive" (adj)</a>
+N: \
+-- ON _dýrr_ \
+-- Far. _dýrur_ \
+W: \
+-- OE _dīere_, _dēore_, E _dear_ \
+-- OFri. _diure_ \
+-- OS _diuri_ \
+-- Du. _duur_ \
+-- OHG _tiuri_, G _teuer_ \
+No accepted etymology. The adjective looks like a _vr̥ddhi_-gerundive "mournable" to MHG _be-tūren_ [wk.] "to cost, have difficulties with", G _be-dauern_ [wk.] "to regret, be sorry", ME _douren_ "to grieve, suffer" < \*dūrēn-. It has been assumed that this verb was derived from an unattested PWGm. adjective \*dūra-, a hypothetical loanword from Lat _durus_ "tough, hard". It is possible too, however, that the verb is etymologically identical to OHG _trūrēn_, MHG _trūren_, G _trauern_ [wk.] "to mourn, be sad" < \*drūren- through dissimilation of the first r. PGmc. \*deurja- may then likewise continue dissimilated \*dreurja- or even \*dreuzja-. \
+REF: [EDPG]\: 94
+
+### <a id="deuza">\*deuza- [n.] "(wild) animal" (n)</a>
+E: \
+-- Go. _dius_ \
+N: \
+-- ON _dýr_ \
+-- Far. _djór_ \
+-- Elfd. _diuor_ \
+W: \
+-- OE _dēor_, E _deer_ \
+-- OFri. _diār_, _diēr_ \
+-- OS _dior_ \
+-- ODu. _dier_, Du. _dier_ \
+-- OHG _tior_, G _Tier_ \
+PIE: \*dʰeus-ó- \
+Closely interlinked with OE _dēor_ "wild, bold, brave" < \*deuza-. The original meaning of the root was "to lose one's senses", whence "to be wild". See [\*dusēn-](#dusen). \
+REF: [EDPG]\: 94
+
+### <a id="dian">\*dīan- [st.] "to suck" (v)</a>
+N: \
+-- OSw. _dīa_ \
+W: \
+-- MHG _tīen_ [wk.] "to suck, suckle" \
+PIE: \*dʰh₁-éi-e- \
+COGN: Skt. _dháyati_ "to suck, drink mother's milk", Oss. _dæjyn_ / _dæjun_ "to suck" < \*dʰh₁-eie-, OIr. _denaid_, W _dynu_ "id." < \*dʰh₁i-neh₂- \
+An i-present to the primary PIE root \*dʰeh₁- "to suck, suckle", cf. Gr. _θῆσθαι_ "to suck", Latv. _dêt_ "id.", for which see [\*dēan-](#dean). In Germanic, the i-suffix is further found in e.g. [\*dajjan-](#dajjan) and Elfd. _dise_ [f.] "nipple" < \*disōn- < \*dʰh₁i-s-. \
+REF: [EDPG]\: 95
+
+### <a id="digan">\*dī̆gan- [st.] "to knead" (v)</a>
+E: \
+-- Go. _digan_ \
+PIE: \*dʰéiǵʰ- \
+COGN: ToA _tsekā_-, ToB _tsik_- "to form", Skt. -_degdhi_ "to smear, anoint", YAv. _pairi.daēzaiiąn_ 3pl.caus.subj. "to embank, construct", Arm. _dizanem_ "to pile up" < \*dʰéiǵʰ-, Lat _fingo_, -_ere_ "to form, fashion", OIr. _dingid_ "to knead, form; suppress" < \*dʰi-n-ǵʰ-e- \
+A strong verb that in view of the zero grade of Go. _digands_\* is likely to continue a PIE root present 3sg. \*dʰéiǵʰ-ti, 3pl. \*dʰiǵʰ-énti (cf. LIV², s.v. \*dʰeiǵʰ-). See also [\*daiga-](#daiga) and [\*dīka-](#dika). \
+REF: [EDPG]\: 95
+
+### <a id="digra">\*digra- "big" (adj)</a>
+N: \
+-- ON _digr_ "big, stout; thick; deep" \
+-- Far. _digur_ "thick, heavy, stout; rich (of milk)" \
+-- Elfd. _diger_ "thick, coarse" \
+W: \
+-- MDu. _deger_ "completely" (adv) \
+-- MHG _tigere_, _tiger_ "id." (adv) \
+An adjective apparently continuing \*dʰigʰ/ǵʰ-ro-. It may have been derived from [\*dī̆gan- "to knead"](#digan) (q.v.), which would imply a more primary meaning "well-formed". \
+REF: [EDPG]\: 95
+
+### <a id="dika">\*dīka- [n.] "dam; ditch" (n)</a>
+W: \
+-- OE _dīc_ [m.] "dike, ditch", E _dike_, _ditch_ \
+-- OFri. _dīk_ [m.] "dike; road" \
+-- OS _dīk_ [m.] "pond" \
+-- Du. _dijk_ [c.] "dam" \
+-- MHG _tīch_ [m.] "pond, swamp, channel", G _Teich_ [m.] "pond, pool" \
+PIE: \*dʰeiǵʰ-nó- \
+COGN: Gr. _τοῖχος_ [m.] "wall", Arm. _dēz_ "heap" < \*dʰóigʰ-o-, SCr. _zîd_ [m.] "stone wall", OPru. _seydis_ "wall" < \*dʰeiǵʰ- (with metathesis) \
+A formation continuing Pre-Gm. \*dīkka- < \*dʰeigʰ-nó- (with Kluge's law and geminate shortening in overlong syllables). Also cf. ON, Icel., Far. _díki_ [n.] "swamp, puddle", Elfd. _daitje_ [n.] "dike" < \*dīkja-. Related to [\*dīgan-](#digan) (q.v.). \
+REF: [EDPG]\: 95
+
+### <a id="dikan">\*dīkan- [st.] "to try(?)" (v)</a>
+W: \
+-- MLG _diken_ [wk.] "to atone" \
+-- MDu. _diken_ [st.?] "to try(?)" \
+-- MHG _tichen_ [st./wk.] "to get started; to try; to deal with; to undergo; to seep" \
+PIE: \*dʰéig-e- \
+COGN: To Gr. _θιγγάνω_ "to touch, handle, injure, harm" < \*dʰi-n-g-nH-e-? \
+No certain etymology. Within Germanic, the verb appears to be closely related to the iterative \*dik(k)ōn-, cf. Icel. _dika_ "to run", Far. _dika_ "to strike, hit, come at speed", Nw. _dika_ "to run, wander around; get moving", Sw. dial. _dikka_ "to run". The meaning of especially the Faroese verb could point to an etymological connection with Gr. _θιγγάνω_. \
+REF: [EDPG]\: 95
+
+### <a id="dimban">\*dimban- ~ \*dimpan- [st.] "to fog" (v)</a>
+N: \
+-- Nw. _demba_ "to smoke" (with unclear _e_) \
+-- Elfd. _dimba_ "id." \
+W: \
+-- MHG _dimpfen_ "to smoke, steam" \
+PIE: \*dʰembʰ-e- \
+A strong verb continuing PIE \*dʰembʰ-e-: the variant \*dimpan- is secondary, and was influenced by the iterative [\*dumpōn-](#dumpon) (q.v.). The root \*dʰembʰ- probably has a _Schwebeablaut_ variant in [\*nebala-](#nebala) < \*dʰnebʰ-ol-eh₂-. See further [\*dampa-](#dampa) and [\*dumbōn-](#dumbon). \
+REF: [EDPG]\: 96
+
+### <a id="dimma">\*dimma- "dark" (adj)</a>
+N: \
+-- ON _dimmr_ \
+W: \
+-- OE _dimm_, E _dim_ \
+-- OFri. _dim_ \
+PIE: \*dʰem(H)-nó- / \*dʰémbʰ-no- \
+COGN: To MIr. _deime_ [f.] "darkness" < \*dʰem(H)-ieh₂-? \
+An adjective with two possible etymologies. One option is to connect MIr. _deime_, and reconstruct \*dʰem(H)-nó-. The alternative is to reconstruct the adjective as \*dimbna- < \*dʰémbʰ-no- (for which cf. \*dimban- ~ \*dimpan-), something that seems to be supported by OHG _timber_ "dark" < \*dʰembʰ-ro-. This adjective can also be derived from \*dʰem(H)-ro-, however, as this form would result in PGmc. \*dimbra- as well by epenthesis. This would imply a link with MIr. _deime_ after all. \
+REF: [EDPG]\: 96
+
+### <a id="dingwan">\*dingʷan- [st.] "to beat" (v)</a>
+N: \
+-- OSw. _diunga_ \
+W: \
+-- ME _dingen_ \
+-- MHG _tingelen_ [wk.] "to knock, hammer" \
+PIE: \*dʰéngʷʰ-e- \
+A strong verb, probably of onomatopoetic origin. See also [\*dangjan-](#dangjan) and [\*dank/gōn-](#dankon). \
+REF: [EDPG]\: 96
+
+### <a id="dinkwa">\*dinkʷa- "dark" (adj)</a>
+N: \
+-- ON _døkkr_ / _dǫkkr_ \
+-- Icel. _døkkur_ \
+-- Far. _døkkur_ "dull; dim, dark" \
+-- Nw. _dokk_, _døkk_ \
+-- OSw. _dionker_, _diunker_ \
+W: \
+-- OFri. _diunk_ "dark" \
+PIE: \*dʰengʷ-o- \
+COGN: Hitt. _dankui_- ~ _dankuwai_- "black, dark" < \*dʰ(e/o)ngʷ-(o)i- \
+ON _døkkr_ may continue either \*dankwja- or \*dinkwa-. The latter option seems preferable in view of OSw. _diunker_ and OFri. _diunk_, which both show (independent) u-infection of -_i_- before labiovelars. However, PGmc. \*dankwja- should probably have given Icel. \*dekkur (with _e_ < ON _ø_, cf. Icel. _dekkja_ [wk.] "to make dark") rather than _døkkur_, a form directly pointing to ON _dǫkkr_ < \*dankwa- (Heidermanns 1993: 146). Did both forms occur side by side? See also [\*dunkla- ~ \*dunkra-](#dunkla) with a zero grade ofthe root. \
+REF: [EDPG]\: 96
+
+### <a id="disi">\*dīsi- [f.] "lady, fairy, goddess" (n)</a>
+N: \
+-- ON _dís_ "woman, girl; fairy, nymph; goddess" \
+-- Far. _dís_ "goddess, nymph" \
+-- Nw. _dis_ "goddess" \
+An etymologically problematic word. Some have compared OCS _děva_ [f.] "lady" < \*dʰh₁-oi-ueh₂-, apparently derived from the stem \*dʰh₁-oi- "to suckle" (see [\*dīan-](#dian)). This suggestion is perhaps supported by Elfd. _disa_ [wk.] "to suckle" (whence _dise_ [f.] "nipple"?), although the origin of the s-suffix remains unclear. Within Germanic, \*dīsi- can alternatively be linked to [\*edis-](#edis) (q.v.), but this would imply that the word is of non-Indo-European origin. \
+REF: [EDPG]\: 96
+
+### <a id="dobi">\*dōbi- "suited, fit" (adj)</a>
+E: \
+-- Go. _ga-dobs_ \
+W: \
+-- OE _ge-dēfe_ "fit; mild" \
+A _vr̥ddhi_-adjective to the strong verb [\*daban-](#daban) (q.v.). \
+REF: [EDPG]\: 97
+
+### <a id="dobnan">\*dōbnan- [wk.] "to become dull, numb" (v)</a>
+E: \
+-- Go. _af-dobnan_ "to become numb, hold one's peace" \
+An inchoative verb implying an unattested adjective \*dōba-. This adjective appears to contain a _vr̥ddhi_-variant of the root also found in e.g. Icel. _dafna_ [wk.] "to grow weak; to become numb". See further under [\*dapra-](#dapra). \
+REF: [EDPG]\: 97
+
+### <a id="dogera">\*dōgera- ~ \*dōgena- [n.] "a full day, twenty-four hours" (n)</a>
+N: \
+-- ON _dœgr_, _dœgn_ \
+-- Far. -_dœgur_ (cf. _javn-dœgur_ "equinox") \
+-- Nw. _døger_, _døgn_ \
+-- Elfd. _dyōngen_ \
+-- Da. _døgn_ \
+W: \
+-- OE _dōgor_, _dōger_ \
+PIE: \*dʰṓǵʰ-r/n- \
+COGN: Skt. _áhar_, gen. _áhnas_, loc. _áhan_, _áhani_ [n.] "day", OAv. _asnąm_ gen.pl. "id.", YAv. _asni_ loc.sg. "id." \
+The PIE word for "day" was a heteroclitic noun, possibly to be reconstructed as nom. \*dʰóǵʰ-r, gen. \*dʰeǵʰ-n-s, loc. \*dʰǵʰ-en-i. The Germanic forms with r, e.g. ON _dœgr_, OE _dōger_, cannot be derived from an s-stem \*dōgaz- or \*dōgiz- < \*dʰōǵʰ-e/os- (Pokorny IEW: 7), as it would be artificial to separate them from the semantically identical forms with \*n (cf. ON _dœgn_). I therefore prefer to reconstruct PGmc. \*dōger- and \*dōgen- (for the i-mutation in _dœgn_ and _dœgr_, cf. ON _fýrr_ "fire" under [\*fōr ~ \*fun-](#for)), and maintain the link with the Indo-European heteroclitic. In early Indo-lranian, this formation lost its initial dental, possibly in the locative \*dʰgʰ-en-i, where the root had a zero grade. See also [\*daga-](#daga). \
+REF: [EDPG]\: 97
+
+### <a id="dojan">\*dōjan- [wk.] "to exhaust" (v)</a>
+E: \
+-- Go. _af-dauiþs_ ptc. "exhausted" \
+PIE: \*dʰōu(H)-éie \
+COGN: OCS _daviti_ "to suffocate", Ru. _davít'_ (_davljú_) "to press (upon), suffocate, crush", SCr. _dáviti_ "to suffocate, strangle" < \*dʰōu(H)-eie- \
+The verb is often analyzed as a causative to [\*daujan- "to die"](#daujan), but it seems more likely that it was created to the root \*dʰueh₂- "to smoke" (see [\*dauma-](#dauma)) in view of the meaning of OCS _daviti_ etc. Note that the root-final \*u was regularly lost after PGmc. \*ō. \
+REF: [EDPG]\: 97
+
+### <a id="doka">\*dōka- [n.] "canvas, cloth" (n)</a>
+W: \
+-- OFri. _dōk_, _dēk_ [m.] \
+-- MDu. _doec_ [m./n.], Du. _doek_ [c./n.] \
+-- OHG _tuoh_ [m./n.], G _Tuch_ \
+A WGm. word: ON _dókr_, _dúkr_ was borrowed from Old Frisian or Old Low German in spite of the presence of the umlauted derivatives ON, Icel. _dýki_, Nw. _dyke_ "piece of cloth" < \*dūkja- and Far. _dýkja_ [wk.] "to spread a sail out to dry" < \*dūkjan-. No clear etymology: the connection with Skt. _dhvajá_- [m.] "banner" < \*dʰueg-o- is impossible in view of the implied root \*dʰueg-. Within Germanic, I compare OHG _tacka_, G _Dacke_ [f.] "mat", which may continue \*dakkōn-, PGmc. \*dōka- would then be some kind of _vr̥ddhi_-formation continuing Pre-PGmc. \*dōkka-. The umlaut of OFri. _dēch_ (Second Emsing Codex), however, points to an original root-noun. \
+REF: [EDPG]\: 97
+
+### <a id="doljo">\*dōljō- [f.] "depression" (n)</a>
+N: \
+-- ON _dœl_ "small valley" \
+W: \
+-- MDu. _doele_ "ditch" \
+-- OHG _tuolla_ "pit, hollow" \
+A lengthened grade formation related to [\*dala- "valley"](#dala) (q.v.). With the same vowel, cf. ON _dœll_ [m.] "valley-dweller" < \*dōli-. \
+REF: [EDPG]\: 98
+
+### <a id="doma">\*dōma- [m.] "verdict, evaluation" (n)</a>
+E: \
+-- Go. _doms_ "insight, esteem" \
+N: \
+-- ON _dómr_ "opinion, judgment, sentence" \
+W: \
+-- OE _dōm_ "id.", E _doom_ \
+-- OFri. _dōm_ "id." \
+-- OS _dōm_ "id." \
+-- Du. _doem_ "doom" \
+-- OHG _tuom_ [m./n.] "judgement, power, situation" \
+PIE: \*dʰóh₁-mo- \
+A mo-stem created to the PIE root \*dʰeh₁-, for which see [\*dōn-](#don) and [\*dēdi-](#dedi). It gave rise to the factitive Go. _domjan_, ON _dœma_, OE _dēman_, OFri. _dēma_, OS _ā-dōmian_, OHG _tuommen_ [wk.] "to judge, sentence" < \*dōmjan-. \
+REF: [EDPG]\: 98
+
+### <a id="don">\*dōn- [irr.] "to do" (v)</a>
+W: \
+-- OE _dōn_ [irr.], E _to do_ \
+-- OFri. _dwā_, _dwān_ [irr.], WFri. _dwaan_ [irr.] \
+-- OS _dōn_ [irr.] \
+-- Du. _doen_ [irr.] \
+-- OHG _tuon_ [irr.], G _tun_ [irr.] \
+PIE: \*dʰóh₁-e- \
+An athematic verb apparently continuing Pre-Gm. 3sg. \*dʰóh₁-ti, 3pl. \*dʰh₁-énti. The a-grade of this verb is only found in Germanic, and may be parallel to that of e.g. [\*gangan- ~ \*gungan- "to go"](#gangan) (q.v.). In the other IE languages, we find a reduplicated present with e-grade of the root, cf. Skt. _dádhāti_ "to put, place, make, produce", Gr. _τίθημι_ "to put, place", Lith. _dė́ti_ (_dedù_) "to lay, put" etc. < 3sg. \*dʰi-dʰéh₁-ti, 3pl. \*dʰé-dʰh₁-enti. See also [\*dēdi-](#dedi) and [\*dōma-](#doma). \
+REF: [EDPG]\: 98
+
+### <a id="draban">\*draban- [st.] "to hew" (v)</a>
+E: \
+-- Go. _ga-draban_ "to chip, hew out" \
+PIE: \*dʰróbʰ-e- \
+COGN: OCS _drobiti_ (_drobljǫ_) "to crumble, chop, break" < \*dʰrobʰ-eie- \
+An a-grade present to a Germanic-Slavic root, the source of the iteratives [\*drapp/bōn-](#drappon) and [\*drupp/bōn-](#druppon-1). These iteratives, in turn, gave rise to the secondary strong verb [\*drepan-](#drepan). \
+REF: [EDPG]\: 98
+
+### <a id="drabiz">\*drabiz- [n.] "dregs" (n)</a>
+N: \
+-- ON _draf_ "draff, husks" \
+-- Far. _drav_ "draff; thin beer; rain" \
+W: \
+-- ODu. _draf_ "draff", Du. _draf_ [c./n.] "id." \
+-- OHG _trebir_ [n.pl.] "id.", G _Treber_ [n.pl.] "id." \
+PIE: \*dʰrobʰ-es- \
+COGN: Gr. _τρέφω_ "to raise, nourish; to curdle, coagulate, harden" < \*dʰrebʰ-e-, Gr. _τροφός_ "nourishing" < \*dʰrobʰ-o-, Gr. _τρόφις_ "fat, big" < \*dʰrobʰ-i- \
+An s-stem nom. \*drabaz, pl. \*drabizō. ON _drafli_ as well as Gr. _τρέφω_ "to curdle" and Gr. _τροφαλίς_ [f.] "fresh cheese" point to a shared meaning "to clutter", whence "to curdle". This allows us to set up a PIE root \*dʰrebʰ-. Ir. _draoib_ "mire" is likely to be a loanword from English, cf. OE _drabbe_ "dregs". See also [\*drōbu-](#drobu). \
+REF: [EDPG]\: 98
+
+### <a id="dragan">\*dragan- [st.] "to draw, pull, carry" (v)</a>
+N: \
+-- ON _draga_ \
+-- Far. _draga_ [wk.] \
+-- Elfd. _drågå_ \
+W: \
+-- OE _dragan_, E _to draw_ \
+-- OFri. _drega_ \
+-- OS _dragan_ "to carry, bring" \
+-- Du. _dragen_ "id." \
+-- OHG _tragan_ "id.", G _tragen_ [wk.] "id." \
+PIE: \*dʰrógʰ-e- \
+An o-grade intensive verb. No clear etymology. The usually compared Gr. _τρέχω_ "to run" is more likely to be related to [\*þragjan- "to run"](#thragjan) (q.v.). The alternative _comparanda_ Ru. _doróga_ [f.] "road, journey", SCr. _drȁga_ [f.] "valley" < \*d(ʰ)org-eh₂- and Ru. _doróžiti_ "to hollow out" < \*d(ʰ)org-eie- have roots ending in a voiced (glottalized?) stop, and therefore cannot be related either. The remaining option, the link with Lat _trahō_, -_ere_ "to pull, haul", is impossible in view of the initial _t_. See further [\*durgō-](#durgo) and [\*druggōn-](#druggon). \
+REF: [EDPG]\: 99
+
+### <a id="dragjo">\*dragjō- [f.] "dregs" (n)</a>
+N: \
+-- ON _dregg_ "dregs, lees, yeast" \
+-- Far. _drøgg_ "scum, dregs, draff, sediment" \
+PIE: \*dʰragʰ-ieh₂- \
+COGN: OLith. _dragės_, OPru. _dragios_ [f.pl.] "yeast", Latv. _dradži_ [f.] "remains of cooked fat", OCS _droždьję_ [f.pl.] "yeast" < \*dʰragʰ-ieh₂-, Alb. _dra_ [m.] "sediment, dregs; sweepings, dirt" < \*dʰragʰ-o-(?) \
+A Germanic and Balto-Slavic ieh₂-stem. Lat. _fracēs_ [f.] "fragments of olive pulp left after pressing" does not belong here, and may have been back-formed to Lat. _frangō_ "to break", for which see [\*bruk(k)ōn-](#brukkon). \
+REF: [EDPG]\: 99
+
+### <a id="drahtu">\*drahtu- [m.] "pull" (n)</a>
+N: \
+-- ON _dráttr_ "pull; hesitation" \
+-- Far. _dráttur_ "pulling" \
+W: \
+-- ME _draht_ "id.", E _draught_ \
+-- MDu. _dracht_ [f.] "carrying; dress", Du. _dracht_ [c.] "id." \
+-- MHG _tracht_ [f.] "id.", G _Tracht_ [f.] "id." \
+PIE: \*dʰrogʰ-tu- \
+A tu-stem created to [\*dragan-](#dragan) (q.v.). In West Germanic, the word was remodeled into a ti-stem. \
+REF: [EDPG]\: 99
+
+### <a id="draibo">\*draibo- [f.] "driving, drift" (n)</a>
+N: \
+-- ON _dreif_ "scattering" \
+W: \
+-- OE _drāf_ "driving; flock, herd", E _drove_ \
+An ō-stem derived from [\*drīban- "to drive, be adrift"](#driban) (q.v.). Also cf. ON _dreifa_ [wk.] "to scatter, bedabble", which probably continues a causative \*draibjan- < \*dʰroibʰ-éie-. \
+REF: [EDPG]\: 99
+
+### <a id="dranga">\*dranga- [m.] "post" (n)</a>
+N: \
+-- ON _drangr_ "(detached) pillar of rock" \
+-- Far. _drangi_, -_ur_ "high projecting rock (in the sea)" \
+-- Nw. _drange_ "id." \
+PIE: \*dʰrongʰ-o- \
+COGN: Identical to Lith. _drañgas_ [m.] "pole", OCS _drǫgъ_ [m.] "id.", SCr. _drûg_ [m.] "rail"; further cf. Skt. _dŕ̥ṃhati_, Av. _drəṇjaiti_ "to fasten" < \*dʰr-n-gʰ-e- and MIr. _dringid_ "to climb" < \*dʰré-n-gʰe- \
+Related to ON _drengr_ [m.] "boy; stick", Far. _drongur_ [m.] "(unmarried) man" < \*drangi- and Nw. _drank_ [f.] "stick, post" < \*drankō- (continuing \*dʰrongʰ-n-éh₂- by Kluge's law). The verb ON _drengja_ [wk.] "to fasten" is semantically close to the aforementioned Indo-Iranian verbs, and thus indicates a PIE origin. \
+REF: [EDPG]\: 99
+
+### <a id="drankjan">\*drankjan- [wk.] "to let drink; to drench" (v)</a>
+E: \
+-- Go. _dragkjan_ \
+N: \
+-- ON _drekkja_ \
+-- Elfd. _drettja_ "to drench; to ret" \
+W: \
+-- OE _drencan_ "to drench, make drunk", E to drench \
+-- OFri. _drenza_, _drinza_ "to drown" \
+-- MDu. _drenken_ "to soak; to let drink", Du. _drenken_ "id." \
+-- OHG _trenken_ "id.", G _tränken_ "id." \
+PIE: \*dʰro-n-g-éie- \
+The causative to [\*drinkan-](#drinkan) (q.v.). \
+REF: [EDPG]\: 100
+
+### <a id="drappon">\*drapp/bōn- [wk.] "to hit" (v)</a>
+N: \
+-- Nw. _drabba_ "to give a blow" \
+-- OSw. _drabba_ "to hit, meet" \
+-- ODa. _drabe_ "to kill" \
+PIE: \*dʰrobʰ-neh₂- \
+An o-grade iterative to [\*draban-](#draban) (q.v.). \
+REF: [EDPG]\: 100
+
+### <a id="drauga">\*drauga- [m.] "ghost" (n)</a>
+N: \
+-- ON _draugr_ \
+-- Far. poet. _dreygur_ "corpse; ghost, apparition" \
+PIE: \*dʰrougʰ-o- \
+COGN: MIr. _aur-ddrach_ "ghost" < \*dʰrougʰ-o-, YAv. _draoɣa_- [m.] "lie", OP _drauga_- [m.] "lie, treason, felony", MP _drō_ "lie, deceit" < \*dʰrougʰ-o- \
+Related to [\*dreugan-](#dreugan) (q.v.). \
+REF: [EDPG]\: 100
+
+### <a id="draugja">\*draugja- ~ \*drūgja- ~ \*drukknu- "dry" (adj)</a>
+W: \
+-- OE _drȳge_, E _dry_ \
+-- OFri. _drūch_, WFri. _droech_, EFri. _druuch_, NFri. _druuge_ \
+-- OS _drukno_, _drokno_, MLG _drȫge_ "dry, infertile" \
+-- MDu. _droeghe_ "id.", Du. _droog_ "id." \
+-- OHG _trockan_, _truckan_ "id.", G _trocken_ "id." \
+COGN: Perhaps related to to Skt. _druhila_- "rough" < \*dʰrugʰ- \
+An adjective whose PGmc. reconstruction is problematic because of the co-occurrence of at least four different formations, i.e. 1) \*drūgja- (OE _drȳge_); 2) \*drūga- (OFri. _drūch_); 3) \*draugja- (MDu. _droge_); and 4) \*drukkna- (OS _drocno_, OHG _trockan_). The correlation between the different formations is unclear. The proto-form \*drukkna- contains a geminated root \*drukk- from \*dʰrugʰ-n-, and in view of the alternating forms ending in \*g, Lilhr 1988: 336-7 posited an n-stem adjective nom. \*drugō, gen. \*drukkaz < \*dʰrugʰ-ōn, \*dʰrugʰ-n-ós. The ablaut of \*drūgja- and \*draugja- still remains unexplained, however. For the long vowel of OE _drȳge_, also cf. OE _drūgian_ [wk.] "to be dry" and OE _drūgoð_ [m.] "drought" < \*drūgōþa-. \
+REF: [EDPG]\: 100
+
+### <a id="drauma">\*drauma- [m.] "dream" (n)</a>
+N: \
+-- ON _draumr_ \
+-- Far. _dreymur_ \
+W: \
+-- OE _drēam_, E _dream_ \
+-- OFri. _drām_ \
+-- OS _drōm_ \
+-- Du. _droom_ [c.] \
+-- OHG _troum_, G _Traum_ \
+PIE: \*dʰrougʰ-mo- \
+Continuing \*draugma-, a mo-stem derived from the strong verb [\*dreugan-](#dreugan) (q.v.). The noun gave rise to the oblique subject factitive \*draumjan- "to dream", cf. ON _dreyma_, OE _drīeman_, Du. _dromen_, G _träumen_. \
+REF: [EDPG]\: 100
+
+### <a id="draupjan">\*draupjan- [wk.] "to make drip" (v)</a>
+N: \
+-- ON _dreypa_ \
+W: \
+-- OE _drīepan_ \
+-- OHG _troufen_, MHG _troufen_, _trōufen_ \
+The causative to the secondary strong verb [\*dreupan- ~ \*drūpan-](#dreupan) (q.v.). \
+REF: [EDPG]\: 101
+
+### <a id="drauzjan">\*drauzjan- [wk.] "to make fall" (v)</a>
+W: \
+-- MHG _trōren_ "to drip, ooze, shed" \
+PIE: \*dʰrouHs-éie- \
+The causative to [\*dreusan-](#dreusan) (q.v.). \
+REF: [EDPG]\: 101
+
+### <a id="dreko">\*drēkō- [f.] "streak" (n)</a>
+N: \
+-- ON _drák_ \
+-- Nw. _dråk_, pl. _dræker_ \
+A North Germanic ō-stem (the root noun inflection of Nw. _dråk_ is secondary). It is unrelated to Skt _dhrā́ji_-, _dhrājí_- [f.] "draught of air, wind", which continues \*dʰrog-i- with \*o rather than \*ē. In all likelihood, \*drēkō- was derived from [\*dragan- "to draw, pull"](#dragan) (q.v.) in the same way that OFri. _slēk_ [m.] "blow" < \*slēka- was created to [\*slahan- "to hit"](#slahan) (q.v.). The underlying form must then be reconstructed with a Pre-Gm. geminate: \*drēkkō-. \
+REF: [EDPG]\: 101
+
+### <a id="drenan">\*drenan- [m.] "drone" (n)</a>
+W: \
+-- OS _dreno_ \
+-- Du. Limb. _drene_ [c.] \
+-- OHG _treno_, MHG _trene_, _tren_, G Swi. Jaun _trɛnə_ \
+PIE: \*dʰr-en- \
+COGN: Gr. _τενθρήνη_, _τενθρηδών_ "wasp", Lac. _θρώναξ_ "drone" < \*dʰen-dʰr-ēn- / \*dʰr-ōn-(?), Lith. _trãnas_ [m.] "drone", Latv. _trans_ [m.] "id." < \*trono-, SCS _trutъ_ "wasp", SCr. _trût_ "drone" < \*tronto-, Ru. _trúten'_ [m.] "drone, parasite" < \*tront-nio- \
+A word with a complicated prehistory. The aforementioned forms point to a proto-form \*drenan-, which can easily have been created on the basis of a hysterokinetic n-stem \*dʰr-ḗn, acc. \*dʰr-én-m. The origin of MLG _drone_, _drane_, MDu. _darne_, _dorne_, Du. _dar_, E _drone_ < \*drunan- is not so straightforward, however, although they can perhaps be explained as (secondary?) zero-grades. Even more problematic are OS gl. _drā̆n_ and OE gl. _drā̆n_, _drǣ̆n_, which continue either \*dran- (< \*dʰr-on-) or \*drēn- < \*dʰr-ēn-. Note, however, that none of these forms would result in E drone. Can there furthermore be a link with OE _dora_ [m.] "bumble-bee" < \*duran-? There are many remaining problems, not least the initial consonant of the Balto-Slavic forms. \
+REF: [EDPG]\: 101
+
+### <a id="drepan">\*drepan- [st.] "to hit" (v)</a>
+N: \
+-- ON _drepa_ "to stike, beat, knock; to kill, slay" \
+W: \
+-- OE _drepan_ "to strike" \
+-- MLG _drepen_ \
+-- MDu. _drepen_ [st./wk.] "to hit, strike" \
+-- OHG _treffan_, G _treffen_ "to hit, touch" \
+A back-formation to the iterative [\*drupp/bōn-](#druppon-1), a zero-grade variant of [\*drapp/bōn-](#drappon) (q.v.). As both iteratives were derived from the strong verb [\*draban- "to hew"](#draban) < \*dʰróbʰ-e-, the strong verb \*drepan- cannot be used to reconstruct a Pre-Gm. formation \*dʰreb-e- with root-final \*b, as is traditionally assumed (cf. LIV²: 153). The late, internally-Germanic origin of the \*p further speaks against the assumption of a non-Indo-European loanword (_pace_ Laker et al. 2003). \
+REF: [EDPG]\: 101
+
+### <a id="dreuga">\*dreuga- "enduring" (adj)</a>
+N: \
+-- ON _drjúgr_ "substantial, lasting, ample" \
+-- Far. _drúgvur_ "long-lasting, adequate" \
+-- Elfd. _driuog_ "laborious; disparaging" \
+W: \
+-- WFri. _dreech_ "strong, enduring, long-lasting", NFri. F-A _drech_ "enduring; stocky, fat" \
+PIE: \*dʰreugʰ-o- \
+An adjective derived from the strong verb [\*dreugan-](#dreugan-2) (q.v.). Also cf. ON _drýgja_ [wk.] "to commit, perpetrate, carry out; to make to go far" < \*dreugjan-. \
+REF: [EDPG]\: 102
+
+### <a id="dreugan-1">\*dreugan- [st.] "to mislead" (v)</a>
+W: \
+-- MHG _triegen_ "to deceive, betray" \
+PIE: \*dʰréugʰ-e- \
+COGN: Skt. _drúhyati_ "to deceit", Av. _družaiti_ "to lie" < \*dʰrugʰ-ie-, Skt _dróha_- [m.] "insult, betrayal" < \*dʰrougʰ-o- \
+A strong verb with a clear IE etymology. See also [\*drauga-](#drauga) and [\*drauma-](#drauma). \
+REF: [EDPG]\: 102
+
+### <a id="dreugan-2">\*dreugan- [st.] "to do a duty(?)" (v)</a>
+E: \
+-- Go. _driugan_ \
+W: \
+-- OE _drēogan_ "to do, work; to endure, suffer", ME _drīen_ "to perform; to experience; to put up with, endure" \
+PIE: \*dʰréugʰ-e- \
+COGN: Lith. _draũgas_ [m.] "friend", OCS _drugъ_ [m.] "id." < \*dʰrougʰ-o- \
+A strong verb with a root that in view of the Baltic forms (formally close to OE _ge-drēag_ "host" < \*ga-drauga-) may have designated an activity associated with someone's military or clan affiliation. See also [\*dreuga-](#dreuga) and [\*druhti-](#druhti). \
+REF: [EDPG]\: 102
+
+### <a id="dreupan">\*dreupan- ~ \*drūpan- [st.] "to droop; to drip" (v)</a>
+N: \
+-- ON _drjúpa_ "to drip, drop; to droop with the head" \
+W: \
+-- OE _drēopan_ "to drip", E _to drip_ \
+-- OFri. _driāpa_ "id." \
+-- OS _driopan_ "id." \
+-- Du. _druipen_ "to drip; to ooze" \
+-- OHG _triufan_ "id.", G _triefen_ "id." \
+A back-formation to the iterative [\*drupp/bōn-](#druppon-2) < \*dʰrbʰ-néh₂-. There is no reason to postulate a PIE \*dʰreub- (_pace_ Pokorny IEW: 274-5) on the basis of the Germanic evidence, as both the radical \*ū̆ and the root-final \*p arose as a result of intra-Gm. derivational processes: in reality, the Pre-Gm. root was \*dʰrebʰ-. This means that the often mentioned connection with OIr. _drúcht_ [m.] "dew", allegedly from \*dʰrūb-tu- (De Vries 1962: 84; Matasovic 2011: 12) cannot be maintained \
+REF: [EDPG]\: 102
+
+### <a id="dreusan">\*dreusan- [wk.] "to fall" (v)</a>
+E: \
+-- Go. _driusan_ [st.] "to fall down" \
+N: \
+-- Nw. _drjosa_ [st.] "id." \
+W: \
+-- OE _drēosan_ [st.] "to rush, fall, perish" \
+-- OS _driosan_ [st.] "to fall" \
+PIE: \*dʰréuHs-e \
+A strong verb related to [\*drūsēn- ~ \*drūzēn-](#drusen) (q.v.). See also [\*drauzjan-](#drauzjan). \
+REF: [EDPG]\: 102
+
+### <a id="driban">\*drīban- [st.] "to drive" (v)</a>
+E: \
+-- Go. _dreiban_ \
+N: \
+-- ON _drífa_ "to drift, drive like spray or snow; to crowd, throng, rush; to perform" \
+-- Far. _dríva_ "to chase; to hit, strike; to press, force; to be carried or blow away" \
+-- Elfd. _draiva_ "to drive; to fell; to pour, spray, flush" \
+W: \
+-- OE _drīfan_ "to drive, force, pursue", E to drive \
+-- OFri. _drīva_ "id." \
+-- OS _drīƀan_ "id." \
+-- Du. _drijven_ "to drive; to float" \
+-- OHG _trīban_, G _treiben_ "to drive; to operate" \
+PIE: \*dʰréibʰ-e- \
+COGN: Ir. _drip_ "bustle", Gael. _drip_ "hurry, confusion" < PCelt. \*drippi- < \*dʰribʰ-ni-(?) \
+In view of the semantics of ON _drífa_ "to drive (of snow)" as well as _drífa_ [f.] "fall of snow, snowdrift" < \*drībōn- it is attractive to connect Lith. _drìbti_ "to fall", but "die Bedeutungsbrücke ist ... sehr schmal" (Seebold 1970: 163). More importantly, _drìbti_ is likely to have a secondary zero-grade in -_i_- (see [\*drupp/bōn-](#druppon)) in view of Lith. _drė̃bti_ (_drebiù_) "to throw, spatter with mud/dirt, to fall in thick flakes (of snow)". The connection with Ir., Gael. _drip_ is therefore preferable, although the required development of PIE \*-bʰ-n- into PCelt. \*-pp- remains controversial. See also [\*draibō-](#draibo), [\*drib(b)ōn-](#dribbon) and [\*drifti-](#drifti). \
+REF: [EDPG]\: 103
+
+### <a id="dribbon">\*drib(b)on- [wk.] "to push little by little" (v)</a>
+N: \
+-- Nw. _dribba_ "to shove, push" \
+W: \
+-- E obs. _to drib_ "to lead one little by little into something", _to dribble_ "to keep (the ball) moving" \
+-- Du. _dribbelen_ "to walk quickly (with small steps)" \
+-- OHG _tribōn_ "to drive, push" \
+PIE: \*dʰribʰ-néh₂- \
+The iterative to [\*drīban-](#driban) (q.v.). For the semantics, cf. EDu. _driven_ [st.] "to move (to and fro), run". \
+REF: [EDPG]\: 103
+
+### <a id="drifti">\*drifti- [f.] "driving" (n)</a>
+N: \
+-- ON _drift_ "snowdrift" \
+W: \
+-- ME _drift_ "driving of cattle to pasture; drove; running; falling of rain or snow, snowdrift" \
+-- MDu. _drift_ "fervor, urge; herd; district", EDu. _drift_ [c.] "urge, instinct" \
+-- MHG _trift_ "pasture, herd", G _Trift_ "id." \
+PIE: \*dʰribʰ-ti- \
+An old ti-stem created to the root of [\*drīban-](#driban) (q.v.). \
+REF: [EDPG]\: 103
+
+### <a id="drinkan">\*drinkan- [st.] "to drink" (v)</a>
+E: \
+-- Go. _drigkan_ \
+N: \
+-- ON _drekka_ \
+-- Far. _drekka_ \
+-- Elfd. _drikka_ \
+W: \
+-- OE _drincan_, E _to drink_ \
+-- OFri. _drinka_ \
+-- OS _drinkan_ \
+-- Du. _drinken_ \
+-- OHG _trinkan_, G _trinken_ \
+PIE: \*dʰré-n-g-e- \
+COGN: Lith. _drė́gti_ "to become moist" < \*dʰreg- (also cf. _drė́gnas_ "humid, wet" < \*dʰreg-no-) \
+The Germanic verb contains a nasalized variant of the root \*dʰreg- as found in Baltic. Also cf. the lexicalized ptc. ON _drukkinn_, Far. _drukkin_, OE _druncan_, (M)Du. _dronken_, OHG _trunkan_ "inebriated", whence Go. _drugkanei_, ON _drukkni_, OHG _trunkenī_ [f.] "drunkenness". \
+REF: [EDPG]\: 103
+
+### <a id="drita">\*drita- [n.] "shit, dirt" (n)</a>
+N: \
+-- ON _drit_ \
+W: \
+-- OE _drit_ "dirt", E _dirt_ \
+Also cf. MDu. _dreet_ [m.] "fart", WPhal. _driat_ [m.] "shit" < \*driti-, a similar derivation from the strong verb [\*drītan-](#dritan) \
+REF: [EDPG]\: 103
+
+### <a id="dritan">\*drītan- [st.] "to shit" (v)</a>
+N: \
+-- ON _dríta_ "to shit (esp. of birds)" \
+-- Far. _dríta_ "id." \
+-- Elfd. _draita_ "id." \
+W: \
+-- OE _ge-drītan_ "id." \
+-- MDu. _driten_ [st./wk.] "id." \
+COGN: Perhaps to Ru. dial. _dristát'_, SCr. _drískati_, _dríćkati_ "to have diarrhea" < \*dʰreid-ske-(?) \
+No good etymology. One usually compares the aforementioned Slavic forms, but the reconstruction of the root-final _d_ is uncertain: are we dealing with an internally Germanic Reimbildung to [\*skītan-](#skitan)? Another possibility is to connect Lith. _tríedžiu_ "to have diarrhea" < \*treidʰ-ie- and _trìdė_ [f.] "diarrhea" < \*tridʰ-ieh₂- under the assumption of metathesis: if correct, the Germanic strong verb must have been back-formed to an iterative \*drittōn- < \*dʰrit-néh₂-, cf. WFri. _drittelje_ "to have diarrhea". See also [\*drita-](#drita). \
+REF: [EDPG]\: 104
+
+### <a id="drobu">\*drōbu- "turbid; troubled" (adj)</a>
+W: \
+-- OE _drōf_ "turbid; troubled" \
+-- OS _drōƀi_ "cloudy, sad" \
+-- Du. _droef_ \
+-- OHG _truobi_ "turbid, dark, confused", MHG _trüebe_ "dim, gloomy" \
+A u-stem (remodeled into a ja-stem in continental Germanic) related to [\*drabiz-](#drabiz) (q.v.). Also cf. Go. _drobjan_ "to stir up", OE _ge-drēfan_ "to stir up, make turbid; to trouble", OS _gi-drobian_ "to sadden", OHG _truoben_ "to dim, blur", G _trüben_ "id." < \*drōbjan- and Go. _drobnan_ [wk.] "to become agitated". \
+REF: [EDPG]\: 104
+
+### <a id="druga">\*druga- [n.] "deceit" (n)</a>
+W: \
+-- NFri. _drōch_ "dream" \
+-- OS _gi-drog_ "illusion" \
+-- MDu. _ge-droch_ "deceit; apparition, ghost" \
+-- OHG _gi-trog_, MHG _ge-troc_, _troc_ [m.] "id." \
+Derived from [\*dreugan-](#dreugan) (q.v.). Formally and semantically close to Skt. _drúh_- [m.] "deceit, malice; demon" < \*dʰrugʰ-. \
+REF: [EDPG]\: 104
+
+### <a id="druggon">\*druggōn- [wk.] "to pull, drag" (v)</a>
+N: \
+-- Nw. _drugga_ "to walk bowed down" \
+W: \
+-- ME _druggen_, _droggen_ "to labor, toil", E dial. _to drug_ "to pull forcibly" \
+The iterative to [\*dragan-](#dragan), continuing quasi-PIE \*dʰrgʰ-néh₂- with a secondary zero grade. Also cf. Icel. _drogi_ [m.] "idler, lazy person" < \*drugan- and - with a different vowel - Nw. _dragga_ [wk.] "to trudge along" < \*draggōn-. \
+REF: [EDPG]\: 104
+
+### <a id="druhti">\*druhti- [f.] "host, retinue" (n)</a>
+E: \
+-- Go. _drauhti-witoþ_ "military service" \
+N: \
+-- ON _drótt_ "household, people; host of the king's men, bodyguard of a king" \
+W: \
+-- OE _dryht_ "people, multitude, army" \
+-- OFri. _drecht_ [f.?] "wedding entourage" \
+-- OS _druht-folk_ "army" \
+-- MHG _truht_ "troop, squad, platoon", G _truht_ "troop, squad, platoon" \
+PIE: \*dʰrugʰ-ti- \
+A ti-stem to the strong verb [\*dreugan-](#dreugan-2). Also cf. Go. _ga-drauhts_ [m.] "soldier" < \*ga-druhta- and ON _dróttinn_, OE _dryhten_, OFri. _drochten_, OS _drohtin_, OHG _truhtin_, _trohtin_ "lord, king, God" < \*druhtana-. \
+REF: [EDPG]\: 104
+
+### <a id="drunki">\*drunki- [m.] "drink" (n)</a>
+N: \
+-- ON _drykkr_ "drink, drinking; draught" \
+-- Far. _drykkur_ \
+-- Elfd. _drykk_ \
+W: \
+-- OE _drync_ "drink; draught", E _drink_ \
+-- MDu. _dronc_ "drinking", Du. _dronk_ [c.] "id." \
+-- OHG _trunk_ "id.", G _Trunk_ "id." \
+An i-stem derived from \*drinkan- (q.v.). \
+REF: [EDPG]\: 105
+
+### <a id="druppon-1">\*drupp/bōn- [wk.] "to hit" (v)</a>
+N: \
+-- Nw. _drubba_ "to give a blow" \
+W: \
+-- E dial. _drub_ 'to thresh, beat, bang' \
+PIE: \*dʰrbʰ-néh₂- \
+A zero-grade iterative to [\*draban-](#draban) (q.v). It gave rise to the strong verb [\*drepan-](#drepan) (q.v.). \
+REF: [EDPG]\: 105
+
+### <a id="druppon-2">\*drupp/bōn- [wk.] "to drip, droop; to drop" (v)</a>
+N: \
+-- Nw. _drubba_ "to walk with a stoop, to fall over" \
+W: \
+-- MDu. _druppen_ "to sag, drip", Du. dial. _drubben_ "to hang one's head, be downcast" \
+PIE: \*dʰrbʰ-néh₂- \
+COGN: Lith. _drìbti_ (_drim̃ba_) "to drop, fall down, lie down, become flaccid" < \*dʰrbʰ- (with -_ri_- representing a secondary zero grade) \
+An old iterative. The pertaining strong verb [\*dreupan- ~ \*drūpan-](#dreupan) must given the (shortened) geminates and the \*eu ~ \*ū alternation be a back-formation to this iterative (cf. [\*greupan- ~ \*grūpan-](#greupan) vs. [\*grupp/bōn-](#gruppon)). This means that the position of the zero grade in this iterative is likely to be of secondary origin, something that is also implied by the potential link with Lith. _drìbti_. Nw. _drabba_ [wk.] "to overflow" can theoretically be derived from an o-grade iterative \*dʰrobʰ-néh₂-, but its meaning is somewhat dissimilar. Further cf. ON _dropi_, OE _dropa_, OS _dropo_, OHG _tropfo_, _troffo_, G _Tropfen_ [m.] "drop" < \*drup(p)an-. \
+REF: [EDPG]\: 105
+
+### <a id="drusen">\*drūsēn- [wk.] "to fall asleep" (v)</a>
+W: \
+-- OE _drūsian_ "to become slow", E _to drowse_ \
+PIE: \*dʰruHs-eh₁-(?) \
+COGN: Ru. _drýxnut'_ "to sleep" < \*druHs-ne- \
+A stative close to Ru. _drýxnut'_. Although the PSl. \*y may have been created secondarily to a PSl. root \*drъs-, the Germanic verb seems to confirm the existence of a root \*dʰruHs- with a laryngeal. \
+REF: [EDPG]\: 105
+
+### <a id="duba">\*duba- "dull" (adj)</a>
+W: \
+-- Du. _dof_ "matt" \
+-- MHG _top_ "crazy" \
+PIE: \*dʰubʰ-o\
+Also cf. OE _dofian_ [wk.] "to rage", OHG _topen_, _topon_ [wk.] "to be crazy" < \*dubēn- and ON _dofna_ [wk.] "to become weak" < \*dubnan-. Related to [\*dauba-](#dauba) (q.v.). \
+REF: [EDPG]\: 105
+
+### <a id="duban">\*dūban- [st.] "to dive" (v)</a>
+N: \
+-- ON _dúfa_ [wk.] \
+-- Nw. _duva_ [wk.] "to squat" \
+-- OSw. _dūva_ [wk.] "to squat, bob" \
+W: \
+-- OE _dūfan_ "to dive" \
+-- MLG _be-dūven_ "to become overwhelmed, become covered" \
+-- MDu. _be-duven_ "to dip". A strong verb that appears to have been derived from the iterative [\*dupp/bōn-](#duppon) (q.v.) in view of the fact that the expected PIE formation \*dʰeubʰ-e- would have become \*\*deuban- in Germanic. See also [\*deupa-](#deupa) \
+REF: [EDPG]\: 105
+
+### <a id="dubila">\*dubila- [m.] "peg, pin, dowel" (n)</a>
+W: \
+-- MLG _dȫvel_ \
+-- Du. _deuvel_ [c.] \
+-- MHG _tübel_, G _Dübel_ \
+COGN: Gr. Hsch. _τύφοι_ "wedges" < \*dʰubʰ-o- \
+Also cf. OHG _gi-tubili_ [n.] "peg, pin" < \*ga-dubilja-, MLG _dovicke_ [m.] "dowel-pin", Du. _deuvik_ [c.] "dowel-pin" < \*dubikan- and Nw. dial. _dobbe_ [m./f.] "fastening stick in a river", G Tyr. _tuppe_ "big piece of wood" < \*dubban-. \
+REF: [EDPG]\: 106
+
+### <a id="dubon">\*dūbōn- [f.] "dove" (n)</a>
+E: \
+-- Go. _hraiwa-dubo_ \
+N: \
+-- ON _dúfa_ \
+-- Far. _dúgva_ \
+-- Elfd. _dauva_ \
+W: \
+-- E _dove_ \
+-- OS _dūƀa_ \
+-- Du. _duif_ [c.] \
+-- OHG _tūba_, G _Taube_ \
+A bird name probably derived from [\*dūban- "to dive"](#duban) (q.v.). Also cf. MHG _tūber_, G _Tauber_, MDu. _duver_, Du. _doffer_ "male dove" < \*dūbazan-. For the suffix ofthe latter formation, see [\*ganazan- "gander"](#ganazan) and [\*katazan-](katazan) "tomcat". \
+REF: [EDPG]\: 106
+
+### <a id="dudiran">\*dud(i)ran- [m.] "egg yolk" (n)</a>
+W: \
+-- WFri. _djerre_, _djirre_ [c.] \
+-- OS _dodro_, MLG _dod(d)er_, _dȫder_, _dōdder_ [n.(?)] \
+-- MDu. _doder_, _dodre_ [m./f.], Du. _dooier_ [c.] \
+-- OHG _totoro_, G _Dotter_ \
+The West Germanic languages point to \*dudran- (whence also OE _dydring_ [m.] "yolk") alongside more restricted \*dudiran-, cf. WFri. _djerre_, MLG _dȫder_, _dōdder_. The latter is the source of Icel. _dōddur_ (cf. Magnusson 1989: 143). No certain etymology. It is unclear whether the word can be connected to Skt. dudhita- "dark" (Schindler 1967). ToB _tute_ "yellow" continues \*dʰuh₁-to- (Adams 1999: 301) and therefore must be unrelated. See also [\*dudra/ōn-](#dudran). \
+REF: [EDPG]\: 106
+
+### <a id="dudran">\*dudra/ōn- [m./f.] "dodder(?), camelina(?)" (n)</a>
+N: \
+-- Icel. _hár-doðra_, _akur-doðra_ \
+-- Sw. _dådra_ [c.] \
+W: \
+-- ME _doder_ "flax dodder", E _dodder_ \
+-- MLG _doder_, _dodder_ [m.] "id." \
+-- Du. _dodder_ [m.] "id." \
+-- MHG _toter_ [m.] "wild rocket, field rocket" \
+The word appears in two different variants: WGm. \*dudra- meaning "dodder", a parasitic plant, and Nordic \*dudrōn- "camelina, false flax". The word has no certain etymology, but may belong to Far. _doddur_ [m.] "tuft of hair, topknot, forelock", Du. _dot_ [c.] "tangle, tuft" < \*duddan-, which have been compared to Latv. _duža_ [f.] "tuft" < \*dʰudʰ-ieh₂-(?) and Gr. _θύσανος_ [m.] "tassels, fringe" (but cf. Beekes 2010: 566-7). The comparison with [\*dud(i)ran- "egg yolk"](#dudiran) (q.v.) is unconvincing in spite of the fact that dodder has yellow or orange stems. \
+REF: [EDPG]\: 106
+
+### <a id="dugan">\*dugan- [pp.] "to be fit, avail" (v)</a>
+E: \
+-- Go. _daug_ 3sg.pres. \
+N: \
+-- ON _duga_ [wk.] \
+W: \
+-- OE _dugan_ \
+-- OFri. _duga_ \
+-- OS _dugan_ \
+-- Du. _deugen_ [wk.] \
+-- OHG _tugan_, G _taugen_ [wk.] \
+PIE: \*dʰugʰ- \
+COGN: Skt. _dógdhi_ "to milk; to give milk", NP _dōxtan_ "id.", Oss. _ducyn_ / _docun_ "id." < \*dʰeugʰ-, Gr. _τυγχάνω_ "to succeed, hit upon; to meet, get together, happen to be" < \*dʰu-n-gʰ-nh₂-, Lith. _daũg_, Latv. _daũdz_ "much, many" < \*dʰougʰ-i- \
+A preterite-present Go. _daug_, OE _dēah_, _dugon_, OS _dōg_, _dugun_, OHG _toug_, _tugun_ < 3sg. \*dauge, 3pl. \*dugunþ < \*dʰougʰ-e, \*dʰugʰ-nt. The original conjugation as a perfect (present) is corroborated by Lith. _daũg_, Latv. _daũdz_. See also [\*dugunþi-](#dugunthi), [\*daugjan-](#daugjan) and [\*dukkōn-](#dukkon). \
+REF: [EDPG]\: 106
+
+### <a id="dugunthi">\*dugunþi- [f.] "valor" (n)</a>
+W: \
+-- OE _duguð_ "manhood; glory, advantage; multitude" \
+-- OFri. _duged_ "virtue" \
+-- ODu. _dugeth_ "id.", Du. _deugd_ [c.] "id." \
+-- OHG _tugund_, -_ind_ "id.", G _Tugend_ "id." \
+A derivation to [\*dugan-](#dugan) with the suffix \*-unþi- (for which cf. [\*ju(w)unþi-](#juwunthi)). \
+REF: [EDPG]\: 107
+
+### <a id="duhter">\*duhter- [f.] "daughter" (n)</a>
+E: \
+-- Go. _dauhtar_ \
+N: \
+-- ON _dóttir_ \
+-- Far. _dóttir_ \
+-- Elfd. _duotter_ \
+W: \
+-- OE _dohtor_, _dohter_, E _daughter_ \
+-- OFri. _dochter_ \
+-- OS _dohtar_ \
+-- Du. _dochter_ [c.] \
+-- OHG _tohter_, G _Tochter_ \
+PIE: \*dʰugh₂-ter- \
+COGN: Skt _duhitar_-, Av. _dugədar_-, ToA _ckācar_, ToB _tkācer_, Gr. _θυγάτηρ_, Arm. _dustr_, Lith. _duktė̃_, OCS _dъštь_ < \*dʰugh₂-ter- \
+The Indo-European word for "daughter". Related to [\*deuhtra-](#deuhtra) (q.v.). \
+REF: [EDPG]\: 107
+
+### <a id="dujan">\*dūjan- [wk.] "to tremble" (v)</a>
+N: \
+-- ON _dýja_ \
+PIE: \*dʰuH-ie- \
+COGN: Identical to Gr. _θῡ́ω_ "to dash, rush"; further compare Skt. _dhūnóti_ "to shake, agitate; to blow on a fire" (for older \*_dhūnā́ti_ < \*dʰuH-neh₂-?) and Skt _dhuváti_ "to throw down, shake down" < \*dʰuH-e- \
+An apparently old ie-present closely related to Gr. _θῡ́ω_. Also cf. ON _dý_, Far. _dyggj_ [n.] "bog, marsh" < \*dūja- and OSw. _dyi_, Elfd. _dōe_ [m.] "dirt" < \*dujan-. \
+REF: [EDPG]\: 107
+
+### <a id="dukan">\*dūkan- [st.] "to duck" (v)</a>
+W: \
+-- ME _douken_ [wk.] "to dive, plunge, immerse", E _to duck_ \
+-- MDu. _duken_ "to dive; to duck, cower", Du. _duiken_ "to dive" \
+-- OHG _in-tūhhan_ "to immerse", G _tauchen_ [wk.] "to dive, plunge" \
+A strong verb derived from the iterative [\*dukkōn-](#dukkon) (q.v.). Also cf. OE _dūce_, E _duck_ < \*dūkōn-. \
+REF: [EDPG]\: 107
+
+### <a id="dukkon">\*dukkōn- [wk.] "to duck" (v)</a>
+W: \
+-- EDu. _docken_ "to dive, tumble" \
+-- MHG _tocken_ "to immerse" \
+PIE: \*dʰugʰ-neh₂-(?) \
+Also cf. MHG _tucken_, _tücken_, G _ducken_, MDu. _ducken_ [wk.] "to cower, duck" < \*dukkjan-. The verb has no accepted extra-Gm. etymology, but by reconstructing it as \*dʰugʰ-néh₂-, it is possible to connect it to PIE \*dʰeugʰ-. This root is attested with the meaning "to be fit" in Greek and Germanic (see [\*dugan-](#dugan)), but it is not unlikelythat it originally denoted "to fall", and that this developed into "to happen, coincide, be fit" at a later stage (cf. G _Zu-fall_ "coincidence"). See also [\*dūkan-](#dukan). \
+REF: [EDPG]\: 107
+
+### <a id="dula">\*dula- "foolish, crazy" (adj)</a>
+W: \
+-- MHG _tol_ "foolish, nonsensical" \
+PIE: \*dʰul-o- \
+COGN: Latv. _duls_ "furious" < \*dʰul-o-, OIr. _dall_, W _dall_ "blind" < \*dʰul-no- \
+A zero-grade formation related to [\*dwelan- "to err"](#dwelan). Hence also ON _dylja_ [wk.] "to keep uninformed" < \*duljan-. \
+REF: [EDPG]\: 108
+
+### <a id="dulga">\*dulga- "debt" (adj)</a>
+E: \
+-- Go. _dulgs_ [m.] \
+PIE: \*dʰlgʰ-o- \
+COGN: OCS _dlъgъ_, Ru. _dolg_, SCr. _dȗg_ [m.] "debt", OIr. _dligid_ "to owe, be entitled to" < \*dʰlgʰ-e-, OIr. _dliged_ [n.] "duty" < \*dʰlgʰ-eto- \
+The word appears to have a European distribution, but the OCS forms may have been borrowed from Germanic. No further etymology; the appurtenance of ON _dolg_ [n.] "enemy", OE _dolg_, OFri. _dolg_, _dulg_, OHG _tolg_ [n.] "wound" < \*dulga- is possible, but uncertain. \
+REF: [EDPG]\: 108
+
+### <a id="dulo-1">\*dulō- [f.] "cluster or bunch of grapes" (n)</a>
+W: \
+-- OHG _tola_ \
+PIE: \*dʰh₂l-eh₂- \
+COGN: Gr. _θάλλω_ "to flourish", Alb. _dal_ "to sprout" < \*dʰh₂l-n-, Arm. _dalar_ "green" < \*dʰh₂l-ro-, MW _deillyau_ "to emanate, proceed, come about" < \*dʰh₂l-n-; perhaps also Alb. _dal_ "to flow out, exit; to grow" \
+REF: [EDPG]\: 108
+
+### <a id="dulo-2">\*dulō- [f.] "ditch" (n)</a>
+W: \
+-- WFri. _dôle_ [c.] "puddle, pool" \
+-- OHG _tola_, MHG _tole_ \
+PIE: \*dʰlh₂-eh₂- \
+A zero-grade formation related to [\*dala-](#dala) (q.v.). \
+REF: [EDPG]\: 108
+
+### <a id="dulthi">\*dulþi- [f.] "festival, celebration" (n)</a>
+E: \
+-- Go. _dulþs_ \
+W: \
+-- OHG _tuld_, MHG _tult_, _dult_ \
+No certain etymology: probably unrelated to Gr. _θαλία_ [f.] "abundance", pl. "festival", which is derived from _θάλλω_ "to flourish" < \*dʰlH-n-. Despite the vague semantics, there may be a link with [\*dwelan- "to stay, dwell"](#dwelan) (Grienberger 1900: 60). \
+REF: [EDPG]\: 108
+
+### <a id="dumba">\*dumba- "dumb" (adj)</a>
+E: \
+-- Go. _dumbs_ "dumb, mute" \
+N: \
+-- ON _dumbr_ "id." \
+-- Far. _dumbur_ "id." \
+-- Elfd. _dumm_ \
+W: \
+-- OE _dumb_, E _dumb_ \
+-- OFri. _dumb_ \
+-- OS _dumb_ \
+-- Du. _dom_ \
+-- OHG _tumb_, G _dumm_ \
+Derived from [\*dimban- ~ \*dimpan-](#dimban) (q.v.): the original meaning was "hazy", cf. Nw. _dum_ "dumb; soft, mute; unclear". \
+REF: [EDPG]\: 108
+
+### <a id="dumbon">\*dumbōn- [f.] "fog, haze" (n)</a>
+N: \
+-- ON _dumba_ "dust, cloud of dust, mist" \
+-- Elfd. _dumba_ "fog, haze" \
+A zero-grade formation derived from the strong verb [\*dimban- ~ \*dimpan-](#dimban) (q.v.). \
+REF: [EDPG]\: 108
+
+### <a id="dumpon">\*dumpōn- [wk.] "to suffocate(?)" (v)</a>
+W: \
+-- MDu. _ver-dompen_ "to suffocate" \
+PIE: \*dʰmbʰ-néh₂- \
+The iterative to [\*dimban- ~ \*dimpan-](#dimban) (q.v.). There is no connection with Lith. _dùmpti_ (_dùmpiu_) "to blow with bellows" (quasi PIE \*dʰmHp-), which is likely to have arisen secondarily from Lith. _dùmti_ (_dumiù_) "id." < \*dʰmH-ie-, cf. _dùmplės_ "bellows" < \*dmH-1-ieh₂-. \
+REF: [EDPG]\: 109
+
+### <a id="duna">\*dūna- [m.] "down (of a bird)" (n)</a>
+N: \
+-- ON _dúnn_ \
+-- Far. _dún_ [n.] \
+-- OSw. _dūn_ [n.] \
+-- Elfd. _daungen_ \
+PIE: \*dʰuh₂-no- \
+A Nordic word that was borrowed into West Germanic, cf. MLG _dūne_, G _Daune_, ME _doune_, E _down_. Elfd. _daungen_ has secondary _ŋ_ as in _kraungen_ [f.] "crown" < ON _krúna_ (< Lat. _corōna_). Related to [\*dauma-](#dauma) and [\*dauna-](#dauna) (q.v.). \
+REF: [EDPG]\: 109
+
+### <a id="dunga">\*dunga- [m.] "dung" (n)</a>
+W: \
+-- OE _dung_, E _dung_ \
+-- OFri. _dung_ \
+-- OS _dung_ \
+-- G _Dung_ \
+An a-stem related to [\*dungōn-](#dungon) (q.v.). Also cf. Elfd. _dyndja_, OFri. _denga_, EDu. _dungen_, OHG _tungen_, G _düngen_ [wk.] "to fertilize" < \*dungjan-, ON _dyngja_ [f.] "dunghill; lady's bower" < \*dungjon- and OE _dung_, _ding_ [f.] "cellar, groundhouse", OHG, MHG _tunc_ [m./f.] "id." < \*dungi-. \
+REF: [EDPG]\: 109
+
+### <a id="dungon">\*dungōn- [wk.] "to cover(?), pour over(?)" (v)</a>
+N: \
+-- Far. _dunga_ "to pile up; to snow heavily" \
+-- Sw. _dunga_ "to get soaked", obs. "to rain, pour down" \
+W: \
+-- MLG _dungen_ "to irrigate" \
+PIE: \*dʰngʰ-néh₂- \
+COGN: Lith. _deñgti_ (_dengiù_) "to cover" < \*dʰengʰ-ie-, Lith. _danga_ [f.] "cover", RuCS _duga_ [f.] "arch, curve", SCr. _duga_ [f.] "rainbow" < \*dʰongʰ-eh₂-, Lith. _dangus_ "heaven" < \*dʰongʰ-u- \
+The verb \*dungōn- probably continues an iterative \*dunkōþi, \*dungunanþi < \*dʰngʰ-néh₂-, cf. Nw. dial. _dokk_ [f.] "cover (e.g. of snow)" < \*dunkō-. In view of the Balto-Slavic evidence, the original meaning of the root \*dʰengʰ- seems to have been "to cover" and - in a meteorological sense - "to be overcast". See also [\*dunga- "dung"](#dunga). \
+REF: [EDPG]\: 109
+
+### <a id="dunkla">\*dunkla- ~ \*dunkra- "dark" (adj)</a>
+W: \
+-- OS _dunkar_ \
+-- Du. _danker_ \
+-- OHG _tunkal_, G _dunkel_ \
+PIE: \*dʰngʷ-lo- \
+A zero-grade adjective related to [\*dinkwa-](#dinkwa) (q.v.). \
+REF: [EDPG]\: 109
+
+### <a id="dunsta">\*dunsta- [n.(?)] "powder, dust(?)" (n)</a>
+W: \
+-- OE _dūst_ [n.], E _dust_ \
+-- WFri. _dūst_ [n./c.] "dandruff; chaff" \
+-- MLG _dust_ [m.] "chaff, husk, dust" \
+-- MDu. _donst_, _dunst_, _dust_ [m.?] "fluff, pollen" \
+PIE: \*dʰuns-to- \
+COGN: ToB _tänts_- "to scatter" < \*dʰuns-, Skt. _dhváṃsati_ "to fall to dust, perish" < \*dʰuéns-e- \
+A to-stem to the PIE root \*dʰuens-. \
+REF: [EDPG]\: 109
+
+### <a id="duppon">\*dupp/bōn- [wk.] "to dip" (v)</a>
+N: \
+-- Nw. _duppa_, _dubba_ "to dip; to duck; to nod" \
+-- Elfd. _duppa_ "id." \
+W: \
+-- MDu. _doppen_ "to dip" \
+PIE: \*dʰubʰ-neh₂- \
+An iterative formation, probably serving as the derivational base of [\*deupa-](#deupa) and [\*daupjan-](#daupjan) (q.v.). Also cf. OE _dyppan_ [wk.] "to dip", LG düppen < \*duppjan- and MDu. _dubben_ [wk.] "to submerge" < \*dubjan-. \
+REF: [EDPG]\: 109
+
+### <a id="dura">\*dura- [n.] "gate, (single) door" (n)</a>
+E: \
+-- Go. _daur_ \
+W: \
+-- OE _dor_, E _door_ \
+-- OS _dor_, _dur_ \
+-- ODu. _duri_ [f.] "door", Du. _deur_ "door" \
+-- OHG _tor_ "id.", G _Tor_ "id." \
+PIE: \*dʰur-o- \
+The original neuter singular whose dual \*dʰur-ih₁ "double door" may have served as the basis for the i-stem [\*durī-](#duri) (q.v.). Also cf. Go. _auga-dauro_ [n.] "window", OFri. _andern_ [n.] "id." < \*aug(n)a-duron-. \
+REF: [EDPG]\: 110
+
+### <a id="durgo">\*durgō- [f.] "fishing-line" (n)</a>
+N: \
+-- ON _dorg_ "trailing-line" \
+-- Far. _dorg_, pl. _dergur_ "short fishing-line" \
+PIE: \*dʰrgʰ-eh₂- \
+Also cf. the factitive ON _dyrgja_ [wk.] "to take with a hand-line" < \*durgjan-. Related to [\*dragan-](#dragan)?. \
+REF: [EDPG]\: 110
+
+### <a id="duri">\*durī- [f.pl.] "door" (n)</a>
+N: \
+-- ON _dyrr_ [f./n.pl.] \
+-- Far. _dyr_ \
+-- Elfd. _dōrer_ \
+W: \
+-- OS _duri_ \
+-- MDu. _dore_ [f.], Du. _deur_ [c.] \
+-- OHG _turi_, G _Tür_ [f.] \
+PIE: \*dʰur-ih₁ \
+COGN: Gr. _θύρα_ [f.] "door, doorleaf", Arm. _dur-k'_ pl. "door", Lith. _dùrys_, dial. _dùres_ [m.pl.] "id.", Latv. _d(v)uris_ [m.pl.] "id.", OPru. _dauris_ "gate", OCS _dvьrь_, Ru. _dver'_, SCr. _dvâr_ [f.] "door" < \*dʰur-, Skt. _dvā́rā_, _dvā́rau_ du. "id.", Alb. _derë_ [f.] "id." < \*dʰuor-, ToB _twere_ [m.] "id.", Lith. _dvãras_ [m.] "estate, village", Lat. _forēs_ [f.pl.] "door", OIr. _dorus_ [m.] "id.", W _dor_ "id.", Latv. _dvars_ [m.] "gate", OCS _dvorъ_, Ru. _dvor_, SCr. _dvôr_ [m.] "court, courtyard" < \*dʰuor-o- \
+Most forms point to a (plural) i-stem, which in view of the neuter gender of ON _dyrr_ is likely to have been based on the old dual \*dʰur-ih₁ of[ \*dura- "single door, gate"](#dura) < \*dʰur-o-. OE _duru_, OFri. _dore_, OHG _tura_ [f.] "door", on the other hand, goes back to \*durō-, which is formally identical to Gr. _θύρα_. \
+REF: [EDPG]\: 110
+
+### <a id="durron">\*durrōn- [f.] "stick" (n)</a>
+N: \
+-- Icel. _dorra_ "piece of wood, stick" \
+PIE: \*dʰr-on- \
+COGN: Gr. _θαιρός_ [m.] "pivot of a door, axle of a chariot" < \*dʰr-io- \
+A zero-grade n-stem related to the semantically similar Nw. _darre_ < \*dʰor-ōn, \*dʰor-n-ós (see [\*darran-](#darran)). The co-occurrence of these n-stems may point to an originally ablauting paradigm \*dʰór-ēn, gen. \*dʰr-n-ós, acc.pl. \*dʰor-n-ń̥s > \*darēn, \*durraz, \*darruns. The derivation from Icel. _darra_ [wk.] "to swing, vibrate" is unlikely, at any rate, since this verb is etymologically identical to _daðra_ < \*dadrōn-. \
+REF: [EDPG]\: 110
+
+### <a id="dursti">\*dursti- [f.] "courage" (n)</a>
+W: \
+-- OE _dyrst_, _ge-dyrst_ "tribulation" \
+-- OHG _gi-turst_ "courage, audacity", MHG _turst_, _ge-turst_ "id." \
+PIE: \*dʰrs-ti- \
+A ti-stem to the preterite-present [\*durzan-](#durzan) (q.v.). \
+REF: [EDPG]\: 110
+
+### <a id="durzan">\*durzan- [pp.] "to dare, be brave" (v)</a>
+E: \
+-- Go. _ga-daursan_ \
+W: \
+-- OE _durran_ [st.] \
+-- OS _gi-durran_ \
+-- ODu. _durran_, Du. _dorst_ [pret.] \
+-- OHG _turran_, _gi-turran_, MHG _turren_, _ge-turren_ \
+PIE: \*dʰors- ~ \*dʰrs- \
+COGN: Skt. _dadhárṣa_ 3sg.perf. "is bold" < \*dʰórs-e, Gr. _θάρσος_, Aeol. _θέρσος_ [n.] "courage" < \*dʰérs-os, gen. \*dʰrs-s-ós (whence _θαρσέω_, _θαρρέω_ "to be brave"), Lith. _drį̄sti_ (_drįstù_) "to become bold" < \*dʰr-n-s-ske-, Lith. _drąsùs_ "brave" < \*dʰro-n-s-u- \
+A preterite-present PGmc. 3sg. \*darse, 3pl. \*durzunþ < \*dʰórs-e, \*dʰrs-ńt. See also [\*dursti-](#dursti). \
+REF: [EDPG]\: 111
+
+### <a id="dusen">\*dusēn- [wk.] "to slumber" (v)</a>
+W: \
+-- E _to doze_ \
+-- MHG _dosen_ "to keep oneself quiet, slumber" \
+PIE: \*dʰús-eh₁-ie- \
+COGN: Lat. _furō_, -_ere_ "to be mad, rave" < \*dʰus-e-, Lith. _dùsti_ (_dūstù_) "to suffocate", Latv. _dust_ "to gasp" < \*dʰus-ske-, OCS _duxъ_ [m.] "breath", Lith. _dùsas_ [m.] "short breath, asthma" < \*dʰus-o- \
+A stative verb. Its original meaning seems to have been "to lose one's senses", whence "to fall asleep", "to be wild", and "to go mad". Apparently, the Indo-Europeans assumed that the spirit (i.e. "breath") left the body during sleep. See also [\*dwesa-](#dwesa), [\*dauzan-](#dauzan) and [\*deuza-](#deuza). \
+REF: [EDPG]\: 111
+
+### <a id="duska-1">\*duska- [m.] "drizzle(?)" (n)</a>
+N: \
+-- Nw. _dusk_ [n.] "drizzling rain" \
+-- Sw. dial. _dusk_ "light rain" \
+COGN: OCS _dъždь_, Ru. _dožd'_ (_doždjá_), SCr. _dâžd_ "rain" < \*dusg-io- \
+A Germanic-Slavic isogloss. The derivation of PSlav. \*dьždžъ from \*dus-diu- "bad-sky" (Vaillant 1927) is less evident, as the prefix \*dus- (see [\*tuz-](#tuz)) otherwise does not occur in Slavic. \
+REF: [EDPG]\: 111
+
+### <a id="duska-2">\*duska- "dark" (adj)</a>
+W: \
+-- OE _dox_, _dux_ "sallow", E _dusk_ "twilight" \
+PIE: \*dʰus-ko- \
+COGN: Identical to Lat. _fuscus_ "dark-colored, dusky"; also cf. Lat. _furvus_ "id." < \*dʰus-uo- (with the uo-suffix for chromonyms) \
+Also cf. Far. _ill-duskutur_ "with mixed and bad colors" < \*dusk-uhta-; OHG _fir-tuskōn_ [wk.] "to confuse", OE _doxian_ [wk.] "to become dark" < \*duskōjan-, G _Tusche_ [f.] "ink" and - with a different suffix - OE _dosen_ "chestnut", OHG _tusin_ "brown" < \*dʰús-no- (cf. OIr. _donn_ "dun, brown; light"). The original meaning may have been "to obscure", which is compatible with the etymological cluster of [\*dusēn-](#dusen). \
+REF: [EDPG]\: 111
+
+### <a id="duwen">\*du(w)ēn- [wk.] "to be misty(?), windy(?)" (v)</a>
+N: \
+-- Nw. dial. _duva_ "to blow softly" and Elfd. _duvå_ "to drizzle" \
+PIE: \*dʰuh₂-eh₁- \
+An old stative formation related to [\*dauma-](#dauma) and [\*dawwa/ō-](#dawwa) (q.v.). \
+REF: [EDPG]\: 111
+
+### <a id="dwaljan">\*dwaljan- [wk.] "to delay, hinder" (v)</a>
+N: \
+-- ON _dvelja_ "to delay, tarry" \
+-- Far. _dvelja_ "to delay; to hesitate, wait" \
+W: \
+-- OE _dwelian_ "to lead astray", E _to dwell_ \
+-- OS _bi-dwellian_ \
+-- MDu. _dwellen_ "to lead astray" \
+-- OHG _twaljen_ "to delay; to wait, stay", MHG _twellen_, _twelen_, _dwellen_ "id." \
+PIE: \*dʰuolH-éie- \
+A formation that probably unifies the causative to [\*dwelan-](#dwelan) (q.v.) and the factitive to \*dwala-, cf. Go. _dwals_ "foolish". \
+REF: [EDPG]\: 111
+
+### <a id="dwelan">\*dwelan- [st.] "to err" (v)</a>
+W: \
+-- OE _ge-dwolen_ ptc. "wrong" \
+-- EFri. _dwylje_ [wk.] "to rave; to roam" \
+-- OS _for-dwelan_ "to neglect, fail" \
+-- ODu. _dwelon_ "to fail, err" \
+-- OHG _gi-twelan_ "to be stunned, tarry, fall asleep" \
+PIE: \*dʰuélH-e- \
+A strong verb to the root \*dʰuelH-, which is otherwise only attested in Baltic and Celtic (see under [\*dula-](#dula)). Related to [\*dwaljan-](#dwaljan). \
+REF: [EDPG]\: 112
+
+### <a id="dwerga">\*dwerga- [m.] "dwarf" (n)</a>
+N: \
+-- ON _dvergr_ "dwarf; short pillars which support the beams and rafters in a house" \
+-- Far. _dvørgur_ \
+-- OSw. _dværgher_ \
+-- Elfd. _dyörg_ "spider; deathwatch beetle; wrinkle, crease" \
+W: \
+-- OE _dweorg_, _dweorh_, E _dwarf_ \
+-- MDu. _dwerch_ "monster, dwarf, giant", Du. _dwerg_ [c.] \
+-- OHG _twerc_, G _Zwerg_ \
+PIE: \*dʰuérgʰ-o- \
+An etymologically debated word. Some have compared Skt _dhváras_- [n.] "demon" < \*dʰuer-o- and Lith. _dvãsas_ "spirit" < \*dʰuos-o- (cf. MHG _ge-twas_ "ghost"), but these linkages are extremely doubtful given the formal dissimilarities. I therefore assume that the word was derived from the strong verb [\*dwergan-](#dwergan) attested as MHG _zwergen_ [st.] "to squeeze, press". The meanings "pillar" and "staff" in Nordic are believed by some to refer to the pagan belief that dwarfs carried the firmament (cf. Simek 2006: 504). Also cf. ON _dyrgja_ [f.] 'female dwarf < \*durgī- / \*dwergī- and Icel. _durgur_ [m.] "boor, lout" < \*durga-. \
+REF: [EDPG]\: 112
+
+### <a id="dwergan">\*dwergan- [st.] "to squeeze, press" (v)</a>
+W: \
+-- MHG zwergen \
+PIE: \*dʰuergʰ-e \
+No extra-Gm. cognates, but there may be a link with \*dwerga- 'dwarf (q.v.). \
+REF: [EDPG]\: 112
+
+### <a id="dwesa">\*dwēsa- "foolish" (adj)</a>
+W: \
+-- OE _dwæs_ \
+-- OFri. _dwēs_ \
+-- MLG _dwās_ \
+-- MDu. _dwaes_, Du. _dwaas_ \
+-- MHG _twās_ \
+PIE: \*dʰuēs-o \
+COGN: Lith. _dvãsas_ [m.] "breath, soul, sickly person" < \*dʰuos-o-, Lith. _dvasià_ [f.] "breath, spirit, soul" < \*dʰuos-ieh₂- \
+Also cf. MHG _ge-twas_, MDu. _ge-dwaes_ [n.] "foolishness, ghost" (with a similar meaning to MHG _tuster_ [m.] "ghost" < \*dus-tra-). See also [\*dusēn-](#dusen). \
+REF: [EDPG]\: 112
+
+### <a id="dwinan">\*dwīnan- [st.] "to diminish" (v)</a>
+N: \
+-- ON _dvína_ [wk.] \
+-- Far. _dvína_ [wk.] "to yield, give way; to diminish" \
+W: \
+-- OE _dwīnan_ "to dwindle", ME _dwinen_ "id." \
+-- MDu. _dwinen_ "to disappear, dwindle, pine away", Du. _ver-dwijnen_ "to disappear" \
+PIE: \*dʰgʷʰéi-ne- \
+COGN: Skt. _kṣiṇā́ti_, _kṣiṇóti_ "to destroy, corrupt, ruin" < \*dʰgʷʰi-neh₂- / -neu-, Gr. _φθίνω_ "to decline, decay, perish; to cause to decline, consume, destroy" < \*dʰgʷʰi-nu-e-, Lat. _situs_, -_ūs_ [m.] "neglect, disuse, rot" < \*dʰgʷʰi-tu- \
+An n-present to the root \*dʰgʷʰei-, cf. Nw. _dvå_ [wk.] "to abate" < \*dwīan-, cf. Skt. _kṣáyati_ "to destroy" < \*dʰgʷʰéi-e-. A slightly different formation is ON _dvena_, _dvina_ [wk.] "to dwindle, cease, subside" < \*dwinōn- < \*dʰgʷʰi-neh₂-, which unlike the factitive Skt. _kṣiṇā́ti_ appears to be an (intransitive) iterative. The Germanic reflexes of this verbal formation show a remarkable alternation between \*dwīnan-, [\*swīnan-](#swinan), [\*þwīnan-](#thwinan) and perhaps also [\*kwīnan-](#kwinan): apparently, the outcome of the initial cluster \*dʰgʷʰ- was unstable in Germanic. \
+REF: [EDPG]\: 112
