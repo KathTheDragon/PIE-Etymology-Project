@@ -251,8 +251,8 @@ W: \
 -- OE _eaxl_ "armpit" \
 -- OS _ahsla_ "shoulder" \
 -- OHG _ahsala_, _ahsla_ "id."
-COGN: Lat _āla_ [f.] "armpit, wing", W _echel_ [f.] "axis" < \*h₂eks-(i)l-eh₂- \
-Derived from PIE \*h₂eKs-i- with an /-suffix, cf. \*nab/an- "navel". \
+COGN: Lat _āla_ [f.] "armpit, wing", W _echel_ [f.] "axis" < \*h₂eḱs-(i)l-eh₂- \
+Derived from PIE \*h₂eḱs-i- with an l-suffix, cf. \*nablan- "navel". \
 REF: [EDPG]\: 6
 
 ### <a id="ahso">\*ahsō- [f.] "axle" (n)</a>
@@ -448,7 +448,7 @@ E: \
 -- Go. _afaikan_ "to deny, abjure" \
 W: \
 -- OHG _in-eihhan_ "to sacrifice; dedicate" \
-The fact that Go. _aikan_ and OHG _eihhan_ (cf. ChWdW9: 245) are reduplicated verbs, which typically have an o-grade of the root, could imply a pre-Gm. formation \*Hoig/ǵ-e-. One could then compare Latv. _aîcinât_ "to call, invite" < \*Hoig-n(e)h₂- and OIr. _éigid_ "to cry" < \*h₁eig/ǵ-e-. From the Germanic perspective, however, it is more likely that the root \*aik- continues \*aikk- (< \*Hoik-n-ˊ), and developed from the preterite-present [\*aigan- "to own"](#aigan) (q.v.) with a semantic shift "to make one's own" > "to accept" (cf. EWAhd: II, 972). This is supported by OHG _ur-eiche_ "own" < \*uz-aikja- and OHG _(gi-)eihhōn_ [wk.] "to claim", MHG _eichen_ [wk.] "to award, to dedicate" < \*aikō(ja)n- as well as MHG _eichenen_ [wk.] "to claim" < \*aiknjan- (a medio-passive factitive "to make oneself own"). Note that the comparison of OHG _eihhinōn_ with the aforementioned Latv. _aîcinât_ is deceptive anyway, because the Latvian ending -_inã_- is a conflation of PBalt. \*-nā- and \*-in- from PIE \*-neh₂- ~ \*-n̥h₂-, and cannot be equated with the element -_en_- of MHG _eichenen_. \
+The fact that Go. _aikan_ and OHG _eihhan_ (cf. ChWdWg: 245) are reduplicated verbs, which typically have an o-grade of the root, could imply a pre-Gm. formation \*Hoig/ǵ-e-. One could then compare Latv. _aîcinât_ "to call, invite" < \*Hoig-n(e)h₂- and OIr. _éigid_ "to cry" < \*h₁eig/ǵ-e-. From the Germanic perspective, however, it is more likely that the root \*aik- continues \*aikk- (< \*Hoik-n-ˊ), and developed from the preterite-present [\*aigan- "to own"](#aigan) (q.v.) with a semantic shift "to make one's own" > "to accept" (cf. EWAhd: II, 972). This is supported by OHG _ur-eiche_ "own" < \*uz-aikja- and OHG _(gi-)eihhōn_ [wk.] "to claim", MHG _eichen_ [wk.] "to award, to dedicate" < \*aikō(ja)n- as well as MHG _eichenen_ [wk.] "to claim" < \*aiknjan- (a medio-passive factitive "to make oneself own"). Note that the comparison of OHG _eihhinōn_ with the aforementioned Latv. _aîcinât_ is deceptive anyway, because the Latvian ending -_inã_- is a conflation of PBalt. \*-nā- and \*-in- from PIE \*-neh₂- ~ \*-n̥h₂-, and cannot be equated with the element -_en_- of MHG _eichenen_. \
 REF: [EDPG]\: 10
 
 ### <a id="aikjan">\*aikjan- [wk.] "to irritate" (v)</a>
@@ -794,7 +794,7 @@ W: \
 -- OHG _ēr_ "ore", MHG _ēr_ "ore, iron" \
 PIE: \*h₂ei-es- \
 COGN: Skt. _áyas_-, Av. _aiiah_- [n.] "metal, copper", Lat. _aes_, _aeris_ [n.] "ore" < \*h₂ei-es- \
-A thematicized s-stem. The Germanic form developed from \*aizathrough \*ajez- < \*h₂ei-es- with regular loss of the medial \*e after \*j (cf. [\*airi "early"](#airi) and [\*laiza- "clay"](#laiza)). The original PIE s-stem \*h₂ei-os, \*h₂(e)i-es-os may have been derived from the root \*h₂ei- "to burn", cf. [\*aida- "pyre"](#aida) and [\*aisōn- "fireplace"](#aison). Also cf. OE _ǣren_, OHG _ērīn_, G _ehern_ "iron, brazen" < \*aizīna-. \
+A thematicized s-stem. The Germanic form developed from \*aiza- through \*ajez- < \*h₂ei-es- with regular loss of the medial \*e after \*j (cf. [\*airi "early"](#airi) and [\*laiza- "clay"](#laiza)). The original PIE s-stem \*h₂ei-os, \*h₂(e)i-es-os may have been derived from the root \*h₂ei- "to burn", cf. [\*aida- "pyre"](#aida) and [\*aisōn- "fireplace"](#aison). Also cf. OE _ǣren_, OHG _ērīn_, G _ehern_ "iron, brazen" < \*aizīna-. \
 REF: [EDPG]\: 16
 
 ### <a id="aizo">\*aizo- [f.] "respect, benevolence" (n)</a>
@@ -1034,7 +1034,7 @@ REF: [EDPG]\: 21
 N: \
 -- Icel. _elgja_ \
 -- Nw. _elgja_ \
-A verb reminiscent of \*walk/gōn- (q.v.). Also cf. WFri. _algje_ [wk.] "to be disgusted" < \*algōjan-. \
+A verb reminiscent of [\*walk/gōn-](#walkon) (q.v.). Also cf. WFri. _algje_ [wk.] "to be disgusted" < \*algōjan-. \
 REF: [EDPG]\: 21
 
 ### <a id="algojan">\*algōjan- [wk.] "to protect" (v)</a>
@@ -1068,7 +1068,7 @@ W: \
 -- OHG _elena_, _elna_ "id.", G _Elle_ "id." \
 PIE: \*Heh₃l-én-eh₂- \
 COGN: Gr. _ὠλένη_ [f.] "elbow, underarm", Lat. _ulna_ [f.] "forearm" < \*Heh₃l-én-eh₂-, Gr. Hsch. _ὠλλόν_ "elbow" < \*Heh₃l-n-o-?, Gr. _ὠλήν_ [f.] "elbow", OIr. _uilen_ "angle", W _elin_, Bret. _ilin_ "id." < \*Heh₃l-ḗn- \
-The Germanic word together with Lat. ulna goes back to PIE \*Heh₃/-en-eh₂- through an intermediate form \*olenā- with pretonic shortening. The suffix was later substituted by \*-īnō-. In PIE, the word was probably inflected as an amphidynamic n-stem, nom. \*Héh₃l-ōn, gen. \*Hh₃l-n-ós, acc. \*Hh₃l-én-m. Note that the latter case also may have given PGmc. \*alen- by vocalization of the second laryngeal. \
+The Germanic word together with Lat. ulna goes back to PIE \*Heh₃l-en-eh₂- through an intermediate form \*olenā- with pretonic shortening. The suffix was later substituted by \*-īnō-. In PIE, the word was probably inflected as an amphidynamic n-stem, nom. \*Héh₃l-ōn, gen. \*Hh₃l-n-ós, acc. \*Hh₃l-én-m. Note that the latter case also may have given PGmc. \*alen- by vocalization of the second laryngeal. \
 REF: [EDPG]\: 22
 
 ### <a id="aliskon">\*aliskōn- [wk.] "to tend to(?)" (v)</a>
@@ -1078,7 +1078,7 @@ N: \
 A derivative of [\*alan- "to grow; to rear"](#alan), cf. Da. _op-elske_ "to grow (e.g. plants), to raise (cattle)" (Magnusson 1989: 152). Definitely unrelated to ON _elja_ [f.] "concubine" < \*aljōn- and [\*lustu- "desire"](#lustu) (q.v.). \
 REF: [EDPG]\: 22
 
-### <a id="alis/z">\*alis/z- [m.] "alder" (n)</a>
+### <a id="alis">\*alis/z- [m.] "alder" (n)</a>
 N: \
 -- ON _ǫlr_, _alr_ \
 -- Nw. _or_, _older_ \
@@ -1208,7 +1208,7 @@ COGN: Skt. _amla_-, _ambla_- "bitter" < \*Hom-ro- \
 A Germanic-Indic isogloss. The further connection with Lat. _amārus_ "bitter" is uncertain, because its long ā cannot be explained from the proto-form underlying PGmc. \*ampra- < \*Hom-ro- (cf. De Vaan 2008: 37). In view of Hebr. _mar_ "bitter" (cf. Lewis-Short), the word may be of Semitic origin. The connection with Skt. _āma_-, Gr. _ὠμός_ "raw" < \*h₁oh₁m-o- (for which see [\*ēmōn- "erysipelas"](#emon-1)) as given by Pokorny IEW: 777-778 is uncertain. See also [\*ampra/ōn- "sorrel"](#ampran) \
 REF: [EDPG]\: 25
 
-### <a id="ampra/ōn">\*ampra/on- [m./f.] "sorrel, dock" (n)</a>
+### <a id="ampran">\*ampra/ōn- [m./f.] "sorrel, dock" (n)</a>
 W: \
 -- OE _ampre_, _ompre_ [f.] "sorrel; varicose vein" \
 -- OHG _ampfaro_ [m.] "sorrel", G _Ampfer_ [m.] "id." \
@@ -1904,7 +1904,7 @@ W: \
 -- Du. _as_ [c.] "ashes" \
 -- OHG _aska_ "ashes, dust" \
 PIE: \*h₂ed-dʰgʷʰ-eh₂-(?) \
-COGN: To Arm. aCiwn "ashes" < \*h₂h₁s-g-i-? There is no clear solution to the anomalous discrepancy of EGm. \*azgōn- and NWGm. \*askōn-. The proposal to derive both these variants from \*astagōn- > \*astgōn- (Osthoff 1888: 396-9) must be rejected, such syncope being irregular in Gothic. It is also not likely that the form with \*ǵʰ is mirrored by Arm. _azazim_ "to dry out" (pace Meillet 1908: 357). Possibly, the Germanic root continues an assibilated form \*adzdʰgʷʰ-, which theoretically could yield both \*azgʷʰ- and \*azgʷ-. The origin of this element would still remain obscure, but perhaps we are dealing with some sort of compound, e.g. of the roots \*h₂ed- "to desiccate" (cf. Hitt. _hāti_ ~ _hatanzi_\* "to dry up" < \*h₂ód-ei, \*h₂d-énti (Kloekhorst 2008: 328-30) and Gr. _ἄζω_ "to dry" < \*h₂d-ie-) and \*dʰegʷʰ- "to burn" (cf. ToAB _tsäk_- "id.", Skt. _dáhati_ "id.", Lith. _dègti_ "to burn, light") \
+COGN: To Arm. aCiwn "ashes" < \*h₂h₁s-g-i-? There is no clear solution to the anomalous discrepancy of EGm. \*azgōn- and NWGm. \*askōn-. The proposal to derive both these variants from \*astagōn- > \*astgōn- (Osthoff 1888: 396-9) must be rejected, such syncope being irregular in Gothic. It is also not likely that the form with \*ǵʰ is mirrored by Arm. _azazim_ "to dry out" (_pace_ Meillet 1908: 357). Possibly, the Germanic root continues an assibilated form \*adzdʰgʷʰ-, which theoretically could yield both \*azgʷʰ- and \*azgʷ-. The origin of this element would still remain obscure, but perhaps we are dealing with some sort of compound, e.g. of the roots \*h₂ed- "to desiccate" (cf. Hitt. _hāti_ ~ _hatanzi_\* "to dry up" < \*h₂ód-ei, \*h₂d-énti (Kloekhorst 2008: 328-30) and Gr. _ἄζω_ "to dry" < \*h₂d-ie-) and \*dʰegʷʰ- "to burn" (cf. ToAB _tsäk_- "id.", Skt. _dáhati_ "id.", Lith. _dègti_ "to burn, light") \
 REF: [EDPG]\: 38
 
 ### <a id="aspo">\*aspō- ~ \*apsō- [f.] "aspen" (n)</a>
@@ -2407,7 +2407,7 @@ W: \
 -- OS _bēn_ \
 -- Du. _been_ \
 -- OHG _bein_, G _Bein_. \
-Unrelated to OIr. _benaid_ "to hew" in the sense of "chopped offbone" (Hamp 1985), but derived from ON _beinn_ "straight" < \*baina- (De Vries 1962: 30). No further etymology. If the original meaning of the root was "beam (ray; post)", it is possible that the word belongs to the root \*bʰeh₂- "to shine" (for which see [\*bōnjan-](#bonjan)), cf. PGmc. [\*strēlō- "ray; arrow"](#strelo). The underlying form would then be \*bʰh₂-oi-no-, a no-formation to an i-present \*bʰh₂-ei-, for which cf. Far. _bína_, Nw. _bina_ [wk.] "to stare" < \*bīnēn-. Unrelated to Nw. dial. _buna_ [f.] "bone" < \*bunōn- (pace Bugge 1899: 459) \
+Unrelated to OIr. _benaid_ "to hew" in the sense of "chopped offbone" (Hamp 1985), but derived from ON _beinn_ "straight" < \*baina- (De Vries 1962: 30). No further etymology. If the original meaning of the root was "beam (ray; post)", it is possible that the word belongs to the root \*bʰeh₂- "to shine" (for which see [\*bōnjan-](#bonjan)), cf. PGmc. [\*strēlō- "ray; arrow"](#strelo). The underlying form would then be \*bʰh₂-oi-no-, a no-formation to an i-present \*bʰh₂-ei-, for which cf. Far. _bína_, Nw. _bina_ [wk.] "to stare" < \*bīnēn-. Unrelated to Nw. dial. _buna_ [f.] "bone" < \*bunōn- (_pace_ Bugge 1899: 459) \
 REF: [EDPG]\: 48
 
 ### <a id="baira">\*baira- [m.] "boar" (n)</a>
@@ -3085,7 +3085,7 @@ W: \
 -- OS _berht_ "shining" \
 -- OHG _beraht_ "bright, shining", MHG _berht_ "id." \
 PIE: \*bʰerh₁ǵ-to- \
-COGN: Identical to W _berth_ "beautiful" < \*bʰerh₁ǵ-to-; also Alb. _bardhë_ "white" < \*bʰorh₁ǵ-o- (not \*bʰrǵ-o-, pace Huld 1984: 40). The derivational base of Go. _bairhtjan_, ON _birta_, OE _ge-bierhtan_ "to shine, make bright" < \*berhtjan-. In Germanic, the root also occurs without a suffix, e.g. in Nw. _bjerk_ "bright" < \*berka- < \*bʰerh₁ǵ-o- and in [\*brōka-](#broka) (q.v.) \
+COGN: Identical to W _berth_ "beautiful" < \*bʰerh₁ǵ-to-; also Alb. _bardhë_ "white" < \*bʰorh₁ǵ-o- (not \*bʰrǵ-o-, _pace_ Huld 1984: 40). The derivational base of Go. _bairhtjan_, ON _birta_, OE _ge-bierhtan_ "to shine, make bright" < \*berhtjan-. In Germanic, the root also occurs without a suffix, e.g. in Nw. _bjerk_ "bright" < \*berka- < \*bʰerh₁ǵ-o- and in [\*brōka-](#broka) (q.v.) \
 REF: [EDPG]\: 60
 
 ### <a id="beri">\*bēri- "portable" (adj)</a>
@@ -3702,7 +3702,7 @@ W: \
 -- OHG _buohha_, G _Buche_ \
 PIE: \*bʰeh₂g/ǵ-eh₂- \
 COGN: Gr. _φηγός_, Dor. _φαγός_ [f.] "oak", Lat. _fāgus_ [f.] "beech", Gaul. \*bāgos "id." (in French toponyms) < \*bʰeh₂g/ǵ-o- \
-An old IE tree name. Most Germanic forms straightforwardly point to PGmc. \*bōk-. Icel. _beyki_ [n.] "beech", a collective formation, has been interpreted as continuing \*baukja-, apparently with a -u- in its root, but it is more likely that _beyki_ [peikʲɪ] is an irregular continuant of ON \*bœki (cf. _bœki-skógr_ "beech forest"), a form directly continued by Icel. _bæki_ (cf. Magnusson 1989: 53). Du. _beuk_ does not go back to a PGmc. form with \*u either, but was borrowed from the eastern dialects that were affected by umlaut of PGmc. \*ō to \*ȫ. Any direct connection to Ru. _boz_ "elder", allegedly continuing PIE \*bʰugʰ-o-, must therefore be rejected, not least in view of the mismatch between Pre-Gm. \*g/ǵ and Pre-Slav. \*ǵʰ. \
+An old IE tree name. Most Germanic forms straightforwardly point to PGmc. \*bōk-. Icel. _beyki_ [n.] "beech", a collective formation, has been interpreted as continuing \*baukja-, apparently with a -u- in its root, but it is more likely that _beyki_ [peikʲɪ] is an irregular continuant of ON \*bœki (cf. _bœki-skógr_ "beech forest"), a form directly continued by Icel. _bæki_ (cf. Magnusson 1989: 53). Du. _beuk_ does not go back to a PGmc. form with \*u either, but was borrowed from the eastern dialects that were affected by umlaut of PGmc. \*ō to \*ȫ. Any direct connection to Ru. _boz_ "elder", allegedly continuing PIE \*bʰugʰ-o-, must therefore be rejected, not least in view of the mismatch between Pre-Gm. \*g/ǵ and Pre-Slav. \*ǵʰ. \
 REF: [EDPG]\: 71
 
 ### <a id="boni">\*bōni- [f.] "request, prayer" (n)</a>
@@ -3969,7 +3969,7 @@ REF: [EDPG]\: 77
 N: \
 -- Elfd. _brinde_ \
 -- Nw. _bringe_ "male elk" \
-Unrelated to Messap. _βρένδον_ "deer" < \*bʰrendʰ-(?) as given by Hesychius or to OPru. _braydis_, Latv. _briêdis_ "elk" < \*braidi- (pace Pokorny IEW: 168-9). In view of Elfd. _brunda_ [wk.] "to rut" and the Nw. Sunnmøre context _elgen hev alt teke til å brunda_ "the elk has started rutting" < \*brundōjan-, it is evident that the word started out as a late North Germanic deverbal formation that has nothing to do with the extra-Germanic look-alikes mentioned above. It is rather cognate with Nw. _brund_ [m.] "rut; male elk" < \*brunda-, which was derived from [\*breman- ~ \*brimman "to drone, roar"](#breman) (q.v.), cf. MHG _brunft_, G _Brunst_ [f.] "rut" < \*brumþi- \
+Unrelated to Messap. _βρένδον_ "deer" < \*bʰrendʰ-(?) as given by Hesychius or to OPru. _braydis_, Latv. _briêdis_ "elk" < \*braidi- (_pace_ Pokorny IEW: 168-9). In view of Elfd. _brunda_ [wk.] "to rut" and the Nw. Sunnmøre context _elgen hev alt teke til å brunda_ "the elk has started rutting" < \*brundōjan-, it is evident that the word started out as a late North Germanic deverbal formation that has nothing to do with the extra-Germanic look-alikes mentioned above. It is rather cognate with Nw. _brund_ [m.] "rut; male elk" < \*brunda-, which was derived from [\*breman- ~ \*brimman "to drone, roar"](#breman) (q.v.), cf. MHG _brunft_, G _Brunst_ [f.] "rut" < \*brumþi- \
 REF: [EDPG]\: 77
 
 ### <a id="bringan">\*bringan- [st.] "to bring" (v)</a>
