@@ -5992,3 +5992,386 @@ PIE: \*dʰgʷʰéi-ne- \
 COGN: Skt. _kṣiṇā́ti_, _kṣiṇóti_ "to destroy, corrupt, ruin" < \*dʰgʷʰi-neh₂- / -neu-, Gr. _φθίνω_ "to decline, decay, perish; to cause to decline, consume, destroy" < \*dʰgʷʰi-nu-e-, Lat. _situs_, -_ūs_ [m.] "neglect, disuse, rot" < \*dʰgʷʰi-tu- \
 An n-present to the root \*dʰgʷʰei-, cf. Nw. _dvå_ [wk.] "to abate" < \*dwīan-, cf. Skt. _kṣáyati_ "to destroy" < \*dʰgʷʰéi-e-. A slightly different formation is ON _dvena_, _dvina_ [wk.] "to dwindle, cease, subside" < \*dwinōn- < \*dʰgʷʰi-neh₂-, which unlike the factitive Skt. _kṣiṇā́ti_ appears to be an (intransitive) iterative. The Germanic reflexes of this verbal formation show a remarkable alternation between \*dwīnan-, [\*swīnan-](#swinan), [\*þwīnan-](#thwinan) and perhaps also [\*kwīnan-](#kwinan): apparently, the outcome of the initial cluster \*dʰgʷʰ- was unstable in Germanic. \
 REF: [EDPG]\: 112
+
+## E
+
+### <a id="ebanth">\*ēbanþ- ~ \*ēbund- [m.] "evening" (n)</a>
+N: \
+-- ON _aftann_, _eftann_ \
+-- Far. _aftan_ \
+-- Elfd. _otn_ "early supper" (< ON \*_ǫftunn_?) \
+W: \
+-- OE _ǣfen_, E _eve_ \
+-- OFri. _ēwend_, _iōwen(d)_, _iouwend_, _iōn(d)_, _ioun(d)_, WFri. _jûn_ [c.], EFri. _āiwend_ \
+-- OS _āƀand_ \
+-- ODu. _āvont_, Du. _avond_ [c.] \
+-- OHG _āband_, _ābund_ [c.], G _Abend_ \
+PIE: \*h₁eh₁pt-ont- \
+An etymologically and derivationally problematic word. The suffix has a clear parallel in Hitt. _ispant_- [c.] "night" (see [\*westera-](#westera)), and indeed, the alternation of \*-anþ/da- vs. \*-unþ/da- points to an accentually mobile consonant stem. It remains unclear, however, how the paradigm must be reconstructed, especially in view of the difficult root alternation of Nordic \*aft- vs. West Germanic \*ēb-. I am inclined to follow Hamp (_apud_ EWAhd: I, 11), and reconstruct it as nom. \*h₁éh₁pt-ont, gen. \*h₁h̥₁pt-nt-ós. This reconstruction has two advantages. First, the root \*ēb- can be explained by t-dissimilation in a secondary genitive \*h₁eh₁pt-nt-ós (cf. \*sebunþ/dan- "seventh" < \*septm-tHó-, Brugmann 1895: 376). Second, the predominantly Nordic root \*aft- can be accounted for as having developed from \*h₁h̥₁pt-, i.e. with regular vocalization of the laryngeal between stops. The etymology of the word nevertheless remains unclear: the comparison with [\*afteri](#afteri) < \*h₂ep-tero- is semantically sound (cf. _æften-tīd_ "evening" < "after-tide"), but formally impossible in view of the initial laryngeal. \
+REF: [EDPG]\: 113
+
+### <a id="ebna">\*ebna- "even, level" (adj)</a>
+E: \
+-- Go. _ibns_ "even, level, flat" \
+N: \
+-- ON _jafn_ "even, equal" \
+-- Far. _javnur_ "id." \
+-- OSw. _iamn_, _iæmn_ "id." \
+-- Elfd. _iemmen_ "id." \
+W: \
+-- OE _efen_ "even, equal", E _even_ \
+-- Du. _effen_, _even_ "level, even" \
+-- OHG _eban_ "even, equal, straight", G _eben_ "level" \
+PIE: \*em-no- \
+COGN: Skt. _amnás_ "just, just now; at once" (adv) < \*h₁em-n-e/os- \
+A no-stem to a root \*h₁em-, cf. Skt. _amnás_ (Schaffner 2000): it follows that the cluster \*-bn- developed from \*-mn-. Older etymological proposals cannot be maintained. The reconstruction as \*imna-, based on the alleged link with [\*jumja- "(primordial) twin"](#jumja) < \*imH-io-, is irreconcilable with ON _jafn_, whose vocalism points to breaking of PGmc. \*e. The additional connection with W _iawn_ "id.", OBret. _ion_, _eunt_, MBret. _effn_ "right, simple", Co. _ewn_ "righteous, correct" can only work by deriving it from \*h₁em-no-, but OIr. _án_ "true, just" rather points to \*yāno- (Matasovic 2009: 433). The alternative reconstruction of the Celtic forms as \*epōno- does not work either, because PGmc. \*ep-nó- would give \*\*eppa- (with Kluge's law) rather than \*ebna- \
+REF: [EDPG]\: 113
+
+### <a id="ebura">\*ebura- [m.] "boar" (n)</a>
+N: \
+-- ON _jǫfurr_ "king" \
+W: \
+-- OE _eofor_ \
+-- MDu. _ever_, Du. _ever-zwijn_ \
+-- OHG _ebur_, G _Eber_ \
+PIE: \*epr \
+COGN: Lat. _aper_ [m.] "wild boar; kind of fish", Umb. _abrons_ acc.pl. < \*apro-, Latv. _vepris_ "castrated boar", OCS _veprь_, Ru. _vepr'_ (gen. _véprja_), SCr. _vȅpar_ [m.] "wild boar" < \*uepri- (\*uepro-) \
+The irregular alternation of Pre-Gm. \*epr, Pre-It. \*apr and Pre-Slav. \*uepr- could be an indication that the word was not inherited from PIE, but rather adopted from an unknown (extinct) source by the individual daughter languages after their settlement in Europe. Another word in which non-IE \*a emerges as Gm. \*e is [\*þeura- "bull"](#theura) (q.v.). \
+REF: [EDPG]\: 114
+
+### <a id="edara">\*edara- [m.] "edge; fence" (n)</a>
+N: \
+-- ON _jaðarr_ "edge" \
+-- Far. _jaðari_ "edge, corner" \
+-- Nw. _jar(e)_ "edge, side" \
+W: \
+-- OE _eodor_ "hedge, fence, enclosure, dwelling; limit, end, region" \
+-- OS _edar_ "pale, picket, bar" \
+-- OHG _etar_ [m./n.] "edge, fence", MHG _eter_ "id." \
+PIE: \*h₁edʰ-ro- \
+COGN: OCS _odrъ_ [m.] "bed", Ru. (arch.) _odr_ [m.] "bed, couch", Cz. _odr_ "pillar, frame, summer-house", SCr. _òdar_ [m.] "bed, scaffolding" < \*h₁odʰ-ro- \
+N: \
+-- ON _jǫðurr_ has a suffix variant \*-ura-, which may also be present in OE _eodor_. Also note Far. _jaður_ [n.] "layer, stratum" < \*_jaðra_- and the ablauting MLG _ader(e)_ "pole, beam in a fence" < \*adr-. Perhaps the word originally had a static paradigm, e.g. \*adur, gen. \*edurz < \*h₁ódʰ-r, \*h₁édʰ-r-s \
+REF: [EDPG]\: 114
+
+### <a id="edi">\*edi "again" (conj)</a>
+E: \
+-- Go. _iþ_ "but, however" \
+PIE: \*h₁eti \
+COGN: Gr. _ἔτι_ "still, also, further" (adv), Lat. _et_ (conj/adv) "and what is more, too; and", Gaul. _eti_ "yet, still, equally" (adv), NPhr. _ετι_ "and" (conj) \
+REF: [EDPG]\: 114
+
+### <a id="edis">\*edis- [f.] "(noble, divine) lady" (n)</a>
+W: \
+-- OE _ides_ "female, lady" \
+-- OS _idis_ "wife, woman" \
+-- OHG _itis_ "(divine) woman" \
+A word without a certain etymology. The connections with [\*edara- "fence"](#edara) (Eichner/Nedoma 2000: 33) and [\*aida- "pyre"](#aida) (parallel to G _Flamme_, Bammesberger 2007) are semantically unconvincing. The link with ON _dís_ [f.] "woman, girl; fairy, nymph; goddess", Far. _dís_ [f.] "goddess, nymph", Nw. _dis_ [f.] "goddess" < \*dīsi-, on the other hand, is not improbable in view of the parallelism of ON _dís Skjǫldunga_ and OE _ides Scildinga_ "lady of the Shielding clan"), but poses crucial formal difficulties. It is theoretically possible to solve these by reconstructing a (rather far-fetched) ablauting s-stem nom. \*h₁édʰ-i(ō)s, obl. \*h₁dʰ-iés-, but it is not impossible either that the form \*edis contains a prefix \*e-, which may be identical to the substrata) prefix \*a- (for which see e.g. [\*amslōn-](#amslon)). \
+REF: [EDPG]\: 114
+
+### <a id="edra">\*ēdra- "quick" (adj)</a>
+W: \
+-- OE _ǣdre_ "immediately" (adv) \
+-- OFri. _ē̆der_, _edre_, _idder(e)_ "soon, quickly" (adv) \
+-- OS _ādro_ "early" (adv) \
+-- OHG _ātar_ "quick" \
+No certain etymology. The word has been compared to Lith. _otrùs_, Latv. _ātrs_ "quick", but this may be a loanword from Germanic. \
+REF: [EDPG]\: 115
+
+### <a id="egila">\*egila- [m.] "hedgehog, sea urchin" (n)</a>
+N: \
+-- ON _igull_ "urchin" \
+-- Icel. _ígul-ker_ [n.] "sea urchin" \
+-- ODa. _jæwæl_ "hedgehog" \
+W: \
+-- OE _igil_, _īl_ "hedgehog, porcupine; sea urchin" \
+-- MDu. _egel_ "hedgehog", Du. _egel_ [c.] "id." \
+-- OHG _ī̆gil_ "id.", G _Igel_, obs. _Eigel_ "id." \
+PIE: \*h₁eǵʰ-i-lo- \
+COGN: Oss. _wyzyn_ / _uzun_ "hedgehog" (with unexplained initial _u_), Arm. _ozni_ "id." < \*h₁oǵʰ-i-Hn-io-, Gr. _ἐχῖνος_ [m.] "id." < \*h₁eǵʰ-i-Hno-, Lith. _ežỹs_, Latv. _ezis_ [m.] "id.", Ru. _ēž_ (gen. _ežá_), Ser. _jêž_ "id." < \*h₁eǵʰ-io- \
+Most of the attested forms point to \*egila-, but ODa. _jæwæl_ developed from a divergent form, i.e. either ON \*_jagall_ < \*egala- or \*_jǫgull_ < \*egula- (with breaking of initial _e_). ON _igull_ appears to contain the same suffix \*-ula-, but is due to a late substution of -_ill_ by -_ull_. Note that the lengthening of ON _i_ to _í_ in Icel. _ígull_ is automatic before _g_ in open syllables. \
+REF: [EDPG]\: 115
+
+### <a id="egja">\*ēgja- [m.] "sea" (n)</a>
+N: \
+-- ON _ǣgir_ \
+-- Far. poet. _ægir_\* \
+PIE: \*h₂ēkʷ-ió- \
+The word, which occurs in Old Norse and in Faroese ballads (_á ægin blá_ "to the sea"), is usually derived from \*h₂ēkʷ-ió-, i.e. a lengthened grade formation to [\*ahwō- "river"](#ahwo) < \*h₂ékʷ-eh₂- (Darms 1978: 29). OE _eagor_ "sea, flood" has been adduced as well, but in this word the r is a suffix, not an ending. It is therefore more likely to be related to Du. _agger_ "sea swell" < [\*agra-](#agra) (q.y.) \
+REF: [EDPG]\: 115
+
+### <a id="ehwa">\*ehwa- [m.] "horse" (n)</a>
+E: \
+-- Go. _aiƕa-tundi_ [f.] "thornbush" \
+N: \
+-- ON poet _jór_ "stallion" \
+W: \
+-- OE _eoh_ "war-horse" \
+-- OS _ehu-skalk_ "groom" \
+PIE: \*h₁eḱ-uo- \
+COGN: H Luv. _ásu_- [c.], Lye. _esb_- "horse" < \*h₁eḱ-u-, Skt _áśva_- [m.] "horse, steed", ToA _yuk_, ToB _yakwe_ [m.] "horse", Gr. _ἵππος_ [m./f.] "horse, mare", Lat _equus_ [m.] "horse", OIr. _ech_, OBret _eb_ [m.] "id." (cf. W _ebawl_ "foal" < \*ekwo-pōlHo-, for which see [\*fulan-](#fulan)), Lat _equa_, Lith. _ešva_ [f.] "mare" < \*h₁eḱ-u-eh₂- \
+Most Indo-European languages, including Germanic, have a thematic noun reflecting PIE \*h₁eḱ-uo-, but the Anatolian evidence points to a u-stem, \*h₁eḱ-u-s, gen. \*h₁ḱ-u-ós (Kloekhorst 2008: 237). This archaic paradigm can probably also explain the problematic form Gr. _ἵππος_ with geminated pi; it may continue \*_ἔπϝος_, i.e. a contamination form of the expected nom. \*_ἔκυς_ and the gen. \*_ἔπος_. See also [\*skufta-](#skufta-2). \
+REF: [EDPG]\: 115
+
+### <a id="eka">\*ek(a) "I" (pron)</a>
+E: \
+-- Go. _ik_, dat. _mis_, acc. _mik_ \
+N: \
+-- ON _ek_, dat. _mér_, acc. _mik_ \
+-- Far. _eg_, dat. _mær_, acc. _meg_ \
+-- OSw. _iak_, dat. _mær_, acc. _mik_, _mek_ \
+-- Elfd. _ig_, obl. _mig_ \
+W: \
+-- OE _ic_, obl. _mē_, acc. _mec_, E _I_, obl. _me_ \
+-- OFri. _ik_, obl. _mī_ \
+-- OS _ik_, obl. _mī_ \
+-- Du. _ik_, obl. _mij_ \
+-- OHG _ih_, dat _mir_, acc. _mih_, G _ich_, dat _mir_, acc. _mich_ \
+PIE: \*h₁eǵ-H-om \
+COGN: Identical to Skt. _ahám_ "I", OAv. _azə̄m_ "id.", YAv. _azəm_ "id.", OP _adam_ "id.", Arm. _es_ "id.", OLith. _eš_ "id.", Lith. _àš_ "id.", Latv. _es_ "id.", OPru. _as_, _es_ "id.", OCS _azъ_, ORu. _(j)azъ_, Ru. _ja_, SCr. _jâ_, dial. _jȁz_ "id." < \*h₂eǵ-H-om; also cf. Hitt _ūk_ "id." < \*h₁ug, ToA _ñuk_ (f.) "id.", ToB _ñäś_ "id." (< \*h₁mene-ǵe?), Gr. _ἐγω_, Dor. _ἐγών_ "id.", Lat _egō_ "id."< \*h₂eǵ-ōn \
+The IE pronoun of the first person. The Germanic form must go back to \*eka < \*h₁eg-H-om in view of the breaking of -_e_- to -_ja_- in East Nordic, cf. OSw. _iak_, Sw. _jag_, Da. _jeg_. It is further conceivable that the emphatic WGm. variants OHG _ihha_, MHG _iche_, Du. _ikke_ (cf. Howe 1996: 241) continue \*ekō, a form that may correspond to e.g. Gr. _ἐγω_ and Lat _egō_ < \*h₁eǵ-oH. See also [\*mīna-](#mina). \
+REF: [EDPG]\: 116
+
+### <a id="ela">\*ēla- [m.] "eel" (n)</a>
+N: \
+-- ON _áll_ \
+-- Far. _álur_, _álli_, _állur_ \
+-- Elfd. _ål_ \
+W: \
+-- OE _ǣl_, E _eel_ \
+-- OFri. _ēl_ \
+-- MDu. _ael_, Du. _aal_ [c.] \
+-- OHG _āl_, G _Aal_ \
+An old fish name, perhaps related to \*ala- and \*elo- (q.v.). \
+REF: [EDPG]\: 116
+
+### <a id="elgra">\*elgra- "blunt (of teeth)" (adj)</a>
+W: \
+-- G obs. _elger_ \
+PIE: \*h₁el(H)k-ró- \
+COGN: Lith. _álkti_ "to be hungry", OCS _alъkati_ "id.", Ru. _alkát'_ (_álču_) "to hunger (for), crave (for)" < \*h₁olHk- (or \*h₁eh₁olk-, Rasmussen 1999: 199) \
+A ro-stem to the root \*h₁el(H)k-. Also cf. OHG _ilki_ "_fames vel stridor dentium_" < \*elgīn- and MHG _ilgern_ [wk.] "to become blunt (of teeth)" < \*elgrjan- (DWB: 1 0, 2060-61). I assume that the original meaning "having blunt teeth" developed into "hungry" in both Germanic and Balto-Slavic. Unrelated to [\*elhja- "evil"](#elhja) (q.v.) \
+REF: [EDPG]\: 116
+
+### <a id="elhan">\*elha(n)- [m.] "elk" (n)</a>
+W: \
+-- OE _eolh_, _ē̆ola_, ME _elk_, E _elk_ \
+-- LG _elk_ "id." \
+-- EDu. _elgh_ "bison" \
+-- OHG _elaho_, _elho_ "elk" \
+PIE: \*h₂el-ḱo(n)- \
+An ablauting variant of [\*algi-](#algi) (q.v.) with the same meaning. The Middle Germanic forms with final _k_ are unexpected, and may point to borrowing from Nordic. Alternatively, they can be accounted for by assuming generalization of the oblique stem of an n-stem \*elhō, \*elkaz < \*h₁élḱ-ōn, \*h₂elḱ-n-ós. For the suffix -ḱo-, cf. [\*selha- "seal"](#selha). \
+REF: [EDPG]\: 116
+
+### <a id="elhja">\*elhja- "evil" (adj)</a>
+N: \
+-- ON _illr_ "ill, evil, bad, mean" \
+-- Far. _illur_ "evil, unfriendly; poor, miserable; angry" \
+PIE: \*h₁elk-io- \
+COGN: OIr. _elc_ "mischievous, capricous" < \*h₁elk-o-(?) \
+The cluster -_ll_- can be derived from several sources in Old Norse and has therefore given occasion to many different etymologies. In view of the Finnish loanwords _elkiä_ "mean, malicious" and _ilkeä_ "bad, mean, wicked", the derivation of illr from \*elhila- (with \*-ila- as in [\*mekila- "big"](#mekila) and [\*lītila- "small"](#litila)?) through syncope is least problematic. Alternatively, it is possible to assume that the root _illr_ arose from \*_ĭ́li-ligr_, cf. ON _dælla_ "friendly" (adv) < \*_dæli-liga_, etc. (see [\*airi](#airi) for more examples). The final i of \*_ĭ́li_- in \*_ĭ́li-ligr_ just like Fi. _elkiä_ points to an original ja-stem \*elhja-. \
+REF: [EDPG]\: 117
+
+### <a id="elo">\*ēlō- [f.] "awl" (n)</a>
+W: \
+-- OE _ǣl_, _eal_, ME _ēl_, _a(u)l_ \
+-- OHG _āla_, G _Ahle_ \
+PIE: \*h₁éh₁l-eh₂- \
+COGN: Skt. _ā́rā_- "awl" \
+The Sanskrit and Germanic forms are identical, even regarding the accent, as \*h₁eh₁l-éh₂- would have resulted in PGmc. \*\*elō- by pretonic shortening. Cf. [\*ala-](#ala) and [\*alasnō-](#alasno). \
+REF: [EDPG]\: 117
+
+### <a id="embja">\*embja- [n.] "swarm of bees" (n)</a>
+W: \
+-- OE _imbe_ [m.] \
+-- MDu. _imme_ [f.] "bee" \
+-- OHG _impi_ [m.] "swarm of bees; bee", MHG _imbe_, _imme_ [m.] "id." \
+The neuter OE _imbe_ continues a collective \*imbja-, but OHG _impi_ and MDu. _imme_ in the sense of "bee" probably represent different formations, i.e. \*imbja- and \*imbjō-. No further etymology: the comparison with Gr. _ἐμπίς_, -_ίδος_ [f.] "gnat" is erroneous because this word was derived from _ἐμπίνειν_ "to drink oneself full" (with blood). \
+REF: [EDPG]\: 117
+
+### <a id="emon-1">\*ēmōn- [f.] "erysipelas" (n)</a>
+N: \
+-- ON _áma_, _ámu-sótt_ \
+W: \
+-- OE _ōman_ [f.pl.] \
+PIE: \*h₁éh₁-mon- \
+COGN: Skt. _āmá_-, NP _xām_, Oss. _xom_, Arm. _hum_, Gr. _ὠμός_, OIr. _om_, W _of_ "raw" < \*h₁oh₁-mó- \
+An mn-stem to the root \*h₁eh₁- "raw, reddish (of skin)", which is further supported by the aforementioned mo-stem adjectives in the other IE languages. Also note OE _ōm_ [m.] "rust", G _Ohm_ [m.] "skin infection" < \*ēma-, which may be a thematicization of the origin mn-stem in view of the e-grade of the root. Unrelated to [\*am(m)ōn- "to irritate"](#ammon) (q.v.), which is based on the root \*h₃emh₃-. \
+REF: [EDPG]\: 117
+
+### <a id="emon-2">\*ēmōn- [f.] "larva" (n)</a>
+N: \
+-- Nw. _åme_ "larva, caterpillar" \
+-- Elfd. _oma_ "id." \
+W: \
+-- OE _ē̆mel_ "caterpillar; weevil" \
+-- MLG _emel_, _emelte_ "corn bug; aphid" \
+-- Du. _emelt_ [c.] "mosquito larva" \
+An old word for "larva" or "caterpillar". There are some formal difficulties: Nw. _åme_ straightforwardly points to \*ēmōn-, but the West Germanic forms can be derived from both \*ēmilō- and \*amilō-. The dental suffix of MLG _emelte_, Du. _emelt_ is also found in the doublet MLG _homele_ ~ _homelte_ "bumblebee" (< [\*humelan-](#humelan)) and ultimately emanated from MLG _hornte_, MDu. _hornete_, _hornte_, _hoornte_ "hornet" (see [\*hurnuta/ō-](#hurnuta)). \
+REF: [EDPG]\: 117
+
+### <a id="enu">\*ē̆nu- "without" (prep)</a>
+E: \
+-- Go. _inu_ \
+N: \
+-- ON _án_, _ón_ \
+-- Far. _ón_ \
+W: \
+-- OS _āno_ \
+-- OHG _ānu_, _āne_, G _ohne_ \
+PIE: \*h₂ēnu \
+COGN: Gr. _ἄνευ_ "far from, without" (adv) \
+A preposition (adverb, conjunction) that on the basis of the comparison with Gr. _ἄνευ_ can be reconstructed as \*ēnu < \*h₂ḗnu for NWGm. \*āneu and as \*enu < \*h₂ēnú for Gothic _inu_ (the latter with pretonic shortening, i.e. Dybo's law): apparently, the adverb was grammaticalized from an originally mobile u-stem, e.g. nom. \*h₂ḗn-u, loc. \*h₂n-éu (= Gr. _ἄνευ_). Note that both proto-forms must be reconstructed with a lengthened grade (cf. Nikolaev 2007: 165) in order to explain the non-coloring by the laryngeal (Eichner's law). \
+REF: [EDPG]\: 118
+
+### <a id="erban">\*erba(n)- [m.] "wolverine" (n)</a>
+N: \
+-- Icel. _jerfur_, obs. _jarfi_ \
+-- Nw. _jerv_, dial. _jarv_, _erv_ \
+A Nordic word, probably continuing a proto-form \*erba(n)- that developed into ON _jarfr_, Icel. _jarfi_, Nw. dial. _jarv_ by a-breaking. The form _jerfr_ is irregular, but may be a contamination of _jarfr_ with an unbroken form \*_erfr_, cf. Nw. dial. _erv_. Etymologically, the word has been compared to ON _jarpr_ "brown" < \*erpa- and to Gr. _ἔριφος_ "goat", but it is perhaps better to assume a link with Nw. dial. _jarva_ [wk.] "to gnaw, chew" \
+REF: [EDPG]\: 118
+
+### <a id="erpa">\*erpa- "light brown" (adj)</a>
+N: \
+-- ON _jarpr_ "chestnut, reddish-brown" \
+-- Far. _jarpur_ "light or yellowish-brown" \
+W: \
+-- OE _eorp_, _earp_ "dark, dusky, brown, swarthy" \
+-- OHG _erpf_ "brown, dark-brown, dark" \
+PIE: \*h₁erbʰ-nó- \
+COGN: Gr. _ὀρφνός_ "dark brown" < \*h₁orbʰ-no-, Ru. dial. _rjabój_ [(adj)] "speckled" < \*h₁re-m-bʰo- \
+Related to the ablauting Gr. _ὀρφνός_ through Kluge's law (Pre-Gm. \*erppa-). There is no direct etymological connection with [\*reupōn- "grouse"](#reupon): Slav. \*rębъ served as the basis for the semantically parallel derivation of RuCS _rěbь_ "partridge", cf. the late derivatives ON _jarpi_ [m.] "hazel grouse" and Icel. _irpa_ [f.] "brown mare" < \*erpjōn-. \
+REF: [EDPG]\: 118
+
+### <a id="ertho">\*erþō- [f.] "earth, soil, land" (n)</a>
+E: \
+-- Go. _airþa_ \
+N: \
+-- ON _jǫrð_ \
+-- Far. _jørð_ \
+-- Elfd. _juord_ \
+W: \
+-- OE _eorþ_, E _earth_ \
+-- OFri. _erthe_ \
+-- OS _ertha_ \
+-- Du. _aarde_ [c.] \
+-- OHG _erda_, G _Erde_ \
+PIE: \*h₁ér-t-eh₂-(?) \
+COGN: Gr. _ἔρα_ [f.] "earth" < \*h₁er-eh₂(?) \
+Possibly related to Gr. _ἔρα_. Within Germanic, the word is probably cognate with [\*erwan-](#erwan) (q.v.). \
+REF: [EDPG]\: 118
+
+### <a id="erwan">\*erwan- [m.] "sand, soil" (n)</a>
+N: \
+-- ON _jǫrfi_ "sand (bank)" \
+W: \
+-- OHG _ero_ "earth" \
+PIE: \*h₁er-uon-(?) \
+COGN: ToB _yare_ "gravel, dirt" (if _yāre_ is a misspelling?) \
+A word possibly containing the same root as \*_erþō_- "earth". ODu. \*_erende_ for _ereude_ "_fines terrae_" has been analyzed by Van Helten 1902: 261 as a compound of the same word (ODu. \*_ero_) with [\*andja- "end"](#andja) (q.v.), but it may alternatively continue \*uz-andja- "far end". \
+REF: [EDPG]\: 119
+
+### <a id="erzja">\*erzja- "stray" (adj)</a>
+E: \
+-- Go. _airzeis_ "deluded, misled, in error" \
+W: \
+-- OS _irri_ "furious" \
+-- OHG _irri_ "erring, ignorant", MHG _irre_ "astray" \
+PIE: \*h₁ers-io \
+COGN: Semantically close to Lat. _errāre_ "to roam, waver" < \*h₁ers-eh₂-ie- \
+A ja-stem derived from a PIE verbal root \*h₁ers-, which originally may have been identical to \*h₁ers- "to flow", cf. Hitt. _ārszi_ ~ _arsanzi_ "id." < \*h₁érs-ti, \*h₁rs-énti, Skt. _árṣati_ "id.", assuming that the meaning "to roam, err" developed from "to be on the run". It is furthermore possible to compare PIE \*h₁ers- "to boil, to rage", cf. Hitt. _arsanēzi_\* "to be envious" < \*h₁rs-neh₁-, Arm. _eṙam_ "to boil, be restless" < \*h₁ers- and Lith. _aršùs_ "vehement" < \*h₁ors-u-. The adjective served as the basis for OE _irsian_ [wk.] "to deceive" < \*erzisōn- (for the suffixation, cf. the derivation of _firsian_ "to remove" from _feor_ "far" and _hlǣnsian_ "to make lean" from _hlǣne_ "lean"). \
+REF: [EDPG]\: 119
+
+### <a id="esa">\*ēsa- [n.] "dead meat; bait" (n)</a>
+W: \
+-- OE _ǣs_ \
+-- Du. _aas_ \
+-- OHG _ās_, G _Aas_ \
+PIE: \*h₁ēd-so- \
+COGN: ToB _yetse_ [m.] "(outer) skin" < \*h₁ēd-so- \
+A thematicized s-stem derived from [\*etan-](#etan). The Germanic word can be reconstructed as both \*h₁ēd-to- and \*h₁ēd-so-, but the latter option is corroborated by ToB _yetse_. \
+REF: [EDPG]\: 119
+
+### <a id="etan">\*etan- [st.] "to eat" (v)</a>
+E: \
+-- Go. _itan_ \
+N: \
+-- ON _eta_ \
+-- Far. _eta_ \
+-- Elfd. _jätå_ \
+W: \
+-- OE _etan_, E _to eat_ \
+-- OS _etan_ \
+-- Du. _eten_ \
+-- OHG _ezzan_, G _essen_ \
+PIE: \*h₁éd- \
+COGN: Hitt. _ez(za)zi_ ~ _adanzi_, Skt. _átti_, 3pl. _adánti_, Gr. _ἔδω_, Lat. _edō_, _ēsse_, OIr. _ithid_, Lith. _ė́sti_, Latv. _êst_, OPru. _īstwei_, OCS _jasti_ (_jamь_), Ru. _ést'_ (_em_), SCr. _jȅsti_ "to eat" < \*h₁éd-ti, 3pl. \*h₁d-énti \
+Also cf. Go. _fra-itan_, OE _fretan_, E _to fret_, (M)Du. _vreten_, OHG _frezzan_, G _fressen_ [st.] "to eat (up), gourmandize" < \*fra-etan-. See further [\*atjan-](#atjan) and [\*ēsa-](#esa). \
+REF: [EDPG]\: 119
+
+### <a id="ethman">\*ēþman- ~ \*ēdman- [m.] "breath" (n)</a>
+W: \
+-- OE _ǣþm_ "breathing, breath" \
+-- OFri. _ēthma_ "breath" \
+-- OS _āthum_ "breath, spirit" \
+-- Du. _adem_, coll. _asem_ [c.] "breath" \
+-- OHG _ātum_ "breath, breeze, spirit", MHG _ātem_, G _Atem_ "breath" \
+PIE: \*h₁eh₁t-mon- \
+COGN: Skt. _ātmán_- [m.] "soul, self, breath" \
+The Sanskrit paradigm nom. _ātmā́_, Joe. _ātmáni_ ~ _tmán(i)_ points to an ablauting paradigm \*h₁éh₁t-mōn, Joe. \*h₁h₁t-mén-(i). Apparently, the accentual mobility was preserved in Germanic, cf. OE _ǣþm_ < \*ēþma- vs. OHG _ātum_ < \*ēdma-. With the same root, cf. [\*ēþrō- ~ \*ēdrō-](#ethro) "vein, etc.". \
+REF: [EDPG]\: 119
+
+### <a id="ethro">\*ēþrō- ~ \*ēdrō- [f.] "vein, rivulet" (n)</a>
+N: \
+-- ON _æðr_, gen. _æðar_ "vein" (< \*ēdīz, -jōz) \
+-- Nw. _år(e)_ "rivulet; vein" \
+W: \
+-- OE _ǣdre_ "river; vein, artery; nerve, sinew; kidney" \
+-- OFri. _eddere_, _ēdere_ "vein" \
+-- MDu. _adere_ "vein, artery; sinew, fiber", Du. _ader_ [c.] "vein" \
+-- OHG _ād(a)ra_ "vein, sinew, muscle", G _Ader_ "sinew", pl. "bowels" \
+PIE: \*h₁eh₁t-r- \
+COGN: Gr _ἦτορ_ [n.] "heart" < \*h₁eh₁t-r-; unrelated is OIr. _inathar_ [m.] "entrails, bowels", MCorn. _inederen_ "extum" < \*h₁en-utro- (Anders Jørgensen, p.c.) \
+The word, which may contain the same root as [\*ēþman- ~ \*ēdman-](#ethman) (q.v.), alternates between \*ēþrō- and \*ēdrō- in Germanic, and this may point to an originally mobile paradigm, e.g. sg. \*h₁éh₁t-r, pl. \*h₁h₁t-ṓr. Also cf. the collective OHG _inn-ād(i)ri_, MHG _in-æder(e)_ [n.] "entrails, veins", OLFra. _inn-ēthron_ dat.pl. "visceribus" < \*ēþrja-. \
+REF: [EDPG]\: 120
+
+### <a id="eudra">\*eudra- ~ \*ūdra- [n.] "udder" (n)</a>
+N: \
+-- ON _júgr_ \
+-- Far. _júgur_ \
+-- Elfd. _juor_ \
+W: \
+-- OE _ūder_, E _udder_ \
+-- OFri. _ūder_, WFri. _jaer_, NFri. Hall. _jaodər_ \
+-- MLG _jeder_, _jüdder_ \
+-- Du. _uier_ [c.] (dial. _jadder_ "teat" « OFri. \*_jadder_) \
+-- OHG _ūtar(o)_ [m.], G _Euter_ \
+PIE: \*h₁(e)uHdʰ-r/n- \
+COGN: Skt. _ū́dhar_ ~ _ū́dhan_- [n.] "udder"< \*h₁uHdʰ-r/n-, Gr. _οὖθαρ_, -_ατος_ [n.] "id." < \*h₁ouHdʰ-r/nt-, Lat. _ūber_ [n.] "breast; udder" < \*h₁e/ouHdʰ-r- \
+While the PGmc. form \*ūdra- is backed up by Skt. _ū́dhar_, the e-grade \*eudra- (or perhaps rather \*eudur in view of the dissimilation of \*-ð- to \*-g- in ON _júgr_, cf. _fjǫgur_ "4" < \*feǫðuru < \*fedur-ō) < \*h₁euHdʰ-r- is uniquely Germanic. Together with Gr. _οὖθαρ_ < \*h₁ouHdʰ-r-, the material provides evidence for a static paradigm \*h₁óuHdʰ-r, gen. \*h₁éuHdʰ-n-s, but the origin of the zero-grade root \*h₁uHdʰ- remains uncertain. The ultimate derivation of the word is not entirely clear, but it is possible that it was created to a root \*h₁euHdʰ- as evinced by Ru. dial. _údit'_ "to ripen (of grain); to swell up with liquid" < \*h₁ouHdʰ-eie- (Vine/Yokoyama 2010). This may be a dʰh₁-extension to a more primary base \*h₁eu(H)- possibly preserved in Hitt. _uwa_- "nurse(?)" (Melchert 1986: 111, 114). The heteroclitic r/n-suffix was strongly associated with body parts in Indo-European. \
+REF: [EDPG]\: 120
+
+### <a id="eup">\*eup ~ \*upp "up, upwards" (adv)</a>
+E: \
+-- Go. _iup_ \
+N: \
+-- ON _upp_ \
+-- Far. _upp_ \
+-- Elfd. _upp_ \
+W: \
+-- OE _up_, E _up_ \
+-- OFri. _up_, _op_ \
+-- OS _up_ \
+-- Du. _op_ (adv/prep) "up; on" \
+-- OHG _ūf_, G _auf_ (adv/prep) "id." \
+PIE: \*(h₁e)up-n- \
+An ablauting directional adverb, related to [\*uba "under; above"](#uba) (q.v.), with a geminate that was shortened in the full-grade form (cf. Lühr 2000: 190). The geminate arose regularly in the locatival form \*uppai < \*up-noi, whose suffix can be compared to the one of e.g. OCS _vъně_ "outside" < \*ud-noi (cf. [\*ūt](#ut)). It is difficult to determine whether \*eup and \*upp had a suffix \*-e or \*-a corresponding to the vowels of e.g. Lat. _pōne_ "from behind" < \*pos(t)-ne or OCS _vъnъ_ "out" < \*ud-nom. This is possible, but it cannot be excluded that both \*eup and \*upp were simply back-formed to the locative \*uppai by the removal of the ending (Kroonen 2010c: 374). Note that the long vowel of OHG _ūf_, G _auf_ is due to monosyllabic lengthening (cf. Lühr l.c.). \
+REF: [EDPG]\: 120
+
+### <a id="ewwadjon">\*ewwadjōn- [f.] "tit" (n)</a>
+N: \
+-- ON _igða_ "small bird" \
+-- Far. poet _ígða_ "tit(?)" \
+-- Nw. _igde_ "id." \
+An exclusively Nordic word derived from a more primitive masculine form Nw. _egde_ < \*ewwadan-. Somehow connected to Imandra Saa. _avigʒinê_ "tit(?)" as cited by Qvigstad 1902: 270? Either way, the word could be a loanword from an extinct Pre-Nordic language, for which cf. [\*awadī- "eiderduck"](#awadi). \
+REF: [EDPG]\: 121
