@@ -1940,7 +1940,7 @@ E: \
 W: \
 -- MDu. _esc_ [m.] "collective field" \
 -- OHG _ezzisc_ [n.] "seed", G _Esch_ [m./n.] "seeding field" \
-COGN: ?Hitt. _hātar_ 'unknown foodstuff (Watkins 1975), YAv. _āδū.frāδana_- "abounding in grain", Arm. _hat_ "grain, seed; piece, fragment, section" Lat _ador_, -_oris_ [n.] "coarse grain, spelt, barley" < \*h₂ed-(o)r- \
+COGN: ?Hitt. _hātar_ "unknown foodstuff" (Watkins 1975), YAv. _āδū.frāδana_- "abounding in grain", Arm. _hat_ "grain, seed; piece, fragment, section" Lat _ador_, -_oris_ [n.] "coarse grain, spelt, barley" < \*h₂ed-(o)r- \
 A derivative from an old PIE word for "spelt" or another type of cereal, perhaps an adjective in elliptic use, e.g. \*atiska felþa "grainfield". \
 REF: [EDPG]\: 39
 
@@ -2395,7 +2395,7 @@ W: \
 -- OE _bǣdan_ \
 -- OHG _beitten_, MHG _beiten_ "to wait" \
 PIE: \*bʰoidʰ-eie- \
-The causative to [\*bīdan- "to wait"](#bidan) (q.v). The meaning "to force" is problaby more primitive than the meanings of e.g. Gr. _πείθομαι_ "to trust, rely, obey, be persuaded", Lat. _fīdō_, -_ere_ "to trust", which seem to have evolved in medio-passive use ('to be persuaded' > "to confide in"). \
+The causative to [\*bīdan- "to wait"](#bidan) (q.v). The meaning "to force" is problaby more primitive than the meanings of e.g. Gr. _πείθομαι_ "to trust, rely, obey, be persuaded", Lat. _fīdō_, -_ere_ "to trust", which seem to have evolved in medio-passive use ("to be persuaded" > "to confide in"). \
 REF: [EDPG]\: 47
 
 ### <a id="baina">\*baina- [n.] "bone, leg" (n)</a>
@@ -4842,7 +4842,7 @@ REF: [EDPG]\: 91
 ### <a id="dazen">\*dazēn- [wk.] "to be numbed(?)" (v)</a>
 W: \
 -- OE _darian_ "to lie motionless, be appalled", ME _daren_ "to stay in one place, remain quiet; to lurk; to be motionless, inactive; to hesitate" \
--- MDu. _be-daren_ 'to control oneself, Du. _be-daren_ "to settle, calm down", Flem. _ver-daren_ "to be appalled" \
+-- MDu. _be-daren_ "to control oneself", Du. _be-daren_ "to settle, calm down", Flem. _ver-daren_ "to be appalled" \
 A stative verb that can theoretically be related to Skt. _dhāráyati_ "to hold, support" < \*dʰor-éie- and Arm. _dadarem_ "to settle (of wind)" < \*dʰo-dʰor- (thus Pokorny IEW: 252-5). It is preferable, however, to reconstruct the verb as \*dazēn- rather than \*darēn-, and derive it from \*daza-, an adjective apparently in Verner alternation with MDu. _daes_ "foolish", Du. _daas_ "dizzy, confused, excited" < \*dasa- and ON _dasa-sk_, Nw. _dase_ [wk.] "to become weary, exhausted" (cf. E _to daze_ "to benumb, stun; to be stupefied" < \*dasōjan-). In ablaut with [\*dusēn-](#dusen).
 REF: [EDPG]\: 91
 
@@ -5546,7 +5546,7 @@ REF: [EDPG]\: 105
 N: \
 -- Nw. _drubba_ "to give a blow" \
 W: \
--- E dial. _drub_ 'to thresh, beat, bang' \
+-- E dial. _drub_ "to thresh, beat, bang" \
 PIE: \*dʰrbʰ-néh₂- \
 A zero-grade iterative to [\*draban-](#draban) (q.v). It gave rise to the strong verb [\*drepan-](#drepan) (q.v.). \
 REF: [EDPG]\: 105
@@ -5959,14 +5959,14 @@ W: \
 -- MDu. _dwerch_ "monster, dwarf, giant", Du. _dwerg_ [c.] \
 -- OHG _twerc_, G _Zwerg_ \
 PIE: \*dʰuérgʰ-o- \
-An etymologically debated word. Some have compared Skt _dhváras_- [n.] "demon" < \*dʰuer-o- and Lith. _dvãsas_ "spirit" < \*dʰuos-o- (cf. MHG _ge-twas_ "ghost"), but these linkages are extremely doubtful given the formal dissimilarities. I therefore assume that the word was derived from the strong verb [\*dwergan-](#dwergan) attested as MHG _zwergen_ [st.] "to squeeze, press". The meanings "pillar" and "staff" in Nordic are believed by some to refer to the pagan belief that dwarfs carried the firmament (cf. Simek 2006: 504). Also cf. ON _dyrgja_ [f.] 'female dwarf < \*durgī- / \*dwergī- and Icel. _durgur_ [m.] "boor, lout" < \*durga-. \
+An etymologically debated word. Some have compared Skt _dhváras_- [n.] "demon" < \*dʰuer-o- and Lith. _dvãsas_ "spirit" < \*dʰuos-o- (cf. MHG _ge-twas_ "ghost"), but these linkages are extremely doubtful given the formal dissimilarities. I therefore assume that the word was derived from the strong verb [\*dwergan-](#dwergan) attested as MHG _zwergen_ [st.] "to squeeze, press". The meanings "pillar" and "staff" in Nordic are believed by some to refer to the pagan belief that dwarfs carried the firmament (cf. Simek 2006: 504). Also cf. ON _dyrgja_ [f.] "female dwarf" < \*durgī- / \*dwergī- and Icel. _durgur_ [m.] "boor, lout" < \*durga-. \
 REF: [EDPG]\: 112
 
 ### <a id="dwergan">\*dwergan- [st.] "to squeeze, press" (v)</a>
 W: \
 -- MHG zwergen \
 PIE: \*dʰuergʰ-e \
-No extra-Gm. cognates, but there may be a link with \*dwerga- 'dwarf (q.v.). \
+No extra-Gm. cognates, but there may be a link with \*dwerga- "dwarf" (q.v.). \
 REF: [EDPG]\: 112
 
 ### <a id="dwesa">\*dwēsa- "foolish" (adj)</a>
