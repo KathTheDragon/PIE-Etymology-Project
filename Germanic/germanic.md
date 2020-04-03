@@ -5585,7 +5585,8 @@ N: \
 W: \
 -- OE _dūfan_ "to dive" \
 -- MLG _be-dūven_ "to become overwhelmed, become covered" \
--- MDu. _be-duven_ "to dip". A strong verb that appears to have been derived from the iterative [\*dupp/bōn-](#duppon) (q.v.) in view of the fact that the expected PIE formation \*dʰeubʰ-e- would have become \*\*deuban- in Germanic. See also [\*deupa-](#deupa) \
+-- MDu. _be-duven_ "to dip" \
+A strong verb that appears to have been derived from the iterative [\*dupp/bōn-](#duppon) (q.v.) in view of the fact that the expected PIE formation \*dʰeubʰ-e- would have become \*\*deuban- in Germanic. See also [\*deupa-](#deupa) \
 REF: [EDPG]\: 105
 
 ### <a id="dubila">\*dubila- [m.] "peg, pin, dowel" (n)</a>
