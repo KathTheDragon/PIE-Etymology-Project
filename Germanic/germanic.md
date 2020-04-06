@@ -1151,7 +1151,7 @@ W: \
 -- OE _ealop_ "ale" \
 -- OS _alo-fat_ "ale-vat" \
 -- MDu. _ale_, _ael_ "id." \
--- MHG _al-schafn_. "ale vessel" \
+-- MHG _al-schaf_ "ale vessel" \
 PIE: \*h₂el-u-(?) \
 No generally accepted etymology for this word, which was borrowed from Germanic as e.g. Lith. _alùs_, Fi. _olut_ and Oss. _æluton_ / _ilæton_. Several suggestions: 1) to Lat. _alūmen_ "alum" starting from an original meaning "bitter drink" (cf. Pokorny IEW: 33-4); 2) to Hitt. _alwanza_- "magic" (Polome 1996); 3) to Skt. _aruṣá_- "reddish", Av. _auruša_- "bright, white" (Bjorvand 2007). \
 REF: [EDPG]\: 23
@@ -2412,7 +2412,7 @@ W: \
 -- OFri. _bēn_ \
 -- OS _bēn_ \
 -- Du. _been_ \
--- OHG _bein_, G _Bein_. \
+-- OHG _bein_, G _Bein_ \
 Unrelated to OIr. _benaid_ "to hew" in the sense of "chopped offbone" (Hamp 1985), but derived from ON _beinn_ "straight" < \*baina- (De Vries 1962: 30). No further etymology. If the original meaning of the root was "beam (ray; post)", it is possible that the word belongs to the root \*bʰeh₂- "to shine" (for which see [\*bōnjan-](#bonjan)), cf. PGmc. [\*strēlō- "ray; arrow"](#strelo). The underlying form would then be \*bʰh₂-oi-no-, a no-formation to an i-present \*bʰh₂-ei-, for which cf. Far. _bína_, Nw. _bina_ [wk.] "to stare" < \*bīnēn-. Unrelated to Nw. dial. _buna_ [f.] "bone" < \*bunōn- (_pace_ Bugge 1899: 459) \
 REF: [EDPG]\: 48
 
@@ -2640,7 +2640,7 @@ W: \
 -- OFri. _bank_, _benk_ [m./f.] \
 -- OS _bank_ \
 -- Du. _bank_ [c.] \
--- OHG _banc_, G _Bank_. \
+-- OHG _banc_, G _Bank_ \
 Usually connected to [\*bankan- "slope, cliff"](#bankan), possibly through an intermediate meaning "elevation". \
 REF: [EDPG]\: 51
 
@@ -2842,7 +2842,6 @@ REF: [EDPG]\: 55
 N: \
 -- ON _beygja_ \
 -- Far. _boyggja_ \
--- Elfd. \
 W: \
 -- OE _bīegan_ \
 -- OS _bōgian_ \
