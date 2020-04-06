@@ -178,7 +178,8 @@ REF: [EDPG]\: 4
 E: \
 -- Go. _agls_\* "disgraceful" \
 PIE: \*h₂egʰ-lo- \
-COGN: Skt. _aghá_- "evil, bad, dangerous", YAv. _aɣa_- "bad, evil" < \*h₂ogʰ-o-, Gr. _ἄχνυμαι_ "to grieve, lament for" < \*h₂egʰ-néu-. An adjective possibly related to [\*agan- "to fear"](#agan) and cognates. Also cf. Go. _agljan_\* "to harm", Nw. _egle_ "to provoke, incite", OE _eglan_ "to trouble", ME _eilen_ "to trouble, afflict, harm", E _ail_ "to trouble" < \*agljan- and Go. _aglo_ [f.] "affliction". See also [\*agalaitja- "licentious"](#agalaitja) and [\*aglu- "difficult"](#aglu) \
+COGN: Skt. _aghá_- "evil, bad, dangerous", YAv. _aɣa_- "bad, evil" < \*h₂ogʰ-o-, Gr. _ἄχνυμαι_ "to grieve, lament for" < \*h₂egʰ-néu- \
+An adjective possibly related to [\*agan- "to fear"](#agan) and cognates. Also cf. Go. _agljan_\* "to harm", Nw. _egle_ "to provoke, incite", OE _eglan_ "to trouble", ME _eilen_ "to trouble, afflict, harm", E _ail_ "to trouble" < \*agljan- and Go. _aglo_ [f.] "affliction". See also [\*agalaitja- "licentious"](#agalaitja) and [\*aglu- "difficult"](#aglu). \
 REF: [EDPG]\: 4
 
 ### <a id="aglu">\*aglu- "difficult" (adj)</a>
@@ -696,7 +697,8 @@ W: \
 -- Du. _etter_ "pus" \
 -- OHG _eitar_, _eittar_, MHG _eiter_ \
 PIE: \*h₂oid-ro- \
-COGN: Formally close to OCS _jadra_ [n.pl.] "embrace, bosom". A formation derived from the PIE root \*h₂eid- "to swell", cf. [\*aita- "ulcer"](#aita). Also cf Sw. obs., dial. _etter_ "poisonous; purulent" < \*aitra- \
+COGN: Formally close to OCS _jadra_ [n.pl.] "embrace, bosom" \
+A formation derived from the PIE root \*h₂eid- "to swell", cf. [\*aita- "ulcer"](#aita). Also cf Sw. obs., dial. _etter_ "poisonous; purulent" < \*aitra-. \
 REF: [EDPG]\: 14
 
 ### <a id="aitha">\*aiþa- [m.] "oath" (n)</a>
@@ -1418,7 +1420,8 @@ N: \
 W: \
 -- OE _ōl-þwang_ "halter, snare, strap" \
 PIE: \*h₂enk-ul-eh₂- \
-COGN: Gr. _ayKUATJ_ [f.] "belt". See [\*angan- "curve"](#angan), [\*anhula- "shoot"](#anhula) and [\*angula- "hook"](#angula) \
+COGN: Gr. _ayKUATJ_ [f.] "belt" \
+See [\*angan- "curve"](#angan), [\*anhula- "shoot"](#anhula) and [\*angula- "hook"](#angula). \
 REF: [EDPG]\: 29
 
 ### <a id="ankjon">\*ankjōn- [f.] "ankle" (n)</a>
@@ -1614,7 +1617,8 @@ REF: [EDPG]\: 32
 N: \
 -- ON _arfr_ [m.] "ox" \
 PIE: \*h₃orbʰ-o- \
-COGN: Arm. _orb_ "orphan", OCS _rabъ_, ORu. _robъ_, SCr. _rob_ [m.] "servant, slave", Lat _orbus_ "deprived of, childless, orphaned", Gr. _ὀρφανός_ [m.] "orphan", "orphaned". The Germanic continuant of the IE word \*h₃orbʰ-o-, which - among other things - denoted the status of "orphan". In view of the Slavic meaning "servant", it seems that this status implied forced labor (PGmc. [\*arbaidi- "labour"](#arbaidi)) for the benefit of the caretakers. This may also explain the Old Norse meaning "cattle". In Indo-European culture, the \*h₃orbʰos may have been a captive in the service of an alien clan. This makes sense, at any rate, in view of the semantically more primitive Hitt. _harp_- "to separate and reassociate oneself, to change sides". See also [\*arbja- "inheritance"](#arbja), [\*arma- "miserable"](#arma-2) and [\*urba- "inheritance"](urba) \
+COGN: Arm. _orb_ "orphan", OCS _rabъ_, ORu. _robъ_, SCr. _rob_ [m.] "servant, slave", Lat _orbus_ "deprived of, childless, orphaned", Gr. _ὀρφανός_ [m.] "orphan", "orphaned" \
+The Germanic continuant of the IE word \*h₃orbʰ-o-, which - among other things - denoted the status of "orphan". In view of the Slavic meaning "servant", it seems that this status implied forced labor (PGmc. [\*arbaidi- "labour"](#arbaidi)) for the benefit of the caretakers. This may also explain the Old Norse meaning "cattle". In Indo-European culture, the \*h₃orbʰos may have been a captive in the service of an alien clan. This makes sense, at any rate, in view of the semantically more primitive Hitt. _harp_- "to separate and reassociate oneself, to change sides". See also [\*arbja- "inheritance"](#arbja), [\*arma- "miserable"](#arma-2) and [\*urba- "inheritance"](urba). \
 REF: [EDPG]\: 32
 
 ### <a id="arbaidi">\*arbaidi- [f.] "toil, labor" (n)</a>
@@ -1865,7 +1869,8 @@ W: \
 -- MDu. _nerwe_ [f.], Du. _nerf_ [c.] "grain" \
 -- OHG _narwo_ [m.], _narwa_ [f.], G _Narbe_, dial. _Arbe_ [f.] \
 PIE: \*h₂/₃eru-es- \
-COGN: Skt. _áruṣ_- [n.] "wound" < \*h₂/₃eru-s-. An old s-stem \*arwaz, gen. \*arwizaz continuing PIE \*h₂/₃éru-s, gen. \*h₂/₃ru-és-s. The Nordic forms go back to a secondary stem \*arwiz- (cf. Fi. _arpi_, gen. _arven_). In West Germanic, the word was remodeled into an n-stem \*arwa/ōn- which acquired an unetymological _n_ due to metanalysis. \
+COGN: Skt. _áruṣ_- [n.] "wound" < \*h₂/₃eru-s- \
+An old s-stem \*arwaz, gen. \*arwizaz continuing PIE \*h₂/₃éru-s, gen. \*h₂/₃ru-és-s. The Nordic forms go back to a secondary stem \*arwiz- (cf. Fi. _arpi_, gen. _arven_). In West Germanic, the word was remodeled into an n-stem \*arwa/ōn- which acquired an unetymological _n_ due to metanalysis. \
 REF: [EDPG]\: 37
 
 ### <a id="asjon">\*asjon- [f.] "soapstone" (n)</a>
@@ -1904,7 +1909,8 @@ W: \
 -- Du. _as_ [c.] "ashes" \
 -- OHG _aska_ "ashes, dust" \
 PIE: \*h₂ed-dʰgʷʰ-eh₂-(?) \
-COGN: To Arm. aCiwn "ashes" < \*h₂h₁s-g-i-? There is no clear solution to the anomalous discrepancy of EGm. \*azgōn- and NWGm. \*askōn-. The proposal to derive both these variants from \*astagōn- > \*astgōn- (Osthoff 1888: 396-9) must be rejected, such syncope being irregular in Gothic. It is also not likely that the form with \*ǵʰ is mirrored by Arm. _azazim_ "to dry out" (_pace_ Meillet 1908: 357). Possibly, the Germanic root continues an assibilated form \*adzdʰgʷʰ-, which theoretically could yield both \*azgʷʰ- and \*azgʷ-. The origin of this element would still remain obscure, but perhaps we are dealing with some sort of compound, e.g. of the roots \*h₂ed- "to desiccate" (cf. Hitt. _hāti_ ~ _hatanzi_\* "to dry up" < \*h₂ód-ei, \*h₂d-énti (Kloekhorst 2008: 328-30) and Gr. _ἄζω_ "to dry" < \*h₂d-ie-) and \*dʰegʷʰ- "to burn" (cf. ToAB _tsäk_- "id.", Skt. _dáhati_ "id.", Lith. _dègti_ "to burn, light") \
+COGN: To Arm. aCiwn "ashes" < \*h₂h₁s-g-i-? \
+There is no clear solution to the anomalous discrepancy of EGm. \*azgōn- and NWGm. \*askōn-. The proposal to derive both these variants from \*astagōn- > \*astgōn- (Osthoff 1888: 396-9) must be rejected, such syncope being irregular in Gothic. It is also not likely that the form with \*ǵʰ is mirrored by Arm. _azazim_ "to dry out" (_pace_ Meillet 1908: 357). Possibly, the Germanic root continues an assibilated form \*adzdʰgʷʰ-, which theoretically could yield both \*azgʷʰ- and \*azgʷ-. The origin of this element would still remain obscure, but perhaps we are dealing with some sort of compound, e.g. of the roots \*h₂ed- "to desiccate" (cf. Hitt. _hāti_ ~ _hatanzi_\* "to dry up" < \*h₂ód-ei, \*h₂d-énti (Kloekhorst 2008: 328-30) and Gr. _ἄζω_ "to dry" < \*h₂d-ie-) and \*dʰegʷʰ- "to burn" (cf. ToAB _tsäk_- "id.", Skt. _dáhati_ "id.", Lith. _dègti_ "to burn, light"). \
 REF: [EDPG]\: 38
 
 ### <a id="aspo">\*aspō- ~ \*apsō- [f.] "aspen" (n)</a>
@@ -3085,7 +3091,8 @@ W: \
 -- OS _berht_ "shining" \
 -- OHG _beraht_ "bright, shining", MHG _berht_ "id." \
 PIE: \*bʰerh₁ǵ-to- \
-COGN: Identical to W _berth_ "beautiful" < \*bʰerh₁ǵ-to-; also Alb. _bardhë_ "white" < \*bʰorh₁ǵ-o- (not \*bʰrǵ-o-, _pace_ Huld 1984: 40). The derivational base of Go. _bairhtjan_, ON _birta_, OE _ge-bierhtan_ "to shine, make bright" < \*berhtjan-. In Germanic, the root also occurs without a suffix, e.g. in Nw. _bjerk_ "bright" < \*berka- < \*bʰerh₁ǵ-o- and in [\*brōka-](#broka) (q.v.) \
+COGN: Identical to W _berth_ "beautiful" < \*bʰerh₁ǵ-to-; also Alb. _bardhë_ "white" < \*bʰorh₁ǵ-o- (not \*bʰrǵ-o-, _pace_ Huld 1984: 40) \
+The derivational base of Go. _bairhtjan_, ON _birta_, OE _ge-bierhtan_ "to shine, make bright" < \*berhtjan-. In Germanic, the root also occurs without a suffix, e.g. in Nw. _bjerk_ "bright" < \*berka- < \*bʰerh₁ǵ-o- and in [\*brōka-](#broka) (q.v.). \
 REF: [EDPG]\: 60
 
 ### <a id="beri">\*bēri- "portable" (adj)</a>
@@ -3099,7 +3106,8 @@ A _vr̥ddhi_-gerundive to [\*beran-](#beran-1) (q.v.). \
 W: \
 -- OE _beorcan_ "to make a sharp explosive sound, bark", E _to bark_ \
 PIE: \*bʰerg-e- \
-COGN: To Lith. _burgė́ti_ "to sputter; grumble", Latv. _burgžêt_ "to purr" < \*bʰrg-eh₁- (Pokorny IEW: 138-139)? Also cf. [\*burkōn-](#burkon) and [\*barkjan-](#barkjan) \
+COGN: To Lith. _burgė́ti_ "to sputter; grumble", Latv. _burgžêt_ "to purr" < \*bʰrg-eh₁- (Pokorny IEW: 138-139)? \
+Also cf. [\*burkōn-](#burkon) and [\*barkjan-](#barkjan). \
 REF: [EDPG]\: 61
 
 ### <a id="berko">\*berkō- [f.] "birch-tree" (n)</a>
