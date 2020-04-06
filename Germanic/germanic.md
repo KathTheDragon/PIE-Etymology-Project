@@ -250,7 +250,7 @@ N: \
 W: \
 -- OE _eaxl_ "armpit" \
 -- OS _ahsla_ "shoulder" \
--- OHG _ahsala_, _ahsla_ "id."
+-- OHG _ahsala_, _ahsla_ "id." \
 COGN: Lat _āla_ [f.] "armpit, wing", W _echel_ [f.] "axis" < \*h₂eḱs-(i)l-eh₂- \
 Derived from PIE \*h₂eḱs-i- with an l-suffix, cf. \*nablan- "navel". \
 REF: [EDPG]\: 6
@@ -1753,7 +1753,7 @@ REF: [EDPG]\: 35
 E: \
 -- Go. _arniba_ "certain, securely" (adv) \
 N: \
--- ON _ern_ "brisk, vigorous"
+-- ON _ern_ "brisk, vigorous" \
 COGN: Av. _arənu_- "battle" < \*Her-nu- \
 Also cf. OE _eornest_ [n.] "seriousness", E _earnest_, OHG _ernust_, _ernist_, G _Ernst_ [m.] "strife, serfousness" < \*ernusta-. \
 REF: [EDPG]\: 35
@@ -2704,7 +2704,7 @@ REF: [EDPG]\: 53
 N: \
 -- ON _bǫrkr_ \
 -- Icel. _bōrkur_ "bark, rind" \
--- Far. _børkur_ "bark; skin on milk"
+-- Far. _børkur_ "bark; skin on milk" \
 W: \
 -- WPhal. _bark_ "id." \
 PIE: \*bʰorh₁ǵ- \
@@ -3897,7 +3897,7 @@ W: \
 -- Du. _barsten_ [wk.] \
 -- OHG _brestan_ "to burst, tear; to lack", G _bersten_ "to crack" \
 PIE: \*bʰrést-e\
-COGN: To OIr. _brissid_ "to break; to defeat"?
+COGN: To OIr. _brissid_ "to break; to defeat"? \
 A strong verb to an obscure Pre-Gm. root \*bʰrest-. Also cf. the inchoative Elfd. _brussn_ [wk.] "to break" < \*brustnan- and the derived u-stem \*brustu-. \
 REF: [EDPG]\: 75
 
@@ -4031,7 +4031,7 @@ W: \
 -- OFri. _brēk_ "pants" \
 -- Du. _broek_ [c.] "id." \
 -- OHG _bruoh_ "id." \
-COGN: To Lat. _suffrāgō_, -_inis_ [n.] "joint in the hind leg of a quadruped; sucker shoot" < \*-bʰrg-en-?
+COGN: To Lat. _suffrāgō_, -_inis_ [n.] "joint in the hind leg of a quadruped; sucker shoot" < \*-bʰrg-en-? \
 Etymology disputed. Within Germanic, the word can have been derived from an a-grade intensive to [\*brekan-](#brekan), viz. OE _bracan_ [st.] "to break, bruise" < \*brakan-, but only if the original meaning was "behind" (i.e. "area where the legs split"). This meaning does allow for the well-known etymological connection with Lat. _suffrāgō_, but the exact derivation of this (late) Latin word is problematic (cf. De Vaan 2008: 597-8). The position of Gaul. \*brāca, implied by Latin _brācae_, _braccae_ (for which see [\*brakkōn-](#brakkon)) is unclear: it may have been borrowed from Germanic in view of the root-final \*k, but borrowing in the opposite direction has, too, been suggested (Griepentrog 1995: 89). The inflection of the Germanic word as a root noun could be a confirmation of that, as old loanwords were absorbed by this category more frequently (cf. [\*arwīt- "pea"](#arwit)) \
 REF: [EDPG]\: 78
 
@@ -4549,7 +4549,7 @@ W: \
 -- OS _dag_ \
 -- Du. _dag_ [c.] \
 -- OHG _tac_, G _Tag_ \
-PIE: \*dʰoǵʰ-o-.
+PIE: \*dʰoǵʰ-o- \
 A thematic noun related to [\*dōgera- ~ \*dōgena-](#dogera) (q.v.). Also cf. the _vr̥ddhi_-adjective \*-dōga- as in Go. _fidur-dogs_ "lasting four days" and _ahtau-dogs_ "eight days old". \
 REF: [EDPG]\: 86
 
