@@ -241,7 +241,7 @@ REF: [EDPG]\: 5
 ### <a id="ahjan">\*ahjan- [wk.] "to think" (v)</a>
 E: \
 -- Go. _ahjan_ "to assume, think" \
-No clear etymology. The verb is obviously related to Go. _aha_ [m.] "mind, understanding" < \*ahan-, Go. _ahma_ [m.] "spirit" < \*ahman- and PGmc. [\*ahtō-"attention"](#ahto) (q.v.), but it lacks clear extra-Gm. cognates. The connections with [\*augōn- "eye"](#augon) < \*h₃ekʷ- (Osthoff 1910: 175) and Gr. _ὄκνος_ [m.] "hesitation, shrinking" (Pokorny IEW: 774) do not convince, at any rate. Theoretically, the verb could be identical to ON _æja_ [wk.] "to graze" < \*ahjan- (through a meaning "to ruminate"), but it is preferable, in my view, to reconstruct this verb as [\*aiwjan- "graze"](#aiwjan) (q.v.) \
+No clear etymology. The verb is obviously related to Go. _aha_ [m.] "mind, understanding" < \*ahan-, Go. _ahma_ [m.] "spirit" < \*ahman- and PGmc. [\*ahtō-"attention"](#ahto) (q.v.), but it lacks clear extra-Gm. cognates. The connections with [\*augōn- "eye"](#augon) < \*h₃ekʷ- (Osthoff 1910: 175) and Gr. _ὄκνος_ [m.] "hesitation, shrinking" (Pokorny IEW: 774) do not convince, at any rate. Theoretically, the verb could be identical to ON _æja_ [wk.] "to graze" < \*ahjan- (through a meaning "to ruminate"), but it is preferable, in my view, to reconstruct this verb as [\*aiwjan- "graze"](#aiwjan) (q.v.). \
 REF: [EDPG]\: 6
 
 ### <a id="ahslo">\*ahslō- [f.] "shoulder, armpit" (n)</a>
@@ -408,7 +408,7 @@ N: \
 -- Sw. dial. _egel_, _äjel_ "seed sprout" \
 PIE: \*h₂eiḱ-(t)lo- \
 COGN: Close to Gr. _αἶκλοι_ [m.pl.] "corners of an arrow" < \*h₂eiḱ-(t)lo-, OPru. _ayculo_ [f.] "needle", CS _igla_, Ru. _iglá_, SCr. _ìgla_ [f.] "id." < \*h₂iḱ-tle-h₂-; also cf. Gr. _αἰχμή_ [f.] "point of a spear, spear", Lith. _iẽšmas_, _jiẽšmas_ [m.] "spit, broach", OPru. _aysmis_ "id." < \*h₂eiḱ-smo/eh₂- \
-A Germanic-Greek isogloss derived from a root \*h₂eiḱ- "barb" (cf. Pokorny IEW: 15). For the semantics, cf. Far. _nál_ [f.] "needle; sprout, shoot, germinating seed corn" (< \*neplo-). Related to [\*aiginþ- "sprout"](#aiginth) \
+A Germanic-Greek isogloss derived from a root \*h₂eiḱ- "barb" (cf. Pokorny IEW: 15). For the semantics, cf. Far. _nál_ [f.] "needle; sprout, shoot, germinating seed corn" (< \*neplo-). Related to [\*aiginþ- "sprout"](#aiginth). \
 REF: [EDPG]\: 9
 
 ### <a id="aihti">\*aihti- [f.] "property, belongings; family" (n)</a>
@@ -1207,7 +1207,7 @@ W: \
 -- MDu. _amper_ "sour, bitter, harsh", Du. _amper_ "barely" (adv) \
 PIE: \*Hom-ro- \
 COGN: Skt. _amla_-, _ambla_- "bitter" < \*Hom-ro- \
-A Germanic-Indic isogloss. The further connection with Lat. _amārus_ "bitter" is uncertain, because its long ā cannot be explained from the proto-form underlying PGmc. \*ampra- < \*Hom-ro- (cf. De Vaan 2008: 37). In view of Hebr. _mar_ "bitter" (cf. Lewis-Short), the word may be of Semitic origin. The connection with Skt. _āma_-, Gr. _ὠμός_ "raw" < \*h₁oh₁m-o- (for which see [\*ēmōn- "erysipelas"](#emon-1)) as given by Pokorny IEW: 777-778 is uncertain. See also [\*ampra/ōn- "sorrel"](#ampran) \
+A Germanic-Indic isogloss. The further connection with Lat. _amārus_ "bitter" is uncertain, because its long ā cannot be explained from the proto-form underlying PGmc. \*ampra- < \*Hom-ro- (cf. De Vaan 2008: 37). In view of Hebr. _mar_ "bitter" (cf. Lewis-Short), the word may be of Semitic origin. The connection with Skt. _āma_-, Gr. _ὠμός_ "raw" < \*h₁oh₁m-o- (for which see [\*ēmōn- "erysipelas"](#emon-1)) as given by Pokorny IEW: 777-778 is uncertain. See also [\*ampra/ōn- "sorrel"](#ampran). \
 REF: [EDPG]\: 25
 
 ### <a id="ampran">\*ampra/ōn- [m./f.] "sorrel, dock" (n)</a>
@@ -1269,7 +1269,7 @@ W: \
 -- OHG _anut_, _enit_, G _Ente_ \
 PIE: \*h₂énh₂-et- \
 COGN: Skt _ātí_-, _ātī́_- [f.] "duck", Oss. _acc_ "wild duck" (< Plr. \*āti-čī̆-), Gr. _νῆσσα_, Att. _νῆττα_ [f.] "id." < \*h₂nh₂-t-ih₂-(?), Lat. _anas_, gen.sg. -_atis_ [f.] "duck", < \*h₂enh₂-et-, OPru. _antis_ "id.", Lith. _ántis_ [f.] "id." < \*h₂enh₂-t-, CS _ǫty_, ORu. _uty_, SCr. _ȕtva_ [f.] "id." < \*h₂enh₂-t-u(e)h₂- \
-A root noun nom. \*anaþ, gen. \*anadiz continuing a PIE t-stem nom. \*h₂énh₂-t, gen. \*h₂nh₂-t-és. The daughter languages generalized different stem variants, but Latin _anat_- and Gm. \*anad- both go back to the same stem variant \*h₂enh₂-et- with two generalized full grades (on which see Beekes 1985: 63-4). Note that ON _ǫnd_ in the nominative shows the effects of u-umlaut, which was introduced analogically in all feminine root nouns; there is no evidence for a proto-form \*anud-, as cited by e.g. Pokorny IEW: 41-2. Further note that Far. _ont_ with its word-final _t_ appears to be built on the nominative form \*anaþ, for which see \*smeuho- "smew". The change of word-final \*þ to t is corroborated by Far. _vart_ (beside _varð_), Nw. _vart_, Elfd. _wart_, the preterite to ON _verða_ "to become" < [\*werþan-](#werthan) \
+A root noun nom. \*anaþ, gen. \*anadiz continuing a PIE t-stem nom. \*h₂énh₂-t, gen. \*h₂nh₂-t-és. The daughter languages generalized different stem variants, but Latin _anat_- and Gm. \*anad- both go back to the same stem variant \*h₂enh₂-et- with two generalized full grades (on which see Beekes 1985: 63-4). Note that ON _ǫnd_ in the nominative shows the effects of u-umlaut, which was introduced analogically in all feminine root nouns; there is no evidence for a proto-form \*anud-, as cited by e.g. Pokorny IEW: 41-2. Further note that Far. _ont_ with its word-final _t_ appears to be built on the nominative form \*anaþ, for which see \*smeuho- "smew". The change of word-final \*þ to t is corroborated by Far. _vart_ (beside _varð_), Nw. _vart_, Elfd. _wart_, the preterite to ON _verða_ "to become" < [\*werþan-](#werthan). \
 REF: [EDPG]\: 26
 
 ### <a id="anadan">\*anadan- [m.] "breath; spirit" (n)</a>
@@ -2003,7 +2003,7 @@ W: \
 -- NFri. _ethel_ \
 -- MDu. _ad(d)el_ (var. _iddel_ << Fri. \*edel) \
 -- G Bav. _adel_ \
-Probably related to Icel. _eðja_ [f.] "mud" < \*aþjōn- or \*adjōn- (Magnusson 1989: 2), cf. Icel. _aða_, Far. _øða_ [f.] "horse mussel". In spite of the absence of cognates outside Germanic, the word cannot be too recent in view of the Verner variation of NFri. _ethel_ and Bav. _adel_ < \*aþla(n)- vs. OE _adel(a)_ < \*adla(n)-. Nw. dial. _åle_, _ale_ < ON \*aðli also points to \*aþlan-, as \*adlan- would have given \*\*alli. Metathesis occurred in Du. _aal(t)_, as in _naald_ "needle" < \*nēþlō-. Note the divergent meaning of OHG _adel_ [m.] "ulcer" (Riecke 2004: 279) \
+Probably related to Icel. _eðja_ [f.] "mud" < \*aþjōn- or \*adjōn- (Magnusson 1989: 2), cf. Icel. _aða_, Far. _øða_ [f.] "horse mussel". In spite of the absence of cognates outside Germanic, the word cannot be too recent in view of the Verner variation of NFri. _ethel_ and Bav. _adel_ < \*aþla(n)- vs. OE _adel(a)_ < \*adla(n)-. Nw. dial. _åle_, _ale_ < ON \*aðli also points to \*aþlan-, as \*adlan- would have given \*\*alli. Metathesis occurred in Du. _aal(t)_, as in _naald_ "needle" < \*nēþlō-. Note the divergent meaning of OHG _adel_ [m.] "ulcer" (Riecke 2004: 279). \
 REF: [EDPG]\: 40
 
 ### <a id="athna">\*aþna- [n.] "year" (n)</a>
@@ -2236,7 +2236,7 @@ N: \
 -- Far. _æður_ \
 -- Nw. _ær-fugl_, dial. _ær_, _æd_ \
 -- Sw. _åda_ \
-A feminine formation that just like Sw. _åda_ was derived from an unattested masculine base ON \*aðr, cf. Sw. dial. _åd_ < \*aw(V)da- (the female bird was economically more important because it provided the commercially valuable eiderdown). The word is somehow connected with SaaN _hávda_, SaaL _ávdda_ "eider" < PSaa. \*ávda, which proves that the NGm. root was \*aw(V)d- rather than \*ād-. This obliterates the received etymological links with Skt. _ātī̆_- [f.] "aquatic bird" (Pokorny IEW: 41-42). No further etymology. The Saami word could be a Norse loan (Strathmann 2008: 2, 108-9 fu.), but it is also conceivable that both NGm. and Saami borrowed the term from a lost Scandinavian language (Aikio 2004). The comparison with PIE \*h₂eui- "bird" (Collinder 1932: 215) at any rate does not convince. E _eider_, G _Eider_, Du. _eider-eend_, Sw. _ejder_, Da. _edder-fugl_ all go back to Icel. _æður_ \
+A feminine formation that just like Sw. _åda_ was derived from an unattested masculine base ON \*aðr, cf. Sw. dial. _åd_ < \*aw(V)da- (the female bird was economically more important because it provided the commercially valuable eiderdown). The word is somehow connected with SaaN _hávda_, SaaL _ávdda_ "eider" < PSaa. \*ávda, which proves that the NGm. root was \*aw(V)d- rather than \*ād-. This obliterates the received etymological links with Skt. _ātī̆_- [f.] "aquatic bird" (Pokorny IEW: 41-42). No further etymology. The Saami word could be a Norse loan (Strathmann 2008: 2, 108-9 fu.), but it is also conceivable that both NGm. and Saami borrowed the term from a lost Scandinavian language (Aikio 2004). The comparison with PIE \*h₂eui- "bird" (Collinder 1932: 215) at any rate does not convince. E _eider_, G _Eider_, Du. _eider-eend_, Sw. _ejder_, Da. _edder-fugl_ all go back to Icel. _æður_. \
 REF: [EDPG]\: 44
 
 ### <a id="awala">\*awala/ō- [m./f.] "awl" (n)</a>
@@ -2413,7 +2413,7 @@ W: \
 -- OS _bēn_ \
 -- Du. _been_ \
 -- OHG _bein_, G _Bein_ \
-Unrelated to OIr. _benaid_ "to hew" in the sense of "chopped offbone" (Hamp 1985), but derived from ON _beinn_ "straight" < \*baina- (De Vries 1962: 30). No further etymology. If the original meaning of the root was "beam (ray; post)", it is possible that the word belongs to the root \*bʰeh₂- "to shine" (for which see [\*bōnjan-](#bonjan)), cf. PGmc. [\*strēlō- "ray; arrow"](#strelo). The underlying form would then be \*bʰh₂-oi-no-, a no-formation to an i-present \*bʰh₂-ei-, for which cf. Far. _bína_, Nw. _bina_ [wk.] "to stare" < \*bīnēn-. Unrelated to Nw. dial. _buna_ [f.] "bone" < \*bunōn- (_pace_ Bugge 1899: 459) \
+Unrelated to OIr. _benaid_ "to hew" in the sense of "chopped offbone" (Hamp 1985), but derived from ON _beinn_ "straight" < \*baina- (De Vries 1962: 30). No further etymology. If the original meaning of the root was "beam (ray; post)", it is possible that the word belongs to the root \*bʰeh₂- "to shine" (for which see [\*bōnjan-](#bonjan)), cf. PGmc. [\*strēlō- "ray; arrow"](#strelo). The underlying form would then be \*bʰh₂-oi-no-, a no-formation to an i-present \*bʰh₂-ei-, for which cf. Far. _bína_, Nw. _bina_ [wk.] "to stare" < \*bīnēn-. Unrelated to Nw. dial. _buna_ [f.] "bone" < \*bunōn- (_pace_ Bugge 1899: 459). \
 REF: [EDPG]\: 48
 
 ### <a id="baira">\*baira- [m.] "boar" (n)</a>
@@ -3171,7 +3171,7 @@ W: \
 -- MDu. _bier_, Du. _bier_ \
 -- OHG _bior_, G _Bier_ \
 PIE: \*bʰreuH-ro \
-Etymology debated. Some have compared Sw. _buska_ "newly brewed beer" (cf. Pokorny IEW: 98-102), but the implied proto-form \*beuza- cannot be maintained, as it would have given ON \*\*býrr by R-mutation. It can be contended that ON _bjórr_ was adopted from Old English, but in view of the formal regularity of the sound correspondences as well as the borrowing of the word as OIr. _béoir_ and SaaN _biev'ra_, this seems unlikely. Not very attractive either is the idea that the word started out as a West Germanic monastic loanword from Lat. _biber_ "drink" (Kluge/Mitzka 1975). In my view, the best possible explanation is to assume dissimilation of the first _r_ in a PGmc. form \*breura- (Osthoff 1882: 555), because this formation can straightforwardly be derived from the verb [\*brewwan- "to brew"](#brewwan) with a ro-suffix, cf. Gr _βρῦτος_ or _βρῦτον_ "fermented liquor made from barley, beer". It is furthermore conceivable that this ro-stem continues an older heteroclitic formation \*bʰreuH-ur \
+Etymology debated. Some have compared Sw. _buska_ "newly brewed beer" (cf. Pokorny IEW: 98-102), but the implied proto-form \*beuza- cannot be maintained, as it would have given ON \*\*býrr by R-mutation. It can be contended that ON _bjórr_ was adopted from Old English, but in view of the formal regularity of the sound correspondences as well as the borrowing of the word as OIr. _béoir_ and SaaN _biev'ra_, this seems unlikely. Not very attractive either is the idea that the word started out as a West Germanic monastic loanword from Lat. _biber_ "drink" (Kluge/Mitzka 1975). In my view, the best possible explanation is to assume dissimilation of the first _r_ in a PGmc. form \*breura- (Osthoff 1882: 555), because this formation can straightforwardly be derived from the verb [\*brewwan- "to brew"](#brewwan) with a ro-suffix, cf. Gr _βρῦτος_ or _βρῦτον_ "fermented liquor made from barley, beer". It is furthermore conceivable that this ro-stem continues an older heteroclitic formation \*bʰreuH-ur. \
 REF: [EDPG]\: 62
 
 ### <a id="beusta">\*beusta- [m.] "beestings" (n)</a>
@@ -3263,7 +3263,7 @@ N: \
 -- Sw. _bila_ "to run out, come to an end" \
 W: \
 -- Du. arch., dial. _belen_ "to pull out (from an agreement), to resile" \
-(E)Du. _be(e)len_ (Plantijn 1573: _beel zijn_ "_se repentir d'un marché, marriage, et semblable_"), has not yet received an etymology, but since Nordic _bila_ appears to have had a primary meaning "to give way, to fail", there are no semantic objections against connecting it. No certain extra-Gm. etymology; perhaps to be compared to Lith. _bailùs_, Latv. _baîls_ "afraid" < \*bʰoih₂-l-u-, for which cf. [\*bīan-](#bian) \
+(E)Du. _be(e)len_ (Plantijn 1573: _beel zijn_ "_se repentir d'un marché, marriage, et semblable_"), has not yet received an etymology, but since Nordic _bila_ appears to have had a primary meaning "to give way, to fail", there are no semantic objections against connecting it. No certain extra-Gm. etymology; perhaps to be compared to Lith. _bailùs_, Latv. _baîls_ "afraid" < \*bʰoih₂-l-u-, for which cf. [\*bīan-](#bian). \
 REF: [EDPG]\: 64
 
 ### <a id="bindan">\*bindan- [st.] "to bind" (v)</a>
@@ -3655,7 +3655,7 @@ W: \
 -- OHG _blōzan_ [st./wk.] \
 PIE: \*bʰlóh₂d-e-(?) \
 COGN: Lat. _flāmen_ [m.] "priest" < \*bʰleh₂(d/g)-men- \
-The traditional connection with _flamen_ [m.] "priest" (cf. Pokorny IEW: 154) is possible, but uncertain because it is impossible to see whether the root of the Lat. word was \*flii-, \*fliid- or \*flag-. In view of the potentially archaic semantics of the loanword Fi. _luote_ "enchantment", it is possible to alternatively connect e.g. Lith. _blódėti_, Latv. _blãdêt_ "to babble, ramble" < \*bʰleh₂d-eh₁-, assuming a primary meaning "invocation". Within Germanic, also cf. OHG _bluostar_ [n.] "sacrifice" < \*blōstra- and the derivation Go. -_blostreis_ [m.] "worshipper" < \*blōstrja- \
+The traditional connection with _flamen_ [m.] "priest" (cf. Pokorny IEW: 154) is possible, but uncertain because it is impossible to see whether the root of the Lat. word was \*flii-, \*fliid- or \*flag-. In view of the potentially archaic semantics of the loanword Fi. _luote_ "enchantment", it is possible to alternatively connect e.g. Lith. _blódėti_, Latv. _blãdêt_ "to babble, ramble" < \*bʰleh₂d-eh₁-, assuming a primary meaning "invocation". Within Germanic, also cf. OHG _bluostar_ [n.] "sacrifice" < \*blōstra- and the derivation Go. -_blostreis_ [m.] "worshipper" < \*blōstrja-. \
 REF: [EDPG]\: 70
 
 ### <a id="boan">\*bōan- ~ \*būan- [st.] "to live, dwell" (v)</a>
@@ -3768,7 +3768,7 @@ W: \
 -- MDu. _bragen_, _brein_ [n.], Du. _brein_ [n.] \
 PIE: \*mrógʰ-no- \
 COGN: Gr _βρεχμός_ [m.] "front part of the head" < \*mregʰ-mo-, Skt. _mastr̥han_- [m.] "brain", YAv. _mastərəɣan_- [m.] "id.", MP _mastarg_, _masturg_ "brains" < \*most-(m)rgʰ-e/on- (Lubotsky 2008a) \
-An IE word preserved only in the Ingvaeonic area. The development of \*bragna- to Du. _brein_, -_ei_- usually being a contraction of -_eg(i)_- rather than -_ag_-, could point to a Frisianism. Frisian influence may similarly account for the _e_ of MLG _bregen_, although it has been claimed on the basis of this form that PGmc. had a stem variant \*bragina- (Lühr 1988: 332). Both \*bragna- and \*bragina- are explicable from an IE ablauting consonant stem, e.g. a static neuter nom. \*mregʰ-mn, gen. \*mrógʰ-mn-s, Joe. \*mrogʰ-mén-i. The e-grade would then have been preserved by Gr. _βρεχμός_. For the loss of the m in Germanic, cf. [\*budman- ~ \*buttaz "bottom"](#budman) \
+An IE word preserved only in the Ingvaeonic area. The development of \*bragna- to Du. _brein_, -_ei_- usually being a contraction of -_eg(i)_- rather than -_ag_-, could point to a Frisianism. Frisian influence may similarly account for the _e_ of MLG _bregen_, although it has been claimed on the basis of this form that PGmc. had a stem variant \*bragina- (Lühr 1988: 332). Both \*bragna- and \*bragina- are explicable from an IE ablauting consonant stem, e.g. a static neuter nom. \*mregʰ-mn, gen. \*mrógʰ-mn-s, Joe. \*mrogʰ-mén-i. The e-grade would then have been preserved by Gr. _βρεχμός_. For the loss of the m in Germanic, cf. [\*budman- ~ \*buttaz "bottom"](#budman). \
 REF: [EDPG]\: 73
 
 ### <a id="braida">\*braida- "broad" (adj)</a>
@@ -3976,7 +3976,7 @@ REF: [EDPG]\: 77
 N: \
 -- Elfd. _brinde_ \
 -- Nw. _bringe_ "male elk" \
-Unrelated to Messap. _βρένδον_ "deer" < \*bʰrendʰ-(?) as given by Hesychius or to OPru. _braydis_, Latv. _briêdis_ "elk" < \*braidi- (_pace_ Pokorny IEW: 168-9). In view of Elfd. _brunda_ [wk.] "to rut" and the Nw. Sunnmøre context _elgen hev alt teke til å brunda_ "the elk has started rutting" < \*brundōjan-, it is evident that the word started out as a late North Germanic deverbal formation that has nothing to do with the extra-Germanic look-alikes mentioned above. It is rather cognate with Nw. _brund_ [m.] "rut; male elk" < \*brunda-, which was derived from [\*breman- ~ \*brimman "to drone, roar"](#breman) (q.v.), cf. MHG _brunft_, G _Brunst_ [f.] "rut" < \*brumþi- \
+Unrelated to Messap. _βρένδον_ "deer" < \*bʰrendʰ-(?) as given by Hesychius or to OPru. _braydis_, Latv. _briêdis_ "elk" < \*braidi- (_pace_ Pokorny IEW: 168-9). In view of Elfd. _brunda_ [wk.] "to rut" and the Nw. Sunnmøre context _elgen hev alt teke til å brunda_ "the elk has started rutting" < \*brundōjan-, it is evident that the word started out as a late North Germanic deverbal formation that has nothing to do with the extra-Germanic look-alikes mentioned above. It is rather cognate with Nw. _brund_ [m.] "rut; male elk" < \*brunda-, which was derived from [\*breman- ~ \*brimman "to drone, roar"](#breman) (q.v.), cf. MHG _brunft_, G _Brunst_ [f.] "rut" < \*brumþi-. \
 REF: [EDPG]\: 77
 
 ### <a id="bringan">\*bringan- [st.] "to bring" (v)</a>
@@ -4039,7 +4039,7 @@ W: \
 -- Du. _broek_ [c.] "id." \
 -- OHG _bruoh_ "id." \
 COGN: To Lat. _suffrāgō_, -_inis_ [n.] "joint in the hind leg of a quadruped; sucker shoot" < \*-bʰrg-en-? \
-Etymology disputed. Within Germanic, the word can have been derived from an a-grade intensive to [\*brekan-](#brekan), viz. OE _bracan_ [st.] "to break, bruise" < \*brakan-, but only if the original meaning was "behind" (i.e. "area where the legs split"). This meaning does allow for the well-known etymological connection with Lat. _suffrāgō_, but the exact derivation of this (late) Latin word is problematic (cf. De Vaan 2008: 597-8). The position of Gaul. \*brāca, implied by Latin _brācae_, _braccae_ (for which see [\*brakkōn-](#brakkon)) is unclear: it may have been borrowed from Germanic in view of the root-final \*k, but borrowing in the opposite direction has, too, been suggested (Griepentrog 1995: 89). The inflection of the Germanic word as a root noun could be a confirmation of that, as old loanwords were absorbed by this category more frequently (cf. [\*arwīt- "pea"](#arwit)) \
+Etymology disputed. Within Germanic, the word can have been derived from an a-grade intensive to [\*brekan-](#brekan), viz. OE _bracan_ [st.] "to break, bruise" < \*brakan-, but only if the original meaning was "behind" (i.e. "area where the legs split"). This meaning does allow for the well-known etymological connection with Lat. _suffrāgō_, but the exact derivation of this (late) Latin word is problematic (cf. De Vaan 2008: 597-8). The position of Gaul. \*brāca, implied by Latin _brācae_, _braccae_ (for which see [\*brakkōn-](#brakkon)) is unclear: it may have been borrowed from Germanic in view of the root-final \*k, but borrowing in the opposite direction has, too, been suggested (Griepentrog 1995: 89). The inflection of the Germanic word as a root noun could be a confirmation of that, as old loanwords were absorbed by this category more frequently (cf. [\*arwīt- "pea"](#arwit)). \
 REF: [EDPG]\: 78
 
 ### <a id="broka-1">\*brōka- [n.] "spot, speckle(?)" (n)</a>
@@ -4530,7 +4530,7 @@ W: \
 -- OE _bogian_, _bug(i)an_ "to inhabit" \
 -- OFri. _bogian_ "to dwell" \
 PIE: \*bʰuh₂-éh₁- \
-The NGm. forms point to a jan-verb closely related to [\*bōan- ~ \*būan](#boan) (q.v.). The formation cannot be derived from \*bewwjan- (_pace_ Pokorny IEW: 146-50; Magnusson 1989: 69), as this would have given Elfd. \*\*_begga_. As a result, the verb can safely be reconstructed as \*buwwjan- or - in view of the WGm. forms - perhaps rather as a stative \*buwwēn- < \*bʰh₂u-éh₁-. Note that the formation may have gone through an intermediate stage \*būwḗ-. which by 1) Dybo's law and 2) Holtzmann's law would have regularly produced \*buwwēn- \
+The NGm. forms point to a jan-verb closely related to [\*bōan- ~ \*būan](#boan) (q.v.). The formation cannot be derived from \*bewwjan- (_pace_ Pokorny IEW: 146-50; Magnusson 1989: 69), as this would have given Elfd. \*\*_begga_. As a result, the verb can safely be reconstructed as \*buwwjan- or - in view of the WGm. forms - perhaps rather as a stative \*buwwēn- < \*bʰh₂u-éh₁-. Note that the formation may have gone through an intermediate stage \*būwḗ-. which by 1) Dybo's law and 2) Holtzmann's law would have regularly produced \*buwwēn-. \
 REF: [EDPG]\: 86
 
 ## D
@@ -4661,7 +4661,7 @@ W: \
 -- G Pal. _tapfen_, _tappen_ "to grope" \
 PIE: \*dʰh₂bʰ-néh₂- \
 COGN: Lith. _dóbti_ (_dóbiu_) "to beat, kill", Latv. _dâbt_ "to strike, beat" < \*dʰeh₂bʰ-ie- \
-An iterative 3sg. \*dappōþi, 3pl. \*dabunanþi  \*dʰh₂bʰ-néh₂-ti, \*dʰh₂bʰ-nh₂-énti to the Germanic-Baltic root \*dʰeh₂bʰ- (cf. Pokorny IEW: 233). With secondary full-grade and geminate, cf. MHG _tāpe_, Swi. (App.) _tɔɔppə_, Visp. _daappo_ [m.] "paw, hand" < \*dēbban- (Kroonen 2011a: 327). Unrelated to [\*tabjan-](#tabjan) (q.v.) \
+An iterative 3sg. \*dappōþi, 3pl. \*dabunanþi  \*dʰh₂bʰ-néh₂-ti, \*dʰh₂bʰ-nh₂-énti to the Germanic-Baltic root \*dʰeh₂bʰ- (cf. Pokorny IEW: 233). With secondary full-grade and geminate, cf. MHG _tāpe_, Swi. (App.) _tɔɔppə_, Visp. _daappo_ [m.] "paw, hand" < \*dēbban- (Kroonen 2011a: 327). Unrelated to [\*tabjan-](#tabjan) (q.v.). \
 REF: [EDPG]\: 88
 
 ### <a id="dapra">\*dapra- "heavy" (adj)</a>
@@ -4956,7 +4956,7 @@ REF: [EDPG]\: 93
 W: \
 -- MHG _diehter_, _tiehter_, G Bav. _Tichter_ \
 PIE: \*dʰeugh₂-tro- \
-A uniquely Germanic formation that represents an unparalleled full-grade formation to \*duhter- < PIE \*dʰugh₂-ter- "daughter". It is likely to be a _vr̥ddhi_-derivation comparable to [\*swēgura- "son-in-law"](#swegura) < \*suēḱuro- (Szemerényi 1977: 52-3), the neuter gender correlating with the meaning "grandchild". Note that Lye. _kbatra_- may represent a different full grade \*dʰuegh₂-tr- (Kloekhorst 2008: 902-903) \
+A uniquely Germanic formation that represents an unparalleled full-grade formation to \*duhter- < PIE \*dʰugh₂-ter- "daughter". It is likely to be a _vr̥ddhi_-derivation comparable to [\*swēgura- "son-in-law"](#swegura) < \*suēḱuro- (Szemerényi 1977: 52-3), the neuter gender correlating with the meaning "grandchild". Note that Lye. _kbatra_- may represent a different full grade \*dʰuegh₂-tr- (Kloekhorst 2008: 902-903). \
 REF: [EDPG]\: 93
 
 ### <a id="deupa">\*deupa- "deep" (adj)</a>
@@ -5404,7 +5404,7 @@ W: \
 -- OS _driopan_ "id." \
 -- Du. _druipen_ "to drip; to ooze" \
 -- OHG _triufan_ "id.", G _triefen_ "id." \
-A back-formation to the iterative [\*drupp/bōn-](#druppon-2) < \*dʰrbʰ-néh₂-. There is no reason to postulate a PIE \*dʰreub- (_pace_ Pokorny IEW: 274-5) on the basis of the Germanic evidence, as both the radical \*ū̆ and the root-final \*p arose as a result of intra-Gm. derivational processes: in reality, the Pre-Gm. root was \*dʰrebʰ-. This means that the often mentioned connection with OIr. _drúcht_ [m.] "dew", allegedly from \*dʰrūb-tu- (De Vries 1962: 84; Matasovic 2011: 12) cannot be maintained \
+A back-formation to the iterative [\*drupp/bōn-](#druppon-2) < \*dʰrbʰ-néh₂-. There is no reason to postulate a PIE \*dʰreub- (_pace_ Pokorny IEW: 274-5) on the basis of the Germanic evidence, as both the radical \*ū̆ and the root-final \*p arose as a result of intra-Gm. derivational processes: in reality, the Pre-Gm. root was \*dʰrebʰ-. This means that the often mentioned connection with OIr. _drúcht_ [m.] "dew", allegedly from \*dʰrūb-tu- (De Vries 1962: 84; Matasovic 2011: 12) cannot be maintained. \
 REF: [EDPG]\: 102
 
 ### <a id="dreusan">\*dreusan- [wk.] "to fall" (v)</a>
@@ -5482,7 +5482,7 @@ N: \
 -- ON _drit_ \
 W: \
 -- OE _drit_ "dirt", E _dirt_ \
-Also cf. MDu. _dreet_ [m.] "fart", WPhal. _driat_ [m.] "shit" < \*driti-, a similar derivation from the strong verb [\*drītan-](#dritan) \
+Also cf. MDu. _dreet_ [m.] "fart", WPhal. _driat_ [m.] "shit" < \*driti-, a similar derivation from the strong verb [\*drītan-](#dritan). \
 REF: [EDPG]\: 103
 
 ### <a id="dritan">\*drītan- [st.] "to shit" (v)</a>
@@ -5593,7 +5593,7 @@ W: \
 -- OE _dūfan_ "to dive" \
 -- MLG _be-dūven_ "to become overwhelmed, become covered" \
 -- MDu. _be-duven_ "to dip" \
-A strong verb that appears to have been derived from the iterative [\*dupp/bōn-](#duppon) (q.v.) in view of the fact that the expected PIE formation \*dʰeubʰ-e- would have become \*\*deuban- in Germanic. See also [\*deupa-](#deupa) \
+A strong verb that appears to have been derived from the iterative [\*dupp/bōn-](#duppon) (q.v.) in view of the fact that the expected PIE formation \*dʰeubʰ-e- would have become \*\*deuban- in Germanic. See also [\*deupa-](#deupa). \
 REF: [EDPG]\: 105
 
 ### <a id="dubila">\*dubila- [m.] "peg, pin, dowel" (n)</a>
@@ -6032,7 +6032,7 @@ W: \
 -- OHG _eban_ "even, equal, straight", G _eben_ "level" \
 PIE: \*em-no- \
 COGN: Skt. _amnás_ "just, just now; at once" (adv) < \*h₁em-n-e/os- \
-A no-stem to a root \*h₁em-, cf. Skt. _amnás_ (Schaffner 2000): it follows that the cluster \*-bn- developed from \*-mn-. Older etymological proposals cannot be maintained. The reconstruction as \*imna-, based on the alleged link with [\*jumja- "(primordial) twin"](#jumja) < \*imH-io-, is irreconcilable with ON _jafn_, whose vocalism points to breaking of PGmc. \*e. The additional connection with W _iawn_ "id.", OBret. _ion_, _eunt_, MBret. _effn_ "right, simple", Co. _ewn_ "righteous, correct" can only work by deriving it from \*h₁em-no-, but OIr. _án_ "true, just" rather points to \*yāno- (Matasovic 2009: 433). The alternative reconstruction of the Celtic forms as \*epōno- does not work either, because PGmc. \*ep-nó- would give \*\*eppa- (with Kluge's law) rather than \*ebna- \
+A no-stem to a root \*h₁em-, cf. Skt. _amnás_ (Schaffner 2000): it follows that the cluster \*-bn- developed from \*-mn-. Older etymological proposals cannot be maintained. The reconstruction as \*imna-, based on the alleged link with [\*jumja- "(primordial) twin"](#jumja) < \*imH-io-, is irreconcilable with ON _jafn_, whose vocalism points to breaking of PGmc. \*e. The additional connection with W _iawn_ "id.", OBret. _ion_, _eunt_, MBret. _effn_ "right, simple", Co. _ewn_ "righteous, correct" can only work by deriving it from \*h₁em-no-, but OIr. _án_ "true, just" rather points to \*yāno- (Matasovic 2009: 433). The alternative reconstruction of the Celtic forms as \*epōno- does not work either, because PGmc. \*ep-nó- would give \*\*eppa- (with Kluge's law) rather than \*ebna-. \
 REF: [EDPG]\: 113
 
 ### <a id="ebura">\*ebura- [m.] "boar" (n)</a>
@@ -6105,7 +6105,7 @@ N: \
 -- ON _ǣgir_ \
 -- Far. poet. _ægir_\* \
 PIE: \*h₂ēkʷ-ió- \
-The word, which occurs in Old Norse and in Faroese ballads (_á ægin blá_ "to the sea"), is usually derived from \*h₂ēkʷ-ió-, i.e. a lengthened grade formation to [\*ahwō- "river"](#ahwo) < \*h₂ékʷ-eh₂- (Darms 1978: 29). OE _eagor_ "sea, flood" has been adduced as well, but in this word the r is a suffix, not an ending. It is therefore more likely to be related to Du. _agger_ "sea swell" < [\*agra-](#agra) (q.y.) \
+The word, which occurs in Old Norse and in Faroese ballads (_á ægin blá_ "to the sea"), is usually derived from \*h₂ēkʷ-ió-, i.e. a lengthened grade formation to [\*ahwō- "river"](#ahwo) < \*h₂ékʷ-eh₂- (Darms 1978: 29). OE _eagor_ "sea, flood" has been adduced as well, but in this word the r is a suffix, not an ending. It is therefore more likely to be related to Du. _agger_ "sea swell" < [\*agra-](#agra) (q.y.). \
 REF: [EDPG]\: 115
 
 ### <a id="ehwa">\*ehwa- [m.] "horse" (n)</a>
@@ -6158,7 +6158,7 @@ W: \
 -- G obs. _elger_ \
 PIE: \*h₁el(H)k-ró- \
 COGN: Lith. _álkti_ "to be hungry", OCS _alъkati_ "id.", Ru. _alkát'_ (_álču_) "to hunger (for), crave (for)" < \*h₁olHk- (or \*h₁eh₁olk-, Rasmussen 1999: 199) \
-A ro-stem to the root \*h₁el(H)k-. Also cf. OHG _ilki_ "_fames vel stridor dentium_" < \*elgīn- and MHG _ilgern_ [wk.] "to become blunt (of teeth)" < \*elgrjan- (DWB: 1 0, 2060-61). I assume that the original meaning "having blunt teeth" developed into "hungry" in both Germanic and Balto-Slavic. Unrelated to [\*elhja- "evil"](#elhja) (q.v.) \
+A ro-stem to the root \*h₁el(H)k-. Also cf. OHG _ilki_ "_fames vel stridor dentium_" < \*elgīn- and MHG _ilgern_ [wk.] "to become blunt (of teeth)" < \*elgrjan- (DWB: 1 0, 2060-61). I assume that the original meaning "having blunt teeth" developed into "hungry" in both Germanic and Balto-Slavic. Unrelated to [\*elhja- "evil"](#elhja) (q.v.). \
 REF: [EDPG]\: 116
 
 ### <a id="elhan">\*elha(n)- [m.] "elk" (n)</a>
@@ -6236,7 +6236,7 @@ REF: [EDPG]\: 118
 N: \
 -- Icel. _jerfur_, obs. _jarfi_ \
 -- Nw. _jerv_, dial. _jarv_, _erv_ \
-A Nordic word, probably continuing a proto-form \*erba(n)- that developed into ON _jarfr_, Icel. _jarfi_, Nw. dial. _jarv_ by a-breaking. The form _jerfr_ is irregular, but may be a contamination of _jarfr_ with an unbroken form \*_erfr_, cf. Nw. dial. _erv_. Etymologically, the word has been compared to ON _jarpr_ "brown" < \*erpa- and to Gr. _ἔριφος_ "goat", but it is perhaps better to assume a link with Nw. dial. _jarva_ [wk.] "to gnaw, chew" \
+A Nordic word, probably continuing a proto-form \*erba(n)- that developed into ON _jarfr_, Icel. _jarfi_, Nw. dial. _jarv_ by a-breaking. The form _jerfr_ is irregular, but may be a contamination of _jarfr_ with an unbroken form \*_erfr_, cf. Nw. dial. _erv_. Etymologically, the word has been compared to ON _jarpr_ "brown" < \*erpa- and to Gr. _ἔριφος_ "goat", but it is perhaps better to assume a link with Nw. dial. _jarva_ [wk.] "to gnaw, chew". \
 REF: [EDPG]\: 118
 
 ### <a id="erpa">\*erpa- "light brown" (adj)</a>
