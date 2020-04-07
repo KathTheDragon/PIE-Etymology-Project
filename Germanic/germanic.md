@@ -3100,6 +3100,7 @@ N: \
 -- Far. -_bærur_ "capable of bearing" \
 COGN: Skt. _bhāryá_- "to be borne, to be nourished" < \*bʰēr-io- \
 A _vr̥ddhi_-gerundive to [\*beran-](#beran-1) (q.v.). \
+REF: [EDPG]\: 61
 
 ### <a id="berkan">\*berkan- [st.] "to roar" (v)</a>
 W: \
