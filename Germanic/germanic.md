@@ -6384,3 +6384,2271 @@ N: \
 -- Nw. _igde_ "id." \
 An exclusively Nordic word derived from a more primitive masculine form Nw. _egde_ < \*ewwadan-. Somehow connected to Imandra Saa. _avigʒinê_ "tit(?)" as cited by Qvigstad 1902: 270? Either way, the word could be a loanword from an extinct Pre-Nordic language, for which cf. [\*awadī- "eiderduck"](#awadi). \
 REF: [EDPG]\: 121
+
+## F
+
+### <a id="fader">\*fader- [m.] "father" (n)</a>
+E: \
+-- Go. _fadar_ \
+N: \
+-- ON _faðir_ \
+-- Far. _faðir_ \
+-- Elfd. _faðer_ \
+W: \
+-- OE _fæder_, E _father_ \
+-- OFri. _feder_ \
+-- OS _fadar_ \
+-- Du. _vader_ [c.] \
+-- OHG _fatar_, G _Vater_ \
+PIE: \*ph₂-ter- \
+COGN: ToA _pācar_, ToB _pācer_, Skt _pitár_-, OAv. _ptā_, acc. _patarə̄m_, YAv. _pita_, acc. _pitarəm_, OP _pitā_, NP _pidar_, Oss. _fyd_ /_fidæ_, Gr. _πατήρ_, gen. _πατρός_, Lat. _pater_, -_tris_, OIr. _athir_, _athair_ [m.] "father" \
+The Indo-European word for "father", a hysterokinetic ter-stem, nom. \*ph₂-tḗr, gen. \*ph₂-tr-ós, acc. \*ph₂-tér-m. See also [\*fadurwjan-](#fadurwjan). \
+REF: [EDPG]\: 121
+
+### <a id="fadi">\*fadi- [m.] "lord" (n)</a>
+E: \
+-- Go. _bruþ-faþs_ "bridegroom", _hunda-faþs_, _þusundi-faþs_ "leader of hundred/thousand" \
+PIE: \*pot-í- \
+COGN: ToA _pats_ "husband", Skt. _páti_-, Av. _paiti_- [m.] "lord, ruler, husband", Gr. _πόσις_ [m.] "husband", Lith. _pàts_ [m.] "id." < \*pot-i-, Lat. _potis_ "capable, powerful" < \*pot-i- \
+An old Indo-European word often used as a second member of compounds, e.g. Skt. _viś-páti_- "lord of the house", Lith. _vieš-pats_ "lord", Lat. _hos-pes_ "guest, host", Ru. _gos-pód'_ "Lord, god". Also cf. Hitt. -_pat_ "the same, also, even" (adv), Av. _xᵛaē-paiti_- "himself", Lith. _pats_ "self", (adv) _pat_ "even". An unattested PGmc. form \*swabadi- (< \*suo-poti-) has been reconstructed on the basis of PSlav. \*svo-bodb "free" (Vaillant 1958: §277), but this word is actually derived from an adjective \*suobʰo-, cf. Latv. _at-svabinât_ "to set free" < \*suobʰ-neh₂-, with the Slavic suffix \*-od-. \
+REF: [EDPG]\: 121
+
+### <a id="fadojan">\*fadojan- [wk.] "to feed" (v)</a>
+W: \
+-- OHG _fatōn_ \
+PIE: \*ph₂t-eh₂-ie- \
+Related to [\*fōdjan-](#fodjan) (q.v.). Also cf. OHG _fatunga_ [f.] "feeding, fattening" and MLG _vedeme_, _veme_, G _Fehme_ [f.] "mast/feeding on acorns" < \*fadmjō-. \
+REF: [EDPG]\: 121
+
+### <a id="fadurwjan">\*fadurwjan- [m.] "paternal uncle, father's brother" (n)</a>
+W: \
+-- OE _fædera_ \
+-- OFri. _federia_, _fedria_, _feria_, _fadria_ \
+-- MDu. _vedder_ "father's brother; uncle; brother's son" \
+-- OHG _fatureo_, _fetiro_ "father's brother", MHG _vetere_, _veter_ "father's brother, brother's son, male cousin", G _Vetter_ "male cousin" \
+PIE: \*ph₂-tr-u-ion- \
+COGN: Skt. _pítr̥vya_-, YAv. _tūiriia_- "father's brother" < \*ph₂tr-u-io-, Lat. _patruus_ "id." < \*ph₂tr-uo-, Gr. _πάτρως_ "male relative, father's brother" < \*ph₂tr-ōu- \
+A PIE derivation from [\*fader-](#fader) (q.v.). The Germanic word is identical to the Indo-Iranian formation, but Greek appears to attest to an amphikinetic u-stem \*ph₂-tr-ōu, gen. \*ph₂-tr-u-os. For the suffix \*-wjan-, cf. [\*suhturwjan-](#suhturwjan). \
+REF: [EDPG]\: 122
+
+### <a id="fagjan">\*fagjan- [wk.] "to please" (v)</a>
+E: \
+-- Go. _fulla-fahjan_ "to satisfy" \
+PIE: \*pok-éie- \
+The causative to [\*fehan-](#fehan). The same form of the root is found in Go. _faheþs_ [f.] "joy, gladness", which was derived from an unattested Go. stative \*fahan continuing \*fagēn-. Note that the effects of Verner's law were undone in Gothic. \
+REF: [EDPG]\: 122
+
+### <a id="fagra">\*fagra- "fit (good, beautiful)" (adj)</a>
+E: \
+-- Go. _fagrs_ "fit, good" \
+N: \
+-- ON _fagr_ "beautiful, handsome" \
+-- Far. _fagur_ "id." \
+W: \
+-- OE _fæger_ "id.", E _fair_ \
+-- OS _fagar_ "id." \
+-- OHG _fagar_ "id.", MHG _vager_ "id." \
+PIE: \*ph₂ḱ-ró- \
+COGN: Lat. _pāx_ [f.] "peace" (< "settlement") < \*peh₂ḱ- and _pactus_ "agreed" < \*ph₂ḱ-to- \
+An adjective created to the root of [\*fōgjan- "to fit together"](#fogjan) (q.v.). The comparison with [\*fehan- "to rejoice"](#fehan) is probably erroneous, as ro-adjectives usually take the zero-grade of the root. Also cf. the factitive Go. _ga-fahrjan_ [wk.] "to prepare" < \*fagrjan-. \
+REF: [EDPG]\: 122
+
+### <a id="fahiz">\*fahiz- [n.] "sheep" (n)</a>
+N: \
+-- ON _fær_ \
+-- OSw. _fār_ \
+-- Sw. _får_ \
+PIE: \*póḱ-es- \
+COGN: Lat. _pecus_, -_oris_ "sheep; cattle" \
+An old s-stem \*fahaz, gen. \*fahizaz. The Nordic forms can be unified into a proto-form \*fahaz-, assuming that ON _fær_ was affected by R-mutation. Related to the root of [\*fahsa-](#fahsa) and [\*fahti-](#fahti) (q.v.). \
+REF: [EDPG]\: 122
+
+### <a id="fahsa">\*fahsa- [n.] "hair of the head" (n)</a>
+N: \
+-- ON _fax_ "mane" \
+W: \
+-- OE _feax_ \
+-- OFri. _fax_ \
+-- OS _fahs_ \
+-- OHG _fahs_, MHG _vahs_ [m./n.] \
+PIE: \*poḱ-so- \
+COGN: Gr. _πέκος_ "fleece" < \*peḱ-es-, Gr. _πόκος_ [m.] "wool, fleece" < \*poḱ-o-, Arm. _asr_ "sheepwool, fleece" < \*poK-u- \
+A thematicized s-stem closely related to [\*fahiz-](#fahiz) and [\*fahti-](#fahti) (q.v.). See also [\*fehu-](#fehu). \
+REF: [EDPG]\: 122
+
+### <a id="fahti">\*fahti- [m.] "fleece" (n)</a>
+N: \
+-- OSw. _fæt_ \
+W: \
+-- OE _feht_ "vellus" \
+-- OFri. _fecht_ "wool, fleece" \
+-- MDu. _vacht_ [m./f.], Du. _vacht_ [c.] "fleece, fur" \
+PIE: \*poḱ-ti- \
+COGN: Gr. _πέκω_ "to comb (oneself), to card, to shear", Lith. _pèšti_ (_pešù_) "to pluck" < \*peḱ-e- \
+A ti-stem to an unattested o-grade present \*fahan- < \*póḱ-e-. Related to the PIE verb \*péḱ-e- "to pull out hair" as preserved by Lithuanian. See also [\*fehu-](#fehu). \
+REF: [EDPG]\: 123
+
+### <a id="faigi">\*faigi- "bound to die" (adj)</a>
+N: \
+-- ON _feigr_ \
+W: \
+-- OE _fǣge_, E _fey_ \
+-- OFri. _fach_, _fai_ \
+-- OS _fēg_, _fēgi_ \
+-- Du. _veeg_ \
+-- OHG _feigi_, G _feige_ (adj) "coward", Swi. _feig_ "slow, lazy" \
+The form and meaning of the word point to a gerundive "who is to die". Within Germanic, the adjective can be linked to [\*faiha- "hostile"](#faiha-1) (Heidermanns 1993: 184-85), but it is also possible to derive it directly from the PIE root \*peiḱ- "to carve, paint", for which see [\*faiha-](#faiha-2). The original meaning must then have been "marked for death". \
+REF: [EDPG]\: 123
+
+### <a id="faiha-1">\*faiha- "hostile" (adj)</a>
+W: \
+-- OE _fāh_, _fāg_ "hostile, criminal", E _foe_ \
+-- OFri. _fāch_ "guilty, outlawed" \
+-- MDu. _vee_, _ge-vee_ \
+-- OHG _gi-fēh_, MHG _ge-vēch_ \
+PIE: \*póik/ḱ-o- \
+COGN: Skt. _piśuna_- "evil, treacherous" < \*piḱ-, OIr. _oech_ [m.] "enemy" < \*poik/ḱ-o-, Lith. _peĩkti_ (_peikiù_) "to blame" < \*peik-ie- (also cf. Lith. _pìktas_ "angry" < \*pik-to-) \
+An adjective derived from a root \*peiḱ- or \*peik-. Also cf. Go. _ga-faihon_ [wk.] "to defraud" and OS _ā-fēhian_, OHG _fēhen_ "to treat in a hostile way", whence OE _fǣhð_, OFri. _faithe_, _feithe_, (M)Du. _vete_, OHG _fēhida_, G _Fehde_ [f.] "feud" < \*faihiþō-. See also [\*faigi-](#faigi). \
+REF: [EDPG]\: 123
+
+### <a id="faiha-2">\*faiha- "colourful" (adj)</a>
+W: \
+-- OE _fāh_ "colored", ME _fou_ "particolored, variegated, spotted, streaked" \
+-- OS _fēh_ \
+-- OHG _fēh_, MHG _vēch_ "variegated" \
+PIE: \*póiḱo- \
+COGN: ToAB _pik_- "to write", Skt. _piṃśáti_ "to carve, cut, adorn", YAv. _fra-pixšta_- ptc. "adorned" < \*pi-n-ḱ-, Lat. _pingere_ "to paint" < \*piḱ-ne-, Gr. _ποικίλος_ "varicolored" < \*poiḱ-ilo-, Lith. _piẽšti_ "to paint, write", OPru. _peisāi_ "they write" < \*peiḱ-, OCS _pьsati_ (_pišǫ_) "to write" < \*p(e)iḱ-ie-, OCS _pьstrъ_ "varicolored" < \*piḱ-ro- \
+An adjective to the root \*peiḱ- "to paint". Also cf. the factitive OHG _fēhen_, MHG _vēhen_ [wk.] "to colorize, stain" < \*faihjan- and ON _fá_ [wk.] "to draw, paint" < \*faihōjan-. \
+REF: [EDPG]\: 123
+
+### <a id="faiman">\*faima(n)- [m.] "foam" (n)</a>
+N: \
+-- Nw. _feim(e)_ [m./n.] "thin layer of dew, dust, floating fat" \
+W: \
+-- MHG _veim_ "foam, dross" \
+COGN: Skt. _phéna_- [m.] "foam" < \*speh₃i-no-, Lat. _spūma_ [f.] "(sea) foam" < \*speh₃i-m-eh₂-, OCS _pěna_, Ru. _péna_, SCr. _pjȅna_ [f.] "foam" < \*peh₃i-no-, OPru. _spoayno_ "foam" < \*peh₃i-neh₂-, Lith. _spáinė_ [f.] "foam streaks" < \*speh₃i-n-ieh₂-, MIr. _úan_, MW _ewyn_ [m.] "froth" < \*peh₃iu-ino- (with dissimilation of the first !) \
+The different stems \*(s)peh₃i-m- and \*(s)peh₃i-n- can be reconciled into a single mn-stem paradigm nom. \*(s)péh₃i-m(o)n, gen. \*(s)ph₃i-mn-ós (Matasovic 2004: 126). The no-stem arose by dissimilation of the m in the genitival cluster \*-mn- against the preceding labial element (cf. [\*budman- ~ \*buttaz "bottom"](#budman) and [\*hrīman- ~ \*hrīpan- "hoarfrost"](#hriman)). De Vaan 2008: 583 points to the problem that no actual mn-stem is attested, but Nw. _feime_ [m./f.] < \*peh₃i-mon- can be adduced as such. Also note Nw. _fim_ "layer of dust or dew" < \*fīma-, which may continue the original zero-grade \*ph₃i-mon- (with laryngeal metathesis). \
+REF: [EDPG]\: 123
+
+### <a id="faita">\*faita- "fat" (adj)</a>
+N: \
+-- ON _feitr_ \
+-- Far. _feitur_ \
+-- Elfd. _fiet_ \
+W: \
+-- MLG _vēt_ \
+-- MHG _veiz_, G Cimb. _voaz_ \
+An adjective probably related to [\*faj(j)a-](#fajja) (q.v.) < \*poih₃-o-. The Germanic root-final t has no extra-Germanic parallel (Heidermanns 1993: 187), but can tentatively be identified as the zero grade of the root \*deh₃- "to give", thus starting from a meaning "to fatten up" (< "to give to eat"). PGmc. \*faita- gave rise to a factitive \*faitjan- (ON _feita_, OHG _feizzen_ "to make fat"), whose ptc. \*faitida- was again lexicalized, cf. OE _fǣtt_, E _fat_, (M)Du. _vet_, OHG _feizzit_, G _feist_ "fat". See also [\*fitnan-](#fitnan). \
+REF: [EDPG]\: 124
+
+### <a id="fajja">\*faj(j)a- "fat(?)" (adj)</a>
+W: \
+-- Du. dial. _vei_ "fat, lush, fertile" \
+PIE: \*poih₂-o- \
+COGN: Skt _páyate_ "to swell" < \*péiH-e-, Av. _pōiθβa_- "fat" < \*peiH-tuo- \
+An adjective derived from the PIE root \*peiH- (cf. LIV² s.v. \*peiH-). Probably related to [\*faita- "fat"](#faita) (q.v.). \
+REF: [EDPG]\: 124
+
+### <a id="faka">\*faka- [n.] "enclosure, section" (n)</a>
+W: \
+-- OE _fæc_ "space, interval, distance, portion of time" \
+-- OFri. _fek_ "part of the house, niche" \
+-- MDu. _vac_ "compartment, section", Du. _vak_ "space; profession" \
+-- OHG _fah_ "wall, compartment", G _Fach_ "compartment, panel; discipline" \
+PIE: \*ph₂ǵ-o- \
+COGN: Skt _pā́jas_- "side, surface(?)" < \*peh₂ǵ-os-, Gr. _πήγνυμι_ "to attach, join" < \*peh₂ǵ-neu-, Lat _pango_ "to insert firmly, fix" < \*ph₂ǵ-neh₂- (with n-infixation through Thurneysen's law), Lat _pāgus_ [m.] "district" < \*peh₂ǵ-o- \
+Also cf. MLG _vake_, MDu. _vake_, _vaec_, Du. _vaak_ "often" (adv). \
+REF: [EDPG]\: 124
+
+### <a id="fakkon">\*fakk/gōn- [wk.] "to become sleepy" (v)</a>
+W: \
+-- E _to fag_ "to tire, weary", obs. "to hang loose, flap", Scot _to faik_ "to fail from weariness; to cease moving" \
+A West Germanic iterative: the consonant variation of E _to fag_ < \*faggōn and Scot. _to faik_ < \*fakōn- is suggestive of a paradigm 3sg. \*fakkōþi, 3pl. \*fagunanpi < \*pok/ḱ-neh₂-. In view of E _fag_ "fag-end, hanging end of a piece of cloth, untwisted end of a rope", it seems likely that the meaning "to become tired" developed from older "to fray, ravel out", cf. Brit. E _frayed_ "ragged, worn out". This semantic field is compatible with Lith. _pèšti_ (_pešù_) "to tousle, ruffle, tear off hair" < PIE \*peḱ-e-, which is related to e.g. [\*fehu- "cattle"](#fehu) and [\*fahti- "fleece"](#fahti). Further note the oblique subject verbs OLFra. _facon_ and MDu. _vaken_ "to sleep", which appear to be denominal formations to MLG _vāk_, MDu. _vake_, _vaec_ [m.] "sleepiness" (cf. Du. _Klaas Vaak_ "the Sandman") < \*fakan- or to an \*fak(k)a- as perhaps implied by LG _fakk_ "tired, weak". \
+REF: [EDPG]\: 124
+
+### <a id="falan">\*falan- [m.] "board" (n)</a>
+W: \
+-- OE _fala_ \
+COGN: ORu. _polъ_ [m.] "foundation", Ru. _pol_ [m.] "floor", Ukr. _pol_ [m.] "sleeping bench" < \*pol-o- (also cf. Ru. _políca_, SCr. _pòlica_ [f.] "shelf" and with an ablauting root OCS _palica_ [f.] "staff", Ru. _pálica_ [f.] "club, cudgel", SCr. _pȁlica_ [f.] "stick, staff", Ru. _pálka_ [f.] "stick, staff" < \*pōl-) \
+The connection with the Slavic forms is beyond doubt, but the relation between the roots \*pol- and \*pōl-(?) is unclear (Derksen 2008: 390, 410). See also [\*faluda-](#faluda) and [\*felō-](#felo). \
+REF: [EDPG]\: 125
+
+### <a id="falgo">\*falgō- [f.] "fallow land" (n)</a>
+W: \
+-- ME _falge_, _falwe_ "arable land lying idle; plowing as part of the fallowing process", E _fallow_ \
+-- OFri. _fallach_ "arable land" \
+-- MDu. _valge_ "id." \
+PIE: \*pol(h₁)k/ḱ-éh₂- \
+COGN: Gaul. _olca_ "arable land" (= Fr. _ouche_ "id."); perhaps also Lith. _plė́šti_ (-_šiu_, -_šiau_), Latv. _plêst_ "to tear, pluck; to plow land for the first time" < \*pleh₁ḱ-ie- \
+Also cf. MHG _valgen_, Du. dial. _valgen_, WFri. _felgje_ "to plow" < \*falgōjan- and OE _fealh_ [f.] "harrow" < \*falgō-. \
+REF: [EDPG]\: 125
+
+### <a id="falkan">\*falkan- [m.] "falcon" (n)</a>
+N: \
+-- ON _falki_ \
+-- Far. _fálkur_ \
+-- OSw. _falke_, _falker_ \
+W: \
+-- MDu. _valce_, Du. _valk_ [c.] \
+-- OHG _falco_, G _Falke_ \
+A West Germanic word: the Nordic forms are irregular, and thus point to borrowing from West Germanic. No certain etymology. The derivation from [\*falwa- "pale, fallow"](#falwa) is possible, but uncertain in spite of the potential parallel G dial. _Falke_ [m.] "fallow horse". The latter word has -_lk_- from -_lch_-, and belongs to G Pal. _falch_ "pale" < \*falha- < \*pólḱ-o-, cf. Lith. _palšas_ "pale (of cows)". Slightly more attractive is the link with OPru. _pele_ "harrier". The Germanic word must then have a k-suffix like e.g. [\*alkōn-](#alkon), [\*balika/ōn-](#balikan) and [\*habuka-](#habuka). Lat _falco_ was adopted from Germanic. \
+REF: [EDPG]\: 125
+
+### <a id="fallan">\*fallan- [st.] "to fall" (v)</a>
+N: \
+-- ON _falla_ \
+-- Far. _falla_ \
+-- Elfd. _folla_, OE _fallan_ \
+W: \
+-- E _to fall_ \
+-- OFri. _falla_ \
+-- OS _fallan_ \
+-- Du. _vallen_ \
+-- OHG _fallan_, G _fallen_ \
+PIE: \*h₂pó-h₃lh₁- \
+COGN: Identical to Gr. _ἀπόλλυμι_, -_µat_ "to wreck, destroy, lose", mid. "to go to waste, be ruined, be lost", Lat _aboleō_, -_ēre_ "to destroy; banish; abolish", Arm. _p'lanim_ "to fall", Lith. _pùlti_ (_púolu_), Latv. _pult_ "to fall", OPru. _aū-pallai_ "finds" \
+The strong verb synchronically functions as an o-grade intensive verb, but arose as a univerbation of the adverb \*h₂pó "off" (for which see [\*fanē](#fane)) and the PIE root \*h₃elh₁- "to fall" (Praust 2005, Neri 2007), cf. Hitt. _hallannai_ ~ _hallanniyanzi_ "to trample down, flatten" and Gr. _ὄλλυμι_. The Germanic form requires the reconstruction of a nasal suffix in view of the root-final double l. In order to arrive at PGmc. \*fallan- from Pre-Gm. \*peh₃l-n-é-, we must therefore assume that a form \*peh₃l-né- gave \*palné- under Osthoffs law and subsequently \*falle- under Kluge's law. See also [\*falljan-](#falljan). \
+REF: [EDPG]\: 125
+
+### <a id="falljan">\*falljan- [wk.] "to fell" (v)</a>
+N: \
+-- ON _fella_ \
+-- Far. _fella_ \
+-- Elfd. _fella_ [st.] \
+W: \
+-- OE _fiellan_, E _to fell_ \
+-- OFri. _fella_ \
+-- OS _fellian_ \
+-- Du. _vellen_ \
+-- OHG _fellan_, G _fällen_ \
+The causative to [\*fallan-](#fallan) (q.v.). \
+REF: [EDPG]\: 126
+
+### <a id="falon">\*falōn- [f.] "plain" (n)</a>
+N: \
+-- OSw. _fala_ \
+-- Sw. _fala_ \
+PIE: \*polh₂-eh₂- \
+COGN: OCS _polje_, Ru. _póle_, SCr. _pȍlje_ [n.] "field" < \*polh₂-io- \
+Derived from the PIE root \*pelh₂- "flat", for which see [\*fulmō-](#fulmo). \
+REF: [EDPG]\: 126
+
+### <a id="falthan">\*falþan- [st.] "to fold, ply" (v)</a>
+E: \
+-- Go. _falþan_ \
+N: \
+-- ON _falda_ "to hood oneself" \
+-- Far. _falda_ [wk.] "to put on clothes" \
+-- Elfd. _folda_ [wk.] "to hem, seam" \
+W: \
+-- OE _fealdan_ "to fold", E _to fold_ \
+-- WFri. _fâldzje_ [wk.] "id." \
+-- MDu. _volden_ [wk.] "id.", Du. _vouwen_ [st./wk.] "id." \
+-- OHG _faldan_, _faltan_ "id.", G _falten_ [wk.] "id." \
+PIE: \*pól-t-e- \
+COGN: Cf. Gr. _διπλόος_, _διπλοῦς_ "twofold", Lat. _duplus_ "double, twofold" < \*dui-plo-, Arm. _haɫ_ "time" < \*pol-o-(?) \
+An o-grade intensive verb. The Pre-Gm. root-final \*t appears to be suffixal. Also cf. MDu. _volde_, Du. _vouw_, MHG _valte_, G _Falte_ [f.] "fold" < \*faldō- and Go. _ain-falþs_, ON _ein-faldr_, OE _ān-feald_, OFri., OS _ēn-fald_, OHG _ein-fald_ "simple" < \*-falda-. \
+REF: [EDPG]\: 126
+
+### <a id="faluda">\*faluda- [m.] "pen(?)" (n)</a>
+N: \
+-- Da. _fold_ "enclosure, pasture" \
+W: \
+-- OE _fald_, _falod_, _falud_ "fold, stable", E _fold_ \
+-- OS _faled_ "id." \
+-- MDu. _vaelde_, _vaelt_ "enclosure, yard; dunghill", Du. _mest-vaalt_ [c.] "dunghill" \
+A word with an original meaning "enclosure", possibly related to "board" and esp. OE _fala_ "_tabula_" < [\*falan-](#falan) (q.v.). The word contains the \*-uda- suffix that also occurs in e.g. OS _rakud_ [m.] "house", OE _ræced_ [n.] "house, hall" < \*rakuda-. Theoretically, it could be the zero grade of the PIE root \*uedʰ- "to bind, tie" (for which see [\*wedan-](#wedan)), but this is uncertain. \
+REF: [EDPG]\: 126
+
+### <a id="falwa">\*falwa- "pale" (adj)</a>
+N: \
+-- ON _fǫlr_ \
+W: \
+-- OE _fealo_, E _fallow_ \
+-- OS _falu_ "fallow, yellow" \
+-- Du. _vaal_ "faded, drab" \
+-- OHG _falo_ "fallow, yellow", G _falb_ "fallow, dun" \
+PIE: \*pol-uo- \
+COGN: Lat. _pullus_ "drab-colored, sombre", Lith. _pal̃vas_ "light yellow, straw-colored", OCS _plavъ_ "white", Ru. _polóvyj_, _polovój_ "pale yellow, sandy", SCr. _plâv_ "blond, blue" < \*pol-uo-, Skt _paruṣá_- "grey, grey-brown, dirty", YAv. _pouruša_- "grey (of hair)" < \*pelu-so- \
+A European adjective with the uo-suffix for color names. \
+REF: [EDPG]\: 126
+
+### <a id="fanan">\*fanan- [m.] "cloth" (n)</a>
+E: \
+-- Go. _fana_ \
+W: \
+-- OE _fana_ "flag, banner", E _vane_ \
+-- OFri _fona_ [m.] "id." \
+-- OS _fano_ [m.] "id." \
+-- Du. _vaan_ [c.] "id." \
+-- OHG _fano_ [m.] "id.", G _Fahne_ [m.] "id." \
+PIE: \*peh₂-on- \
+COGN: Gr. _πήνη_ [f.] "the thread of the woof; woof", Lat. _pannus_ [m.] "piece of cloth, rag" < \*peh₂-no/eh₂- \
+A European word. If \*fanan- is related to Gr. _πήνη_ and Lat. _pannus_ (< \*_pānus_ by the _littera_-rule), as is assumed by Pokorny IEW: 788, it seems logical to derive the Germanic form from \*ph₂-no- or \*peh₂-nó- (with Dybo's law). From this perspective, it is tempting to assume that the Gm. n-stem (like the Latin and Greek forms?) was remodeled from \*p(é)h₂-ōn, gen. \*ph₂-n-ós. Less likely is the connection with OCS _o-pona_ [f.] "curtain" < \*ponh₁-eh₂-, which was derived from the root \*penh₁- "to spin". \
+REF: [EDPG]\: 127
+
+### <a id="fandon">\*fandōn- [wk.] "to investigate" (v)</a>
+W: \
+-- OE _fandian_ "to test, investigate, visit" \
+-- OFri. _fand(el)ia_ "to visit a sick person", WFri. (early) _fânle_ "to collect fish traps", _fandelje_ "to collect, fetch" \
+-- MDu. _vanden_ "to test, investigate, visit" \
+-- OHG _fandōn_ "to investigate", MHG _vanden_ "to visit", G _fahnden_ "to search, hunt for" \
+PIE: \*pont-neh₂- \
+An o-grade iterative to [\*finþan-](#finthan). See also [\*fundon-](#fundon). \
+REF: [EDPG]\: 127
+
+### <a id="fane">\*fanē "from" (prep)</a>
+W: \
+-- OFri. _fan_ \
+-- OS _fan_, _fana_ \
+-- Du. _van_ \
+-- OHG _fana_, _fona_, G _van_ \
+PIE: \*h₂po-neh₁ \
+COGN: Lith. _pa_- (pref), OCS _po_, Ru. _po_, SCr. _po_ "after, on, by, at" (prep), Alb. _pa_ "without" (prep) \
+A directional derived from the element \*fa, continuing the original allative case \*h₂p-ó of a PIE root noun \*h₂ep-, with the ablative suffix \*-nē < \*-neh₁. See further under the closely related [\*aba](#aba). \
+REF: [EDPG]\: 127
+
+### <a id="fangi">\*fangi- [m.] "catch" (n)</a>
+E: \
+-- Go. _ga-fahs_ \
+N: \
+-- ON _fengr_ \
+W: \
+-- OE _feng_ "grasp, span, hug" \
+-- OFri. _feng_, _fang_, _fong_ "catch, capture" \
+-- OHG _fang_ "id.", G _Fang_ "id." \
+An i-stem derived from [\*fanhan-](#fanhan) (q.v.). \
+REF: [EDPG]\: 127
+
+### <a id="fangjan">\*fangjan- ~ \*fankjan- [wk.] "to ignite" (v)</a>
+W: \
+-- MDu. _ont-fengen_, -_fenken_ \
+-- MHG _vengen_, _enpfengen_, _venken_ \
+PIE: \*ponk-éie- \
+A causative to the strong verb [\*finkan-](#finkan), which replaces expected \*finhan- < \*pénk-e-: the alternation of \*fangjan- (MDu. _ont-fengen_, MHG _vengen_) and \*fankjan- (MDu. _ont-fenken_, MHG _venken_) indicates that both \*finkan- and \*fankjan- adopted their root-final consonant from the iterative [\*funkōn-](#funkon) < \*pnk-néh₂- (q.v.). \
+REF: [EDPG]\: 127
+
+### <a id="fanhan">\*fanhan- [st.] "to catch" (v)</a>
+E: \
+-- Go. _fahan_ \
+N: \
+-- ON _fá_ \
+-- Far. _fáa_ \
+-- Elfd. _fą̊_ \
+W: \
+-- OE _fōn_ \
+-- OFri. _fā_ \
+-- OS _fāhan_ \
+-- Du. _vangen_ \
+-- OHG _fāhan_, G _fangen_ \
+PIE: \*pónḱ-e- \
+A univerbation of the adverb \*h₂po and the root \*h₁enḱ- "to obtain" (or to PIE \*h₂enḱ- "to reach", Scheungraber 2012). A similar univerbation is [\*bringan- "to bring"](#bringan) (q.v.) < \*pro-h₁enḱ-e-. Also cf. [\*fangi-](#fangi). \
+REF: [EDPG]\: 128
+
+### <a id="fanja">\*fanja- [n.] "fen, swamp" (n)</a>
+E: \
+-- Go. _fani_ "mud" \
+N: \
+-- ON _fen_ "fen, bog" \
+W: \
+-- OE _fen_ [m./n.] "marsh; mud", E _fen_ \
+-- OFri. _fenne_ [m.] "pasture" \
+-- OS _feni_ "fen" \
+-- MDu. _veen_, _vene_- "bog", Du. _veen_ "id.", _ven_ "small lake" \
+-- OHG _fenni_ "swamp", MHG _venne_ "id.", G _Fenn_ "id." \
+PIE: \*pon-io- \
+COGN: OPru. _pannean_ acc. "ditch" < \*pan-io-, Gaul. _anam_ acc.f. "_paludem_" < \*pen-eh₂- (with Joseph's rule -eRa- > -aRa-?), MIr. _an_, _en_ "water" < \*pen- (cf. _enach_ [n.] "swamp" < \*pen-akos-?) \
+A collective noun potentially identical to OPru. _pannean_. The derivation of the Irish forms, esp. the variation of MIr. _en_ and _an_, is problematic, but it is possible that radical e was mutated into a by Joseph's rule. Related to OE _fyne_ "mold"? \
+REF: [EDPG]\: 128
+
+### <a id="fanthjan">\*fanþjan- [m.] "foot soldier(?)" (n)</a>
+W: \
+-- OE _fēða_ "foot soldier; troop" \
+-- OHG _fendo_ "foot soldier, pedestrian", MHG _vende_ "pedestrian, boy" \
+Derived from [\*finþan-](#finthan) with the agentive jan-suffix. \
+REF: [EDPG]\: 128
+
+### <a id="faran">\*faran- [st.] "to go" (v)</a>
+E: \
+-- Go. _faran_ \
+N: \
+-- ON _fara_ \
+-- Elfd. _fårå_ \
+W: \
+-- OE _faran_, E _to fare_ \
+-- OFri. _fara_ \
+-- Du. _varen_ [wk.] "to sail" \
+-- OHG _faran_ "to go, travel, pass", G _fahren_ "id." \
+PIE: \*pór-e- \
+COGN: Skt. _pí-parti_ "to bring across" < \*pi-por-, OAv. _(fra-)frā_ 1sg.subj.aor. "to cross" < \*pre-pr-e-, Skt. _pāráyati_ "to make cross", YAv. _ni-pāraiieiṇti_ 3pl.pres. "to lead to", OCS _pariti_ "to fly" < \*por-éie-, Gr. _πείρω_ "to pierce, to penetrate" < \*per-ie- \
+An o-grade "intensive-iterative" verb. The ablaut of the preterite, i.e. \*fōr-, arose secondarily on the basis of verbs with roots of the structure CHC. See also [\*fardi-](#fardi), [\*farjōn-](#farjon), [\*farma-](#farma), [\*fōri-](#fori), [\*fōrjan-](#forjan) and [\*furdu-](#furdu). \
+REF: [EDPG]\: 128
+
+### <a id="fardi">\*fardi- [f.] "journey" (n)</a>
+N: \
+-- ON _ferð_ \
+-- Far. _ferð_ \
+-- Elfd. _ferd_ \
+W: \
+-- OE _fierd_ "expedition" \
+-- OFri. _ferd_ "journey, voyage" \
+-- OS _fard_ "id." \
+-- Du. _vaart_ "canal" \
+-- OHG _fart_ "trip, voyage", G _Fart_ "id." \
+PIE: \*por-tí- \
+A ti-stem to the strong verb [\*faran-](#faran) (q.v.). \
+REF: [EDPG]\: 128
+
+### <a id="fargjan">\*fargjan- [wk.] "to push (down)" (v)</a>
+N: \
+-- Icel. _fergja_ "to press, put pressure on" \
+-- Far. _fergja_ "to press, squeeze, push" \
+-- Nw. _fergja_ "to press/weigh down" \
+PIE: \*h₂po-h₂ork-éie- \
+COGN: Close to Lat. _porcēre_ "to prevent" < \*h₂po-h₂ork-eie-; also cf. Hitt. _harzi_ ~ _harkanzi_ "to hold, have" < \*h₂erk-ti, \*h₂rk-enti, Gr. _ἀρκέω_ "to avert, defend; to suffice", Lat. _arceō_ "to contain; to keep out" < \*h₂erk-eie-, Ann. _argel_ "hindrance" (on the l-suffix, see Martirosyan 2009: 133) \
+The connection with Skt. _pr̥ṇákti_ ~ _pr̥ñcáti_ "to fill, give abundantly" < 3sg. \*pr-n-ék-ti, 3pl. \*pr-n-k-énti and Skt. _pipárkti_ "id." < \*pi-pe/ork- and MIr. _ercaid_ "to fill" < \*perk-eh₂-ie- is not impossible, as the original PIE meaning may have been "to stuff", whence 1) "to fill" and 2) "to weigh down". However, it seems preferable to assume a direct link with Lat _porcēre_ "to prevent", which continues the root \*h₂e/ork- prefixed with the adverb \*h₂p-ó. The fact that this univerbation is found in both Latin and Germanic probably means that it continues an old PIE syntagm. Also cf. ON, Far., Nw. _farga_ [wk.] "to press", which in combination with Nw. dial. _farka_ [wk.] "to press someone into something" points to an iterative 3sg. \*farkōþi, 3pl. \*fargunanpi < Pre-Gm. \*pork-néh₂-ti, \*pork-nh₂-énti. \
+REF: [EDPG]\: 128
+
+### <a id="farha">\*farha- [m.] "farrow, pig" (n)</a>
+W: \
+-- OE _fearh_, E _farrow_ \
+-- OHG _farah_, _farh_ [n.], MHG _varch_ \
+PIE: \*porḱ-o- \
+COGN: Identical to Khot. _pā'sa_, Kurd. _purs_ "pig", Lat _porcus_ [m.] "id.", OIr. poet. _orc_ [m.] "id.", Lith. _par̃šas_ [m.] "castrated boar" < \*porḱ-o- \
+One of the Indo-European words for "pig(let)". In view of the possible connection with Gr. _πόρκος_ [m.] "fishing-net" and Arm. _ors_ "hunt; catch; game" < \*porḱ-o-, the word may have originally referred to the wild boar rather than the domesticated animal. Also cf. the diminutives MDu. _verkijn_, _varkijn_, Du. _varken_ [n.] "pig" < \*farha-kīna- and OHG _farhilī(n)_, MHG _varchelīn_, G _Ferkel_ [n.] "id." < \*farha-līna-. \
+REF: [EDPG]\: 129
+
+### <a id="farjon">\*farjōn- [f.] "ferry" (n)</a>
+N: \
+-- ON _ferja_ \
+W: \
+-- MLG _vere_ [f./n.] \
+-- MDu. _vere_ [f./n.], Du. _veer_ [n.] \
+-- MHG _vere_, G _Fähre_ \
+Derived from Go. _farjan_, OS _ferian_, MHG _vern_ "to travel by boat", whence also OHG _ferjo_, MHG, MDu. _vere_ [m.] "ferryman". The jan-verb is again based on ON _far_ [n.] "(means of) passage, ship", OE _fær_ [n.] "journey; ship", OHG _var_ [n.] "place to cross a river" < \*fara- (cf. Gr. _πόρος_ [m.] "passage (over a body of water), ford", MP, NP _bār_ "shore, bank"). Also cf. ON _ferja_ "to ferry", OE _ferian_ "to convey" < \*farjōjan-. \
+REF: [EDPG]\: 129
+
+### <a id="farma">\*farma- [m.] "moving(?)" (n)</a>
+N: \
+-- ON _farmr_ "freight, cargo" \
+-- Far. _farmur_ "id." \
+-- Nw. _farm_ "cargo; flock (of cattle)" \
+W: \
+-- OE _fearm_ "id." \
+-- OS _farm_ "onslaught" \
+-- OHG _farm_ "fast ship", MHG _varm_ "id." \
+PIE: \*por-mo- \
+A mo-stem based on the strong verb [\*faran-](#faran) (q.v.). \
+REF: [EDPG]\: 129
+
+### <a id="farna">\*farna- [m.] "fern" (n)</a>
+W: \
+-- OE _fearn_, _fern_, E _fern_ \
+-- OS _farn_ [m./n.] \
+-- MDu. _varen_, Du. _varen_ [c.] \
+-- OHG _farn_, _farm_ [m./n.], G _Farn_ \
+PIE: \*ptorH-no- \
+COGN: Skt _parṇa_- [n.] "feather, leaf", Av. _parəna_- [n.] "feather, wing" < \*ptorH-no-, Gr. _πτερίς_ "fern" < \*pterH-i-, Lith. _papártis_ "id.", Ru. _páporot'_ "id." < \*po-ptorH-ti-, Gaul. _ratis_, MIr. _raith_ [f.], W _rhedyn_ pl. "id." < \*ptrH-ti- \
+A no-stem derived from an IE element \*pterH- that could be related to [\*feþrō- "feather"](#fethro) (q.v.). The initial cluster \*pt- was simplified to \*p- in all languages except Greek. \
+REF: [EDPG]\: 129
+
+### <a id="farwa">\*farwa- "colorful" (adj)</a>
+W: \
+-- OHG _faro_, MHG _vare_ \
+PIE: \*porḱ-uó- \
+COGN: Skt. _pŕ̥śni_- "spotted, varicolor" < \*prḱ-ni-, Gr. _περκνός_ "dark-spotted" < \*perḱ-no-, MIr. _erc_ "spotted, red", MW _erch_ "spotted" < \*pérḱ-o- \
+An adjective derived from the PIE root \*perḱ- "spotted" with the suffix -uo-, which is common in chromonyms. Also cf. OHG _farawa_, G _Farbe_, MLG _varwe_, _verwe_ [f.] "color", MDu. _varuwe_, _verwe_ [f.] "color, paint", Du. _verf_ [c.] "paint" < \*farwō- and OFri. _fērwen_ "colorful" < \*farwīna-. \
+REF: [EDPG]\: 130
+
+### <a id="farzan">\*farza(n)- [m.] "young bull" (n)</a>
+N: \
+-- ON _farri_ "bull" \
+W: \
+-- OE _fearr_ "bull, ox" \
+-- MDu. _var(r)e_, Du. _var_ [c.] \
+-- OHG _farro_ "bull, ox", G _Farre_ "young bull" \
+PIE: \*pors-ó(n)- \
+An n-stem possibly created to the E _farrow_, WFri. _fear_, Du. _vaar_ "without calf" < \*far(z)wa-. The underlying root \*pors- can be an extension of \*por- "to be with young", cf. Lat. _pariō_ "to give birth to, bear" < \*pr-ie-, Lith. _perė́i_ "to brood, sit on eggs" < \*per-eh₁- and - within Germanic - [\*fōra- "piglet"](#fora). Also cf. the feminine MHG _verse_, G _Färse_, MLG _verse_, MDu. _vaerse_, _ve(e)rse_ [f.], Du. _vaars_ [c.] "heifer" < \*farsjō- < \*pórs-ieh₂-. \
+REF: [EDPG]\: 130
+
+### <a id="fasan">\*fasa/ōn- [m./f.] "fringe; fiber" (n)</a>
+W: \
+-- OE _fæs_ [n.] "fringe" (< \*fasa-) \
+-- MDu. _vase_ [f.] "fiber; fringe" \
+-- OHG _faso_ [m.], _fasa_ [f.] "fiber, fringe, thread", MHG _vase_ [m./f.] "id.", G _Faser_ [m.] "fiber" \
+An etymologically difficult word. It has been compared to Ru. _pásmo_ [n.] "string" < \*poHs-mo-(?), thus arriving at a Pre-Gm. formation \*pH̥s-on-, but within Germanic, \*fasa/ōn- can hardly be separated from [\*fesōn-](#feson) (< \*fisōn-), which developed from the PIE root \*tpis-, cf. Gr. _πτίσσω_ "to pound or grind corn in a mortar". I therefore assume that \*fasa/ōn- was created on the basis of an unattested _tudáti_-verb \*fisan- < \*tpis-e- that was transferred to the class 4/5 strong verbs after a-mutation had taken place. For a similar derivational history, cf. [\*hreþan-](#hrethan), [\*stekan-](#stekan) and [\*sweþan-](#swethan) which, too, seem to be originally zero-grade presents. In view of the secondary iteratives \*hruttōn- (see [\*hrudjan-](#hrudjan)) and \*stuk(k)ōn- belonging to these verbs, it is furthermore likely that the postulated \*fesan- gave rise to a formation \*fus(s)ōn-, as implied by G _fus(s)en_ "to fray" (cf. G Rhnl. _fusel_ "fuzz, frills; drizzle"), E _to fuzz_ "to ravel out; to cover with particles; to blur", to which also MLG _vossen_ "with loose fur" is related. Also cf. ON _fǫsull_ [m.] "thread" < \*fasula-. \
+REF: [EDPG]\: 130
+
+### <a id="fastu">\*fastu- "firm, solid" (adj)</a>
+N: \
+-- ON _fastr_ \
+-- Far. _fastur_ \
+-- Elfd. _fast_ \
+W: \
+-- OE _fæst_, E _fast_ \
+-- OFri. _fest_ \
+-- OS _fast_, _festi_ \
+-- Du. _vast_ \
+-- OHG _festi_, G _fest_ \
+PIE: \*ph₂sth₂-o- \
+COGN: Arm. _hast_ "firm, steady, standing still, tough" < \*pHst-i- \
+A u-stem (remodeled into a ja-stem in WGm.) directly related to Arm. _hast_. The combination of these forms straightforwardly points to a PIE root \*pH̥st-; the reconstruction \*post- is impossible, because this would have given Arm. \*\*host (note that the connection with Skt. _pastyà_- "homestead" < \*h₂po-sth₂-io-(?) therefore must be abandoned). I derive this root from \*ph₂ǵ-sth₂-, i.e. a compound of \*peh₂ǵ- "to become firm" (cf. Gr. _πήγνυμι_ "to fasten, fix, make solid") and \*steh₂- "to stand". Apparently, the g was lost in the heavy cluster \*ph₂ǵsth₂-. Within Germanic, also cf. Go. _fastan_, ON _fasta_, OE _fastian_, OFri. _festia_, OHG _fastēn_ [wk.] "to fast" < \*fastēn- and the derived Go. _fastubni_, OS _fastunnia_ [f.] "fasting" < \*fast-umnjō-. \
+REF: [EDPG]\: 131
+
+### <a id="fata">\*fata- [n.] "vat, vessel" (n)</a>
+N: \
+-- ON _fat_ \
+W: \
+-- OE _fæt_, E _vat_ \
+-- OS _fat_ \
+-- Du. _vat_ \
+-- OHG _faz_, MHG _vaz_, G _Faß_ \
+PIE: \*podo- \
+COGN: Lith. _púodas_ "pot" \
+The Lithuanian word is identical to PGmc. \*fata-. These forms are reminiscent of ON _pottr_, OE, OFri. _pot_ "pot", which, however, have been explained as loanwords from Fr. _pot_ (< VLat. _pottus_ < Lat. _pōtus_ "drinking cup"). Fi. _pata_, Hung. _fazék_ "pot" < PFU \*pata has been analyzed as a loanword from PIE (Parpola/Carpelan 2007: 122), but it is highly unlikely, in view of the limitation to Baltic and Germanic, that the word was inherited from the parent language. \
+REF: [EDPG]\: 131
+
+### <a id="fatta">\*fatta- "bent" (adj)</a>
+N: \
+-- ON _fattr_ "bowed backward" \
+PIE: \*pt-no-(?) \
+COGN: To Lat. _pandus_ "bent" < \*pt-nó-? \
+The Germanic word has been compared to Lat. _pandus_, which developed from \*pt-n6- through a form \*pat-no- with _schwa secundum_ that underwent Thurneysen's law (\*-tn- > \*-nd-). However, the comparison can only be maintained by assuming a similar _schwa secundum_ in Germanic, for which the evidence is extremely limited (see [\*hesan- ~ \*hazan- "hare"](#hesan)). \
+REF: [EDPG]\: 131
+
+### <a id="fatton">\*fat(t)ōn- [wk.] "to fetch" (v)</a>
+N: \
+-- ON _fata_ "to step" \
+-- Icel. _fatta_ "to catch on, take in" \
+-- Far. _fatta_ (in: _lukki fatti teg!_ "may you prosper") "to catch; grasp" \
+W: \
+-- OE _fatian_ "to fetch" \
+-- OFri. _fatia_ "to load" \
+-- MLG _vaten_ "to grasp, pack, load, prepare, dress" \
+-- MDu. _vaten_, _vatten_ "to seize, assume, understand", Du. _vatten_, dial. _vaten_ "to seize, understand" \
+-- OHG _fazzōn_ "to load, pack, prepare", G _fassen_ "to catch, grasp" \
+PIE: \*pod-néh₂- \
+COGN: OCS _po-pasti_ "to fetch" < \*pód-e- \
+An iterative created to a lost o-grade iterative-intensive verb \*fatan- < \*pód-e-, as retrieved from OCS _po-pasti_. \
+REF: [EDPG]\: 131
+
+### <a id="fathma">\*faþma- [m.] "fathom" (n)</a>
+N: \
+-- ON _faðmr_ \
+-- Far. _favnur_ \
+-- Elfd. _farm_ \
+W: \
+-- OE _fæðm_ "fathom; bosom", E _fathom_ \
+-- OFri. _fethm_ "id." \
+-- OS _fathmos_ [m.pl.] "two stretched arms" \
+-- Du. _vadem_ [c.] \
+-- OHG _fadam_, _fadum_, G _Faden_ "thread" \
+PIE: \*pot(h₂)-mo- \
+COGN: Gael. _aitheamh_ [f.] "thread, fathom (of rope)", OW _etem_, W _edau_ "thread" < \*pet(h₂)-i-m-eh₂- \
+A Germanic-Celtic formation (cf. Hamp 2007) usually derived from the PIE root \*peth₂- "to spread", cf. Gr. _πετάννυμι_. Further cf. MDu. _vedemen_ [wk.] "to measure with outspread arms, fathom" < \*faþmjan- and OE _fæðmian_ [wk.] "to fathom, to embrace", OHG _fadamōn_ [wk.] "to spin, to sew" < \*faþmōjan-. \
+REF: [EDPG]\: 132
+
+### <a id="fatho">\*faþō- [f.] "fence" (n)</a>
+E: \
+-- Go. _faþa_ "hedge, fence, wall" \
+W: \
+-- MHG _vade_ "fence" \
+PIE: \*ph₂-teh₂-(?) \
+No accepted etymology. Perhaps from \*ph̥₂-t-eh₂- to PIE \*peh₂-t- "to protect, herd, graze" (see [\*fōdjan-](#fodjan)), or to Hitt _pattar_ ~ _pattan_- [n.] "basket" if the underlying root \*potH- originally designated "wickerwork". The variant MHG _vatte_ seems to point to a geminated proto-form \*faþþōn-. \
+REF: [EDPG]\: 132
+
+### <a id="faujan-1">\*faujan- [wk.] "to let rot" (v)</a>
+N: \
+-- ON _feyja_ \
+PIE: \*pouH-éie- \
+COGN: Skt. _pū́yati_ "to become foul/putrid; to stink" < \*puH-ie-, Lith. _pū́ti_ (_pūvù_) "to rot" < \*puH- \
+The causative to a PIE present \*puH-ie- "to rot". See also [\*fūan-](#fuan) and [\*fūla-](#fula). \
+REF: [EDPG]\: 132
+
+### <a id="faujan-2">\*faujan- [wk.] "to sift" (v)</a>
+W: \
+-- OHG _fowen_, _fewen_, MHG _vewen_ \
+PIE: \*pouh₂-éie- \
+COGN: Skt. _punā́ti_ "to clean" < \*pu-n-éh₂-, Lat. _pūrus_ "clean", OIr. _úr_, W _ir_ "green, fresh" < \*púh₂-r-o- etc \
+An old causative to the PIE root \*peuh₂-. \
+REF: [EDPG]\: 132
+
+### <a id="fawa">\*fawa- "few" (adj)</a>
+E: \
+-- Go. _faus_\* \
+N: \
+-- ON _fár_ \
+-- Far. _fáur_ \
+-- Elfd. _fåer_ \
+W: \
+-- OE _fēa_, E _few_ \
+-- OS _fā_ \
+-- OHG _fō_ \
+PIE: \*ph₂u-o \
+COGN: Gr. _παῦρος_ "small, little, few", Lat. _parvus_ "small" (with metathesis) < \*peh₂u-ro-, Lat. _paucus_ "few, small in number" < \*peh₂u-ḱo- \
+The OHG form _fōh_ has been adduced to reconstruct the Germanic form as \*fauha-, so as to equate it with Lat. _paucus_, but the _h_ can be epenthetic in this form. This leaves \*fawa- as the only possible proto-form. It must be derived from a PIE zero-grade form \*ph̥₂u-o-, with (regular) vocalization of the laryngeal, as the full-grade \*péh₂u-o- would have given \*\*fōa-. \
+REF: [EDPG]\: 132
+
+### <a id="fean">\*fēan- [st.] "to blame" (v)</a>
+E: \
+-- Go. faian\* \
+PIE: \*peh₁-e- \
+COGN: Gr. _πῆμα_ [n.] "harm" < \*peh₂-men- (also cf. _ἀπήμων_ "unharmed" < \*n-peh₁-mon-) \
+A strong verb related to [\*fi(j)ēn-](#fijen) (q.v.). The Gothic form (attested only once as 3pl.pres.mid. _faianda_) is to be interpreted as _fɛ̄an_, with _ɛ̄_ lowered from _ē_ in hiatus position; the digraph _ai_ does not allow us to assume a j-suffix (cf. e.g. Seebold 1970: 188). \
+REF: [EDPG]\: 132
+
+### <a id="fedwar">\*fedwar- "four" (num)</a>
+E: \
+-- Go. _fidwor_ \
+N: \
+-- ON _fjórir_, acc. _fjóra_, [f.] _fjórar_, [n.] _fjǫgur_, gen. _fjǫgurra_, dat. _fjórum_ \
+-- Far. _fýra_ \
+-- Elfd. _fiuorer_, acc. _fiuora_, [f.] _fiuorer_, [n.] _fiuorų_, dat. _fiuorum_ \
+W: \
+-- OE _fēower_, E _four_ \
+-- OFri. _fiūwer_, _fiōwer_, _fiāwer_ \
+-- OS _fiuwar_, _fior_, [n.] _fieri_, dat. _fiwarun_ \
+-- Du. _vier_ \
+-- OHG _fior_, G _vier_ \
+PIE: \*kʷét-uor- \
+COGN: ToA _śtwar_, ToB _śtwer_, Skt. _catvā́ras_, acc. _catúras_, [n.] _catvā́ri_, YAv. _caθβārō_, acc. _caturą̄_, Arm. _č'or-k'_ < \*kʷet-u(o)r-, Gr. _τέσσαρες_, Dor. _τέτορες_, OIr. _ceth(a)ir_, OW _petguar_, MW _pedwar_, Lith. _keturì_, acc. _kēturis_, OCS _četyre_, [f./n.] _četyri_, Ru. _četýre_, SCr. _čètiri_ "id." (num) < \*kwet-ur-, Lat. _quattuor_ "id." (num) < \*kʷt-uō̆r(-h₂) \
+The IE word for "four" (with \*f- instead of \*hw- due to influence from [\*fimfe "five"](#fimfe)). The reconstruction of the Germanic paradigm is not entirely straightforward 1) because of the isolated position of Go. _fidwor_ < \*fedwōr, apparently continuing an old collective formation \*kʷet-uṓr(-h₂), and 2) because of the difficulties posed by the NWGm. forms. ON _fjórir_, -_ar_, _fjǫgur_ continue \*fedur-aiz, \*-ōz, \*-ō through syncopated \*_fjǫðrēR_, \*_fjǫðraR_, \*_fjǫðuru_: \*_ð_ was lost before _r_ (causing lengthening of the preceding diphthong \*_jǫ_) in the masculine and feminine forms, while in the neuter, it changed into \*g due to the labial environment (as in ON _júgr_ "udder" < \*eudur-). In WGm., the material points to \*fewar-, but it is unclear how this form could have developed from \*fedwar- (PIE < \*kwet-uor-) in a regular way (for an attempt, cf. Stiles 1984). The first dental may have been dissimilated in the ordinal [\*fewurþ/dan-](#fewurthan) < quasi-PIE \*kwet-ur-tHo-, just as [\*sebunþ/dan- "seventh"](sebunthan) developed from \*septm-tHo-. Given the exclusively WGm. distribution of \*fewar-, it seems pointless, at any rate, to reconstruct a Pre-Gm. stem \*pekwór- (cf. Ross/Berns 1992: 583). For the retention of the dental, cf. Go. _fidur-falþs_ "four-fold", OSw. _fiæþer-tiugher_ "liable to forty (marks)", OE _fyðer-fēte_ "with four feet" and probably also OLFra. (Sal.) _fitter-thuschunde_ "four thousand". Despite all these formal problems, the Germanic evidence roughly appears to be in agreement with the other IE languages, which point to an inflected paradigm [m.] \*kʷet-uor-es, acc. \*kʷet-ur-ns (Skt. _catvā́ras_, acc. _catúras_), [n.] \*kʷ(e)t-uṓr (cf. Lat. _quattuor_). \
+REF: [EDPG]\: 133
+
+### <a id="fehan">\*fehan- [st.] "to rejoice" (v)</a>
+W: \
+-- OE _gefēon_, -_feohan_ "to be glad, rejoice, exult" \
+-- OHG _gi-fehan_ "to rejoice" \
+PIE: \*péḱ-e- \
+A not too well attested strong verb. Its past participle \*fagena- became lexicalized as ON _feginn_, Elfd. _faingen_, OE _fægen_ "happy", and served as the basis for Go. _faginon_, ON _fagna_, Elfd. _faingen_, OHG _faginōn_, OE _fægenian_ "to gladden" < \*fagenōjan-. See also [\*fēhi-](#fehi) and [\*fagjan-](#fagjan). \
+REF: [EDPG]\: 133
+
+### <a id="fehi">\*fēhi- "satisfactory(?)" (adj)</a>
+E: \
+-- Go. _ga-fehaba_ "properly" (adv) \
+A _vr̥ddhi_-gerundive to the strong verb [\*fehan-](#fehan). \
+REF: [EDPG]\: 133
+
+### <a id="fehtan">\*fehtan- [st.] "to fight" (v)</a>
+W: \
+-- OE _feohtan_, E _to fight_ \
+-- OFri. _fiuchta_ \
+-- Du. _vechten_ \
+-- OHG _fehtan_, G _fechten_ \
+A verb assumed by many to be akin to Gr. _πέκτω_ "to comb, card, shear", Lat _pectō_ "to pluck" < \*peḱ-t-e- (for which see [\*fahti-](#fahti)), but the connection depends on the conjectural semantic shift from "to pluck, pull hair" > "to fight" (cf. LIV²: 467). \
+REF: [EDPG]\: 134
+
+### <a id="fehu">\*fehu- [n.] "cattle" (n)</a>
+E: \
+-- Go. _faihu_ "movable goods, possessions, cattle" \
+N: \
+-- ON _fé_, gen. _fjár_ "cattle, property, money" \
+-- Far. _fæ_, gen. _fíggjar_ "cattle" \
+W: \
+-- OE _feoh_, _fioh_ "cattle, property, money", E _fee_ \
+-- OS _fehu_ "cattle; property" \
+-- Du. _vee_ "cattle" \
+-- OHG _fihu_ "cattle, animal, money", G _Vieh_ "cattle" \
+PIE: \*peḱ-u- \
+COGN: Skt. _páśu_-, _paśú_- [m./n.] "cattle", Av. _pasu_- [m.] "id.", Lat. _pecū̆_ [n.] "flock, herd" (-_ū_ < obl. \*-ou-, cf. _genū_ "knee" < \*ǵen-ou-), OPru. _pecku_, Lith. _pẽkus_ [m.] "cattle" < \*peḱ-u- \
+An ancient PIE u-stem derived from the root \*peḱ- "to pluck wool", for which see [\*fahti-](#fahti) and [\*fakk/gon-](#fakkon). The derivation of \*peḱ-u- from this root is a clear semantic indication that the first livestock to be kept by the Indo-Europeans consisted of sheep, not cows. \
+REF: [EDPG]\: 134
+
+### <a id="felesa">\*fel(e)sa- [m.] "mountain" (n)</a>
+N: \
+-- ON _fell_, _fjall_ [n.] \
+-- Far. _fjall_ [n.] \
+W: \
+-- OS _felis_, _filis_, _filis_ "rock, stone" \
+-- OHG _felis_ "rock, cliff", MHG _vels(e)_ "id.", G _Felsen_ "id." \
+PIE: \*pe/ol-es-o- \
+COGN: OIr. _ail_ [f.] "boulder, rock grave-stone" < \*pl-s-i-, Gr. Hsch. _πέλλα_ "stone" < \*pel-s-eh₂- \
+ON _fell_, _fjall_ points to \*fel(V)sa- (with assimilation of the s and breaking of -e- to -_ja_-), but the WGm. attestations can go back to both \*felesa- or \*falisa-. The latter form is supported by OFr. _falise_, Fr. _falaise_, _faloise_, a Franconian loanword. The Swiss dialects that differentiate between high e from OHG \*ä₂ and low e from OHG e, cf. Jaun and Appenzell _felsə_, are ambiguous in this particular case, however, because the vowel may have arisen due to secondary raising of low to high e before \*i in the next syllable (Karsten 1903: 259). On the morphological level, the word looks like a thematicization of an old s-stem. The expected paradigm \*pel-os, gen. \*pl-es-(o)s fails to account for the o-grade, however. Perhaps, we are dealing with an originally static s-stem, viz. nom. \*pól-s, gen. \*pél-s-s \
+REF: [EDPG]\: 134
+
+### <a id="felgo">\*felgo- [f.] "rim of a wheel" (n)</a>
+W: \
+-- OE _fealg_, E _felly_ \
+-- MDu. _velge_, _vellige_ "felly; patella", Du. _velg_ [c.] "felly" \
+-- OHG _felga_ "felly, hoop", G _Felge_ "felly" \
+PIE: \*pelǵʰ-éh₂- \
+COGN: Ru. _póloz_ [m.] "runner, skid", Slov. _plâz_ [m.] "plow sole; strip" < \*polǵʰ-o- \
+An etymologically ambiguous word possibly related to the aforementioned Slavic forms. Another possibility is to connect [\*felhan-](#felhan) in the sense of "to go". The link with e.g. Skt. _pārśvá_- [n.] "flank, side", NP _pahlū_ "side, rib", Oss. _fars_ "side, flank" < Ilr. \*pārćua- cannot be maintained in view of its evident relationship to OCS _prъsi_ [f.pl.] "breast" < \*prḱ- (cf. Pokorny IEW: 820). \
+REF: [EDPG]\: 134
+
+### <a id="felhan">\*felhan- [st.] "to hide" (v)</a>
+E: \
+-- Go. _filhan_ \
+N: \
+-- ON _fela_ "to hide, conceal; to give in trust" \
+W: \
+-- OE _felan_, _feolan_, _felgan_ "to stick, adhere; to proceed, go, reach; to undergo" \
+-- OS _bi-felhan_ "to entrust, bestow, command; to bury" \
+-- Du. _velen_ [wk.] "to suffer" \
+-- OHG _felhan_, _fel(a)han_ "to trust, hand over" \
+PIE: \*pélk-e- \
+Given the disparate semantics of the attestations it is difficult to get to an extra-Germanic etymology. The connection with OPru. _pelkis_ "cloak" is uncertain, at any rate, as the meaning "to conceal" as well as "to entrust, bestow, command" may have developed from "to stow". The meanings "to go" and "to suffer" as found in Old English and Dutch still remain problematic, and may point to an etymologically dissimilar strong verb related to [\*fulgēn- "to follow"](#fulgen) (q.v.). \
+REF: [EDPG]\: 135
+
+### <a id="fella">\*fella- [n.] "membrane, skin, hide" (n)</a>
+E: \
+-- Go. _þruts-fill_ "leprosy" \
+N: \
+-- ON _fell_, _fjall_ "skin" \
+-- OSw. _fiæl_ "id." \
+-- Sw. _fjäll_ "id." \
+W: \
+-- OE _fell_ "id.", E _fell_ \
+-- OS _fell_ "skin, membrane" \
+-- Du. _vet_ "id." \
+-- OHG _fel_ "skin, pelt", G _Fell_ "id." \
+PIE: \*pel-nó- \
+COGN: Gr. _πελλοράφος_ "sewing skins together" < \*pel-no-, Lat. _pellis_ [f.] "skin" < \*pel-ni-, OCS _pelena_ [f.] "band for swathing children", Ru. _pelená_ [f.] "shroud, nappy", SCr. _pelèna_ [f.] "bandage, shroud" < \*pel-en-eh₂- \
+All the other IE languages point to a suffix with a nasal, and it is therefore legitimate to similarly derive the Gm. form from \*pel-nó-. It is possible that this stem developed from the genitive of the mn-stem [\*felman- "membrane"](#felman) in which the m was dissimilated, i.e. \*pel-mn-ós, but not necessarily so. \
+REF: [EDPG]\: 135
+
+### <a id="felman">\*felma(n)- [m.] "membrane" (n)</a>
+W: \
+-- OE _ǣger-felma_ "skin of an egg", E _film_ \
+-- MDu. _velm_, _vilm_ "film" \
+PIE: \*pel-mon- \
+COGN: Gr. _πέλμα_ [n.] "sole of the foot" < \*pel-men- \
+A considerably old mn-stem to the root of [\*fella- "skin"](#fella) (q.v.). In Anglo-Frisian, the word seems to have been supplanted by the diminutive: OE _filmen_ [n.] "skin, membrane, husk", OFri. _filmene_ [f.] "skin (on the knee?)" < \*felm-īna/ō-. \
+REF: [EDPG]\: 135
+
+### <a id="felo">\*felō- [f.] "board" (n)</a>
+N: \
+-- ON _fjǫl_ \
+-- Far. _fjøl_ \
+-- Elfd. _fyöl_ \
+PIE: \*pel-eh₂- \
+An e-grade formation closely related to [\*falan-](#falan) (q.v.). \
+REF: [EDPG]\: 135
+
+### <a id="feltha">\*fetpa- [m.] "field" (n)</a>
+N: \
+-- OSw. _fiälder_ "isolated field" \
+W: \
+-- OE _feld_, _feald_, E _field_ \
+-- OFri. _feld_ [n.] \
+-- OS _feld_ \
+-- Du. _veld_ [n.] \
+-- OHG _feld_ [n.], G _Feld_ [n.] \
+PIE: \*pélth₂-0- \
+Derived from the PIE root \*pelth₂- "flat", for which see [\*fuldō-](#fuldo). \
+REF: [EDPG]\: 135
+
+### <a id="felu">\*felu- ~ \*fulu- "much, many" (adj)</a>
+E: \
+-- Go. _filu_ \
+N: \
+-- ON _fjǫl_- (pref) \
+-- Far. _fjøl_- (pref) \
+W: \
+-- OE _fela_, _feala_, _feola_ \
+-- OFri. _felo_, _fele_, _fule_, _fole_ \
+-- OS _filu_, _filo_ \
+-- MDu. _veel_ \
+-- OHG _filu_, _filo_, G _viel_ \
+PIE: \*pelh₁-u- \
+COGN: Skt. _purú_-, OAv. _pouru_-, YAv. _pouru_- "much, abundant", OP _paruv_ "much, too much, very", NP _firih_ comp. "more", Oss. _fyr_/_fur_ "much" < \*plh₁-u-, Gr. _πολύς_ "much, many, often" < \*polh₁-u-, OIr. _il_ "many" < \*pelh₁-u- \
+A u-stem to the root \*pleh₁- "to fill", for which cf. [\*fulla- "full"](#fulla-1) < \*plh₁-nó-. In Proto-Germanic the adjective may originally only have occurred in the neuter form \*felu, taking the following noun in the genitive. In PIE, it had an ablauting paradigm, e.g. common gender \*pelh₁-us, gen. \*plh₁-u-ós vs. neuter \*pólh₁-u, gen. \*plh₁-éu-s. This paradigm explains the ablaut difference between e.g. Gr. _πολύ_ and Go. _filu_. Notably, Old Frisian _fule_, _fole_ and Du. dial. _veul_ together with Ilr. \*prHu- appear to preserve the zero-grade root (Bremmer 2005). See also [\*flaizan-](#flaizan). \
+REF: [EDPG]\: 136
+
+### <a id="felwo">\*felwō- [f.] "willow" (n)</a>
+W: \
+-- OHG _felwa_, _felawa_, G _Felbe_ \
+PIE: \*tpel-u-eh₂-(?) \
+COGN: Gr. _πτελέα_ [f.] "elm tree" (= Lat. _tilia_ [f.] "lime tree"?) < \*tpel-eu-eh₂-, Arm. _t'eli_ "id." < \*tpel-ieh₂-(?) \
+A European word with a remarkable reminiscence in Oss. _færv_ / _farwe_ "alder" (Hiibschmann 1887: 65). The different formations may all go back to an l-stem, e.g. \*tp-ḗl, gen. \*tp-l-ós, acc. \*tp-él-m. The appurtenance of Ru. _topol'_ [m.] "poplar", which theoretically can be adduced to reconstruct an ablauting proto-form < \*top-l-, remains uncertain, as this word is likely to have been derived from Ru. _top'_ "swamp" (Falileyev/Owen 1999). \
+REF: [EDPG]\: 136
+
+### <a id="fergunja">\*fergunja- [n.] "mountain" (n)</a>
+E: \
+-- Go. _fairguni_ "mountain range" \
+N: \
+-- ON _fjǫrgyn_ [f.] "Mother Earth" \
+W: \
+-- OE _firgen_ "mountain" \
+-- OHG _Firgunnea_ [f.] "Ore Mountains" \
+PIE: \*perkʷ-n-ieh₂- \
+An etymologically debated word. The original meaning may have been "mountainous forest" (cf. Celt. Lat. _Hercynia Silva_), and in that case, the word can be compared to [\*ferhwa- "oak"](#ferhwa-1) and [\*furhwōn- "fir"](#furhwon). Within Germanic, however, the word can also be analyzed as the feminine equivalent of [\*ferga- "god"](#ferga), cf. ON _fjǫrg_ [n.pl.] "gods" with the feminine unjō-suffix. If so, the proto-form is to be reconstructed as \*perk/kʷ-n-ieh₂-, which precludes the direct linkage with Lith. _perkū́nas_, Latv. _pȩ̄̀rkuôns_ [m.] "thunder" < \*perkʷ-u-Hn-o- (also cf. Ru. _perún_ "thunderbolt"). For the latter, cf. Icel. _fjarg-veður_ [n.] "storm". \
+REF: [EDPG]\: 136
+
+### <a id="ferhwa-1">\*ferhwa- [m./n.] "oak(?)" (n)</a>
+N: \
+-- ON poet. _fjǫrr_ [m.] "tree" \
+W: \
+-- OHG _fereh-eih_ [f.] "id.", G _Ferch_ [n.] "id." \
+PIE: \*pérkʷ-o- \
+COGN: Lat. _quercus_ [f.] "oak-tree" < \*perkʷ-u-, OIr. _ceirt_ "apple-tree", W _perth_ "bush" < \*perkʷ-t-? \
+Also cf. Lomb. _fereha_ "oak" < \*ferh(w)ō-. Some further connect [\*fergunja- "mountain"](#fergunja) (q.v.). \
+REF: [EDPG]\: 136
+
+### <a id="ferhwa-2">\*ferhwa- [n.] "life, essence" (n)</a>
+E: \
+-- Go. _fairƕus_ [m.] "world" \
+N: \
+-- ON _fjǫr_ "life, pith" \
+W: \
+-- OE _feorh_ [m./n.] "life; man" \
+-- OFri. _ferech_ [n.(?)] "life" \
+-- OS _ferah_, _ferh_ "life, spirit" \
+-- OHG _ferah_, _ferh_ "id.", MHG _verch_ "id." \
+PIE: \*perkʷ-o- \
+Possibly related to [\*ferhwa- "oak"](#ferhwa-1), as the oak-tree symbolized vitality in Germanic mythology. \
+REF: [EDPG]\: 137
+
+### <a id="ferrai">\*ferrai "far" (adv)</a>
+E: \
+-- Go. _fairra_ \
+N: \
+-- ON _fjarri_ \
+W: \
+-- OE _feorr_, E _far_ \
+-- OS _ferro_ \
+-- Du. _ver_ \
+-- OHG _ferro_, MHG _verre_ \
+PIE: \*per-n-oi- \
+A locative adverb originally ending in \*-noi. Cf. [\*ferrjan-](#ferrjan). \
+REF: [EDPG]\: 137
+
+### <a id="ferrjan">\*ferrjan- [wk.] "to be far; to remove" (v)</a>
+N: \
+-- ON _firra_ "to lose sight of; to deprive of" \
+-- OFri. _fīria_ "to be far away" \
+W: \
+-- OHG _firren_ "to remove; to be far away", MHG _virren_ "id." \
+The related OE _firsian_ [wk.] "to go beyond, remove" derives from \*ferrisōjan- with the same suffix as in e.g. _irsian_ [wk.] "to be angry" (see [\*erzja-](#erzja)). \
+REF: [EDPG]\: 137
+
+### <a id="fersno">\*fersnō- [f.] "heel" (n)</a>
+E: \
+-- Go. _fairzna_ \
+W: \
+-- OE _fiersn_ (< \*fersni-) \
+-- MDu. _versene_, _verse_ \
+-- OHG _fersana_, G _Fersne_ \
+PIE: \*tpē̆rs-neh₂- \
+COGN: Hitt. _parsna_- [c.] "heel(?)" (cf. _parsnae-zi_ "to squat down, crouch") < \*tpēr-sno-, YAv. _pāšnā_- [f.] "heel", Gr. _πτέρνη_ [f.] "id.", Lat. _perna_ [f.] "(upper) leg, thigh" < \*tpēr-sneh₂-, Skt _pā́rṣṇi_- [f.] "id." < \*tper-sni- \
+The IE word for "heel". The intra-Germanic difference between Go. _fairzna_, OHG _fersana_ < \*tper-sneh₂- and OE _fiersn_ < \*tper-sni- is neatly mirrored by Gr. _rrtpvf]_, Lat. _perna_ and Skt. _pdr$�i_-. The root \*tper- may have developed from \*pd-sperH- "to kick with the foot" (Lubotsky 2006), for which see [\*fōt-](#fot) and [\*spurnan-](#spurnan). \
+REF: [EDPG]\: 137
+
+### <a id="fertan">\*fertan- ~ \*fretan- [st.] "to fart" (v)</a>
+N: \
+-- ON _freta_ \
+-- Far. _freta_ [wk.] \
+-- OSw. _fiærta_ [wk.], Sw. _fjärta_ [wk.] \
+-- Da. _fjærte_ [wk.] \
+W: \
+-- OE _feortan_, E _to fart_ \
+-- MDu. _verten_, _vorten_ \
+-- OHG _ferzan_, MHG _verzen_ \
+PIE: \*préd-e- \
+COGN: Skt. _párdate_ "to fart", YAv. _pərəδən_ 3pl.pres. "id.", Gr. _πέρδω_, _πέρδομαι_ "id.", Alb. _pjerdh_ "id." < \*pérd-e-, Ru. _perdét'_, SCr. _pŕdjeti_ "id." < \*prd-eh₁-, Lith. _pérsti_ (_pérdžiu_, _pérdžiau_) "id." < \*perd-ie- \
+An onomatopoetic formation from PIE times. \
+REF: [EDPG]\: 137
+
+### <a id="ferudi">\*ferudi "last year" (adv)</a>
+N: \
+-- ON _í fjǫrð_ \
+-- Far. _í fjør_ \
+-- Nw. _i fjor_ \
+-- Elfd. _i fiuord_ \
+W: \
+-- MHG _vert_ \
+PIE: \*pér-ut-i \
+COGN: Identical to Skt. _párut_, Gr. _πέρυσι_, OIr. _inn-uraid_, Arm. _heru_ "id." (adv) < \*per-ut(-i): a petrified locative of PIE \*uet- "year", cf. Hitt. _witt_- [c.] "year" < \*uet-, Gr. _ἔτος_ [n.] "id.", Alb. _vjet_, _vit_ [m.] "id." < \*uet-es- \
+A fossilized PIE adverbial phrase meaning "last year". It contains the original locative of a PIE root noun \*uet- "year", for which cf. [\*weþru-](#wethru). \
+REF: [EDPG]\: 137
+
+### <a id="feson">\*fesōn- [f.] "chaff, fiber" (n)</a>
+W: \
+-- OS _fesa_ "pod" \
+-- MDu. _vese_ "fiber, husk; fringe", Du. _vezel_ [c.] "fiber" \
+-- OHG _fesa_ "id.", MHG _vese_ "id.", G Swi. Rhntl. _feəsə_ "id." \
+COGN: Skt. _pináṣṭi_, _piṃṣánti_ "to crush", Lat _pīnsere_ "id." < \*tpi-n-(e)s-, Gr. _πτίσσω_ "to pound or grind corn in a mortar" < \*tpis-ie-, Gr. _πτισάνη_ "hulled barley" < \*tpis-neh₂-, Lith. _piẽstas_, Ru. _pest_ [m.] "pestle" < \*tpois-to-, Lith. _paisýti_ "to peel barley" < \*tpois-éie-, Ru. _pšenó [n.] "millet", SCr. _pšéna_ "clover" < \*tpis-en-o/eh₂- \
+OHG _fesa_ and MHG _vese_ must have had real _e_ rather than umlauted _ä_ in view of Swi. Rhntl. _feəsə_ (with _eə_ < OHG _e_). This means that, if the connection with PIE \*tpis- is correct (esp. note Icel. _fis_ [n.] "fluff, chaff"), a-mutation must have lowered \*i to \*e. The collective OHG _ga-vissa_ ~ _ga-bissa_ [f.] "chaff" < quasi-PIE \*kom-tpis-io- shows a remarkable Verner alternation similar to the doublet OHG _mezzisahs_ ~ _mezzirahs_ "knife" (for which see [\*sahsa-](#sahsa)). See also [\*fasa/ōn- "fringe, fiber"](#fasan). \
+REF: [EDPG]\: 138
+
+### <a id="fetan">\*fetan- [st.] "to go; to fall" (v)</a>
+N: \
+-- ON _feta_ "to step" \
+-- Far. _feta_ [wk.] "to stride, pace, step out" \
+W: \
+-- OE _fetan_ "to fall" \
+-- OHG _fezzan_, _gi-fezzan_ "id." \
+PIE: \*péd-e \
+COGN: Skt. _pádyati_ "to move, to go; to fall" < \*ped-ie-, OCS _padati_, Ru. _pádat'_ (_pádaju_), SCr. _pȁdati_ "to fall" < \*pod-eh₂-ie- \
+An IE verbal formation related to [\*fōt- "foot"](#fot). See also the pertaining iterative [\*futōn-](#futon). \
+REF: [EDPG]\: 138
+
+### <a id="fetura">\*fetura/o- [m./f.] "fetter" (n)</a>
+N: \
+-- ON _fjǫturr_ [m.] \
+-- Far. _fjøtur_ [n.] \
+-- OSw. _fiætur_ [m.] \
+W: \
+-- OE _feter_, _fetor_ [f.], E _fetter_ \
+-- OS _feterōs_ [m.pl.] \
+-- Du. _veter_ [c.] "shoelace" \
+-- OHG _vezzera_ [f.], MHG _vezzer_ [f.] "fetter; manacle" \
+PIE: \*ped-ur-o/eh₂- \
+Derived from the PIE word for "foot" (see \*fōt-), cf. Gr. _πέδη_ [f.] "fetter", Lat _pedica_ [f.] "id.". \
+REF: [EDPG]\: 138
+
+### <a id="fethan">\*feþan- [m.] "penis(?)" (n)</a>
+W: \
+-- MDu. _vede_ \
+PIE: \*pét-on- \
+COGN: Lat _pēnis_ "tail, penis" < \*pet-sn-i- \
+The Latin word is usually derived from \*pes-ni- in view of Skt. _pásas_-, Gr. _πέος_ [n.] "penis" < \*pes-os-, but \*pet-sni- is possible, too (cf. De Vaan 2008: 458). As a result, MDu. _vede_ (for which cf. Gysseling 1987: 53) receives a possible etymology. See also [\*fuþi- "vagina"](#futhi). \
+REF: [EDPG]\: 138
+
+### <a id="fethro">\*feþrō- [f.] "feather" (n)</a>
+N: \
+-- ON _fjǫðr_ \
+-- Far. _fjøður_ "feather; fin" \
+-- Elfd. _fjäðer_ \
+W: \
+-- OE _feðer_, E _feather_ \
+-- OS _fethera_ \
+-- Du. _veer_ [c.] \
+-- OHG _fedara_, _federa_, G _Feder_ \
+PIE: \*péth₂-r/n- \
+COGN: Hitt. _pattar_ ~ _pattan_-, _pettar_ ~ _pettan_- [n.] "feather, wing" < \*péth₂-r, \*pth₂-én-s, Skt _pátra_- [n.] "wing, feather" < \*peth₂-ro-, Gr. _πτέρον_ [n.] "wing" < \*pt(h₂)-er-o-, Lat _penna_ [f.] "feather" < \*peth₂-n-eh₂, OW _atar_ pl. "bird", MW _adar_ "id." < \*pth₂r-, OIr. _én_ "bird", W _edn_ "id." < \*peth₂-no- \
+A heteroclitic derived from the PIE root \*peth₂- "to fly", cf. Skt _pátati_ "to fly; hit", Gr. _πέτομαι_ "to fly", Lat _petō_, -_ere_ "to reach; to rush", MW _eh-ed_- "to fly" and the intensive Gr. _ποτάομαι_ "to fly around" < \*poth₂-éie-. Also cf. the collective ja-stem ON _fiðri_, OE _fiðere_, Du. _ge-vederte_, MHG _ge-videre_, G _Ge-fieder_ [n.] "plumage" < \*ga-feþrja-. \
+REF: [EDPG]\: 138
+
+### <a id="feuhtjon">\*feuhtjōn- [f.] "spruce" (n)</a>
+W: \
+-- OHG _fiuhta_, MHG _viehte_, G _Fichte_ \
+PIE: \*peuḱ-t-ih₂- \
+COGN: Waigali _puč_, _püč_ "pine" < \*peuḱ-i-, Gr. _πεύκη_ [f.] "spruce" < \*peuḱ-eh₂-, OPru. _peuse_ "id." < \*peuḱ-ieh₂-, Lith. _pušìs_ [f.] "id." < \*puḱ-i- \
+A word with a largely European distribution. In view of Waigali _puċ_, _püċ_, however, the word must also have existed in Iranian (Morgenstierne 1945: 229). From there, it probably spread into Armenian, where it surfaces as the second member of the compound _t'eɫ-awš_ "holm oak, evergreen oak; pine" (Olsen 2012). For the first element, see Arm. _t'eɫi_ "elm" under [\*felwō-](#felwo). \
+REF: [EDPG]\: 139
+
+### <a id="feukan">\*feukan- ~ \*fūkan- [st.] "to blow" (v)</a>
+N: \
+-- ON _fjúka_ "to be blown away; to fly off" \
+-- Far. _fúka_ "to drift; to dash, dart; to be blown away; to be rumored" \
+W: \
+-- EDu. _fijcken_, _fuycken_ "to thrust" \
+-- G _fauchen_ [wk.] "to hiss, snarl" \
+In view of the root-final k and the alternation between \*eu and \*ū, it seems likely that the strong verb was back-formed to the iterative [\*fuk(k)ōn-](#fukkon) (q.v.). Also cf. MDu. _fuke_ [f.] "fish trap", Du. _fuik_ [c.] "id." < \*fūkōn-. \
+REF: [EDPG]\: 139
+
+### <a id="fewurthan">\*fewurþ/dan- "fourth" (num)</a>
+N: \
+-- ON _fjórði_ \
+-- Far. _fjórði_ \
+-- Elfd. _fiuord_ \
+W: \
+-- OE _fēorða_, _fēowerða_, E _fourth_ \
+-- OFri. _fiōrda_, _fiārda_, _fiērda_ \
+-- OS _fiortho_ \
+-- Du. _vierde_ \
+-- OHG _fiordo_, G _vierte_ \
+PIE: \*kʷet-ur-to- \
+COGN: Skt _turī́ya_-, _túrya_-, Av. _tūiriia_ "fourth" (num) < \*kwt-ur-iHo-, Lat _quārtus_ < \*kʷtur-tHo- (for expected \*_quortus_), OW _petuerid_ "id." (num) < \*kʷet-ur-iHo-, ToA _śtärt_, ToB _śtarte_, Gr. _τέταρτος_, Hom. also _τέτρατος_, Skt. _caturthá_-, Lith. _ketvir̃tas_, Latv. _cetur̂taĩs_, OCS _četvrьtъ_, Ru. _četvërtyj_, SCr. _čètvr̃tī_ "id." (num) < \*kʷet-ur-tHo-, Arm. _č'or-ir_ "id." (num) < \*kʷet-or- \
+The ordinal to [\*fedwar- "four"](#fedwar) (q.v.). In PIE, the root had the zero grade, but since \*kʷtur-tó- in PGmc. would have given \*\*hurda-, it was bound to become replaced by an analogical full-grade form. This \*kʷetur̥tHo- lost its first t due to dissimilation, and thus gave PGmc. \*fewurþ/dan- (with initial \*f after [\*fimftan- "fifth"](#fimftan) (q.v.). \
+REF: [EDPG]\: 139
+
+### <a id="fifaldra">\*fīfaldra/ō- [m./f.] "butterfly" (n)</a>
+N: \
+-- Far. _firvaldur_ [m.] \
+-- OSw. _fiædhal_ [m.] \
+-- Sw. _fjäril_, dial. _fjärålder_ [c.] \
+-- Elfd. _fyörolder_ [m.] \
+W: \
+-- OE _fīfealde_ [f.] \
+-- OS _fīfoldara_ [f.] \
+-- MDu. _vivalter_, _viveltere_ [m./f.] \
+-- OHG _fīvaltra_ [f.], G _Feifalter_ [m./f.] \
+PIE: \*p(e)i-pol- \
+COGN: Lat. _pāpiliō_, -_ōnis_ [m.] "butterfly", OPru. _pepelis_ "bird", OPru. _penpalo_, Lith. _píepala_, Latv. _paîpala_, Ru. _pérepel_ "quail" \
+A reduplicated formation, probably to be reconstructed as \*fī̆-faldra/ō- or \*fe-faldra/ō- (cf. OSw. _fiædhal_ [m.] "id." < ON \*_fjaðraldr_ < \*_fjafraldr_ < \*fefaldra-). Also cf. the neuter ON _fífrildi_, Icel. _fiðrildi_, Nw. dial. _fivrelde_ [n.] "butterfly" < \*fifraldjan- (< \*fifaldrjan-). The formation has some parallels in Latin and Balto-Slavic, but the material is severely distorted and cannot be reconciled into one single proto-form. \
+REF: [EDPG]\: 140
+
+### <a id="fijand">\*fi(j)and- [m.] "enemy" (n)</a>
+E: \
+-- Go. _fijands_ \
+N: \
+-- ON _fjandi_ \
+-- Far. _fíggindi_ \
+W: \
+-- OE _fēond_, E _fiend_ \
+-- OFri. _fiänd_, _fiūnd_, _fīn(d)_ \
+-- ODu. _fīunt_, Du. _vijand_ [c.] \
+-- OHG _fīant_, G _Feind_ \
+PIE: \*ph₁-i-ont- \
+A lexicalized participle derived from [\*fi(j)ēn-](#fijen) (q.v.). \
+REF: [EDPG]\: 140
+
+### <a id="fijen">\*fi(j)ēn- [wk.] "to hate" (v)</a>
+E: \
+-- Go. _fijan_, _fian_ \
+N: \
+-- ON _fjá_ \
+-- Far. _fíggja_ \
+W: \
+-- OE _fēon_ \
+-- OHG _fīēn_ \
+PIE: \*ph₁-i-eh₂ \
+COGN: Skt. _pī́yati_ "to blame", Skt. _pīyú_- "reviler" < \*ph₁-i-u- \
+A stative verb of clear Indo-European origin. The root \*ph₁-ei- arose as an i-present to \*peh₁-, which in Germanic can be retrieved from [\*fēan-](#fean) (q.v.). See also [\*fi(j)and-](#fijand). \
+REF: [EDPG]\: 140
+
+### <a id="fimfe">\*fimfe "five" (num)</a>
+E: \
+-- Go. _fimf_ \
+N: \
+-- ON _fimm_ \
+W: \
+-- OE _fīf_, E _five_ \
+-- OFri. _fīf_ \
+-- OS _fīf_ \
+-- Du. _vijf_ \
+-- OHG _fimf_, G _fünf_ \
+PIE: \*pénkʷe \
+COGN: Hitt. _panza_-, ToA _päñ_, ToB _piś_, Skt. _páñca_, YAv. _paṇca_, MP _panǰ_, Oss. _fondz_, Arm. _hing_, Alb. _pesë_ / _pẽsë_, Gr. _πέντε_, Lat. _quīnque_, OIr. _cóic_, MW _pymp_, W _pimp_, Bret. _pemp_ "five" (num) \
+Germanic has \*fimfe for expected \*finhwe. This is due to a sporadic change of PIE \*kʷ to Pre-Gm. \*p after resonants in words starting with a labial, cf. [\*wulfa- "wolf"](#wulfa) < \*uĺ̥kʷ-o-. \
+REF: [EDPG]\: 140
+
+### <a id="fimftan">\*fimftan- "fifth" (num)</a>
+E: \
+-- Go. _fimfta_ \
+N: \
+-- ON _fimti_, _femti_ \
+-- Far. _fimti_ \
+-- Elfd. _femt_ \
+W: \
+-- OE _fīfta_, E _fifth_ \
+-- OFri. _fīfta_ \
+-- OS _fīfto_ \
+-- Du. _vijfde_ \
+-- OHG _fimto_, _finfto_, G _fünfte_ \
+PIE: \*penkʷ-tó- \
+COGN: Skt. _pakthá_-, YAv. _puxδa_ (with -_u_- from PIr. \*šuštHa- "sixth") "fifth" (num) < \*pnkʷ-tHo-, ToA _pänt_, ToB _piṅkte_, Lat. _quīntus_, Gr. _πέμπτος_, Lith. _peñktas_, Latv. _pìekts_, OPru. _piēncts_, OCS _pętъ_, Ru. _pjátyj_, SCr. _pêtī_, Alb. _pẽstë_ "id." (num) < \*penkʷ-tHo-, Gaul. _ponpetos_, OIr. _cóiced_, OW _pimphet_ "id." (num) < \*penkʷe-tHo- \
+The ordinal number pertaining to [\*fimfe](#fimfe). In PIE, the formation originally had a zero grade, viz. \*pnkʷ-tHó-, as can still be observed in Indo-Iranian. In Germanic, it was replaced by the full-grade root of the cardinal. \
+REF: [EDPG]\: 140
+
+### <a id="fingra">\*fingra- [m.] "finger" (n)</a>
+E: \
+-- Go. _figgrs_ \
+N: \
+-- ON _fingr_ \
+W: \
+-- OE _finger_, E _finger_ \
+-- OFri. _finger_ \
+-- OS _fingar_ \
+-- Du. _vinger_ [c.] \
+-- OHG _fingar_, G _Finger_ \
+PIE: \*penkʷ-ró- \
+A ro-stem usually assumed to be derived from the numeral [\*fimfe "five"](#fimfe) < PIE \*penkʷ-e. The labialization of the \*kʷ was lost before the operation of Verner's law. \
+REF: [EDPG]\: 141
+
+### <a id="finkan">\*finkan- [st.] "to sparkle, burn" (v)</a>
+W: \
+-- MDu. _vinken_ [st./wk.] "to sparkle; to smolder" \
+-- G obs. _finkeln_ [wk.] "to burn, hurt" \
+As the alternation of the pertaining causative [\*fangjan- ~ \*fankjan-](#fangjan) shows, the root-final \*k of this strong verb must be secondary, continuing a (shortened) geminate that spread from the iterative [\*funkōn-](#funkon) (q.v.). Also cf. the deverbal nouns MHG _vinc_ [m.] "spark" < \*finka- and MHG _vanke_ [m.] "id." < \*fankan-. \
+REF: [EDPG]\: 141
+
+### <a id="finkjan">\*finkja(n)- [m.] "finch" (n)</a>
+W: \
+-- OE _finc_, E _finch_ \
+-- MDu. _vink(e)_ [m./f.], Du. _vink_ [c.] \
+-- OHG _finko_, G _Fink_ \
+PIE: \*ping-o- \
+COGN: Gr. Hsch. _πίγγα_ "young bird" < \*ping-eh₂-(?) \
+An exclusively Germanic word. Formally close to [\*spinka(n)-](#spinkan) (q.v.). \
+REF: [EDPG]\: 141
+
+### <a id="finnon">\*fin(n)ōn- [f.] "fin" (n)</a>
+N: \
+-- OSw. _fina_ "fin" \
+-- Sw. _fena_ [c.] "fin; chaff, husk" \
+W: \
+-- MDu. _vinne_ "fin; wing; prickle; awn" \
+PIE: \*pin-(m)on- \
+COGN: OIr. _ind_, _inn_ [n.] "end, extremity, tip, point, edge, surface" < \*pinno-(?) \
+The alternation between ON _fina_ < \*finōn- and WGm. \*finnō points to an n-stem \*finō, gen. \*finnaz < \*pin-ōn, \*pin-n-ós. The variant MDu., EDu. _vimme_ "fin; prickle, awn" can furthermore be adduced to reconstruct a more primary mn-stem \*fimmō, \*finnaz < \*pín-mōn, \*pin-mn-ós (with loss of m in the cases with zero grade of the suffix), but this _vimme_ may also have arisen secondarily by assimilation of the root-final nasal to the initial f (cf. Du. _priem_ < \*preuna-). No generally accepted etymology. The link with OIr. _ind_ "extremity" is attractive, not least in view of the semantics of Sw. _fena_ "chaff, husk" and MDu. _vine_ "bran(?)", which could have developed from "awn". Problematic, on the other hand, is the connection with Lat _pinna_ "feather, wing, fin, parapet", which does not continue alleged \*pinn-eh₂, but represents a dialect form of _penna_ "pen" < \*pet-neh₂- (De Vaan 2008: 458). Unlikely, too, are the connections with e.g. Skt. _sphyá_- [m.] "stick" and Lat. _spīna_ "spine, thorn", which unlike the Germanic forms have an initial s. \
+REF: [EDPG]\: 141
+
+### <a id="finthan">\*finþan- [st.] "to find; to feel" (v)</a>
+E: \
+-- Go. _finþan_ \
+N: \
+-- ON _finna_ \
+W: \
+-- OE _findan_, E _to find_ \
+-- OFri. _finda_ \
+-- OS _fīđan_, _findan_ \
+-- ODu. _findan_, Du. _vinden_ \
+-- OHG _findan_, G _finden_ \
+PIE: \*pént-e- \
+COGN: Skt. _pánthās_, gen. _pathás_ [m.] "road, path, course". YAv. _paṇtā̊_, OAv. abl. _paθō_ [m.] "road, path". MP _pand_ "path", Oss. _fændæg_ "id.", Gr. _πάτος_ [m.] "road", _πόντος_ [m.] "sea", Arm. _hun_, gen. _hni_ "ford", Lat _pōns_ [m.] "bridge, path", OCS _pǫtь_ [m.] "road", OPru. _pintis_ "id." < PIE \*pónt-eh₁-s, gen. \*pnt-h₁-ós \
+See also [\*fanþjan-](#fanthjan), [\*fandōn-](#fandon), [\*fundōn-](#fundon) and [\*paþa-](#patha). \
+REF: [EDPG]\: 142
+
+### <a id="fisan">\*fīsan- [st.] "to blow" (v)</a>
+N: \
+-- ON _físa_ \
+-- Icel. _físa_ [wk.] "to blow (on a fire); to fart" \
+-- Far. _físa_ [wk.] "to blow, draw; to get to fly, stir up; to hiss; to snort" \
+-- Elfd. _faisa_ "to fart" \
+W: \
+-- MHG _vīsen_ "to fart" \
+PIE: \*péis-e-(?) \
+COGN: Lat. _spīrō_, -_āre_ "to breathe" < \*spéis-eh₂-ie-, W _ffûn_ "breath" < \*spoi-n-eh₂- \
+An originally onomatopoetic verb related to [\*fisōn-](#fison) (q.v.). The semantic spectrum ranges between "to blow", "to hiss", "to whisper" and "to fart". If Lat. _spīrare_ is related, the PIE form of the verb may have been \*pséi-s-e-; normally, the cluster \*ps- would develop into Gm. \*sp- (cf. [\*stelan- "to sneak; to steal"](#stelan) < \*tsél-e-), but in this case, the s may have been lost due to dissimilation. \
+REF: [EDPG]\: 142
+
+### <a id="fiska">\*fiska- [m.] "fish" (n)</a>
+E: \
+-- Go. _fisks_ \
+N: \
+-- ON _fiskr_ \
+-- Far. _fiskur_ \
+-- Elfd. _fisk_ \
+W: \
+-- OE _fisc_, E _fish_ \
+-- OFri. _fisk_ \
+-- OS _fisk_ \
+-- Du. _vis_ [c.] \
+-- OHG _fisc_, G _Fisch_ \
+PIE: \*pisk-o- \
+COGN: Lat. _piscis_ [m.] "fish" < \*pisk-i-, OIr. _íasc_ [m.] "id." < \*peisk-o- \
+A West Indo-European word. The connection with Skt. _piccha_- "calf of the leg" < \*piḱ-sk-eh₂- (Sadovsky 1973: 85-6), perhaps justified by the widespread folk association of the calf of the leg with the belly of a fish (Mallory/Adams 2006: 146) is highly uncertain. Slightly more attractive, then, is the comparison with Skt. _piccha_- [n.] "feather". Cz. _pisk_ "young feather". The alleged cognate Ru. _piskár'_ "gudgeon", on the other hand, was derived from a verbal root, cf. OCS _piskati_ "to pipe", Ru. _piščát'_ "to squeak" (cf. Hamp 1973b), and therefore cannot be related. Also cf. Go. _fiskon_, ON _fiska_, OE _fiscian_, _fixian_, OFri. _fiskia_, Du. _vissen_, OHG _fiskōn_, G _fischen_ [wk.] "to fish" < \*fiskōjan-, which is formally close to Lat. _piscor_, -_āri_ < \*pisk-eh₂-ie-. \
+REF: [EDPG]\: 142
+
+### <a id="fison">\*fisōn- [wk.] "to blow" (v)</a>
+N: \
+-- Nw. _fīsa_ "to blow; to fart; to whisper" \
+W: \
+-- MDu. _vesen_ "to whisper" \
+The iterative pertaining to the strong verb [\*fīsan-](#fisan) (q.v.). \
+REF: [EDPG]\: 142
+
+### <a id="fitnan">\*fitnan- [wk.] "to become fat" (v)</a>
+N: \
+-- ON _fitna_ \
+-- Far. _fitna_ \
+An inchoative verb derived from [\*faita-](#faita) (q.v.). With the same ablaut, cf. ON _fita_ [f.], Far. _fiti_ [f.] "fat" < \*fitōn-, \*-īn-, whence ON, Far. _fita_ [wk.] "to make fat" < \*fitōjan-. \
+REF: [EDPG]\: 142
+
+### <a id="flahan">\*flahan- [st.] "to flay, strip" (v)</a>
+N: \
+-- ON _flá_ "to flay; to strip (of clothes)" \
+-- Elfd. _flå_ [wk.] "id." \
+W: \
+-- OE _flēan_ "to flay" \
+-- MDu. _vlaen_ "id." \
+PIE: \*plók-e- \
+COGN: Gr. _πλάξ_, -_ακός_ [f.] "plane, plain; flat stone, board, table" < \*pl̥k- \
+An a-grade intensive verb related to [\*flahō-](#flaho) and [\*flōhō-](#floho) (q.v.). \
+REF: [EDPG]\: 143
+
+### <a id="flaho">\*flahō- [f.] "strip" (n)</a>
+N: \
+-- ON _flá_ "strip of land, meadow" \
+PIE: \*plók-eh₂- \
+COGN: Latv. _plaka_ [f.] "low lying place, plain" < \*plok-eh₂- \
+Together with Gr. _πλάξ_ -_ακός_ [f.] "flat surface, board, slab", ON _flá_ has been derived from a PIE root noun \*plak- (cf. Orel 2003: 104). However, the Greek alpha and the Gm. \*a have two entirely different origins, i.e. a vocalized \*l and an \*o respectively. Also note that, in Old Norse, many monosyllabic ō-stems acquired an analogical root-noun inflection, cf. _tá_, pl. _tær_ [f.] "toe" < [\*taihwō-](#taihwo). This taken into consideration, I derive the word from \*plók-eh₂-, which happens to be close to Latv. _plaka_. See also [\*flahan-](#flahan). \
+REF: [EDPG]\: 143
+
+### <a id="flahsa">\*flahsa- [n.] "flax" (n)</a>
+W: \
+-- OE _fleax_, E _flax_ \
+-- OFri. _flax_ \
+-- MLG _vlas_ [m.] \
+-- Du. _vlas_ \
+-- OHG _flahs_ [m.], G _Flachs_ [m.] \
+A thematicized s-stem usually derived from the PIE root \*pleḱ- "to braid" (see [\*flehtan-](#flehtan)). It is equally attractive to connect the word to [\*flakk/gōn- "to beat, thresh"](#flakkon-1) (q.v.). \
+REF: [EDPG]\: 143
+
+### <a id="flaina">\*flaina- "flat(?)" (adj)</a>
+N: \
+-- Nw. _flein_ "bald, naked; flat" \
+PIE: \*ploi-no- \
+COGN: Lith. _plìkas_ "bald", Latv. _pliks_ "bare, bald" < \*pli-ko-, CS _plěšь_ "bald patch" < \*ploi-s-io- \
+A marginally attested adjective that is often connected to the aforementioned Balto-Slavic forms. The meaning "bald" is probably secondary, however, as Nw. _flein_ also means "flat". The straightforward connection with Elfd. _flinå_ [wk.] "to smile" < \*flinōn-, on the other hand, does seem to point to a primary meaning "bare" (whence "to bare the teeth"). Related to OSw. _flēn_ [n.] "tumor (of the skin)" and Nw. _flein_ [m.] "growth, wound"? \
+REF: [EDPG]\: 143
+
+### <a id="flaizan">\*flaizan- "more" (comp)</a>
+E: \
+-- Go. _flaiza_ \
+N: \
+-- ON _fleiri_ \
+-- Far. _fleiri_ \
+-- Elfd. _flierer_ \
+PIE: \*plóh₁-is-on- \
+COGN: Gr. _πλείρων_ comp. "more" < \*pleh₁-is-on-, Lat _plūs_, -_ris_ comp. "id." < \*ploh₁-is- \
+The comparative of [\*felu- ~ \*fulu-](#felu) (q.v.). The development of \*flaizan- from \*plóh₁-is-on- proves that Verner's law preceded the shortening of the long diphthongs (Osthoff's law), as \*plóison- would have given \*\*flaisan-. For a similar scenario, cf. [\*maizan- "more"](#maizan) < \*méh₂-is-on- and [\*winda- "wind"](#winda) < \*h₂uéh₁-ent-o-. \
+REF: [EDPG]\: 143
+
+### <a id="flaka">\*flaka- "flat" (adj)</a>
+W: \
+-- MDu. _vlac_, Du. _vlak_ \
+-- OHG _flah_, G _flach_ \
+PIE: \*plók-o- \
+COGN: Gr. _πλάξ_ -_ακός_ [f.] "plane, plain; flat stone, board, table" < \*pl̥k-, Lith. _plãkanas_, Latv. _plakans_ "flat" < \*plok-ono- \
+A West Germanic adjective, the derivational base of ablauting ON _flóki_, OE _flōc_ [m.] "flounder" < \*flōka(n)-. The cluster is usually compared to Lat. _plaga_ [f.] "net; expanse, territory" and Gr. _πλάγια_ [n.pl.] "sides, flanks", but the Latin word cannot be derived from \*plog-eh₂- (nor from \*plg-eh₂- or \*plh₂-g-eh₂-), and the original meaning of the Greek root was "oblique, bent", not "flat", cf. Gr. _πλάγιος_ "oblique, sloping; crooked" < \*plg-io-. In addition, the Germanic material indicates that the original root was \*plok- rather than \*plog-, cf. ON _flagna_ beside ON, Far. _flakna_ [wk.] "to flake (off), split", Icel., Nw. _flaga_ [wk.] "id." and esp. Icel. _flár_, Nw. _flå_ "flat, wide", Elfd. _flå_ "flat; slanted" < \*flaha- < \*plók-o-. It follows that the root-final \*k of \*flaka- is a reduction of an original geminate, cf. MDu. _vlacken_ [wk.] "to flatten" < \*flakkōn-. See also [\*flahan- "to flay"](#flahan). \
+REF: [EDPG]\: 143
+
+### <a id="flakkon-1">\*flakk/gōn- [wk.] "to beat" (v)</a>
+W: \
+-- E _to flack_ "to beat with a flail" \
+-- G _flacken_ "to beat wool" \
+PIE: \*plh₂k-néh₂- \
+An o-grade iterative, variant of the zero-grade E _to flog_ (< OE \*floggian) < \*fluggon-. Both formations appear to be (secondary) iteratives to [\*flōkan-](#flokan) (q.v.), cf. OCS _plakati_ "to beat one's breast; to lament" < \*pleh₂k-eh₂-. \
+REF: [EDPG]\: 144
+
+### <a id="flakkon-2">\*flakk/gon- [wk.] "to flutter" (v)</a>
+N: \
+-- Nw. _flaga_ "to fluctuate" \
+W: \
+-- ME _flakken_ "to beat feebly, flutter" \
+-- MDu. _vlacken_, _vlaken_ "to flame", Du. _flakkeren_ "to flutter" \
+-- OHG _flagarōn_ "to flutter", G Swi. _flacken_ "to flare" \
+PIE: \*plok-néh₂- \
+An iterative that in spite of the dictionaries (Franck 1949: 166; Pokorny IEW: 832-3) cannot be equated with \*flakkōn- "to swerve". It is more likely that the verb represents a (secondary?) a-grade variant of [\*flukk/gōn- "to fly"](#flukkon) (q.v.). Also cf. ON _flaga_ [f.] "quick raid", Far. _flaga_ [f.] "gust of wind", MHG _vlage_ [f.] "id.", Du. _vlaag_ [c.] "id." < \*flagōn- and OE _flacor_ "flickering" < \*flakra-. \
+REF: [EDPG]\: 144
+
+### <a id="flakkon-3">\*flakkōn- [wk.] "to swerve" (v)</a>
+N: \
+-- ON _flakka_ "to rove about" \
+-- Far. _flakka_ "to wander about, roam" \
+PIE: \*plog/ǵ-néh₂- \
+COGN: Gr. _πλάζω_ "to make devious, repel, dissuade from the right path, bewilder", _πλάζομαι_ "to go astray, wander about" < \*plg/ǵ-ie- \
+An o-grade iterative. The Greek word is assumed to be without a good etymology by Beekes 2010: 1201, but the connection with PGmc. \*flakkon- < \*plog/ǵ-neh₂- (cf. Torp 1909: 249) is formally and semantically unproblematic. \
+REF: [EDPG]\: 144
+
+### <a id="flata">\*flata- "flat" (adj)</a>
+N: \
+-- ON _flatr_ "flat, level" \
+W: \
+-- OS _flat_ "flat, shallow" \
+-- MDu. _vlat_ (infl. _vladde_) "id." \
+-- OHG _flaz_ \
+COGN: Skt. _pr̥thú-_ "broad", Gr. _πλατύς_ "flat" < \*plth₂-u-, Lith. _platùs_ "broad, wide" < \*ploth₂-u- (cf. Lith. _plasti_ (_plantu_) "to broaden") \
+Related to MLG _vlōt_ "flat" < \*flōta-. The root-final t must be secondary from \*tt, as the word is likely to be related to Lith. _platùs_. The original geminate is preserved by e.g. G Rhnl. _Flatzen_ [m.] "slab" < \*flattan- vs. OHG _flado_, G _Fladen_, MDu. _vlade_, _vlaey_, Du. _vlaai_, ME _flathe_ "flat cake" < \*flaþan-. See also [\*flatja-](#flatja). \
+REF: [EDPG]\: 144
+
+### <a id="flatja">\*flatja- [n.] "floor" (n)</a>
+N: \
+-- ON _flet_ "raised flooring" \
+W: \
+-- OE _flett_ "floor of a house, dwelling", E _flat_ \
+-- OFri. _flet_ [n.?] "house; home" \
+-- OS _flet_ "hall, house" \
+-- OHG _flezzi_ "floor; flat area", MHG _vletz(e)_ "id." \
+A ja-stem derived from [\*flata- "flat"](#flata) (q.v.). \
+REF: [EDPG]\: 145
+
+### <a id="flaugjan">\*flaugjan- [wk.] "to let fly" (v)</a>
+E: \
+-- Go. _us-flaugjan_\* \
+N: \
+-- ON _fleygja_ \
+W: \
+-- MHG _er-vlougen_ \
+The causative to [\*fleugan-](#fleugan) (q.v.). \
+REF: [EDPG]\: 145
+
+### <a id="flauho">\*flauho- [f.] "flea" (n)</a>
+N: \
+-- ON _fló_, pl. _flœr_ \
+W: \
+-- OE _flēah_, _flēa_, E _flea_ \
+-- WFri. _flie_ [c.] \
+-- MDu. _vloo_, _vlo(o)y_, Du. _vlo_ [c.] \
+-- OHG _flō(h)_ [m.], G _Floh_ [m.] \
+PIE: \*plóuk-eh₂- \
+COGN: Skt. _plúṣi_- [m.] "flea", Sogd. _'βš'h_ "id.", Arm. _lu_ "id." < \*plus-, Alb. _plesht_ [m.] "id." < \*plous-, Gr. _ψύλλα_ [f.] "id." < \*psul-, Lat. _pūlex_ "id." < \*pusl-, Lith. _blusà_ [f.] "id.", Rues _blъxa_, Ru. _bloxá_, Ser. _bùha_ [f.] "id." < \*blus-eh₂- \
+An inherited Indo-European word. Due to the many tabooistic distortions of the word in the different IE languages, it is difficult to reconstruct its original form. \
+REF: [EDPG]\: 145
+
+### <a id="flauja">\*flauja- [n.] "ship" (n)</a>
+N: \
+-- ON _fley_ \
+-- Far. poet. _floy_ "vessel, craft" \
+PIE: \*plou-io \
+COGN: Identical to Gr. _πλοῖον_ [n.] "ship"; further cf. ToB _plewe_ [m.] "id.", Gr. _πλόος_, _πλοũς_ [m.] "id.", Ru. _plov_ [m.] "ship, barge" < \*plouo- \
+Derived from the PIE verb \*pléu-e- "to sail", for which see [\*flauma-](#flauma) and [\*flōan-](#floan). The OE gloss _floege_ "_navicula_" appears to be a Norse loanword (Pons-Sanz 2000: 94-5). \
+REF: [EDPG]\: 145
+
+### <a id="flauma">\*flauma- [m.] "stream" (n)</a>
+N: \
+-- ON _flaumr_ "eddy" \
+PIE: \*plou-mo- \
+COGN: Skt. _plávate_ "to swim, flow", Gr. _πλέω_ "to travel by sea, sail, navigate", Lat. _pluit_, _pluere_ "to rain", oes _pluti_ "to flow, sail" < \*pléu-e-; OCS _plaviti_ "to let swim" < \*plōu-éie-, OIr. _ló_ "water" < \*plou-o-(?) \
+See also [\*flauja-](#flauja) and [\*flōan-](#floan). \
+REF: [EDPG]\: 145
+
+### <a id="flauti">\*flauti- [f.] "cream" (n)</a>
+N: \
+-- ON _flautir_ [f.pl.] "whipped milk" \
+W: \
+-- OE _flī(e)te_ "cream" \
+See [\*fleutan-](#fleutan). \
+REF: [EDPG]\: 145
+
+### <a id="flauthi">\*flauþī- [f.] "cross-beam" (n)</a>
+N: \
+-- ON _fleyðr_ \
+PIE: \*plout-ih₂- \
+COGN: Lith. _plaũtas_, Latv. _plàuts_ [m.] "shelf, sideboard", Ser. _plúto_ [n.] "flotsam" < \*plou-tó-, Lat _pluteus_ [m.] "movable screen of wood or wickerwork, parapet" < \*pl(o)ut- plus the usually adjectival suffix -eus (< \*-eio-) \
+REF: [EDPG]\: 145
+
+### <a id="flehtan">\*flehtan- [st.] "to braid, plait" (v)</a>
+N: \
+-- ON _flétta_ [wk.] \
+W: \
+-- OE _fleohtan_ \
+-- MLG _vlechten_ \
+-- MDu. _vlechten_, Du. _vlechten_ \
+-- OHG _flehtan_, G _flechten_ \
+PIE: \*pléḱ-t-e- \
+COGN: Identical to Lat _plectō_, -_ere_ "to plait, twine", OCS _plesti_, Ru. _plestí_ (_pletú_), SCr. _plèsti_ "to plait" < \*pléḱ-t-e-, which is an extension of the root \*pleḱ-, cf. Gr. _πλέκω_ "to braid, to knit, to wind, to twine" < \*pléḱ-e- and Skt _praśna_- [m.] "plaited basket, turban", YAv. _ərəzatō.frašna_- "having a silver helmet" < \*ploḱ-no- \
+REF: [EDPG]\: 146
+
+### <a id="fleugan">\*fleugan- [st.] "to fly" (v)</a>
+N: \
+-- ON _fljúga_ \
+-- Far. _flúgva_ \
+-- Elfd. _fliuoga_ \
+W: \
+-- OE _flēogan_, E _to fly_ \
+-- OFri. _fliāga_ \
+-- MDu. _vliegen_, Du. _vliegen_ \
+-- OHG _fliugan_, _fliogan_, G _fliegen_ \
+PIE: \*pléuk-e \
+COGN: Lith. _plaũkti_ (_plaukiù_) "to swim, float" < \*plouk-ie- and _plùnksna_ [f.] "feather" < \*plu-n-k-sneh₂- \
+In Germanic, the form \*fleugan- emerges for expected \*fleuhan- < \*pleuk-e-. Pokorny explains this as the result of deliberate disambiguation with \*þleuhan-, but it is more attractive to assume interference with the iterative \*flukk/gōn- < \*pluk-neh₂-. Another such interference is evinced by MDu. _vlieken_ "to fly" (cf. also MDu. _vlieke_, _vleke_ [f.] "feather; arrow" < \*fleukjōn-, whence OFr. _fleche_, Fr. _flèche_ "arrow"), which in spite of its weak conjugation must continue strong \*fleukan- with a secondary \*k from the iterative. Similarly, MDu. _vluycken_ "to transport over water", which is close to the meaning of Lith. _plaũkti_, is likely to continue Pre-Gm. \*flūkan- with both the \*ū and the \*k pointing to influence from [\*flukk/gōn-](#flukkon). See also [\*flaugjan-](#flaugjan), [\*flugi-](#flugi) and [\*fugla-](#fugla). \
+REF: [EDPG]\: 146
+
+### <a id="fleugon">\*fleugōn- [f.] "fly" (n)</a>
+N: \
+-- Nw. _fljuge_ \
+W: \
+-- OE _flēoge_, E _fly_ \
+-- MLG _vlēge_ \
+-- MDu. _vliege_, Du. _vlieg_ [c.] \
+-- MHG _fliuga_, _flioga_, G _Fliege_ \
+Derived from [\*fleugan-](#fleugan). Also cf. ON _fluga_ [f.] "id." with a zero grade. \
+REF: [EDPG]\: 146
+
+### <a id="fleusiz">\*fleusiz- [n.] "fleece" (n)</a>
+W: \
+-- OE _flēos_, _flīes_, E _fleece_ \
+-- MDu. _vlies_, _vluus_ "fleece; tuft", Du. _vlies_ "id." \
+-- MHG _vlies_, _vlius_ "id." \
+PIE: \*pleus-o- \
+COGN: Lith. _plaušaĩ_ [m.pl.] "bast" < \*plous-a-, Lith. _plùskos_ [f.pl.], Latv. _pluska_ [f.] "tuft of hair" < \*plus-k-eh₂- \
+The co-existence of OE _flēos_, (M)Du., MHG _vlies_ < \*fleusa- and OE _flīes_, MDu. _vluus_, MHG _vlius_ [n.] "id." < \*fleusi- points to an old neuter s-stem \*fleusaz, gen. \*fleusizaz < \*pleus-os, \*pleus-es-os. \
+REF: [EDPG]\: 146
+
+### <a id="fleuta">\*fleuta- [n.] "stream" (n)</a>
+N: \
+-- ON _fljót_ "stream, river" \
+W: \
+-- OE _flēot_ "estuary, sea; fleet, ship", E _fleet_ \
+-- MLG _flēt_ [m./n.] "river" \
+-- MDu. _vliet_ [m.] "body of water" \
+An a-stem to the strong verb [\*fleutan-](#fleutan) (q.v.). Also cf. ON _fljótr_, MDu. _vliet_ "fast" < \*fleuta-. \
+REF: [EDPG]\: 146
+
+### <a id="fleutan">\*fleutan- [st.] "to float, stream" (v)</a>
+N: \
+-- ON _fljóta_ \
+W: \
+-- OE _flēotan_ "to float" \
+-- OFri. _fliāta_ "id." \
+-- OS _fliotan_ "id." \
+-- MDu. _vlieten_ "id.", Du. _vlieten_ "id." \
+-- OHG _fliozan_ "id.", G _fließen_ "id." \
+PIE: \*pleud-e- \
+COGN: OIr. _luaidid_ "to move" < \*pléud-e-, Lith. _plū́sti_ (_plū́stu_) "to float, stream, run" < \*plud-ske- \
+A strong verb to the PIE root \*pleud-. See also [\*fleuta-](#fleuta), [\*flauti-](#flauti), [\*fluta-](#fluta) and [\*flut(t)ōn-](#flutton). \
+REF: [EDPG]\: 147
+
+### <a id="fleuthra">\*fleuþra- [m.] "elder" (n)</a>
+W: \
+-- WFri. _flear_ "elder; soggy area" \
+-- MLG _vlēder_ \
+-- ODu. _fliethar_, MDu. _vlieder_, _vlier_, Du. _vlier_ [c.] \
+A North-Sea Germanic word. In Frisian, it is only attested in the modern dialects, but Du. dial. _vlaar_, attested in the originally Frisian province of North-Holland, implies an OFri. form \*_fliār_ (cf. Franck 1949: suppl., 183). No certain etymology. The word seems to contain the \*þra-/dra-suffix common in tree-names (cf. [\*apaldra-](#apaldra)). In view of the WFri. meaning "soggy place", it is perhaps possible to link the word to the PIE root \*pleu- "to float, swim", for which see [\*flauma-](#flauma). Since the elder has a preference for moist soil, this meaning can also be secondary, however. \
+REF: [EDPG]\: 147
+
+### <a id="flitan">\*flītan- [st.] "to strive, fight" (v)</a>
+W: \
+-- OE _flītan_ "to strive, contend, dispute" \
+-- MDu. _vliten_ [st./wk.] "to be enthusiastic; to strive for" \
+-- OHG _flīzan_ "to strive, try, fight" \
+PIE: \*pléid-e- \
+COGN: MW _llwydaw_ "to succeed" < \*pleid- \
+A Germanic-Celtic isogloss (Schumacher 2004: 52 1-2). \
+REF: [EDPG]\: 147
+
+### <a id="floan">\*flōan- [st.] "to flow" (v)</a>
+N: \
+-- ON _flóa_ [wk.] "to flood; be flooded" \
+W: \
+-- OE _flōwan_ "to flow", E _to flow_ \
+-- MLG _vlōien_ [wk.] "to flow; flood" \
+-- MDu. _vloeyen_ [wk.] "to flow; swim; flood", Du. _vloeien_ [wk.] "to flow" \
+PIE: \*plṓu-e- \
+COGN: Gr. _πλώω_ "to swim" < \*plṓu-e-, OCS _plaviti_ "to let swim" < \*plōu-eie- \
+An old strong verb. The alternation of -w- in Anglo-Saxon and -j- in Low German points to a hiatus, viz. \*flōan-. This hiatus arose after the regular loss of \*u after \*ō in a formation \*plṓu-e- (cf. Go. _sauil_ "sun" < \*sōel < \*seh₂u-el). Gr. _πλώω_ has been adduced to alternatively derive \*flōan- from a root variant \*pleh₃- (cf. _πλωτός_ "floating" < \*plh₃-to-?), but the Germanic evidence clearly points to \*plṓu-e-, cf. [\*flauja- "ship"](#flauja) (= Gr. _πλοῖον_) < \*plou-io- and [\*flauma-](#flauma) < \*plou-mo-. See also [\*flōdu-](#flodu). \
+REF: [EDPG]\: 147
+
+### <a id="flodu">\*flōdu- [m./f.] "flood" (n)</a>
+E: \
+-- Go. _flódus_ [m.] \
+N: \
+-- ON _flóð_ [n.] \
+-- Far. _flóð_ [f.] "high tide; heavy rain" \
+W: \
+-- OE _flōd_ [m./n.] "id.", E _flood_ \
+-- OS _flōd_ [m./f.] "flood, river" \
+-- Du. _vloed_ [c.] "flood; high tide" \
+-- OHG _fluot_ [f.], G _Flut_ [f.] "river; tide" \
+PIE: \*ploh₃-tú- \
+A tu-stem created to the root of \*flōan-. The u-suffix has been replaced by a- and i-stems in many languages, but must nevertheless be reconstructed on the basis of the Gothic form. In ON, the original u-stem genitive _flóðar_ also seems to have been preserved in compounds, e.g. Icel. _flóðar-mál_ (also _flœðar-mál_) [n.], Far. _flóðar-máli_ [m.] "high water mark". \
+REF: [EDPG]\: 147
+
+### <a id="floho">\*flōhō- [f.] "layer" (n)</a>
+N: \
+-- ON _fló_ \
+W: \
+-- OE _flōh_ "chip" \
+-- OHG _fluoh_ "rock, cliff", MHG _vluo_ "id.", G dial. _Fluh_ "id." \
+Derived from the adjective \*flaha-, for which see [\*flaka-](#flaka). \
+REF: [EDPG]\: 148
+
+### <a id="flokan">\*flōkan- [st.] "to slap, mourn, lament" (v)</a>
+E: \
+-- Go. _flokan_\* "to lament" \
+W: \
+-- OE _flōcan_ "id." \
+PIE: \*plóh₂k-e- \
+COGN: Gr. _πλήσσω_ "to strike, slap, thrust, hit" < \*plh₂k-ie-, Lat. _plangō_, -_ere_ "to slap" < \*plh₂k-neh₂-, OCS _plakati sę_ (_plačǫ_) "to beat one's breast; lament" < \*pleh₂k-ie-, Lith. _plókis_, _plõkis_ [m.] "flogging, blow with a stick" < \*pleh₂k-i- (and with secondary ablaut: Lith. _plàkti_ "to beat, chastise"?) \
+An o-grade reduplicating verb, formally and semantically close to Gr. _πλήσσω_ and OCS _plakati_. The apparent incongruity of Gm. \*flak- with PIE \*pleh₂k- can be resolved by assuming that the strong verb was influenced by the corresponding iterative [\*flakk/gōn-](#flakkon) (q.v.). It is not necessary to postulate a PIE root variant \*pleh₂g- with root-final \*g. Lat _plangō_ may have developed from \*plh₂k-neh₂- with -ng- < \*-ngn- < \*-kn- according to Thurneysen's law, and also Gr. _πληγή_ [f.] "hit, wound" can have come about by analogy within Greek itself. \
+REF: [EDPG]\: 148
+
+### <a id="flora">\*flōra- [m.] "floor" (n)</a>
+N: \
+-- ON _flórr_ "floor of a cowshed" \
+W: \
+-- OE _flōr_ [m./f.] "floor; attic", E _floor_ \
+-- Du. _vloer_ [c.] "id." \
+-- OHG _fluor_ "field", G _Flur_ "id." \
+PIE: \*plé/óh₂-ro \
+COGN: Identical to OIr. _lár_ [m.] "floor"; also cf. OPru. _plonis_ "threshing floor" < \*pleh₂-no-, Lith. _plónas_ "thin", Latv. _plāns_ "even, flat, thin" < \*pleh₂-no-, Lat. _plānus_ "flat" < \*plh₂-nó- \
+Within Germanic also cf. MHG _flarre_ [f.] "slab" < \*flarrōn- (EWAhd: III, 422) with \*flarr- < Pre-Gm. \*plōrnó-, the genitive stem from an original paradigm \*plōr-on, gen. \*plōr-n-ós? This may in turn be a distortion of an old heteroclitic, e.g. nom. \*plóh₂-r, gen. \*pléh₂-n-s. \
+REF: [EDPG]\: 148
+
+### <a id="flugi">\*flugi- "able to fly" (adj)</a>
+W: \
+-- E _fledge_ \
+-- MDu. _vlugghe_ "being able to fly; fast, quick" \
+-- OHG _flucki_, MHG _vlücke_ \
+A gerundive to [\*fleugan- "to fly"](#fleugan) (q.v.). The o-grade is found in ON _fleygr_ "id." < \*flaugja-. \
+REF: [EDPG]\: 148
+
+### <a id="flukkan">\*flukka(n)- [m.] "group" (n)</a>
+N: \
+-- ON _flokkr_ "troop, host; flock" \
+-- Far. _flokkur_ "multitude, crowd, party; flock (of birds)" \
+W: \
+-- OE _flocc_ [n.] "flock, band, company", E _flock_ \
+-- MLG _vlocke_ "group" \
+The original meaning of the word was "group of moving people or animals", cf. Far. _flokkur_ "flock of birds", E _flock_ (of birds or sheep), and this allows for the connection with [\*fleugan- "to fly"](#fleugan). It was derived from the appurtenant iterative [\*flukk/gōn-](#flukkon). Also cf. [\*flukka(n)-](#flukkan). \
+REF: [EDPG]\: 148
+
+### <a id="flukkan">\*flukkan- [m.] "flake" (n)</a>
+W: \
+-- MDu. _vlocke_ [f.] "flake, tuft, fluff", Du. _vlok_ [c.] "id." \
+-- OHG _flocko_ "id.", G _Flocke_ "id." \
+The word has been analyzed as a loanword from Lat. _floccus_ [m.] "tuft of wool", but there are other options. It may have been derived from an iterative \*flukkōn-, cf. Nw. _flokka_ [wk.] "to pull out (e.g. hay)", G Rhnl. _flocken_ [wk.] "to loosen hay", which in turn can be related to Lith. _pláukas_ [m.] "(single) hair, color of an animal, (pl.) hair, fur". The iterative that is most likely to be related, however, is [\*flukk/gōn- "to fly, flutter"](#flukkon) (q.v.). Note that its o-grade variant [\*flakk/gōn-](#flakkon) seems to have been the source of the no doubt related E _flake_. \
+REF: [EDPG]\: 149
+
+### <a id="flukkon">\*flukk/gōn- [wk.] "to fly, flutter" (v)</a>
+W: \
+-- MDu. _vlogen_ "to fly" \
+-- G _flocken_ "to fly around, flutter" \
+The iterative to [\*fleugan-](#fleugan) (q.v.). See also [\*flakk/gōn-](#flakkon). \
+REF: [EDPG]\: 149
+
+### <a id="fluta">\*fluta- [n.] "floating" (n)</a>
+N: \
+-- ON _flot_ "floating; grease" \
+W: \
+-- OE _flot_ "sailable body of water, sea" \
+-- Du. _vlot_ "raft" \
+A regular zero-grade neuter formation to the strong verb [\*fleutan-](#fleutan). \
+REF: [EDPG]\: 149
+
+### <a id="flutton">\*flut(t)ōn- [wk.] "to float, stream" (v)</a>
+N: \
+-- ON _flota_ \
+W: \
+-- OE _flotian_ \
+-- MDu. _vlot(t)en_ \
+PIE: \*plud-néh₂-(?) \
+The iterative to [\*fleutan-](#fleutan). Also cf. the frequentative OE _floterian_ [wk.] "to be tossed on the waves". \
+REF: [EDPG]\: 149
+
+### <a id="fn">\*fneusan- ~ \*fnūsan- [st.] "to sneeze" (v)</a>
+N: \
+-- ON _hnjósa_ \
+-- Far. _njósa_ \
+-- Nw. _njosa_, _nysa_ \
+W: \
+-- OE _fnēosan_, ME _fnēsen_, _snēsen_, E _to sneeze_ \
+-- MDu. _niesen_, _fniesen_, Du. _niezen_, obs. _fniezen_ [wk.] \
+-- MHG _pfnūsen_ "to snort, sneeze" \
+PIE: \*pnéus-e- \
+COGN: Gr. _πνέω_ "to blow, cough, breathe" < \*pnéu-e- \
+Seebold 1970: 269 reconstructs PGmc. \*hneusan- on the basis of the Nordic forms, thus isolating them from WGm. \*fneusan-, but it seems more likely that the sequence \*fn- merged with \*hn- (also cf. MDu. _niesen_). This is confirmed by Far. _fros_ [n.] "sneezing", a (dissimilated) variant of _nos_ [n.] "id." < ON \*hnos < \*hnusa-. As a result, there seem to be no objections against reconstructing the root as \*fneus-, which appears to be related to PIE \*pneu- "to breathe" (with the s-extension pointing to an aoristic root, cf. Gr. _ἔπνευσε_ "breathed, blew"). Ultimately, the root is likely to be onomatopoetic, cf. OHG _fnehan_ [st.] "to snort, breathe heavily" < \*fnehan-. See also [\*fnuz(z)ōn-](#fnuzzon). \
+REF: [EDPG]\: 149
+
+### <a id="fnuzzon">\*fnuz(z)ōn- [wk.] "to sneeze" (v)</a>
+N: \
+-- Icel. _hnerra_ \
+W: \
+-- MHG _pfnurren_ "to swell; to snort; to grumble" \
+PIE: \*pnus-neh₂- \
+Possibly the iterative to [\*fneusan- ~ \*fnūsan-](#fneusan) (q.v.). Also cf. ON _hnøri_, _hneri_, Icel. _hnerri_, OE _fnora_ [m.] "sneezing" < \*fnuz(z)an-. Some derive Icel. _hnerra_, obs. _hnōr(r)a_ from the noun (Magnusson 1989: 347), however. \
+REF: [EDPG]\: 150
+
+### <a id="fodjan">\*fōdjan- [wk.] "to feed; to rear" (v)</a>
+E: \
+-- Go. _fodjan_ \
+N: \
+-- ON _fœða_ \
+W: \
+-- OE _fēdan_, E _to feed_ \
+-- OFri. _fēda_ \
+-- OS _fōdian_ \
+-- Du. _voeden_ \
+-- OHG _fuottan_, MHG _vüeten_ \
+PIE: \*poh₂t-éie- \
+COGN: Gr. _πατέομαι_ "to eat" < \*ph₂t-eie-, Gr. _ἄπαστος_ "without food" < \*n-ph₂t-to- \
+A causative probably created to the marginally attested root \*peh₂t-, possibly an extension of \*peh₂- "to protect; to graze", cf. Lat. _pāscō_, -_ere_ "to graze" < \*peh₂-ske-. It is less attractive to explain the dental of the Germanic verb as resulting from back-formation from [\*fōdra- "fodder"](#fodra), not least in view of [\*fadō(ja)n-](#fadojan). \
+REF: [EDPG]\: 150
+
+### <a id="fodra">\*fodra- [n.] "fodder" (n)</a>
+E: \
+-- Go. _fodr_ "scabbard, sheath, casing" \
+N: \
+-- ON _fóðr_ "fodder, foddering" \
+W: \
+-- OE _fōdor_ "f�dder; sheath", E _fodder_ \
+-- MLG _vōder_ "fodder; casing" \
+-- MDu. _voeder_ "lining, cover; fodder", Du. _voer_, _voeder_ \
+-- OHG _fuotar_, MHG _vuoter_, G _Futter_ \
+PIE: \*peh₂-dʰro- \
+COGN: Lat. _pābulum_ [n.] "fodder" < \*peh₂-dʰlo- \
+A merger of two instrumental nouns. In the meaning "fodder", it is related to [\*fōdjan- "to feed"](#fodjan). The attestations meaning "sheath" or "casing", on the other hand, were derived from the PIE root \*peh₂-, i.e. "to protect", cf. ToA _pās_-, ToB _pāsk_- "to guard". \
+REF: [EDPG]\: 150
+
+### <a id="fogjan">\*fōgjan- [wk.] "to join together" (v)</a>
+W: \
+-- OE _fēgan_, E _to fay_ \
+-- OS _fōgian_ \
+-- Du. _voegen_ \
+-- OHG _fuogan_, G _fügen_ \
+PIE: \*poh₂ḱ-éie \
+COGN: Hitt. _pāski_ ~ _pāskanzi_ "to stick in, to fasten, to plant; to set up; to impale" < \*peh₂ḱ-ske-, YAv. _paiti.auua.pasāṯ_ 3sg.subj. "to chain together" < \*peh₂ḱ- (cf. Skt. _pā́śa_- [m.] "snare, bond, chain, noose", Av. _fšə̄bis_ lat.pl. "with fetters" < \*p(e)h₂ḱ-, Gr. _πήσσω_, Att. _πήττω_ "to fix" < \*peh₂k-ie- (with secondary g: _πήγνυμι_ "to fix; to congeal"), Lat. _pangō_, -_ere_ "to attach, fasten" < \*ph₂k-neh₂- (with \*-kn- > \*-ng- according to Thurneysen's law) \
+A causative verb to a further unattested strong verb \*fahan-, whence MHG _vuoge_ [f.] "joint", G _Fuge_, MLG _vōge_, MDu. _voege_ [f.], Du. _voeg_ [c.] "joint" < \*fōgō-. See also [\*fagra-](#fagra). \
+REF: [EDPG]\: 150
+
+### <a id="foljan">\*fōljan- [wk.] "to feel" (v)</a>
+W: \
+-- OE _fēlan_, E _to feel_ \
+-- OFri. _fēla_ \
+-- OS _gi-fōlian_ \
+-- Du. _voelen_ \
+-- G _fühlen_ \
+An etymologically obscure word. Within Germanic, the appurtenance of ON _falma_ "to grope" and [\*fulmō- "palm of the hand"](#fulmo) (q.v.) is uncertain. Not convincing either are the connections with OCS _palьcь_, Ru. _pálec_ "finger" and Lat _palpō_, -_āre_ "to stroke, soothe". \
+REF: [EDPG]\: 150
+
+### <a id="fora">\*fōra- [m.] "piglet" (n)</a>
+W: \
+-- OE _fōr_ "pig, hog" \
+-- OS _fōr_ [n.] "immature pig", MLG _vōr_ "skinny piglet" \
+PIE: \*pōr-o- \
+COGN: Gr. _πόρις_, -_ιος_ [f.] "calf, heifer" < \*por-i- \
+A word apparently continuing Pre-Gm. \*por-o-, an o-stem derived from the root \*per- "to give birth", for which see [\*farza(n)-](#farzan). \
+REF: [EDPG]\: 151
+
+### <a id="for">\*fōr ~ \*fun- [n.] "fire" (n)</a>
+E: \
+-- Go. _for_, gen. _funins_ \
+N: \
+-- ON _fýrr_, _fúrr_ [m.] _funi_ [m.] "flame" \
+-- Far. _fýrur_ [m.] "fire; lighthouse", _funi_ [m.] "dense smoke" \
+W: \
+-- OE _fȳr_, E _fire_ \
+-- OFri. _fiūr_, _fiōr_, WFri. _fjoer_ \
+-- OS _fiur_ \
+-- ODu. _fuir_, Du. _vuur_ \
+-- OHG _fiur_, _fuir_, G _Feuer_ \
+PIE: \*péh₂-ur, \*ph₂-uén-s \
+COGN: Hitt. _pahhur_, gen. _pahhuenas_ [n.] "fire", Gr. _πῦρ_ [n.] "id.", Arm. _hur_ "id.", OPru. _panno_ "id." \
+An old heteroclitic formation, probably to be reconstructed as Pre-Germanic \*péh₂-ur (hardly \*ph₂-uōr as per Simms 2009, as this would become \*fawōr), gen. \*ph₂-un-ós, loc. \*ph₂-uén-i. The heteroclisy was preserved by Proto-Germanic, which appears to have had a paradigm \*fōr (with \*-ōu- > \*-ō-), gen. \*funins (for older \*funaz < \*punós with Dybo's law), dat. \*fu(w)eni. The different languages leveled out the r/n-alternations. Gothic, for instance, incorporated the word into the neuter n-stems, while West Germanic generalized the forms with r. The attestations with front mutation, e.g. ON _fýrr_, OE _fȳr_, OHG _fuir_, _fiur_, are based on a dative form \*fu(w)eri. For similar cases of umlaut in PIE heteroclitic nouns, see [\*eudra- ~ \*ūdra- "udder"](#eudra), [\*librō- "liver"](#libro) and [\*neura/ōn- "kidney"](#neuran). OE _fior_ and OFri. _fiūr_, WFri. _fjoer_, apparently from \*feuri, continue the same case form, though with metathesis. \
+REF: [EDPG]\: 151
+
+### <a id="fori">\*fōri- "passable; able to go" (adj)</a>
+N: \
+-- ON _fœrr_ "able to go; capable of being passed, safe" \
+W: \
+-- OE _fēre_ "passable; able to go" \
+-- OHG _gi-fuori_ "fit, convenient" \
+A _vr̥ddhi_-gerundive to [\*faran-](#faran) (q.v.). The difference in meaning between "able to go" and "passable" depends on the diathetic role, i.e. passive or active. \
+REF: [EDPG]\: 151
+
+### <a id="forjan">\*forjan- [wk.] "to lead" (v)</a>
+N: \
+-- ON _fœra_ \
+W: \
+-- OE _fēran_ "to go" \
+-- OFri. _fēra_ "id." \
+-- OS _fōrian_ "id." \
+-- Du. _voeren_ "id." \
+-- OHG _fuorran_, _fuoren_ "id.", G _führen_ "id." \
+The causative to [\*faran-](#faran) (q.v.). The vowel \*ō is secondary, and in synchronic Germanic functions as the o-grade of \*a. It is not to be equated with the _ā_ of Skt. _pāráyati_ "to take across", which continues \*por-éie- by Brugmann's law. \
+REF: [EDPG]\: 151
+
+### <a id="fot">\*fōt- [m.] "foot" (n)</a>
+E: \
+-- Go. _fotus_ \
+N: \
+-- ON _fótr_, pl. _fœtr_ "foot; leg" \
+-- Far. _fótur_, pl. _føtur_ \
+-- Elfd. _fuot_ "foot; leg" \
+W: \
+-- OE _fōt_, pl. _fēt_ E _foot_ \
+-- OFri. _fōt_ \
+-- OS _fōt_ \
+-- Du. _voet_ [c.] \
+-- OHG _fuoz_, G _Fuß_ \
+PIE: \*pod- \
+COGN: Hitt _pāt_- ~ _pat_- [c.] "foot", Skt. _pā́t_, _pad_- [m.] "id.", YAv. _pad_- [m.] "id.", OP _pāda_- "id.", Arm. _otn_ "id.", Gr. Dor. _πώς_, Ion.-Att _πούς_, _ποδός_ [m.] "id." < \*pō̆d-, Lat. _pēs_, _pedis_ [m.] "id.", OIr. _ed_ "space, interval" < \*ped- \
+The IE word for "foot", a static root noun nom. \*pōd-s, gen. \*ped-s, \*pód-m. Germanic generalized the lengthened grade of the root. See also [\*fetan-](#fetan) and [\*futōn-](#futon). \
+REF: [EDPG]\: 152
+
+### <a id="fothra">\*fōþra- [n.] "load; vessel; fodder" (n)</a>
+W: \
+-- OE _fōðor_ "cartload; fodder" \
+-- MLG _vōder_ "cartload" \
+-- MDu. _voeder_ "wine vat; lead weight" \
+-- OHG _fuodar_ "fodder; cartload", MHG _vuoder_ "id.", G _Fuder_ [m.] "cartload" \
+PIE: \*péh₂/₃-tro- \
+COGN: Skt. _pā́tra_- [n.] "vessel. pot" \
+Given the pan-WGm. meaning "load" or "weight", it seems likely that the word continues \*fōrþra-, i.e. an instrumental noun to \*fōrjan-, by dissimilation of the first r. The outcome may have merged with two other instrumental nouns, viz. 1) \*fōþra- from PIE \*péh₃-tro- "drinking cup, vessel", and 2) [\*fōdra- "fodder"](#fodra) (q.v.) < quasi-PIE \*péh₂(t)-tro-. \
+REF: [EDPG]\: 152
+
+### <a id="fraisan">\*fraisan- [st.] "to tempt" (v)</a>
+E: \
+-- Go. _fraisan_ \
+W: \
+-- OE _frāsian_ [wk.] "to ask, inquire, tempt" \
+PIE: \*próis-e- \
+A strong verb attested only in Gothic. It gave rise to OFri. _frēs_, OS _frēsa_, OHG _freisa_ [f.] "danger; scare" < \*fraisō-, whence OE _frāsian_ "to try", OS _frēson_ "to try, risk", Du. _vrezen_ "to fear", MHG _vreisen_ "to endanger" < \*fraisōjan- and ON _freista_ [wk.] "to tempt" < \*fraistōjan-, which implies a noun \*fraistō- < \*prois-teh₂-. An archaic formation is Go. _fraistubni_ [f.] "temptation" < \*proist-mn-ieh₂-. Etymology unclear. From \*pro-h₂is- "to ask forth" (Hoffmann 1903: 38)? Cf. \*aisko-. \
+REF: [EDPG]\: 152
+
+### <a id="fraiwa">\*fraiwa- [n.] "seed" (n)</a>
+E: \
+-- Go. _fraiw_ \
+N: \
+-- ON _fræ_, _frjó_ \
+-- Elfd. _frie_ \
+A word with a debated etymology. The connection with Lat. _praegnans_ (implying PGmc. \*fraigwa-) is implausible on many different levels (_pace_ Wiedemann 1904: 43-44), and the same is true for the alleged links with PIE \*sper- "to sow" and Lat. _parere_ "to bring forth" (Bugge 1899: 457) < \*pr(H)-ie-. Within Germanic, the attestation of ON _frjár_, _frjór_, _frær_, Icel. _frjór_ "fertile; prolific" < \*fraiwa- clearly seems to point to a stem \*frai(w)- meaning "fecund". Both in form and meaning, this element is reminiscent of _Freyr_ "fertility deity" < \*frauja-. We may therefore consider the possibility that \*fraiwa- was metathesized from \*frawja-, a collective of some kind. The word is then likely to be related to ON _frygð_ [f.] "blossoming, excellence" < \*fruwwiþō-. For a similar metathesis, cf. [\*hraiwa- "flesh"](#hraiwa) < \*krou-io-. \
+REF: [EDPG]\: 152
+
+### <a id="fraton">\*fratōn- [wk.] "to fart" (v)</a>
+N: \
+-- ON _frata_ \
+-- Far. _frata_ \
+-- Elfd. _fråtå_ \
+W: \
+-- MHG _varzen_, G _farzen_ \
+PIE: \*pord-néh₂- \
+An o-grade iterative to the strongverb [\*fertan- ~ \*fretan-](#fertan) (q.v.). \
+REF: [EDPG]\: 153
+
+### <a id="frathjan">\*fraþjan- [st.] "to understand" (v)</a>
+E: \
+-- Go. _fraþjan_ \
+PIE: \*prót-ie- \
+COGN: Lith. _pràsti_ (_prantù_) "to become accustomed to, dial. to apprehend", _su-pràsti_ "to understand" < \*pro-n-t- \
+A strong jan-verb with close cognates in Baltic. Also cf. Go. _fraþi_ [n.] "mind" < \*fraþja-, OHG _frad_ "nimble, quick; vigorous, strenuous" < \*fraþa- and [\*frōda- "wise"](#froda) (q.v.). The appurtenance of OHG _ant-frist_ "translation" < \*-fresti-(?) is uncertain (see Liberman 2008: 21 1). \
+REF: [EDPG]\: 153
+
+### <a id="fraujan">\*frauja(n)- [m.] "lord" (n)</a>
+E: \
+-- Go. _frauja_ \
+W: \
+-- OE _frēa_ \
+-- OS _frō_, _frōio_ \
+-- MDu. _vroon_, _vrone_ "lord" (with _n_ generalized from the oblique cases) \
+-- OHG _frō_, MHG _vrō_ \
+Unclear etymology. The assumed etymological link with Skt _pū́rva_- "front, first", YAv. _pauruua_-, _paouruua_-, _pouruua_- "being in front, first, former", OCS. _prъvъ_ "first" < \*prH-uo- is problematic, since the full-grade form \*proHu-io- would yield PGmc. \*\*frōjan- (with \*-ōu- giving \*-ō-) rather than \*fraujan-. \
+REF: [EDPG]\: 153
+
+### <a id="frawa">\*frawa- "quick, light" (adj)</a>
+N: \
+-- ON _frár_, _frór_ "swift, lightfooted" \
+-- Icel. _frár_ "id." \
+-- Far. _fróur_ "cheerful, gay, happy" \
+W: \
+-- OS _frā_, _frō_ "happy" \
+-- OHG _frao_, _frō_ "id.", G _froh_ "id." \
+PIE: \*prou-o- \
+COGN: Skt. _právati_ "to jump" < \*preu-e- \
+Also cf. OHG _frawida_, _frewida_, G _Freude_ [f.] "joy" < \*frawiþō- and probably also the ablauting Du. _vreugd(e)_ [c.] "id." < \*fruwiþō- (with \*-uwi- > \*-ugi-). \
+REF: [EDPG]\: 153
+
+### <a id="fregi">\*frēgi- "renowned" (adj)</a>
+N: \
+-- ON _frægr_ "famous" \
+W: \
+-- OE _ge-frǣge_ "renowned, celebrated" \
+-- OS _gi-frāgi_ "known, famous" \
+A _vr̥ddhi_-gerundive to [\*frehnan-](#frehnan) (q.v.). The original meaning was "being rumored". \
+REF: [EDPG]\: 153
+
+### <a id="frego">\*frēgō- [f.] "question" (n)</a>
+W: \
+-- Du. _vraag_ [c.] \
+-- OHG _frāga_ "question, investigation, doctrine", G _Frage_ "question" \
+COGN: OAv. _f(ə)rasā-_ "question", Lat _prex_ "prayer, supplication", W _rheg_ "gift; curse" < \*preK(-eh₂)- \
+An 6-stem derived from the preterite root of the strong verb [\*frehnan-](#frehnan): there is no direct link between the lengthened grade of \*frēgō- and the one found in the root noun Skt. _prā́ś-_ [f.] "dispute, questioning, statement or assertion in a debate or lawsuit". The ō-stem served as the basis for OHG _frāgēn_ ~ _frāgōn_, G _fragen_, OS _frāgon_, OFri. _fregia_ "to ask" < \*frēgōjan-. Related to [\*furskō-](#fursko) (q.v.). \
+REF: [EDPG]\: 153
+
+### <a id="frehnan">\*frehnan- [st.] "to announce, rumor" (v)</a>
+E: \
+-- Go. _fraihnan_ "to ask a question" \
+N: \
+-- ON _fregna_ "to hear of, be informed of; to ask" \
+W: \
+-- OE _frignan_ "to ask, inquire", _gi-frignan_ "to find out, hear about, learn something through asking" \
+-- OS _fregnan_ "to ask", _gi-fregnan_ "to hear tell of, learn about" \
+PIE: \*preḱ-ne- \
+COGN: Skt. _praśná_- [m.] "question" < \*pre/oḱ-no-, Lith. _pir̃šti_ (_peršù_) "to propose (a marriage); to offer", Lith. _prašýti_ "to ask, demand", OCS _prositi_, Ru. _prosít'_ (_prošú_) "to ask", SCr. _pròsiti_ "to beg, ask for a girl's hand" < \*proḱ-eie- \
+A strong verb with a nasal suffix that originally only occurred in the present, cf. Go. _fraihnan_, pret. _frah_ ~ _frehum_ and ON _fregna_, pret _frá_ ~ _frágum_. In Old Saxon and Old English, the verb generalized the nasal, and switched to the third class: OS _(gi-)fregna_, pret. _fragn_, _frugnun_ and OE _(ge-)frignan_, _(ge-)fringan_, pret. _frægn_, _frægn_ ~ _frugnon_, _frungon_. Originally, \*frehnan- simply meant "to ask", while the meaning "to learn" of the perfective variant \*ga-frehnan- seems to have developed out of "to have inquired". Related to [\*frēgō-](#frego) and [\*furskō-](#fursko). \
+REF: [EDPG]\: 154
+
+### <a id="freka">\*freka- "avaricious" (adj)</a>
+E: \
+-- Go. _faihu-friks_ \
+N: \
+-- ON _frekr_ "greedy; harsh; rigorous" \
+-- Far. _frekur_ "avid, covetous; severe; vigorous; audacious" \
+-- Elfd. _frek_ "friendly, nice" \
+W: \
+-- OE _frec_ "eager, greedy, bold" \
+-- MDu. _vrec_ "greedy", Du. _vrek_ [c.] "avaricious person" \
+-- OHG _freh_ "eager, avid", MHG _vrech_ "brave" \
+PIE: \*preg-o- \
+COGN: Pol. _pragnąć_ "to yearn for", Cz. _prahnouti_ "to covet" < \*prog-ne-, Slov. _prážiti_ "to stew" < \*prog-eie-, W _rhewydd_ "lascivious" < \*preg-io-, OBret. _rogedou_ pl. "orgies" (Lane 1933: 258) \
+An adjective to a European root \*preg- "to desire". Ablauting with OE _fræc_, MDu. _vrac_ "avaricious" < \*fraka- < \*prog-o-. \
+REF: [EDPG]\: 154
+
+### <a id="freknon">\*freknōn- [f.] "freckle" (n)</a>
+N: \
+-- Icel. _frekna_ \
+-- Far. _frøkna_ \
+-- Nw. _frekne_, _frokne_ \
+-- Sw. _fräkne_, Da. _fregne_ \
+W: \
+-- E _freckle_ \
+COGN: Close to Pol. _pręgaty_ "striped" < \*prng-eh₂- \
+Most of the Nordic forms can be derived from ON \*frekna (whence ME _frekne_, E obs. _frecken_ as well as _freckle_), but Far. _frøkna_ and Nw. _frokne_ seem to continue a paradigm \*_frakna_, obl. \*_frǫknu_. It seems that the original plural \*_freknur_ was reanalyzed as a root noun form continuuing ON \*_freknr_ < \*_frøknr_ after the vocalization of -_r_ to -_ur_. This then triggered the back-formation of a singular \*_frakna_ and an oblique \*_frǫknu_ in Faroese and Norwegian. \
+REF: [EDPG]\: 154
+
+### <a id="freusan">\*freusan- [st.] "to freeze" (v)</a>
+N: \
+-- ON _frjósa_ \
+-- Elfd. _friuosa_ \
+W: \
+-- OE _frēosan_, E _to freeze_ \
+-- MLG _vrēsen_ \
+-- MDu. _vriesen_, Du. _vriezen_ \
+-- OHG _friosan_, G _frieren_ \
+PIE: \*préus-e- \
+COGN: W _rhew_ [m.] "frost, rime" < \*preuso-; ?Lat _pruīna_ [f.] "frost" (< \*prurwīna < \*prus-u-iH-neh₂, Hamp 1973a?) \
+An old strong verb. The Verner alternation \*freusan-, ptc. \*fruzana- was resolved in most modern Germanic languages, cf. E _to freeze_ ~ _frozen_ vs. G _frieren_ ~ _ge-froren_, but retained in Du. _vriezen_ ~ _ge-vroren_ and Icel. _frjósa_ ~ _freðinn_ (< ON _frørinn_, _frerinn_ with dissimilation of the second r, cf. ON _frør_, _frer_, Icel. _freð_- [n.] "frost"). The original past participle \*prus-to- was preserved as [\*frusta-](#frusta) (q.v.). Further cf. Go. _frius_\* [n.(?)] "frost" < \*freusa-. \
+REF: [EDPG]\: 154
+
+### <a id="freuthan">\*freuþan- [st.] "to froth" (v)</a>
+W: \
+-- OE _ā-frēoðan_ \
+PIE: \*préutH-e- \
+COGN: Skt _próthati_ "to snort (of horses)" < \*préutH-e-, Av. _fra68ataspa_- "with snorting horses" \
+A marginally attested strong verb, the source of some nominal formations in Nordic, i.e. ON, Icel. _frauð_ [n.] "froth", Far. _froyður_ [m.] "id." < \*fraudi/a- < \*proutH- and ON, Far. _froða_, Nw. _frode_ [f.], Da. _fråde_ [c.] "id." < \*fruþōn-. The root \*preutH- may be an extension of PIE \*pru-, cf. Skt. _vi-pru_- "to spray in all directions" < \*pru-. Another extension to the same root may be \*prus-: Skt _pruṣṇóti_, OCS _prysnǫti_ "to sprinkle" (with secondary \*y) < \*prus-ne- and Icel. _freyr_ [m.] "froth" < \*frauza-. A primitive meaning "to blow" is implied by Nw. dial. _froe_ [f.] (= _frode_) "gust of wind". \
+REF: [EDPG]\: 155
+
+### <a id="frija">\*fri(j)a- "free" (adj)</a>
+E: \
+-- Go. _freis_ \
+W: \
+-- OE _frēo_, _frī_, E _free_ \
+-- OFri. _frī_ \
+-- OS _frī_ \
+-- Du. _vrij_ \
+-- OHG _frī_, G _frei_ \
+PIE: \*priH-o- \
+COGN: Skt. _priyá_- "dear" < \*priH-o- \
+Also cf. Go. _frei-hals_, ON _frjáls_, OE _frēols_ "free" < \*fri(j)a-halsa- and the nominalized OHG, OFri. _fri-hals_ [m.] "freedom". The meaning "free" arose from "related", a shift that points to a clan-based societal system. Cognate with [\*fri(j)ōn-](#frijon) (q.v.). \
+REF: [EDPG]\: 155
+
+### <a id="frijon">\*fri(j)ōn- [wk.] "to love" (v)</a>
+E: \
+-- Go. _frijon_ "to love, like" \
+N: \
+-- ON _frjá_ \
+-- Far. _fríggja_ "to propose, court" \
+W: \
+-- OE _frēogan_, _frīgan_ "to love, marry" \
+-- OS _frion_ "id." \
+-- Du. _vrijen_ [st.] "to make love" \
+PIE: \*priH-eh₂- \
+COGN: Close to OCS _prijati_ "to take care of", SCr. _prìjati_ "to please, agree with" < \*priH-eh₂-; further cf. Skt _prīyate_ "to be pleased" < \*priH-ie- \
+An old PIE verbal formation. See also [\*fri(j)a-](#frija) and [\*fri(j)ōnd-](#frijond). \
+REF: [EDPG]\: 155
+
+### <a id="frijond">\*fri(j)ond- [m.] "friend" (n)</a>
+E: \
+-- Go. _frijonds_ \
+N: \
+-- ON _frændi_ "friend; relative" \
+-- Far. _frændi_ "relative" \
+W: \
+-- OE _frēond_ "friend, loved one, relative", E _friend_ \
+-- 0Fri. _friūnd_, _friōnd_ "id." \
+-- ODu. _friunt_ "id.", Du. _vriend_ [c.] "id." \
+-- OHG _friunt_ "friend, loved one", G _Freund_ "friend" \
+The lexicalized participle of the verb [\*fri(j)ōn-](#frijon) (q.v.). \
+REF: [EDPG]\: 155
+
+### <a id="frithu">\*friþu- [m.] "friendship, peace" (n)</a>
+N: \
+-- ON _friðr_ "peace; security; friendship" \
+-- Far. _friður_ "peace; tranquility" \
+-- Elfd. _frið_ "id." \
+W: \
+-- OE _freoðo_ "id." \
+-- OFri. _fretho_ "id." \
+-- OS _frithu_, _frethu_ "peace; security" \
+-- Du. _vrede_ [c.] "peace" \
+-- OHG _fridu_ "peace; protection, security", G _Friede_ "peace" \
+A tu-stem derived from \*fri(j)a- < \*priH-o-: the short Gm. \*i cannot have regularly developed from the form \*priH-tu-, so it must be assumed that the tu-stem was derived at a relatively late stage, i.e. after the merger of \*-īa- and \*-ija-, or - if Dybo's law applied, at a stage when the pretonic shortening of \*prī(y)ó- to \*pri(y)o- had already taken place. \
+REF: [EDPG]\: 156
+
+### <a id="froda">\*frōda- "wise, experienced" (adj)</a>
+E: \
+-- Go. _froþs_ \
+N: \
+-- ON _fróðr_ \
+W: \
+-- OE _frōd_ \
+-- OFri. _frōd_ \
+-- OS _frōd_ \
+-- OHG _fruot_, MHG _vruot_ \
+COGN: Close to Lith. _prōtas_ [m.] "sense", Latv. _pràts_ [m.] "mind; will" (with secondary PBalt. \*ā̃) \
+An o-grade adjective related to [\*fraþjan-](#frathjan) (q.v.). Also cf. Go. _frodei_, ON _frœði_, OHG _fruoti_, MHG _vruote_ [f.] "wisdom, sense". \
+REF: [EDPG]\: 156
+
+### <a id="froi">\*frōi "early" (adv)</a>
+W: \
+-- MLG _vrō_ \
+-- MDu. _vroech_, Du. _vroeg_ \
+-- OHG _fruo_, MHG _vruo_, G _fruh_ \
+PIE: \*próH-i \
+A petrified locative identical to Gr. _πρωί_, _πρῴ_ "early in the morning" (adv) (for which cf. Skt. _prātár_ "early in the morning" (adv) < \*proH-ter). The adverb gave rise to the \*frōja-, cf. OHG _fruoji_, G _frūhe_, which is formally identical to Gr. _πρώιος_. \
+REF: [EDPG]\: 156
+
+### <a id="frugan">\*frug/kkan- [m.] "frog" (n)</a>
+W: \
+-- OE _frogga_, ME _frogge_, _frock_, _froke_, E _frog_ \
+PIE: \*pruk-én- \
+The formal variation within ME, i.e. _frogge_ < \*fruggan-, _frock_ < \*frukka- and _froke_ < \*frukan- points to an old n-stem \*frugō, gen. \*frukkaz < \*prúgʰ-ōn, \*prugʰ-n-ós or perhaps rather \*pruk-ḗn. \*pruk-n-ós. The original paradigm was split up into 1) \*frugō, \*fruggaz on the one hand, and 2) \*frukō, \*frukkaz on the other. ON _frauki_ [m.] "frog" may be related, too, if it continues an ablauting form \*fraukan- from Pre-Gm. \*fraukkan-. The word has alternatively been derived from \*frauðkan- (\*-kan- is a diminutive suffix), but the alleged derivational base, i.e. ON _frauðr_, Icel. _frauður_, Nw. _frau(d)_, OSw. _frødher_, Da. _frø_ "frog" probably developed from \*fraugr (with -g- > \*-ð- in labial environment as in _fjǫgur_ [n.] "4" < \*fjǫdur < \*fedurō). ME _frūd_, E obs. _froud_ "id." is therefore likely to have been adopted from Old Norse. \
+No certain etymology: the usual comparison with Ru. _prýgat'_, _prýgnut'_ "to leap" is highly doubtful, as the accent implies a root \*pruHgʰ- or \*prug- rather than \*prugʰ-. This leaves the intra-Germanic connection with [\*fruska-](#fruska) (q.v.). \
+REF: [EDPG]\: 156
+
+### <a id="fruman">\*fruman- "former, first" (num)</a>
+E: \
+-- Go. _fruma_ \
+N: \
+-- ON _frum_- "first, oldest" (pref) \
+W: \
+-- OE _forma_, E _former_ \
+-- OFri. _forma_ \
+-- OS _formo_ \
+PIE: \*prH-mH-on- \
+COGN: OPru. _pirmas_, Lith. _pìrmas_ "first" (num) < \*prH-mHo-, Gr. _πράμος_ [m.] "foremost" < \*pr-mH-o- \
+It is likely that the numeral contains the comparative suffix PGmc. \*-uman- < \*-mH-on-, but the expected outcome of a proto-form \*pr-mH-on- would be \*\*furman-. Possibly, this form was remodeled into \*fruman- on the basis of other ordinals ending in \*-uman-. A similar remodeling took place in Latin, where _prīmus_ replaced expected \*purmus < \*pr-mH-o- or \*prāmus < \*prh₂-mH-o- due to the productivity of the suffix \*-īmus (cf. _optīmus_). \
+REF: [EDPG]\: 157
+
+### <a id="fruska">\*fruska- [m.] "frog" (n)</a>
+N: \
+-- ON _froskr_ \
+W: \
+-- OE _forsc_, _frox_ \
+-- OHG _frosc_, G _Frosch_ \
+A formation that in all probability continues older \*frug-ska- with the same root element as in [\*frug/kkan- "frog"](#frugan). The derivation from \*frauda- "froth" (see [\*freuþan-](#freuthan)) was inspired by ON _frauðr_ "frog", but this form is likely to have developed from \*_fraugr_ in view of ON _frauki_ "id." < \*frauk(k)an-. \
+REF: [EDPG]\: 157
+
+### <a id="frusta">\*frusta- [m./n.] "frost" (n)</a>
+N: \
+-- ON _frost_ [n.] \
+W: \
+-- OE _forst_ [m.], E _frost_ \
+-- OFri. _forst_ [m.] \
+-- OS _frost_ [m.] \
+-- Du. _vorst_ [c.] \
+-- OHG _frost_ [m.], G _Frost_ [m.] \
+PIE: \*prus-to- \
+Derived from [\*freusan-](#freusan) (q.v.). \
+REF: [EDPG]\: 157
+
+### <a id="fuan">\*fūan- [m.] "mold" (n)</a>
+N: \
+-- ON _fúi_ "rottenness" \
+-- Far. _fúgvi_ "id." \
+PIE: \*puH-on- \
+An n-stem to the PIE root \*puH-, for which see [\*faujan-](#faujan-1). \
+REF: [EDPG]\: 157
+
+### <a id="fugla">\*fugla- [m.] "bird" (n)</a>
+E: \
+-- Go. _fugls_ \
+N: \
+-- ON _fogl_, _fugl_ \
+-- Far. _fuglur_ \
+-- Elfd. _fugel_ \
+W: \
+-- OE _fugol_, E _fowl_ \
+-- OFri. _fugel_ \
+-- OS _fugal_ \
+-- Du. _vogel_ [c.] \
+-- OHG _fogal_, _fugal_, G _Vogel_ \
+PIE: \*pluk-ló- \
+Some connect Lith. _paũkštis_ "bird" < \*pouk-sti- (e.g. Magnusson 1989: 214), but the form \*fugla- is more likely to have developed from \*flug-la- (by dissimilation), and may thus have been derived from [\*fleugan- "to fly"](#fleugan) (q.v.). \
+REF: [EDPG]\: 157
+
+### <a id="fuhon">\*fuhōn- [f.] "she-fox" (n)</a>
+E: \
+-- Go. _fauho_ \
+N: \
+-- ON _fóa_, _fúa_ \
+W: \
+-- MLG _vō_ \
+-- OHG _voha_, MHG _vohe_ \
+The feminine to [\*fuhsa- "fox"](#fuhsa) (q.v.). Another formation with the same meaning is represented by ME _fixen(e)_, _vixen_, E _vixen_ (with southern _v_- for _f_), MHG _vühsinne_, G _Füchsin_, but unlike \*fuhōn-, this is a secondary derivation from \*fuhsa-. \
+REF: [EDPG]\: 157
+
+### <a id="fuhsa">\*fuhsa- [m.] "fox" (n)</a>
+N: \
+-- ON _fox_ [n.] "deceit" \
+-- Icel. _fox_ [n.] \
+W: \
+-- OE _fox_, E _fox_ \
+-- WFri. _foks_, EFri. _foaks_ \
+-- MLG _vos(se)_ \
+-- MDu. _vos_, _vosse_ [f.], Du. _vos_ [c.] \
+-- OHG _fuhs_, G _Fuchs_ \
+PIE: \*puk-so- \
+COGN: Skt _púcha_- [m.] "tail, rod" < \*puḱ-sk-o- \
+Since the semantic link between "tail" and "fox" is paralleled by Lith. _uodegà_ "tail" > _uodẽgis_ "fox", it is reasonable to compare Germanic \*fuhsa- to Skt. _púcha_-. This provides the word with an Indo-European background. Note that the Nordic word for "fox", ON _refr_, Icel. _refur_, Far. _revur_, Nw. _rev_, Sw. _räv_, Da. _ræv_ (also cf. Fi. _repo_), was borrowed from Iranian, cf. Oss. _ruvas_ / _robas_ (Skt. _lopāśá_-, Av. _raopi_-, Sogd. _ropas_). This is supported by Spa. _raposo_, _raposa_, apparently a loanword from the same Sarmatian or Alanic source (Brøndal 1928: 10). See also [\*fuhōn- "she-fox"](#fuhon). \
+REF: [EDPG]\: 157
+
+### <a id="fukkon">\*fuk(k)ōn- [wk.] "to blow" (v)</a>
+N: \
+-- Icel. _fokka_ "to mess around, rush" \
+W: \
+-- MLG _vucken_ "to rush, scud" \
+-- MDu. _vocken_ "to blow" \
+-- MHG _fochen_ "to blow" \
+PIE: \*pug-néh₂- \
+COGN: Either to Latv. _pūga_ [f.] "gust of wind" < \*pug-eh₂- or to Arm. _p'uk(')_ "breath, wind, fart" < \*pug-o- (with sound symbolic aspiration?) \
+The different dialects with their vacillation between \*fukkōn- and \*fukōn- point to a formation \*pug-neh₂-, which could be related to Latv. _pūga_ and Arm. _p'uk(')_. The sometimes compared Lith. _pūkšti_ (_pūkščiù_) "to cough, snarl", on the other hand, is a loanword from LG _pusten_ "to pant, snarl" (with _klusilspring_ in the sequence -_ū́s_-). See also [\*feukan- ~ \*fūkan-](#feukan). \
+REF: [EDPG]\: 158
+
+### <a id="fula">\*fūla- "filthy, foul" (adj)</a>
+E: \
+-- Go. _fuls_ "foul, putrid" \
+N: \
+-- ON _fúl_ "foul, stinking; mean" \
+W: \
+-- OE _fūl_ "foul, nasty", E _foul_ \
+-- OFri. _fūl_ "foul; vile" \
+-- OS _fulitha_ [f.] "filth", MLG _fūl_ "foul, bad" \
+-- Du. _vuil_ "dirty" \
+-- OHG _fūl_ "rotten, decayed", G _faul_ "putrid; lazy" \
+PIE: \*puH-lo- \
+COGN: Lith. _pū́liai_ [m.pl.] "pus" < \*puH-l-io- and _piaulaĩ_ [m.pl.] "mold" < \*peuH-l-io- \
+A lo-stem derived from a PIE root \*puH-. See also [\*faujan-](#faujan-1). \
+REF: [EDPG]\: 158
+
+### <a id="fulan">\*fulan- [m.] "foal" (n)</a>
+E: \
+-- Go. _fula_ \
+N: \
+-- ON _foli_ \
+-- Elfd. _fuoli_ \
+W: \
+-- OE _fola_, E _fole_ \
+-- MLG _vole_ \
+-- OHG _folo_, G _Fohlen_ \
+PIE: \*plH-on \
+COGN: Gr. _πῶλος_ [m./f.] "foal" < \*pōlH-o-, W _ebawl_ "id." < \*h₁ekʷo-pōlH-o-, Alb. _pelë_ "mare" < \*pōlH-neh₂- \
+Also cf. ON, Far., OSw. _fyl_, Sw. _fōl_, Nw. _føl(l)_, Da. _føl_ [n.] "id." < \*fulja- < \*plH-io-, the WGm. diminutive MDu. _volen_, _vulen_, Du. _veulen_, OHG _vuli_, _vulīn_, MHG _vüle_, _vülīn_, G _Füllen_ [n.] "foal" < \*ful-līn(a)- and the Franconian feminine MHG _vülche_, MDu. _vilke_, Du. dial. _vulke_, _vilke_ [f.] "(young) mare" < \*fulikō(n)-. In IE, the word is sometimes reconstructed with a \*u in the root, viz. \*p(ō̆)ul- (cf. Orel 2000: 14), but this seems to be precluded by W _ebawl_. I therefore reconstruct a root noun \*pṓlH-s, gen. \*plH-ós (Lubotsky 1988: 132). This formation may ultimately have been derived from a verbal root \*pelH- as in Alb. _pjell_ "to give birth" (cf. Huld 1984: 102). \
+REF: [EDPG]\: 158
+
+### <a id="fuldo">\*fuldō- [f.] "earth, ground, field, the world" (n)</a>
+N: \
+-- ON _fold_ \
+-- Far. poet. _fold_ \
+W: \
+-- OE _folde_ \
+-- OS _folda_ \
+PIE: \*plth₂-éh₂- \
+COGN: Cf. Skt. _pr̥thvī́_-, _pr̥thivī́_- "earth, Mother Earth", YAv. _ząm pərəθβīm_, _pərəθβe... zəmō_ "broad earth" < \*plth₂-u-ih₂- \
+The Germanic and Indo-lranian forms continue a feminine form of the "flat". In Indo-European, it presumably occurred with the word for "land" in a sacral context. See also [\*felþa-](#feltha). \
+REF: [EDPG]\: 159
+
+### <a id="fulgen">\*fulgēn- [wk.] "to follow, accompany" (v)</a>
+N: \
+-- ON _fylgja_ \
+-- Far. _fylgja_ \
+-- Elfd. _fya_ \
+W: \
+-- OE _fylgan_, _folgian_, E _to follow_ \
+-- OS _folgon_ \
+-- Du. _volgen_ \
+-- OHG _folgēn_, G _folgen_ \
+PIE: \*plk-(éh₁)-ie- \
+N: \
+-- ON _fylgja_ and OE _fylg(e)an_ continue a formation \*fulgjan- that can be reconciled with OE _fe(o)lan_ [st.] "to proceed, go, reach" < \*felhan- < \*pelk-e-. Extra-Gm. comparanda are unreliable: Bret. _heul_ "to follow" probably continues \*selgʰ- rather than \*pelgʰ- and the connection with CS _plъzati_, Ru. _pólzat'_, SCr. _pȕzati_ "to crawl" must be abandoned in view of the accent pointing to \*plǵ-eh₂- rather than \*plǵʰ-eh₁- \
+REF: [EDPG]\: 159
+
+### <a id="fulla-1">\*fulla- "full" (adj)</a>
+E: \
+-- Go. _fulls_ \
+N: \
+-- ON _fullr_ \
+-- Far. _fullr_ \
+-- Elfd. _full_ \
+W: \
+-- OE _full_, E _full_ \
+-- OS _full_ \
+-- Du. _vol_ \
+-- OHG _fol_, G _voll_ \
+PIE: \*plh₁-nó- \
+COGN: Skt. _pūrṇá_-, Av. _pərəna_-, OIr. _lán_ "id.", Lith. _pìlnas_, OCS _plъnъ_ "filled, full" < \*plh₁-nó- \
+An adjective continuing the original past participle of the verbal root \*pelh₁- "to fill". See also [\*felu- ~ \*fulu-](#felu). \
+REF: [EDPG]\: 159
+
+### <a id="fulla-2">\*fulla- [n.] "cup" (n)</a>
+N: \
+-- ON _full_ "goblet" \
+W: \
+-- OE _full_ "cup" \
+PIE: \*pl-nó- \
+COGN: Gr. _πέλλα_ [f.] "milk pail; drinking bowl, goblet" < \*pel-ih₂- and Gr. _πελλίς_, _πελίς_ "basin" < \*pel-i-s, gen. \*pel-i-ós, OCS _polъ_ "scoop" < \*pol-o- \
+An Indo-European word for a certain vessel. Unrelated to [\*fulla-](#fulla-1). \
+REF: [EDPG]\: 159
+
+### <a id="fulmo">\*fulmō- [f.] "palm of the hand" (n)</a>
+W: \
+-- ME _folm_ \
+-- OS _folmos_ [f.pl.] "both hands" \
+-- OHG _folma_ "palm" \
+PIE: \*plh₂-m-eh₂- \
+COGN: Gr. _παλάμη_ "palm of the hand" (= Lat. _palma_) < \*plh₂-em-eh₂-, OIr. _lám_ "hand" < \*plh₂-m-eh₁- \
+An old m-stem. Within Germanic, it is possible to connect ON _falma_ [wk.] "to grope" < \*falmōjan-, a verb possibly derived from a lost mo-stem \*falmaz < \*polh₂-mo-. \
+REF: [EDPG]\: 159
+
+### <a id="fundon">\*fundōn- [wk.] "to try to find(?)" (v)</a>
+W: \
+-- OE _fundian_ "to try to find, to strive, intend" \
+-- OS _fundon_ "to strive, proceed" \
+PIE: \*pnt-néh₂-(?) \
+The iterative to [\*finþan-](#finthan) (q.v.). PGmc. \*fandōn- can be an o-grade variant of the same iterative. \
+REF: [EDPG]\: 159
+
+### <a id="funhsti">\*funhsti- [f.] "fist" (n)</a>
+W: \
+-- OE _fȳst_, E _fist_ \
+-- MDu. _vuust_, Du. _vuist_ [c.] \
+-- OHG _fūst_, G _Faust_ \
+PIE: \*pnkʷ-sti- \
+COGN: Identical to OCS _pęstь_ [f.] "fist" \
+Probably a derivation from PIE \*pénkʷe "five", for which see [\*fimfe](#fimfe). \
+REF: [EDPG]\: 160
+
+### <a id="funhtu">\*funhtu- "humid, moist" (adj)</a>
+W: \
+-- OE _fūht_ \
+-- OS _fūht_ \
+-- MDu. _vocht(e)_, _vucht(e)_, Du. _vochtig_ \
+-- OHG _fūht_, _fūhti_, G _feucht_ \
+PIE: \*pnk-tu- \
+COGN: Skt _paṅka_- [m.] "mud" < \*pe/onk-o-(?) \
+A u-stem adjective that became remodeled into a ja-stem in the continental WGm. languages. Possibly related to Skt parika- (if this word is of IE origin). The traditional comparison with [\*fanja- "bog"](#fanja) is doubtful: it would imply that both Skt. and Gm. added a k-suffix, which is rather uncertain. \
+REF: [EDPG]\: 160
+
+### <a id="funkon">\*funkōn- [wk.] "to sparkle" (v)</a>
+W: \
+-- MDu. _vonken_ "to smolder; to sparkle" \
+-- MHG _vunken_ "to shimmer, shine, sparkle", _ent-vunken_ "to ignite" \
+PIE: \*pnk-néh₂- \
+The iterative to the strong verb \*finkan- as well as the derivational base for OHG _funko_, G _Funke(n)_, MLG _vunke_, MDu. _vonke_, Du. _vonk_, ME _funke_ "spark" < \*funkan-. The etymon has no extra-Gm. cognates, but it is possible that the meaning "to spark" arose in elliptic use of the verb [\*fanhan- "to catch (fire)"](#fanhan). The received derivation of the n-stem \*funkan- from PIE \*ph₂un- "fire" (for which see [\*fōr ~ \*fun-](#for)) is erroneous (_pace_ Pokorny IEW: 828). \
+REF: [EDPG]\: 160
+
+### <a id="furdu">\*furdu- [m.] "ford" (n)</a>
+W: \
+-- OE _ford_ \
+-- OS _ford_ \
+-- MDu. _vort_, _voorde_ \
+PIE: \*pr-tú- \
+COGN: Av. _pərətu_- [m.] "crossing", MP _puhl_, NP _pul_ "bridge", Lat _portus_ [m.] "entrance, port, refuge", OW _rit_, W _rhyd_ [m.] "ford" < \*pr-tú- \
+Also cf. the full grade ON _fjǫrðr_ [m.] "fjord" < \*ferþu- < \*pér-tu-. \
+REF: [EDPG]\: 160
+
+### <a id="furh">\*furh- [f.] "furrow" (n)</a>
+N: \
+-- ON _for_ \
+W: \
+-- OE _furh_, E _furrow_ \
+-- OFri. _furch_ \
+-- MDu. _vore_, Du. _voor_ [c.] \
+-- OHG _furh_, _furuh_, G _Furche_ \
+PIE: \*pŕk- \
+COGN: Skt. _párśāna_- [m.] "rift" < \*pe/orḱ-ono-, Lat. _porca_ [f.] "ridge between two furrows" < \*p(o)rḱ-eh₂-, MIr. _etarche_, _etrige_, _eitre_ [f.] "id." < \*h₁enter-prḱ-ieh₂-, MW _rhych_ [m./f.] "furrow"? \
+An archaic root noun \*furh-z, dat. \*furh-i (cf. OE _fyrh_). WFri. _furg_ and Du. dial. _furg_ (in the originally Frisian territories) point to a Verner variant OFri. \*furg (cf. Weijnen 1996: 228), which is in agreement with the reconstruction of a root noun \*pórk-s, gen. \*prk-és, dat. \*prk-í. Also cf. the ablauting Nw. dial. _fere_ [m.] "ridge between two furrows" < \*ferhan-. \
+REF: [EDPG]\: 160
+
+### <a id="furhno">\*furhnō- [f.] "trout" (n)</a>
+W: \
+-- OE _forn(e)_ \
+-- OS _forhna_, _furhnia_ \
+-- MDu. _voorne_ "?", Du. _voorn_ [c.] "roach" \
+-- OHG _forhana_, MHG _forhen_, _forhel_ \
+PIE: \*pŕḱ-neh₂- \
+COGN: OIr. _erc_ [m.] "perch, salmon" < \*perḱ-o- \
+An old derivation from the root \*perḱ- "spotted", for which see [\*farwa-](#farwa). Note that the root stress prevented Kluge's law from operating: the outcome of \*prḱ-néh₂- would have been \*furkō-. \
+REF: [EDPG]\: 160
+
+### <a id="furhta">\*furhta- "fearful" (adj)</a>
+E: \
+-- Go. _faurhts_ \
+W: \
+-- OS _for(a)ht_ \
+-- OHG _foraht_ \
+PIE: \*prk-to- \
+COGN: ToAB _präskā_- "to fear" < \*prk-sk- \
+A Tocharian-Germanic isogloss; the proposed connection with Arm. _erkn_, pl. _erkun-k'_ "labor pains, pang; fear" is formally problematic because the form \*pergʷ- as reconstructed by Pedersen 1906: 398-9 would give Arm. \*\*herk-. See further [\*furhtjan-](#furhtjan). \
+REF: [EDPG]\: 161
+
+### <a id="furhtjan">\*furhtjan- [wk.] "to fear" (v)</a>
+E: \
+-- Go. _faurhtjan_ \
+W: \
+-- OE _fyrhtan_, _fryhtan_ "to frighten; tremble with fear", ME _frighten_ "to frighten, become frightened" \
+-- OFri. _fruchta_ "id." \
+-- OHG _furihtan_, G _fürchten_ \
+The formation \*furhtjan- unites two different formations: 1) a simple denominative verb "to fear" created to [\*furhtō-](furhto), and 2) a factitive "to frighten" derived from [\*furhta-](#furhta) (q.v.). \
+REF: [EDPG]\: 161
+
+### <a id="furhto">\*furhtō- [f.] "fright" (n)</a>
+W: \
+-- OFri. _fruchta_ \
+-- OS _forhta_ \
+-- OHG _forhta_, MHG _vorhte_, _vorht_ \
+PIE: \*prk-t-eh₂- \
+See [\*furhta-](#furhta) and [\*furhtjan-](#furhtjan). \
+REF: [EDPG]\: 161
+
+### <a id="furhwon">\*furhwōn- [f.] "fir" (n)</a>
+N: \
+-- ON _fura_ \
+W: \
+-- OE _furh_ \
+-- OHG _voraha_, _vorha_, MHG _vorhe_, G _Forhe_ \
+PIE: \*pŕkʷ-eh₂- \
+A zero-grade formation related to [\*ferhwa- "oak"](#ferhwa-1) (q.v.). \
+REF: [EDPG]\: 161
+
+### <a id="furi">\*furi "in front of, for" (adv/prep)</a>
+E: \
+-- Go. _faur_ \
+N: \
+-- ON _fyr_ (prep) \
+W: \
+-- OE _for_, _fore_ (prep), E _for_ \
+-- OS _for_, _fora_ (prep) \
+-- Du. _voor_ "for; before" \
+-- OHG _furi_, G _für_ (prep) \
+PIE: \*prh₂-i \
+COGN: Gr. _πάρ_, _παρά_, _παραί_ (adv/prep) "besides, by, from, next to, alongside", Lat. _prae_ (adv/prep) "in front of, before" < \*prh₂(-ei) \
+REF: [EDPG]\: 161
+
+### <a id="furjan">\*fūrjan- [wk.] "to castrate" (v)</a>
+W: \
+-- OE _(a-)fȳran_ \
+-- Du. _vuren_, _vieren_ \
+-- OHG _ar-fūrian_ \
+COGN: Lith. _pjáuti_ (_pjáuju_) "to cut, slaughter", Latv. _pļaūt_ "to mow, harvest" < \*péuH-e- (cf. OPru. _piuclan_ "scythe" < \*peuH-tlo-) \
+A factitive to an unattested \*fūra-, cf. OHG _ur-fūr_ [m.] "eunuch" < \*fūra- < \*púH-ro-. \
+REF: [EDPG]\: 161
+
+### <a id="fursa">\*fursa- [m.] "gush(?)" (n)</a>
+N: \
+-- ON _fors_, _foss_ [n.] "torrent; waterfall" \
+-- Far. _fossur_ "id." \
+-- OSw. _fors_ "id." \
+-- Elfd. _fuoss_ "id." \
+PIE: \*pŕs-o- \
+COGN: Hitt. _papparszi_ ~ _papparsanzi_ "to sprinkle" < \*po-pars-ti, \*-enti, ToA _präsā_-, ToB _pärsā_- "id." < \*pers-, Skt. _pŕ̥ṣant_- "speckled, spotted", Lith. _pur̃slas_ [m.] "spatter, spray" < \*prs-lo-, OCS _praxъ_ [m.] "dust", Ru. _pórox_ [m.] "(gun-)powder", SCr. _prâh_ [m.] "dust, powder" < \*pors-o-, Ru. dial. _perx_ "dandruff", SCr. dial. _pr̂h_ "coal dust", Slov. _pr̂h_ "dust, mold" < \*prs-o-, OCS _prьstь_, Ru. arch. _perst'_ [f.] "dust, earth", Latv. _pìrkstis_ [m.] "spark in ashes, heat" < \*prs-ti(o)- \
+Also cf. Icel., Far. _fossa_, Elfd. _fuossa_ [wk.] "to gush, cascade" < \*fursōjan-. \
+REF: [EDPG]\: 161
+
+### <a id="fursko">\*furskō- [f.] "inquiry" (n)</a>
+W: \
+-- OHG _forsca_, MHG _vorsche_ \
+PIE: \*prḱ-sk-eh₂- \
+COGN: Skt _pr̥cháti_ "to ask", Av. _pərəsaiti_ "to ask, want", Lat _poscō_ "to ask, require", OIr. _arcaid_ "to ask", W _archaf_ "id." < \*prḱ-ske- \
+A feminine \*prḱ-sk-eh₂- derived from the well-attested IE sk-present \*prḱ-ske-. It again served as the basis for the verb \*furskōjan-, cf. OHG _forscōn_, G _forschen_, Du. _vorsen_ "to inquire, investigate". See also [\*frehnan-](#frehnan) and [\*frēgō-](#frego). \
+REF: [EDPG]\: 162
+
+### <a id="furtu">\*furtu- [m.] "fart" (n)</a>
+W: \
+-- MDu. _vort_ \
+-- OHG _furz_, G _Furz_ \
+PIE: \*prd-u- \
+A u-stem to the strong verb [\*fertan-](#fertan) (q.v.). \
+REF: [EDPG]\: 162
+
+### <a id="futon">\*futōn- [wk.] "to go" (v)</a>
+N: \
+-- Nw. _fòta_ "to step; to go" \
+The iterative to [\*fetan-](#fetan) (q.v.). \
+REF: [EDPG]\: 162
+
+### <a id="futhi">\*fuþi- [f.] "vagina" (n)</a>
+N: \
+-- ON _fuð_ \
+-- Icel. _fuð_ "vagina; holes in a block of wood (for fishing rods)" \
+-- Nw. _fud_ "vagina; anus, backside" \
+W: \
+-- MHG _vut_ \
+PIE: \*put-i- \
+Usually connected with the root of [\*fūla- "putrid"](#fula) (cf. Pokorny IEW: 848-9), but in view of the Icel. verb _fuða_ "to drill a hole in a tree" and _ferða-fuða_ "buckle; travel bag", this seems impausible. MHG _votze_ (cf. LG _hunds-fott_, Du. _honds-vod_ "worthless guy", lit "dog vagina") < \*futtōn- and ON _fytta_ < \*futtjōn- point to a geminated root \*futt-, which may have arisen in an n-stem \*fuþō, gen. \*futtaz < \*put-ōn, \*put-n-ós. No further etymology, though close to Lat. _pūbēs_ [f.pl.] "private parts" < \*peudʰ-i-. \
+REF: [EDPG]\: 162
