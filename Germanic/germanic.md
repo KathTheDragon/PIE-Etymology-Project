@@ -3769,7 +3769,7 @@ W: \
 -- MDu. _bragen_, _brein_ [n.], Du. _brein_ [n.] \
 PIE: \*mrógʰ-no- \
 COGN: Gr _βρεχμός_ [m.] "front part of the head" < \*mregʰ-mo-, Skt. _mastr̥han_- [m.] "brain", YAv. _mastərəɣan_- [m.] "id.", MP _mastarg_, _masturg_ "brains" < \*most-(m)rgʰ-e/on- (Lubotsky 2008a) \
-An IE word preserved only in the Ingvaeonic area. The development of \*bragna- to Du. _brein_, -_ei_- usually being a contraction of -_eg(i)_- rather than -_ag_-, could point to a Frisianism. Frisian influence may similarly account for the _e_ of MLG _bregen_, although it has been claimed on the basis of this form that PGmc. had a stem variant \*bragina- (Lühr 1988: 332). Both \*bragna- and \*bragina- are explicable from an IE ablauting consonant stem, e.g. a static neuter nom. \*mregʰ-mn, gen. \*mrógʰ-mn-s, Joe. \*mrogʰ-mén-i. The e-grade would then have been preserved by Gr. _βρεχμός_. For the loss of the m in Germanic, cf. [\*budman- ~ \*buttaz "bottom"](#budman). \
+An IE word preserved only in the Ingvaeonic area. The development of \*bragna- to Du. _brein_, -_ei_- usually being a contraction of -_eg(i)_- rather than -_ag_-, could point to a Frisianism. Frisian influence may similarly account for the _e_ of MLG _bregen_, although it has been claimed on the basis of this form that PGmc. had a stem variant \*bragina- (Lühr 1988: 332). Both \*bragna- and \*bragina- are explicable from an IE ablauting consonant stem, e.g. a static neuter nom. \*mregʰ-mn, gen. \*mrógʰ-mn-s, loc. \*mrogʰ-mén-i. The e-grade would then have been preserved by Gr. _βρεχμός_. For the loss of the m in Germanic, cf. [\*budman- ~ \*buttaz "bottom"](#budman). \
 REF: [EDPG]\: 73
 
 ### <a id="braida">\*braida- "broad" (adj)</a>
@@ -6327,7 +6327,7 @@ W: \
 -- OHG _ātum_ "breath, breeze, spirit", MHG _ātem_, G _Atem_ "breath" \
 PIE: \*h₁eh₁t-mon- \
 COGN: Skt. _ātmán_- [m.] "soul, self, breath" \
-The Sanskrit paradigm nom. _ātmā́_, Joe. _ātmáni_ ~ _tmán(i)_ points to an ablauting paradigm \*h₁éh₁t-mōn, Joe. \*h₁h₁t-mén-(i). Apparently, the accentual mobility was preserved in Germanic, cf. OE _ǣþm_ < \*ēþma- vs. OHG _ātum_ < \*ēdma-. With the same root, cf. [\*ēþrō- ~ \*ēdrō-](#ethro) "vein, etc.". \
+The Sanskrit paradigm nom. _ātmā́_, loc. _ātmáni_ ~ _tmán(i)_ points to an ablauting paradigm \*h₁éh₁t-mōn, loc. \*h₁h₁t-mén-(i). Apparently, the accentual mobility was preserved in Germanic, cf. OE _ǣþm_ < \*ēþma- vs. OHG _ātum_ < \*ēdma-. With the same root, cf. [\*ēþrō- ~ \*ēdrō-](#ethro) "vein, etc.". \
 REF: [EDPG]\: 119
 
 ### <a id="ethro">\*ēþrō- ~ \*ēdrō- [f.] "vein, rivulet" (n)</a>
