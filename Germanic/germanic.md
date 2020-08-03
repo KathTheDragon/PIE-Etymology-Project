@@ -8164,7 +8164,8 @@ N: \
 -- Icel. _frekna_ \
 -- Far. _frøkna_ \
 -- Nw. _frekne_, _frokne_ \
--- Sw. _fräkne_, Da. _fregne_ \
+-- Sw. _fräkne_ \
+-- Da. _fregne_ \
 W: \
 -- E _freckle_ \
 COGN: Close to Pol. _pręgaty_ "striped" < \*prng-eh₂- \
@@ -10459,7 +10460,8 @@ N: \
 -- Nw. dial. _hagre_ "oats" \
 -- OSw. _hagri_ "id." \
 -- Elfd. _ager_ "id." \
--- Gutn. _hagre_ "id.", Da. _hejre_ [c.] "brome grass" \
+-- Gutn. _hagre_ "id." \
+-- Da. _hejre_ [c.] "brome grass" \
 PIE: \*kokró- \
 COGN: OIr. _corca_, _coirce_ [m.] "oats", W _ceirch_ [m.] "id.", Bret _kerc'h_ "id." < \*kork-io- \
 In a number of Scandinavian dialects, the continuants of ON \*hagri have become synonymous with ON _hafri_ "oats" (< [\*habran-](#habran), q.v.). Since this meaning is also attested for the cognate OIr. _coirce_, it can be old. In view of Da. _hejre_ "bromus", however, the original meaning may have been broader. Brome grass is closely related to the wheat-grass lineage, and is known to infest grain fields. Formally, the alternation of Pre-Gm. \*kokró- vs. Pre-Celt. \*kork-io- can be explained by assuming metathesis, but the potentially related Nw. dial. _hagr_, _harg_ [m.] "coarse hair from a horse's manes or tail" < ON \*hargr < PGmc. \*harga- and OIr. _corc_ "hair" < \*kork-o- can alternatively be derived from an original form \*korkró- that in Pre-Germanic was dissimilated into \*kokró-. \
@@ -11771,7 +11773,8 @@ REF: [EDPG]\: 225
 ### <a id="higen">\*hīgēn- ~ \*hīkēn- [wk.] "to pant(?)" (v)</a>
 N: \
 -- Nw. _hika_ "to long for" \
--- Sw. dial. _hikja_ "to pant", Da. _hige_ "to long for, wait for" \
+-- Sw. dial. _hikja_ "to pant" \
+-- Da. _hige_ "to long for, wait for" \
 W: \
 -- OE _hīgian_ "to hie, haste, strive" \
 -- MDu. _higen_ "to pant", Du. _hijgen_ "to pant", obs. "to yearn" \
@@ -12575,7 +12578,8 @@ N: \
 -- Far. _hegri_ \
 -- Nw. _hegre_, dial. _higre_, _heigre_ \
 -- OSw. _hægher_ \
--- Elfd. _āger_, Da. _hejre_ \
+-- Elfd. _āger_ \
+-- Da. _hejre_ \
 W: \
 -- OE _hrāgra_ \
 -- OS _hēgero_ \
@@ -12695,8 +12699,8 @@ N: \
 -- ON _hreyrr_ [m.] \
 -- Icel. _hreyr_ [m./n.] "megalithic grave, cairn, mound" \
 -- Nw. _rø(y)r_ [f.] "edge, side" \
--- OSw. _rør_ "cairn" \
--- Sw. _rōr_ "pile of stones", Da. _rør_ "cairn, pile of stones" \
+-- OSw. _rør_ "cairn", Sw. _rōr_ "pile of stones" \
+-- Da. _rør_ "cairn, pile of stones" \
 PIE: \*kreuH-so-? \
 COGN: Lith. _kráuti_ (_kráuju_) "to pile up" < \*krouH-, Lith. _krūvà_ [f.] "pile" < \*kruH-eh₂- \
 Possibly related to [\*hrusōn-](#hruson) (q.v.). Also cf. Nw. _røys_, Sw. _rōs(e)_, Da. _røs(e)_ "pile of stones" < \*hrausī- and ON _hreysi_ [n.] "cave, den" < \*hrausja-. \
@@ -13416,7 +13420,8 @@ REF: [EDPG]\: 257
 N: \
 -- ON _hopa_ "to turn back", Icel. _hopa_ "to fall back, retreat" \
 -- Far. _hopa_ "to draw back, recede, retreat" \
--- Nw. dial. _hop(p)a_, _hobba_ "to retreat, drive backwards (esp. of horses)", Da. dial. _hoppe seg_ "to walk backwards, drive backwards" \
+-- Nw. dial. _hop(p)a_, _hobba_ "to retreat, drive backwards (esp. of horses)" \
+-- Da. dial. _hoppe seg_ "to walk backwards, drive backwards" \
 PIE: \*kp-néh₂- \
 COGN: Gr. _κάμπτω_ "to bend, bow, curve" < \*kmp-ie- (a conflation of the zero grade \*_καπ_- and the full grade \*_κεμπ_-?), Sogd. _p-k'np_- "to turn away, deflect", Parth. _n-kmb_- "to bend" < Pllr. \*kamp-, Lith. _kum̃pas_, OIr. _camm_ "curved" < \*kmp-o-, Lith. _kam̃pas_ [m.] "corner, hook" < \*komp-o- \
 An iterative 3sg. \*huppōþi, 3pl. \*hubunanþi that in view of the o-grade variant Nw. _hapa_, _habba_ "to retreat, drive backwards (esp. of horses)", Swe. dial. _happa_ "to turn back, drive backwards" < \*happōþi, \*habunanþi must have a secondary zero grade. The Scandinavian forms with -_b_- and -_bb_- prove that the original root cannot have been \*kub- (_pace_ Pokorny IEW: 588-92, De Vries 1962: 248), which precludes the alleged link with Lat. _cu(m)bō_ "to recline". It is possible, however, to derive the verb from the PIE root \*kemp- "to turn, bend", assuming that the m is infixal. See also [\*hamfa-](#hamfa). \
@@ -13624,7 +13629,8 @@ REF: [EDPG]\: 261
 N: \
 -- ON _hvein_ top. "swamp(?)" \
 -- Nw. _kvein(e)_ "red-top grass; hair" \
--- Sw. dial. _hven_ "red-top grass; swamp", Da. _hvene_ [c.] "id." \
+-- Sw. dial. _hven_ "red-top grass; swamp" \
+-- Da. _hvene_ [c.] "id." \
 A formation ablauting with Icel. _hvin-gras_ "red-top" (cf. the Scand. loanword E _whin_ "furze, gorze") and Nw. dial. _kvine_ [f.] "April" (< "grass month"?) < \*hwin-. The red-top or black bent is a high grass that grows in poorer soils (hence the occasional semantic shift to "swamp"). In view of the Norwegian adjective _kvein_ "sharp" < \*hwaina- (< \*kʷoi-no-?), I assume that it was named after its tall stalks. No certain extra-Gm. etymology. The received links with Latv. _svīnît_ "to soil oneself" and Lat. _caenum_, _coenum_ [n.] "dirt" must be abandoned in view of the primary meaning "sharp". \
 REF: [EDPG]\: 261
 
@@ -15926,7 +15932,8 @@ REF: [EDPG]\: 309
 ### <a id="kulda">\*kulda- [m.] "litter (of progeny)" (n)</a>
 N: \
 -- Nw. dial. _kull_, _kuld_ [m./f.] \
--- OSw. _koller_, _kolder_, Da. _kuld_ [c.] \
+-- OSw. _koller_, _kolder_ \
+-- Da. _kuld_ [c.] \
 PIE: \*gʷlH-tó- \
 COGN: Lith. _gùltas_ "bed, lair", Latv. _gùlta_ [f.] "id." < \*gʷlH-to/eh₂- (cf. Lith. _gulė́ti_ "to lie, be ill", Latv. _gulêt_ "to sleep, lie, be ill" < \*gʷlH-eh₁-), Arm. _kałał_ "den, lair" < \*gwolH-olo- \
 A Nordic word probably connected with Go. _kilþei_ [f.] "womb" < \*kelþīn- and OE _cild_ [n.] "child" < \*keldiz-. I tentatively reconstruct the root with \*gʷ in view of the vocalization of the l as -ul- rather than -il- in Baltic. \
