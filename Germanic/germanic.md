@@ -265,7 +265,7 @@ W: \
 -- OHG _ahsa_, G _Achse_ \
 PIE: \*h₂eḱs-eh₂- \
 <!-- COGN: Skt. _ákṣa_- "axle", YAv. _aša_- "armpit" < \*h₂eḱ-so-, OPru. _assis_, Lith. _ašìs_ [m.] "axle, axis", CS _osь_, Ru. _os'_ [f.] "id.", Lat. _axis_ [m.] "id.", OIr. _ais_ [f.] "back" (< "spine"?) < \*h₂eḱs-i-, Gr. _ἄξων_ [m.] "axle" < \*h₂eḱs-on- \ -->
-Cf. [\*ahslō- "shoulder"](#ahslo) and the diminutive ON _ǫxull_, Far. _aksil_, Elfd. _aksel_ [m.] "axle" < \*ahsula-. \
+<!-- Cf. [\*ahslō- "shoulder"](#ahslo) and the diminutive ON _ǫxull_, Far. _aksil_, Elfd. _aksel_ [m.] "axle" < \*ahsula-. \ -->
 REF: [EDPG]\: 6
 
 ### <a id="ahtau">\*ahtau "eight" (num)</a>
@@ -579,7 +579,7 @@ W: \
 -- OHG _ē(r)_ "before, earlier" (adv, conj), MHG _ē(r)_ "earlier, sooner" \
 PIE: \*h₂ei-er-i \
 <!-- COGN: Av. _aiiarə_, gen. _aiiąn_ [n.] "day" < \*h₂ei-r/n-, Gr _ἦρι_ "in the morning" < \*h₂ei-er-i, Gr. _ἠέριος_ "matutinal" < \*h₂eier-io- \ -->
-PGmc. \*airi is identical to Gr. _ἦρι_, continuing the locative of an old r/n-stem meaning "day" (or "daybreak"?), cf. Av. _aiiarə_. The e of \*ajeri was regularly raised to \*i after \*j, and triggered the merger of \*aji- with \*ai- (cf. [\*aiza- "ore"](#aiza) < PIE \*h₂ei-es-). Note that ON, Icel. _árla_, Sw. _arla_, Da. _årle_ "early" (adv) developed from _árliga_ by some sort of syncope, cf. _fastl(ig)a_ "firmly", _framarl(ig)a_ "in a forward position", _ill(ilig)a_ "badly, hideously" and _gerla_, _gǫrla_ "fully", _harðla_ "very", _varla_ "hardly". \
+<!-- PGmc. \*airi is identical to Gr. _ἦρι_, continuing the locative of an old r/n-stem meaning "day" (or "daybreak"?), cf. Av. _aiiarə_. The e of \*ajeri was regularly raised to \*i after \*j, and triggered the merger of \*aji- with \*ai- (cf. [\*aiza- "ore"](#aiza) < PIE \*h₂ei-es-). Note that ON, Icel. _árla_, Sw. _arla_, Da. _årle_ "early" (adv) developed from _árliga_ by some sort of syncope, cf. _fastl(ig)a_ "firmly", _framarl(ig)a_ "in a forward position", _ill(ilig)a_ "badly, hideously" and _gerla_, _gǫrla_ "fully", _harðla_ "very", _varla_ "hardly". \ -->
 REF: [EDPG]\: 12
 
 ### <a id="airinōn">\*airinōn- [wk.] "to run an errand" (v)</a>
@@ -682,7 +682,7 @@ W: \
 -- OHG _eiz_ "abcess, boil", MHG _eiz_ "ulcer, boil" \
 PIE: \*h₂oid-o- \
 <!-- COGN: Identical to OCS _jadъ_, Ru. _jad_ "poison", SCr. _ȉjed_ "gall, poison, anger" < \*h₂oid-o- (or \*h₁ed-o-?); further cf. Gr. _οἰδέω_ "to swell" < \*h₂oid-éie- and Arm. _aytnum_, aor. _ayteay_ "to swell" < \*h₂eid- \ -->
-Cf. the diminutive ON _eitill_, Far. _eitil_ [m.] "lymph node", OHG _eiz(z)ala_ [f.] "gallnut", MHG _eizel_ [n.] "boil" < \*aitila/ō-. See also [\*aitra- "poison"](#aitra) and [\*aistōn- "testicle"](#aiston). \
+<!-- Cf. the diminutive ON _eitill_, Far. _eitil_ [m.] "lymph node", OHG _eiz(z)ala_ [f.] "gallnut", MHG _eizel_ [n.] "boil" < \*aitila/ō-. See also [\*aitra- "poison"](#aitra) and [\*aistōn- "testicle"](#aiston). \ -->
 REF: [EDPG]\: 14
 
 ### <a id="aitra">\*aitra- [n.] "poison; pus" (n)</a>
@@ -1227,7 +1227,7 @@ N: \
 -- Elfd. _ą̊s_ "ridge" \
 PIE: \*h₃em-so- \
 <!-- COGN: Identical to Skt. _áṃsa_- [m.] "shoulder", Oss. _wæn_, _won_, _on_ / _iwonæ_? "shoulder blade", ToA _es_, ToB _āntse_ [m.] "shoulder" (with unexpected \*a), Arm. _us_ "id.", Gr. _ὦµoc_ [m.] "shoulder, shoulder with the upper arm" < \*h₃em-so-, Lat _umerus_ [m.] "id." < \*h₃em-es-o- \ -->
-PGmc. \*amsa- can together with e.g. Skt _áṃsa_- be reconstructed as \*h₃em-so-. In view of the ablaut with Lat. _umerus_ and Arm. _us_, this formation must be a thematization of a more primary s-stem \*h₃ém-ōs, gen. \*h₃m-s-ós (cf. \*h₂éus-ōs, \*h₂us-s-ós "daybreak" under [\*austrōn- "Easter"](#austron)). Note that the m of \*amsa- is based on the Gothic form only: ON _áss_ "1) hill; 2) beam" is a merger of \*amsa- and \*ansa- (for the original nasality of the ON vowel, cf. Elfd. _ą̊s_ "ridge", Nystrom 1995). \
+<!-- PGmc. \*amsa- can together with e.g. Skt _áṃsa_- be reconstructed as \*h₃em-so-. In view of the ablaut with Lat. _umerus_ and Arm. _us_, this formation must be a thematization of a more primary s-stem \*h₃ém-ōs, gen. \*h₃m-s-ós (cf. \*h₂éus-ōs, \*h₂us-s-ós "daybreak" under [\*austrōn- "Easter"](#austron)). Note that the m of \*amsa- is based on the Gothic form only: ON _áss_ "1) hill; 2) beam" is a merger of \*amsa- and \*ansa- (for the original nasality of the ON vowel, cf. Elfd. _ą̊s_ "ridge", Nystrom 1995). \ -->
 REF: [EDPG]\: 25
 
 ### <a id="amslōn">\*amslōn- [f.] "blackbird" (n)</a>
@@ -2076,7 +2076,7 @@ W: \
 -- OHG _ouga_, G _Auge_ \
 PIE: \*h₃okʷ-n- \
 <!-- COGN: Skt. _ákṣi_- [n.] "eye", YAv. _aši_ [n.du.] "eye" < \*h₃okʷ-s-, ToA _ak_, ToB _ek_\* [m.] "id." < \*h₃okʷ-, Gr. _ὄσσε_ [n.du.] "both eyes" < \*h₃okʷ-ih₁, Arm. _akn_ "eye; source" < \*h₃okʷ-, _ač'-k'_ pl. "eyes" < \*h₃okʷ-ih₁, Alb. _sy_ [m.] "id." < \*h₃okʷ-ih₁, Lat. _oculus_ [m.] "eye" < \*h₃okʷ-elo-, Lith. _akìs_ [f.] "id.", Latv. _acs_ [f.] "id.", OPru. _ackis_ "id." < \*h₃okʷ-, OCS _oko_ [n.] "id.", Ru. _óko_, _óči_ pl. "id.", SCr. _ȍko_ [n.], _ȍči_ [f.pl.] "id." < \*h₃okʷ-os, du. \*h₃okʷ-ih₁ \ -->
-Indo-European had a root noun \*h₃ókʷ-s, gen. h₃(o)kʷ-és (cf. Lith. dial. _ákès_). The acc. \*h₃okʷ-m served as the source for the i-stem in Baltic (-_im_ < \*-m̥) and the n-stem in Armenian. The word had no plural \*h₃okʷ-es, only a dual \*h₃okʷ-ih₁, a form that can be retrieved from many Indo-European dialects, e.g. Gr. _ὄσσε_. In Germanic, the word was incorporated into the class of n-stems denoting body parts. As a result, the diphthong \*au can be explained as analogical to [\*auzōn- "ear"](#auzon) (q.v.). It has also been claimed, however, that this diphthong arose as a contamination of two different root forms, viz. \*aw- and \*ag- (cf. Schaffner 2001: 581), that might have arisen within the same paradigm as a result of Verner's law, e.g. loc. \*aweni < \*h₃okʷ-en-i vs. du. \*agī(?) < \*h₃okʷ-ih₁ (for the loss of the labialization, cf. [\*sagja- "man, warrior"](#sagja-1) < \*sokʷ-ió-). This is more doubtful, however. See further [\*augjan-](#augjan). \
+<!-- Indo-European had a root noun \*h₃ókʷ-s, gen. h₃(o)kʷ-és (cf. Lith. dial. _ákès_). The acc. \*h₃okʷ-m served as the source for the i-stem in Baltic (-_im_ < \*-m̥) and the n-stem in Armenian. The word had no plural \*h₃okʷ-es, only a dual \*h₃okʷ-ih₁, a form that can be retrieved from many Indo-European dialects, e.g. Gr. _ὄσσε_. In Germanic, the word was incorporated into the class of n-stems denoting body parts. As a result, the diphthong \*au can be explained as analogical to [\*auzōn- "ear"](#auzon) (q.v.). It has also been claimed, however, that this diphthong arose as a contamination of two different root forms, viz. \*aw- and \*ag- (cf. Schaffner 2001: 581), that might have arisen within the same paradigm as a result of Verner's law, e.g. loc. \*aweni < \*h₃okʷ-en-i vs. du. \*agī(?) < \*h₃okʷ-ih₁ (for the loss of the labialization, cf. [\*sagja- "man, warrior"](#sagja-1) < \*sokʷ-ió-). This is more doubtful, however. See further [\*augjan-](#augjan). \ -->
 REF: [EDPG]\: 41
 
 ### <a id="aujō">\*aujō- [f.] "wetland, island" (n)</a>
@@ -3347,7 +3347,7 @@ N: \
 -- Da. _bille_ [c.] \
 W: \
 -- OE _bitela_ \
-Da. _bille_ can be derived from ON \*bitli (cf. Falk/Torp 1960: 73) and may thus be identical to OE _bitela_ < \*bitlan-. This formation is thought to have been derived from [\*bītan- "to pierce, bite"](#bitan-1). The alternative is to connect Da. _bille_ to Icel. _bjalla_ [f.] "bug" (< \*bellōn-?), but the origin of the latter is uncertain. \
+<!-- Da. _bille_ can be derived from ON \*bitli (cf. Falk/Torp 1960: 73) and may thus be identical to OE _bitela_ < \*bitlan-. This formation is thought to have been derived from [\*bītan- "to pierce, bite"](#bitan-1). The alternative is to connect Da. _bille_ to Icel. _bjalla_ [f.] "bug" (< \*bellōn-?), but the origin of the latter is uncertain. \ -->
 REF: [EDPG]\: 65
 
 ### <a id="bitra">\*bitra- "bitter, sharp" (adj)</a>
@@ -3391,7 +3391,7 @@ N: \
 -- ON _blæja_ "fine colored cloth; cover of a bed; burial sheet" \
 W: \
 -- OHG _blaha_ "coarse linen", G _Blache_, _Blahe_, _Plane_ "id." \
-ON _blæja_ (the spelling _blægja_ is probably hypercorrect) presupposes a form \*blahjōn-, which is corroborated by the North Frisian form _bleix_ < OFri. \*blehhe (LOfstedt 1928-193 1: 241). EDa. _blā_, pl. _blār_, Da. _blår_ "waste material when hemp or flax is processed" has been compared to G _Blahe_, as if continuing \*blahōn-, but the variant _Blache_ (with -_ch_- < -_hh_-) proves that the German word, too, must be reconstructed as \*blahjōn- (with j-gemination but blocking of the umlaut before -_h_- as in _lachen_ < \*hlahjan-). No further etymology: unrelated to Lat. _floccus_ [m.] "tuft of wool". \
+<!-- ON _blæja_ (the spelling _blægja_ is probably hypercorrect) presupposes a form \*blahjōn-, which is corroborated by the North Frisian form _bleix_ < OFri. \*blehhe (LOfstedt 1928-193 1: 241). EDa. _blā_, pl. _blār_, Da. _blår_ "waste material when hemp or flax is processed" has been compared to G _Blahe_, as if continuing \*blahōn-, but the variant _Blache_ (with -_ch_- < -_hh_-) proves that the German word, too, must be reconstructed as \*blahjōn- (with j-gemination but blocking of the umlaut before -_h_- as in _lachen_ < \*hlahjan-). No further etymology: unrelated to Lat. _floccus_ [m.] "tuft of wool". \ -->
 REF: [EDPG]\: 66
 
 ### <a id="blaika">\*blaika- "pale" (adj)</a>
@@ -3410,7 +3410,7 @@ W: \
 -- OE _blāt_ \
 PIE: \*bʰloid-o- \
 <!-- COGN: Identical to OCS _blědъ_, Ru. _bledój_, SCr. _blȉjed_ "pale" \ -->
-Cf. OHG _blizza_ [f.] "bluish discoloration" < \*blit-jō-. Reminiscent of [\*blaika-](#blaika) with the same meaning. \
+<!-- Cf. OHG _blizza_ [f.] "bluish discoloration" < \*blit-jō-. Reminiscent of [\*blaika-](#blaika) with the same meaning. \ -->
 REF: [EDPG]\: 66
 
 ### <a id="blandan">\*blandan- [st.] "to mix, mingle" (v)</a>
@@ -3521,7 +3521,7 @@ W: \
 -- OHG _blāo_ "blue, dark, grey", G _blau_ "id." \
 PIE: \*bʰleh₁-uo- \
 <!-- COGN: Lat. _flāvus_ "blond", OIr. _blá_ "yellow", W _blaw_ "grey" < \*bʰlh₁-uo- \ -->
-Lat. _flāvus_ taken at face value poins to \*bʰlH-uo- or \*bʰleh₂-uo-, the latter of which is in contradiction with the PGmc. \*blēwa- < \*bʰléh₁-uo-. It has been claimed that the laryngeal in the sequence \*-eh₃-uo- was delabialized, so as to merge with \*h₂ in Italo-Celtic and with \*h₁ in Germanic (Schrijver 1991: 298-301). In Germanic, however, the evidence for this delabialization is extremely limited, consisting only of the uncertain cases \*grēwa- and \*knēwa- (for which see [\*knawa-](#knawa)). I therefore reconstruct an ablauting u-stem \*bʰléh₁-u-s, gen. \*bʰlh₁-uó-s to account for both the Germanic and Italo-Celtic forms. For another ablauting u-stem, see [\*gelwa- ~ \*gulu- "yellow"](#gelwa). \
+<!-- Lat. _flāvus_ taken at face value poins to \*bʰlH-uo- or \*bʰleh₂-uo-, the latter of which is in contradiction with the PGmc. \*blēwa- < \*bʰléh₁-uo-. It has been claimed that the laryngeal in the sequence \*-eh₃-uo- was delabialized, so as to merge with \*h₂ in Italo-Celtic and with \*h₁ in Germanic (Schrijver 1991: 298-301). In Germanic, however, the evidence for this delabialization is extremely limited, consisting only of the uncertain cases \*grēwa- and \*knēwa- (for which see [\*knawa-](#knawa)). I therefore reconstruct an ablauting u-stem \*bʰléh₁-u-s, gen. \*bʰlh₁-uó-s to account for both the Germanic and Italo-Celtic forms. For another ablauting u-stem, see [\*gelwa- ~ \*gulu- "yellow"](#gelwa). \ -->
 REF: [EDPG]\: 68
 
 ### <a id="blewwan">\*blewwan- [st.] "to beat (up), blow" (v)</a>
@@ -5101,7 +5101,7 @@ W: \
 -- OFri. _diunk_ "dark" \
 PIE: \*dʰengʷ-o- \
 <!-- COGN: Hitt. _dankui_- ~ _dankuwai_- "black, dark" < \*dʰ(e/o)ngʷ-(o)i- \ -->
-ON _døkkr_ may continue either \*dankwja- or \*dinkwa-. The latter option seems preferable in view of OSw. _diunker_ and OFri. _diunk_, which both show (independent) u-infection of -_i_- before labiovelars. However, PGmc. \*dankwja- should probably have given Icel. \*dekkur (with _e_ < ON _ø_, cf. Icel. _dekkja_ [wk.] "to make dark") rather than _døkkur_, a form directly pointing to ON _dǫkkr_ < \*dankwa- (Heidermanns 1993: 146). Did both forms occur side by side? See also [\*dunkla- ~ \*dunkra-](#dunkla) with a zero grade ofthe root. \
+<!-- ON _døkkr_ may continue either \*dankwja- or \*dinkwa-. The latter option seems preferable in view of OSw. _diunker_ and OFri. _diunk_, which both show (independent) u-infection of -_i_- before labiovelars. However, PGmc. \*dankwja- should probably have given Icel. \*dekkur (with _e_ < ON _ø_, cf. Icel. _dekkja_ [wk.] "to make dark") rather than _døkkur_, a form directly pointing to ON _dǫkkr_ < \*dankwa- (Heidermanns 1993: 146). Did both forms occur side by side? See also [\*dunkla- ~ \*dunkra-](#dunkla) with a zero grade ofthe root. \ -->
 REF: [EDPG]\: 96
 
 ### <a id="dīsi">\*dīsi- [f.] "lady, fairy, goddess" (n)</a>
@@ -6059,8 +6059,7 @@ W: \
 -- OHG _etar_ [m./n.] "edge, fence", MHG _eter_ "id." \
 PIE: \*h₁edʰ-ro- \
 <!-- COGN: OCS _odrъ_ [m.] "bed", Ru. (arch.) _odr_ [m.] "bed, couch", Cz. _odr_ "pillar, frame, summer-house", SCr. _òdar_ [m.] "bed, scaffolding" < \*h₁odʰ-ro- \ -->
-N: \
--- ON _jǫðurr_ has a suffix variant \*-ura-, which may also be present in OE _eodor_. Also note Far. _jaður_ [n.] "layer, stratum" < \*_jaðra_- and the ablauting MLG _ader(e)_ "pole, beam in a fence" < \*adr-. Perhaps the word originally had a static paradigm, e.g. \*adur, gen. \*edurz < \*h₁ódʰ-r, \*h₁édʰ-r-s \
+<!-- ON _jǫðurr_ has a suffix variant \*-ura-, which may also be present in OE _eodor_. Also note Far. _jaður_ [n.] "layer, stratum" < \*_jaðra_- and the ablauting MLG _ader(e)_ "pole, beam in a fence" < \*adr-. Perhaps the word originally had a static paradigm, e.g. \*adur, gen. \*edurz < \*h₁ódʰ-r, \*h₁édʰ-r-s \ -->
 REF: [EDPG]\: 114
 
 ### <a id="edi">\*edi "again" (conj)</a>
@@ -7063,7 +7062,7 @@ W: \
 -- OHG _felis_ "rock, cliff", MHG _vels(e)_ "id.", G _Felsen_ "id." \
 PIE: \*pe/ol-es-o- \
 <!-- COGN: OIr. _ail_ [f.] "boulder, rock grave-stone" < \*pl-s-i-, Gr. Hsch. _πέλλα_ "stone" < \*pel-s-eh₂- \ -->
-ON _fell_, _fjall_ points to \*fel(V)sa- (with assimilation of the s and breaking of -e- to -_ja_-), but the WGm. attestations can go back to both \*felesa- or \*falisa-. The latter form is supported by OFr. _falise_, Fr. _falaise_, _faloise_, a Franconian loanword. The Swiss dialects that differentiate between high e from OHG \*ä₂ and low e from OHG e, cf. Jaun and Appenzell _felsə_, are ambiguous in this particular case, however, because the vowel may have arisen due to secondary raising of low to high e before \*i in the next syllable (Karsten 1903: 259). On the morphological level, the word looks like a thematicization of an old s-stem. The expected paradigm \*pel-os, gen. \*pl-es-(o)s fails to account for the o-grade, however. Perhaps, we are dealing with an originally static s-stem, viz. nom. \*pól-s, gen. \*pél-s-s \
+<!-- ON _fell_, _fjall_ points to \*fel(V)sa- (with assimilation of the s and breaking of -e- to -_ja_-), but the WGm. attestations can go back to both \*felesa- or \*falisa-. The latter form is supported by OFr. _falise_, Fr. _falaise_, _faloise_, a Franconian loanword. The Swiss dialects that differentiate between high e from OHG \*ä₂ and low e from OHG e, cf. Jaun and Appenzell _felsə_, are ambiguous in this particular case, however, because the vowel may have arisen due to secondary raising of low to high e before \*i in the next syllable (Karsten 1903: 259). On the morphological level, the word looks like a thematicization of an old s-stem. The expected paradigm \*pel-os, gen. \*pl-es-(o)s fails to account for the o-grade, however. Perhaps, we are dealing with an originally static s-stem, viz. nom. \*pól-s, gen. \*pél-s-s \ -->
 REF: [EDPG]\: 134
 
 ### <a id="felgo">\*felgo- [f.] "rim of a wheel" (n)</a>
@@ -7268,7 +7267,7 @@ W: \
 -- MDu. _vese_ "fiber, husk; fringe", Du. _vezel_ [c.] "fiber" \
 -- OHG _fesa_ "id.", MHG _vese_ "id.", G Swi. Rhntl. _feəsə_ "id." \
 <!-- COGN: Skt. _pináṣṭi_, _piṃṣánti_ "to crush", Lat _pīnsere_ "id." < \*tpi-n-(e)s-, Gr. _πτίσσω_ "to pound or grind corn in a mortar" < \*tpis-ie-, Gr. _πτισάνη_ "hulled barley" < \*tpis-neh₂-, Lith. _piẽstas_, Ru. _pest_ [m.] "pestle" < \*tpois-to-, Lith. _paisýti_ "to peel barley" < \*tpois-éie-, Ru. _pšenó [n.] "millet", SCr. _pšéna_ "clover" < \*tpis-en-o/eh₂- \ -->
-OHG _fesa_ and MHG _vese_ must have had real _e_ rather than umlauted _ä_ in view of Swi. Rhntl. _feəsə_ (with _eə_ < OHG _e_). This means that, if the connection with PIE \*tpis- is correct (esp. note Icel. _fis_ [n.] "fluff, chaff"), a-mutation must have lowered \*i to \*e. The collective OHG _ga-vissa_ ~ _ga-bissa_ [f.] "chaff" < quasi-PIE \*kom-tpis-io- shows a remarkable Verner alternation similar to the doublet OHG _mezzisahs_ ~ _mezzirahs_ "knife" (for which see [\*sahsa-](#sahsa)). See also [\*fasa/ōn- "fringe, fiber"](#fasan). \
+<!-- OHG _fesa_ and MHG _vese_ must have had real _e_ rather than umlauted _ä_ in view of Swi. Rhntl. _feəsə_ (with _eə_ < OHG _e_). This means that, if the connection with PIE \*tpis- is correct (esp. note Icel. _fis_ [n.] "fluff, chaff"), a-mutation must have lowered \*i to \*e. The collective OHG _ga-vissa_ ~ _ga-bissa_ [f.] "chaff" < quasi-PIE \*kom-tpis-io- shows a remarkable Verner alternation similar to the doublet OHG _mezzisahs_ ~ _mezzirahs_ "knife" (for which see [\*sahsa-](#sahsa)). See also [\*fasa/ōn- "fringe, fiber"](#fasan). \ -->
 REF: [EDPG]\: 138
 
 ### <a id="fetan">\*fetan- [st.] "to go; to fall" (v)</a>
@@ -9280,7 +9279,7 @@ W: \
 -- OHG _gersta_, G _Gerste_ \
 PIE: \*gʰersd-eh₂- \
 <!-- COGN: Lat. _hordeum_ "barley" < \*gʰr(s)d-io-, Arm. _gari_, gen. _garwoy_ "wheat" < \*gʰr̥-io-, Gr. _κριθή_, epic _κρῖ_ [f.] "barley", Alb. _drithë_ "cereal, grain" < \*ǵʰrisdʰ, pl. \*ǵʰrisdʰ-eh₂- \ -->
-\*PGmc. \*gerstō- and Lat. _hordeum_ go back to a root \*gʰersd-, but the sound correspondences with the other forms are irregular. This may point to a non-IE origin, perhaps borrowing from a European agricultural substrate. The alleged link to Hitt. _karas_- [n.] "wheat, emmer-wheat" (cf. Kloekhorst 2008: 444) is erroneous, this word being related to [\*hersja(n)- "millet"](#hersjan) (q.v.). \
+<!-- PGmc. \*gerstō- and Lat. _hordeum_ go back to a root \*gʰersd-, but the sound correspondences with the other forms are irregular. This may point to a non-IE origin, perhaps borrowing from a European agricultural substrate. The alleged link to Hitt. _karas_- [n.] "wheat, emmer-wheat" (cf. Kloekhorst 2008: 444) is erroneous, this word being related to [\*hersja(n)- "millet"](#hersjan) (q.v.). \ -->
 REF: [EDPG]\: 175
 
 ### <a id="gestra">\*gestra- "the previous or next day" (adv)</a>
@@ -9297,7 +9296,7 @@ W: \
 -- OHG _gestaron_ "id.", G _gestern_ "id." \
 PIE: \*dʰǵʰ-es-ro- \
 <!-- COGN: Gr. _χθές_, Alb. _dje_ < \*dʰǵʰ-es, Lat _heri_ < \*dʰǵʰ-es-i (with loc. ending), Skr. _hyás_ < \*dʰǵʰ-ies (with -_y_- analogically after _sadyás_ "today" < \*sm̥-di-és) \ -->
-Go. _gistra_- as well as the WGm. forms unambiguously point to PGmc. \*gestra- < \*dʰǵʰes-ro- with t-epenthesis between \*s and \*r (cf. [\*swester- "sister"](#swester)), and directly correspond to Gr. _χθές_; the r-suffix is probably locatival, as in [\*hwar "where"](#hwar), [\*þar "there"](#thar) and [\*gadur "together"](#gadur) (see [\*gadurōjan-](#gadurojan)). The reconstruction of the form underlying ON _gjár_ and _gær_, on the other hand, is problematic. Most dictionaries reconstruct an ablauting form \*dʰǵʰ-ēs or \*dʰǵʰ-i-ēs without an r-suffix. Since initial \*ky-, \*gy- and \*gʰy- regularly lose their glide (cf. [\*gōīn-](#goin) and [\*kewwan-](#kewwan)), the form _gjár_ is usually explained from _gár_ (cf. OSw. _ī gār_, Sw, Da., Nw. _i går_) with analogical palatal _g_ after _gær_ < PN \*gāʀ with ʀ-fronting (e.g Hellquist 1921: 231). As this fronting is strongest in West Norse, but surprisingly weak in Faroese (cf. Far. _djór_ ~ Icel. _dýr_ "animal" < \*deuza- and Far. _kar_ ~ Icel. _ker_ "vessel" < \*kaza-), this indeed neatly explains the opposition of Far. _gjár_ vs. Icel. _gær_. However, if the variation between the two variants is dialectally distributed, it seems unlikely that the palatal _g_ could cross over from _gær_ to _gjár_. I would therefore like to explain both OEN _gār_ and OWN _gær_ as the regular outcomes of PN \*gāʀ, and assume that the initial palatal of _gjár_ is due to the preceding preposition _í_. This \*gāʀ < PGmc. \*gēz presumably got its lengthened vowel from being a monosyllable (cf. \*ūt < \*ud), but was explained by Gąsiorowski 2012 as resulting from z-loss before r. \
+<!-- Go. _gistra_- as well as the WGm. forms unambiguously point to PGmc. \*gestra- < \*dʰǵʰes-ro- with t-epenthesis between \*s and \*r (cf. [\*swester- "sister"](#swester)), and directly correspond to Gr. _χθές_; the r-suffix is probably locatival, as in [\*hwar "where"](#hwar), [\*þar "there"](#thar) and [\*gadur "together"](#gadur) (see [\*gadurōjan-](#gadurojan)). The reconstruction of the form underlying ON _gjár_ and _gær_, on the other hand, is problematic. Most dictionaries reconstruct an ablauting form \*dʰǵʰ-ēs or \*dʰǵʰ-i-ēs without an r-suffix. Since initial \*ky-, \*gy- and \*gʰy- regularly lose their glide (cf. [\*gōīn-](#goin) and [\*kewwan-](#kewwan)), the form _gjár_ is usually explained from _gár_ (cf. OSw. _ī gār_, Sw, Da., Nw. _i går_) with analogical palatal _g_ after _gær_ < PN \*gāʀ with ʀ-fronting (e.g Hellquist 1921: 231). As this fronting is strongest in West Norse, but surprisingly weak in Faroese (cf. Far. _djór_ ~ Icel. _dýr_ "animal" < \*deuza- and Far. _kar_ ~ Icel. _ker_ "vessel" < \*kaza-), this indeed neatly explains the opposition of Far. _gjár_ vs. Icel. _gær_. However, if the variation between the two variants is dialectally distributed, it seems unlikely that the palatal _g_ could cross over from _gær_ to _gjár_. I would therefore like to explain both OEN _gār_ and OWN _gær_ as the regular outcomes of PN \*gāʀ, and assume that the initial palatal of _gjár_ is due to the preceding preposition _í_. This \*gāʀ < PGmc. \*gēz presumably got its lengthened vowel from being a monosyllable (cf. \*ūt < \*ud), but was explained by Gąsiorowski 2012 as resulting from z-loss before r. \ -->
 <!-- On the PIE level, \*dʰǵʰ-es is likely to represent the fossilized genitive of an old root noun \*dʰéǵʰ-s, gen. \*dʰǵʰ-és (see [\*daga-](#daga)) or of the s-stem perhaps implied by ON _dœgr_ < \*dōgiz- (Puhvel 1987). \ -->
 REF: [EDPG]\: 175
 
@@ -10522,7 +10521,7 @@ W: \
 -- OHG _heil_, G _heil_ "sound" \
 PIE: \*koi-lo- \
 <!-- COGN: Gr. Hsch. _κοῖλυ_ "goodness, beauty", OCS _cělъ_, Ru. _célyj_, SCr. _cȉjel_, _cȉo_ "whole", OPru. _kailūstiskan_ acc.sg.f. "health" < \*koil-o-; unrelated: Lat. _caelum_ [n.] "sky, heaven", OW _coil(i)ou_ pl. "omens, auguries", MW _coel_ [m./f.] "belief, omen", OBret. _coel_ "_haruspicem_" < \*keh₂i-lo- \ -->
-Cf. ON _heilsa_ "to greet", OE _hālsian_ "to give oaths, exorcise", OHG _heilisōn_, MHG _heilsen_ "to interpret omens" < \*hail-sō(ja)n- and OE _hālettan_, OHG _heilazzen_ "to greet" < \*hailatjan-. \
+<!-- Cf. ON _heilsa_ "to greet", OE _hālsian_ "to give oaths, exorcise", OHG _heilisōn_, MHG _heilsen_ "to interpret omens" < \*hail-sō(ja)n- and OE _hālettan_, OHG _heilazzen_ "to greet" < \*hailatjan-. \ -->
 REF: [EDPG]\: 200
 
 ### <a id="hailjan">\*hail(j)a(n)- [m.] "brain" (n)</a>
@@ -10562,7 +10561,7 @@ W: \
 -- OE _hān_, E _hone_ \
 PIE: \*ḱh₃-ei-neh₂- \
 <!-- COGN: Skt. _śiśāti_ "to sharpen" < \*ḱi-ḱéh₃-, YAv. _saēni_- "pointed, sharp" \*ḱh₃-ei-ni-, Lat. _cōs_, -_tis_ [f.] "whetstone" < \*ḱeh₃-t- \ -->
-PGmc. \*hainō- must have been derived from an i-present \*ḱh₃-ei-ti, \*ḱh₃-i-énti (cf. Skt. _śyáti_ "to sharpen" < \*ḱh₃-i-), and thus directly points to \*ḱh₃-ei-neh₂-. The original root \*ḱeh₃- is preserved by [\*harōjan-](#harojan). \
+<!-- PGmc. \*hainō- must have been derived from an i-present \*ḱh₃-ei-ti, \*ḱh₃-i-énti (cf. Skt. _śyáti_ "to sharpen" < \*ḱh₃-i-), and thus directly points to \*ḱh₃-ei-neh₂-. The original root \*ḱeh₃- is preserved by [\*harōjan-](#harojan). \ -->
 REF: [EDPG]\: 201
 
 ### <a id="haira">\*haira- "hoary, grey-haired" (adj)</a>
@@ -10573,7 +10572,7 @@ W: \
 -- OS _hēr_ "noble, distinguished, aged" \
 -- OHG _hēr_ "old, reverend, grand" \
 <!-- COGN: OIr. _cíar_ "dark, murky, black" < \*kei-ro- \ -->
-RuCS _sěrъ_, Ru. _ser_, Sin. _sę́r_ "grey" < \*x́ěrъ looks like a Germanic loanword, and does not necessarily imply a PIE form \*ḱHoiro- (the variant OCS _sědъ_, Ru. _sed_, SCr. _sȉjed_ is a conflation of \*x́ěrъ, with \*blě̑dъ "pale"). This leaves OIr. _cíar_ as the only possible cognate. Within Germanic, the adjective served as the basis for the comparative OHG _hēr(i)ro_, OS _hērro_ (= OE _hearra_, ON _herra_), OFri. _hēra_, _hāra_ [m.] "sir", a calque of Lat. _senior_ > Fr. _sire_, _seigneur_, _sieur_, and possibly also for Far. _hæra_ [f.] "grizzled or grey hair" < \*hairjon-. \
+<!-- RuCS _sěrъ_, Ru. _ser_, Sin. _sę́r_ "grey" < \*x́ěrъ looks like a Germanic loanword, and does not necessarily imply a PIE form \*ḱHoiro- (the variant OCS _sědъ_, Ru. _sed_, SCr. _sȉjed_ is a conflation of \*x́ěrъ, with \*blě̑dъ "pale"). This leaves OIr. _cíar_ as the only possible cognate. Within Germanic, the adjective served as the basis for the comparative OHG _hēr(i)ro_, OS _hērro_ (= OE _hearra_, ON _herra_), OFri. _hēra_, _hāra_ [m.] "sir", a calque of Lat. _senior_ > Fr. _sire_, _seigneur_, _sieur_, and possibly also for Far. _hæra_ [f.] "grizzled or grey hair" < \*hairjon-. \ -->
 REF: [EDPG]\: 201
 
 ### <a id="hairsa">\*hairsa- ~ \*haisra- "hoarse" (adj)</a>
@@ -11170,7 +11169,7 @@ W: \
 -- OHG _haro_, -_wes_, MHG _har(e)_, _har_ \
 PIE: \*kors-uo- \
 <!-- COGN: Lat. _carrō_ "to card" < \*krs-e-, Lith. _kar̃šti_ (_karšiù_), Latv. _kā̀rst_ "to card, comb" < \*kors-ie- \ -->
-Cf. the diminutive MLG _harl(e)_, _harrel_, _herle_ "stalk of flax", MDu. _heerle_ "id.", Du. _harrel_ "id.", E _harl_, _herl_ "fiber, filament (of flax)". \
+<!-- Cf. the diminutive MLG _harl(e)_, _harrel_, _herle_ "stalk of flax", MDu. _heerle_ "id.", Du. _harrel_ "id.", E _harl_, _herl_ "fiber, filament (of flax)". \ -->
 REF: [EDPG]\: 213
 
 ### <a id="hasla">\*hasla- [m.] "hazel" (n)</a>
@@ -12830,7 +12829,7 @@ W: \
 -- Du. _rouwen_ [wk.] "to mourn" \
 -- OHG _riuwan_ "to make/be sad", MHG _riuwen_, _riwen_ "to sadden, to be sad", G _reuen_ [wk.] "to regret" \
 PIE: \*kreu(H)-e \
-Icel. _hrjá_, though a weak verb, corresponds rather neatly to the WGm. forms. It thus points to a non-geminated proto-form \*hrewan- rather than \*hrewwan-, as the latter form would have produced a strong verb ON \*\*_hryggva_, Icel. \*\*_hryggja_. The attested ON _hryggva_, _hryggja_ "to distress, grieve; to cause to look sad" is a factitive \*hrewwjan- to ON _hryggr_ "afflicted, grieved, sad" < \*hrewwu-, cf. OE _hrēow_, OS _hriuwi_ "sad". Also cf. Nw. dial. _rogg_, _rugg_ [n.] "fear" < \*hrawwa-. \
+<!-- Icel. _hrjá_, though a weak verb, corresponds rather neatly to the WGm. forms. It thus points to a non-geminated proto-form \*hrewan- rather than \*hrewwan-, as the latter form would have produced a strong verb ON \*\*_hryggva_, Icel. \*\*_hryggja_. The attested ON _hryggva_, _hryggja_ "to distress, grieve; to cause to look sad" is a factitive \*hrewwjan- to ON _hryggr_ "afflicted, grieved, sad" < \*hrewwu-, cf. OE _hrēow_, OS _hriuwi_ "sad". Also cf. Nw. dial. _rogg_, _rugg_ [n.] "fear" < \*hrawwa-. \ -->
 REF: [EDPG]\: 246
 
 ### <a id="hrīdra">\*hrīdra- [n.] "sieve" (n)</a>
@@ -14627,7 +14626,7 @@ W: \
 -- OHG _kara_ "sorrow, sadness, repentance" \
 PIE: \*ǵh̥₂r-eh₂- or \*ǵoh₂r-eh₂- \
 <!-- COGN: MP _zryg_, _zlyk_ "sorrow, suffering", Oss. _zaryn_ / _zarun_ "to sing" < \*ǵeh₂r-, Gr. _γῆρυς_ "voice, speech" < \*ǵeh₂r-u-, Lat _garriō_, -_īre_ "to chatter", OIr. _gairid_, W _garddu_ "to call, cry" < \*ǵ(e)h₂r-ié-, OIr. _gáir_ "cry", W _gawr_ "crying, battle" < \*ǵeh₂r-i- \ -->
-PGmc. \*karō- can have developed from both \*ǵh̥₂r-eh₂- with vocalization of the laryngeal and from \*ǵeh₂r-éh₂- or \*ǵoh₂r-éh₂- with pretonic shortening. Also cf. Go. _karon_, OE _cearian_, OS _karon_, OHG _karōn_ [wk.] "to worry" < \*karōjan- and OE _cearig_, OS -_karag_, OHG _karag_ "sad", G _karg_, Du. _karig_ "sparse" < \*karaga-. \
+<!-- PGmc. \*karō- can have developed from both \*ǵh̥₂r-eh₂- with vocalization of the laryngeal and from \*ǵeh₂r-éh₂- or \*ǵoh₂r-éh₂- with pretonic shortening. Also cf. Go. _karon_, OE _cearian_, OS _karon_, OHG _karōn_ [wk.] "to worry" < \*karōjan- and OE _cearig_, OS -_karag_, OHG _karag_ "sad", G _karg_, Du. _karig_ "sparse" < \*karaga-. \ -->
 REF: [EDPG]\: 281
 
 ### <a id="karska">\*karska- "lively" (adj)</a>
@@ -14879,7 +14878,7 @@ W: \
 -- MDu. _kiven_ [st./wk.] \
 -- MHG _kīben_ "to quarrel, fight" \
 PIE: \*ǵeibʰ-e- \
-MDu. _kipen_ [wk.] "to strive, struggle" could have its _p_ from the iterative \*kippōþi, \*kibunanþi (see [\*kipp/bōn-](kippon)). This is not the same iterative as [\*kippōn-](#kippon). \
+<!-- MDu. _kipen_ [wk.] "to strive, struggle" could have its _p_ from the iterative \*kippōþi, \*kibunanþi (see [\*kipp/bōn-](kippon)). This is not the same iterative as [\*kippōn-](#kippon). \ -->
 REF: [EDPG]\: 287
 
 ### <a id="kila">\*kila- [m.] "bulb(?)" (n)</a>
@@ -16168,7 +16167,7 @@ REF: [EDPG]\: 313
 W: \
 -- E Scot _kite_ "stomach" \
 -- MDu. _cute_ [n./f.] "calf of the leg; fish roe", Du. _kuit_ [c.] "id." \
-MDu. _cute_ goes back to \*kūta-, but EDu. _kiete_ together with Bav. _kütze_ and Scot _kite_ continue a stem variant with an umlaut factor, possibly a collective formation \*kūtja-. The original meaning was "soft part of the body" (Lat _pulpa_), which evolved into both "calf" and "fish roe" (also cf. Teuth. _cuyte_ "spleen"). No certain etymology. The received comparison with Skt. _gudá_- [m.] "intestine, rectum, arse, vagina" (cf. Pokorny IEW: 393-8) is formally problematic because of its short \*u. Within Germanic, however, the word can hardly be dissociated from MHG _kotze_ [f.] "whore; vagina" < \*kuttō(n)- and Du. _kont_ "butt", E _cunt_. \
+<!-- MDu. _cute_ goes back to \*kūta-, but EDu. _kiete_ together with Bav. _kütze_ and Scot _kite_ continue a stem variant with an umlaut factor, possibly a collective formation \*kūtja-. The original meaning was "soft part of the body" (Lat _pulpa_), which evolved into both "calf" and "fish roe" (also cf. Teuth. _cuyte_ "spleen"). No certain etymology. The received comparison with Skt. _gudá_- [m.] "intestine, rectum, arse, vagina" (cf. Pokorny IEW: 393-8) is formally problematic because of its short \*u. Within Germanic, however, the word can hardly be dissociated from MHG _kotze_ [f.] "whore; vagina" < \*kuttō(n)- and Du. _kont_ "butt", E _cunt_. \ -->
 REF: [EDPG]\: 314
 
 ## Kw
