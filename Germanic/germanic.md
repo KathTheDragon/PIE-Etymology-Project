@@ -16492,3 +16492,1513 @@ W: \
 -- EDu. _korre_ "dog" \
 <!-- A West Germanic word. It is often reconstructed as \*kurzan- in view of the potential link with [\*kurzōn- "to creak, groan, grumble, coo"](#kurzon) (q.v.). I would like to adduce MDu. _querie_ [f.] "bitch" < \*kwar(z)jō-(?), however, which with its initial \*kw-, precludes the connection with this verb. \ -->
 REF: [EDPG]\: 321
+
+## L
+
+### <a id="labēn">\*labēn- [wk.] "to hang loosely, dangle" (v)</a>
+N: \
+-- ON _lafa_ \
+-- Far. _lava_ \
+-- Elfd. _lavi_, obl. _låvå_ \
+PIE: \*h₂lop-éh₁- \
+<!-- A stative to (M)Du. _laf_, WFri. _lef_ "weak, tasteless, cowardly" < \*laba- (for the \*b, cf. MHG _lab-schīze_ [f.] "diarrhea"). Possibly related to Lith. _al̃pti_ (_alpstù_) "to faint, crave" < \*h₂elp-ske- (cf. Franck 1949: 367). \ -->
+REF: [EDPG]\: 321
+
+### <a id="lagja">\*lagja- [m.] "leg" (n)</a>
+N: \
+-- ON _leggr_ "leg; hollow bone; stalk" \
+-- Far. _leggur_ "leg, bone, shaft" \
+-- Elfd. _legg_ "trunk; leg" \
+<!-- An etymologically ambiguous North Germanic word (E _leg_ is a Norse loanword). The formation can be related to [\*lawiz-](#lawiz) and [\*lehizan-](#lehizan) (q.v.). If so, it must continue either \*lokʷ-ió- or \*logʷʰ-io- (with delabialization as in [\*sagja- "man, hero"](#sagja-1) < \*sokʷH-ió-). The alternative connection with Lat. _lacertus_ [m.] "upper arm" (cf. ON _arm-leggr_ "arm") < \*lHk-es-ito-(?) implies a proto-form \*lHk-ió-. Finally, it is also possible to start from a ja-stem derived from the verb [\*lagjan- "to put"](#lagjan) (q.v.). \ -->
+REF: [EDPG]\: 321
+
+### <a id="lagjan">\*lagjan- [wk.] "to put" (v)</a>
+E: \
+-- Go. _lagjan_ \
+N: \
+-- ON _leggja_ \
+-- Far. _leggja_ \
+-- Elfd. _legga_ \
+W: \
+-- OE _lecgan_, E _to lay_ \
+-- OS _leggian_ \
+-- Du. _leggen_ \
+-- OHG _lecken_, _legen_, G _legen_ \
+PIE: \*logʰ-éie- \
+<!-- COGN: Formally identical to Hitt _lāki_ "to knock out; to fall, be felled, be toppled", CS _ložiti_ "to lay", Ru. _ložít'sja_ "lie down", SCr. _lòžiti_ "to spread out; to kindle" \ -->
+<!-- The causative to [\*leg(j)an-](#legjan) (q.v.) . \ -->
+REF: [EDPG]\: 322
+
+### <a id="lagu">\*lagu- [m.] "lake" (n)</a>
+N: \
+-- ON _lǫgr_ "sea; water, liquid" \
+-- Far. _løgur_ "liquid; (hot) water; rainfall" \
+-- Elfd. _lag_ "decoction" \
+W: \
+-- OE _lagu_ \
+-- OS _lagu_ \
+PIE: \*lok-ú- \
+<!-- COGN: Gr. _λάκκος_ [m.] "pond, cistern, pit, reservoir" < \*lk-uo-, Lat. _lacus_, -_ūs_ [m.] "lake, pond, pit" (with _o_ > _a_), OIr. _loch_ [m.] "lake, pond", OCS _loky_ [f.] "puddle, pool, reservoir", SCr. _lȍkva_ [f.] "id." < \*lok-u(e)H- \ -->
+<!-- A European word. The zero grade of Gr. _λάκκος_ (with gemination as in _ἵππος_ [m.] "horse" < \*h₁eḱ-uo-) implies an ablauting paradigm. e.g. \*lók-us, gen. \*l̥k-u-ós. \ -->
+REF: [EDPG]\: 322
+
+### <a id="lahan">\*lahan- [st.] "to blame, reproach" (v)</a>
+N: \
+-- Icel. _lá_ [wk.] \
+W: \
+-- OE _lēan_ \
+-- OS _lahan_ "to blame, prohibit" \
+-- OHG _lahan_ "id." \
+PIE: \*lók-e- \
+<!-- COGN: OIr. _locht_ [m.] "fault, shortcoming, vice; offence; (physical) blemish" < \*lok-tu- \ -->
+<!-- A Germanic-Celtic isogloss possibly implying a shared juridical innovation in the Celto-Germanic contact zone. Unrelated to Gr. _λάσκω_ "to crack, shout, cry" < \*lh₂k-ske- and Lat. _loqui_ "to speak", OIr. _ad-tluchedar_ "to thank" < \*tlokʷ- (cf. Ru. _tolk_ "meaning" < \*tlkʷ-o-). See further [\*lahtra-](#lahtra) and [\*lak(k)ōn-](#lakkon). \ -->
+REF: [EDPG]\: 322
+
+### <a id="lahsa">\*lahsa- [m.] "salmon" (n)</a>
+N: \
+-- ON _lax_ \
+-- Far. _laksur_ \
+-- Elfd. _laks_ \
+PIE: \*loḱ-so- \
+<!-- COGN: ToB _laks_ [m.] "fish"(?), Lith. _lašišà_ [f.] "salmon", Latv. _lasis_ [m.] "id." < \*loḱ-i(s)-, OPru. \*_lasasso_ (for attested _lalasso_), Ru. _losós'_, _lósos'_, Cz. _losos_ [m.] "id." < \*loḱ-os-(i)o- \ -->
+<!-- If ToB _laks_ is unrelated, which is possible in view of the meaning "fish", the word represents a Germanic-Balto-Slavic isogloss. The alternation of PGmc. \*lahsa- < \*loḱ-so- vs. Ru. losós' < \*loḱ-os- points to a hysterokinetic s-stem, nom. \*lóḱ-ōs, gen. \*lok-s-ós. Unrelated is ON _laki_, Elfd. _latji_ [m.] "burbot" < \*lakan-. \ -->
+REF: [EDPG]\: 322
+
+### <a id="lahtra">\*lahtra- [n./m.] "vice" (n)</a>
+W: \
+-- OE _leahtor_ [n.] "vice, fault, blemish, sin" \
+-- MDu. _lachter_ [m.] "blemish, shame, abomination" \
+PIE: \*lok-tro- \
+<!-- Derived from the strong verb [\*lahan-](#lahan) (q.v.) with the instrumental suffix \*-tro-. Also cf. ON _lǫstr_, Far. _løstur_ [m.] "damage, injury, defect, blemish" < \*lahstu- and OS _lastar_, Du. _laster_, OHG _lastar_, G _Laster_ [m.] "vice, defamation" < \*lahstra-. \ -->
+REF: [EDPG]\: 322
+
+### <a id="laibjan">\*laibjan- [wk.] "to leave over, leave behind" (v)</a>
+E: \
+-- Go. _bi-laibjan_ \
+N: \
+-- ON _leifa_ \
+-- Far. _leiva_ \
+-- Elfd. _lieva_ \
+W: \
+-- OE _lǣfan_, E _to leave_ \
+-- OFri. _lēva_, _lēwa_, _liōwa_, _liouwa_ \
+-- OS _far-lēƀian_ \
+-- OHG _leiben_ \
+PIE: \*loip-éie- \
+<!-- The causative to [\*līban-](#liban) (q.v.). \ -->
+REF: [EDPG]\: 323
+
+### <a id="laibō">\*laibō- [f.] "remains, remnant" (n)</a>
+E: \
+-- Go. _laiba_ \
+N: \
+-- ON _leif_ "inheritance" \
+-- Elfd. _lievur_ [f.pl.] "id." \
+W: \
+-- OE _lāf_ "id." \
+-- OS _lēƀa_ "remainder; inheritance" \
+-- OHG _leiba_ "remains", MHG _leibe_ "id." \
+PIE: \*loip-éh₂- \
+<!-- An o-stem derived from [\*līban-](#liban) (q.v.). \ -->
+REF: [EDPG]\: 323
+
+### <a id="laidjan">\*laidjan- [wk.] "to lead" (v)</a>
+N: \
+-- ON _leiða_ \
+-- Far. _leiða_ \
+-- Elfd. _lieða_ \
+W: \
+-- OE _lǣdan_, E _to lead_ \
+-- OFri. _lēda_ \
+-- OS _lēdian_ \
+-- Du. _leiden_ \
+-- OHG _leiten_, _leitten_, G _leiten_ \
+PIE: \*loit-éie \
+<!-- The causative to [\*līþan-](#lithan) (q.v.). With the same ablaut grade, cf. ON _leið_, OE _lād_ [f.] "road" < \*laidō- < \*loit-éh₂-. \ -->
+REF: [EDPG]\: 323
+
+### <a id="laihna">\*laihna- [n.] "loan, loaned property" (n)</a>
+N: \
+-- ON _lán_ \
+-- Far. _lán_ \
+W: \
+-- OFri. _lēn_ \
+-- OS _lēhan_ \
+-- Du. _leen_ \
+-- OHG _lēhan_, _lēehin_, G _Lehn_ \
+PIE: \*lóikʷ-no- \
+<!-- A no-stem derived from the strong verb [\*līhwan-](#lihwan) (q.v.). OE _lǣn_ [f.] "loan" (the source of ME _lēnen_, _lenden_, E _to lend_) may continue \*laihniz- through an intermediate form \*laihni-, and has therefore been adduced to reconstruct an s-stem \*laihnaz, pl. \*laihnizō corresponding to Skt. _rékṇas_- [n.] "possessions". This is uncertain, however, as the ni-suffix more often occurs alongside a na-suffix, cf. PNWGm. \*taikna- "sign" vs. Go. _taikns_ < \*taikni-. \ -->
+REF: [EDPG]\: 323
+
+### <a id="laikan">\*laikan- [st.] "to jump" (v)</a>
+E: \
+-- Go. _laikan_ "to frolic, jump for joy, hop" \
+N: \
+-- ON _leika_ [wk.] "to play; to move, swing" \
+-- Far. _leika_ [wk.] "to play; to jump about" \
+-- Elfd. _lieka_ [wk.] "to play" \
+W: \
+-- OE _lācan_ "to swing, flicker; to play", ME leiken "to play; fight; rush" \
+-- MLG _lēken_ [wk.] "to jump" \
+-- MHG _leichen_ [wk./st.] "to jump up; play" \
+PIE: \*lóig-e- \
+<!-- COGN: OIr. _lingid_ "to jump" < \*li-n-g-e-, Lith. _láigyti_ "to run around" < \*loig-éie-, NP _ā-līxtan_ "to jump" < \*lig-e-; the connection with Skt. _réjate_ "to shake" < \*h₁leiǵ-, Gr. _ἐλελίζω_ "to shake" < \*h₁le-h₁liǵ-ie- is rejected by LIV² \ -->
+<!-- An o-present closely related to the iterative MHG _lecken_ "to jump" < [\*likkōn-](#likkon-2) (q.v.). \ -->
+REF: [EDPG]\: 323
+
+### <a id="laiman">\*laiman- [m.] "clay" (n)</a>
+W: \
+-- OE _lām_ [n.], E _loam_ \
+-- OS _lēmo_ \
+-- Du. _leem_ [n.] \
+-- OHG _leimo_, G _Lehm_ \
+PIE: \*h₂loih₁-mon- \
+<!-- COGN: Hitt. halīna- "clay(?)" < \*h₂lih₁-no-(?), Skt. láyate "to cling, stick, nestle; to dissolve" < \*h₂leih₁-e-, Gr. Hsch. _ἀλίνειν_ "to smear", Lat. _linō_, -_ere_ "to smear, seal, rub", OIr. _lenaid_ "to glue; to stick, stay, follow", W _llynu_ "to besmear" < \*h₂li-nh₂- (for older \*h₂li-n-h₁-e-) \ -->
+<!-- A mn-stem to the root \*h₂leih₁- "to smear". For the color of the second laryngeal, see [\*laiza- "clay"](#laiza) < \*h₂loih₁-es-. Further cf. [\*līma- "mud, lime"](#lima). \ -->
+REF: [EDPG]\: 323
+
+### <a id="laisizan">\*laisizan- "less" (comp)</a>
+W: \
+-- OE _lǣssa_, E _less_ \
+-- OFri. _lessa_, _lessera_ \
+-- OS _les_ (adv) \
+PIE: \*leh₂/₃is-is-on- \
+<!-- COGN: Lith. _líesas_, Latv. _liēss_ "thin, lean, arid" < \*leh₂/₃is-o- \ -->
+<!-- The comparative to [\*lītila- ~ \*luttila-](#litila) (q.v.). \ -->
+REF: [EDPG]\: 324
+
+### <a id="laisō">\*laisō- [f.] "track, trail" (n)</a>
+W: \
+-- MDu. _lees_ \
+-- OHG _leisa_, MHG _leise_ \
+PIE: \*lóis-eh₂- \
+<!-- COGN: Identical to CS _lěxa_ [f.] "row", Ru. dial. _lexá_, _léxa_ [f.] "strip of land, furrow, bed", SCr. _lijèha_ "small patch of farmed land, ridge between furrows, flower bed"; also cf. Lat. _līra_ [f.] "furrow", OPru. _lyso_ "bed (field)" < \*leis-eh₂- \ -->
+<!-- A European eh₂-stem. See also [\*laisti-](#laisti) and [\*lisan-](#lisan). \ -->
+REF: [EDPG]\: 324
+
+### <a id="laisti">\*laisti- [m.] "track, trace" (n)</a>
+E: \
+-- Go. _laists_ \
+N: \
+-- ON _leistr_ "stocking-foot, sock" \
+W: \
+-- OE _lǣst_ "footprint, bottom of the foot" \
+-- MDu. _leest_ "model", Du. _leest_ [c.] "boot-tree; waist" \
+-- OHG _leist_ "track", MHG _leist_ "id." \
+<!-- A ti-stem derived from [\*lisan-](#lisan) (q.v.). See also [\*laisō-](#laiso). \ -->
+REF: [EDPG]\: 324
+
+### <a id="laiwizakōn">\*laiwizakōn- [m.] "lark" (n)</a>
+W: \
+-- OE _lāwrice_, _lāwerce_, _lǣwerce_ [f.], E _lark_ \
+-- WFri. _ljurk_ [c.], NFri. _lāsk_ \
+-- Du. _leeuwerik_ [c.] \
+-- OHG _lērahha_, _lēricha_ [f.], MHG _lerche_, _lewercke_ [f.], G _Lerche_ [f.] \
+<!-- Usually assumed to be a diminutive in \*-ikōn- to an s-stem \*laiwaz, gen. \*laiwizaz (cf. Strathmann 2008: 2, 320), which is probably supported by Fi. _leivo_. In addition, NFri. _lāsk_ points to a stem \*laiwas- (cf. Arhammar 1984), apparently unaffected by Verner's law. On a deeper level, the word fails to classify as an inherited Indo-European word. In combination with Lat. _alauda_ (cf. OFr. _aloue_, Fr. _alouette_), a Gaulish loanword, it is possible to analyze the word as a relic from a non-IE language (Schrijver 1997: 309-10). Pre-Gm. \*laiwaz would in this language have alternated with Pre-Celt. \*alauz-, the latter form apparently with the a-prefix that is also found in other non-IE words, such as [\*amslōn- "blackbird"](#amslon) and [\*arut- "ore"](#arut) (q.v.). ON _lævirki_, OSw. _lærikia_, Elfd. _leritja_ and Nw. _lerke_, Sw. _lärka_ are considered to be loanwords from Old English and Low German respectively. \ -->
+REF: [EDPG]\: 324
+
+### <a id="laiza">\*laiza- [n.] "clay" (n)</a>
+N: \
+-- ON _leir_ \
+-- Far. _leir_ \
+-- Elfd. _liera_ [f.] \
+PIE: \*h₂loih₁-es- \
+<!-- A thematicized s-stem \*lajaz, gen. \*laizaz (< \*lajizaz) < \*h₂loih₁-os, \*h₂l(o)ih₁-es-os. For the root \*h₂leih₁-, see [\*laiman-](#laiman). The root-final laryngeal can be identified as \*h₁ in view of the Germanic stem \*laiz-, which must have developed from \*lajiz < \*h₂loih₁-es-, cf. [\*aiza- "ore"](#aiza) < \*h₂ei-es-. \ -->
+REF: [EDPG]\: 324
+
+### <a id="laizjan">\*laizjan- [wk.] "to teach, instruct" (v)</a>
+E: \
+-- Go. _laisjan_ \
+W: \
+-- OE _lǣran_ \
+-- OFri. _lēra_ \
+-- OS _lērian_ \
+-- Du. _leren_ \
+-- OHG _lēren_, _lērran_, G _lehren_ \
+<!-- The causative to [\*lisan-](#lisan) (q.v.). \ -->
+REF: [EDPG]\: 325
+
+### <a id="lajō">\*lajō- [f.] "rock(?)" (n)</a>
+W: \
+-- OFri. _laie_ "slate" \
+-- OS _leia_ "rock" \
+-- MDu. _leye_ "schist, slate", Du. _lei_ [c.] "id." \
+-- MHG _leie_ "rock" \
+<!-- No Indo-European etymology. The word was probably borrowed from Celtic, cf. OIr _lía_, acc. _liaic_ [m.] "stone" and OIr. _lecc_ [f.] "stone, flat slab of rock", MW _llech_ [f.] "slate, slab of stone" < PCelt. \*φlikkā-, which has been compared to PGmc. \*flahō- (Matasovic 2009: 134). The origin of the geminate \*-kk- is uncertain, however. \ -->
+REF: [EDPG]\: 325
+
+### <a id="lakjan-1">\*lakjan- [wk.] "to grab" (v)</a>
+W: \
+-- OE _læccan_, _læccean_ "to take, grasp, seize, catch", E _to latch_ \
+PIE: \*lh₂g-ie- \
+<!-- COGN: Gr. _λάζομαι_ "seize, grasp, take, get hold of" < \*lh₂g-ie- \ -->
+<!-- Possibly a Germanic-Greek isogloss. Note, however, that _λάζομαι_ has also been connected to Gr. _λαμγάνω_ "to take, grasp", which implies an unrelated formation \*lgʷ-ie-. \ -->
+REF: [EDPG]\: 325
+
+### <a id="lakjan-2">\*lakjan- [wk.] "to cause to leak, moisten" (v)</a>
+N: \
+-- Elfd. _lekka_ \
+W: \
+-- OE _leccan_ \
+-- MDu. _lecken_, Du. _lekken_ \
+-- OHG _lecken_, G _lecken_ \
+PIE: \*log-éie- \
+<!-- The causative to [\*lekan-](#lekan) (q.v.). \ -->
+REF: [EDPG]\: 325
+
+### <a id="lakkōn">\*lak(k)ōn- [wk.] "to reproach, blame" (v)</a>
+W: \
+-- MDu. _lacken_, _laken_, Du. _laken_ \
+PIE: \*lok-néh₂- \
+<!-- The iterative to [\*lahan-](#lahan) (q.v.). Also cf. ON _lakr_ "deficient", MDu. _lac_ "lascivious" < \*laka- and OFri. _lek_ [m./n.] "shame, blemish", MDu. _lak_ [m./n.] "lack, deficiency", E _lack_ < \*laka-. \ -->
+REF: [EDPG]\: 325
+
+### <a id="lambiz">\*lambiz- [n.] "lamb" (n)</a>
+E: \
+-- Go. _lamb_ "lamb, sheep" \
+N: \
+-- ON _lamb_ \
+-- Far. _lamb_ \
+W: \
+-- OE _lamb_ \
+-- OFri. _lam_ \
+-- OS _lamb_ \
+-- Du. _lam_ \
+-- OHG _lamb_, G _Lamm_ \
+PIE: \*h₁l-on-bʰ-es- \
+<!-- COGN: Gr. _ἔλαφος_ [m.] "deer" < \*h₁l-n-bʰo- \ -->
+<!-- An s-stem to the base \*h₁l-n-bʰo-, which is supported by Gr. _ἔλαφος_. In both Gothic and Gutnish, the word means "sheep" (cf. Fi. _lammas_ "id."), and this has been taken as an argument in favor of the hypothesis that the Goths emigrated from Gotland. See further [\*algi-](#algi) and [\*elha(n)-](#elhan). \ -->
+REF: [EDPG]\: 325
+
+### <a id="lamjan">\*lamjan- [wk.] "to beat (up), cripple" (v)</a>
+N: \
+-- ON _lemja_ "to flog, beat (down), suppress" \
+-- Far. _lemja_ "to paralyze; to beat, hit" \
+W: \
+-- OE _lemian_ "to lame, cripple; to strike" \
+-- OFri. _lemma_, _lamma_ "to cripple" \
+-- OS _lemmian_ "id." \
+-- MDu. _lemmen_ "to damage, mutilate" \
+-- OHG _lemjan_ "to cripple, lame", G _lähmen_ "id." \
+PIE: \*h₃lomh₁-éie- \
+<!-- COGN: Identical to OCS _lomiti_, Ru. _lomít'_ (_lomljú_), SCr. _lòmiti_ "to break"; further cf. Gr. _νωλεμές_, -_έως_ "without pause, unceasingly" (adv) < \*n-h₃lemh₁ -es, Lat. _lanius_ [m.] "butcher", MIr. _laime_ "axe" < \*h₃lom-io- (with unrounding of _o_ to _a_ as in _lacus_ "lake", for which see [\*lagu-](#lagu)), Lith. _lémti_ (_lemiù_), Latv. _lem̃t_ "to decide, determine, predestine" < \*h₃lem-ie- \ -->
+<!-- A merger of 1) an old causative with direct cognates in Slavic, and 2) a factitive to ON _lami_, OE _loma_, OFri. _lom_, OS, Du. _lam_, OHG, G _lam_ "lame" < \*lama(n)- < \*lomH-o-. See also [\*lumēn-](#lumen). \ -->
+REF: [EDPG]\: 326
+
+### <a id="lamsa">\*lamsa- [n.] "lock" (n)</a>
+N: \
+-- ON _láss_ [m.] \
+-- Far. _lás_ \
+-- Elfd. _lą̊s_ \
+W: \
+-- MLG _lōs_ "padlock" \
+<!-- The nasal in the proto-form \*lamsa-, which is already implied by the etymological link with ON _lǫm_ (pl. _lamar_) [f.] "hinges (of a chest)", Nw. _lam_, _lom_ [f.] "(metal strap of a) hinge", Elfd. _lan_ [n.] "hinge", is confirmed by Elfd. _lą̊s_. The noun, apparently a thematicized s-stem, in turn served as the basis for ON _læsa_, Elfd. _lęsa_ [wk.] "to lock", OHG _lemsen_\* [wk.] "to bar, shut" < \*lamsjan-. No clear etymology: the often proposed link with Lat. _lāmina_, _lammina_ [f.] "thin sheet of metal" is to be rejected. \ -->
+REF: [EDPG]\: 326
+
+### <a id="landa">\*landa- [n.] "land" (n)</a>
+E: \
+-- Go. _land_ \
+N: \
+-- ON _land_ \
+-- Far. _land_ \
+-- Elfd. _land_ \
+W: \
+-- OE _land_, _lond_, E _land_ \
+-- OFri. _lond_ \
+-- OS _land_ \
+-- Du. _land_ \
+-- OHG _lant_, G _Land_ \
+PIE: \*londʰ-o- \
+<!-- An o-grade thematic noun to a European root \*lendʰ- "unused land". It is accompanied by the full-grade formation Elfd. _linda_ [f.] "overgrown field; meadow" and by the zero-grade [\*lunda/ō- "grove"](#lunda). Possibly, the different ablaut variants split off from a static paradigm, nom. \*lóndʰ, gen. \*léndʰ-s, loc. \*lndʰ-én-i (cf. Matasovic 2009: 232). \ -->
+REF: [EDPG]\: 326
+
+### <a id="landjan">\*landjan- [wk.] "to go slowly(?)" (v)</a>
+W: \
+-- MHG _lendern_ "to stroll, amble" \
+PIE: \*londʰ-eie- \
+<!-- COGN: Lith. _lį̃sti_ (_leñda_) "to crawl, creep, get (in, into), taste good", Latv. _lìst_ "crawl, creep, get (in, into), taste good, cut" < \*lndʰ- \ -->
+<!-- MHG _lendern_ can be a frequentative in _r_ created to an iterative \*landjan-, which would imply a root \*lendʰ- that is also found in Baltic. Note, however, the clear association with the semantically identical G _schlendern_. \ -->
+REF: [EDPG]\: 326
+
+### <a id="landjō">\*landjō- [f.] "lower part of the back, kidney, loin" (n)</a>
+N: \
+-- ON _lend_ \
+-- Far. _lend_ \
+W: \
+-- OE _lendenu_ [f.pl.] \
+-- ODu. _lendin_ [f.pl.], Du. _lenden_ [pl.] \
+-- OHG _lentīn_ [f.pl.], G _Lende_ \
+PIE: \*londʰ-ih₂- \
+<!-- COGN: Skt. _rándhra_- [n.] "part of the body of animals, loin" < \*londʰ-ro-, Lat. _lumbus_ [m.] "hips, loins" < \*londʰ-uo-, OCS _lędviję_ [f.pl.] "loins", CS _lędvije_ [n.] "loin", _lędvija_ [f.] "id.", Ru. obs. _ljádveja_ [f.] "thigh", SCr. _ledvija_ [n.pl.] "loins" < \*lndʰ-u-io/eh₂ \ -->
+<!-- The WGm. forms point to an īn-stem, which probably represents a remodeling of the jō-stem continued by ON _lend_ (cf. Fi. _lantio_). An ablaut variant of [\*lund(j)ō-](#lundjo) (q.v.). \ -->
+REF: [EDPG]\: 327
+
+### <a id="langa">\*langa- "long" (adj)</a>
+E: \
+-- Go. _laggs_ \
+N: \
+-- ON _langr_ \
+-- Far. _langur_ \
+-- Elfd. _laungg_ \
+W: \
+-- OE _lang_, E _long_ \
+-- OFri. _long_ \
+-- OS _lang_ \
+-- Du. _lang_ \
+-- OHG _lang_, G _lang_ \
+PIE: \*dlonh₁gʰ-o \
+<!-- COGN: Identical to Lat. _longus_ "long" \ -->
+<!-- A nasalized variant of the PIE root \*dlh₁gʰ- "long", for which see [\*tulgu-](#tulgu). The adjective thus implies a nasal present \*dlénh₁gʰ-e-, which, however, is not attested. \ -->
+REF: [EDPG]\: 327
+
+### <a id="lapan">\*lapan- [st.] "to lick up, lap" (v)</a>
+W: \
+-- OHG _laffan_, MHG _laffen_, G Swi. _laffen_ [st./wk.] \
+<!-- A strong verb back-formed to the iterative [\*lapp/bōn-](#lappon) (q.v.). Also cf. Icel. _lepja_ [wk.] "to lap" < \*lapjan- and OHG _leffil_, G _Löffel_, MDu., Du. _lepel_ "spoon" < \*lapila-. \ -->
+REF: [EDPG]\: 327
+
+### <a id="lappōn">\*lapp/bōn- [wk.] "to lick up, lap" (v)</a>
+N: \
+-- OSw. _lapa_ \
+-- Elfd. _låpå_ \
+W: \
+-- OE _lapian_, E _to lap_ \
+-- EDu. _labben_, _lappen_ \
+-- G Swi. _labben_ \
+PIE: \*lap-neh₂- \
+<!-- COGN: Identical to Lat. _lambō_, -_ere_ "to lick", Lith. _lapènti_ "to drink greedily" (of pigs); also cf. Gr. _λάπτω_ "id." < \*lap-ie-, Alb. _lap_ "to lick up water" < \*lap-, Ru. _lópat_ "to gobble up" < \*lap-eh₂- \ -->
+<!-- An iterative verb 3sg. \*lappōþi, 3pl. \*labunanþi (< \*lap-néh₂-ti, \*lap-nh₂-énti) directly corresponding to Lat. _lambō_, which itself developed from \*lap-neh₂- by Thurneysen's law: \*lapnō > \*lab̃ō- > _lambō_. Lith. _lapènti_ appears to continue \*lap-neh₂- as well, the suffix -_en_- being a remodeling of the zero-grade -_in_- < \*-nh₂-. See further [\*lapan-](#lapan). \ -->
+REF: [EDPG]\: 327
+
+### <a id="lasiwa">\*lasiwa- "weak, feeble" (adj)</a>
+E: \
+-- Go. _lasiws_ \
+W: \
+-- OE _lysu_, _lesu_ "depraved, corrupt, evil" \
+PIE: \*losi-uo- \
+<!-- COGN: ToB _leswi_ pl. "attacks of weakness" < \*losi-u-, Ru. dial. _lóšij_, SCr. _lȍš_ "poor, bad, evil" < \*los-io- \ -->
+<!-- OE _lysu_, _lesu_ has also been taken to continue a zero-grade variant \*lusiwa-, but it is unclear how this zero grade could have arisen. E _lazy_ (continuing OE \*_leasu_?), despite its unclear derivation, also seems to point to \*las(wa)-. A potential zero-grade root \*lus- can possibly be retrieved, however, from MLG _losich_, _lasich_, EDu. _leusigh_ "lax, slow" < \*lusīga-. Further cf. MHG _er-leswen_ [wk.] "to become weak" < \*lasiwjan-, ON _lasinn_ "ill" < \*lasina- and MLG _lasich_ "tired" < \*lasīga- \ -->
+REF: [EDPG]\: 327
+
+### <a id="lata">\*lata- "lax, sluggish" (adj)</a>
+E: \
+-- Go. _lats_ \
+N: \
+-- ON _latr_ "slow, lazy" \
+-- Far. _latur_ "lazy, idle" \
+-- Elfd. _lat_ "id." \
+W: \
+-- OE _læt_ "slow, late", E _late_ \
+-- OFri. _let_ "late" \
+-- OS _lat_ "lazy" \
+-- Du. _laat_ "late" \
+-- OHG _laz_ "lazy" \
+PIE: \*lh₁d-o \
+<!-- COGN: OIr. _ladan_ "dumb" < \*lh₁d-ono- \ -->
+<!-- Also cf. the factitive Go. _latjan_ "to make slow", ON _letja_ "to impede", OE _lettan_ "to delay", OFri. _letta_ "id.", OS _lettian_ "to impede", OHG _lezzen_ "id." < \*latjan-. See [\*lētan-](#letan). \ -->
+REF: [EDPG]\: 328
+
+### <a id="laþōjan">\*laþōjan- [wk.] "to invite" (v)</a>
+E: \
+-- Go. _laþon_ \
+W: \
+-- OE _laðian_ \
+-- OFri. _lathia_ \
+-- OS _lathian_ \
+-- OHG _ladōn_, G _laden_ \
+PIE: \*h₂lot-eh₂-ie- \
+<!-- COGN: Hitt. _halzai_ ~ _halzijanzi_ "to cry out, to shout, to call; to invoke, to recite", CLuv. _halta/i_- "to call, appeal(?)" < \*h₂lt-(o)i- \ -->
+<!-- A Germanic-Hittite isogloss. The Germanic verb is based on Go. _laþo_, ON _lǫð_ [f.] "invitation" < \*laþō- < \*h₁lot-eh₂-. \ -->
+REF: [EDPG]\: 328
+
+### <a id="lauba">\*lauba- [n.] "leaf, foliage" (n)</a>
+E: \
+-- Go. _lauf_ \
+N: \
+-- ON _lauf_ \
+-- Far. _leyv_ \
+-- Elfd. _lov_ \
+W: \
+-- OE _leaf_, E _leaf_ \
+-- OFri. _lāf_ \
+-- OS _lōf_ \
+-- Du. _loof_ \
+-- OHG _loub_, G _Laub_ \
+PIE: \*loubʰ-o- \
+<!-- COGN: Ru. _lub_, SCr. _lȗb_ [m.] "bast", Alb. _labë_ "rind, cork" < \*loubʰ-o-, Lith. _lubà_ [f.] "plank", OPru. _lubbo_ "bast, plank, shelf" < \*lubʰ-eh₂-, Lat. _liber_ [m.] "bark, rind" < \*lubʰ-ro- \ -->
+<!-- A European word with no clear PIE etymology. Also cf. [\*lubja-](#lubja) and [\*luftu-](#luftu). \ -->
+REF: [EDPG]\: 328
+
+### <a id="lauda-1">\*lauda- [n.] "lead" (n)</a>
+W: \
+-- OE _lēad_, E _lead_ \
+-- OFri. _lād_ \
+-- Du. _lood_ \
+<!-- A loanword from Celt. \*φloud-io-, cf. MIr. _lúaide_ [m.] "lead" < \*ploud-, which is connected to Lat. _plumbum_ (< \*plumdʰ-) and Gr. _μόλυβδος_ (_μόλιβος_, var. _μόλυβος_, _μόλιβδος_, _βόλυβδος_, _βόλιμος_, _βόλιβος_). The same word through a different (Pre-Indo-European) route also served as the basis for [\*blīwa- "lead"](#bliwa-2). The idea that the Greek word was borrowed from Lydian _mariwda_-, allegedly "the dark metal", cf. CLuv. _marwai_- "black, dark-colored(?)" (Melchert 2008) is ingenious, but fails to explain how Lydian _r_ could have given Greek _λ_. \ -->
+REF: [EDPG]\: 328
+
+### <a id="lauda-2">\*lauda- [m.] "man" (n)</a>
+E: \
+-- Go. _jugga-lauþs_ "young man" \
+PIE: \*h₁loudʰ-o- \
+<!-- An o-grade formation to [\*leudi- "people"](#leudi) (q.v.). \ -->
+REF: [EDPG]\: 328
+
+### <a id="laugnjan">\*laugnjan- [wk.] "to keep hidden, deny" (v)</a>
+E: \
+-- Go. _laugnjan_ "to reject, deny, cover up" \
+N: \
+-- ON _leyna_ "to hide, conceal" \
+-- Far. _loyna_ "id." \
+W: \
+-- OE _līegnian_ "to deny" \
+-- OFri. _leina_, _laina_ "id." \
+-- OS _lōgnian_ "id." \
+-- Du. _loochenen_ "id." \
+-- OHG _loug(a)nen_ "id.", G _läugnen_ "id." \
+<!-- Probably a factitive to the adjective \*laugna-, cf. Go. _ana-laugns_ "hidden", and thus related to [\*leugan-](#leugan) (q.v.). With the same derivational base, cf. ON _laun_ [f.] "secrecy", OHG _lougna_ [f.] "denial" < \*laugnō-. \ -->
+REF: [EDPG]\: 328
+
+### <a id="lauka">\*lauka- [m./n.] "onion, leek" (n)</a>
+N: \
+-- ON _laukr_ [m.] "leek, onion, garlic" \
+-- Far. _leykur_ [m.] "onion" \
+-- Elfd. _lok_ [m.] "id." \
+W: \
+-- OE _lēac_ [m.] "leek, onion, garlic", E _leek_ \
+-- MDu. _looc_ [n.] "garlic", Du. Flem. _look_ "id." \
+-- OHG _louh_ [n.] "leek", G _Lauch_ [m.] "id." \
+<!-- A word without a certain etymology. It is widely assumed that it was derived from the strong verb [\*leukan- ~ \*lūkan- "to close"](#leukan) (q.v.) in view of the leaves or scales enclosing a stem or growing-point in both leeks and onions. \ -->
+REF: [EDPG]\: 329
+
+### <a id="launa">\*launa- [n.] "reward, recompense" (n)</a>
+E: \
+-- Go. _laun_ \
+N: \
+-- ON _laun_ [n.pl.] \
+-- OSw. _lø̄n_ [n.pl./f.] \
+-- Da. _løn_ [c.] \
+W: \
+-- OE _lēan_ \
+-- OFri. _lān_ \
+-- OS _lōn_ \
+-- Du. _loon_ \
+-- OHG _lōn_ [m./n.], G _Lohn_ [m.] \
+PIE: \*louh₂-no- \
+<!-- COGN: Gr. _ἀπο-λαύω_ "to enjoy" < \*leh₂u-ie-, Gr. _λεία_, Dor. _λᾱίᾱ_ [f.] "booty" < \*leh₂u-ieh₂- (< \*_λᾱϝ-ίᾱ_), Lat. _lucrum_ [m.] "profit" < \*lh₂u-tlo- (with dissimilation of the second _l_) \ -->
+<!-- A no-stem to the PIE root \*leh₂u-. Since \*leh₂u-no- and \*loh₂u-no- would have given PGmc. \*\*lōna- by the regular loss of \*u after \*ō in open syllables, PGmc. \*launa- can only be reconstructed as \*lh₂eu-no- or \*louh₂-no- (with laryngeal metathesis). The word is unrelated to [\*leusan- "to lose"](#leusan) and [\*lewan- "scythe"](#lewan). \ -->
+REF: [EDPG]\: 329
+
+### <a id="lausa">\*lausa- "empty, idle" (adj)</a>
+E: \
+-- Go. _laus_ "empty, devoid" \
+N: \
+-- ON _lauss_ "loose, free" \
+-- Far. _leysur_ "loose, free; idle; uncertain, vague" \
+-- Elfd. _los_ "free, loose" \
+W: \
+-- OE _lēas_ "loose, free; void of; vain, false, deceitful" \
+-- OFri. _lās_ "free; lost; deceitful" \
+-- OS _lōs_ "loose, free" \
+-- Du. _loos_ "idle, stray" \
+-- OHG _los_ "lax, light-hearted, loose", G _los_ "loose" \
+<!-- An o-grade adjective derived from [\*leusan- "to lose"](#leusan) (q.v.). Also cf. the factitive Go. _lausjan_ "to free, recue; to collect (money)", ON _leysa_ "to free; to solve", OE _līesan_ "to loosen, free, deliver", OFri. _lēsa_ "id.", OS _lōsian_ "id.", Du. _lozen_ "to ditch", OHG _lōsen_ "to free", G _lösen_ "id." < \*lausjan-. \ -->
+REF: [EDPG]\: 329
+
+### <a id="lauþra">\*lauþra- [n.] "lather" (n)</a>
+N: \
+-- ON _lauðr_ "lather; froth, foam of the sea" \
+W: \
+-- OE _lēaðor_ "lather", E _lather_ \
+-- OS _lōthar_ "detergent" \
+PIE: \*lh₃-eu-tro- \
+<!-- COGN: Identical to Gr. _λουτρόν_ [n.] "bath"; also cf. Gr. _λούω_, -_ομαι_ "to bathe, wash", Lat. _lavō_, -_āre_ "id.", Alb. _laj_ "id.", Arm. _loganam_ "id." < \*lh₃-éu-e-; also cf. Hitt. _lahui_ ~ _lahuanzi_ "to pour, cast" < \*lóh₃-u-ei, \*lh₃-u-énti \ -->
+<!-- An instrumental noun created to a thematicized u-stem verb \*lh₃-éu-e- "to wash". See also [\*law(w)a-](#lawwa). \ -->
+REF: [EDPG]\: 329
+
+### <a id="lawiz">\*lawiz- [n.] "ham, thigh" (n)</a>
+N: \
+-- ON _lær_ \
+-- Far. _lær_ \
+-- OSw. _lār_ \
+-- Elfd. _lår_ \
+W: \
+-- OE _lēow_, pl. _lēower(a)_ \
+PIE: \*logʷʰ-es- \
+<!-- While OSw. _lār_ and ON _lær_ (with ʀ-fronting) go back to \*lawaz-, OE _lēow_ presupposes a proto-form \*lawiz-. Both of these variants split off from a neuter s-stem \*lawaz, pl. \*lawizō. This formation may be related to [\*lagja- "leg"](#lagja) (q.v.). \ -->
+REF: [EDPG]\: 329
+
+### <a id="lawwa">\*law(w)a- [n.] "oak bark, tan" (n)</a>
+W: \
+-- MDu. _loo_, Du. _looi_ \
+-- OHG _lō_, G _Lohe_ [f.] \
+PIE: \*lh₃-ou-o- \
+<!-- Also cf. MDu. _looien_, _louwen_, Du. _looien_ [wk.] "to tan". Related to [\*lauþra-](#lauthra) (q.v.). \ -->
+REF: [EDPG]\: 330
+
+### <a id="lawwō">\*lawwō- [f.] "groove" (n)</a>
+N: \
+-- ON _lǫgg_ "groove in the staves of a cask" \
+-- Far. _løgg_ "id." \
+W: \
+-- OE _lim-lǣw_ "injury to the limb, mutilation" \
+-- OHG _līh-lōa_ "scar" \
+PIE: \*louH-éh₂- \
+<!-- An o-stem to the root \*leuH- "to cut off", for which cf. [\*lewan- "scythe"](#lewan). The geminate \*-ww- points to original oxytony. \ -->
+REF: [EDPG]\: 330
+
+### <a id="legjan">\*leg(j)an- [st.] "to lie" (v)</a>
+E: \
+-- Go. _ligan_ \
+N: \
+-- ON _liggja_ \
+-- Far. _liggja_ \
+-- Elfd. _ligga_ \
+W: \
+-- OE _licgan_, E _to lie_ \
+-- OFri. _lidza_ \
+-- OS _liggian_ \
+-- Du. _liggen_ \
+-- OHG _lickan_, _ligan_, G _liegen_ \
+PIE: \*legʰ-ie- \
+<!-- COGN: Gr. Hsch. _λέχομαι_ "to go to sleep", OIr. _laigid_ "to lay, lie down", OCS _lešti_ (_lęgǫ_), Ru. _leč'_ (_ljágu_), SCr. _lèći_ "to lie (down)" (the nasal present after e.g. OCS _sěsti_ (_sędǫ_) "to sit") < \*légʰ-e-, Lat. _lectus_ [m.] "bed, couch" < \*legʰ-to- \ -->
+<!-- See also [\*lēgu-](#legu) and [\*lagjan-](#lagjan). \ -->
+REF: [EDPG]\: 330
+
+### <a id="lēgu">\*lēgu- "low" (adj)</a>
+N: \
+-- ON _lágr_ \
+-- Far. _lágur_ \
+-- Elfd. _låg_ \
+W: \
+-- OFri. _lēch_, _leich_, WFri. _leech_ \
+-- MDu. _lage_, Du. _laag_ \
+-- MHG _læge_ \
+<!-- A lengthened grade adjective derived from [\*leg(j)an-](#legjan) (q.v.) . In view of the ja-stem forms in West Germanic, the word must probably be reconstructed as a u-stem. ME _lāh_, E _low_ is assumed to be a Nordic loanword. \ -->
+REF: [EDPG]\: 330
+
+### <a id="lehizan">\*lehizan- [m.] "fleshy part of the body, calf" (n)</a>
+W: \
+-- OE _līra_ "muscle, soft parts of the body", E _lire_ "flesh, muscle, brawn" \
+-- MDu. _liere_ [f.] "fleshy part of the leg, calf" \
+PIE: \*lek/kʷ-es-(?) \
+<!-- An etymologically problematic word. The reconstruction \*ligizan- (thus Pokorny IEW: 673) must be abandoned in view of MDu. _liere_. The material, in fact, straightforwardly points to a proto-form \*līran-. The alternative, \*lehizan-, can theoretically be connected to PGmc. [\*lawiz- "ham, thigh"](#lawiz), but only if this formation developed from \*lokʷ-es- by Verner's law, which is only one of many possibilities. \ -->
+REF: [EDPG]\: 330
+
+### <a id="lekan">\*lekan- [st.] "to leak, drip" (v)</a>
+N: \
+-- ON _leka_ \
+-- Far. _leka_ \
+W: \
+-- E _to leak_ \
+-- MDu. _leken_ [st./wk.] \
+-- OHG _lehhan_, MHG _lechen_ [st./wk.] \
+PIE: \*lég-e \
+<!-- COGN: Arm. _lič_ "lake" < \*lēg-ieh₂-, MW _dilein_ "to destroy" < \*-leg-e-, OIr. _legaid_ "to melt, perish" < \*leg-eh₂-ie-, W _llaith_ "wet" < \*leg-to- \ -->
+<!-- A strong verb to a marginally attested root \*leg-. See also [\*lakjan- 2](#lakjan-2) and [\*lōki-](#loki). Arm. _lič_ is formally and semantically close to Far. _lækja_ [f.] "well, puddle" < [\*lēkjōn-](#lekjon) (q.v.). \ -->
+REF: [EDPG]\: 331
+
+### <a id="lēkinōn">\*lēkinōn- [wk.] "to heal" (v)</a>
+E: \
+-- Go. _lekinon_ \
+N: \
+-- ON _lækna_ \
+W: \
+-- OE _lǣcnian_ \
+-- ODu. _lāknon_ \
+-- OHG _lāchinōn_, MHG _lāchenen_ \
+<!-- A verb derived from [\*lēkja- "doctor; leech"](#lekja) (q.v.). It served as the derivational base for ON, Icel. _læknir_, Far. _lækni_ [m.] "doctor" < \*lēkinja-. \ -->
+REF: [EDPG]\: 331
+
+### <a id="lēkja">\*lēkja- [m.] "doctor; leech" (n)</a>
+E: \
+-- Go. _lekeis_ "doctor" \
+N: \
+-- ON _lækir_ "id." \
+-- Da. _læge_ [c.] "id." \
+W: \
+-- OE _lǣce_ "doctor; leech", E _leech_ \
+-- OFri. _lētza_ "doctor" \
+-- ODu. _lake_ "leech", MDu. _laecke_ "id." \
+-- OHG _lāhhi_, _lāchi_ "id." \
+<!-- A word that is usually assumed to have been borrowed from Celtic \*lēgio-, cf. OIr. _liaig_ "doctor", before the great sound shifts. If the original meaning was "blood-letter" ("leech"), however, the word can definitely be linked to the cluster of [\*lekan- "to leak"](#lekan) (q.v.), in particular to the formally close [\*lēkjōn- "rivulet"](#lekjon) (q.v.). This would rather imply a Germanic origin. Also cf. Nw. _lækjar_, Sw. _lākare_ [m.] "doctor" < \*lēkjarjan- (= OCS _lěkarъ_ [m.] "id."), which was derived from a factitive \*lēkjan-, cf. Nw. _lækja_, Elfd. _lātja_ [wk.] "to heal" (= OCS _lěčiti_ "id."). See further [\*lēkinōn-](#lekinon). \ -->
+REF: [EDPG]\: 331
+
+### <a id="lēkjōn">\*lēkjōn- [f.] "rivulet(?)" (n)</a>
+N: \
+-- Far. _lækja_ "well, waterhole, waterspout" \
+-- Nw. _lækje_ "rivulet, wooden water-pipe" \
+PIE: \*lēg-ieh₂- \
+<!-- COGN: Close to Arm. _lič_ "lake" < \*leg-ieh₂- \ -->
+<!-- Within Germanic, this formation seems to have been derived from [\*lekan-](#lekan) (q.v.). It nevertheless displays a remarkable similarity with Armenian _lič_. See also [\*lēkja- "healer"](#lekja). \ -->
+REF: [EDPG]\: 331
+
+### <a id="lepjan">\*lepjan- [m.] "lip" (n)</a>
+W: \
+-- OE _lippa_, E _lip_ \
+-- OFri. _lippa_ \
+-- MDu. _lippe_ [f.], Du. _lip_ [c.] \
+PIE: \*leb-ion- \
+<!-- COGN: Close to Gr. _λοβός_ [m.] "lobe, lap, slip" < \*lob-o- and Lat. _labium_ [n.] "lip" < \*lob-io- (with _a_ < \*o as in _lacus_ "lake" < \*lok-u-) \ -->
+<!-- Within Germanic, also cf. ODu. _lepora_ pl., OHG _leffur_ [m.] "lip" < \*lepaza-. See also [\*werila/ō-](#werila). \ -->
+REF: [EDPG]\: 331
+
+### <a id="lesan">\*lesan- [st.] "to pick, select" (v)</a>
+E: \
+-- Go. _lisan_ "to collect" \
+N: \
+-- ON _lesa_ "to grasp, pick up, to gather; to knit" \
+W: \
+-- OE _lesan_ "to gather, collect", E _to lease_ ("to glean") \
+-- OS _lesan_ "to gather" \
+-- Du. _lezen_ "to read; to select" \
+-- OHG _lesan_ "to read, examine; to collect", G _lesen_ "id." \
+PIE: \*lés- \
+<!-- COGN: Identical to Hitt. _leszi_ ~ _lissanzi_ "to pick, to gather", Lith. _lèsti_ (_lesù_) "to pick (of birds)", Latv. _lest_ "to pick; to count" \ -->
+<!-- An old athematic verb 3sg. \*lés-ti, 3pl. \*ls-énti. The original meaning "to pick, select" developed into "to read" through the intermediate sense "to examine, analyze", not through "to pick letters", as is often assumed. \ -->
+REF: [EDPG]\: 331
+
+### <a id="lētan">\*lētan- [st.] "to let, allow" (v)</a>
+E: \
+-- Go. _letan_ \
+N: \
+-- ON _láta_ \
+-- Far. _láta_ \
+-- Elfd. _låta_ [wk.] \
+W: \
+-- OE _lǣtan_, E _to let_ \
+-- OFri. _lēta_ \
+-- OS _lātan_ \
+-- Du. _laten_ \
+-- OHG _lazan_, G _lassen_ \
+PIE: \*léh₁d-e \
+<!-- COGN: Gr. _ληδεῖν_ "to be tired", Alb. _lodh_ "to tire, fatigue, harass" < \*léh₁d-e-, Lat. _lassus_ "tired, weary" < \*lh₁d-to- \ -->
+<!-- A reduplicated strongverb, cf. Go. _lailot_, ON _lót_, _lét_ etc. See also [\*lata-](#lata). \ -->
+REF: [EDPG]\: 332
+
+### <a id="leþra">\*leþra- [n.] "leather" (n)</a>
+N: \
+-- ON _leðr_ \
+-- Far. _leður_ \
+-- Elfd. _leðer_ \
+W: \
+-- OE _leðer_, E _leather_ \
+-- OFri. _lether_ \
+-- MDu. _leder_, Du. _leer_ \
+-- OHG _ledar_, G _Leder_ \
+<!-- A Celtic loanword, cf. MIr. _lethar_, MW _lledr_ [m.] "leather" < PCelt. \*φlitro- < PIE \*pl-tro-. See also [\*fella-](#fella). \ -->
+REF: [EDPG]\: 332
+
+### <a id="leuba">\*leuba- "dear, beloved" (adj)</a>
+E: \
+-- Go. _liufs_ \
+N: \
+-- ON _ljúfr_ \
+W: \
+-- OE _lēof_ \
+-- OS _liof_ \
+-- Du. _lief_ \
+-- OHG _liub_, _liob_, G _lieb_ \
+PIE: \*leubʰ-o- \
+<!-- COGN: Formally identical to OCS _ljubъ_ "sweet, pleasant", Ru. _ljubój_ "any, either", SCr. _ljub_ "dear, beloved"; also cf. Alb. _lumë_ "blessed" (if from \*lubʰ-no-) \ -->
+<!-- A European adjective. Related to [\*luba-](#luba) (q.v.). \ -->
+REF: [EDPG]\: 332
+
+### <a id="leudan">\*leudan- [st.] "to grow" (v)</a>
+E: \
+-- Go. _liudan_ \
+W: \
+-- OE _lēodan_ \
+-- OS _liodan_ \
+-- OHG _liotan_ \
+PIE: \*h₁léudʰ-e- \
+<!-- COGN: ToA _lät_-, _länt_-, ToB _lät_-, _länn_- "to go out" < \*h₁lu-n-dʰ-, Skt. _ródhati_ "to grow", YAv. _raoδəṇti_ 3pl.pres. "id." < \*h₁leudʰ-e-, Gr _ἤλυθον_ aor. "went, came", OIr. _luid_ pret. "went" < \*h₁ludʰ- \ -->
+<!-- A present created to an originally aoristic root \*h₁ludʰ- "to come out". Also cf. the iterative MDu. _loden_ [wk.] "to sprout" < \*ludōn-. See also [\*leudi-](#leudi), [\*lauda-](#lauda) and [\*ludja/ō-](#ludja). \ -->
+REF: [EDPG]\: 332
+
+### <a id="leudi">\*leudi- [m.] "man; people" (n)</a>
+N: \
+-- ON _lýðr_ "people, men" \
+-- Far. _undir-lýður_ "weak-willed person" \
+W: \
+-- OFri. _liūd_ [n.] "people" \
+-- OS _liud_ "people" \
+-- OHG _liut_ [m./n.] "people" \
+PIE: \*h₁leudʰ-i- \
+<!-- COGN: Lith. liaudis, Latv. jaudis pl. "people" < \*h₁leudʰ-i-, Gr. £A£uig£po; "free", Lat. fiber "id." < \*h₁leudʰ-ero- \ -->
+<!-- A Baltic-Germanic i-stem, likely to have been derived from the verb \*leudan- "to grow". From a social perspective, the \*leudi- probably referred to the unbound "common people" in view of the link with Gr. tA.£Uig£po; and Lat lfber "free". A plain a-stem \*leuda- is attested as ON lj6ðr [m.] "people", OE leod [m.] "man". \ -->
+REF: [EDPG]\: 332
+
+### <a id="leugan">\*leugan- [st.] "to lie" (v)</a>
+E: \
+-- Go. _liugan_ \
+N: \
+-- ON _ljúga_ \
+-- Far. _lúgva_ \
+-- Elfd. _liuoga_ \
+W: \
+-- OE _lēogan_, E _to lie_ \
+-- OFri. _liāga_ \
+-- OS _liogan_ \
+-- Du. _liegen_ \
+-- OHG _liugan_, _liogan_, G _lügen_ \
+PIE: \*léugʰ-e- \
+<!-- COGN: OCS l'bgati (l'bip) "to lie", OIr. fol-lugaid "to hide" < \*lugʰ-eh₂- \ -->
+<!-- A strong verb to a European root \*leugʰ-. See also \*laugnjan-, \*lugino-, \*lugi- and \*luk(k)on-. \ -->
+REF: [EDPG]\: 333
+
+### <a id="leugō">\*leugō- [f.] "marriage" (n)</a>
+E: \
+-- Go. _liuga_ \
+<!-- COGN: OIr. luige [n.] "oath" < \*lugʰ-io- \ -->
+<!-- Also cf. Go. Iiugan [wk.] "to marry" < \*leugen- and OFri. logia, Ioia [wk.] "to arrange, allot; to join; to vouch; to marry" < \*lugen-. In view of OIr. luige, the original meaning of the root \*lugʰ- should probably be reconstructed as "to bind by oath". It belongs to a wider range of Germanic-Celtic legal isoglosses (cf. \*aipa- "oath"), which together are a reflection of a shared cultural sphere. \ -->
+REF: [EDPG]\: 333
+
+### <a id="leuhada">\*leuhada- [n.] "light" (n)</a>
+E: \
+-- Go. _liuhaþ_ [f.] \
+W: \
+-- OE _lēoht_, E _light_ \
+-- OFri. _liācht_, WFri. _ljocht_ \
+-- OS _lioht_ \
+-- Du. _licht_ \
+-- OHG _lioht_, G _Licht_ \
+PIE: \*leuk-ot- \
+<!-- COGN: Hitt lukkatt- [c.] "dawn, next morning" < \*luk-ot- \ -->
+<!-- An old t-stem to the root \*leuk- "to shine, be bright", for which cf. \*leuhna-, \*leuhsa-, \*leuskan- and \*leuskan-. The formati_on is semantically and derivationally parallel to \*naht- "night" (q.v.), which also continues a PIE t-stem. \ -->
+REF: [EDPG]\: 333
+
+### <a id="leuhman">\*leuhman- [m.] "beam of light" (n)</a>
+N: \
+-- ON _ljómi_ "flash of light, radiance" \
+-- Far. _ljómi_ "light, glare, brilliance" \
+W: \
+-- OE _lēoma_ "(beam of) light, radiance" \
+-- OS _liomo_ "shine" \
+PIE: \*léuk-mon- \
+<!-- COGN: Lat lilmen [n.] "light" < \*leuk(s)-men- \ -->
+<!-- An mn-stem related to \*leuhada- "light" (q.v.). \ -->
+REF: [EDPG]\: 333
+
+### <a id="leuhna">\*leuhna- [n.] "lightning" (n)</a>
+N: \
+-- Nw. _ljon_, _lyn_ \
+-- Sw. _ljung-eld_ \
+-- Gutn. _liaugn_ \
+-- Da. _lyn_ \
+PIE: \*léuk-no- \
+<!-- A formation closely related to Go. lauhmuni [f.] "flash" < \*I(a)uhmunjo- and ME leven "lightning, flash, flame" < \*l(a)uhumna-. The West Norse forms directly point to a proto-form \*leuhna-, but Sw. ljung-eld and Gutn. liaugn developed from OEN \*ljiifn by regular dissimilation of -ufn- to -ugn-, cf. Sw. ugn, Elfd. ungen [m.] "oven" < PGmc. \*ufna-. The cluster -ufn- must itself have arisen from PGmc. \*-uhn-. Also cf. the derived jon-stem OSw. Iyghna [f.] "lightning". \ -->
+REF: [EDPG]\: 333
+
+### <a id="leuhsa">\*leuhsa- "light, bright" (adj)</a>
+N: \
+-- ON _ljóss_ \
+-- Far. _ljósur_ \
+-- Elfd. _liuos_ \
+PIE: \*leuk-so- \
+<!-- COGN: Skt. r6cas-, Av. raocah- [n.] "light" < \*leuk-es- \ -->
+<!-- An adjective close to ON lj6s [n.] "light" < \*leuhsa-, which is no doubt a thematicization of the PIE s-stem \*leuk-es-. It gave rise to the factitive ON Iysa, OE llexan [wk.] "to shine" < \*leuhsjan-. See also \*leuhman-, \*leuhna- and \*leuskan-. \ -->
+REF: [EDPG]\: 334
+
+### <a id="leukan">\*leukan- ~ \*lūkan- [st.] "to close; to pull" (v)</a>
+E: \
+-- Go. _ga-lukan_ "to close", _us-lukan_ "to pull (a sword)" \
+N: \
+-- ON _lúka_, _ljúka_ "to close, finish" \
+-- Far. _lúka_ "to close; to weed, clean out" \
+W: \
+-- OE _lūcan_ "to plait" \
+-- OFri. _lūka_ "to close; to join; to pull" \
+-- MDu. _luken_ "to weed; to pull; to draw a sword or knife; to stab(?)", Du. luiken "to close" \
+-- OHG _liohhan_ "to pull, pluck", _lūhhan_ "to close", MHG _liechen_, _lūchen_ "to close; to pull; to shirk, crouch; to slip" \
+PIE: \*léug/ǵ-e- \
+<!-- A verb with a complex semantic field. It is likely that two entirely different verbs merged in view of the formal distinction between OHG liohhan "to pull" and OHG liihhan "to close". The former can be compared to Gr. Auyo� "flexible branch, twig suited for twisting" < \*lug-a- and Lith. lugnas "flexible" < \*lug-no-, by assuming that the original meaning "to bend", cf. ON lykna [wk.] "to bend the knees", developed into "to jerk" and "to pull out" (cf. \*lukka"tuft"). The verb "to close", on the other hand, is semantically closer to Skt. rujiti "to break", Lith. 16zti "id." < \*Jurgl-. \ -->
+REF: [EDPG]\: 334
+
+### <a id="leusan">\*leusan- [st.] "to lose" (v)</a>
+E: \
+-- Go. _fra-liusan_ \
+W: \
+-- OE _for-lēosan_ \
+-- OFri. _for-liāsa_, _for-liēsa_ \
+-- OS _far-liosan_ \
+-- Du. _ver-liezen_ \
+-- G _ver-lieren_ \
+PIE: \*léus-e- \
+<!-- COGN: Hitt. liiri- [c./n.] "loss of honor, disgrace, humiliation; financial loss" < \*luh₁-ri-, ToAB lawa- "to send" < \*leuh₁-, Skt. lundti "to cut (oft)" < \*lu-n-eh₁-, Gr. Mw "to loosen, liberate, make loose, destroy, pay", Lat. luo, -ere "to suffer, make amends for", OIr. as-lof "to escape" < \*eks-luw-e- < \*luh₂e- \ -->
+<!-- A strong verb based on an extension of the PIE root \*leuh₂ "to loosen". See also \*lausa-. \ -->
+REF: [EDPG]\: 334
+
+### <a id="leuskan">\*leuskan- [m.] "groin" (n)</a>
+N: \
+-- Icel. _ljóski_ \
+-- OSw. _liuske_ \
+-- Sw. _ljumske_ [c.] \
+-- Elfd. _liuoska_ [f.] \
+W: \
+-- E _leske_ "flank" \
+-- NFri. Hall. _jaoskə_ pl. "id." \
+-- MLG _lēsche_, _leische_ "genitalia" \
+-- MDu. _liesche_ [f.] "groin; membrane", Du. _lies_ [c.] "groin" \
+<!-- A word of disputed o rigin. Some have compared \*lawiz- (cf. De Vries 1971: 400), but in view of the formally identical Far. lj6ski [m.] "light, glimmer, gleam", it is more likely that the word was derived from \*leuhsa- "light" (with the kan-suffix for body parts). The original meaning may then have been "transparent or light skin". MLG liese "thin skin" is probably the same word (Teuchert 1972: 330), cf. Brandenburg liese [f.] "layer of fat around the kidneys". \ -->
+REF: [EDPG]\: 334
+
+### <a id="leuta">\*leuta- "ugly, bad" (adj)</a>
+E: \
+-- Go. _liuts_ "deceitful, fraudulent" \
+N: \
+-- ON _ljótr_ "ugly" \
+-- Far. _ljótur_ "ugly; bad" \
+-- Elfd. _liuot_ "bad, mean" \
+<!-- COGN: Cf. CS lud'b [m.] "foolish", Ru. lud "stupid, mad, crazy", SCr. lild "stupid, crazy, immature" < \*loud-o- and Lith. liudnas [m.] "sad" (with a secondary zero grade) \ -->
+<!-- A Germanic/Balto-Slavic isogloss. Also cf. ON fYti [n.] "fault, blemish; disgrace" < \*leutja- and OE lot [n.] "deceit, fraud" < \*luta-. \ -->
+REF: [EDPG]\: 335
+
+### <a id="lewan">\*lewan- [m.] "scythe" (n)</a>
+N: \
+-- ON _lé_, obl. _ljá_ \
+-- Far. _líggi_ \
+-- Nw. _ljå_ \
+-- Sw. _lie_ [c.] \
+-- Elfd. _ljå_ \
+PIE: \*léuh₁-on- \
+<!-- COGN: Skt lun&ti "to cut (off)" < \*lu-n-eH- (whence e.g. lavftra- [n.] "sickle" < \*leuH-tro-); unrelated to Gr. A.aTov acc. "ploughshare(?)" \ -->
+<!-- An n-stem created to a root \*leuh₁- "to cut off", which is probably related to \*leusan- "to lose" (q.v.). The form is of importance to Germanic historical phonology, since it proves that laryngeals did not necessarily geminate preceding glides (Holtzmann's law). See also \*lawwo-. \ -->
+REF: [EDPG]\: 335
+
+### <a id="lēwjan">\*lēwjan- [wk.] "to deliver, betray" (v)</a>
+E: \
+-- Go. _lewjan_ \
+W: \
+-- OE _lǣwan_, ME _be-lēwen_ \
+-- OHG _gi-lāen_, _fir-lāen_ \
+<!-- COGN: Close to Lith. liauti (lic1una, liauja) "to stop", Latv. ,laiit "to allow", refl. "to stop, rely on", OPru. au-/aiit "to die", Cz. leviti "to reduce, give up, release", SCr. Jeviti "to waste time, loaf" \ -->
+<!-- A factitive verb created to Go. lew [n.] "occasion" < \*lewa- < \*Ieh₁u-o-. The original meaning was "to let (go)", whence Germanic "to give away, deliver, betray". See also \*loma- "betrayal". \ -->
+REF: [EDPG]\: 335
+
+### <a id="lība">\*lība- [n.] "life; body" (n)</a>
+N: \
+-- ON _líf_ \
+-- Far. _lív_ \
+-- Elfd. _laiv_ "life" \
+W: \
+-- OE _līf_ "id.", E _life_ \
+-- OFri. _līf_ "body; womb" \
+-- OS _līf_ "life" \
+-- Du. _lijf_ "body" \
+-- OHG _līb_ [m./n.], G _Leib_ [m.] "body" \
+<!-- A neuter derived from the strong verb \*liban- (q.v.). \ -->
+REF: [EDPG]\: 335
+
+### <a id="līban">\*līban- [wk.] "to stay" (v)</a>
+E: \
+-- Go. _bi-leiban_ [st.] \
+W: \
+-- OE _be-līfan_ [st.] "to stay, remain" \
+-- OFri. _bi-līva_ [st.] "id." \
+-- OS _bi-līƀan_ [st.] "id." \
+-- Du. _blijven_ [st.] "id." \
+-- OHG _bi-līban_ [st.] "to stay, stop", G _bleiben_ [st.] "id." \
+PIE: \*leip-e- \
+<!-- COGN: ToAB lipii- "to be left (over)" < \*Ieip-e-, Gr. A.map6; "fat, gleaming (of oil or unguent), fruitful" < \*lip-r-, Skt limpati "to smear, adhere to, deceive", Lith. lipti (limpu, lempu, limpstU), Latv. lipt "to stick" < \*li-n-p-e-, OCS pri-lbnpti, Ru. (pri-)l"nut", SCr. pri-onuti "to stick" < \*lip-ne- \ -->
+<!-- A strong verb to the PIE root \*leip-. The origin of the Germanic root-final \*b (for expected \*f) is obscure, but it is possible that the strong verb was derived from a more primary stative \*liben- "to live" (q.v.). See also \*laibjanand \*laibo- as well as \*ainalifa- and \*twalifa-. \ -->
+REF: [EDPG]\: 335
+
+### <a id="libēn">\*libēn- [wk.] "to be left; to live" (v)</a>
+E: \
+-- Go. _liban_ "to live" \
+N: \
+-- ON _lifa_ \
+-- Far. _liva_ "to live" \
+-- Elfd. _livå_ "id." \
+W: \
+-- OE _libban_ "id.", E _to live_ \
+-- OFri. _libba_ "id." \
+-- OS _libbian_ "id." \
+-- Du. _leven_ "id." \
+-- OHG _lebēn_ "id.", G _leben_ "id." \
+PIE: \*lip-éh₁-ie- \
+<!-- The stative to \*liban- "to stick" (q.v.). The meaning "to live" developed from "to remain". \ -->
+REF: [EDPG]\: 336
+
+### <a id="librō">\*librō- [f.] "liver" (n)</a>
+N: \
+-- ON _lifr_ \
+-- Far. _livur_ \
+-- OSw. _liver_, _lyr_ \
+-- Elfd. _lyr_ \
+W: \
+-- OE _lifer_, E _liver_ \
+-- OFri. _livere_ \
+-- Du. _lever_ [c.] \
+-- OHG _libara_, _lebara_, _lebera_, G _Leber_ \
+PIE: \*iekʷ-r/n- \
+<!-- COGN: Skt. yak [t, gen. yakncis [n.] "liver", YAv. yakara [n.] "id.", NP jigar, Oss. igcer "id.", Gr ap, -aw; [n.] "id.", Lat. iecur, gen. iocinoris, iecoris [n.] "id.", Lith. dial. jeknos [f.pl.] "id.", Latv. aknas pl.f. "id.", OPru. lagno (for \*iagno?) < \*iekʷ-r/n-; also cf. MIr. i(u)chair [f.] "fishroe", Lith. ikras [m.] "id.", Latv. ikri [m.pl.] "id.", OPru. yccroy "calf (of the leg)" < \*ikW-r- \ -->
+<!-- Possibly an irregular continuation of PIE \*iekʷ-r/n- "liver". The Germanic word seems to continue an intermediate form \*lipr-eh₂- with unetymological initial l- and the sporadic change of \*kʷ to \*p in the vicinity of resonants (cf. \*fimfe "five" < \*penkʷe). The variant OSw. lyr, Elfd. lyr has umlaut, which is difficult to account for but fully parallel to that of e.g. ON nyra "kidney" (vs. OSw. niura < \*neura/on-). Perhaps, the umlaut was leveled from an old locative form PN \*leurini < \*libur-eni. \ -->
+REF: [EDPG]\: 336
+
+### <a id="līhwan">\*līhwan- [st.] "to loan" (v)</a>
+E: \
+-- Go. _leiƕan_ \
+N: \
+-- ON _ljá_ [wk.] "to lend; to give, grant" \
+-- Far. _líggja_ "to borrow, take out" \
+W: \
+-- OE _lēon_ "to lend" \
+-- OS _far-līhan_ "id." \
+-- MDu. _lien_ "id." \
+-- OHG _līhan_ "id.", G _leihen_ "id." \
+PIE: \*leikʷ-e- \
+<!-- COGN: Formally identical to Gr. A.drrw "to leave (behind)", med. "to depart", Oss. lð.Yn / le3un "to run away; abandon" < \*leikʷ-e-; also cf. Skt. rii:icikti "to leave, release, set free", YAv. irinaxti "id." < \*li-n-ekʷ-, Arm. lk'anem "to leave, let go, abandon", Lat. linquo, -ere "to leave", OIr. leicid "to leave, let, allow" < \*li-n-kʷ-, Lith. likti (lieku) "to hold, keep", Latv. likt "to leave, lay, put", OPru. po-laikt "to stay" < \*loik-, OCS ot:o-lek'b [m.] "remainder, rest", Lith. c'it-laikas [m.] "remainder, remnant" < \*-loikʷ-o- \ -->
+<!-- A thematic present created to a probably originally aoristic root \*fikʷ-. See also \*laihna- "loan". \ -->
+REF: [EDPG]\: 336
+
+### <a id="līka-1">\*līka- [n.] "(dead) body" (n)</a>
+E: \
+-- Go. _leik_ \
+N: \
+-- ON _lík_ \
+-- Far. _lík_ \
+-- Elfd. _laik_ \
+W: \
+-- OE _līc_ \
+-- OFri. _līk_ \
+-- OS _līk_ \
+-- Du. _lijk_ \
+-- OHG _līh_ [n./f.], G _Leiche_ [f.] \
+PIE: \*leig-o- \
+<!-- A word originally meaning "likeness, shape". Derived from \*lfka- 2. \ -->
+REF: [EDPG]\: 336
+
+### <a id="lika-2">\*lika- "similar, equal" (adj)</a>
+E: \
+-- Go. _ga-leiks_ \
+N: \
+-- ON _glíkr_, _líkr_ \
+-- Far. _líkur_ \
+-- Elfd. _laik_ \
+W: \
+-- OE _ge-līc_, E _like_ \
+-- OFri. _ge-līk_ \
+-- OS _gi-līk_ \
+-- Du. _ge-lijk_ \
+-- OHG _ga-līh_, G _gleich_ \
+PIE: \*leig-o- \
+<!-- COGN: Lith. ljgus, lygus, l.atv. lidzs "flat, even, equal", OPru. po-ligu "similarly" (adv) < \*lig-o-, Lith. ljginti, Latv. lfdzinc'it "to compare, even, equalize", OPru. liginton "to judge" < \*lig-neh₂- \ -->
+<!-- A Baltic-Germanic isogloss. The original meaning was "equal, even", cf. OHG lfchon, EDu. lijcken [wk.] "to smoothen" < \*lfkojan- and EDu. lick "plane, even" < \*likka- < \*lig-n6-, whence EDu. licken [wk.] "to smoothen", Du. ge-likt "slick" < \*likkojan-. The latter formations, unlike the other Baltic and Germanic attestations, prove that the underlying root was \*ḱg- rather than \*IiHg-. Also cf. the stative verb Go. (ga-)leikan, ON lfka, OE lfcian, OS likon, OHG lfchen [wk.] "to like" < \*liken-, whose meaning developed in an impersonal construction, cf. ON mer lfkar "I like" < "it suits me". Related to \*lfka- 1 . \ -->
+REF: [EDPG]\: 336
+
+### <a id="līka-3">\*līka- [n.] "leech-line, bolt-rope" (n)</a>
+N: \
+-- ON _lík_ \
+W: \
+-- E _leech_ \
+-- MLG _līk_ \
+-- Du. _lijk_ \
+-- MHG _ge-leich_ "joint, link" \
+PIE: \*leig/ǵ-o- \
+<!-- COGN: lat. ligo, -are "fasten, bind" < \*lig-eh₂-ie-, Alb. Iidh "to bind, tie" < \*ḱg-, BRu. po-lyhaty-s'a "to connect" < \*-lig-eh₂- \ -->
+<!-- A formation derived from a European base \*leig- or \*leig-. Albanian points to a palatovelar, but BRu. po-lyhaty-s'a has a plain velar. I wonder whether the root can be related to \*lika- 1 and \*lika- 2 (q.v.), e.g. through a semantic shift "to connect" > "to compare" > "to be (a)like". Alb. lice [f.] "flax tow", if a Slavic loanword, implies that the Germanic word was borrowed into Proto-Slavic as \*lice. \ -->
+REF: [EDPG]\: 337
+
+### <a id="likkōn-1">\*likkōn- [wk.] "to lick" (v)</a>
+W: \
+-- OE _liccian_, E _to lick_ \
+-- OS _likkon_ \
+-- Du. _likken_ \
+-- OHG _leckōn_, G _lecken_ \
+PIE: \*ligʰ-néh₂- \
+<!-- COGN: Identical to Lat. lingo, -ere "id." < \*ḱgʰ-neh₂- (with Thurneysen's law); further cf. Skt. re;lhi "to lick" < \*leigʰ-, OIr. ligid "id.", W llyu "id." < \*ḱgʰ-e, Av. raerizaite 3sg.int.med. "id." < \*lei-ligʰ-e-, Gr. AELXW "id.", Arm. lizem, lizanem "id.", Ru. Iizcit' (Iiiu) "id.", SCr. lfzati "id.", Lith. Iieiti (lieziu) "id." < \*Ieigʰ-e- \ -->
+<!-- An iterative verb closely related to the o-grade variant Go. bi-laigon with the same meaning. The formation continues an old nehz-present (cf. Lat lingua) derived from a primary aorist. See also \*likkra-. \ -->
+REF: [EDPG]\: 337
+
+### <a id="likkōn-2">\*likkōn- [wk.] "to jump" (v)</a>
+W: \
+-- MHG _lecken_ "to kick, jump" \
+PIE: \*lig-néh₂- \
+<!-- An old iterative verb. MHG lecken can be from either \*lekkon- or \*likkon-, but the latter option is preferable in view ofthe evident link with leichen [st.] "to jump, play" < \*laikan- (q.v.). It has been argued that MHG vro-locken, G froh-locken [wk.] "to rejoice, exult" belongs here, too, representing a distortion of \*froh-Iecken (e.g. Drosdowski 1989: 207). It may alternatively be compared to Du. obs. vrolijken "to become happy" and E to frolic. \ -->
+REF: [EDPG]\: 337
+
+### <a id="likkra">\*likkra- [wk.] "delicious" (v)</a>
+W: \
+-- MDu. _lecker_, Du. _lekker_ \
+-- MHG _lecker_, G _lecker_ \
+<!-- A ra-stem derived from the iterative \*likkon- 1 (q.v.) : the original meaning seems to have been "lickable". \ -->
+REF: [EDPG]\: 338
+
+### <a id="līma">\*līma- [m.]j [n.] "clay, mud, lime" (n)</a>
+N: \
+-- ON _lím_ [n.] "lime" \
+-- Far. _lím_ [n.] "glue" \
+W: \
+-- OE _līm_ [m.] "lime", E _lime_ \
+-- OS _līm_ [m.] "glue" \
+-- Du. _lijm_ [c.] "id." \
+-- OHG _līm_ [m.] "clay; lime", G _Leim_ [m.] "glue; paste" \
+PIE: \*h₂leih₁-mo- \
+<!-- COGN: Lat. limus [m.] "mud, slime" < \*h₂leih₁-mo- \ -->
+<!-- An mn-stem to the root \*h₂leih₂ "to smear", for which cf. \*laiman-. \ -->
+REF: [EDPG]\: 338
+
+### <a id="limu">\*limu- [m.] "limb" (n)</a>
+N: \
+-- ON _limr_ "limb; joint" \
+-- Far. _limur_ "id." \
+W: \
+-- E _limb_ \
+PIE: \*lei-mon-(?) \
+<!-- COGN: Lith. fiemuo [m.] "log, trunk, body" < \*lei-mon- \ -->
+<!-- A Nordic u-stem. In view of the closely related ON lim [n.] "twig", OE lim [n.] "limb; twig" and the ablauting ON limi, Elfd. laime [m.] "broom" < \*liman-, it is possible that the u-stem split offfrom the dat.pl. \*!imummiz < \*li-mr.;i-mis of a primary mn-stem \*liman- (cf. Kroonen 2011a: 62). See also \*lipu-. \ -->
+REF: [EDPG]\: 338
+
+### <a id="lindō">\*lindō- [f.] "lime tree" (n)</a>
+N: \
+-- ON _lind_ \
+-- Far. _lind_ \
+-- Elfd. _lind_ \
+W: \
+-- OE _lind_, E _lime_ \
+-- OS _linda_ \
+-- Du. _linde_ [c.] \
+-- OHG _linta_, G _Linde_ \
+PIE: \*lent-eh₂- \
+<!-- COGN: Ru. dial. fut [m.] "bark (of a limetree)" < \*lont-o-, Ru. lut'e [n.] "young lime trees to be stripped of their bark", Ukr. fut'e [n.] "bark of a lime tree, twigs of a willow" < \*lont-io-, Lith. lentil, Latv. l�fita [f.] "board, plank" < \*lent-eh₂- \ -->
+<!-- A European tree name. Unrelated to \*finpa- "mild, soft". \ -->
+REF: [EDPG]\: 338
+
+### <a id="lingʷa">\*lingʷa- [n.] "heather" (n)</a>
+N: \
+-- ON _lyng_ \
+-- Far. _lyngur_ [m.] \
+-- OSw. _liung_ \
+-- Sw. _ljung_ \
+-- Elfd. _lingg_ \
+PIE: \*lengʷʰ-o- \
+<!-- COGN: OCS lpg'b [m.] "meadow, underbrush", Ru. lug [m.] "meadow" < \*longʷʰ.o- \ -->
+<!-- A Nordic word related to the aforementioned forms in Slavic (Charpentier 1906: 222). The meaning "heather" probably developed from "unused land, moor" (cf. \*haipi-). The alternative connection with Lith. lefikti "to bend" and OCS lpk'b "bent" (Torp 1909: 360) is semantically unattractive. For a potential zero-grade, cf. Sw. dial. lung-blOt, Nw. dial. lunge-blaut "soaked" < quasi-PGmc. \*lungʷa-blauta-. \ -->
+REF: [EDPG]\: 338
+
+### <a id="lingʷan">\*lingʷan- [st.] "to succeed, make progress" (v)</a>
+W: \
+-- OHG _gi-lingan_, MHG _lingen_, _ge-lingen_, G _ge-lingen_ \
+PIE: \*h₁lengʷʰ-e- \
+<!-- COGN: Skt. laghu-. raghu- "quick, light, small", YAv. rauui- (adj)(f.) "agile, fast, quick", Gr. E:A.axuc; "small" < \*h₁lngʷʰ.u-, Lith. lengvas "easy, light" < \*h₁lengʷʰ.o-, Lat. levis "light, small, quick", OCS lbg"b-k"b "light" < \*h₁legʷʰ.u-, OIr. laigiu comp. "smaller, worse" < \*h₁legʷʰ.ios- (with -aig- < \*-eig-) \ -->
+<!-- A strong verb continuing an old nasal present to the root \*h₁legʷʰ_. See also \*linhta- and \*lungra-. \ -->
+REF: [EDPG]\: 338
+
+### <a id="linhta">\*linhta- "light" (adj)</a>
+E: \
+-- Go. _leihts_ \
+N: \
+-- ON _léttr_ "light, easy; nimble, active" \
+-- Far. _lættur_ "light, easy" \
+-- Elfd. _litt_ "id." \
+W: \
+-- OE _līht_, _lēoht_ "id.", E _light_ \
+-- OFri. _licht_ "id." \
+-- Du. _licht_ "id." \
+-- OHG _līht_ "easy", G _leicht_ "id." \
+<!-- A to-stem adjective derived from \*lingʷan- (q.v.). \ -->
+REF: [EDPG]\: 339
+
+### <a id="linþa">\*linþa- "flexible, soft" (adj)</a>
+N: \
+-- ON _linnr_ "mild, soft" \
+-- Far. _linur_ "soft, slack, limp" \
+-- Elfd. _lin_ "soft" \
+W: \
+-- OE _līð_, _līðe_ "id.", E _lithe_ \
+-- OS _līthi_ "id." \
+-- OHG _lind_, _lindi_ "mild, tender", G _ge-linde_ "delicate, soft" \
+PIE: \*lén-to- \
+<!-- COGN: Identical to Lat. lentus "pliant, flexible; tough; sticky; slow" and Lith. dial. lefitas "quiet, calm" \ -->
+<!-- Also cf. the inchoative Go. af-linnan "to abate, go away", ON linna "to desist from", OE linnan "to cease", OHG bi-linnan "to give away" < \*linnon- < \*lin/mon-. \ -->
+REF: [EDPG]\: 339
+
+### <a id="lisan">\*lisan- [pp.] "to know" (v)</a>
+E: \
+-- Go. _lisan\*_, 3sg. _lais_ \
+<!-- A marginally attested preterite-present, 3sg. \*laise, 3pl. \*lisunþ, to a root \*leis-, cf. Go. lubja-leis "having knowledge about drugs" < \*-lisa-. The meaning of the verb must in view of the obviously related \*laisti- "track; model" (q.v.) have shifted from an aspectually perfective "to have traced". See also \*laizjan-, \*liznon- and \*listi-. \ -->
+REF: [EDPG]\: 339
+
+### <a id="listi">\*listi- [f.] "skill" (n)</a>
+E: \
+-- Go. _list_ "cunning" \
+N: \
+-- ON _list_ "art, craft" \
+-- Far. _list_ "art; cunning" \
+W: \
+-- OE _list_ "art, skill; trick" \
+-- OFri. _list_ "knowledge; deceit" \
+-- OS _list_ "craftiness, cleverness" \
+-- Du. _list_ [c.] "trick" \
+-- OHG _list_ [m./f.] "knowledge", G _List_ "cunning" \
+PIE: \*lis-ti- \
+<!-- A ti-stem to the preterite-present \*lisan- (q.v.). \ -->
+REF: [EDPG]\: 339
+
+### <a id="lītila">\*lītila- "small" (adj)</a>
+E: \
+-- Go. _leitils_ \
+N: \
+-- ON _lítill_ \
+-- Far. _lítil_ \
+-- Elfd. _litn_, _lisl_- \
+W: \
+-- OE _lȳtel_, _lītel_, Nrth. _lyttil_, E _little_ \
+-- OS _luttil_ \
+-- Du. _luttel_ "few" \
+-- OHG _lūzil_, _luzzil_ "id.", MHG _lūtzel_ "id." \
+<!-- The default Germanic word for "small". The derivation of the word is still problematic. The suffix \*-ila- is paralleled by the antonym \*mekila- "big, much" (q.v.). Equally parallel is the lack of this suffix in the closely related OE lyt, OS fut, MHG liiz "few" < \*liitja- ~ \*luttja- and the antonym ME mich(e), much(e), E much < \*mekja-. The radical alternation of \*lft-, \*liit- and \*lutt- remains unexplained, however. Until this alternation has been resolved, it will be difficult to find a good etymology. The comparisons with \*lUtan- "to stoop" and OIr. lutu "little finger" (cf. Elfd. sar-ludd "finger stall"?) are futile, for instance, because they fail to account for the root variant \*lit-. \ -->
+REF: [EDPG]\: 339
+
+### <a id="līþan">\*līþan- [st.] "to go (by), pass" (v)</a>
+E: \
+-- Go. _ga-leiþan_ "to go, travel" \
+N: \
+-- ON _líða_ "to go, pass by; to pass away, to elapse" \
+-- Far. _líða_ "to move smoothly, stride; to pass (away), elapse, proceed" \
+-- Elfd. _laiða_ "to go by, pass" \
+W: \
+-- OE _līðan_ "to go, sail" \
+-- OFri. _lītha_ "to go" \
+-- OS _līthan_ "to go, leave" \
+-- Du. _lijden_ "to suffer" \
+-- OHG _līdan_ "to go, pass; to tolerate, suffer", G _leiden_ "to suffer" \
+PIE: \*léit-e- \
+<!-- COGN: ToAB litii- "to pass on" < \*leit-e-, YAv. iriigiieiti "to die, pass away" < \*lit-ie-, Gr. AOLTI'J [f.] "tomb" < \*loit-eh₂-, Lat. lftus, -oris [n.] "sea-shore, coast" < \*leit-es- \ -->
+<!-- A strong verb to the PIE root \*leit- "to go (down)". See also \*laidjan-. \ -->
+REF: [EDPG]\: 340
+
+### <a id="liþu">\*liþu- [m.] "member, body part" (n)</a>
+E: \
+-- Go. _liþus_ \
+N: \
+-- ON _liðr_ "joint" \
+-- Far. _liður_ "joint; knot" \
+-- Elfd. _lið_ "id." \
+W: \
+-- OE _lið_ [m./n.] "joint" \
+-- OFri. _lith_ [n.] "joint, articulation" \
+-- OS _lith_ "id." \
+-- Du. _lid_ [n.] "id." \
+-- OHG _lid_ [m./n.] "id.", G _Glied_ [n.] "id." \
+<!-- A derivation created to the same Baltic-Germanic root \*lei- as found in \*limu- (q.v.). Also cf. ON liougr "smooth, lithe", OFri. lethoch "free", OE lioig "flexible", MHG ledic "free", G ledig, Du. leeg "empty". \ -->
+REF: [EDPG]\: 340
+
+### <a id="līþu">\*līþu- [n.] "strong drink, cider" (n)</a>
+E: \
+-- Go. _leiþu_ \
+N: \
+-- ON _líð_ \
+W: \
+-- OE _līð_ \
+-- OFri. _līth_ \
+-- OS _līth_ \
+-- OHG _līd_ [m./n.] \
+PIE: \*l(é)h₃i-tu- \
+<!-- COGN: Lith. ljti (lyju) "to rain", Latv. lft "to flow, rain" (also cf. Lith. dial. lyti.is, Latv. lfts [m.] "rain" < \*lh₃i-tu-), OCS -liti, Ru. lit' (lJu), SCr. ll'ti "to pour" < \*leh₃i- \ -->
+<!-- A tu-stem created to the root \*leh₃i-, which itself appears to have split off from a PIE i-present 3sg. \*lh₃-ei-ti, 3pl. \*lh₃-i-enti, cf. Hitt. labui ~ labuanzi "to pour, cast" < \*l6h₃-u-ei, \*lh₃-u-enti. \ -->
+REF: [EDPG]\: 340
+
+### <a id="liznōn">\*liznōn- [wk.] "to learn" (v)</a>
+W: \
+-- OE _leornian_, E _to learn_ \
+-- OFri. _lirna_, _lerna_ \
+-- OS _līnon_ \
+-- OHG _lernōn_, _lernēn_, _lirnēn_, G _lernen_ \
+<!-- An inchoative verb continuing a medio-passive factitive nehz-present \*lis-nh₂- "to make oneself know". See also \*lisan-. \ -->
+REF: [EDPG]\: 340
+
+### <a id="lōfan">\*lōfan- ~ \*lappan- [m.] "palm of the hand" (n)</a>
+E: \
+-- Go. _lofa_ \
+N: \
+-- ON _lófi_ \
+-- Icel. _lófi_ \
+-- Far. _lógvi_ "palm of the hand; small glove", _labbi_ "paw" \
+-- Nw. _labb_ "paw, big hand" \
+W: \
+-- ME _lōve_ \
+-- OHG _lappo_, _laffa_ [f.] "palm of the hand; blade of an oar", MHG _laffe_ [f.] "id." \
+PIE: \*léh₂p-on- \
+<!-- COGN: Ru. lclpa, SCr. lupa [f.] "paw", Lith. Iopa [f.] "id." < \*leh₂p-eh₂- (the initial dental of Cz. tlapa, dial. dlapa, Pol. dlapa "id." was adopted from Cz. dlan, Pol. dlorl "palm of the hand" < \*doln&) \ -->
+<!-- An ablauting n-stem nom. \*Jojo, gen. \*lappaz, dat. \*labeni < \*!eh₂p-on, \*Jh₂p-n-6s, \*Jh₂p-en-i (cf. Kauffmann 1887: 544; Liihr 1987: 68; Kroonen 201 1a: 309-10). The allomorphy was resolved by the different daughter languages in several different ways, giving rise to a number of secondary root variants, e.g. Far. labbi, OHG Jappo < \*labban- and OHG laffa < \*Japan-. The original genitival root is preserved by Icel. 16pp [f.] "paw" < \*lappo-. Also cf. ON gl6fi, Far. gl6gvi, OE glofm. "glove" < \*ga-lofa(n)-. \ -->
+REF: [EDPG]\: 340
+
+### <a id="lōki">\*lōki- [m.] "creek" (n)</a>
+N: \
+-- ON _lœkr_ "brook, rivulet" \
+-- Far. _løkur_ "brooklet" \
+<!-- An i-stem with a secondary lengthened grade. Cf. without umlaut: Elfd. luok [m.] "puddle". Derived from the strong verb \*lekan- (q.v.). \ -->
+REF: [EDPG]\: 341
+
+### <a id="lōma">\*lōma- [m.] "betrayal" (n)</a>
+N: \
+-- Icel. _lōmur_ \
+<!-- A mo-stem created to the root of \*lewjan- (q.v.), to be reconstructed as \*loh₁u-mo- (with the regular development \*ou > \*o). Further cf. Icel. luma [wk.] "to conceal" < \*lh₁um-eh₂ (through \*liime- < \*luh₁-m-eh₁- with pretonic shortening of the \*ii). \ -->
+REF: [EDPG]\: 341
+
+### <a id="lōmi">\*lōmi- "crippled(?)" (adj)</a>
+W: \
+-- MDu. _loem_ "dull", EDu. _loom_ "sluggish" \
+-- MHG _lüeme_ "dull, pliant, mild" \
+<!-- An adjective derived from the verbal root of \*lamjan- (q.v.) with a lengthened grade: originally a gerundive? \ -->
+REF: [EDPG]\: 341
+
+### <a id="luba">\*luba- [n.] "praise" (n)</a>
+N: \
+-- ON _lof_ "praise; permission" \
+-- Far. _lov_ "id." \
+-- Elfd. _luv_ "id." \
+W: \
+-- OE _lof_ \
+-- OFri. _lof_ \
+-- Du. _lof_ \
+-- OHG _lob_, G _Lob_ \
+PIE: \*lubʰ-o- \
+<!-- COGN: Skt. lobhaya- "to make crazy" < \*leubʰ-eie-, NP ii-luftan "to be tangled, be hit down, be in love" < \*lubʰ-, CS ljuby [f.] "love" < \*leubʰ-uh₂-, OCS ljubiti, Ru. ljubft' "to love" < \*leubʰ-eie-, Lat. lubet, -ere "to please" < \*lubʰ-eh₁- \ -->
+<!-- A zero-grade formation, possibly derived from a lost strong verb \*leuban-. The same ablaut is also found in OE lufu [f.] "love". Also cf. the denominal ON lofa "to praise; to allow", OE lofian "to praise", OFri. lovia "id.", OS looon "id.", OHS lobon "id." < \*lubojan-. Go. lubains [f.] "hope", on the other hand, presupposes a stative verb \*luben-, which is formally parallel to Lat. lubere "to love" < \*lubʰ-eh₂. \ -->
+REF: [EDPG]\: 341
+
+### <a id="lubja">\*lubja- [n.] "herb, potion" (n)</a>
+E: \
+-- Go. _lubja-leisei_ [f.] "witchcraft" \
+N: \
+-- ON _lyf_ "medicine, healing herb" \
+-- Elfd. _lyv_ "remedy" \
+W: \
+-- OE _lyb_ "medicine, drug, potion" \
+-- MDu. _lubbe_ "rennet" \
+-- OHG _luppi_ "poison, witchcraft", G Alem. _lupp_ "rennet" \
+PIE: \*lubʰ-io- \
+<!-- COGN: OIr. luib [f.] "herb, plant" < \*lubʰ-ih₂/eh₂- \ -->
+<!-- A concept associated with magic, which apparently also was thought to be an aspect of cheese-making in view of OHG kiisi-luppa, OE cfes-lyb "rennet". The term represents a Celtic-Germanic isogloss, but given the obvious etymological link with PGmc. \*lauba- "foliage", it seems likely that the word spread from Germanic to Celtic (not vice versa). It has alternatively been suggested by Hyllested 2010: 123, however, that both the Germanic and the Celtic word were adopted from Uralic \*luppo, cf. Fi. luppo "lichen". \ -->
+REF: [EDPG]\: 341
+
+### <a id="ludēn">\*ludēn- [wk.] "to dangle" (v)</a>
+N: \
+-- Icel. _loða_ "to hang down, stick to", _lodda_ "to dangle" \
+-- Far. _loða_ "to hang down" \
+-- Nw. _loda_ "to hang down, stick to" \
+<!-- Also cf. OHG lotar "loose, light-hearted, lazy" < \*ludra- and MDu. Joi, Du. Jui "lazy" < \*luþja-. \ -->
+REF: [EDPG]\: 342
+
+### <a id="ludja">\*ludja/ō- [n./f.] "face" (n)</a>
+E: \
+-- Go. _ludja_ [f.] \
+W: \
+-- OHG _ant-lutti_ [n.], G _Antlitz_ [n.] \
+PIE: \*h₁ludʰ-io- \
+<!-- COGN: Av. rao8a- [m.] "growth, shape" < \*Hloudʰ-o- \ -->
+<!-- The formally attractive connection with OS Jud "generative power" < \*ludja-(?) and Go. laudi [f.] "image" < \*laudja make it likely that the word was derived from \*leudan- "to grow" (q.v.). \ -->
+REF: [EDPG]\: 342
+
+### <a id="luftu">\*luftu- [m.] "roof, air" (n)</a>
+E: \
+-- Go. _luftus_ "air" \
+N: \
+-- ON _loft_ [n.] "air, sky; loft" \
+-- Far. _loft_ [n.] "air; ceiling, loft" \
+-- Elfd. _lopt_ [n.] "id." (< \*lufta-) \
+W: \
+-- OE _lyft_ [m./f./n.] "air, sky" \
+-- OFri. _lufte_, _luft_ [f.] "id." \
+-- OS _luft_ [f.] "air" \
+-- Du. _lucht_ [c.] "air, sky" \
+-- OHG _luft_ [m./f.] "id.", G _Luft_ [f.] "id." \
+PIE: \*lubʰ-tu- \
+<!-- A tu-stem derived from the same root as found in \*lauba- "foliage". The original meaning was "roof", which in view of the etymological link with Ru. lub "bast", OPru. lubbo "bast, plank" may have been fashioned from patches of bark in Proto-Germanic times. Unrelated to Hitt. alpa- [c.] "sky" (_pace_ Puhvel 1984-: 1-2, 38). \ -->
+REF: [EDPG]\: 342
+
+### <a id="lugi">\*lugi- "deceitful, false" (adj)</a>
+W: \
+-- OE _lygge_ \
+-- OS _luggi_ "deceitful" \
+-- OHG _lucki_ "id.", MHG _lüge_, _lücke_ "id." \
+<!-- A WGm. gerundive \*Jugja- (continuing older \*lugi-) to the strong verb \*leugan- "to lie" (q.v.). Derivationally parallel to \*flugi- "fledged" to \*fleugan "to fly" (q.v.). \ -->
+REF: [EDPG]\: 342
+
+### <a id="luginō">\*luginō- [f.] "lie, falsehood" (n)</a>
+N: \
+-- Far. _lygn_ \
+-- Elfd. _lyngen_ \
+W: \
+-- OE _lygen_ \
+-- OFri. _leine_ \
+-- OS _lugina_ \
+-- Du. _leugen_ [c.] \
+-- OHG _lugina_, G _Lüge_ \
+<!-- Derived from \*leugan- with the same suffix as in \*pakin6- "cover", for which see \*paka-. \ -->
+REF: [EDPG]\: 342
+
+### <a id="luhō">\*luhō- [f.] "lynx" (n)</a>
+N: \
+-- OSw. _lō_ \
+-- Elfd. _luo_ \
+PIE: \*luk-eh₂- \
+<!-- The feminine form of \*luhsa- (q.v.). Technically, ON l6 can be reconstructed as both \*lunh6- (cf. Gr. A.uy� and \*luh6-, but the first form is precluded by the non-nasal vowel of Elfd. luo. \ -->
+REF: [EDPG]\: 342
+
+### <a id="luhsa">\*luhsa- [m.] "lynx" (n)</a>
+W: \
+-- OE _lox_ \
+-- Du. _los_ [c.] \
+-- OHG _luhs_, G _Luchs_ \
+PIE: \*luk-so- \
+<!-- COGN: Gr. A.uy� [m./f.] "lynx" < \*lunli-, Arm. lusanun "lynx; hyena; marten", Lith. lusis, dial. lqnsis [m./f.] "lynx", OPru. luysis "id." < \*luHlt-, Ru. rjs' [m.] "id." < \*ruHlt-i-, MIr. lug [m.] "lynx; warrior" < \*lugu- \ -->
+<!-- A European word for "lynx". The form \*luhsa- corresponds to the feminine \*luho- (q.v.) as \*fuhsa- "fox" to \*fuhon- "vixen", but in spite of this regular proportion, it is difficult to reconstruct a proto-form beyond Germanic. All potential cognates show some kind of irregular sound correspondence: the laryngeal of Baltic, the r of Slavic, the n of Greek, the g of Irish. Perhaps, these irregularities result from multiple tabooistic distortions. The alternative is to assume repeated borrowing from a non-Indo-European language (or languages). \ -->
+REF: [EDPG]\: 342
+
+### <a id="luka">\*luka- [n.] "weed(s)" (n)</a>
+N: \
+-- ON _lok_ \
+-- Far. _lok_ \
+-- Sw. dial. _luk_, EDa. _lug_ \
+<!-- The etymological link with Gr. t.uyo; "twig" (e.g. Falk/Torp 1960: 653) is formally apt, but since the Germanic word was derived directly from to strong verb \*leukan- ~ \*liikan- "to pull" (q.v.), the formal and semantic match with the Greek word is likely to be coincidental. \ -->
+REF: [EDPG]\: 343
+
+### <a id="lukka">\*lukka- [m.] "tuft" (n)</a>
+N: \
+-- ON _lokkr_ "lock of hair" \
+-- Far. _lokkur_ "id." \
+W: \
+-- OE _loc_ "id.", E _lock_ \
+-- Du. _lok_ [c.] "id." \
+-- OHG _loc_ "id.", G _Locke_ [f.] "id." \
+<!-- An a-stem that in view of Cimb. lock [m.] "tuft of wool" must have been derived from the strong verb \*leukan- ~ \*liikan- "to pull" (cf. also \*luka"weeds"). There is no direct link with Lith. lugnas "flexible" (_pace_ Pokorny IEW: 685-6). \ -->
+REF: [EDPG]\: 343
+
+### <a id="lukkōn">\*luk(k)ōn- [wk.] "to caress, lure, entice" (v)</a>
+N: \
+-- ON _lokka_ "to allure, entice" \
+-- Elfd. _lukka_ "id." \
+W: \
+-- OE _a-loccian_ "to entice", _ge-loccian_ "to caress" \
+-- MDu. _locken_ "to entice", Du. _lokken_ "id." \
+-- OHG _lockōn_, _lohhōn_ "id.", G _locken_ "id." \
+PIE: \*lug/gʰ-neh₂- \
+<!-- COGN: Lith. lu(n)ginti "to allure, fondle" < \*lugrhl-T).h₂- \ -->
+<!-- An iterative verb of ambiguous origin. It is usually derived from \*leugan"to lie" or connected to Lith. lug6ti "to ask" (cf. Falk/Torp 1960: 653). Alternatively, it has been interpreted as belonging to \*leukan- ~ \*liikan- "to pull" with a semantic shift of "to attract" to "to entice". The Germanic meaning "to entice", however, clearly developed from a more primitive "to caress", which occurs both in Old Norse and Old High German. A more suitable cognate therefore is Lith. lu(n)ginti, which similarly combines both meanings. In addition, it is formally parallel to the Pre-Germanic nehz-present, and thus allows us to explain the variation of OHG lockon < \*lukkon- and lohhon < \*lukon- as resulting from an iterative paradigm 3sg. \*lukkopi, 3pl. \*lukunanpi < \*lug-neh₂-ti, \*lug-nh₂-enti. \ -->
+REF: [EDPG]\: 343
+
+### <a id="lumēn">\*lumēn- [wk.] "to beat" (v)</a>
+N: \
+-- Icel. _luma_ "to beat, thrash" \
+PIE: \*h₃lmh₁-eh₁- \
+<!-- COGN: Lith. limti (limstu, limaii) "to bend, stoop", dial. "to break", Latv. limt2 "to slip, collapse", OPru. limtwei "to break" < \*h₃lmh₁- \ -->
+<!-- A stative formation closely related to \*lamjan- (q.v.). \ -->
+REF: [EDPG]\: 343
+
+### <a id="lunda">\*lunda/ō- [m./f.] "grove" (n)</a>
+N: \
+-- ON _lundr_ [m.] \
+-- Icel. _lundur_ [m.] \
+-- Far. _lund_ [f.] \
+-- Sw. _lund_ [c.] \
+PIE: \*lndʰ-o/eh₂ \
+<!-- COGN: Ir. land [m./f.] "land, ground, plot; house, building, church", MW llann [f.] "church-yard", OPru. lindan acc. "valley", Ru. ljada [f.] "recently overgrown land, fallow land" < \*lndʰ-o/eh₂- (also cf. CS l�dina, SCr. lMina, ledina [f.] "id.") \ -->
+<!-- A zero-grade formation closely related to \*landa- (q.v.). \ -->
+REF: [EDPG]\: 344
+
+### <a id="lundjō">\*lund(j)ō- [f.] "fat" (n)</a>
+N: \
+-- ON _lund_ "mind, temper" \
+-- Far. _lund_ "disposition", pl. "internal back muscles, tenderloin" \
+W: \
+-- OE _lynd_ "fat" \
+-- OHG _lunda_ "tallow" \
+PIE: \*lndʰ-(i)eh₂- \
+<!-- A zero-grade formation related to \*landjo- (q.v.). With OE lynd < \*fundl-, it is possible to postulate an ablauting ihz-stem nom. \*landi, gen. \*lundjoz. \ -->
+REF: [EDPG]\: 344
+
+### <a id="lungōn">\*lungōn- [f.] "lung" (n)</a>
+N: \
+-- ON _lungu_ [n.pl.] \
+-- Far. _lunga_ [n.] \
+-- Elfd. _lungga_ \
+W: \
+-- E _lung_ \
+-- OS _lunga_ \
+-- Du. _long_ [c.] \
+-- OHG _lungun_ [f.pl.], G _Lunge_ \
+PIE: \*h₁lngʷʰ-on- \
+<!-- COGN: Arm. lanj-k' pl. "breast" < \*h₁lngʷʰ.ih₁- (Beekes 2003: 178, 190) \ -->
+<!-- A neuter n-stem derived from the stem of \*lungra- "light" (q.v.). For the semantic development, cf. Ru. legkoe, which belongs to Ru. legkij "light" < \*h₁lngʷʰ_u-, Lat. leve iecur, EDu. lichte "lung", E lights pl. "lungs (esp. of cattle)". Also cf. OE lungen, OFri. lungen(e), OS lungannia, OHG lungunna [f.] "lung" < \*lungunjo-. There probably is no link with ON fungi [m.] "core, essence". \ -->
+REF: [EDPG]\: 344
+
+### <a id="lungra">\*lungra- "quick, light" (adj)</a>
+W: \
+-- OE _lungre (adv)_ \
+-- OHG _lungar_ "easy, quick", MHG lunger "quick, happy" \
+PIE: \*h₁lngʷʰ-ro- \
+<!-- A PIE ro-stem identical to Gr. mpp6; "light, nimble, quick, small". Related to \*linhta- (q.v.). \ -->
+REF: [EDPG]\: 344
+
+### <a id="luniz">\*luniz- [n.] "linchpin" (n)</a>
+W: \
+-- OE _lynis_ [m.], E _linch_ \
+-- OS _lunis_ [m.] \
+-- MDu. _lunse_, _lense_ [f.], Du. _funs_ [c.] \
+-- OHG _lun_ [f.], G _Lünse_ [f.] \
+<!-- All dialectal variants split off from a primary s-stem \*lunaz, gen. \*lunizaz: 1. OHG fun < \*luni(z)-; 2. OE lynis, OS lunis < \*lunisa-; 3. MDu. lunse, G Liinse < \*luniso-. MDu. lense could theoretically be based on a full-grade root (Franck 1949: 404), thus implying a paradigm nom. \*lenaz, gen. \*lunizaz < \*!enH-os, \*lnH-es-os. Extra-Gm. parallels are lacking, however, and lense may actually be a Frisianism, the expected outcome of PGmc. \*luniso- being \*lense in Old Frisian. The traditionally compared Skt. iii:zf- "axle-pin, linchpin; part of the leg above the knee" as well as ToB yofiiye "hip" were borrowed from a lost language in Central Asia (Pinault 2003). \ -->
+REF: [EDPG]\: 344
+
+### <a id="luppōn">\*luppōn- [f.] "flea" (n)</a>
+N: \
+-- Far. _loppa_ \
+-- OSw. _loppa_ \
+-- Elfd. _luppa_ \
+W: \
+-- OE _loppe_ \
+<!-- An Anglo-Norse words perhaps created to MHG lupfen, liipfen [wk.] "to lift (oneself) up, hop" < \*luppjan-. \ -->
+REF: [EDPG]\: 345
+
+### <a id="lusti">\*lusti- [f.] "loss" (n)</a>
+E: \
+-- Go. _fra-lusts_ \
+W: \
+-- OS _far-lust_ \
+-- OHG _for-lust_, G _Ver-lust_ [m.] \
+<!-- A ti-stem derived from \*leusan- "to lose" (q.v.). \ -->
+REF: [EDPG]\: 345
+
+### <a id="lustu">\*lustu- [m.] "desire, lust" (n)</a>
+E: \
+-- Go. _lustus_ \
+W: \
+-- OE _lust_, E _lust_ \
+-- OFri. _lust_ [m./f.] \
+-- OS _lust_ [f.] \
+-- Du. _lust_ [c.] \
+-- OHG _lust_ [m./f.], G _Lust_ [f.] \
+<!-- COGN: Gr. A.LA.a(oµm "to desire, long for" < \*li-lh₂s-ie-, Lat. lascfvus "playful, unrestrained" < \*lh₂s-sko- (plus fvus-suffix), OIr. lainn "avaricious" < \*lh₂s-ni-, Ru. ḱisyj, Pol. obs. lasy "greedy, eager" < \*leh₂s-o-, Lith. loksnus "sensitive" < \*leh₂s-nu- (with secondary k emerging before sibilants in acute syllables) \ -->
+<!-- A tu-stem to a verbal root \*lus- (it was replaced by an n-stem in ON losti [m.] "id." < \*lustan-, just as in the case of \*purstu- "thirst", q.v.). The Germanic root \*lus- has often been compared to the PIE root \*lh₂s- "to desire" as supported by the aforementioned non-Germanic forms, but this connection can only be maintained by assuming an awkward secondary zero grade. Perhaps then, the word was simply derived from the strong verb \*leusan- "to lose, be empty" (q.v.) through a semantic shift "idle" > "frivolous" > "lustful". Further cf. the denominal OE lystan, E to list, OS fustian, Du. lusten, OHG lusten, G liisten < \*lustjan-. \ -->
+REF: [EDPG]\: 345
+
+### <a id="lūtan">\*lūtan- [st.] "to stoop, bend forward" (v)</a>
+N: \
+-- ON _lúta_ \
+-- Far. _lúta_ [wk.] \
+-- Elfd. _lauta_ \
+W: \
+-- OE _lūtan_, E _to lout_ \
+<!-- In view of the long \*ii of this strong verb, it is likely to be a back-formation to the iterative \*lutton- (q.v.). The root-final \*t may then continue a Pre-Germanic geminate \*tt. Also cf. Far. lotur "curved (of a ship's deck); embarrassed" < \*luta- and Elfd. lutti, obl. lutu [f.] "slope" < \*luto-. \ -->
+REF: [EDPG]\: 345
+
+### <a id="lutta">\*lutta- [n.] "puddle(?)" (n)</a>
+W: \
+-- G Rhnl. _Lotz_ "deep spot in a creek (to scoop water)" \
+PIE: \*lut-no- \
+<!-- COGN: OIr. lath [f.] "mud, mire", Lat. lutum "mud" < \*lut-o/eh₂- \ -->
+<!-- An obscure word with only a few uncertain cognates in the ltalo-Celtic languages. \ -->
+REF: [EDPG]\: 345
+
+### <a id="luttōn">\*luttōn- [wk.] "to stoop, droop(?)" (v)</a>
+N: \
+-- Nw. _lota_ "to be askew, slanted" \
+W: \
+-- G Rhnl. _lotzen_ "to feel drowsy, sleep" \
+PIE: \*lud/dʰ-neh₂- \
+<!-- The iterative to the strong verb \*liltan- "to stoop" (q.v.). It is identical to \*lud(d)on- "to dangle", cf. Icel. loaa, lodda, Far. loaa, Nw. loda [wk.] "to hang down; to stick (to)", which would imply that the PGmc. root was \*!up- or \*ludrather than \*fut-. Outside Germanic, the word has been connected to OIr. Iott [m.] "damage, destruction", but it is unclear whether this form can be derived from \*ludfhl-no-, as n-gemination (Stokes' law) remains controversial in Celtic. \ -->
+REF: [EDPG]\: 345
