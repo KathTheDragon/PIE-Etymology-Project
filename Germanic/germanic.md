@@ -187,7 +187,7 @@ E: \
 -- Go. _aglus_\* "difficult, toilsome" \
 W: \
 -- OE _egle_ "difficult", E obs. _ail_ "loathsome" \
-The original u-stem that is attested as Go. _aglus_\*resurfaces as the ja-stem _eg(e)le_ in OE. No clear etymology, but probably related to [\*agla- "painful"](#agla). \
+The original u-stem that is attested as Go. _aglus_\* resurfaces as the ja-stem _eg(e)le_ in OE. No clear etymology, but probably related to [\*agla- "painful"](#agla). \
 REF: [EDPG]\: 5
 
 ### <a id="agra">\*agra- [m.] "flood" (n)</a>
@@ -711,8 +711,8 @@ W: \
 -- OE _āþ_, E _oath_ \
 -- OFri. _āth_, _ēth_ \
 -- OS _ēth_ \
--- Du. eed [c.] \
--- OHG eid, G Eid \
+-- Du. _eed_ [c.] \
+-- OHG _eid_, G _Eid_ \
 PIE: \*Hóito- \
 COGN: Identical to OIr. _oeth_ [m.] "oath" \
 A Germanic-Celtic isogloss. Given the close formal and semantic agreement between PGmc. \*aiþa- and PCelt \*oito-, it is unlikely that the formation goes back to Proto-Indo-European, only to surface in two neighboring branches at the far end of the IE-speaking area. It is more probable that the word somehow arose in a shared cultural zone with similar legal traditions. Etymologically, the word is often derived from the root \*h₁ei- "to go", cf. Sw. _ed-gång_ "oath-walk". Unrelated to Hitt. _hai_- "to believe, to trust" (_pace_ Puhvel 1984-: III 9-10), which is more commonly written _hā_- < \*h₂₃eh₂₃- (Kloekhorst 2008: 267). See also [\*aiþja- "capable of taking an oath"](#aithja). \
@@ -2365,7 +2365,7 @@ REF: [EDPG]\: 47
 
 ### <a id="badwo">\*badwo- [f.] "battle" (n)</a>
 N: \
--- ON poet _bǫð_, gen. -_var_ \
+-- ON poet. _bǫð_, gen. -_var_ \
 W: \
 -- OE _beado_ \
 -- OS _badu_ \
@@ -3353,7 +3353,7 @@ REF: [EDPG]\: 65
 ### <a id="bitra">\*bitra- "bitter, sharp" (adj)</a>
 N: \
 -- ON _bitr_ "biting, sharp; bitter" \
--- Far. poet _bitur_ "sharp, keen" \
+-- Far. poet. _bitur_ "sharp, keen" \
 -- Elfd. _bitter_ "bitter; angry" \
 W: \
 -- OE _bitor_, _bitter_, _bittor_ "bitter", E _bitter_ \
@@ -5973,7 +5973,7 @@ REF: [EDPG]\: 112
 
 ### <a id="dwergan">\*dwergan- [st.] "to squeeze, press" (v)</a>
 W: \
--- MHG zwergen \
+-- MHG _zwergen_ \
 PIE: \*dʰuergʰ-e \
 No extra-Gm. cognates, but there may be a link with \*dwerga- "dwarf" (q.v.). \
 REF: [EDPG]\: 112
@@ -6113,7 +6113,7 @@ REF: [EDPG]\: 115
 E: \
 -- Go. _aiƕa-tundi_ [f.] "thornbush" \
 N: \
--- ON poet _jór_ "stallion" \
+-- ON poet. _jór_ "stallion" \
 W: \
 -- OE _eoh_ "war-horse" \
 -- OS _ehu-skalk_ "groom" \
@@ -6380,7 +6380,7 @@ REF: [EDPG]\: 120
 ### <a id="ewwadjon">\*ewwadjōn- [f.] "tit" (n)</a>
 N: \
 -- ON _igða_ "small bird" \
--- Far. poet _ígða_ "tit(?)" \
+-- Far. poet. _ígða_ "tit(?)" \
 -- Nw. _igde_ "id." \
 An exclusively Nordic word derived from a more primitive masculine form Nw. _egde_ < \*ewwadan-. Somehow connected to Imandra Saa. _avigʒinê_ "tit(?)" as cited by Qvigstad 1902: 270? Either way, the word could be a loanword from an extinct Pre-Nordic language, for which cf. [\*awadī- "eiderduck"](#awadi). \
 REF: [EDPG]\: 121
@@ -6991,7 +6991,7 @@ REF: [EDPG]\: 132
 
 ### <a id="fean">\*fēan- [st.] "to blame" (v)</a>
 E: \
--- Go. faian\* \
+-- Go. _faian\*_ \
 PIE: \*peh₁-e- \
 COGN: Gr. _πῆμα_ [n.] "harm" < \*peh₂-men- (also cf. _ἀπήμων_ "unharmed" < \*n-peh₁-mon-) \
 A strong verb related to [\*fi(j)ēn-](#fijen) (q.v.). The Gothic form (attested only once as 3pl.pres.mid. _faianda_) is to be interpreted as _fɛ̄an_, with _ɛ̄_ lowered from _ē_ in hiatus position; the digraph _ai_ does not allow us to assume a j-suffix (cf. e.g. Seebold 1970: 188). \
@@ -15308,7 +15308,7 @@ W: \
 -- OHG _knetan_, _knedan_, G _kneten_ \
 PIE: \*gnet- \
 COGN: OCS _gnesti_ "to oppress, press, constrict", Ru. _gnestí_ (_gnetú_) "to oppress, weigh down", SCr. _gnjèsti_ "to knead, beat" < \*gnet- \
-An "aorist present", quasi PIE \*gnét-mi, \*gr̥t-mé (cf. for a similar paradigm [\*tredan- ~ \*trudan- "to tread"](#tredan)). The regular zero grade \*kundume was apparently remodeled into \*knudume after the full-grade forms. It thus appears that OPru. _gnode_ [f.] "trough for kneading bread" must be a loanword from Germanic. Also cf. [\*knuttōn-](#knutton). \
+An "aorist present", quasi PIE \*gnét-mi, \*gn̥t-mé (cf. for a similar paradigm [\*tredan- ~ \*trudan- "to tread"](#tredan)). The regular zero grade \*kundume was apparently remodeled into \*knudume after the full-grade forms. It thus appears that OPru. _gnode_ [f.] "trough for kneading bread" must be a loanword from Germanic. Also cf. [\*knuttōn-](#knutton). \
 REF: [EDPG]\: 295
 
 ### <a id="knei">\*knēi- "acknowledging" (adj)</a>
@@ -15918,7 +15918,7 @@ REF: [EDPG]\: 309
 ### <a id="kulban">\*kulba(n)- [m.] "round object" (n)</a>
 N: \
 -- ON _kolfr_ "bulb; bolt, arrow" \
--- Far. poet _benjar-kolvur_ "sword" \
+-- Far. poet. _benjar-kolvur_ "sword" \
 -- Elfd. _kuov_ "arrow" \
 W: \
 -- OS _kolƀo_ "club, cudgel, thong" \
