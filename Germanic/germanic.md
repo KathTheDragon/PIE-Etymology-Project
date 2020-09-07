@@ -133,7 +133,7 @@ COGN: Identical to Skt. _áśana_- [n.] "food" \
 A NGm. formation closely related to Skt. _áśana_-, a derivation from Skt. _aśnā́ti_ "to eat". See also [\*aiwjan-](#aiwjan). \
 REF: [EDPG]\: 3
 
-### <a id="agitho">\*agiþō- [f.] "harrow" (n)</a>
+### <a id="agiþō">\*agiþō- [f.] "harrow" (n)</a>
 W: \
 -- OE _egede_ \
 -- OFri. _eide_ \
@@ -155,7 +155,7 @@ COGN: Identical to Gr. _ἄχος_ [n.] "sadness, pain" \
 An s-stem nom. \*agaz, pl. \*agizō < \*h₂egʰ-os, \*h₂egʰ-es-eh₂. The stem variant \*agiz- was generalized at an early stage (cf. Go. _agis_), and gave rise to a secondary i-stem \*agi- in West Germanic following the regular loss of final \*-z (cf. [\*luniz- "linchpin"](#luniz)). The original s-stem served as the basis for OHG _egisōn_, MHG, MDu. _eisen_ [wk.] "to fear" < \*agisōjan-, which in turn gave OHG _agiso_, _egiso_, OS _egiso_, OE _egesa_ [m.] "fear" < \*agisan-. Related to [\*agan- "to fear"](#agan) and [\*ōgjan- "to scare"](#ogjan). \
 REF: [EDPG]\: 4
 
-### <a id="agjo">\*agjo- [f.] "edge, blade" (n)</a>
+### <a id="agjō">\*agjō- [f.] "edge, blade" (n)</a>
 N: \
 -- ON _egg_ "edge" \
 W: \
@@ -166,7 +166,7 @@ PIE: \*h₂eḱ-ieh₂- \
 A ieh₂-stem to the PIE root \*h₂eḱ- "sharp", for which see e.g. [\*ahiz- "ear"](#ahiz). \
 REF: [EDPG]\: 4
 
-### <a id="agon">\*ag/kkōn- [f.] "magpie" (n)</a>
+### <a id="agōn">\*ag/kkōn- [f.] "magpie" (n)</a>
 W: \
 -- OE _age_, _agu_ \
 -- WFri. _akke_ [c.] \
@@ -198,7 +198,7 @@ PIE: \*h₂ekʷ-ró- \
 A ro-stem created to the same root as found in [\*ahwō- "water"](#ahwo). E _acker_ "turbulent current in the sea; ripple furrow in the water" probably does not belong here, but may be identical to [\*akra- "field"](#akra-1), though with a more primary meaning "furrow". \
 REF: [EDPG]\: 5
 
-### <a id="ahano">\*ahanō- ~ \*aganō- [f.] "chaff, awns" (n)</a>
+### <a id="ahanō">\*ahanō- ~ \*aganō- [f.] "chaff, awns" (n)</a>
 E: \
 -- Go. _ahana_ "chaff" \
 N: \
@@ -244,7 +244,7 @@ E: \
 No clear etymology. The verb is obviously related to Go. _aha_ [m.] "mind, understanding" < \*ahan-, Go. _ahma_ [m.] "spirit" < \*ahman- and PGmc. [\*ahtō-"attention"](#ahto) (q.v.), but it lacks clear extra-Gm. cognates. The connections with [\*augōn- "eye"](#augon) < \*h₃ekʷ- (Osthoff 1910: 175) and Gr. _ὄκνος_ [m.] "hesitation, shrinking" (Pokorny IEW: 774) do not convince, at any rate. Theoretically, the verb could be identical to ON _æja_ [wk.] "to graze" < \*ahjan- (through a meaning "to ruminate"), but it is preferable, in my view, to reconstruct this verb as [\*aiwjan- "graze"](#aiwjan) (q.v.). \
 REF: [EDPG]\: 6
 
-### <a id="ahslo">\*ahslō- [f.] "shoulder, armpit" (n)</a>
+### <a id="ahslō">\*ahslō- [f.] "shoulder, armpit" (n)</a>
 N: \
 -- ON _ǫxl_ "shoulder" \
 -- Far. _øksl_ "id." \
@@ -256,7 +256,7 @@ COGN: Lat _āla_ [f.] "armpit, wing", W _echel_ [f.] "axis" < \*h₂eḱs-(i)l-e
 Derived from PIE \*h₂eḱs-i- with an l-suffix, cf. \*nablan- "navel". \
 REF: [EDPG]\: 6
 
-### <a id="ahso">\*ahsō- [f.] "axle" (n)</a>
+### <a id="ahsō">\*ahsō- [f.] "axle" (n)</a>
 N: \
 -- Nw. dial. _oks_ "tip of the hub" \
 W: \
@@ -286,7 +286,7 @@ COGN: ToA _okät_, ToB _okt_, Skt. _aṣtā́_, _aṣtáu_, YAv. _ašta_, Lith. 
 The Indo-European word for "eight". Originally, the numeral may have come about as a dual formation to Av. _ašti_- "width of four fingers, palm" < \*h₃eḱ-ti- (Henning 1948: 69). The meaning of this Avestan word is not entirely certain, however. See also [\*ahtudan- "eighth"](#ahtudan). \
 REF: [EDPG]\: 6
 
-### <a id="ahto">\*ahtō- [f.] "consideration, attention" (n)</a>
+### <a id="ahtō">\*ahtō- [f.] "consideration, attention" (n)</a>
 W: \
 -- OE _eaht_, _æht_, _eht_ "deliberation" \
 -- MDu. _acht_ "attention" \
@@ -320,7 +320,7 @@ COGN: Lat. _acer_, -_eris_ [n.] "maple" < \*ak-r- (cf. _acernus_ "made of maple"
 A European word, possibly of non-IE origin. The main form, PGmc. \*ahurna-, was adopted by Slavic, cf. OCS _avor-ovъ_ "made of maple". The Upper German form _Acher_ may continue \*ahra- without a nasal, to which _Ahre_ and _Ähre_ are secondary feminine derivations in \*-(j)ō- (cf. OHG _voraha_, MoG _Föhre_ "pine" < \*furhwjo(n)- vs. ON _fura_ < \*furhwōn-). The latter variant probably served as the source for Sw. ära and Da. _ære-træ_. It seems unlikely, at any rate, that these forms continue an ablauting form \*ēhirōn- through ON \*_æra_ (thus Torp 1909: 23). \
 REF: [EDPG]\: 7
 
-### <a id="ahwo">\*ahwo- [f.] "river" (n)</a>
+### <a id="ahwō">\*ahwō- [f.] "river" (n)</a>
 E: \
 -- Go. _aƕa_ "body of water, river" \
 N: \
@@ -393,7 +393,7 @@ W: \
 An adjective derived from [\*aigan- "to own"](#aigan) (q.v.), whence Go. _ga-aiginon_, G(?) _eigenen_ [wk.] "to make one's own, to appropriate" < \*aigenōjan-. Also cf. Go. _aigin_, ON _eigin_, OE _āgen_, OFri. _ā̆in_, _ē̆in_, OS _ēgan_, OHG _eigan_ [n.] "property". \
 REF: [EDPG]\: 8
 
-### <a id="aiginth">\*aiginþ- [n.] "shoot, barb" (n)</a>
+### <a id="aiginþ">\*aiginþ- [n.] "shoot, barb" (n)</a>
 N: \
 -- ON _eigin_ "new sprout of corn" \
 -- Far. _egi_ "corn, straw; sprout, shoot; barleyfield" \
@@ -423,7 +423,7 @@ W: \
 A ti-stem created to the root of [\*aigan- "to own"](#aigan) (q.v.). Note that the sometimes connected Ir. _icht_ [m.] "progeny, tribe" (quasi < \*h₂iḱ-ti-) is more likely to have been derived from root \*iek- "to speak" (see [ \*jehan- "to acknowledge"](#jehan)) in view of the related MW _ieith_ [f.] "language, nation, race" < \*iek-ti-. \
 REF: [EDPG]\: 9
 
-### <a id="aihtrojan">\*aihtrōjan- [wk.] "to beg" (v)</a>
+### <a id="aihtrōjan">\*aihtrōjan- [wk.] "to beg" (v)</a>
 E: \
 -- Go. _aihtron_ \
 Etymology uncertain: perhaps somehow derived from [\*aikan- "to appropriate"](#aikan) (q.v.). Unrelated to Gr. _οἰκτρός_ "miserable". \
@@ -493,7 +493,7 @@ PIE: \*h₁oi-mo- \
 A mo-stem whose meaning makes it tempting to reconcile it with the root \*h₂ei- "to burn" (see [\*aida- "pyre"](#aida), [\*aiza- "ore"](#aiza)), which would imply a proto-form \*h₂oi-mo-. However, ON, Icel. _ím_ [n.] "dust, dirt", Far. _ím_ [n.] "soot", Nw. _im_ [n.] "thin layer (e.g. of dust, flower or soot)" < \*īma- rather implies a root \*h₁eiwith \*h₁. See also [\*aima-uzjon- "embers"](#aimauzjon). \
 REF: [EDPG]\: 11
 
-### <a id="aimauzjon">\*aima-uzjōn- [f.] "embers" (n)</a>
+### <a id="aimauzjōn">\*aima-uzjōn- [f.] "embers" (n)</a>
 N: \
 -- ON _eimyrja_ \
 W: \
@@ -582,7 +582,7 @@ COGN: Av. _aiiarə_, gen. _aiiąn_ [n.] "day" < \*h₂ei-r/n-, Gr _ἦρι_ "in 
 PGmc. \*airi is identical to Gr. _ἦρι_, continuing the locative of an old r/n-stem meaning "day" (or "daybreak"?), cf. Av. _aiiarə_. The e of \*ajeri was regularly raised to \*i after \*j, and triggered the merger of \*aji- with \*ai- (cf. [\*aiza- "ore"](#aiza) < PIE \*h₂ei-es-). Note that ON, Icel. _árla_, Sw. _arla_, Da. _årle_ "early" (adv) developed from _árliga_ by some sort of syncope, cf. _fastl(ig)a_ "firmly", _framarl(ig)a_ "in a forward position", _ill(ilig)a_ "badly, hideously" and _gerla_, _gǫrla_ "fully", _harðla_ "very", _varla_ "hardly". \
 REF: [EDPG]\: 12
 
-### <a id="airinon">\*airinōn- [wk.] "to run an errand" (v)</a>
+### <a id="airinōn">\*airinōn- [wk.] "to run an errand" (v)</a>
 E: \
 -- Go. _airinon_ "to be an emissary, to be a messenger" \
 N: \
@@ -599,7 +599,7 @@ PIE: \*h₂ei-er-is \
 An adverbial comparative often derived from \*_árðr_ < \*air-þera- (see \*airi) with dissimilation of the first _r_ after the monophthongization of \*ai to _á_ (thus Torp 1909: 3). Or should we rather assume dissimilation of \*āriʀ to \*āðiʀ (before the syncope of i, but after the monophthongization of \*ai to \*ā)? If so, the Old Norse form must originally have been identical to Go. _airis_ < \*air-iz. For similar dissimilations, cf. Go. _izwis_ obl.du. "you" vs. ON _yðr_ < PN \*iðwiʀ < \*iʀwiʀ and Icel. hleði < \*hloʀi < \*hluzan-, for which see [\*hluza- "listening"](#hluza). The traditional connection with [\*ēdra- "quick"](#edra) seems less attractive. \
 REF: [EDPG]\: 12
 
-### <a id="airo">\*airō- [f.] "oar" (n)</a>
+### <a id="airō">\*airō- [f.] "oar" (n)</a>
 N: \
 -- ON _ár_ \
 -- Far. _ár_ \
@@ -623,7 +623,7 @@ W: \
 Also cf. Go. _airinon_ [wk.] "to be an emissary, to be a messenger", ON _arna_ [wk.] "to intercede, to pray" < \*airinōn-. No further etymology. \
 REF: [EDPG]\: 13
 
-### <a id="aisko">\*aiskō- [f.] "demand" (n)</a>
+### <a id="aiskō">\*aiskō- [f.] "demand" (n)</a>
 W: \
 -- OFri. _āske_ "claim" \
 -- OHG _eisca_ "question" \
@@ -632,7 +632,7 @@ COGN: Latv. _ieska_ [f.] "desire" < \*h₂ois-sk-eh₂- (whence Lith. _ieškóti
 An eh₂-stem derived from a PIE sk-present \*h₂is-sk-e-, cf. Skt. _iccháti_ "to long for", Av. _isaiti_ "id.". In Germanic, it gave rise to OE _āscian_ [wk.] "to question, interrogate", E _to ask_, OFri. _āskia_ [wk.] "to investigate", MDu. _eiscen_, _escen_ [wk.] "to demand", Du. _eisen_ [wk.] "id.", OHG _eiscōn_ [wk.] "to claim, demand" < \*aiskōjan-, which is derivationally parallel to Lith. _ieškóti_ and Latv. _iēskât_. Also cf. OE _ǣsce_ [f.] "question, search" < \*aiskjōn-. \
 REF: [EDPG]\: 13
 
-### <a id="aisojan">\*aisō(ja)n- [wk.] "to rush" (v)</a>
+### <a id="aisōjan">\*aisō(ja)n- [wk.] "to rush" (v)</a>
 N: \
 -- ON _eisa_ "to rush, dash" \
 PIE: \*h₁ois-eh₂(-ie)- \
@@ -640,7 +640,7 @@ COGN: Skt. _íṣyati_ "to set in motion, send" < \*h₁is-ie-, Av. _fraēšiiā
 An iterative or denominative verb without cognates in the WGm. languages. \
 REF: [EDPG]\: 13
 
-### <a id="aison">\*aisōn- [f.] "fireplace" (n)</a>
+### <a id="aisōn">\*aisōn- [f.] "fireplace" (n)</a>
 N: \
 -- ON _eisa_ "embers" \
 -- Nw. _eise_ "fire, smith's fire" \
@@ -659,7 +659,7 @@ PIE: \*h₂ei-sth₂-o- \
 Possibly a compound of the root of [\*aida- "fire"](#aida) with the locational suffix \*-sth₂-o- (for which cf. [\*stēn- "to stand"](#sten)). See also [\*aisōn- "fireplace"](#aison). \
 REF: [EDPG]\: 14
 
-### <a id="aisten">\*aistēn- [wk.] "to respect" (v)</a>
+### <a id="aistēn">\*aistēn- [wk.] "to respect" (v)</a>
 E: \
 -- Go. _aistan_ \
 PIE: \*h₂eisd-eh₁-ie- \
@@ -667,7 +667,7 @@ COGN: Skt. _ī́ṭṭe_ "to invoke, worship", OAv. _išasōit̰_ 3sg.pres.opt. 
 A stative formation containing the root \*Heisd-, which is probably an extension of \*h₂eis- (see [\*aizō-](#aizo)), perhaps with the suffixed root \*dh₃- ("to give respect"?). PIE \*h₂eisd- is well-attested in Indo-Iranian, but the appurtenance of Gr. _αἴδομαι_ "to respect" is uncertain given the fact that the expected outcome of PIE \*h₂eisd-e- would be \*\*_αἴζομαι_. \
 REF: [EDPG]\: 14
 
-### <a id="aiston">\*aistōn- [n.] "testicle" (n)</a>
+### <a id="aistōn">\*aistōn- [n.] "testicle" (n)</a>
 N: \
 -- ON _eista_ \
 -- Far. _eista_ \
@@ -701,7 +701,7 @@ COGN: Formally close to OCS _jadra_ [n.pl.] "embrace, bosom" \
 A formation derived from the PIE root \*h₂eid- "to swell", cf. [\*aita- "ulcer"](#aita). Also cf Sw. obs., dial. _etter_ "poisonous; purulent" < \*aitra-. \
 REF: [EDPG]\: 14
 
-### <a id="aitha">\*aiþa- [m.] "oath" (n)</a>
+### <a id="aiþa">\*aiþa- [m.] "oath" (n)</a>
 E: \
 -- Go. _aiþs_ \
 N: \
@@ -718,7 +718,7 @@ COGN: Identical to OIr. _oeth_ [m.] "oath" \
 A Germanic-Celtic isogloss. Given the close formal and semantic agreement between PGmc. \*aiþa- and PCelt \*oito-, it is unlikely that the formation goes back to Proto-Indo-European, only to surface in two neighboring branches at the far end of the IE-speaking area. It is more probable that the word somehow arose in a shared cultural zone with similar legal traditions. Etymologically, the word is often derived from the root \*h₁ei- "to go", cf. Sw. _ed-gång_ "oath-walk". Unrelated to Hitt. _hai_- "to believe, to trust" (_pace_ Puhvel 1984-: III 9-10), which is more commonly written _hā_- < \*h₂₃eh₂₃- (Kloekhorst 2008: 267). See also [\*aiþja- "capable of taking an oath"](#aithja). \
 REF: [EDPG]\: 15
 
-### <a id="aithin">\*aiþīn- ~ \*aiþōn- [f.] "mother" (n)</a>
+### <a id="aiþīn">\*aiþīn- ~ \*aiþōn- [f.] "mother" (n)</a>
 E: \
 -- Go. _aiþei_ \
 N: \
@@ -729,7 +729,7 @@ PIE: \*ait-ih₂-(?) \
 A nursery word, cf. Basq. _aita_ "father". Hardly from [\*aiþa- "oath"](#aitha) (q.v.) in the sense of "legally acknowledged mother" (_pace_ Mezger 1960: 68). The somewhat enigmatic form ON _edda_ [f.] "great-grandmother" could be a hypocoristic formation to _eiða_. \
 REF: [EDPG]\: 15
 
-### <a id="aithja">\*aiþja- "capable of taking an oath" (adj)</a>
+### <a id="aiþja">\*aiþja- "capable of taking an oath" (adj)</a>
 E: \
 -- Go. _uf-aiþeis_\* "bound by an oath" \
 W: \
@@ -737,7 +737,7 @@ W: \
 The meaning of the Old English form is clearly gerundival. Usually, gerundives are created to verbs, but in this particular case, the derivational base appears to have been [\*aiþa- "oath"](#aitha). \
 REF: [EDPG]\: 15
 
-### <a id="aithma">\*aiþma- [m.] "son-in-law" (n)</a>
+### <a id="aiþma">\*aiþma- [m.] "son-in-law" (n)</a>
 W: \
 -- OE _āðum_ "son-in-law; brother-in-law" \
 -- OFri. _āthum_, _āthom_, _āthem_ "son-in-law, father-in-law" \
@@ -799,7 +799,7 @@ COGN: Skt. _áyas_-, Av. _aiiah_- [n.] "metal, copper", Lat. _aes_, _aeris_ [n.]
 A thematicized s-stem. The Germanic form developed from \*aiza- through \*ajez- < \*h₂ei-es- with regular loss of the medial \*e after \*j (cf. [\*airi "early"](#airi) and [\*laiza- "clay"](#laiza)). The original PIE s-stem \*h₂ei-os, \*h₂(e)i-es-os may have been derived from the root \*h₂ei- "to burn", cf. [\*aida- "pyre"](#aida) and [\*aisōn- "fireplace"](#aison). Also cf. OE _ǣren_, OHG _ērīn_, G _ehern_ "iron, brazen" < \*aizīna-. \
 REF: [EDPG]\: 16
 
-### <a id="aizo">\*aizo- [f.] "respect, benevolence" (n)</a>
+### <a id="aizō">\*aizō- [f.] "respect, benevolence" (n)</a>
 N: \
 -- ON _eir_ "mercy" \
 W: \
@@ -897,7 +897,7 @@ COGN: OIr. _áirne_ [m.] "sloe, fruit of the blackthorn, kernel", MW _eirin_ pl.
 A clear Europeanism. The Germanic word appears to contain the element \*-ana- that can be retrieved from the semantically comparable ON _aldin_, Far. poet. _aldan_, OSw. _aldon_ [n.] "tree-fruit, mast" < \*aldana-, and more generally from the Swedish berry-suffix -_on_, cf. OSw. _hiupon_ "rose hip" (see [\*heupa/ōn-](#heupan)) and _smultron_ [n.] "wild strawberry" (with -_on_- < \*-anu < \*-on-eh₂- as in W _aeron_ "fruits, berries"?). This leaves a more primary base \*agr-, which happens to be especially close to the Celtic forms, but which nevertheless remains derivationally obscure. Note that the appurtenance of ToB _oko_ (see Adams 1999: 109-1 10) is uncertain, as it may have been derived from the PIE root \*h₂eug- "to grow". \
 REF: [EDPG]\: 18
 
-### <a id="akwesi">\*akwesī- [f.] "axe" (n)</a>
+### <a id="akwesī">\*akwesī- [f.] "axe" (n)</a>
 E: \
 -- Go. _aqizi_ \
 N: \
@@ -987,7 +987,7 @@ PIE: \*h₂el-ti- \
 A ti-stem derived from the strong verb [\*alan- "to grow"](#alan) (q.v.). \
 REF: [EDPG]\: 20
 
-### <a id="aldon">\*aldō(n)- [f.] "hollow (of a tree)" (n)</a>
+### <a id="aldōn">\*aldō(n)- [f.] "hollow (of a tree)" (n)</a>
 N: \
 -- ON _alda_ "wave, roller" \
 -- Icel. _alda_ "wave, small land ridge" \
@@ -1039,7 +1039,7 @@ N: \
 A verb reminiscent of [\*walk/gōn-](#walkon) (q.v.). Also cf. WFri. _algje_ [wk.] "to be disgusted" < \*algōjan-. \
 REF: [EDPG]\: 21
 
-### <a id="algojan">\*algōjan- [wk.] "to protect" (v)</a>
+### <a id="algōjan">\*algōjan- [wk.] "to protect" (v)</a>
 W: \
 -- OE _ealgian_, _algian_ "to defend" \
 PIE: \*h₂elk-eh₂-ie-? \
@@ -1057,7 +1057,7 @@ COGN: Lith. _al̃kas_ [m.] "(holy) grove on a hill", Latv _ȩ̀lks_ [m.] "idol" 
 A Baltic-Germanic word with no clear IE cognates. The link with \*h₂lek"to ward off, defend" (cf. \*algōjan-) mentioned by Pokorny IEW: 32 is arbitrary. Given the root noun inflection, it is conceivable that the word was adopted from a local non-IE language by Germanic and Baltic after their arrival in Europe. \
 REF: [EDPG]\: 22
 
-### <a id="alino">\*alīnō- [f.] "forearm; cubit" (n)</a>
+### <a id="alīnō">\*alīnō- [f.] "forearm; cubit" (n)</a>
 E: \
 -- Go. _aleina_ "cubit, ell" \
 N: \
@@ -1073,7 +1073,7 @@ COGN: Gr. _ὠλένη_ [f.] "elbow, underarm", Lat. _ulna_ [f.] "forearm" < \*
 The Germanic word together with Lat. ulna goes back to PIE \*Heh₃l-en-eh₂- through an intermediate form \*olenā- with pretonic shortening. The suffix was later substituted by \*-īnō-. In PIE, the word was probably inflected as an amphidynamic n-stem, nom. \*Héh₃l-ōn, gen. \*Hh₃l-n-ós, acc. \*Hh₃l-én-m. Note that the latter case also may have given PGmc. \*alen- by vocalization of the second laryngeal. \
 REF: [EDPG]\: 22
 
-### <a id="aliskon">\*aliskōn- [wk.] "to tend to(?)" (v)</a>
+### <a id="aliskōn">\*aliskōn- [wk.] "to tend to(?)" (v)</a>
 N: \
 -- ON _elska_ "to love" \
 -- Far. _alska_, _elska_ "id." \
@@ -1120,7 +1120,7 @@ COGN: Hitt. _halai_ ~ _haliyanzi_ "to set in motion" < \*h₂l-ói-ei, \*h₂l-i
 A formation created with the neuter \*-ana-suffix (cf. [\*akrana-](#akrana)), perhaps to an unattested verb \*aljan-. In view of the original meaning "zeal", I assume a connection with the aforementioned Hittite and Greek forms, but others have compared e.g. Lat. _alacer_ "lively". Also cf. ON _elta_ [wk.] "to pursue" < \*al-atjan-. \
 REF: [EDPG]\: 23
 
-### <a id="alkon">\*alkon- [f.] "auk" (n)</a>
+### <a id="alkōn">\*alkōn- [f.] "auk" (n)</a>
 N: \
 -- ON _alka_ "razor-bill" \
 -- Far. _álka_ "id." \
@@ -1144,7 +1144,7 @@ COGN: Osc. _allo_ (adj) [f.] "whole" < \*h₂el-neh₂-, OIr. _uile_ "all", Lith
 The double \*l in Gm. developed out of the cluster \*-ln-, cf. [\*fulla- "full"](#fulla). The originally suffixless form still occurs as \*ala-, cf. Go. _ala_-, ON _al_-, OE _æl_-, OS, OHG _ala_- in compounds, cf. Go. _ala-brunst_ "_ὁλόκαυστον_". \
 REF: [EDPG]\: 23
 
-### <a id="aluth">\*aluþ- [n.] "ale, beer" (n)</a>
+### <a id="aluþ">\*aluþ- [n.] "ale, beer" (n)</a>
 N: \
 -- ON _ǫl_ "beer" \
 W: \
@@ -1156,7 +1156,7 @@ PIE: \*h₂el-u-(?) \
 No generally accepted etymology for this word, which was borrowed from Germanic as e.g. Lith. _alùs_, Fi. _olut_ and Oss. _æluton_ / _ilæton_. Several suggestions: 1) to Lat. _alūmen_ "alum" starting from an original meaning "bitter drink" (cf. Pokorny IEW: 33-4); 2) to Hitt. _alwanza_- "magic" (Polome 1996); 3) to Skt. _aruṣá_- "reddish", Av. _auruša_- "bright, white" (Bjorvand 2007). \
 REF: [EDPG]\: 23
 
-### <a id="amaitjo">\*amaitjō- [f.] "ant" (n)</a>
+### <a id="amaitjō">\*amaitjō- [f.] "ant" (n)</a>
 W: \
 -- OE _ǣ̆mette_, E _ant_ \
 -- MDu. _amete_, _emete_, _eemt_ \
@@ -1188,7 +1188,7 @@ PIE: \*h₃embʰ-on- \
 An n-stem in _Schwebeablaut_ relation to PIE \*h₃nóbʰ-s, gen. \*h₃mbʰ-és (for which see [\*nabō- "nave"](#) and [\*nablan- "navel"](#)). The OHG na-stem results from secondary thematization, cf. Lat. _umbo_ "boss (of a shield); protuberance" < \*h₃embʰ-on-. \
 REF: [EDPG]\: 24
 
-### <a id="ammon">\*am(m)ōn- [wk.] "to irritate" (v)</a>
+### <a id="ammōn">\*am(m)ōn- [wk.] "to irritate" (v)</a>
 N: \
 -- ON _ama_ "to vex, molest" \
 -- Icel. _ama_ "to trouble, vex" \
@@ -1230,7 +1230,7 @@ COGN: Identical to Skt. _áṃsa_- [m.] "shoulder", Oss. _wæn_, _won_, _on_ / _
 PGmc. \*amsa- can together with e.g. Skt _áṃsa_- be reconstructed as \*h₃em-so-. In view of the ablaut with Lat. _umerus_ and Arm. _us_, this formation must be a thematization of a more primary s-stem \*h₃ém-ōs, gen. \*h₃m-s-ós (cf. \*h₂éus-ōs, \*h₂us-s-ós "daybreak" under [\*austrōn- "Easter"](#austron)). Note that the m of \*amsa- is based on the Gothic form only: ON _áss_ "1) hill; 2) beam" is a merger of \*amsa- and \*ansa- (for the original nasality of the ON vowel, cf. Elfd. _ą̊s_ "ridge", Nystrom 1995). \
 REF: [EDPG]\: 25
 
-### <a id="amslon">\*amslōn- [f.] "blackbird" (n)</a>
+### <a id="amslōn">\*amslōn- [f.] "blackbird" (n)</a>
 W: \
 -- OE _ōsle_, E _ousle_ \
 -- OHG _amsala_, G _Amsel_ \
@@ -1413,7 +1413,7 @@ COGN: Gr. _ἀγκύλος_ "curved, bent" \
 See [\*angan- "curve"](#angan), [\*angula- "hook"](#angula) and [\*anhulō- "strap"](#anhulo). \
 REF: [EDPG]\: 29
 
-### <a id="anhulo">\*anhulō- [f.] "strap" (n)</a>
+### <a id="anhulō">\*anhulō- [f.] "strap" (n)</a>
 N: \
 -- ON _ǫ́l_, _ál_ "belt, strip" \
 -- Far. _ál_ "strap, belt; stretch" \
@@ -1424,7 +1424,7 @@ COGN: Gr. _ayKUATJ_ [f.] "belt" \
 See [\*angan- "curve"](#angan), [\*anhula- "shoot"](#anhula) and [\*angula- "hook"](#angula). \
 REF: [EDPG]\: 29
 
-### <a id="ankjon">\*ankjōn- [f.] "ankle" (n)</a>
+### <a id="ankjōn">\*ankjōn- [f.] "ankle" (n)</a>
 N: \
 -- ON _ekkja_ "heel" \
 W: \
@@ -1433,7 +1433,7 @@ PIE: \*h₂eng-ieh₂- \
 See [\*ankula- "ankle"](#ankula). \
 REF: [EDPG]\: 29
 
-### <a id="ankon">\*ankōn- [wk.] "to complain" (v)</a>
+### <a id="ankōn">\*ankōn- [wk.] "to complain" (v)</a>
 W: \
 -- MLG _anken_ "to moan, grunt" \
 PIE: \*h₃enh₃-(?) \
@@ -1476,7 +1476,7 @@ W: \
 Of unclear origin. The alleged link with Skt. _ánas_-, Lat _onus_ [n.] "load" < \*h₃en-os- is doubtful because the required intermediate meaning "carrier beam" is unattested. It has been suggested that ON _áss_ is identical to [\*amsa- "shoulder"](#amsa) (q.v.) < \*h₃em-os-, but the two words are kept distinct in Gothic. The connection with Lat. _asser_ [m.] "wooden beam" (Petersson 1921: 19) is phonologically impossible. Also cf. Fi. _ansas_ "beam". \
 REF: [EDPG]\: 30
 
-### <a id="ansjo">\*ansjo- [f.] "handle, ring, eyelet" (n)</a>
+### <a id="ansjō">\*ansjō- [f.] "handle, ring, eyelet" (n)</a>
 N: \
 -- ON _æs_ "thread-hole in a shoe" \
 -- Far. _æs_ "id." \
@@ -1515,7 +1515,7 @@ COGN: Close to Hitt. _hassu_- [c.] "king", OAv. _ahu_-, YAv. _aŋhu_- [m.] "lord
 Also cf. Jordanes _anses_ (pl.) "demigods". An ancient Indo-European word ultimately related to Hitt _hāsi_ ~ _hassanzi_ "to give birth, to beget", which in view of CLuv. _hamsa/i_- [c.] "grandchild" must be reconstructed as \*h₂ems- (Kloekhorst 2008: 293). \
 REF: [EDPG]\: 30
 
-### <a id="anthara">\*anþara- "the other (of two), the second" (adj, num)</a>
+### <a id="anþara">\*anþara- "the other (of two), the second" (adj, num)</a>
 E: \
 -- Go. _anþar_ (num) \
 N: \
@@ -1532,7 +1532,7 @@ COGN: Skt. _ántara_- "distant, different, other", YAv. _aṇtara_- "other, seco
 A pronoun and adjective as well as the ordinal pertaining to [\*twa- "two"](#twa) (q.v.). \
 REF: [EDPG]\: 30
 
-### <a id="anthja">\*anþja- "forehead" (n)</a>
+### <a id="anþja">\*anþja- "forehead" (n)</a>
 N: \
 -- ON _enni_ [n.] "forehead; steep crag" \
 -- Far. _enni_ [n.] "forehead, brow; sharp projection on a steep mountain side" \
@@ -1546,7 +1546,7 @@ COGN: Lith. _añtis_ [m.] "bosom" < \*h₂ent-io-, Lat _antiae_ [f.pl.] "foreloc
 Created to the original root noun \*h₂ent-s, loc. \*h₂ent-i "forehead, front", cf. Hitt _hanza_, loc. _hante_ "id." (with restoration of \*_hanze_ to _hante_). Note that Nw. dial. _enna_ was incorporated into the class of neuter n-stems denoting body parts. See further [\*andja- "end"](#andja) and [\*umbi "around"](#umbi). \
 REF: [EDPG]\: 31
 
-### <a id="antho">\*anþō- ~ \*andō- [f.] "antechamber" (n)</a>
+### <a id="anþō">\*anþō- ~ \*andō- [f.] "antechamber" (n)</a>
 N: \
 -- ON _ǫnn_, _ǫnd_ \
 PIE: \*h₂enHt-h₂- \
@@ -1696,7 +1696,7 @@ COGN: Lith. _eržùs_, dial. _aržùs_ "ardent, voluptuous, stubborn" (with _a_ 
 An Indo-European adjective derived from the root \*h₃ergʰ- "to copulate". \
 REF: [EDPG]\: 34
 
-### <a id="arhwo">\*arhwō- [f.] "arrow" (n)</a>
+### <a id="arhwō">\*arhwō- [f.] "arrow" (n)</a>
 N: \
 -- ON _ǫr_ \
 -- Far. _ørv_ \
@@ -1776,7 +1776,7 @@ COGN: Hitt _ārra_- [c.] "arse, anus", Gr. _ὄρρος_ [m.] "rump, arse", Arm.
 The appurtenance of OIr. _err_ is uncertain, because o-stems in Proto-Indo-European did not have paradigmatic root ablaut. The reconstruction of a more primary s-stem \*h₁érs-os, \*h₁rs-és-s does not solve much either, because s-stems did not have o-grade roots in their paradigm. The Celtic e-grade is possibly paralleled, however, by MDu. _ers_, _eers_ (Franck 1949: 6), which can hardly have developed from \*arsa-. \
 REF: [EDPG]\: 35
 
-### <a id="arton">\*artō(n)- [f.] "wagtail?" (n)</a>
+### <a id="artōn">\*artō(n)- [f.] "wagtail?" (n)</a>
 N: \
 -- ON _arta_ "a species of teal, garganey" (also cf. _ertla_ "wagtail" < \*artilōn-) \
 -- Icel. _urt_, _ōrt_ "teal" \
@@ -1788,7 +1788,7 @@ COGN: ?Gr. _ἐρῳδιός_ (with secondary iota subscriptum), _ἐρωδι�
 Uncertain etymology. The sound correspondences in the alleged cognates are highly irregular, and hamper the reconstruction of a PIE word, e.g. \*Hérh₃d-h₂, gen. \*Hrh₃d-h₂-ós. It is possible that the word was borrowed from a Pre-IE language in Europe. Perhaps the initial \*a- of PGmc. \*artō(n) can be explained as the substrate prefix also found in e.g. [\*amslōn- "blackbird"](#amslon) (q.v.). \
 REF: [EDPG]\: 36
 
-### <a id="arthon">\*arþōn- [f.] "crupper?" (n)</a>
+### <a id="arþōn">\*arþōn- [f.] "crupper?" (n)</a>
 N: \
 -- Nw. _arde_, _ore_ [m./f.] "steel ring to fasten the saddle with" \
 -- OSw. _arþa_ "crupper" \
@@ -1797,7 +1797,7 @@ PIE: \*h₂er-teh₂-(?) \
 The word can be related to PIE \*h₂er- "to fit together". Or perhaps rather to [\*arþra- "plow"](#arthra)? \
 REF: [EDPG]\: 36
 
-### <a id="arthra">\*arþra- [m.] "scratch plow" (n)</a>
+### <a id="arþra">\*arþra- [m.] "scratch plow" (n)</a>
 E: \
 -- Go. _ardrs_ "plow" \
 N: \
@@ -1845,7 +1845,7 @@ COGN: Close to ToA _ārwar_, ToB _ārwer_ "ready" < PTo. \*arwer < \*h₂/₃er-
 Given the vacillation of the meaning between "ready" and "quick" both within and outside Germanic, the word can be derived from the root \*h₂er- "to order, arrange, fit" or from \*h₃er- "to set in motion". Although \*arwa- straightforwardly seems to continue \*h₂/₃er-uo-, it may have started off as a (heteroclitic?) verbal adjective, e.g. \*h₂/₃er-ur, gen. \*h₂/₃r-unt-ós. See also [\*garwjan- "prepare"](#garwjan). \
 REF: [EDPG]\: 37
 
-### <a id="arwit">\*arwīt- [f.] "pea" (n)</a>
+### <a id="arwīt">\*arwīt- [f.] "pea" (n)</a>
 N: \
 -- ON _ertr_ pl. \
 -- Far. _ertur_, pl. _ertrar_ \
@@ -1873,7 +1873,7 @@ COGN: Skt. _áruṣ_- [n.] "wound" < \*h₂/₃eru-s- \
 An old s-stem \*arwaz, gen. \*arwizaz continuing PIE \*h₂/₃éru-s, gen. \*h₂/₃ru-és-s. The Nordic forms go back to a secondary stem \*arwiz- (cf. Fi. _arpi_, gen. _arven_). In West Germanic, the word was remodeled into an n-stem \*arwa/ōn- which acquired an unetymological _n_ due to metanalysis. \
 REF: [EDPG]\: 37
 
-### <a id="asjon">\*asjon- [f.] "soapstone" (n)</a>
+### <a id="asjōn">\*asjōn- [f.] "soapstone" (n)</a>
 N: \
 -- ON _esja_ \
 -- Nw. _esje_ "soapstone; embers" \
@@ -1898,7 +1898,7 @@ COGN: Close to Alb. _ah_, Geg. _hah_ [m.] "beech" and Arm. _hac'i_ "ash-tree" < 
 A European tree name. The cross-dialectal stem alternation of \*Heh₃-s- and \*Hh₃-s- could point to an old s-stem \*Héh₃-s, \*Hh₃-és-s. \
 REF: [EDPG]\: 38
 
-### <a id="askon">\*askōn- [f.] "ashes" (n)</a>
+### <a id="askōn">\*askōn- [f.] "ashes" (n)</a>
 E: \
 -- Go. _azgo_ "ashes" \
 N: \
@@ -1913,7 +1913,7 @@ COGN: To Arm. aCiwn "ashes" < \*h₂h₁s-g-i-? \
 There is no clear solution to the anomalous discrepancy of EGm. \*azgōn- and NWGm. \*askōn-. The proposal to derive both these variants from \*astagōn- > \*astgōn- (Osthoff 1888: 396-9) must be rejected, such syncope being irregular in Gothic. It is also not likely that the form with \*ǵʰ is mirrored by Arm. _azazim_ "to dry out" (_pace_ Meillet 1908: 357). Possibly, the Germanic root continues an assibilated form \*adzdʰgʷʰ-, which theoretically could yield both \*azgʷʰ- and \*azgʷ-. The origin of this element would still remain obscure, but perhaps we are dealing with some sort of compound, e.g. of the roots \*h₂ed- "to desiccate" (cf. Hitt. _hāti_ ~ _hatanzi_\* "to dry up" < \*h₂ód-ei, \*h₂d-énti (Kloekhorst 2008: 328-30) and Gr. _ἄζω_ "to dry" < \*h₂d-ie-) and \*dʰegʷʰ- "to burn" (cf. ToAB _tsäk_- "id.", Skt. _dáhati_ "id.", Lith. _dègti_ "to burn, light"). \
 REF: [EDPG]\: 38
 
-### <a id="aspo">\*aspō- ~ \*apsō- [f.] "aspen" (n)</a>
+### <a id="aspō">\*aspō- ~ \*apsō- [f.] "aspen" (n)</a>
 N: \
 -- ON _ǫsp_ \
 W: \
@@ -1984,7 +1984,7 @@ COGN: Hitt. _atta_- [c.] "father", Gr. _ἄττα_ voc. "id.", Lat. _atta_ [m.] 
 A cross-linguistically uniform nursery word. Also cf. [\*aban-](#aban). \
 REF: [EDPG]\: 39
 
-### <a id="athala">\*aþala- [n.] "nature" (n)</a>
+### <a id="aþala">\*aþala- [n.] "nature" (n)</a>
 N: \
 -- ON _aðal_ "nature, disposition" \
 -- Nw. _al_ [m.] "pith (of trees), essence" \
@@ -1995,7 +1995,7 @@ PIE: \*h₂/₃et-olo- \
 One often compares ToA _ātāl_ [m.] "man", but the semantic shift to "nature, inheritance, nobility" is not convincing. Perhaps the meaning of Nw. _al_ "pith" is primary. See also [\*aþulja- "noble"](#athulja) and [\*ōþala- "patrimony"](#othala). \
 REF: [EDPG]\: 40
 
-### <a id="athlan">\*aþlan- ~ \*adlan- [m.] "liquid manure" (n)</a>
+### <a id="aþlan">\*aþlan- ~ \*adlan- [m.] "liquid manure" (n)</a>
 N: \
 -- Nw. _åle_, _ale_ \
 W: \
@@ -2006,7 +2006,7 @@ W: \
 Probably related to Icel. _eðja_ [f.] "mud" < \*aþjōn- or \*adjōn- (Magnusson 1989: 2), cf. Icel. _aða_, Far. _øða_ [f.] "horse mussel". In spite of the absence of cognates outside Germanic, the word cannot be too recent in view of the Verner variation of NFri. _ethel_ and Bav. _adel_ < \*aþla(n)- vs. OE _adel(a)_ < \*adla(n)-. Nw. dial. _åle_, _ale_ < ON \*aðli also points to \*aþlan-, as \*adlan- would have given \*\*alli. Metathesis occurred in Du. _aal(t)_, as in _naald_ "needle" < \*nēþlō-. Note the divergent meaning of OHG _adel_ [m.] "ulcer" (Riecke 2004: 279). \
 REF: [EDPG]\: 40
 
-### <a id="athna">\*aþna- [n.] "year" (n)</a>
+### <a id="aþna">\*aþna- [n.] "year" (n)</a>
 E: \
 -- Go. _aþn(s)_\* [m./n.] "period of the year, season" \
 PIE: \*h₂ét-no \
@@ -2014,7 +2014,7 @@ COGN: Lat. _annus_ [m.] "year", Osk. _aceneis_ gen. "id.", Umb. _acnu_ acc. "id.
 In Lat. _annus_, the nasal geminate can be the product of assimilation of a _t_ by a following _n_, cf. Lat. _penna_ [f.] "wing, feather" < \*pet(h₂)-neh₂-. This allows for the connection with Go. _aþn(s)_\*. The accent must have been on the first syllable, because end stress would have triggered Kluge's law, giving PGmc. \*\*atta-. \
 REF: [EDPG]\: 40
 
-### <a id="athulja">\*aþulja- "noble" (adj)</a>
+### <a id="aþulja">\*aþulja- "noble" (adj)</a>
 W: \
 -- OE _æðele_ \
 -- OFri. _ethele_ \
@@ -2061,7 +2061,7 @@ W: \
 A jan-verb created to [\*augōn- "eye"](#augon). Nw. _øygne_ [wk.] "to watch" and _ougenen_ [wk.] "to show" < \*augenjan- appear to be created to the weak stem. \
 REF: [EDPG]\: 41
 
-### <a id="augon">\*augōn- [n.] "eye" (n)</a>
+### <a id="augōn">\*augōn- [n.] "eye" (n)</a>
 E: \
 -- Go. _augo_ \
 N: \
@@ -2079,7 +2079,7 @@ COGN: Skt. _ákṣi_- [n.] "eye", YAv. _aši_ [n.du.] "eye" < \*h₃okʷ-s-, ToA
 Indo-European had a root noun \*h₃ókʷ-s, gen. h₃(o)kʷ-és (cf. Lith. dial. _ákès_). The acc. \*h₃okʷ-m served as the source for the i-stem in Baltic (-_im_ < \*-m̥) and the n-stem in Armenian. The word had no plural \*h₃okʷ-es, only a dual \*h₃okʷ-ih₁, a form that can be retrieved from many Indo-European dialects, e.g. Gr. _ὄσσε_. In Germanic, the word was incorporated into the class of n-stems denoting body parts. As a result, the diphthong \*au can be explained as analogical to [\*auzōn- "ear"](#auzon) (q.v.). It has also been claimed, however, that this diphthong arose as a contamination of two different root forms, viz. \*aw- and \*ag- (cf. Schaffner 2001: 581), that might have arisen within the same paradigm as a result of Verner's law, e.g. loc. \*aweni < \*h₃okʷ-en-i vs. du. \*agī(?) < \*h₃okʷ-ih₁ (for the loss of the labialization, cf. [\*sagja- "man, warrior"](#sagja-1) < \*sokʷ-ió-). This is more doubtful, however. See further [\*augjan-](#augjan). \
 REF: [EDPG]\: 41
 
-### <a id="aujo">\*aujo- [f.] "wetland, island" (n)</a>
+### <a id="aujō">\*aujō- [f.] "wetland, island" (n)</a>
 N: \
 -- ON _ey_ "island" \
 -- Far. _oyggj_ "id." \
@@ -2175,7 +2175,7 @@ COGN: Lat _auster_ [m.] "south wind; south" < \*h₂eus-tero-, YAv. _ušastara_-
 An adverb created to the PIE word for "dawn" (see [\*austrōn-](#austron)) with the contrastive \*tero-suffix. Also cf. [\*nurþera-](#nurthera), [\*sunþera-](#sunthera) and [\*westera-](#westera). \
 REF: [EDPG]\: 43
 
-### <a id="austron">\*austron- [f.] "Easter" (n)</a>
+### <a id="austrōn">\*austrōn- [f.] "Easter" (n)</a>
 W: \
 -- OE _ēastre_ "spring goddess", pl. "Easter" \
 -- OHG _ōstara_, MHG _oster(n)_, G _Ostern_ [f.pl.] \
@@ -2184,7 +2184,7 @@ COGN: Close to Lith. _aušrà_ [f.] "dawn" < \*h₂eus-reh₂-; also cf. Skt. _u
 The Indo-European word for "dawn" was an s-stem, viz. nom. \*h₂eus-ōs, gen. \*h₂us-s-ós. Germanic and Baltic replaced this formation with a form in \*-reh₂-, cf. Skt. _uṣra_- [f.] "dawn, morning" < \*h₂us-reh₂-. Also cf. [\*austera-](#austera). \
 REF: [EDPG]\: 43
 
-### <a id="authja">\*auþja- "empty, void, desolate" (adj)</a>
+### <a id="auþja">\*auþja- "empty, void, desolate" (adj)</a>
 E: \
 -- Go. _auþs_, _auþeis_ \
 N: \
@@ -2198,7 +2198,7 @@ COGN: Gr. _αὔσιος_ "idle" \
 The formation seems to be a Germanic-Greek isogloss. It may belong to the etymological cluster of [\*wana- "lacking"](#wana-1) < \*uh̥₂-n-o-, but the order of the laryngeal and the labial is reversed. Also cf. the factitive ON _eyða_, OE _īeðan_, OHG _ōden_, MHG _œden_ [wk.] "to clear" < \*auþjan-. \
 REF: [EDPG]\: 43
 
-### <a id="authu">\*auþu- "easy" (adj)</a>
+### <a id="auþu">\*auþu- "easy" (adj)</a>
 N: \
 -- ON _auð_- (pref) \
 -- Far. _eyð_- (pref) \
@@ -2212,7 +2212,7 @@ COGN: Skt. _ávati_ "to help, protect", Av. _auuaiti_ "to care, help", OIr. _con
 Also cf. Run. _auja_ "wellness" and Go. _awi-liuþ_ "thanks". \
 REF: [EDPG]\: 43
 
-### <a id="auzon">\*auzon- [n.] "ear" (n)</a>
+### <a id="auzōn">\*auzōn- [n.] "ear" (n)</a>
 E: \
 -- Go. _auso_ \
 N: \
@@ -2354,7 +2354,7 @@ COGN: Hitt. _paddai_ ~ _paddanzi_ "to dig" < \*bʰodʰ-ói-ei, \*bʰodʰ-i-énti
 A neuter ja-stem to the PIE root \*bʰedʰ- "to poke, dig". \
 REF: [EDPG]\: 46
 
-### <a id="badojan">\*badōjan- [wk.] "to frighten" (v)</a>
+### <a id="badōjan">\*badōjan- [wk.] "to frighten" (v)</a>
 N: \
 -- Nw. _bada_ "to weigh down, press; to knead" \
 W: \
@@ -2471,7 +2471,7 @@ COGN: Gr. _φώγω_ "to roast, fry" < \*bʰéh₃g-e- \
 A zero-grade strong verb apparently derived from PIE \*bʰh̥₃g-é-. The dialectal vacillation between \*bakan- and \*bakkan- may be due to contamination with the iterative \*bak(k)ōn- < \*bʰh₃g-neh₂-, with which the strong verb merged in several dialects. It is also conceivable that the strong verb was back-formed to the iterative. Less likely is the view that the geminate arose from a presentic n-suffix (thus Braune 1891: 346, fn. 4). \
 REF: [EDPG]\: 49
 
-### <a id="bakkon">\*bak(k)ōn- [wk.] "to bake, fry" (v)</a>
+### <a id="bakkōn">\*bak(k)ōn- [wk.] "to bake, fry" (v)</a>
 N: \
 -- ON _baka_ "to bake; to warm; to rub" \
 -- Far. _baka_ "to bake; to warm the udder of a cow" \
@@ -2540,7 +2540,7 @@ W: \
 A NWGm. loanword from Lat _balteus_, pl. _baltea_ "girdle, belt". A loanword of similar antiquity is \*kāsja- "cheese", for which see under [\*jū̆sta-](#justa). \
 REF: [EDPG]\: 50
 
-### <a id="baltha">\*balþ/da- "brave" (adj)</a>
+### <a id="balþa">\*balþ/da- "brave" (adj)</a>
 E: \
 -- Go. _balþs_\* "bold, frank" \
 N: \
@@ -2579,7 +2579,7 @@ COGN: YAv. _baṇda_- [m.] "bond, fetter" < \*bʰondʰ-o- \
 An a-stem derived from the strong verb [\*bindan- "bind"](#bindan) (q.v.). \
 REF: [EDPG]\: 51
 
-### <a id="bandi">\*bandī- [f.] "bond, fetter" (n)</a>
+### <a id="bandī">\*bandī- [f.] "bond, fetter" (n)</a>
 E: \
 -- Go. _bandi_ \
 W: \
@@ -2607,7 +2607,7 @@ N: \
 A factitive to Go. _bandwo_ [f.] "sign" < \*bʰonh₂-tueh₂-, which was created to the root of [\*bannan-](#bannan) with the tuh₂-suffix. \
 REF: [EDPG]\: 51
 
-### <a id="banjo">\*banjō- [f.] "wound" (n)</a>
+### <a id="banjō">\*banjō- [f.] "wound" (n)</a>
 E: \
 -- Go. _banja_ \
 N: \
@@ -2823,7 +2823,7 @@ COGN: Skt _bhadrá_- "auspicious, happy, pleasant", YAv. _hu-baδra_- "very happ
 The adverb to the comparative of [\*gōda- "good"](#goda). Also cf. ON _bati_ [m.] "improvement", OFri. _bata_ [m.] "advantage", Du. _baat_ [c.] "profit" < \*batan-. Ablauting with [\*bōtō-](#boto). \
 REF: [EDPG]\: 55
 
-### <a id="batha">\*baþa- [n.] "bath" (n)</a>
+### <a id="baþa">\*baþa- [n.] "bath" (n)</a>
 N: \
 -- ON _bað_ \
 -- Far. _bað_ \
@@ -2850,7 +2850,7 @@ PIE: \*bʰougʰ-éie- \
 The causative to [\*beugan- ~ \*būgan-](#beugan) (q.v.). \
 REF: [EDPG]\: 55
 
-### <a id="bauno">\*baunō- [f.] "bean" (n)</a>
+### <a id="baunō">\*baunō- [f.] "bean" (n)</a>
 N: \
 -- ON _baun_ \
 W: \
@@ -2945,7 +2945,7 @@ PIE: \*bʰedʰ-ie- \
 Etymology debated. In view of the causative \*baidjan-, it has been suggested that \*bedjan- arose from \*bidjan- in analogy to [\*legjan- "to lie"](#legjan) and [\*setjan- "to sit"](#setjan). The meaning "to ask" would then have developed from a more primitive "to expect". Since the merger of \*e and \*i required for the reinterpretation of \*bidjan- as \*bedjan- happened in East and West Germanic independently, however, this solution cannot be maintained. The alternative link with Gr. _ποθέω_ "to desire, long for, miss" and OIr. _guidid_ "to pray"< \*gʷʰodʰ-éie- is more attractive, but hinges on the controversial development of PIE \*gʷʰ to PGmc. \*b (Seebold 1970). Further cf. ON _kne-beðr_ "hassock", OS _kneo-beda_ "prayer", which has sometimes been equated with Skt. _jñu-bā́dh_- "bending the knee". \
 REF: [EDPG]\: 57
 
-### <a id="bela">\*bēla- [n.] "(bon)fire, (funeral) pyre" (n)</a>
+### <a id="bēla">\*bēla- [n.] "(bon)fire, (funeral) pyre" (n)</a>
 N: \
 -- ON _bál_ "fire; pyre" \
 -- Far. _bál_ "(bon)fire" \
@@ -2994,14 +2994,14 @@ W: \
 A strong verb that in view of the double l appears to have been back-formed from the pertaining iterative [\*bullōn-](#bullon) (q.v.) < \*bʰlh₁-néh₂- (there is consequently no need to assume gemination by the laryngeal as per Lühr 1976: 77). The original present is represented by [\*blējan- "to bleat"](#blejan) (q.v.) < \*bʰleh₁-ie-. \
 REF: [EDPG]\: 58
 
-### <a id="bellon">\*bellōn- [f.] "knoll(?)" (n)</a>
+### <a id="bellōn">\*bellōn- [f.] "knoll(?)" (n)</a>
 N: \
 -- Icel. _bjalla_ "hill" \
 -- Sw. _fota-bjälle_ [n.] "heel" \
 Ablauting with [\*ballan-](#ballan) (q.v.). \
 REF: [EDPG]\: 58
 
-### <a id="belunon">\*belunōn- ~ \*bulmōn- [f.] "henbane" (n)</a>
+### <a id="belunōn">\*belunōn- ~ \*bulmōn- [f.] "henbane" (n)</a>
 N: \
 -- OSw. _bulma_ \
 -- Sw. _bolma_, _bolm-ōrt_ \
@@ -3094,7 +3094,7 @@ COGN: Identical to W _berth_ "beautiful" < \*bʰerh₁ǵ-to-; also Alb. _bardhë
 The derivational base of Go. _bairhtjan_, ON _birta_, OE _ge-bierhtan_ "to shine, make bright" < \*berhtjan-. In Germanic, the root also occurs without a suffix, e.g. in Nw. _bjerk_ "bright" < \*berka- < \*bʰerh₁ǵ-o- and in [\*brōka-](#broka) (q.v.). \
 REF: [EDPG]\: 60
 
-### <a id="beri">\*bēri- "portable" (adj)</a>
+### <a id="bēri">\*bēri- "portable" (adj)</a>
 N: \
 -- ON _bærr_ "due, entitled to" \
 -- Far. -_bærur_ "capable of bearing" \
@@ -3110,7 +3110,7 @@ COGN: To Lith. _burgė́ti_ "to sputter; grumble", Latv. _burgžêt_ "to purr" <
 Also cf. [\*burkōn-](#burkon) and [\*barkjan-](#barkjan). \
 REF: [EDPG]\: 61
 
-### <a id="berko">\*berkō- [f.] "birch-tree" (n)</a>
+### <a id="berkō">\*berkō- [f.] "birch-tree" (n)</a>
 N: \
 -- ON _bjǫrk_ \
 W: \
@@ -3121,7 +3121,7 @@ COGN: Skt. _bhūrja_- [m.] "kind of birch", Oss. _bærz_ / _bærzæ_ "birch" < \
 Also cf. - with a different suffix - OE _birce_, OHG _bircha_, _birihha_, G _Birke_ [f.] "id." < \*berkjō(n)-. Related to [\*barku- "bark"](#barku) and [\*berhta- "bright"](#berhta) (the bark of the birch-tree is whitish in color). \
 REF: [EDPG]\: 61
 
-### <a id="bero">\*bērō- [f.] "bier" (n)</a>
+### <a id="bērō">\*bērō- [f.] "bier" (n)</a>
 W: \
 -- OE _bār_, _bǣr_ , E _bier_ \
 -- OFri. _bēre_ \
@@ -3196,7 +3196,7 @@ PIE: \*bʰeuh₂-o- \
 An a-stem related to [\*bōan- ~ \*būan-](#boan) (q.v.). Note that Elfd. _begg_ proves that the root vowel was \*e rather than \*i. \
 REF: [EDPG]\: 63
 
-### <a id="bian">\*bīan-(?) [st?] "to forsee(?), worry(?)" (v)</a>
+### <a id="bīan">\*bīan-(?) [st?] "to forsee(?), worry(?)" (v)</a>
 N: \
 -- Far. _bíggja_ [wk.] "to herald, announce" \
 -- Nw. _bjå_ [wk.] "to tremble; to warn, predict something bad; to care about; to be of use" \
@@ -3205,7 +3205,7 @@ COGN: Skt _bháyate_ "to be afraid" < \*bʰéiH-e-, OPru. _biātwei_, Lith. _bij
 The verb has received no IE etymology so far, but given the Norwegian meanings "to shiver" and "to worry", it is likely to contain the IE root \*bʰeiH- "to fear". This was originally a perfective verb, cf. Skt _bibhā́ya_ "is afraid" < \*bʰi-bʰoiH-e (also cf. [\*bibēn-](#biben)). Far. _bíggja_ and Nw. _bjå_ are weak verbs and may continue \*bī̆(j)ēn- or \*bī̆(j)ōn- (cf. Lith. _bijóti_ < \*bʰiH-eh₂-). Given the late attestation of the two verbs, however, it cannot be excluded that the verb originally was strong, continuing \*bīan- < \*bʰéiH-e-, cf. Skt. _bháyate_. \
 REF: [EDPG]\: 63
 
-### <a id="biben">\*bibēn- [wk.] "to tremble" (v)</a>
+### <a id="bibēn">\*bibēn- [wk.] "to tremble" (v)</a>
 N: \
 -- ON _bifa_ \
 -- Far. _biva_ \
@@ -3219,7 +3219,7 @@ PIE: \*bʰi-bʰoih₂- \
 A stative verb based on a PIE reduplicated perfect \*bʰe-bʰoiH- (Narten 1981: 10) to the root \*bʰeiH-, for which see [\*bīan-(?)](#bian). Just like Skt _bibhéti_, which was created to Skt _bibhā́ya_ "is afraid", the PGmc. stem \*bebai- seems to have given rise to a class 3 weak verb (Kiimmel 2000: 338). For a similar scenario, cf. [\*gīgēn-](#gigen) and [\*rīrēn-](#riren). \
 REF: [EDPG]\: 63
 
-### <a id="bidan">\*bīdan- [st.] "to wait" (v)</a>
+### <a id="bīdan">\*bīdan- [st.] "to wait" (v)</a>
 E: \
 -- Go. _beidan_ "to await, look for" \
 N: \
@@ -3237,7 +3237,7 @@ COGN: Gr. _πείθομαι_ "to trust, rely, obey, be persuaded", Lat _fīdō_
 A European verb. The Germanic meaning "to wait" probably developed from "to suffer", cf. ON _bíða_ with both meanings. With a more primitive meaning, cf. [\*baidjan- "to force"](#baidjan). \
 REF: [EDPG]\: 63
 
-### <a id="bijen">\*bi(j)ēn- [wk.] "to hit" (v)</a>
+### <a id="bijēn">\*bi(j)ēn- [wk.] "to hit" (v)</a>
 N: \
 -- Icel. _bjá_ "to fight, struggle" \
 PIE: \*bhiH-eh₁-ie- \
@@ -3255,7 +3255,7 @@ COGN: Gr. _φίλος_ "friendly, dear; related, own", OIr. _bil_ "good" < \*b�
 The original meaning of the word seems to have been "(one's) equal, even", cf. ON _Billingr_ (name of a mythical dwarf or giant), Elfd. _bilingg_ [m.] "twin" and Elfd. _bila_ [wk.] "to plane" (= "to make even"?). This further follows from OS _bilithi_, ODu. _bilithe_, Du. _beeld_, OHG _biladi_, _biledi_, G _Bild_ [n.] "image, likeness" < WGm. \*bil-eþja-. \
 REF: [EDPG]\: 64
 
-### <a id="bilon">\*bilōn- [wk.] "to give way" (v)</a>
+### <a id="bilōn">\*bilōn- [wk.] "to give way" (v)</a>
 N: \
 -- ON _bila_ "to give way; to fail" \
 -- Icel. _bila_ "to fail, break down, give out" \
@@ -3283,7 +3283,7 @@ COGN: Skt. _badhnā́ti_ "to bind, tie, fix" < \*bʰndʰ-neh₂-, Av. _basta_-, 
 A strong verb of IE origin. See further [\*banda-](#banda), [\*bandjan-](bandjan), [\*bandī-](bandi), [\*bans(t)a-](bansta) and [\*bunda-](bunda). \
 REF: [EDPG]\: 64
 
-### <a id="bion">\*bīōn- [f.] "bee" (n)</a>
+### <a id="bīōn">\*bīōn- [f.] "bee" (n)</a>
 N: \
 -- ON _bý_ [n.], _bý-jluga_ \
 -- Far. _bý-fluga_ \
@@ -3363,7 +3363,7 @@ W: \
 A ra-stem created to [\*bītan-](#bitan-1) (q.v.). The o-grade of Go. _baitrs_ "bitter" is remarkable, as ro-stems usually take the zero grade. It is substantiated, however, by ON -_beitr_ in _slíðr-beitr_ "sharp as a razor". Also cf. OE _bitela_ "biting" < \*bitala-. \
 REF: [EDPG]\: 66
 
-### <a id="bithla">\*bīþla- [m.] "axe" (n)</a>
+### <a id="bīþla">\*bīþla- [m.] "axe" (n)</a>
 N: \
 -- ON _bíldr_ \
 W: \
@@ -3451,7 +3451,7 @@ COGN: Gr. _φλυδάω_ "to be soft, weak" < \*bʰludh₂-ie-, Gr. _φλυδα
 An o-grade adjective to a Germanic and Greek root \*bʰleudh₂-. lt served as the basis for the inchoative ON _blotna_, Elfd. _blottn_ [wk.] "to become weak" < \*blutnan-. Further cf. G obs. _Blutz_ [m.] "naked body" < \*bluttu- and Du. _blut_ "broke" < \*blut(t)ja-. \
 REF: [EDPG]\: 67
 
-### <a id="blauthu">\*blauþu- "soft, weak, timid" (adj)</a>
+### <a id="blauþu">\*blauþu- "soft, weak, timid" (adj)</a>
 N: \
 -- ON _blauðr_ \
 W: \
@@ -3462,7 +3462,7 @@ COGN: Gr. _ἀμβλύς_ "blunt; dim, faint" < \*n̥-ml-u-, Av. _mruta_- "crus
 A tu-stem related to [\*blewwan-](#blewwan) (q.v.). Also cf. the factitive Go. _blauþjan_ [wk.] "to weaken, defeat". \
 REF: [EDPG]\: 67
 
-### <a id="blean">\*blēan- [st.] "to blow" (v)</a>
+### <a id="blēan">\*blēan- [st.] "to blow" (v)</a>
 W: \
 -- OE _blāwan_, E _to blow_ \
 -- OFri. _bliā(n)_ \
@@ -3483,7 +3483,7 @@ COGN: Lat. _fleō_, _flēre_ "to cry, weep", Latv. _blêt_ (_blêju_) "to bleat"
 Also cf. the frequentative OE _blǣgettan_, _blǣtan_, OHG _blāzen_, MHG _blāzen_, MLG _blāten_, MDu. _blaten_, _bleten_, Du. _blaten_ [wk.] "to bleat" < \*blēatjan-, whence e.g. OHG _blāzunga_ [f.] "bleating". There is no compelling reason to reconstruct a Pre-Gm. extended root \*bʰleh₁-d-, as has sometimes been assumed. \
 REF: [EDPG]\: 68
 
-### <a id="blesan">\*blēsan- [st.] "to blow" (v)</a>
+### <a id="blēsan">\*blēsan- [st.] "to blow" (v)</a>
 E: \
 -- Go. _uf-blesan_ "to blow up" \
 N: \
@@ -3497,7 +3497,7 @@ PIE: \*bʰléh₁-s-e- \
 A strong verb based on the sigmatic aorist \*bʰléh₁-s- of the root \*bʰleh₁- (Kortlandt 2011: 147), for which see [\*blēan-](#blean). Also cf. [\*blēstu-](#blestu). \
 REF: [EDPG]\: 68
 
-### <a id="blestu">\*blēstu- [m.] "blowing, blast" (n)</a>
+### <a id="blēstu">\*blēstu- [m.] "blowing, blast" (n)</a>
 N: \
 -- ON _blástr_, dat. _blæsti_ "blast, blowing, breathing" \
 -- Far. _blástur_, _blóstur_ "breathing; wind; windy weather" \
@@ -3509,7 +3509,7 @@ PIE: \*bʰleh₁-s-tu- \
 A tu-stem derived from the strong verb [\*blēsan-](#blesan) (q.v.). \
 REF: [EDPG]\: 68
 
-### <a id="blewa">\*blēwa- "blue" (adj)</a>
+### <a id="blēwa">\*blēwa- "blue" (adj)</a>
 N: \
 -- ON _blár_ "blue, livid, black" \
 -- Far. _bláur_ "blue; dark" \
@@ -3562,7 +3562,7 @@ W: \
 Derived from [\*blandan-](#blandan). \
 REF: [EDPG]\: 69
 
-### <a id="blitha">\*blīþa- "mild, kind" (adj)</a>
+### <a id="blīþa">\*blīþa- "mild, kind" (adj)</a>
 E: \
 -- Go. _bleiþs_\* "merciful" \
 N: \
@@ -3597,7 +3597,7 @@ PIE: \*mlīuo- \
 A non-IE _Wanderwort_ reminiscent of Myc. _mo-ri-wo-do-_, Gr. _μόλυβδος_, _μόλιβος_, _βόλιμος_ [m.] "lead" and Lat. _plumbum_ "id.". The Greek forms, with their interchange of initial _μ_ and _β_, are highly irregular and must be analyzed as borrowings from a Pre-IE source, e.g. \*molü(m)bd-. It therefore seems likely that PGmc. \*blīwa-, too, goes back to a non-IE proto-form \*mlīuo- with initial \*m. \
 REF: [EDPG]\: 69
 
-### <a id="bloan">\*blōan- [st.] "to bloom, flourish" (v)</a>
+### <a id="blōan">\*blōan- [st.] "to bloom, flourish" (v)</a>
 W: \
 -- OE _blōwan_ \
 -- OFri. _bloia_ \
@@ -3609,7 +3609,7 @@ COGN: Lat. _flōs_, _flōris_ [m.] "flower" < \*bʰleh₃-os-, OIr. _bláth_, MW
 A verb only attested in Germanic. The laryngeal of the underlying root has been identified as \*h₃ in view of OIr. _bláth_ and PGmc. \*blōman- (Schrijver 1991: 13 1). lndeed, PGmc. \*blōman- is likely to contain an e-grade in view of the original mn-suffix. OE _blǣd_ [m.(?)] "flower, blossom, fruit" has contrarily been adduced to reconstruct a formation \*blēdu- < \*bʰleh₁-tú- with h₁, but it is more likely that this form represents a variant of the ti-stem _blēd_ [m./f.] "id." (for which see [\*blōdi-](#blodi)). It therefore seems safe to reconstruct the Germanic strong verb as \*bʰleh₃-e- rather than an o-graded \*bʰlóh₁-e-. \
 REF: [EDPG]\: 69
 
-### <a id="bloda">\*blōda- [n.] "blood" (n)</a>
+### <a id="blōda">\*blōda- [n.] "blood" (n)</a>
 E: \
 -- Go. _bloþ_ \
 N: \
@@ -3623,7 +3623,7 @@ W: \
 A neuter collective created to either [\*blēan- "to blow"](#blean) or [\*blōan- "to flower"](#bloan). The latter connection is based on the idea that the color of the blood served as the _Benennungsmotiv_ (cf. MDu. _bloet_ [n.] "blushing"), the former on the assumption of a semantic primitive "to gush" (cf. EWAhd: II, 212). Alternatively, it is possible to start from a meaning "life" derived from "breath", cf. OHG _blāt_ [m.] "blowing", OE _blǣd_ [m.] "breath, spirit, life" < \*blēda-. \
 REF: [EDPG]\: 70
 
-### <a id="blodi">\*blōdi- [f.] "bloom" (n)</a>
+### <a id="blōdi">\*blōdi- [f.] "bloom" (n)</a>
 W: \
 -- OE _blēd_ "shoot, branch, flower, fruit" \
 -- OHG _bluot_ "blossom, blossoming", G _Blüte_ "id." \
@@ -3631,7 +3631,7 @@ PIE: \*bʰleh₃-tí- \
 A ti-stem derived from the root \*bʰleh₃-, for which see [\*blōan-](#bloan). \
 REF: [EDPG]\: 70
 
-### <a id="bloman">\*blōman- [m.] "flower" (n)</a>
+### <a id="blōman">\*blōman- [m.] "flower" (n)</a>
 E: \
 -- Go. _bloma_ \
 N: \
@@ -3659,7 +3659,7 @@ COGN: Lat. _flāmen_ [m.] "priest" < \*bʰleh₂(d/g)-men- \
 The traditional connection with _flamen_ [m.] "priest" (cf. Pokorny IEW: 154) is possible, but uncertain because it is impossible to see whether the root of the Lat. word was \*flii-, \*fliid- or \*flag-. In view of the potentially archaic semantics of the loanword Fi. _luote_ "enchantment", it is possible to alternatively connect e.g. Lith. _blódėti_, Latv. _blãdêt_ "to babble, ramble" < \*bʰleh₂d-eh₁-, assuming a primary meaning "invocation". Within Germanic, also cf. OHG _bluostar_ [n.] "sacrifice" < \*blōstra- and the derivation Go. -_blostreis_ [m.] "worshipper" < \*blōstrja-. \
 REF: [EDPG]\: 70
 
-### <a id="boan">\*bōan- ~ \*būan- [st.] "to live, dwell" (v)</a>
+### <a id="bōan">\*bōan- ~ \*būan- [st.] "to live, dwell" (v)</a>
 E: \
 -- Go. _bauan_ [st./wk.] \
 N: \
@@ -3675,7 +3675,7 @@ COGN: Skt _bhávati_ "to become, happen, come about", OAv. _bauuaiti_ 3sg.pres. 
 The etymological cluster belonging to this verb is difficult to analyze formally (cf. Seebold 1970: 127), but in all likelihood, the difference between \*būan- and \*bōan- is simply to be explained as resulting from an ablauting paradigm, e.g. a root present 3sg. \*bʰéh₂u-ti, pl. \*bʰh₂u-enti. The full-grade root \*bʰeh₂u- should through \*bōw- regularly have given \*bō- by the loss of \*u after \*ō in open syllables (cf. e.g. [\*nō- "ship"](#no) < \*neh₂u-), while \*bū- developed from \*bʰh₂u- by laryngeal metathesis (cf. \*būra-). See also [\*bewwa-](#bewwa) and [\*buwwēn-](#buwwen). \
 REF: [EDPG]\: 71
 
-### <a id="bogu">\*bōgu- [m.] "shoulder, upper arm" (n)</a>
+### <a id="bōgu">\*bōgu- [m.] "shoulder, upper arm" (n)</a>
 N: \
 -- ON _bógr_ "shoulder" \
 -- Elfd. _buog_ "id." \
@@ -3688,7 +3688,7 @@ COGN: Identical to ToA _poke_, ToB _poko_ "arm", Skt _bāhú_- [m.] "arm, forear
 A u-stem related to [\*bōsma- "bosom"](#bosma) and [\*bagma- "beam; tree"](#bagma) (q.v.). Also cf. ON _bœgsl_, Icel. _bægsl_, Far. _bøksl_ [n.] "(front) flipper of a whale" < \*bōg-isla-. \
 REF: [EDPG]\: 71
 
-### <a id="bok">\*bōk- [f.] "book" (n)</a>
+### <a id="bōk">\*bōk- [f.] "book" (n)</a>
 N: \
 -- ON _bók_, pl. _bœkr_ \
 -- Far. _bók_, pl. _bøkr_ \
@@ -3699,7 +3699,7 @@ W: \
 Also cf. Go. _boka_ [f.] "letter", OHG _buoh_ [m./n./f.] "book, script, scripture, letter", _Buch_ [n.] "book", OS _bōk_ [n.] "book, tablet", Du. _boek_ [n.] "book", OFri. _bōk_ [f./n.] "id." < \*bōka/ō-. Related to [\*bōk(j)ō- "beech"](#bokjo) (q.v.); it is generally assumed that the first scriptures consisted of wooden tablets (cf. OS _bōk_), cf. Tacitus (Germania 10): _Virgam frugiferae arboris decisam in surculos amputant, eosque notis quibusdam discretos super candidam vestem temere ac fortuite spargunt_. \
 REF: [EDPG]\: 71
 
-### <a id="bokjo">\*bōk(j)ō- [f.] "beech" (n)</a>
+### <a id="bōkjō">\*bōk(j)ō- [f.] "beech" (n)</a>
 N: \
 -- ON _bók_ \
 -- Far. _bók_ \
@@ -3713,7 +3713,7 @@ COGN: Gr. _φηγός_, Dor. _φαγός_ [f.] "oak", Lat. _fāgus_ [f.] "beec
 An old IE tree name. Most Germanic forms straightforwardly point to PGmc. \*bōk-. Icel. _beyki_ [n.] "beech", a collective formation, has been interpreted as continuing \*baukja-, apparently with a -u- in its root, but it is more likely that _beyki_ [peikʲɪ] is an irregular continuant of ON \*bœki (cf. _bœki-skógr_ "beech forest"), a form directly continued by Icel. _bæki_ (cf. Magnusson 1989: 53). Du. _beuk_ does not go back to a PGmc. form with \*u either, but was borrowed from the eastern dialects that were affected by umlaut of PGmc. \*ō to \*ȫ. Any direct connection to Ru. _boz_ "elder", allegedly continuing PIE \*bʰugʰ-o-, must therefore be rejected, not least in view of the mismatch between Pre-Gm. \*g/ǵ and Pre-Slav. \*ǵʰ. \
 REF: [EDPG]\: 71
 
-### <a id="boni">\*bōni- [f.] "request, prayer" (n)</a>
+### <a id="bōni">\*bōni- [f.] "request, prayer" (n)</a>
 N: \
 -- ON _bœn_ \
 -- Far. _bøn_ \
@@ -3725,7 +3725,7 @@ COGN: Arm. _ban_ "word, speech; matter, thing" < \*bʰeh₂-ni- \
 A Germanic-Armenian isogloss (Olsen 1999: 79) derived from the root of [\*bannan-](#bannan) (q.v.) with a ni-suffix. \
 REF: [EDPG]\: 72
 
-### <a id="bonjan">\*bōnjan- [wk.] "to decorate" (v)</a>
+### <a id="bōnjan">\*bōnjan- [wk.] "to decorate" (v)</a>
 W: \
 -- OE _bōnian_ "to ornament" \
 -- MDu. _boenen_ "to polish", Du. boenen "id." \
@@ -3735,7 +3735,7 @@ COGN: Skt. _bhā́ti_ "to shine, be bright", YAv. _fra-uuāiti_ "id.", Oss. _iva
 The verb looks like a factitive of an adjective \*bōna- < \*bʰoh₂-no-, which is possibly attested as MDu. _boen_ "fit, good, pretty", and has an exact parallel in OIr. _bán_ "white". Derived from the PIE root \*bʰeh₂- "to shine". Related to Far. _bína_, Nw. _bina_ [wk.] "to stare" < \*bʰh₂-i-n-eh₁-? \
 REF: [EDPG]\: 72
 
-### <a id="bosma">\*bōsma- [m.] "bosom" (n)</a>
+### <a id="bōsma">\*bōsma- [m.] "bosom" (n)</a>
 W: \
 -- OE _bōsm_, E _bosom_ \
 -- OFri. _bōsem_ \
@@ -3744,7 +3744,7 @@ W: \
 A collective(?) derived from [\*bōgu- "shoulder, upper arm"](#bogu). \
 REF: [EDPG]\: 72
 
-### <a id="boto">\*bōtō- [f.] "improvement" (n)</a>
+### <a id="bōtō">\*bōtō- [f.] "improvement" (n)</a>
 E: \
 -- Go. _bota_ "advantage, benefit" \
 N: \
@@ -3804,7 +3804,7 @@ COGN: Lat. _fragrō_, -_āre_ "to smell strongly" (derived from an adj. \*bʰrh�
 No existing etymology: the word may be connected with PCelt. \*brokko-, cf. OIr. _brocc_ "badger", an animal with a strong sense of smell. In view of the animal's strong odor, the word has been linked to MHG _bræhen_ [wk.] "to smell", which when reconstructed as PGmc. \*brēkjan-, can be compared to Lat. _fragrō_, -_āre_ "to smell strongly" (derived from an adj. \*bʰrh₁g-ro-?) and MIr. _brén_ "putrid, foul", MW _braen_, Bret _brein_ "putrid, corrupt" < \*bʰrhl{J-no- (De Vaan 2008: 238-9). MHG _bræhen_, however, may also continue \*brējan- (with unetymological _h_ in hiatus position) from older [\*brēan-](#brean) (q.v.). Finally, there is the formal similarity with [\*rak(k)an- "dog"](#rakkan), which has not yet been satisfactorily accounted for. \
 REF: [EDPG]\: 73
 
-### <a id="brakkon">\*brakkōn-(?) [f.] "pants" (n)</a>
+### <a id="brakkōn">\*brakkōn-(?) [f.] "pants" (n)</a>
 N: \
 -- Elfd. _brakka_ \
 -- EDa. _brakker_ pl. "lower leg covers" \
@@ -3858,7 +3858,7 @@ PIE: \*bʰrozdʰ-o- \
 An o-grade formation related to [\*brezda-](#brezda) and [\*burzda-](#burzda) (q.v.). It is cognate with OIr. _brot_ [m.] "goad, spike" < \*bʰrozdʰ-o-, which was probably not borrowed from ON _broddr_ < \*bruzda- (Greene 1972: 70). A secondary formation is represented by [\*barzda- "edge; beard"](#barzda) which in view of the position of the ablaut slot must have been created on the basis of the zero grade [\*burzda-](#burzda) (q.v.). \
 REF: [EDPG]\: 74
 
-### <a id="brean">\*brēan- [st.] "to fume, smell" (v)</a>
+### <a id="brēan">\*brēan- [st.] "to fume, smell" (v)</a>
 W: \
 -- MHG _bræhen_ [wk.] "to smell" \
 PIE: \*bʰreh₁-e- \
@@ -3932,7 +3932,7 @@ W: \
 A strong verb possibly back-formed to the iterative [\*brut(t)on-](#brutton) (q.v.). Closely related to OE _brēatan_ [st.] "to break, kill", continuing an o-grade iterative-intensive verb \*brautan-. For a similar parallelism of a class 2 with a class 7 strong verb, cf. [\*beutan- ~ \*būtan-](#beutan) vs. [\*bautan-](#bautan) and [\*brekan-](#brekan) vs. [\*brakan-](#brakan). \
 REF: [EDPG]\: 76
 
-### <a id="brewo">\*brēwō- [f.] "eyebrow" (n)</a>
+### <a id="brēwō">\*brēwō- [f.] "eyebrow" (n)</a>
 N: \
 -- ON _brǫ́_, _brá_ "eyelid" \
 -- Icel. _brá_ "eyelid; eyelash" \
@@ -4021,7 +4021,7 @@ COGN: OIr. _do-bruinn_ "to flow, trickle" < \*bʰru-n-h₁-ie-, Lat. _ferveo_, -
 An n-present to the root \*bʰreuh₁- "to boil, brew". See also [\*brewwan-](#brewwan), [\*brunnan-](#brunnan) and [\*beura-](#beura). \
 REF: [EDPG]\: 77
 
-### <a id="broan">\*brōan- [st.] "to singe" (v)</a>
+### <a id="brōan">\*brōan- [st.] "to singe" (v)</a>
 W: \
 -- MDu. _broeyen_ [wk.], Du. _broeien_ [wk.] "to be brewing" \
 -- MHG _brüejen_ [wk.] "to singe", G _brühen_ [wk.] "to boil, brew" \
@@ -4029,7 +4029,7 @@ PIE: \*bʰróh₁-e- \
 An a-grade intensive verb related to [\*brēan-](#brean) (q.v.). Also cf. OE _brōd_ [f.] "brood", MHG _bruot_ [f.] "heat; incubation" < \*brōdi-. \
 REF: [EDPG]\: 78
 
-### <a id="brok">\*brōk- [f.] "loin-cloth, breeches; rump(?)" (n)</a>
+### <a id="brōk">\*brōk- [f.] "loin-cloth, breeches; rump(?)" (n)</a>
 N: \
 -- ON _brōk_ "leg of a pair of breeches", pl. _brœkr_ "breeches" \
 -- Far. _brók_ "id.", pl. _brøkur_ "pants" \
@@ -4061,7 +4061,7 @@ W: \
 Probably a _vr̥ddhi_-derivation to the adjective [\*brakka- "brackish"](#brakka) (q.v.); the geminate of this adjective was regularly shortened in the overlong syllable \*brōkk-. \
 REF: [EDPG]\: 78
 
-### <a id="brother">\*brōþer- [m.] "brother" (n)</a>
+### <a id="brōþer">\*brōþer- [m.] "brother" (n)</a>
 E: \
 -- Go. _broþar_ \
 N: \
@@ -4079,7 +4079,7 @@ COGN: ToA _pracar_, ToB _procer_ "brother", Skt _bhrā́tar_-, Av. _brātar_- [m
 The Indo-European word for "brother". \
 REF: [EDPG]\: 79
 
-### <a id="bru">\*brū- [f.] "bridge" (n)</a>
+### <a id="brū">\*brū- [f.] "bridge" (n)</a>
 N: \
 -- ON _brú_ \
 -- Far. _brúgv_ "bridge; quay; heap, pile; eyebrow" \
@@ -4091,7 +4091,7 @@ COGN: ToB _pärwā-ne_ du. "eyebrow", Skt _bhrū́_- [f.] "(eye)brow", YAv. _bru
 A zero-grade root noun, perhaps originally the same word as [\*brēwō-](#brewo) (q.v.). See also [\*bru(w)ī- ~ \*brujjō-](#bruwi). \
 REF: [EDPG]\: 79
 
-### <a id="brudi">\*brūdi- [f.] "bride" (n)</a>
+### <a id="brūdi">\*brūdi- [f.] "bride" (n)</a>
 E: \
 -- Go. _bruþs_ \
 N: \
@@ -4126,7 +4126,7 @@ COGN: Lat. _frangō_, -_ere_ "to break" < \*bʰrg-neh₂- (< \*frag-n- with Thur
 The iterative to \*brekan- (q.v.), probably to be equated with Lat. _frangō_ (if from \*bʰrg-neh₂-). Also cf. OHG _brocko_, G _Brocken_ [m.] "chunk, crumb" < \*brukkan-. \
 REF: [EDPG]\: 79
 
-### <a id="brummon">\*brummōn- [wk.] "to drone, hum" (v)</a>
+### <a id="brummōn">\*brummōn- [wk.] "to drone, hum" (v)</a>
 W: \
 -- Du. _brommen_ \
 -- MHG _brummen_, G _brummen_ \
@@ -4134,7 +4134,7 @@ PIE: \*bʰrm-néh₂- \
 The iterative to [\*breman- ~ \*brimman-](#breman) (q.v.). \
 REF: [EDPG]\: 80
 
-### <a id="brunjon">\*brunjōn- [f.] "breastplate" (n)</a>
+### <a id="brunjōn">\*brunjōn- [f.] "breastplate" (n)</a>
 E: \
 -- Go. _brunjo_ \
 N: \
@@ -4185,7 +4185,7 @@ W: \
 A u-stem derived from the strong verb [\*brestan- "to break, burst"](#brestan) (q.v.). Also cf. OS _brustian_ [wk.] "to bud" < \*brustjan-. \
 REF: [EDPG]\: 80
 
-### <a id="brutton">\*brut(t)ōn- [wk.] "to bud" (v)</a>
+### <a id="bruttōn">\*brut(t)ōn- [wk.] "to bud" (v)</a>
 W: \
 -- MHG _brozzen_, G Als. _brossen_ \
 PIE: \*bʰrd-neh₂- \
@@ -4193,7 +4193,7 @@ COGN: To Lat. _frōns_, -_ondis_ [f.] "foliage, leaves" < \*bʰrod-ni- (with Thu
 The iterative to [\*breutan- "to break, bud"](#breutan) (q.v.), originally conjugated as 3sg. \*bruttōþi, 3pl. \*brutunanþi. The Pre-Gm. root seems to have been \*bʰrud-, but in view of the potential Latin cognate, the u is likely to have arisen secondarily in an iterative derived from a strong verb \*bretan- (< \*bʰred-e-). The resulting \*brut(t)on- may in turn have given rise to \*breutan- by back-formation. \
 REF: [EDPG]\: 81
 
-### <a id="bruwi">\*bru(w)ī- ~ \*brujjō- [f.] "bridge" (n)</a>
+### <a id="bruwī">\*bru(w)ī- ~ \*brujjō- [f.] "bridge" (n)</a>
 N: \
 -- ON _bryggja_ "pier, quay; bridge" \
 -- Far. _bryggja_ "wharf, quay; bridge of a ship" \
@@ -4284,7 +4284,7 @@ PIE: \*bʰugʰ-ie- \
 No clear etymology (cf. Lehmann 1986: 84). In spite of the formal similarities, probably unrelated to [\*beugan- "to bend"](#beugan). \
 REF: [EDPG]\: 82
 
-### <a id="bugon">\*bugōn- [wk.] "to brag(?)" (v)</a>
+### <a id="bugōn">\*bugōn- [wk.] "to brag(?)" (v)</a>
 W: \
 -- OE _bogian_, _boian_ "to boast" \
 -- OFri. _bāgia_ "id." \
@@ -4306,7 +4306,7 @@ COGN: Av. _buza_- "goat, buck", P _buz_ "id." < \*bʰuǵ-o- \
 Most of the evidence points to a thematic form \*bukka-, but in view of the gemination of the final consonant it seems likely that the word was originally inflected as an n-stem, viz. \*buko, gen. \*bukkaz < \*bʰug-ōn, \*bʰug-n-ós. OIr. _boc_, W _bwch_ [m.] "billy-goat" must in view of the geminate have been borrowed from Germanic. \
 REF: [EDPG]\: 82
 
-### <a id="bukkon">\*bukk/gōn- [wk.] "to bend" (v)</a>
+### <a id="bukkōn">\*bukk/gōn- [wk.] "to bend" (v)</a>
 N: \
 -- Far. _boga_, _buga_, _bukka_ "to bend, curve" \
 -- Nw. _boga_ "to bend, swing", _bukka_ "to nod" \
@@ -4325,7 +4325,7 @@ PIE: \*bʰlgʰ/ǵʰ-ie- \
 Related to OE _bealcan_ [wk.] "to utter; to belch", MDu. _balken_ [wk.] "to bellow", Du. _balken_ [wk.] "to bray, hee-haw" < \*balkōn- and MDu. _belken_ [wk.] "to bellow", E _to belch_ < \*balkjan-. The _g_ of OE _bylgian_ and MDu. _bulgen_ must be old, which implies that the _k_ of the other forms arose under the influence of a related iterative \*bulkon- < \*bʰlgʰ/ǵʰ-neh₂-, cf. MDu. _bolken_ [wk.] "to bellow". Further related to the cluster of \*balgi- in the sense of "belly"? \
 REF: [EDPG]\: 83
 
-### <a id="bulgjon">\*bulgjōn- [f.] "wave; bag" (n)</a>
+### <a id="bulgjōn">\*bulgjōn- [f.] "wave; bag" (n)</a>
 N: \
 -- ON _bylgja_ "wave" \
 -- Far. _bylgja_ "id." \
@@ -4360,7 +4360,7 @@ COGN: Gr. _φαλλός_ [m.] "penis" < \*bʰl-no-, Lat. _follis_ [m.] "bag, sa
 An n-stem alternating between \*bulan- and \*bullan-, thus pointing to a paradigm with consonant gradation, nom. \*bulō, gen. \*bullaz. Analogically to other hysterokinetic male animal names, e.g. [\*uhsan- "ox"](#uhsan) and [\*urzan- "_capercaillie_"](#urzan), the Pre-Germanic paradigm may be reconstructed as \*bʰl-ḗn, \*bʰl-n-ós, assuming that the vocalized l was generalized throughout the paradigm. The formation seems to have been derived from a PIE word for "testicle", cf. ON _bǫllr_ [m.] "testicle" and OE _bealloc_ [m.] "id." < \*ballaka-, for which see [\*ballan-](#ballan). \
 REF: [EDPG]\: 83
 
-### <a id="bullon">\*bullōn- [wk.] "to roar, howl" (v)</a>
+### <a id="bullōn">\*bullōn- [wk.] "to roar, howl" (v)</a>
 N: \
 -- Icel. _bulla_ "to bubble; to talk nonsense" \
 -- Far. _bulla_ "to gush, bubble; to chatter, babble" \
@@ -4383,7 +4383,7 @@ PIE: \*bʰolǵʰ-stro- \
 A formation created to the same root as found in [\*balgi-](#balgi) (q.v.). \
 REF: [EDPG]\: 84
 
-### <a id="bulton">\*bultōn- [wk.] "to roll, turn over" (v)</a>
+### <a id="bultōn">\*bultōn- [wk.] "to roll, turn over" (v)</a>
 N: \
 -- Far. _bólta_ "to turn over, overturn, tumble" \
 W: \
@@ -4401,7 +4401,7 @@ W: \
 A zero-grade neuter derived from [\*bindan-](#bindan) (q.v.). \
 REF: [EDPG]\: 84
 
-### <a id="bura">\*būra- [n.] "cabin, hut" (n)</a>
+### <a id="būra">\*būra- [n.] "cabin, hut" (n)</a>
 N: \
 -- ON _búr_ "women's apartment; pantry; storehouse" \
 W: \
@@ -4475,7 +4475,7 @@ PIE: \*bʰr-ie- \
 A zero-grade ie-present related to [\*beran-](#beran-1). \
 REF: [EDPG]\: 85
 
-### <a id="burkon">\*burkōn- [wk.] "to roar" (v)</a>
+### <a id="burkōn">\*burkōn- [wk.] "to roar" (v)</a>
 N: \
 -- Nw. _borka_ "to boast" \
 W: \
@@ -4484,7 +4484,7 @@ PIE: \*bʰrg-neh₂- \
 The iterative to [\*berkan-](#berkan) (q.v.). \
 REF: [EDPG]\: 85
 
-### <a id="burojan">\*burōjan- [wk.] "to bore" (v)</a>
+### <a id="burōjan">\*burōjan- [wk.] "to bore" (v)</a>
 N: \
 -- ON _bora_ \
 W: \
@@ -4511,7 +4511,7 @@ PIE: \*bʰrzdʰ-o- \
 Related to [\*brezda-](#brezda) and [\*brazda-](#brazda) (q.v.). There is no trace of the PGmc. \*z because it was assimilated by the preceding r in Gothic as well as in NWGm. (after the rhotacism). It was preserved, however, in the secondary zero-grade form \*bruzda-, cf. ON _broddr_ [m.] "tip, edge, shoot", OHG _brort_ [m.] "point, margin". Apparently, the original zero grade was remodeled on the basis of the closely related full-grade forms in this formation (cf. Kroonen 201 1a: 149ff). \
 REF: [EDPG]\: 86
 
-### <a id="button">\*butt/dōn- [wk.] "to shove" (v)</a>
+### <a id="buttōn">\*butt/dōn- [wk.] "to shove" (v)</a>
 N: \
 -- Nw. _butta_ "to hit, shove" \
 W: \
@@ -4522,7 +4522,7 @@ PIE: \*bʰudʰ-néh₂- \
 The iterative to [\*bautan-](#bautan) (q.v.). \
 REF: [EDPG]\: 86
 
-### <a id="buwwen">\*buwwēn- [wk.] "to dwell; to form, build" (v)</a>
+### <a id="buwwēn">\*buwwēn- [wk.] "to dwell; to form, build" (v)</a>
 N: \
 -- ON _byggva_, _byggja_ \
 -- Far. _byggja_ \
@@ -4637,7 +4637,7 @@ PIE: \*dʰongʷʰ-éie- \
 An iterative-intensive causative to [\*dingʷan-](#dingwan) (q.v.). The delabialization of the velar was triggered by the combination of a preceding round vowel and a following j-suffix (cf. [\*sagja- "man, hero"](#sagja-1) < \*sokʷH-ió-). Also cf. OHG _tangal_ [m.] "hammer" < \*dangala-. \
 REF: [EDPG]\: 88
 
-### <a id="dankon">\*dank/gōn- [wk.] "to beat" (v)</a>
+### <a id="dankōn">\*dank/gōn- [wk.] "to beat" (v)</a>
 N: \
 -- Icel. _danga_ "to beat, hit" \
 -- Nw. _dakka_ "to slap" \
@@ -4800,7 +4800,7 @@ W: \
 A causative created either to the strong verb [\*diiban-](#duban) (q.v.) or - more probably - directly to the iterative [\*dupp/b6n-](#duppon) (q.v.) < \*dʰubʰ-neh₂-. See also [\*deupa-](#deupa). \
 REF: [EDPG]\: 91
 
-### <a id="dauthu">\*dauþu- [m.] "death" (n)</a>
+### <a id="dauþu">\*dauþu- [m.] "death" (n)</a>
 E: \
 -- Go. _dauþus_ \
 N: \
@@ -4824,7 +4824,7 @@ COGN: For the ablaut, cf. Lith. _daũsios_ [f.pl.] "air" < \*dʰous-ieh₂- \
 Related to [\*dwēsa-](#dwesa) (q.v.), with _Schwebeablaut_ as in Baltic. \
 REF: [EDPG]\: 91
 
-### <a id="dawen">\*dawēn- [wk.] "to marvel" (v)</a>
+### <a id="dawēn">\*dawēn- [wk.] "to marvel" (v)</a>
 N: \
 -- ON _dá_ "to admire" \
 PIE: \*dʰh̥₂u-eh₁- \
@@ -4847,21 +4847,21 @@ COGN: Lith. _dujà_ [f.] "drizzle, mist" < \*dʰuh₂-ieh₂- \
 An o-stem derived from the PIE root \*dʰuh₂- "to smoke, haze", for which see [\*dauma-](#dauma) and [\*du(w)ēn-](#duwen). \
 REF: [EDPG]\: 91
 
-### <a id="dazen">\*dazēn- [wk.] "to be numbed(?)" (v)</a>
+### <a id="dazēn">\*dazēn- [wk.] "to be numbed(?)" (v)</a>
 W: \
 -- OE _darian_ "to lie motionless, be appalled", ME _daren_ "to stay in one place, remain quiet; to lurk; to be motionless, inactive; to hesitate" \
 -- MDu. _be-daren_ "to control oneself", Du. _be-daren_ "to settle, calm down", Flem. _ver-daren_ "to be appalled" \
 A stative verb that can theoretically be related to Skt. _dhāráyati_ "to hold, support" < \*dʰor-éie- and Arm. _dadarem_ "to settle (of wind)" < \*dʰo-dʰor- (thus Pokorny IEW: 252-5). It is preferable, however, to reconstruct the verb as \*dazēn- rather than \*darēn-, and derive it from \*daza-, an adjective apparently in Verner alternation with MDu. _daes_ "foolish", Du. _daas_ "dizzy, confused, excited" < \*dasa- and ON _dasa-sk_, Nw. _dase_ [wk.] "to become weary, exhausted" (cf. E _to daze_ "to benumb, stun; to be stupefied" < \*dasōjan-). In ablaut with [\*dusēn-](#dusen).
 REF: [EDPG]\: 91
 
-### <a id="dean">\*dēan- [st.] "to suckle" (v)</a>
+### <a id="dēan">\*dēan- [st.] "to suckle" (v)</a>
 W: \
 -- OHG _tāan_, _tāen_ [wk.], G Cimb. _taien_ [wk.] \
 PIE: \*dʰéh₁-e- \
 An originally strong verb to the PIE root \*dʰeh₁-. This root is more frequently found in the extension \*dʰh₁-ei-, for which cf. [\*dīan-](#dian) and [\*dajjan-](#dajjan). For a form without this extension, see [\*delō-](#delo). \
 REF: [EDPG]\: 92
 
-### <a id="dedi">\*dēdi- [f.] "deed, action" (n)</a>
+### <a id="dēdi">\*dēdi- [f.] "deed, action" (n)</a>
 E: \
 -- Go. _ga-deþs_ \
 N: \
@@ -4890,7 +4890,7 @@ COGN: RuCS _dъlbsti_, _dlъbsti_ "to scoop, chisel", SCr. _dúpsti_ "id." < \*d
 A European root. Also cf. MLG _delf_ [n.] "grave", OE _ge-delf_ [n.] "ditch" < \*delba- and MDu. _delve_ [f.] "ditch" < \*delbō-. \
 REF: [EDPG]\: 92
 
-### <a id="deli">\*dēli- "easily to deal with(?)" (adj)</a>
+### <a id="dēli">\*dēli- "easily to deal with(?)" (adj)</a>
 N: \
 -- ON _dæll_ "gentle, easy to deal with" \
 -- Nw. dial. _dæl_ "easy-going, good to talk to" \
@@ -4907,7 +4907,7 @@ W: \
 The material offers evidence for both an i-stem (OE _dile_) and a ja-stem (OS _dilli_, OHG _till1_). Perhaps the forms with rounded vowels (OE _dyle_, MHG _tiille_) can be adduced to reconstruct an additional ablauting pair \*duli- ~ \*dulja-. If so, the original paradigm probably had ablaut of the root, viz. nom. \*deliz, gen. \*duljaz < \*dʰél-i-s, \*dʰl-i-ós. \
 REF: [EDPG]\: 92
 
-### <a id="delo">\*delō- [f.] "nipple" (n)</a>
+### <a id="delō">\*delō- [f.] "nipple" (n)</a>
 W: \
 -- OE _delu_ \
 -- OHG _tila_ \
@@ -5008,7 +5008,7 @@ PIE: \*dʰeus-ó- \
 Closely interlinked with OE _dēor_ "wild, bold, brave" < \*deuza-. The original meaning of the root was "to lose one's senses", whence "to be wild". See [\*dusēn-](#dusen). \
 REF: [EDPG]\: 94
 
-### <a id="dian">\*dīan- [st.] "to suck" (v)</a>
+### <a id="dīan">\*dīan- [st.] "to suck" (v)</a>
 N: \
 -- OSw. _dīa_ \
 W: \
@@ -5018,7 +5018,7 @@ COGN: Skt. _dháyati_ "to suck, drink mother's milk", Oss. _dæjyn_ / _dæjun_ "
 An i-present to the primary PIE root \*dʰeh₁- "to suck, suckle", cf. Gr. _θῆσθαι_ "to suck", Latv. _dêt_ "id.", for which see [\*dēan-](#dean). In Germanic, the i-suffix is further found in e.g. [\*dajjan-](#dajjan) and Elfd. _dise_ [f.] "nipple" < \*disōn- < \*dʰh₁i-s-. \
 REF: [EDPG]\: 95
 
-### <a id="digan">\*dī̆gan- [st.] "to knead" (v)</a>
+### <a id="dī̆gan">\*dī̆gan- [st.] "to knead" (v)</a>
 E: \
 -- Go. _digan_ \
 PIE: \*dʰéiǵʰ- \
@@ -5037,7 +5037,7 @@ W: \
 An adjective apparently continuing \*dʰigʰ/ǵʰ-ro-. It may have been derived from [\*dī̆gan- "to knead"](#digan) (q.v.), which would imply a more primary meaning "well-formed". \
 REF: [EDPG]\: 95
 
-### <a id="dika">\*dīka- [n.] "dam; ditch" (n)</a>
+### <a id="dīka">\*dīka- [n.] "dam; ditch" (n)</a>
 W: \
 -- OE _dīc_ [m.] "dike, ditch", E _dike_, _ditch_ \
 -- OFri. _dīk_ [m.] "dike; road" \
@@ -5049,7 +5049,7 @@ COGN: Gr. _τοῖχος_ [m.] "wall", Arm. _dēz_ "heap" < \*dʰóigʰ-o-, SCr.
 A formation continuing Pre-Gm. \*dīkka- < \*dʰeigʰ-nó- (with Kluge's law and geminate shortening in overlong syllables). Also cf. ON, Icel., Far. _díki_ [n.] "swamp, puddle", Elfd. _daitje_ [n.] "dike" < \*dīkja-. Related to [\*dīgan-](#digan) (q.v.). \
 REF: [EDPG]\: 95
 
-### <a id="dikan">\*dīkan- [st.] "to try(?)" (v)</a>
+### <a id="dīkan">\*dīkan- [st.] "to try(?)" (v)</a>
 W: \
 -- MLG _diken_ [wk.] "to atone" \
 -- MDu. _diken_ [st.?] "to try(?)" \
@@ -5080,7 +5080,7 @@ COGN: To MIr. _deime_ [f.] "darkness" < \*dʰem(H)-ieh₂-? \
 An adjective with two possible etymologies. One option is to connect MIr. _deime_, and reconstruct \*dʰem(H)-nó-. The alternative is to reconstruct the adjective as \*dimbna- < \*dʰémbʰ-no- (for which cf. \*dimban- ~ \*dimpan-), something that seems to be supported by OHG _timber_ "dark" < \*dʰembʰ-ro-. This adjective can also be derived from \*dʰem(H)-ro-, however, as this form would result in PGmc. \*dimbra- as well by epenthesis. This would imply a link with MIr. _deime_ after all. \
 REF: [EDPG]\: 96
 
-### <a id="dingwan">\*dingʷan- [st.] "to beat" (v)</a>
+### <a id="dingʷan">\*dingʷan- [st.] "to beat" (v)</a>
 N: \
 -- OSw. _diunga_ \
 W: \
@@ -5090,7 +5090,7 @@ PIE: \*dʰéngʷʰ-e- \
 A strong verb, probably of onomatopoetic origin. See also [\*dangjan-](#dangjan) and [\*dank/gōn-](#dankon). \
 REF: [EDPG]\: 96
 
-### <a id="dinkwa">\*dinkʷa- "dark" (adj)</a>
+### <a id="dinkʷa">\*dinkʷa- "dark" (adj)</a>
 N: \
 -- ON _døkkr_ / _dǫkkr_ \
 -- Icel. _døkkur_ \
@@ -5104,7 +5104,7 @@ COGN: Hitt. _dankui_- ~ _dankuwai_- "black, dark" < \*dʰ(e/o)ngʷ-(o)i- \
 ON _døkkr_ may continue either \*dankwja- or \*dinkwa-. The latter option seems preferable in view of OSw. _diunker_ and OFri. _diunk_, which both show (independent) u-infection of -_i_- before labiovelars. However, PGmc. \*dankwja- should probably have given Icel. \*dekkur (with _e_ < ON _ø_, cf. Icel. _dekkja_ [wk.] "to make dark") rather than _døkkur_, a form directly pointing to ON _dǫkkr_ < \*dankwa- (Heidermanns 1993: 146). Did both forms occur side by side? See also [\*dunkla- ~ \*dunkra-](#dunkla) with a zero grade ofthe root. \
 REF: [EDPG]\: 96
 
-### <a id="disi">\*dīsi- [f.] "lady, fairy, goddess" (n)</a>
+### <a id="dīsi">\*dīsi- [f.] "lady, fairy, goddess" (n)</a>
 N: \
 -- ON _dís_ "woman, girl; fairy, nymph; goddess" \
 -- Far. _dís_ "goddess, nymph" \
@@ -5112,7 +5112,7 @@ N: \
 An etymologically problematic word. Some have compared OCS _děva_ [f.] "lady" < \*dʰh₁-oi-ueh₂-, apparently derived from the stem \*dʰh₁-oi- "to suckle" (see [\*dīan-](#dian)). This suggestion is perhaps supported by Elfd. _disa_ [wk.] "to suckle" (whence _dise_ [f.] "nipple"?), although the origin of the s-suffix remains unclear. Within Germanic, \*dīsi- can alternatively be linked to [\*edis-](#edis) (q.v.), but this would imply that the word is of non-Indo-European origin. \
 REF: [EDPG]\: 96
 
-### <a id="dobi">\*dōbi- "suited, fit" (adj)</a>
+### <a id="dōbi">\*dōbi- "suited, fit" (adj)</a>
 E: \
 -- Go. _ga-dobs_ \
 W: \
@@ -5120,13 +5120,13 @@ W: \
 A _vr̥ddhi_-adjective to the strong verb [\*daban-](#daban) (q.v.). \
 REF: [EDPG]\: 97
 
-### <a id="dobnan">\*dōbnan- [wk.] "to become dull, numb" (v)</a>
+### <a id="dōbnan">\*dōbnan- [wk.] "to become dull, numb" (v)</a>
 E: \
 -- Go. _af-dobnan_ "to become numb, hold one's peace" \
 An inchoative verb implying an unattested adjective \*dōba-. This adjective appears to contain a _vr̥ddhi_-variant of the root also found in e.g. Icel. _dafna_ [wk.] "to grow weak; to become numb". See further under [\*dapra-](#dapra). \
 REF: [EDPG]\: 97
 
-### <a id="dogera">\*dōgera- ~ \*dōgena- [n.] "a full day, twenty-four hours" (n)</a>
+### <a id="dōgera">\*dōgera- ~ \*dōgena- [n.] "a full day, twenty-four hours" (n)</a>
 N: \
 -- ON _dœgr_, _dœgn_ \
 -- Far. -_dœgur_ (cf. _javn-dœgur_ "equinox") \
@@ -5140,7 +5140,7 @@ COGN: Skt. _áhar_, gen. _áhnas_, loc. _áhan_, _áhani_ [n.] "day", OAv. _asn�
 The PIE word for "day" was a heteroclitic noun, possibly to be reconstructed as nom. \*dʰóǵʰ-r, gen. \*dʰeǵʰ-n-s, loc. \*dʰǵʰ-en-i. The Germanic forms with r, e.g. ON _dœgr_, OE _dōger_, cannot be derived from an s-stem \*dōgaz- or \*dōgiz- < \*dʰōǵʰ-e/os- (Pokorny IEW: 7), as it would be artificial to separate them from the semantically identical forms with \*n (cf. ON _dœgn_). I therefore prefer to reconstruct PGmc. \*dōger- and \*dōgen- (for the i-mutation in _dœgn_ and _dœgr_, cf. ON _fýrr_ "fire" under [\*fōr ~ \*fun-](#for)), and maintain the link with the Indo-European heteroclitic. In early Indo-lranian, this formation lost its initial dental, possibly in the locative \*dʰgʰ-en-i, where the root had a zero grade. See also [\*daga-](#daga). \
 REF: [EDPG]\: 97
 
-### <a id="dojan">\*dōjan- [wk.] "to exhaust" (v)</a>
+### <a id="dōjan">\*dōjan- [wk.] "to exhaust" (v)</a>
 E: \
 -- Go. _af-dauiþs_ ptc. "exhausted" \
 PIE: \*dʰōu(H)-éie \
@@ -5148,7 +5148,7 @@ COGN: OCS _daviti_ "to suffocate", Ru. _davít'_ (_davljú_) "to press (upon), s
 The verb is often analyzed as a causative to [\*daujan- "to die"](#daujan), but it seems more likely that it was created to the root \*dʰueh₂- "to smoke" (see [\*dauma-](#dauma)) in view of the meaning of OCS _daviti_ etc. Note that the root-final \*u was regularly lost after PGmc. \*ō. \
 REF: [EDPG]\: 97
 
-### <a id="doka">\*dōka- [n.] "canvas, cloth" (n)</a>
+### <a id="dōka">\*dōka- [n.] "canvas, cloth" (n)</a>
 W: \
 -- OFri. _dōk_, _dēk_ [m.] \
 -- MDu. _doec_ [m./n.], Du. _doek_ [c./n.] \
@@ -5156,7 +5156,7 @@ W: \
 A WGm. word: ON _dókr_, _dúkr_ was borrowed from Old Frisian or Old Low German in spite of the presence of the umlauted derivatives ON, Icel. _dýki_, Nw. _dyke_ "piece of cloth" < \*dūkja- and Far. _dýkja_ [wk.] "to spread a sail out to dry" < \*dūkjan-. No clear etymology: the connection with Skt. _dhvajá_- [m.] "banner" < \*dʰueg-o- is impossible in view of the implied root \*dʰueg-. Within Germanic, I compare OHG _tacka_, G _Dacke_ [f.] "mat", which may continue \*dakkōn-, PGmc. \*dōka- would then be some kind of _vr̥ddhi_-formation continuing Pre-PGmc. \*dōkka-. The umlaut of OFri. _dēch_ (Second Emsing Codex), however, points to an original root-noun. \
 REF: [EDPG]\: 97
 
-### <a id="doljo">\*dōljō- [f.] "depression" (n)</a>
+### <a id="dōljō">\*dōljō- [f.] "depression" (n)</a>
 N: \
 -- ON _dœl_ "small valley" \
 W: \
@@ -5165,7 +5165,7 @@ W: \
 A lengthened grade formation related to [\*dala- "valley"](#dala) (q.v.). With the same vowel, cf. ON _dœll_ [m.] "valley-dweller" < \*dōli-. \
 REF: [EDPG]\: 98
 
-### <a id="doma">\*dōma- [m.] "verdict, evaluation" (n)</a>
+### <a id="dōma">\*dōma- [m.] "verdict, evaluation" (n)</a>
 E: \
 -- Go. _doms_ "insight, esteem" \
 N: \
@@ -5180,7 +5180,7 @@ PIE: \*dʰóh₁-mo- \
 A mo-stem created to the PIE root \*dʰeh₁-, for which see [\*dōn-](#don) and [\*dēdi-](#dedi). It gave rise to the factitive Go. _domjan_, ON _dœma_, OE _dēman_, OFri. _dēma_, OS _ā-dōmian_, OHG _tuommen_ [wk.] "to judge, sentence" < \*dōmjan-. \
 REF: [EDPG]\: 98
 
-### <a id="don">\*dōn- [irr.] "to do" (v)</a>
+### <a id="dōn">\*dōn- [irr.] "to do" (v)</a>
 W: \
 -- OE _dōn_ [irr.], E _to do_ \
 -- OFri. _dwā_, _dwān_ [irr.], WFri. _dwaan_ [irr.] \
@@ -5226,7 +5226,7 @@ PIE: \*dʰrógʰ-e- \
 An o-grade intensive verb. No clear etymology. The usually compared Gr. _τρέχω_ "to run" is more likely to be related to [\*þragjan- "to run"](#thragjan) (q.v.). The alternative _comparanda_ Ru. _doróga_ [f.] "road, journey", SCr. _drȁga_ [f.] "valley" < \*d(ʰ)org-eh₂- and Ru. _doróžiti_ "to hollow out" < \*d(ʰ)org-eie- have roots ending in a voiced (glottalized?) stop, and therefore cannot be related either. The remaining option, the link with Lat _trahō_, -_ere_ "to pull, haul", is impossible in view of the initial _t_. See further [\*durgō-](#durgo) and [\*druggōn-](#druggon). \
 REF: [EDPG]\: 99
 
-### <a id="dragjo">\*dragjō- [f.] "dregs" (n)</a>
+### <a id="dragjō">\*dragjō- [f.] "dregs" (n)</a>
 N: \
 -- ON _dregg_ "dregs, lees, yeast" \
 -- Far. _drøgg_ "scum, dregs, draff, sediment" \
@@ -5280,7 +5280,7 @@ PIE: \*dʰro-n-g-éie- \
 The causative to [\*drinkan-](#drinkan) (q.v.). \
 REF: [EDPG]\: 100
 
-### <a id="drappon">\*drapp/bōn- [wk.] "to hit" (v)</a>
+### <a id="drappōn">\*drapp/bōn- [wk.] "to hit" (v)</a>
 N: \
 -- Nw. _drabba_ "to give a blow" \
 -- OSw. _drabba_ "to hit, meet" \
@@ -5339,7 +5339,7 @@ PIE: \*dʰrouHs-éie- \
 The causative to [\*dreusan-](#dreusan) (q.v.). \
 REF: [EDPG]\: 101
 
-### <a id="dreko">\*drēkō- [f.] "streak" (n)</a>
+### <a id="drēkō">\*drēkō- [f.] "streak" (n)</a>
 N: \
 -- ON _drák_ \
 -- Nw. _dråk_, pl. _dræker_ \
@@ -5420,7 +5420,7 @@ PIE: \*dʰréuHs-e \
 A strong verb related to [\*drūsēn- ~ \*drūzēn-](#drusen) (q.v.). See also [\*drauzjan-](#drauzjan). \
 REF: [EDPG]\: 102
 
-### <a id="driban">\*drīban- [st.] "to drive" (v)</a>
+### <a id="drīban">\*drīban- [st.] "to drive" (v)</a>
 E: \
 -- Go. _dreiban_ \
 N: \
@@ -5486,7 +5486,7 @@ W: \
 Also cf. MDu. _dreet_ [m.] "fart", WPhal. _driat_ [m.] "shit" < \*driti-, a similar derivation from the strong verb [\*drītan-](#dritan). \
 REF: [EDPG]\: 103
 
-### <a id="dritan">\*drītan- [st.] "to shit" (v)</a>
+### <a id="drītan">\*drītan- [st.] "to shit" (v)</a>
 N: \
 -- ON _dríta_ "to shit (esp. of birds)" \
 -- Far. _dríta_ "id." \
@@ -5498,7 +5498,7 @@ COGN: Perhaps to Ru. dial. _dristát'_, SCr. _drískati_, _dríćkati_ "to have 
 No good etymology. One usually compares the aforementioned Slavic forms, but the reconstruction of the root-final _d_ is uncertain: are we dealing with an internally Germanic Reimbildung to [\*skītan-](#skitan)? Another possibility is to connect Lith. _tríedžiu_ "to have diarrhea" < \*treidʰ-ie- and _trìdė_ [f.] "diarrhea" < \*tridʰ-ieh₂- under the assumption of metathesis: if correct, the Germanic strong verb must have been back-formed to an iterative \*drittōn- < \*dʰrit-néh₂-, cf. WFri. _drittelje_ "to have diarrhea". See also [\*drita-](#drita). \
 REF: [EDPG]\: 104
 
-### <a id="drobu">\*drōbu- "turbid; troubled" (adj)</a>
+### <a id="drōbu">\*drōbu- "turbid; troubled" (adj)</a>
 W: \
 -- OE _drōf_ "turbid; troubled" \
 -- OS _drōƀi_ "cloudy, sad" \
@@ -5516,7 +5516,7 @@ W: \
 Derived from [\*dreugan-](#dreugan) (q.v.). Formally and semantically close to Skt. _drúh_- [m.] "deceit, malice; demon" < \*dʰrugʰ-. \
 REF: [EDPG]\: 104
 
-### <a id="druggon">\*druggōn- [wk.] "to pull, drag" (v)</a>
+### <a id="druggōn">\*druggōn- [wk.] "to pull, drag" (v)</a>
 N: \
 -- Nw. _drugga_ "to walk bowed down" \
 W: \
@@ -5569,7 +5569,7 @@ COGN: Lith. _drìbti_ (_drim̃ba_) "to drop, fall down, lie down, become flaccid
 An old iterative. The pertaining strong verb [\*dreupan- ~ \*drūpan-](#dreupan) must given the (shortened) geminates and the \*eu ~ \*ū alternation be a back-formation to this iterative (cf. [\*greupan- ~ \*grūpan-](#greupan) vs. [\*grupp/bōn-](#gruppon)). This means that the position of the zero grade in this iterative is likely to be of secondary origin, something that is also implied by the potential link with Lith. _drìbti_. Nw. _drabba_ [wk.] "to overflow" can theoretically be derived from an o-grade iterative \*dʰrobʰ-néh₂-, but its meaning is somewhat dissimilar. Further cf. ON _dropi_, OE _dropa_, OS _dropo_, OHG _tropfo_, _troffo_, G _Tropfen_ [m.] "drop" < \*drup(p)an-. \
 REF: [EDPG]\: 105
 
-### <a id="drusen">\*drūsēn- [wk.] "to fall asleep" (v)</a>
+### <a id="drūsēn">\*drūsēn- [wk.] "to fall asleep" (v)</a>
 W: \
 -- OE _drūsian_ "to become slow", E _to drowse_ \
 PIE: \*dʰruHs-eh₁-(?) \
@@ -5585,7 +5585,7 @@ PIE: \*dʰubʰ-o\
 Also cf. OE _dofian_ [wk.] "to rage", OHG _topen_, _topon_ [wk.] "to be crazy" < \*dubēn- and ON _dofna_ [wk.] "to become weak" < \*dubnan-. Related to [\*dauba-](#dauba) (q.v.). \
 REF: [EDPG]\: 105
 
-### <a id="duban">\*dūban- [st.] "to dive" (v)</a>
+### <a id="dūban">\*dūban- [st.] "to dive" (v)</a>
 N: \
 -- ON _dúfa_ [wk.] \
 -- Nw. _duva_ [wk.] "to squat" \
@@ -5606,7 +5606,7 @@ COGN: Gr. Hsch. _τύφοι_ "wedges" < \*dʰubʰ-o- \
 Also cf. OHG _gi-tubili_ [n.] "peg, pin" < \*ga-dubilja-, MLG _dovicke_ [m.] "dowel-pin", Du. _deuvik_ [c.] "dowel-pin" < \*dubikan- and Nw. dial. _dobbe_ [m./f.] "fastening stick in a river", G Tyr. _tuppe_ "big piece of wood" < \*dubban-. \
 REF: [EDPG]\: 106
 
-### <a id="dubon">\*dūbōn- [f.] "dove" (n)</a>
+### <a id="dūbōn">\*dūbōn- [f.] "dove" (n)</a>
 E: \
 -- Go. _hraiwa-dubo_ \
 N: \
@@ -5658,7 +5658,7 @@ COGN: Skt. _dógdhi_ "to milk; to give milk", NP _dōxtan_ "id.", Oss. _ducyn_ /
 A preterite-present Go. _daug_, OE _dēah_, _dugon_, OS _dōg_, _dugun_, OHG _toug_, _tugun_ < 3sg. \*dauge, 3pl. \*dugunþ < \*dʰougʰ-e, \*dʰugʰ-nt. The original conjugation as a perfect (present) is corroborated by Lith. _daũg_, Latv. _daũdz_. See also [\*dugunþi-](#dugunthi), [\*daugjan-](#daugjan) and [\*dukkōn-](#dukkon). \
 REF: [EDPG]\: 106
 
-### <a id="dugunthi">\*dugunþi- [f.] "valor" (n)</a>
+### <a id="dugunþi">\*dugunþi- [f.] "valor" (n)</a>
 W: \
 -- OE _duguð_ "manhood; glory, advantage; multitude" \
 -- OFri. _duged_ "virtue" \
@@ -5685,7 +5685,7 @@ COGN: Skt _duhitar_-, Av. _dugədar_-, ToA _ckācar_, ToB _tkācer_, Gr. _θυγ
 The Indo-European word for "daughter". Related to [\*deuhtra-](#deuhtra) (q.v.). \
 REF: [EDPG]\: 107
 
-### <a id="dujan">\*dūjan- [wk.] "to tremble" (v)</a>
+### <a id="dūjan">\*dūjan- [wk.] "to tremble" (v)</a>
 N: \
 -- ON _dýja_ \
 PIE: \*dʰuH-ie- \
@@ -5693,7 +5693,7 @@ COGN: Identical to Gr. _θῡ́ω_ "to dash, rush"; further compare Skt. _dhūn�
 An apparently old ie-present closely related to Gr. _θῡ́ω_. Also cf. ON _dý_, Far. _dyggj_ [n.] "bog, marsh" < \*dūja- and OSw. _dyi_, Elfd. _dōe_ [m.] "dirt" < \*dujan-. \
 REF: [EDPG]\: 107
 
-### <a id="dukan">\*dūkan- [st.] "to duck" (v)</a>
+### <a id="dūkan">\*dūkan- [st.] "to duck" (v)</a>
 W: \
 -- ME _douken_ [wk.] "to dive, plunge, immerse", E _to duck_ \
 -- MDu. _duken_ "to dive; to duck, cower", Du. _duiken_ "to dive" \
@@ -5701,7 +5701,7 @@ W: \
 A strong verb derived from the iterative [\*dukkōn-](#dukkon) (q.v.). Also cf. OE _dūce_, E _duck_ < \*dūkōn-. \
 REF: [EDPG]\: 107
 
-### <a id="dukkon">\*dukkōn- [wk.] "to duck" (v)</a>
+### <a id="dukkōn">\*dukkōn- [wk.] "to duck" (v)</a>
 W: \
 -- EDu. _docken_ "to dive, tumble" \
 -- MHG _tocken_ "to immerse" \
@@ -5740,7 +5740,7 @@ PIE: \*dʰlh₂-eh₂- \
 A zero-grade formation related to [\*dala-](#dala) (q.v.). \
 REF: [EDPG]\: 108
 
-### <a id="dulthi">\*dulþi- [f.] "festival, celebration" (n)</a>
+### <a id="dulþi">\*dulþi- [f.] "festival, celebration" (n)</a>
 E: \
 -- Go. _dulþs_ \
 W: \
@@ -5764,21 +5764,21 @@ W: \
 Derived from [\*dimban- ~ \*dimpan-](#dimban) (q.v.): the original meaning was "hazy", cf. Nw. _dum_ "dumb; soft, mute; unclear". \
 REF: [EDPG]\: 108
 
-### <a id="dumbon">\*dumbōn- [f.] "fog, haze" (n)</a>
+### <a id="dumbōn">\*dumbōn- [f.] "fog, haze" (n)</a>
 N: \
 -- ON _dumba_ "dust, cloud of dust, mist" \
 -- Elfd. _dumba_ "fog, haze" \
 A zero-grade formation derived from the strong verb [\*dimban- ~ \*dimpan-](#dimban) (q.v.). \
 REF: [EDPG]\: 108
 
-### <a id="dumpon">\*dumpōn- [wk.] "to suffocate(?)" (v)</a>
+### <a id="dumpōn">\*dumpōn- [wk.] "to suffocate(?)" (v)</a>
 W: \
 -- MDu. _ver-dompen_ "to suffocate" \
 PIE: \*dʰmbʰ-néh₂- \
 The iterative to [\*dimban- ~ \*dimpan-](#dimban) (q.v.). There is no connection with Lith. _dùmpti_ (_dùmpiu_) "to blow with bellows" (quasi PIE \*dʰmHp-), which is likely to have arisen secondarily from Lith. _dùmti_ (_dumiù_) "id." < \*dʰmH-ie-, cf. _dùmplės_ "bellows" < \*dmH-1-ieh₂-. \
 REF: [EDPG]\: 109
 
-### <a id="duna">\*dūna- [m.] "down (of a bird)" (n)</a>
+### <a id="dūna">\*dūna- [m.] "down (of a bird)" (n)</a>
 N: \
 -- ON _dúnn_ \
 -- Far. _dún_ [n.] \
@@ -5797,7 +5797,7 @@ W: \
 An a-stem related to [\*dungōn-](#dungon) (q.v.). Also cf. Elfd. _dyndja_, OFri. _denga_, EDu. _dungen_, OHG _tungen_, G _düngen_ [wk.] "to fertilize" < \*dungjan-, ON _dyngja_ [f.] "dunghill; lady's bower" < \*dungjon- and OE _dung_, _ding_ [f.] "cellar, groundhouse", OHG, MHG _tunc_ [m./f.] "id." < \*dungi-. \
 REF: [EDPG]\: 109
 
-### <a id="dungon">\*dungōn- [wk.] "to cover(?), pour over(?)" (v)</a>
+### <a id="dungōn">\*dungōn- [wk.] "to cover(?), pour over(?)" (v)</a>
 N: \
 -- Far. _dunga_ "to pile up; to snow heavily" \
 -- Sw. _dunga_ "to get soaked", obs. "to rain, pour down" \
@@ -5828,7 +5828,7 @@ COGN: ToB _tänts_- "to scatter" < \*dʰuns-, Skt. _dhváṃsati_ "to fall to du
 A to-stem to the PIE root \*dʰuens-. \
 REF: [EDPG]\: 109
 
-### <a id="duppon">\*dupp/bōn- [wk.] "to dip" (v)</a>
+### <a id="duppōn">\*dupp/bōn- [wk.] "to dip" (v)</a>
 N: \
 -- Nw. _duppa_, _dubba_ "to dip; to duck; to nod" \
 -- Elfd. _duppa_ "id." \
@@ -5850,7 +5850,7 @@ PIE: \*dʰur-o- \
 The original neuter singular whose dual \*dʰur-ih₁ "double door" may have served as the basis for the i-stem [\*durī-](#duri) (q.v.). Also cf. Go. _auga-dauro_ [n.] "window", OFri. _andern_ [n.] "id." < \*aug(n)a-duron-. \
 REF: [EDPG]\: 110
 
-### <a id="durgo">\*durgō- [f.] "fishing-line" (n)</a>
+### <a id="durgō">\*durgō- [f.] "fishing-line" (n)</a>
 N: \
 -- ON _dorg_ "trailing-line" \
 -- Far. _dorg_, pl. _dergur_ "short fishing-line" \
@@ -5858,7 +5858,7 @@ PIE: \*dʰrgʰ-eh₂- \
 Also cf. the factitive ON _dyrgja_ [wk.] "to take with a hand-line" < \*durgjan-. Related to [\*dragan-](#dragan)?. \
 REF: [EDPG]\: 110
 
-### <a id="duri">\*durī- [f.pl.] "door" (n)</a>
+### <a id="durī">\*durī- [f.pl.] "door" (n)</a>
 N: \
 -- ON _dyrr_ [f./n.pl.] \
 -- Far. _dyr_ \
@@ -5872,7 +5872,7 @@ COGN: Gr. _θύρα_ [f.] "door, doorleaf", Arm. _dur-k'_ pl. "door", Lith. _d�
 Most forms point to a (plural) i-stem, which in view of the neuter gender of ON _dyrr_ is likely to have been based on the old dual \*dʰur-ih₁ of[ \*dura- "single door, gate"](#dura) < \*dʰur-o-. OE _duru_, OFri. _dore_, OHG _tura_ [f.] "door", on the other hand, goes back to \*durō-, which is formally identical to Gr. _θύρα_. \
 REF: [EDPG]\: 110
 
-### <a id="durron">\*durrōn- [f.] "stick" (n)</a>
+### <a id="durrōn">\*durrōn- [f.] "stick" (n)</a>
 N: \
 -- Icel. _dorra_ "piece of wood, stick" \
 PIE: \*dʰr-on- \
@@ -5901,7 +5901,7 @@ COGN: Skt. _dadhárṣa_ 3sg.perf. "is bold" < \*dʰórs-e, Gr. _θάρσος_,
 A preterite-present PGmc. 3sg. \*darse, 3pl. \*durzunþ < \*dʰórs-e, \*dʰrs-ńt. See also [\*dursti-](#dursti). \
 REF: [EDPG]\: 111
 
-### <a id="dusen">\*dusēn- [wk.] "to slumber" (v)</a>
+### <a id="dusēn">\*dusēn- [wk.] "to slumber" (v)</a>
 W: \
 -- E _to doze_ \
 -- MHG _dosen_ "to keep oneself quiet, slumber" \
@@ -5926,7 +5926,7 @@ COGN: Identical to Lat. _fuscus_ "dark-colored, dusky"; also cf. Lat. _furvus_ "
 Also cf. Far. _ill-duskutur_ "with mixed and bad colors" < \*dusk-uhta-; OHG _fir-tuskōn_ [wk.] "to confuse", OE _doxian_ [wk.] "to become dark" < \*duskōjan-, G _Tusche_ [f.] "ink" and - with a different suffix - OE _dosen_ "chestnut", OHG _tusin_ "brown" < \*dʰús-no- (cf. OIr. _donn_ "dun, brown; light"). The original meaning may have been "to obscure", which is compatible with the etymological cluster of [\*dusēn-](#dusen). \
 REF: [EDPG]\: 111
 
-### <a id="duwen">\*du(w)ēn- [wk.] "to be misty(?), windy(?)" (v)</a>
+### <a id="duwēn">\*du(w)ēn- [wk.] "to be misty(?), windy(?)" (v)</a>
 N: \
 -- Nw. dial. _duva_ "to blow softly" and Elfd. _duvå_ "to drizzle" \
 PIE: \*dʰuh₂-eh₁- \
@@ -5978,7 +5978,7 @@ PIE: \*dʰuergʰ-e \
 No extra-Gm. cognates, but there may be a link with \*dwerga- "dwarf" (q.v.). \
 REF: [EDPG]\: 112
 
-### <a id="dwesa">\*dwēsa- "foolish" (adj)</a>
+### <a id="dwēsa">\*dwēsa- "foolish" (adj)</a>
 W: \
 -- OE _dwæs_ \
 -- OFri. _dwēs_ \
@@ -5990,7 +5990,7 @@ COGN: Lith. _dvãsas_ [m.] "breath, soul, sickly person" < \*dʰuos-o-, Lith. _d
 Also cf. MHG _ge-twas_, MDu. _ge-dwaes_ [n.] "foolishness, ghost" (with a similar meaning to MHG _tuster_ [m.] "ghost" < \*dus-tra-). See also [\*dusēn-](#dusen). \
 REF: [EDPG]\: 112
 
-### <a id="dwinan">\*dwīnan- [st.] "to diminish" (v)</a>
+### <a id="dwīnan">\*dwīnan- [st.] "to diminish" (v)</a>
 N: \
 -- ON _dvína_ [wk.] \
 -- Far. _dvína_ [wk.] "to yield, give way; to diminish" \
@@ -6004,7 +6004,7 @@ REF: [EDPG]\: 112
 
 ## E
 
-### <a id="ebanth">\*ēbanþ- ~ \*ēbund- [m.] "evening" (n)</a>
+### <a id="ēbanþ">\*ēbanþ- ~ \*ēbund- [m.] "evening" (n)</a>
 N: \
 -- ON _aftann_, _eftann_ \
 -- Far. _aftan_ \
@@ -6078,7 +6078,7 @@ W: \
 A word without a certain etymology. The connections with [\*edara- "fence"](#edara) (Eichner/Nedoma 2000: 33) and [\*aida- "pyre"](#aida) (parallel to G _Flamme_, Bammesberger 2007) are semantically unconvincing. The link with ON _dís_ [f.] "woman, girl; fairy, nymph; goddess", Far. _dís_ [f.] "goddess, nymph", Nw. _dis_ [f.] "goddess" < \*dīsi-, on the other hand, is not improbable in view of the parallelism of ON _dís Skjǫldunga_ and OE _ides Scildinga_ "lady of the Shielding clan"), but poses crucial formal difficulties. It is theoretically possible to solve these by reconstructing a (rather far-fetched) ablauting s-stem nom. \*h₁édʰ-i(ō)s, obl. \*h₁dʰ-iés-, but it is not impossible either that the form \*edis contains a prefix \*e-, which may be identical to the substrata) prefix \*a- (for which see e.g. [\*amslōn-](#amslon)). \
 REF: [EDPG]\: 114
 
-### <a id="edra">\*ēdra- "quick" (adj)</a>
+### <a id="ēdra">\*ēdra- "quick" (adj)</a>
 W: \
 -- OE _ǣdre_ "immediately" (adv) \
 -- OFri. _ē̆der_, _edre_, _idder(e)_ "soon, quickly" (adv) \
@@ -6101,7 +6101,7 @@ COGN: Oss. _wyzyn_ / _uzun_ "hedgehog" (with unexplained initial _u_), Arm. _ozn
 Most of the attested forms point to \*egila-, but ODa. _jæwæl_ developed from a divergent form, i.e. either ON \*_jagall_ < \*egala- or \*_jǫgull_ < \*egula- (with breaking of initial _e_). ON _igull_ appears to contain the same suffix \*-ula-, but is due to a late substution of -_ill_ by -_ull_. Note that the lengthening of ON _i_ to _í_ in Icel. _ígull_ is automatic before _g_ in open syllables. \
 REF: [EDPG]\: 115
 
-### <a id="egja">\*ēgja- [m.] "sea" (n)</a>
+### <a id="ēgja">\*ēgja- [m.] "sea" (n)</a>
 N: \
 -- ON _ǣgir_ \
 -- Far. poet. _ægir_\* \
@@ -6141,7 +6141,7 @@ COGN: Identical to Skt. _ahám_ "I", OAv. _azə̄m_ "id.", YAv. _azəm_ "id.", O
 The IE pronoun of the first person. The Germanic form must go back to \*eka < \*h₁eg-H-om in view of the breaking of -_e_- to -_ja_- in East Nordic, cf. OSw. _iak_, Sw. _jag_, Da. _jeg_. It is further conceivable that the emphatic WGm. variants OHG _ihha_, MHG _iche_, Du. _ikke_ (cf. Howe 1996: 241) continue \*ekō, a form that may correspond to e.g. Gr. _ἐγω_ and Lat _egō_ < \*h₁eǵ-oH. See also [\*mīna-](#mina). \
 REF: [EDPG]\: 116
 
-### <a id="ela">\*ēla- [m.] "eel" (n)</a>
+### <a id="ēla">\*ēla- [m.] "eel" (n)</a>
 N: \
 -- ON _áll_ \
 -- Far. _álur_, _álli_, _állur_ \
@@ -6181,7 +6181,7 @@ COGN: OIr. _elc_ "mischievous, capricous" < \*h₁elk-o-(?) \
 The cluster -_ll_- can be derived from several sources in Old Norse and has therefore given occasion to many different etymologies. In view of the Finnish loanwords _elkiä_ "mean, malicious" and _ilkeä_ "bad, mean, wicked", the derivation of illr from \*elhila- (with \*-ila- as in [\*mekila- "big"](#mekila) and [\*lītila- "small"](#litila)?) through syncope is least problematic. Alternatively, it is possible to assume that the root _illr_ arose from \*_ĭ́li-ligr_, cf. ON _dælla_ "friendly" (adv) < \*_dæli-liga_, etc. (see [\*airi](#airi) for more examples). The final i of \*_ĭ́li_- in \*_ĭ́li-ligr_ just like Fi. _elkiä_ points to an original ja-stem \*elhja-. \
 REF: [EDPG]\: 117
 
-### <a id="elo">\*ēlō- [f.] "awl" (n)</a>
+### <a id="ēlō">\*ēlō- [f.] "awl" (n)</a>
 W: \
 -- OE _ǣl_, _eal_, ME _ēl_, _a(u)l_ \
 -- OHG _āla_, G _Ahle_ \
@@ -6219,7 +6219,7 @@ W: \
 An old word for "larva" or "caterpillar". There are some formal difficulties: Nw. _åme_ straightforwardly points to \*ēmōn-, but the West Germanic forms can be derived from both \*ēmilō- and \*amilō-. The dental suffix of MLG _emelte_, Du. _emelt_ is also found in the doublet MLG _homele_ ~ _homelte_ "bumblebee" (< [\*humelan-](#humelan)) and ultimately emanated from MLG _hornte_, MDu. _hornete_, _hornte_, _hoornte_ "hornet" (see [\*hurnuta/ō-](#hurnuta)). \
 REF: [EDPG]\: 117
 
-### <a id="enu">\*ē̆nu- "without" (prep)</a>
+### <a id="ēnu">\*ē̆nu- "without" (prep)</a>
 E: \
 -- Go. _inu_ \
 N: \
@@ -6252,7 +6252,7 @@ COGN: Gr. _ὀρφνός_ "dark brown" < \*h₁orbʰ-no-, Ru. dial. _rjabój_ [
 Related to the ablauting Gr. _ὀρφνός_ through Kluge's law (Pre-Gm. \*erppa-). There is no direct etymological connection with [\*reupōn- "grouse"](#reupon): Slav. \*rębъ served as the basis for the semantically parallel derivation of RuCS _rěbь_ "partridge", cf. the late derivatives ON _jarpi_ [m.] "hazel grouse" and Icel. _irpa_ [f.] "brown mare" < \*erpjōn-. \
 REF: [EDPG]\: 118
 
-### <a id="ertho">\*erþō- [f.] "earth, soil, land" (n)</a>
+### <a id="erþō">\*erþō- [f.] "earth, soil, land" (n)</a>
 E: \
 -- Go. _airþa_ \
 N: \
@@ -6291,7 +6291,7 @@ COGN: Semantically close to Lat. _errāre_ "to roam, waver" < \*h₁ers-eh₂-ie
 A ja-stem derived from a PIE verbal root \*h₁ers-, which originally may have been identical to \*h₁ers- "to flow", cf. Hitt. _ārszi_ ~ _arsanzi_ "id." < \*h₁érs-ti, \*h₁rs-énti, Skt. _árṣati_ "id.", assuming that the meaning "to roam, err" developed from "to be on the run". It is furthermore possible to compare PIE \*h₁ers- "to boil, to rage", cf. Hitt. _arsanēzi_\* "to be envious" < \*h₁rs-neh₁-, Arm. _eṙam_ "to boil, be restless" < \*h₁ers- and Lith. _aršùs_ "vehement" < \*h₁ors-u-. The adjective served as the basis for OE _irsian_ [wk.] "to deceive" < \*erzisōn- (for the suffixation, cf. the derivation of _firsian_ "to remove" from _feor_ "far" and _hlǣnsian_ "to make lean" from _hlǣne_ "lean"). \
 REF: [EDPG]\: 119
 
-### <a id="esa">\*ēsa- [n.] "dead meat; bait" (n)</a>
+### <a id="ēsa">\*ēsa- [n.] "dead meat; bait" (n)</a>
 W: \
 -- OE _ǣs_ \
 -- Du. _aas_ \
@@ -6318,7 +6318,7 @@ COGN: Hitt. _ez(za)zi_ ~ _adanzi_, Skt. _átti_, 3pl. _adánti_, Gr. _ἔδω_, 
 Also cf. Go. _fra-itan_, OE _fretan_, E _to fret_, (M)Du. _vreten_, OHG _frezzan_, G _fressen_ [st.] "to eat (up), gourmandize" < \*fra-etan-. See further [\*atjan-](#atjan) and [\*ēsa-](#esa). \
 REF: [EDPG]\: 119
 
-### <a id="ethman">\*ēþman- ~ \*ēdman- [m.] "breath" (n)</a>
+### <a id="ēþman">\*ēþman- ~ \*ēdman- [m.] "breath" (n)</a>
 W: \
 -- OE _ǣþm_ "breathing, breath" \
 -- OFri. _ēthma_ "breath" \
@@ -6330,7 +6330,7 @@ COGN: Skt. _ātmán_- [m.] "soul, self, breath" \
 The Sanskrit paradigm nom. _ātmā́_, loc. _ātmáni_ ~ _tmán(i)_ points to an ablauting paradigm \*h₁éh₁t-mōn, loc. \*h₁h₁t-mén-(i). Apparently, the accentual mobility was preserved in Germanic, cf. OE _ǣþm_ < \*ēþma- vs. OHG _ātum_ < \*ēdma-. With the same root, cf. [\*ēþrō- ~ \*ēdrō-](#ethro) "vein, etc.". \
 REF: [EDPG]\: 119
 
-### <a id="ethro">\*ēþrō- ~ \*ēdrō- [f.] "vein, rivulet" (n)</a>
+### <a id="ēþrō">\*ēþrō- ~ \*ēdrō- [f.] "vein, rivulet" (n)</a>
 N: \
 -- ON _æðr_, gen. _æðar_ "vein" (< \*ēdīz, -jōz) \
 -- Nw. _år(e)_ "rivulet; vein" \
@@ -6377,7 +6377,7 @@ PIE: \*(h₁e)up-n- \
 An ablauting directional adverb, related to [\*uba "under; above"](#uba) (q.v.), with a geminate that was shortened in the full-grade form (cf. Lühr 2000: 190). The geminate arose regularly in the locatival form \*uppai < \*up-noi, whose suffix can be compared to the one of e.g. OCS _vъně_ "outside" < \*ud-noi (cf. [\*ūt](#ut)). It is difficult to determine whether \*eup and \*upp had a suffix \*-e or \*-a corresponding to the vowels of e.g. Lat. _pōne_ "from behind" < \*pos(t)-ne or OCS _vъnъ_ "out" < \*ud-nom. This is possible, but it cannot be excluded that both \*eup and \*upp were simply back-formed to the locative \*uppai by the removal of the ending (Kroonen 2010c: 374). Note that the long vowel of OHG _ūf_, G _auf_ is due to monosyllabic lengthening (cf. Lühr l.c.). \
 REF: [EDPG]\: 120
 
-### <a id="ewwadjon">\*ewwadjōn- [f.] "tit" (n)</a>
+### <a id="ewwadjōn">\*ewwadjōn- [f.] "tit" (n)</a>
 N: \
 -- ON _igða_ "small bird" \
 -- Far. poet. _ígða_ "tit(?)" \
@@ -6560,7 +6560,7 @@ COGN: Skt _pā́jas_- "side, surface(?)" < \*peh₂ǵ-os-, Gr. _πήγνυμι_
 Also cf. MLG _vake_, MDu. _vake_, _vaec_, Du. _vaak_ "often" (adv). \
 REF: [EDPG]\: 124
 
-### <a id="fakkon">\*fakk/gōn- [wk.] "to become sleepy" (v)</a>
+### <a id="fakkōn">\*fakk/gōn- [wk.] "to become sleepy" (v)</a>
 W: \
 -- E _to fag_ "to tire, weary", obs. "to hang loose, flap", Scot _to faik_ "to fail from weariness; to cease moving" \
 A West Germanic iterative: the consonant variation of E _to fag_ < \*faggōn and Scot. _to faik_ < \*fakōn- is suggestive of a paradigm 3sg. \*fakkōþi, 3pl. \*fagunanpi < \*pok/ḱ-neh₂-. In view of E _fag_ "fag-end, hanging end of a piece of cloth, untwisted end of a rope", it seems likely that the meaning "to become tired" developed from older "to fray, ravel out", cf. Brit. E _frayed_ "ragged, worn out". This semantic field is compatible with Lith. _pèšti_ (_pešù_) "to tousle, ruffle, tear off hair" < PIE \*peḱ-e-, which is related to e.g. [\*fehu- "cattle"](#fehu) and [\*fahti- "fleece"](#fahti). Further note the oblique subject verbs OLFra. _facon_ and MDu. _vaken_ "to sleep", which appear to be denominal formations to MLG _vāk_, MDu. _vake_, _vaec_ [m.] "sleepiness" (cf. Du. _Klaas Vaak_ "the Sandman") < \*fakan- or to an \*fak(k)a- as perhaps implied by LG _fakk_ "tired, weak". \
@@ -6573,7 +6573,7 @@ COGN: ORu. _polъ_ [m.] "foundation", Ru. _pol_ [m.] "floor", Ukr. _pol_ [m.] "s
 The connection with the Slavic forms is beyond doubt, but the relation between the roots \*pol- and \*pōl-(?) is unclear (Derksen 2008: 390, 410). See also [\*faluda-](#faluda) and [\*felō-](#felo). \
 REF: [EDPG]\: 125
 
-### <a id="falgo">\*falgō- [f.] "fallow land" (n)</a>
+### <a id="falgō">\*falgō- [f.] "fallow land" (n)</a>
 W: \
 -- ME _falge_, _falwe_ "arable land lying idle; plowing as part of the fallowing process", E _fallow_ \
 -- OFri. _fallach_ "arable land" \
@@ -6624,7 +6624,7 @@ W: \
 The causative to [\*fallan-](#fallan) (q.v.). \
 REF: [EDPG]\: 126
 
-### <a id="falon">\*falōn- [f.] "plain" (n)</a>
+### <a id="falōn">\*falōn- [f.] "plain" (n)</a>
 N: \
 -- OSw. _fala_ \
 -- Sw. _fala_ \
@@ -6633,7 +6633,7 @@ COGN: OCS _polje_, Ru. _póle_, SCr. _pȍlje_ [n.] "field" < \*polh₂-io- \
 Derived from the PIE root \*pelh₂- "flat", for which see [\*fulmō-](#fulmo). \
 REF: [EDPG]\: 126
 
-### <a id="falthan">\*falþan- [st.] "to fold, ply" (v)</a>
+### <a id="falþan">\*falþan- [st.] "to fold, ply" (v)</a>
 E: \
 -- Go. _falþan_ \
 N: \
@@ -6687,7 +6687,7 @@ COGN: Gr. _πήνη_ [f.] "the thread of the woof; woof", Lat. _pannus_ [m.] "p
 A European word. If \*fanan- is related to Gr. _πήνη_ and Lat. _pannus_ (< \*_pānus_ by the _littera_-rule), as is assumed by Pokorny IEW: 788, it seems logical to derive the Germanic form from \*ph₂-no- or \*peh₂-nó- (with Dybo's law). From this perspective, it is tempting to assume that the Gm. n-stem (like the Latin and Greek forms?) was remodeled from \*p(é)h₂-ōn, gen. \*ph₂-n-ós. Less likely is the connection with OCS _o-pona_ [f.] "curtain" < \*ponh₁-eh₂-, which was derived from the root \*penh₁- "to spin". \
 REF: [EDPG]\: 127
 
-### <a id="fandon">\*fandōn- [wk.] "to investigate" (v)</a>
+### <a id="fandōn">\*fandōn- [wk.] "to investigate" (v)</a>
 W: \
 -- OE _fandian_ "to test, investigate, visit" \
 -- OFri. _fand(el)ia_ "to visit a sick person", WFri. (early) _fânle_ "to collect fish traps", _fandelje_ "to collect, fetch" \
@@ -6697,7 +6697,7 @@ PIE: \*pont-neh₂- \
 An o-grade iterative to [\*finþan-](#finthan). See also [\*fundon-](#fundon). \
 REF: [EDPG]\: 127
 
-### <a id="fane">\*fanē "from" (prep)</a>
+### <a id="fanē">\*fanē "from" (prep)</a>
 W: \
 -- OFri. _fan_ \
 -- OS _fan_, _fana_ \
@@ -6761,7 +6761,7 @@ COGN: OPru. _pannean_ acc. "ditch" < \*pan-io-, Gaul. _anam_ acc.f. "_paludem_" 
 A collective noun potentially identical to OPru. _pannean_. The derivation of the Irish forms, esp. the variation of MIr. _en_ and _an_, is problematic, but it is possible that radical e was mutated into a by Joseph's rule. Related to OE _fyne_ "mold"? \
 REF: [EDPG]\: 128
 
-### <a id="fanthjan">\*fanþjan- [m.] "foot soldier(?)" (n)</a>
+### <a id="fanþjan">\*fanþjan- [m.] "foot soldier(?)" (n)</a>
 W: \
 -- OE _fēða_ "foot soldier; troop" \
 -- OHG _fendo_ "foot soldier, pedestrian", MHG _vende_ "pedestrian, boy" \
@@ -6818,7 +6818,7 @@ COGN: Identical to Khot. _pā'sa_, Kurd. _purs_ "pig", Lat _porcus_ [m.] "id.", 
 One of the Indo-European words for "pig(let)". In view of the possible connection with Gr. _πόρκος_ [m.] "fishing-net" and Arm. _ors_ "hunt; catch; game" < \*porḱ-o-, the word may have originally referred to the wild boar rather than the domesticated animal. Also cf. the diminutives MDu. _verkijn_, _varkijn_, Du. _varken_ [n.] "pig" < \*farha-kīna- and OHG _farhilī(n)_, MHG _varchelīn_, G _Ferkel_ [n.] "id." < \*farha-līna-. \
 REF: [EDPG]\: 129
 
-### <a id="farjon">\*farjōn- [f.] "ferry" (n)</a>
+### <a id="farjōn">\*farjōn- [f.] "ferry" (n)</a>
 N: \
 -- ON _ferja_ \
 W: \
@@ -6916,7 +6916,7 @@ COGN: To Lat. _pandus_ "bent" < \*pt-nó-? \
 The Germanic word has been compared to Lat. _pandus_, which developed from \*pt-n6- through a form \*pat-no- with _schwa secundum_ that underwent Thurneysen's law (\*-tn- > \*-nd-). However, the comparison can only be maintained by assuming a similar _schwa secundum_ in Germanic, for which the evidence is extremely limited (see [\*hesan- ~ \*hazan- "hare"](#hesan)). \
 REF: [EDPG]\: 131
 
-### <a id="fatton">\*fat(t)ōn- [wk.] "to fetch" (v)</a>
+### <a id="fattōn">\*fat(t)ōn- [wk.] "to fetch" (v)</a>
 N: \
 -- ON _fata_ "to step" \
 -- Icel. _fatta_ "to catch on, take in" \
@@ -6932,7 +6932,7 @@ COGN: OCS _po-pasti_ "to fetch" < \*pód-e- \
 An iterative created to a lost o-grade iterative-intensive verb \*fatan- < \*pód-e-, as retrieved from OCS _po-pasti_. \
 REF: [EDPG]\: 131
 
-### <a id="fathma">\*faþma- [m.] "fathom" (n)</a>
+### <a id="faþma">\*faþma- [m.] "fathom" (n)</a>
 N: \
 -- ON _faðmr_ \
 -- Far. _favnur_ \
@@ -6948,7 +6948,7 @@ COGN: Gael. _aitheamh_ [f.] "thread, fathom (of rope)", OW _etem_, W _edau_ "thr
 A Germanic-Celtic formation (cf. Hamp 2007) usually derived from the PIE root \*peth₂- "to spread", cf. Gr. _πετάννυμι_. Further cf. MDu. _vedemen_ [wk.] "to measure with outspread arms, fathom" < \*faþmjan- and OE _fæðmian_ [wk.] "to fathom, to embrace", OHG _fadamōn_ [wk.] "to spin, to sew" < \*faþmōjan-. \
 REF: [EDPG]\: 132
 
-### <a id="fatho">\*faþō- [f.] "fence" (n)</a>
+### <a id="faþō">\*faþō- [f.] "fence" (n)</a>
 E: \
 -- Go. _faþa_ "hedge, fence, wall" \
 W: \
@@ -6989,7 +6989,7 @@ COGN: Gr. _παῦρος_ "small, little, few", Lat. _parvus_ "small" (with meta
 The OHG form _fōh_ has been adduced to reconstruct the Germanic form as \*fauha-, so as to equate it with Lat. _paucus_, but the _h_ can be epenthetic in this form. This leaves \*fawa- as the only possible proto-form. It must be derived from a PIE zero-grade form \*ph̥₂u-o-, with (regular) vocalization of the laryngeal, as the full-grade \*péh₂u-o- would have given \*\*fōa-. \
 REF: [EDPG]\: 132
 
-### <a id="fean">\*fēan- [st.] "to blame" (v)</a>
+### <a id="fēan">\*fēan- [st.] "to blame" (v)</a>
 E: \
 -- Go. _faian\*_ \
 PIE: \*peh₁-e- \
@@ -7023,7 +7023,7 @@ PIE: \*péḱ-e- \
 A not too well attested strong verb. Its past participle \*fagena- became lexicalized as ON _feginn_, Elfd. _faingen_, OE _fægen_ "happy", and served as the basis for Go. _faginon_, ON _fagna_, Elfd. _faingen_, OHG _faginōn_, OE _fægenian_ "to gladden" < \*fagenōjan-. See also [\*fēhi-](#fehi) and [\*fagjan-](#fagjan). \
 REF: [EDPG]\: 133
 
-### <a id="fehi">\*fēhi- "satisfactory(?)" (adj)</a>
+### <a id="fēhi">\*fēhi- "satisfactory(?)" (adj)</a>
 E: \
 -- Go. _ga-fehaba_ "properly" (adv) \
 A _vr̥ddhi_-gerundive to the strong verb [\*fehan-](#fehan). \
@@ -7116,7 +7116,7 @@ COGN: Gr. _πέλμα_ [n.] "sole of the foot" < \*pel-men- \
 A considerably old mn-stem to the root of [\*fella- "skin"](#fella) (q.v.). In Anglo-Frisian, the word seems to have been supplanted by the diminutive: OE _filmen_ [n.] "skin, membrane, husk", OFri. _filmene_ [f.] "skin (on the knee?)" < \*felm-īna/ō-. \
 REF: [EDPG]\: 135
 
-### <a id="felo">\*felō- [f.] "board" (n)</a>
+### <a id="felō">\*felō- [f.] "board" (n)</a>
 N: \
 -- ON _fjǫl_ \
 -- Far. _fjøl_ \
@@ -7125,7 +7125,7 @@ PIE: \*pel-eh₂- \
 An e-grade formation closely related to [\*falan-](#falan) (q.v.). \
 REF: [EDPG]\: 135
 
-### <a id="feltha">\*fetpa- [m.] "field" (n)</a>
+### <a id="fetpa">\*fetpa- [m.] "field" (n)</a>
 N: \
 -- OSw. _fiälder_ "isolated field" \
 W: \
@@ -7155,7 +7155,7 @@ COGN: Skt. _purú_-, OAv. _pouru_-, YAv. _pouru_- "much, abundant", OP _paruv_ "
 A u-stem to the root \*pleh₁- "to fill", for which cf. [\*fulla- "full"](#fulla-1) < \*plh₁-nó-. In Proto-Germanic the adjective may originally only have occurred in the neuter form \*felu, taking the following noun in the genitive. In PIE, it had an ablauting paradigm, e.g. common gender \*pelh₁-us, gen. \*plh₁-u-ós vs. neuter \*pólh₁-u, gen. \*plh₁-éu-s. This paradigm explains the ablaut difference between e.g. Gr. _πολύ_ and Go. _filu_. Notably, Old Frisian _fule_, _fole_ and Du. dial. _veul_ together with Ilr. \*prHu- appear to preserve the zero-grade root (Bremmer 2005). See also [\*flaizan-](#flaizan). \
 REF: [EDPG]\: 136
 
-### <a id="felwo">\*felwō- [f.] "willow" (n)</a>
+### <a id="felwō">\*felwō- [f.] "willow" (n)</a>
 W: \
 -- OHG _felwa_, _felawa_, G _Felbe_ \
 PIE: \*tpel-u-eh₂-(?) \
@@ -7222,7 +7222,7 @@ W: \
 The related OE _firsian_ [wk.] "to go beyond, remove" derives from \*ferrisōjan- with the same suffix as in e.g. _irsian_ [wk.] "to be angry" (see [\*erzja-](#erzja)). \
 REF: [EDPG]\: 137
 
-### <a id="fersno">\*fersnō- [f.] "heel" (n)</a>
+### <a id="fersnō">\*fersnō- [f.] "heel" (n)</a>
 E: \
 -- Go. _fairzna_ \
 W: \
@@ -7262,7 +7262,7 @@ COGN: Identical to Skt. _párut_, Gr. _πέρυσι_, OIr. _inn-uraid_, Arm. _h
 A fossilized PIE adverbial phrase meaning "last year". It contains the original locative of a PIE root noun \*uet- "year", for which cf. [\*weþru-](#wethru). \
 REF: [EDPG]\: 137
 
-### <a id="feson">\*fesōn- [f.] "chaff, fiber" (n)</a>
+### <a id="fesōn">\*fesōn- [f.] "chaff, fiber" (n)</a>
 W: \
 -- OS _fesa_ "pod" \
 -- MDu. _vese_ "fiber, husk; fringe", Du. _vezel_ [c.] "fiber" \
@@ -7297,7 +7297,7 @@ PIE: \*ped-ur-o/eh₂- \
 Derived from the PIE word for "foot" (see \*fōt-), cf. Gr. _πέδη_ [f.] "fetter", Lat _pedica_ [f.] "id.". \
 REF: [EDPG]\: 138
 
-### <a id="fethan">\*feþan- [m.] "penis(?)" (n)</a>
+### <a id="feþan">\*feþan- [m.] "penis(?)" (n)</a>
 W: \
 -- MDu. _vede_ \
 PIE: \*pét-on- \
@@ -7305,7 +7305,7 @@ COGN: Lat _pēnis_ "tail, penis" < \*pet-sn-i- \
 The Latin word is usually derived from \*pes-ni- in view of Skt. _pásas_-, Gr. _πέος_ [n.] "penis" < \*pes-os-, but \*pet-sni- is possible, too (cf. De Vaan 2008: 458). As a result, MDu. _vede_ (for which cf. Gysseling 1987: 53) receives a possible etymology. See also [\*fuþi- "vagina"](#futhi). \
 REF: [EDPG]\: 138
 
-### <a id="fethro">\*feþrō- [f.] "feather" (n)</a>
+### <a id="feþrō">\*feþrō- [f.] "feather" (n)</a>
 N: \
 -- ON _fjǫðr_ \
 -- Far. _fjøður_ "feather; fin" \
@@ -7320,7 +7320,7 @@ COGN: Hitt. _pattar_ ~ _pattan_-, _pettar_ ~ _pettan_- [n.] "feather, wing" < \*
 A heteroclitic derived from the PIE root \*peth₂- "to fly", cf. Skt _pátati_ "to fly; hit", Gr. _πέτομαι_ "to fly", Lat _petō_, -_ere_ "to reach; to rush", MW _eh-ed_- "to fly" and the intensive Gr. _ποτάομαι_ "to fly around" < \*poth₂-éie-. Also cf. the collective ja-stem ON _fiðri_, OE _fiðere_, Du. _ge-vederte_, MHG _ge-videre_, G _Ge-fieder_ [n.] "plumage" < \*ga-feþrja-. \
 REF: [EDPG]\: 138
 
-### <a id="feuhtjon">\*feuhtjōn- [f.] "spruce" (n)</a>
+### <a id="feuhtjōn">\*feuhtjōn- [f.] "spruce" (n)</a>
 W: \
 -- OHG _fiuhta_, MHG _viehte_, G _Fichte_ \
 PIE: \*peuḱ-t-ih₂- \
@@ -7338,7 +7338,7 @@ W: \
 In view of the root-final k and the alternation between \*eu and \*ū, it seems likely that the strong verb was back-formed to the iterative [\*fuk(k)ōn-](#fukkon) (q.v.). Also cf. MDu. _fuke_ [f.] "fish trap", Du. _fuik_ [c.] "id." < \*fūkōn-. \
 REF: [EDPG]\: 139
 
-### <a id="fewurthan">\*fewurþ/dan- "fourth" (num)</a>
+### <a id="fewurþan">\*fewurþ/dan- "fourth" (num)</a>
 N: \
 -- ON _fjórði_ \
 -- Far. _fjórði_ \
@@ -7354,7 +7354,7 @@ COGN: Skt _turī́ya_-, _túrya_-, Av. _tūiriia_ "fourth" (num) < \*kʷt-ur-iHo
 The ordinal to [\*fedwar- "four"](#fedwar) (q.v.). In PIE, the root had the zero grade, but since \*kʷtur-tó- in PGmc. would have given \*\*hurda-, it was bound to become replaced by an analogical full-grade form. This \*kʷetur̥tHo- lost its first t due to dissimilation, and thus gave PGmc. \*fewurþ/dan- (with initial \*f after [\*fimftan- "fifth"](#fimftan) (q.v.). \
 REF: [EDPG]\: 139
 
-### <a id="fifaldra">\*fīfaldra/ō- [m./f.] "butterfly" (n)</a>
+### <a id="fīfaldra">\*fīfaldra/ō- [m./f.] "butterfly" (n)</a>
 N: \
 -- Far. _firvaldur_ [m.] \
 -- OSw. _fiædhal_ [m.] \
@@ -7385,7 +7385,7 @@ PIE: \*ph₁-i-ont- \
 A lexicalized participle derived from [\*fi(j)ēn-](#fijen) (q.v.). \
 REF: [EDPG]\: 140
 
-### <a id="fijen">\*fi(j)ēn- [wk.] "to hate" (v)</a>
+### <a id="fijēn">\*fi(j)ēn- [wk.] "to hate" (v)</a>
 E: \
 -- Go. _fijan_, _fian_ \
 N: \
@@ -7465,7 +7465,7 @@ COGN: Gr. Hsch. _πίγγα_ "young bird" < \*ping-eh₂-(?) \
 An exclusively Germanic word. Formally close to [\*spinka(n)-](#spinkan) (q.v.). \
 REF: [EDPG]\: 141
 
-### <a id="finnon">\*fin(n)ōn- [f.] "fin" (n)</a>
+### <a id="finnōn">\*fin(n)ōn- [f.] "fin" (n)</a>
 N: \
 -- OSw. _fina_ "fin" \
 -- Sw. _fena_ [c.] "fin; chaff, husk" \
@@ -7476,7 +7476,7 @@ COGN: OIr. _ind_, _inn_ [n.] "end, extremity, tip, point, edge, surface" < \*pin
 The alternation between ON _fina_ < \*finōn- and WGm. \*finnō points to an n-stem \*finō, gen. \*finnaz < \*pin-ōn, \*pin-n-ós. The variant MDu., EDu. _vimme_ "fin; prickle, awn" can furthermore be adduced to reconstruct a more primary mn-stem \*fimmō, \*finnaz < \*pín-mōn, \*pin-mn-ós (with loss of m in the cases with zero grade of the suffix), but this _vimme_ may also have arisen secondarily by assimilation of the root-final nasal to the initial f (cf. Du. _priem_ < \*preuna-). No generally accepted etymology. The link with OIr. _ind_ "extremity" is attractive, not least in view of the semantics of Sw. _fena_ "chaff, husk" and MDu. _vine_ "bran(?)", which could have developed from "awn". Problematic, on the other hand, is the connection with Lat _pinna_ "feather, wing, fin, parapet", which does not continue alleged \*pinn-eh₂, but represents a dialect form of _penna_ "pen" < \*pet-neh₂- (De Vaan 2008: 458). Unlikely, too, are the connections with e.g. Skt. _sphyá_- [m.] "stick" and Lat. _spīna_ "spine, thorn", which unlike the Germanic forms have an initial s. \
 REF: [EDPG]\: 141
 
-### <a id="finthan">\*finþan- [st.] "to find; to feel" (v)</a>
+### <a id="finþan">\*finþan- [st.] "to find; to feel" (v)</a>
 E: \
 -- Go. _finþan_ \
 N: \
@@ -7492,7 +7492,7 @@ COGN: Skt. _pánthās_, gen. _pathás_ [m.] "road, path, course". YAv. _paṇtā
 See also [\*fanþjan-](#fanthjan), [\*fandōn-](#fandon), [\*fundōn-](#fundon) and [\*paþa-](#patha). \
 REF: [EDPG]\: 142
 
-### <a id="fisan">\*fīsan- [st.] "to blow" (v)</a>
+### <a id="fīsan">\*fīsan- [st.] "to blow" (v)</a>
 N: \
 -- ON _físa_ \
 -- Icel. _físa_ [wk.] "to blow (on a fire); to fart" \
@@ -7523,7 +7523,7 @@ COGN: Lat. _piscis_ [m.] "fish" < \*pisk-i-, OIr. _íasc_ [m.] "id." < \*peisk-o
 A West Indo-European word. The connection with Skt. _piccha_- "calf of the leg" < \*piḱ-sk-eh₂- (Sadovsky 1973: 85-6), perhaps justified by the widespread folk association of the calf of the leg with the belly of a fish (Mallory/Adams 2006: 146) is highly uncertain. Slightly more attractive, then, is the comparison with Skt. _piccha_- [n.] "feather". Cz. _pisk_ "young feather". The alleged cognate Ru. _piskár'_ "gudgeon", on the other hand, was derived from a verbal root, cf. OCS _piskati_ "to pipe", Ru. _piščát'_ "to squeak" (cf. Hamp 1973b), and therefore cannot be related. Also cf. Go. _fiskon_, ON _fiska_, OE _fiscian_, _fixian_, OFri. _fiskia_, Du. _vissen_, OHG _fiskōn_, G _fischen_ [wk.] "to fish" < \*fiskōjan-, which is formally close to Lat. _piscor_, -_āri_ < \*pisk-eh₂-ie-. \
 REF: [EDPG]\: 142
 
-### <a id="fison">\*fisōn- [wk.] "to blow" (v)</a>
+### <a id="fisōn">\*fisōn- [wk.] "to blow" (v)</a>
 N: \
 -- Nw. _fīsa_ "to blow; to fart; to whisper" \
 W: \
@@ -7550,7 +7550,7 @@ COGN: Gr. _πλάξ_, -_ακός_ [f.] "plane, plain; flat stone, board, table
 An a-grade intensive verb related to [\*flahō-](#flaho) and [\*flōhō-](#floho) (q.v.). \
 REF: [EDPG]\: 143
 
-### <a id="flaho">\*flahō- [f.] "strip" (n)</a>
+### <a id="flahō">\*flahō- [f.] "strip" (n)</a>
 N: \
 -- ON _flá_ "strip of land, meadow" \
 PIE: \*plók-eh₂- \
@@ -7695,7 +7695,7 @@ W: \
 See [\*fleutan-](#fleutan). \
 REF: [EDPG]\: 145
 
-### <a id="flauthi">\*flauþī- [f.] "cross-beam" (n)</a>
+### <a id="flauþī">\*flauþī- [f.] "cross-beam" (n)</a>
 N: \
 -- ON _fleyðr_ \
 PIE: \*plout-ih₂- \
@@ -7729,7 +7729,7 @@ COGN: Lith. _plaũkti_ (_plaukiù_) "to swim, float" < \*plouk-ie- and _plùnksn
 In Germanic, the form \*fleugan- emerges for expected \*fleuhan- < \*pleuk-e-. Pokorny explains this as the result of deliberate disambiguation with \*þleuhan-, but it is more attractive to assume interference with the iterative \*flukk/gōn- < \*pluk-neh₂-. Another such interference is evinced by MDu. _vlieken_ "to fly" (cf. also MDu. _vlieke_, _vleke_ [f.] "feather; arrow" < \*fleukjōn-, whence OFr. _fleche_, Fr. _flèche_ "arrow"), which in spite of its weak conjugation must continue strong \*fleukan- with a secondary \*k from the iterative. Similarly, MDu. _vluycken_ "to transport over water", which is close to the meaning of Lith. _plaũkti_, is likely to continue Pre-Gm. \*flūkan- with both the \*ū and the \*k pointing to influence from [\*flukk/gōn-](#flukkon). See also [\*flaugjan-](#flaugjan), [\*flugi-](#flugi) and [\*fugla-](#fugla). \
 REF: [EDPG]\: 146
 
-### <a id="fleugon">\*fleugōn- [f.] "fly" (n)</a>
+### <a id="fleugōn">\*fleugōn- [f.] "fly" (n)</a>
 N: \
 -- Nw. _fljuge_ \
 W: \
@@ -7774,7 +7774,7 @@ COGN: OIr. _luaidid_ "to move" < \*pléud-e-, Lith. _plū́sti_ (_plū́stu_) "t
 A strong verb to the PIE root \*pleud-. See also [\*fleuta-](#fleuta), [\*flauti-](#flauti), [\*fluta-](#fluta) and [\*flut(t)ōn-](#flutton). \
 REF: [EDPG]\: 147
 
-### <a id="fleuthra">\*fleuþra- [m.] "elder" (n)</a>
+### <a id="fleuþra">\*fleuþra- [m.] "elder" (n)</a>
 W: \
 -- WFri. _flear_ "elder; soggy area" \
 -- MLG _vlēder_ \
@@ -7782,7 +7782,7 @@ W: \
 A North-Sea Germanic word. In Frisian, it is only attested in the modern dialects, but Du. dial. _vlaar_, attested in the originally Frisian province of North-Holland, implies an OFri. form \*_fliār_ (cf. Franck 1949: suppl., 183). No certain etymology. The word seems to contain the \*þra-/dra-suffix common in tree-names (cf. [\*apaldra-](#apaldra)). In view of the WFri. meaning "soggy place", it is perhaps possible to link the word to the PIE root \*pleu- "to float, swim", for which see [\*flauma-](#flauma). Since the elder has a preference for moist soil, this meaning can also be secondary, however. \
 REF: [EDPG]\: 147
 
-### <a id="flitan">\*flītan- [st.] "to strive, fight" (v)</a>
+### <a id="flītan">\*flītan- [st.] "to strive, fight" (v)</a>
 W: \
 -- OE _flītan_ "to strive, contend, dispute" \
 -- MDu. _vliten_ [st./wk.] "to be enthusiastic; to strive for" \
@@ -7792,7 +7792,7 @@ COGN: MW _llwydaw_ "to succeed" < \*pleid- \
 A Germanic-Celtic isogloss (Schumacher 2004: 52 1-2). \
 REF: [EDPG]\: 147
 
-### <a id="floan">\*flōan- [st.] "to flow" (v)</a>
+### <a id="flōan">\*flōan- [st.] "to flow" (v)</a>
 N: \
 -- ON _flóa_ [wk.] "to flood; be flooded" \
 W: \
@@ -7804,7 +7804,7 @@ COGN: Gr. _πλώω_ "to swim" < \*plṓu-e-, OCS _plaviti_ "to let swim" < \*
 An old strong verb. The alternation of -w- in Anglo-Saxon and -j- in Low German points to a hiatus, viz. \*flōan-. This hiatus arose after the regular loss of \*u after \*ō in a formation \*plṓu-e- (cf. Go. _sauil_ "sun" < \*sōel < \*seh₂u-el). Gr. _πλώω_ has been adduced to alternatively derive \*flōan- from a root variant \*pleh₃- (cf. _πλωτός_ "floating" < \*plh₃-to-?), but the Germanic evidence clearly points to \*plṓu-e-, cf. [\*flauja- "ship"](#flauja) (= Gr. _πλοῖον_) < \*plou-io- and [\*flauma-](#flauma) < \*plou-mo-. See also [\*flōdu-](#flodu). \
 REF: [EDPG]\: 147
 
-### <a id="flodu">\*flōdu- [m./f.] "flood" (n)</a>
+### <a id="flōdu">\*flōdu- [m./f.] "flood" (n)</a>
 E: \
 -- Go. _flódus_ [m.] \
 N: \
@@ -7819,7 +7819,7 @@ PIE: \*ploh₃-tú- \
 A tu-stem created to the root of \*flōan-. The u-suffix has been replaced by a- and i-stems in many languages, but must nevertheless be reconstructed on the basis of the Gothic form. In ON, the original u-stem genitive _flóðar_ also seems to have been preserved in compounds, e.g. Icel. _flóðar-mál_ (also _flœðar-mál_) [n.], Far. _flóðar-máli_ [m.] "high water mark". \
 REF: [EDPG]\: 147
 
-### <a id="floho">\*flōhō- [f.] "layer" (n)</a>
+### <a id="flōhō">\*flōhō- [f.] "layer" (n)</a>
 N: \
 -- ON _fló_ \
 W: \
@@ -7828,7 +7828,7 @@ W: \
 Derived from the adjective \*flaha-, for which see [\*flaka-](#flaka). \
 REF: [EDPG]\: 148
 
-### <a id="flokan">\*flōkan- [st.] "to slap, mourn, lament" (v)</a>
+### <a id="flōkan">\*flōkan- [st.] "to slap, mourn, lament" (v)</a>
 E: \
 -- Go. _flokan_\* "to lament" \
 W: \
@@ -7838,7 +7838,7 @@ COGN: Gr. _πλήσσω_ "to strike, slap, thrust, hit" < \*plh₂k-ie-, Lat. _
 An o-grade reduplicating verb, formally and semantically close to Gr. _πλήσσω_ and OCS _plakati_. The apparent incongruity of Gm. \*flak- with PIE \*pleh₂k- can be resolved by assuming that the strong verb was influenced by the corresponding iterative [\*flakk/gōn-](#flakkon) (q.v.). It is not necessary to postulate a PIE root variant \*pleh₂g- with root-final \*g. Lat _plangō_ may have developed from \*plh₂k-neh₂- with -ng- < \*-ngn- < \*-kn- according to Thurneysen's law, and also Gr. _πληγή_ [f.] "hit, wound" can have come about by analogy within Greek itself. \
 REF: [EDPG]\: 148
 
-### <a id="flora">\*flōra- [m.] "floor" (n)</a>
+### <a id="flōra">\*flōra- [m.] "floor" (n)</a>
 N: \
 -- ON _flórr_ "floor of a cowshed" \
 W: \
@@ -7875,7 +7875,7 @@ W: \
 The word has been analyzed as a loanword from Lat. _floccus_ [m.] "tuft of wool", but there are other options. It may have been derived from an iterative \*flukkōn-, cf. Nw. _flokka_ [wk.] "to pull out (e.g. hay)", G Rhnl. _flocken_ [wk.] "to loosen hay", which in turn can be related to Lith. _pláukas_ [m.] "(single) hair, color of an animal, (pl.) hair, fur". The iterative that is most likely to be related, however, is [\*flukk/gōn- "to fly, flutter"](#flukkon) (q.v.). Note that its o-grade variant [\*flakk/gōn-](#flakkon) seems to have been the source of the no doubt related E _flake_. \
 REF: [EDPG]\: 149
 
-### <a id="flukkon">\*flukk/gōn- [wk.] "to fly, flutter" (v)</a>
+### <a id="flukkōn">\*flukk/gōn- [wk.] "to fly, flutter" (v)</a>
 W: \
 -- MDu. _vlogen_ "to fly" \
 -- G _flocken_ "to fly around, flutter" \
@@ -7891,7 +7891,7 @@ W: \
 A regular zero-grade neuter formation to the strong verb [\*fleutan-](#fleutan). \
 REF: [EDPG]\: 149
 
-### <a id="flutton">\*flut(t)ōn- [wk.] "to float, stream" (v)</a>
+### <a id="fluttōn">\*flut(t)ōn- [wk.] "to float, stream" (v)</a>
 N: \
 -- ON _flota_ \
 W: \
@@ -7915,7 +7915,7 @@ COGN: Gr. _πνέω_ "to blow, cough, breathe" < \*pnéu-e- \
 Seebold 1970: 269 reconstructs PGmc. \*hneusan- on the basis of the Nordic forms, thus isolating them from WGm. \*fneusan-, but it seems more likely that the sequence \*fn- merged with \*hn- (also cf. MDu. _niesen_). This is confirmed by Far. _fros_ [n.] "sneezing", a (dissimilated) variant of _nos_ [n.] "id." < ON \*hnos < \*hnusa-. As a result, there seem to be no objections against reconstructing the root as \*fneus-, which appears to be related to PIE \*pneu- "to breathe" (with the s-extension pointing to an aoristic root, cf. Gr. _ἔπνευσε_ "breathed, blew"). Ultimately, the root is likely to be onomatopoetic, cf. OHG _fnehan_ [st.] "to snort, breathe heavily" < \*fnehan-. See also [\*fnuz(z)ōn-](#fnuzzon). \
 REF: [EDPG]\: 149
 
-### <a id="fnuzzon">\*fnuz(z)ōn- [wk.] "to sneeze" (v)</a>
+### <a id="fnuzzōn">\*fnuz(z)ōn- [wk.] "to sneeze" (v)</a>
 N: \
 -- Icel. _hnerra_ \
 W: \
@@ -7924,7 +7924,7 @@ PIE: \*pnus-neh₂- \
 Possibly the iterative to [\*fneusan- ~ \*fnūsan-](#fneusan) (q.v.). Also cf. ON _hnøri_, _hneri_, Icel. _hnerri_, OE _fnora_ [m.] "sneezing" < \*fnuz(z)an-. Some derive Icel. _hnerra_, obs. _hnōr(r)a_ from the noun (Magnusson 1989: 347), however. \
 REF: [EDPG]\: 150
 
-### <a id="fodjan">\*fōdjan- [wk.] "to feed; to rear" (v)</a>
+### <a id="fōdjan">\*fōdjan- [wk.] "to feed; to rear" (v)</a>
 E: \
 -- Go. _fodjan_ \
 N: \
@@ -7955,7 +7955,7 @@ COGN: Lat. _pābulum_ [n.] "fodder" < \*peh₂-dʰlo- \
 A merger of two instrumental nouns. In the meaning "fodder", it is related to [\*fōdjan- "to feed"](#fodjan). The attestations meaning "sheath" or "casing", on the other hand, were derived from the PIE root \*peh₂-, i.e. "to protect", cf. ToA _pās_-, ToB _pāsk_- "to guard". \
 REF: [EDPG]\: 150
 
-### <a id="fogjan">\*fōgjan- [wk.] "to join together" (v)</a>
+### <a id="fōgjan">\*fōgjan- [wk.] "to join together" (v)</a>
 W: \
 -- OE _fēgan_, E _to fay_ \
 -- OS _fōgian_ \
@@ -7966,7 +7966,7 @@ COGN: Hitt. _pāski_ ~ _pāskanzi_ "to stick in, to fasten, to plant; to set up;
 A causative verb to a further unattested strong verb \*fahan-, whence MHG _vuoge_ [f.] "joint", G _Fuge_, MLG _vōge_, MDu. _voege_ [f.], Du. _voeg_ [c.] "joint" < \*fōgō-. See also [\*fagra-](#fagra). \
 REF: [EDPG]\: 150
 
-### <a id="foljan">\*fōljan- [wk.] "to feel" (v)</a>
+### <a id="fōljan">\*fōljan- [wk.] "to feel" (v)</a>
 W: \
 -- OE _fēlan_, E _to feel_ \
 -- OFri. _fēla_ \
@@ -7976,7 +7976,7 @@ W: \
 An etymologically obscure word. Within Germanic, the appurtenance of ON _falma_ "to grope" and [\*fulmō- "palm of the hand"](#fulmo) (q.v.) is uncertain. Not convincing either are the connections with OCS _palьcь_, Ru. _pálec_ "finger" and Lat _palpō_, -_āre_ "to stroke, soothe". \
 REF: [EDPG]\: 150
 
-### <a id="fora">\*fōra- [m.] "piglet" (n)</a>
+### <a id="fōra">\*fōra- [m.] "piglet" (n)</a>
 W: \
 -- OE _fōr_ "pig, hog" \
 -- OS _fōr_ [n.] "immature pig", MLG _vōr_ "skinny piglet" \
@@ -7985,7 +7985,7 @@ COGN: Gr. _πόρις_, -_ιος_ [f.] "calf, heifer" < \*por-i- \
 A word apparently continuing Pre-Gm. \*por-o-, an o-stem derived from the root \*per- "to give birth", for which see [\*farza(n)-](#farzan). \
 REF: [EDPG]\: 151
 
-### <a id="for">\*fōr ~ \*fun- [n.] "fire" (n)</a>
+### <a id="fōr">\*fōr ~ \*fun- [n.] "fire" (n)</a>
 E: \
 -- Go. _for_, gen. _funins_ \
 N: \
@@ -8002,7 +8002,7 @@ COGN: Hitt. _pahhur_, gen. _pahhuenas_ [n.] "fire", Gr. _πῦρ_ [n.] "id.", Ar
 An old heteroclitic formation, probably to be reconstructed as Pre-Germanic \*péh₂-ur (hardly \*ph₂-uōr as per Simms 2009, as this would become \*fawōr), gen. \*ph₂-un-ós, loc. \*ph₂-uén-i. The heteroclisy was preserved by Proto-Germanic, which appears to have had a paradigm \*fōr (with \*-ōu- > \*-ō-), gen. \*funins (for older \*funaz < \*punós with Dybo's law), dat. \*fu(w)eni. The different languages leveled out the r/n-alternations. Gothic, for instance, incorporated the word into the neuter n-stems, while West Germanic generalized the forms with r. The attestations with front mutation, e.g. ON _fýrr_, OE _fȳr_, OHG _fuir_, _fiur_, are based on a dative form \*fu(w)eri. For similar cases of umlaut in PIE heteroclitic nouns, see [\*eudra- ~ \*ūdra- "udder"](#eudra), [\*librō- "liver"](#libro) and [\*neura/ōn- "kidney"](#neuran). OE _fior_ and OFri. _fiūr_, WFri. _fjoer_, apparently from \*feuri, continue the same case form, though with metathesis. \
 REF: [EDPG]\: 151
 
-### <a id="fori">\*fōri- "passable; able to go" (adj)</a>
+### <a id="fōri">\*fōri- "passable; able to go" (adj)</a>
 N: \
 -- ON _fœrr_ "able to go; capable of being passed, safe" \
 W: \
@@ -8023,7 +8023,7 @@ W: \
 The causative to [\*faran-](#faran) (q.v.). The vowel \*ō is secondary, and in synchronic Germanic functions as the o-grade of \*a. It is not to be equated with the _ā_ of Skt. _pāráyati_ "to take across", which continues \*por-éie- by Brugmann's law. \
 REF: [EDPG]\: 151
 
-### <a id="fot">\*fōt- [m.] "foot" (n)</a>
+### <a id="fōt">\*fōt- [m.] "foot" (n)</a>
 E: \
 -- Go. _fotus_ \
 N: \
@@ -8041,7 +8041,7 @@ COGN: Hitt _pāt_- ~ _pat_- [c.] "foot", Skt. _pā́t_, _pad_- [m.] "id.", YAv. 
 The IE word for "foot", a static root noun nom. \*pōd-s, gen. \*ped-s, \*pód-m. Germanic generalized the lengthened grade of the root. See also [\*fetan-](#fetan) and [\*futōn-](#futon). \
 REF: [EDPG]\: 152
 
-### <a id="fothra">\*fōþra- [n.] "load; vessel; fodder" (n)</a>
+### <a id="fōþra">\*fōþra- [n.] "load; vessel; fodder" (n)</a>
 W: \
 -- OE _fōðor_ "cartload; fodder" \
 -- MLG _vōder_ "cartload" \
@@ -8070,7 +8070,7 @@ N: \
 A word with a debated etymology. The connection with Lat. _praegnans_ (implying PGmc. \*fraigwa-) is implausible on many different levels (_pace_ Wiedemann 1904: 43-44), and the same is true for the alleged links with PIE \*sper- "to sow" and Lat. _parere_ "to bring forth" (Bugge 1899: 457) < \*pr(H)-ie-. Within Germanic, the attestation of ON _frjár_, _frjór_, _frær_, Icel. _frjór_ "fertile; prolific" < \*fraiwa- clearly seems to point to a stem \*frai(w)- meaning "fecund". Both in form and meaning, this element is reminiscent of _Freyr_ "fertility deity" < \*frauja-. We may therefore consider the possibility that \*fraiwa- was metathesized from \*frawja-, a collective of some kind. The word is then likely to be related to ON _frygð_ [f.] "blossoming, excellence" < \*fruwwiþō-. For a similar metathesis, cf. [\*hraiwa- "flesh"](#hraiwa) < \*krou-io-. \
 REF: [EDPG]\: 152
 
-### <a id="fraton">\*fratōn- [wk.] "to fart" (v)</a>
+### <a id="fratōn">\*fratōn- [wk.] "to fart" (v)</a>
 N: \
 -- ON _frata_ \
 -- Far. _frata_ \
@@ -8081,7 +8081,7 @@ PIE: \*pord-néh₂- \
 An o-grade iterative to the strongverb [\*fertan- ~ \*fretan-](#fertan) (q.v.). \
 REF: [EDPG]\: 153
 
-### <a id="frathjan">\*fraþjan- [st.] "to understand" (v)</a>
+### <a id="fraþjan">\*fraþjan- [st.] "to understand" (v)</a>
 E: \
 -- Go. _fraþjan_ \
 PIE: \*prót-ie- \
@@ -8113,7 +8113,7 @@ COGN: Skt. _právati_ "to jump" < \*preu-e- \
 Also cf. OHG _frawida_, _frewida_, G _Freude_ [f.] "joy" < \*frawiþō- and probably also the ablauting Du. _vreugd(e)_ [c.] "id." < \*fruwiþō- (with \*-uwi- > \*-ugi-). \
 REF: [EDPG]\: 153
 
-### <a id="fregi">\*frēgi- "renowned" (adj)</a>
+### <a id="frēgi">\*frēgi- "renowned" (adj)</a>
 N: \
 -- ON _frægr_ "famous" \
 W: \
@@ -8122,7 +8122,7 @@ W: \
 A _vr̥ddhi_-gerundive to [\*frehnan-](#frehnan) (q.v.). The original meaning was "being rumored". \
 REF: [EDPG]\: 153
 
-### <a id="frego">\*frēgō- [f.] "question" (n)</a>
+### <a id="frēgō">\*frēgō- [f.] "question" (n)</a>
 W: \
 -- Du. _vraag_ [c.] \
 -- OHG _frāga_ "question, investigation, doctrine", G _Frage_ "question" \
@@ -8159,7 +8159,7 @@ COGN: Pol. _pragnąć_ "to yearn for", Cz. _prahnouti_ "to covet" < \*prog-ne-, 
 An adjective to a European root \*preg- "to desire". Ablauting with OE _fræc_, MDu. _vrac_ "avaricious" < \*fraka- < \*prog-o-. \
 REF: [EDPG]\: 154
 
-### <a id="freknon">\*freknōn- [f.] "freckle" (n)</a>
+### <a id="freknōn">\*freknōn- [f.] "freckle" (n)</a>
 N: \
 -- Icel. _frekna_ \
 -- Far. _frøkna_ \
@@ -8186,7 +8186,7 @@ COGN: W _rhew_ [m.] "frost, rime" < \*preuso-; ?Lat _pruīna_ [f.] "frost" (< \*
 An old strong verb. The Verner alternation \*freusan-, ptc. \*fruzana- was resolved in most modern Germanic languages, cf. E _to freeze_ ~ _frozen_ vs. G _frieren_ ~ _ge-froren_, but retained in Du. _vriezen_ ~ _ge-vroren_ and Icel. _frjósa_ ~ _freðinn_ (< ON _frørinn_, _frerinn_ with dissimilation of the second r, cf. ON _frør_, _frer_, Icel. _freð_- [n.] "frost"). The original past participle \*prus-to- was preserved as [\*frusta-](#frusta) (q.v.). Further cf. Go. _frius_\* [n.(?)] "frost" < \*freusa-. \
 REF: [EDPG]\: 154
 
-### <a id="freuthan">\*freuþan- [st.] "to froth" (v)</a>
+### <a id="freuþan">\*freuþan- [st.] "to froth" (v)</a>
 W: \
 -- OE _ā-frēoðan_ \
 PIE: \*préutH-e- \
@@ -8208,7 +8208,7 @@ COGN: Skt. _priyá_- "dear" < \*priH-o- \
 Also cf. Go. _frei-hals_, ON _frjáls_, OE _frēols_ "free" < \*fri(j)a-halsa- and the nominalized OHG, OFri. _fri-hals_ [m.] "freedom". The meaning "free" arose from "related", a shift that points to a clan-based societal system. Cognate with [\*fri(j)ōn-](#frijon) (q.v.). \
 REF: [EDPG]\: 155
 
-### <a id="frijon">\*fri(j)ōn- [wk.] "to love" (v)</a>
+### <a id="frijōn">\*fri(j)ōn- [wk.] "to love" (v)</a>
 E: \
 -- Go. _frijon_ "to love, like" \
 N: \
@@ -8237,7 +8237,7 @@ W: \
 The lexicalized participle of the verb [\*fri(j)ōn-](#frijon) (q.v.). \
 REF: [EDPG]\: 155
 
-### <a id="frithu">\*friþu- [m.] "friendship, peace" (n)</a>
+### <a id="friþu">\*friþu- [m.] "friendship, peace" (n)</a>
 N: \
 -- ON _friðr_ "peace; security; friendship" \
 -- Far. _friður_ "peace; tranquility" \
@@ -8251,7 +8251,7 @@ W: \
 A tu-stem derived from \*fri(j)a- < \*priH-o-: the short Gm. \*i cannot have regularly developed from the form \*priH-tu-, so it must be assumed that the tu-stem was derived at a relatively late stage, i.e. after the merger of \*-īa- and \*-ija-, or - if Dybo's law applied, at a stage when the pretonic shortening of \*prī(y)ó- to \*pri(y)o- had already taken place. \
 REF: [EDPG]\: 156
 
-### <a id="froda">\*frōda- "wise, experienced" (adj)</a>
+### <a id="frōda">\*frōda- "wise, experienced" (adj)</a>
 E: \
 -- Go. _froþs_ \
 N: \
@@ -8265,7 +8265,7 @@ COGN: Close to Lith. _prōtas_ [m.] "sense", Latv. _pràts_ [m.] "mind; will" (w
 An o-grade adjective related to [\*fraþjan-](#frathjan) (q.v.). Also cf. Go. _frodei_, ON _frœði_, OHG _fruoti_, MHG _vruote_ [f.] "wisdom, sense". \
 REF: [EDPG]\: 156
 
-### <a id="froi">\*frōi "early" (adv)</a>
+### <a id="frōi">\*frōi "early" (adv)</a>
 W: \
 -- MLG _vrō_ \
 -- MDu. _vroech_, Du. _vroeg_ \
@@ -8318,7 +8318,7 @@ PIE: \*prus-to- \
 Derived from [\*freusan-](#freusan) (q.v.). \
 REF: [EDPG]\: 157
 
-### <a id="fuan">\*fūan- [m.] "mold" (n)</a>
+### <a id="fūan">\*fūan- [m.] "mold" (n)</a>
 N: \
 -- ON _fúi_ "rottenness" \
 -- Far. _fúgvi_ "id." \
@@ -8343,7 +8343,7 @@ PIE: \*pluk-ló- \
 Some connect Lith. _paũkštis_ "bird" < \*pouk-sti- (e.g. Magnusson 1989: 214), but the form \*fugla- is more likely to have developed from \*flug-la- (by dissimilation), and may thus have been derived from [\*fleugan- "to fly"](#fleugan) (q.v.). \
 REF: [EDPG]\: 157
 
-### <a id="fuhon">\*fuhōn- [f.] "she-fox" (n)</a>
+### <a id="fuhōn">\*fuhōn- [f.] "she-fox" (n)</a>
 E: \
 -- Go. _fauho_ \
 N: \
@@ -8369,7 +8369,7 @@ COGN: Skt _púcha_- [m.] "tail, rod" < \*puḱ-sk-o- \
 Since the semantic link between "tail" and "fox" is paralleled by Lith. _uodegà_ "tail" > _uodẽgis_ "fox", it is reasonable to compare Germanic \*fuhsa- to Skt. _púcha_-. This provides the word with an Indo-European background. Note that the Nordic word for "fox", ON _refr_, Icel. _refur_, Far. _revur_, Nw. _rev_, Sw. _räv_, Da. _ræv_ (also cf. Fi. _repo_), was borrowed from Iranian, cf. Oss. _ruvas_ / _robas_ (Skt. _lopāśá_-, Av. _raopi_-, Sogd. _ropas_). This is supported by Spa. _raposo_, _raposa_, apparently a loanword from the same Sarmatian or Alanic source (Brøndal 1928: 10). See also [\*fuhōn- "she-fox"](#fuhon). \
 REF: [EDPG]\: 157
 
-### <a id="fukkon">\*fuk(k)ōn- [wk.] "to blow" (v)</a>
+### <a id="fukkōn">\*fuk(k)ōn- [wk.] "to blow" (v)</a>
 N: \
 -- Icel. _fokka_ "to mess around, rush" \
 W: \
@@ -8381,7 +8381,7 @@ COGN: Either to Latv. _pūga_ [f.] "gust of wind" < \*pug-eh₂- or to Arm. _p'u
 The different dialects with their vacillation between \*fukkōn- and \*fukōn- point to a formation \*pug-neh₂-, which could be related to Latv. _pūga_ and Arm. _p'uk(')_. The sometimes compared Lith. _pūkšti_ (_pūkščiù_) "to cough, snarl", on the other hand, is a loanword from LG _pusten_ "to pant, snarl" (with _klusilspring_ in the sequence -_ū́s_-). See also [\*feukan- ~ \*fūkan-](#feukan). \
 REF: [EDPG]\: 158
 
-### <a id="fula">\*fūla- "filthy, foul" (adj)</a>
+### <a id="fūla">\*fūla- "filthy, foul" (adj)</a>
 E: \
 -- Go. _fuls_ "foul, putrid" \
 N: \
@@ -8412,7 +8412,7 @@ COGN: Gr. _πῶλος_ [m./f.] "foal" < \*pōlH-o-, W _ebawl_ "id." < \*h₁ek�
 Also cf. ON, Far., OSw. _fyl_, Sw. _fōl_, Nw. _føl(l)_, Da. _føl_ [n.] "id." < \*fulja- < \*plH-io-, the WGm. diminutive MDu. _volen_, _vulen_, Du. _veulen_, OHG _vuli_, _vulīn_, MHG _vüle_, _vülīn_, G _Füllen_ [n.] "foal" < \*ful-līn(a)- and the Franconian feminine MHG _vülche_, MDu. _vilke_, Du. dial. _vulke_, _vilke_ [f.] "(young) mare" < \*fulikō(n)-. In IE, the word is sometimes reconstructed with a \*u in the root, viz. \*p(ō̆)ul- (cf. Orel 2000: 14), but this seems to be precluded by W _ebawl_. I therefore reconstruct a root noun \*pṓlH-s, gen. \*plH-ós (Lubotsky 1988: 132). This formation may ultimately have been derived from a verbal root \*pelH- as in Alb. _pjell_ "to give birth" (cf. Huld 1984: 102). \
 REF: [EDPG]\: 158
 
-### <a id="fuldo">\*fuldō- [f.] "earth, ground, field, the world" (n)</a>
+### <a id="fuldō">\*fuldō- [f.] "earth, ground, field, the world" (n)</a>
 N: \
 -- ON _fold_ \
 -- Far. poet. _fold_ \
@@ -8424,7 +8424,7 @@ COGN: Cf. Skt. _pr̥thvī́_-, _pr̥thivī́_- "earth, Mother Earth", YAv. _ząm
 The Germanic and Indo-lranian forms continue a feminine form of the "flat". In Indo-European, it presumably occurred with the word for "land" in a sacral context. See also [\*felþa-](#feltha). \
 REF: [EDPG]\: 159
 
-### <a id="fulgen">\*fulgēn- [wk.] "to follow, accompany" (v)</a>
+### <a id="fulgēn">\*fulgēn- [wk.] "to follow, accompany" (v)</a>
 N: \
 -- ON _fylgja_ \
 -- Far. _fylgja_ \
@@ -8466,7 +8466,7 @@ COGN: Gr. _πέλλα_ [f.] "milk pail; drinking bowl, goblet" < \*pel-ih₂- a
 An Indo-European word for a certain vessel. Unrelated to [\*fulla-](#fulla-1). \
 REF: [EDPG]\: 159
 
-### <a id="fulmo">\*fulmō- [f.] "palm of the hand" (n)</a>
+### <a id="fulmō">\*fulmō- [f.] "palm of the hand" (n)</a>
 W: \
 -- ME _folm_ \
 -- OS _folmos_ [f.pl.] "both hands" \
@@ -8476,7 +8476,7 @@ COGN: Gr. _παλάμη_ "palm of the hand" (= Lat. _palma_) < \*plh₂-em-eh�
 An old m-stem. Within Germanic, it is possible to connect ON _falma_ [wk.] "to grope" < \*falmōjan-, a verb possibly derived from a lost mo-stem \*falmaz < \*polh₂-mo-. \
 REF: [EDPG]\: 159
 
-### <a id="fundon">\*fundōn- [wk.] "to try to find(?)" (v)</a>
+### <a id="fundōn">\*fundōn- [wk.] "to try to find(?)" (v)</a>
 W: \
 -- OE _fundian_ "to try to find, to strive, intend" \
 -- OS _fundon_ "to strive, proceed" \
@@ -8505,7 +8505,7 @@ COGN: Skt _paṅka_- [m.] "mud" < \*pe/onk-o-(?) \
 A u-stem adjective that became remodeled into a ja-stem in the continental WGm. languages. Possibly related to Skt parika- (if this word is of IE origin). The traditional comparison with [\*fanja- "bog"](#fanja) is doubtful: it would imply that both Skt. and Gm. added a k-suffix, which is rather uncertain. \
 REF: [EDPG]\: 160
 
-### <a id="funkon">\*funkōn- [wk.] "to sparkle" (v)</a>
+### <a id="funkōn">\*funkōn- [wk.] "to sparkle" (v)</a>
 W: \
 -- MDu. _vonken_ "to smolder; to sparkle" \
 -- MHG _vunken_ "to shimmer, shine, sparkle", _ent-vunken_ "to ignite" \
@@ -8536,7 +8536,7 @@ COGN: Skt. _párśāna_- [m.] "rift" < \*pe/orḱ-ono-, Lat. _porca_ [f.] "ridge
 An archaic root noun \*furh-z, dat. \*furh-i (cf. OE _fyrh_). WFri. _furg_ and Du. dial. _furg_ (in the originally Frisian territories) point to a Verner variant OFri. \*furg (cf. Weijnen 1996: 228), which is in agreement with the reconstruction of a root noun \*pórk-s, gen. \*prk-és, dat. \*prk-í. Also cf. the ablauting Nw. dial. _fere_ [m.] "ridge between two furrows" < \*ferhan-. \
 REF: [EDPG]\: 160
 
-### <a id="furhno">\*furhnō- [f.] "trout" (n)</a>
+### <a id="furhnō">\*furhnō- [f.] "trout" (n)</a>
 W: \
 -- OE _forn(e)_ \
 -- OS _forhna_, _furhnia_ \
@@ -8568,7 +8568,7 @@ W: \
 The formation \*furhtjan- unites two different formations: 1) a simple denominative verb "to fear" created to [\*furhtō-](furhto), and 2) a factitive "to frighten" derived from [\*furhta-](#furhta) (q.v.). \
 REF: [EDPG]\: 161
 
-### <a id="furhto">\*furhtō- [f.] "fright" (n)</a>
+### <a id="furhtō">\*furhtō- [f.] "fright" (n)</a>
 W: \
 -- OFri. _fruchta_ \
 -- OS _forhta_ \
@@ -8577,7 +8577,7 @@ PIE: \*prk-t-eh₂- \
 See [\*furhta-](#furhta) and [\*furhtjan-](#furhtjan). \
 REF: [EDPG]\: 161
 
-### <a id="furhwon">\*furhwōn- [f.] "fir" (n)</a>
+### <a id="furhwōn">\*furhwōn- [f.] "fir" (n)</a>
 N: \
 -- ON _fura_ \
 W: \
@@ -8601,7 +8601,7 @@ PIE: \*prh₂-i \
 COGN: Gr. _πάρ_, _παρά_, _παραί_ (adv/prep) "besides, by, from, next to, alongside", Lat. _prae_ (adv/prep) "in front of, before" < \*prh₂(-ei) \
 REF: [EDPG]\: 161
 
-### <a id="furjan">\*fūrjan- [wk.] "to castrate" (v)</a>
+### <a id="fūrjan">\*fūrjan- [wk.] "to castrate" (v)</a>
 W: \
 -- OE _(a-)fȳran_ \
 -- Du. _vuren_, _vieren_ \
@@ -8621,7 +8621,7 @@ COGN: Hitt. _papparszi_ ~ _papparsanzi_ "to sprinkle" < \*po-pars-ti, \*-enti, T
 Also cf. Icel., Far. _fossa_, Elfd. _fuossa_ [wk.] "to gush, cascade" < \*fursōjan-. \
 REF: [EDPG]\: 161
 
-### <a id="fursko">\*furskō- [f.] "inquiry" (n)</a>
+### <a id="furskō">\*furskō- [f.] "inquiry" (n)</a>
 W: \
 -- OHG _forsca_, MHG _vorsche_ \
 PIE: \*prḱ-sk-eh₂- \
@@ -8637,13 +8637,13 @@ PIE: \*prd-u- \
 A u-stem to the strong verb [\*fertan-](#fertan) (q.v.). \
 REF: [EDPG]\: 162
 
-### <a id="futon">\*futōn- [wk.] "to go" (v)</a>
+### <a id="futōn">\*futōn- [wk.] "to go" (v)</a>
 N: \
 -- Nw. _fòta_ "to step; to go" \
 The iterative to [\*fetan-](#fetan) (q.v.). \
 REF: [EDPG]\: 162
 
-### <a id="futhi">\*fuþi- [f.] "vagina" (n)</a>
+### <a id="fuþi">\*fuþi- [f.] "vagina" (n)</a>
 N: \
 -- ON _fuð_ \
 -- Icel. _fuð_ "vagina; holes in a block of wood (for fishing rods)" \
@@ -8656,7 +8656,7 @@ REF: [EDPG]\: 162
 
 ## G
 
-### <a id="gadojan">\*gadōjan- [wk.] "to fit (together)" (v)</a>
+### <a id="gadōjan">\*gadōjan- [wk.] "to fit (together)" (v)</a>
 W: \
 -- OFri. _gadia_ "to engage in" \
 -- MDu. _gaden_ "to fit, please, mate" \
@@ -8666,7 +8666,7 @@ COGN: Ru. _godít'_ (_gožú_) "to wait, loiter", SCr. _gòditi_ "to please" < \
 Probably a denominal verb derived from an adjective \*gada- < \*gʰodʰ-o-, cf. OHG _gi-gat_ "suitable". Also cf. [\*gadurōjan-](#gadurojan) and [\*gōda-](#goda). \
 REF: [EDPG]\: 162
 
-### <a id="gadurojan">\*gadurōjan- [wk.] "to gather" (v)</a>
+### <a id="gadurōjan">\*gadurōjan- [wk.] "to gather" (v)</a>
 W: \
 -- OE _gædrian_ \
 -- OFri. _gaduria_ \
@@ -8833,7 +8833,7 @@ PIE: \*ǵʰh₂en-os-on- \
 A formation derived from the root of [\*gans- "goose"](#gans) (q.v.) < PIE \*gʰh₂en-s by adding the masculine suffix \*-azan-, for which cf. [\*katazan- "tomcat"](#katazan). \
 REF: [EDPG]\: 166
 
-### <a id="ganen">\*ganēn- [wk.] "to open" (v)</a>
+### <a id="ganēn">\*ganēn- [wk.] "to open" (v)</a>
 N: \
 -- ON _gana_ "to gape; gaze, stare" \
 PIE: \*ǵʰh₂-neh₂- \
@@ -8867,7 +8867,7 @@ W: \
 The gerundive to [\*gangan- ~ \*gungan-](#gangan) (q.v.). \
 REF: [EDPG]\: 167
 
-### <a id="ganhen">\*ganhēn- [wk.] "to inspect; to take into account(?)" (v)</a>
+### <a id="ganhēn">\*ganhēn- [wk.] "to inspect; to take into account(?)" (v)</a>
 N: \
 -- ON _gá_ "to heed" \
 -- Icel. _gá_ "to inspect" \
@@ -8922,7 +8922,7 @@ W: \
 A formation derived from the root of [\*gans-](#gans) "goose" (q.v.) < PIE \*ǵʰh₂en-s- by adding the animal suffix \*-uta- (for which cf. [\*heruta- "deer"](#heruta)) or the variant \*-ita- as in MDu. _gent_. In addition, G Rhnl., Lorr. _Gunz_ [m.] "gander" points to a variant \*gunuta- with zero grade of the root. It may preserve the oblique stem of an originally ablauting paradigm \*gans, gen. \*gunzaz < \*ǵʰh₂én-s, \*ǵʰh₂n-s-ós. \
 REF: [EDPG]\: 169
 
-### <a id="gappon">\*gapp/bōn- [wk.] "to joke" (v)</a>
+### <a id="gappōn">\*gapp/bōn- [wk.] "to joke" (v)</a>
 N: \
 -- ON _gabba_ "to mock, make game of one" \
 W: \
@@ -8948,7 +8948,7 @@ COGN: Lith. _gar̃das_ [m.] "fold, pen", OCS _gradъ_ [m.] "city, town", Alb. _g
 An o-stem derived from the root \*gʰerdʰ-, for which see [\*gerdan-](#gerdan). The original Proto-Indo-European meaning "circle" has been preserved in Faroese, cf. _sláin garð um ein_ "to form a (defensive) circle around someone". Also cf. OFri. _garda_ [m.] "family property, court", OS _gardo_ [m.] "garden", OHG _garto_, G _Garten_ [m.] "id." < \*gardan-. \
 REF: [EDPG]\: 169
 
-### <a id="garno">\*garnō- [f.] "intestines" (n)</a>
+### <a id="garnō">\*garnō- [f.] "intestines" (n)</a>
 N: \
 -- ON _gǫrn_ \
 PIE: \*ǵʰór-n-eh₂- \
@@ -8956,7 +8956,7 @@ COGN: Lith. _žarnà_ [f.] "intestine", Lat. _hernia_ [f.] "hernia" < \*ǵʰer-n
 Also cf. the collective OE _micgern_, OS _mid-garni_, OHG _mitti-garni_ [n.] "paunch-fat" < \*midja-garnja- and the semantically more secondary ON _garn_, OE _gearn_, OHG _garn_, G _Garn_ "yarn" < \*garna-. Apparently, intestines were used for making strings. \
 REF: [EDPG]\: 169
 
-### <a id="garpon">\*garp/bōn- / \*gurp/bōn- [wk.] "to gobble; to belch" (v)</a>
+### <a id="garpōn">\*garp/bōn- / \*gurp/bōn- [wk.] "to gobble; to belch" (v)</a>
 N: \
 -- Far. _gorpa_ "to cough violently; to vomit" \
 -- Nw. _garpa_, _garva_, _gurpa_ "to talk loudly; belch; gormandize" \
@@ -9018,7 +9018,7 @@ PIE: \*gʰod-o- \
 The word has been compared to Skt. _hádati_ "to shit" < \*gʰéd-e- and Gr. _χέζω_ "id." < \*gʰed-ie- (cf. Lehmann 1986: 151), but the meaning "anus", which occurs in several Germanic languages, is secondary. Instead, the word is to be compared to [\*getan- "to find (a way)"](#getan) and the closely related [\*gatwōn- "road, way"](#gatwon) (q.v.). The meaning "hole" can easily have developed from "passage", cf. OE _geat_ "gate" (notwithstanding the possibility that this word was borrowed from Old Norse or Middle Low German). \
 REF: [EDPG]\: 170
 
-### <a id="gatwon">\*gatwōn- [f.] "road, alley" (n)</a>
+### <a id="gatwōn">\*gatwōn- [f.] "road, alley" (n)</a>
 E: \
 -- Go. _gatwo_ "street, main road" \
 N: \
@@ -9030,7 +9030,7 @@ PIE: \*gʰod-ueh₂- \
 Related to [\*getan- "to find (a way)"](#getan) (q.v.). Also cf. [\*gata- "hole"](#gata). The difference between EGm. \*gatwōn- and NGm. \*gatōn- can be resolved by assuming that ON _gata_ is a back-formation from the oblique case of a paradigm \*_gǫtva_, \*_gǫtu_ (Noreen 1904: §84), an analogy that is also evident in e.g. ON _tjara_ [f.] "tar" < \*terwa/ōn- (q.v.). \
 REF: [EDPG]\: 170
 
-### <a id="gathma">\*gaþma- [m.] "cabin, room" (n)</a>
+### <a id="gaþma">\*gaþma- [m.] "cabin, room" (n)</a>
 W: \
 -- MDu. _gadem_ [m./n.] \
 -- OHG _gadum_, _gadem_ [n.], MHG _gadem_, _gaden_ [n.] "cabin, barn" \
@@ -9078,7 +9078,7 @@ COGN: Skt. _gū́hati_ "to hide" (with analogical _ū_, Gotō 1987: 296-7), YAv.
 In spite of the apparent similarities, the word cannot be related to ON _gá_ [wk.] "to heed", as this verb continues \*ganhēn-, not \*gawēn-. I therefore propose a relationship with the Indo-Iranian root \*gʰ/gʷʰeuǵʰ- "to hide", assuming that this meaning developed from a more primary "to heed, guard". PGmc. \*gauma- can then be reconstructed as PIE \*gʰouǵʰ-mo- (for the loss of the root-final velar, cf. [\*drauma-](#drauma)). Note that the semantic development from "to heed" to "to hide" is also found in the derived \*gaumjan-, cf. Go. _gaumjan_ "to notice", ON _geyma_ "to watch, observe, stow, hide", OE _gīeman_ "id.", OS _gōmian_ "id.", OHG _goumen_ "id.". See also [\*gumēn-](#gumen). \
 REF: [EDPG]\: 171
 
-### <a id="gaupno">\*gaupnō- [f.] "hollow of the hand" (n)</a>
+### <a id="gaupnō">\*gaupnō- [f.] "hollow of the hand" (n)</a>
 N: \
 -- ON _gaupn_ "both hands held together" \
 W: \
@@ -9086,7 +9086,7 @@ W: \
 In view of e.g. OE _gēap_ "crooked, bent, curved" < \*gaupa-, the word must have been derived from the strong verb underlying OE _gēopan_ "to take up, swallow". It follows that any direct comparison with Lith. _žiupsnìs_ "hollow of the hand" (thus Pokorny IEW: 449) is erroneous. \
 REF: [EDPG]\: 172
 
-### <a id="gaupon">\*gaupōn- [f.] "lynx" (n)</a>
+### <a id="gaupōn">\*gaupōn- [f.] "lynx" (n)</a>
 N: \
 -- ON _gaupa_ \
 -- Far. _geypa_ \
@@ -9136,7 +9136,7 @@ COGN: Hitt. _epzi_, _appanzi_ "to take, seize" < \*h₁ép-ti, \*h₁p-énti, Sk
 The verb is usually compared to OIr. _gaibid_ "to take, hold" < \*gʰHbʰ-ie- (cf. Pokorny IEW: 407-9), but this is formally impossible because of the laryngeal. LIV²: 193 connects Lith. _gebė́ti_ (_gebù_) "to be able; to be used to" < \*gʰebʰ-eh₁-ie-, but the semantics are problematic. An alternative etymology was offered by Kortlandt 1992: 104-5, who assumed a remodeling of \*ga-ef < \*ḱo(m)-h₁ep-, thus establishing a direct connection with Lat. _coēpī_ "seized" < \*ḱo(m)-h₁eh₁p-. See also [\*gēbi-](#gebi), [\*gebō-](#gebo) and [\*gēbōn-](#gebon). \
 REF: [EDPG]\: 172
 
-### <a id="gebi">\*gēbi- "having been given" (adj)</a>
+### <a id="gēbi">\*gēbi- "having been given" (adj)</a>
 N: \
 -- ON _gæfr_ "quiet, meek" \
 -- Far. _gævur_ "doughty, excellent, honest" \
@@ -9157,7 +9157,7 @@ COGN: ToA _śpāl_ "head", Gr. _κεφαλή_ [f.] "head, the uppermost or top 
 Also cf. OHG _gibil_, G _Giebel_, MDu. _gevel_ [m.], Du. _gevel_ [c.] "gable" < \*gebila- and - with another root vowel - ON _gafl_ [m.] "gableside, point of an island" < \*gabla- < \*ǵʰobʰ(h₂)-lo-. The ablaut in the root and the suffix could point to an originally ablauting l-stem, e.g. \*ǵʰébʰ-(ō)l, gen. \*ǵʰbʰ-l-ós, acc. \*ǵʰobʰ-él-m. For another o-grade accusative, cf. [\*belkan- ~ \*balkan- ~ \*bulkan- "beam"](#belkan). \
 REF: [EDPG]\: 173
 
-### <a id="gebo">\*gebō- [f.] "gift, present" (n)</a>
+### <a id="gebō">\*gebō- [f.] "gift, present" (n)</a>
 E: \
 -- Go. _giba_ \
 N: \
@@ -9170,7 +9170,7 @@ W: \
 Derived from [\*geban-](#geban) (q.v.). \
 REF: [EDPG]\: 173
 
-### <a id="gebon">\*gēbōn- [f.] "gift; giving" (n)</a>
+### <a id="gēbōn">\*gēbōn- [f.] "gift; giving" (n)</a>
 N: \
 -- ON _gáfa_ \
 -- Far. _gáva_ \
@@ -9230,7 +9230,7 @@ COGN: Lat _helvus_ "yellow, dun", Lith. _žel̃vas_ "greenish" < \*ǵʰelh₃-uo
 Since ON _gulr_ does not show any traces of a-mutation, like e.g. _holr_ "hollow" < \*hula-, it is likely to coninue an old u-stem \*gulu-. It is further theoretically possible that both the full grade \*gelwa- and the zero grade \*gulu- continue an ablauting u-stem, viz. \*geluz, gen. \*gulwaz < \*ǵʰélh₃-u-s, \*ǵʰlh₃-u-ós (for which cf. [\*blēwa- "blue"](#blewa)). \
 REF: [EDPG]\: 174
 
-### <a id="gen">\*gēn- [suppl.] "to go" (v)</a>
+### <a id="gēn">\*gēn- [suppl.] "to go" (v)</a>
 N: \
 -- Far. poet. _gá_ [suppl.?] \
 -- Nw. _gå_ \
@@ -9273,7 +9273,7 @@ COGN: Hitt _kariya(tt)a(ri)_ "to be gracious", Skt _háryati_ "to enjoy, like", 
 A na-stem adjective apparently derived from OFri. _jeria_, OS _geron_, OHG _gerēn_, -_ōn_ [wk.] "to desire" < \*gerēn-. Also cf. Go. _gairnjan_, ON _girna_, OE _giernian_, OS _girnean_ [wk.] "to desire" < \*gernjan-. In _Schwebeablaut_ relationship to [\*grēdu-](#gredu) (q.v.). \
 REF: [EDPG]\: 175
 
-### <a id="gersto">\*gerstō- [f.] "barley" (n)</a>
+### <a id="gerstō">\*gerstō- [f.] "barley" (n)</a>
 W: \
 -- OS _gersta_ \
 -- Du. _gerst_ [c.] \
@@ -9347,7 +9347,7 @@ COGN: Skt. _juhóti_ "to pour; to sacrifice" < \*ǵʰu-ǵʰeu-, ToAB _ku_- "to p
 The verb is clearly derived from the PIE root \*ǵʰeu- "to pour" (for which see [\*gaujan-](#gaujan)), but the root-final t is without counterpart in the other IE languages. Lat _fundo_, -_ere_ "to pour" is often adduced to reconstruct a root extension \*gʰeud- (with nasal infix in Latin), but it is not entirely certain that the root-final PGmc. -t and Lat. -d are homologous. If PGmc. \*geutan- continues Pre-Gm. \*geuttan-, it must be a back-formation to the iterative [\*gut(t)ōn-](#gutton) (q.v.). \
 REF: [EDPG]\: 177
 
-### <a id="gida">\*gīda- [m.] "desire, greed" (n)</a>
+### <a id="gīda">\*gīda- [m.] "desire, greed" (n)</a>
 W: \
 -- MHG _gīt_ "greed, stinginess" \
 PIE: \*gʰeidʰ-o \
@@ -9355,7 +9355,7 @@ COGN: Lith. _geĩsti_ (_geĩdžia_) "to long for, desire" < \*gʰeidʰ-ie-, OCS 
 Also cf. OE _gītsian_ "to desire", MHG _gītsen_, G _geizen_ "to be stingy" < \*gīd-is-ōjan- and [\*gaidwa- "lack"](#gaidwa) (q.v.). \
 REF: [EDPG]\: 177
 
-### <a id="gigen">\*gīgēn- [wk.] "to desire" (v)</a>
+### <a id="gīgēn">\*gīgēn- [wk.] "to desire" (v)</a>
 E: \
 -- Go. _ga-geigan_ \
 N: \
@@ -9372,7 +9372,7 @@ PIE: \*gʰémbʰ-e- \
 No clear etymology. Nw. _gimpa_ [wk.] "to hop" < \*gimpan- is the same verb, but adopted its final -p- (< \*-pp-) from the iterative [\*gump/bōn-](#gumpon) (q.v.). \
 REF: [EDPG]\: 178
 
-### <a id="ginan">\*gīnan- [st.] "to gape, yawn" (v)</a>
+### <a id="gīnan">\*gīnan- [st.] "to gape, yawn" (v)</a>
 N: \
 -- ON _gína_ \
 W: \
@@ -9381,7 +9381,7 @@ COGN: Hitt. _kīnuzi_ ~ _kinuwanzi_ "to open (up), break open" < \*gʰh₂i-nu-,
 A strong verb based on [\*ginēn-](#ginen) (q.v.), a nasal present created to the i-present \*ǵʰh₂-ei- (Lubotsky 2011: 107-9). It in turn gave rise to the iterative OE _gānian_, OHG _geinon_ "to yawn" < \*gainōn- and possibly also to OHG _in-ginnan_ "to open up, split" < \*ginnōn- continuing quasi-PIE \*ǵʰin-neh₂- or \*ǵʰh₂-i-nu-e-, cf. Hitt. _kīnuzi_ ~ _kinwanzi_. Also cf. [\*giwēn-](#giwen) and [\*giwōjan-](#giwojan). \
 REF: [EDPG]\: 178
 
-### <a id="ginen">\*ginēn- [st.] "to stand open(?)" (v)</a>
+### <a id="ginēn">\*ginēn- [st.] "to stand open(?)" (v)</a>
 N: \
 -- Far. _gina_ [wk.] "to straddle, walk with long strides" \
 W: \
@@ -9432,14 +9432,14 @@ COGN: OIr. _gíall_ [m.] "hostage", MW _gwystyl_, _gwystl_ "pledge, surety, host
 A Germanic-Celtic isogloss of ambiguous origin. Given the potential ablaut correlation of OIr. _gíall_ with _gell_ [n.] "pledge, surety" within Celtic, it seems logical to assume that the Germanic word was borrowed from Celtic (cf. Matasovic 2008: 159). MLG _gīse_, on the other hand, would then have to be a back-formation from the forms with -l-, which is rather uncomfortable. Moreover, OIr. _gell_ can alternatively be reconstructed as \*gʰeldʰ-o-, thus becoming comparable to PGmc. [\*geldan-](#geldan) (q.v.). \
 REF: [EDPG]\: 179
 
-### <a id="giwen">\*giwēn- [wk.] "to desire, long for" (v)</a>
+### <a id="giwēn">\*giwēn- [wk.] "to desire, long for" (v)</a>
 W: \
 -- OE _giwian_, _giowian_ \
 -- OHG _ana-giwēn_ \
 A stative verb with the same root as [\*gīnan- "to gape, yawn"](#ginan) (q.v.). In view of the secondary meaning "to desire", it must be an older formation than the related stative [\*ginēn-](#ginen) (q.v.). The intervocalic \*w has a parallel in [\*giwōjan-](#giwojan). Also cf. ON _gjá_ [f.] "sensuality" < \*giwō-. \
 REF: [EDPG]\: 179
 
-### <a id="giwojan">\*giwōjan- [wk.] "to yawn" (v)</a>
+### <a id="giwōjan">\*giwōjan- [wk.] "to yawn" (v)</a>
 W: \
 -- MDu. _gewen_, Du. _geeuwen_ \
 -- OHG _gewōn_, MHG _giwen_, _gewen_ \
@@ -9472,7 +9472,7 @@ PIE: \*gʰlond-éie- \
 The intransitive meaning of the verb may indicate that this formal causative continues an originally intensive formation. See further [\*glintan-](#glintan). \
 REF: [EDPG]\: 180
 
-### <a id="glappon">\*glapp/bōn- [wk.] "to slip off" (v)</a>
+### <a id="glappōn">\*glapp/bōn- [wk.] "to slip off" (v)</a>
 N: \
 -- Icel. _af-glapa_ "to disturb, confuse", _glappa-st_ refl. "to fail" \
 -- Sw. dial. _glapa_ "to be open" \
@@ -9536,7 +9536,7 @@ W: \
 A back-formation from the iterative [\*glupp/bōn-](#gluppon). For the meaning of Sw. dial. _gljopa_ "to swallow", cf. Da. dial. _glubbe i sig_ "to devour". E obs. _globbe_, _glop_ "id." (_to gobble_ may have been dissimilated from the frequentative \*globble). Also cf. Icel. _gl(j)úpr_ "soft, porous", Nw. dial. _gl(j)up_, _glyp_ "eager" (< "open"?) < \*gleupa- ~ \*glūpa- and the causative ON _gleypa_, Nw. _gløypa_ [wk.] "to devour" < \*glaupjan-. \
 REF: [EDPG]\: 180
 
-### <a id="glidan">\*glīdan- [st.] "to glide" (v)</a>
+### <a id="glīdan">\*glīdan- [st.] "to glide" (v)</a>
 W: \
 -- OE _glīdan_, E _to glide_ \
 -- OFri. _glīda_ \
@@ -9548,7 +9548,7 @@ COGN: Perhaps to Lith. _glitùs_ "slippery" < \*gʰli-tu- \
 The link with Lith. _glitùs_ is semantically attractive, but implies that Pre-Gm. \*gʰleidʰ- is a dʰ-extension of a root \*gʰlei-. Also cf. ON _gleiðr_ "standing astride" < \*glaida- and the iterative [\*glittōn-](#glitton). \
 REF: [EDPG]\: 181
 
-### <a id="gliman">\*glīman- [st.] "to shine" (v)</a>
+### <a id="glīman">\*glīman- [st.] "to shine" (v)</a>
 N: \
 -- Nw. _glima_ \
 W: \
@@ -9564,7 +9564,7 @@ COGN: OCS _ględati_, Ru. dial. _gljádat'_, SCr. _glȅdati_ "to look at, see" <
 Also cf. OHG, MHG _glanz_ "bright", MHG _glanz_, G _Glanz_ [m.] "shine" < \*gʰlond-o-. See also [\*glantjan-](#glantjan), [\*gluntēn-](#glunten) and [\*glut(t)ōn-](#glutton). Icel. _glitta_ "to glint" may continue \*glintjan-. \
 REF: [EDPG]\: 181
 
-### <a id="glitan">\*glītan- [st.] "to shine, sparkle" (v)</a>
+### <a id="glītan">\*glītan- [st.] "to shine, sparkle" (v)</a>
 W: \
 -- OS _glītan_ \
 -- OHG _glīzan_, G _gleißen_ \
@@ -9572,7 +9572,7 @@ PIE: \*gʰléid-e- \
 No doubt a back-formation to the iterative \*glit(t)ōn-. Also cf. OE _glitenian_, OHG _glizinōn_, MHG _glitzenen_ [wk.] "to shine" < \*glitnōn-; Icel. _glitra_, OE _glitorian_, (MH)G _glitzern_ "to glitter" < \*glitrōjan-. OHG _glizemo_ [m.] "shine" < \*glit-man- gave rise to the verb underlying Go. _glitmunjan_- < \*glid-mn-ie-. The root \*gʰleid- seems to be an extension of \*gʰlei-, see [\*glīwa-](#gliwa). \
 REF: [EDPG]\: 181
 
-### <a id="glitton">\*glit(t)ōn- [wk.] "to shine, sparkle" (v)</a>
+### <a id="glittōn">\*glit(t)ōn- [wk.] "to shine, sparkle" (v)</a>
 N: \
 -- Icel. _glita_ "to gleam, flash" \
 W: \
@@ -9582,14 +9582,14 @@ PIE: \*gʰlid-néh₂- \
 The iterative to [\*glītan-](#glitan) (q.v.). Note that Icel. _glitta_ [wk.] "to glint" < \*glittjan-(?) may belong here, too. \
 REF: [EDPG]\: 181
 
-### <a id="glitton">\*glittōn- [wk.] "to glide" (v)</a>
+### <a id="glittōn">\*glittōn- [wk.] "to glide" (v)</a>
 W: \
 -- G _glitzen_ \
 PIE: \*gʰlidʰ-néh₂- \
 The iterative to the strong verb [\*glīdan-](#glidan) (q.v.). \
 REF: [EDPG]\: 181
 
-### <a id="gliwa">\*glīwa- [n.] "joy" (n)</a>
+### <a id="glīwa">\*glīwa- [n.] "joy" (n)</a>
 N: \
 -- ON _glý_ \
 W: \
@@ -9599,7 +9599,7 @@ COGN: OIr. _glé_ "bright" < \*gʰlei-uo- \
 Also cf. ON _gljá_, Far. _glíggja_, Nw. _gl(j)å_ [wk.] "to shine" < \*gliwēn- < \*gʰli-u-eh₁- and - with a different suffix - \*glīman-. \
 REF: [EDPG]\: 182
 
-### <a id="gloan">\*glōan- [st.] "to glow" (v)</a>
+### <a id="glōan">\*glōan- [st.] "to glow" (v)</a>
 W: \
 -- OE _glōwan_, E _to glow_ \
 -- OS _glōian_ [wk.] \
@@ -9610,7 +9610,7 @@ COGN: MW _glo_ [m.] "charcoal" < \*gʰloh₁-uo- \
 An o-grade intensive verb to a root \*gʰleh₁- (for the color of the laryngeal, cf. Icel. _glær_ "transparent", Nw. dial. _glæ_ "pale yellow" < \*glēja-). The verb could alternatively be linked with [\*glawwa- "sharp-sighted"](#glawwa) and [\*glūnēn- "to peer"](#glunen), but only if one accepts the Proto-Germanic development \*-ōu- > \*-ō-. Also OE _glōm_ "twilight, gloom", MDu. _gloem_ [n.] "dregs" < \*glōma- < \*gʰloh₁-mo- and the closely related MDu. _gloem_ "gloomy; turbid". See further [\*glōdi-](#glodi). \
 REF: [EDPG]\: 182
 
-### <a id="glodi">\*glōdi- [f.] "glow" (n)</a>
+### <a id="glōdi">\*glōdi- [f.] "glow" (n)</a>
 N: \
 -- ON _glóð_ "red-hot embers" \
 -- Far. _glóð_ "glow; ember" \
@@ -9624,7 +9624,7 @@ PIE: \*gʰloh₁-tí- \
 A ti-stem derivation to the root of [\*glōan-](#gloan) (q.v.). \
 REF: [EDPG]\: 182
 
-### <a id="glunen">\*glūnēn- [wk.] "to peer" (v)</a>
+### <a id="glūnēn">\*glūnēn- [wk.] "to peer" (v)</a>
 N: \
 -- Sw. dial. _gluna_ "to stare, peer" \
 PIE: \*gʰluH-n-éh₁- \
@@ -9632,7 +9632,7 @@ COGN: Latv. _glũnêt_ "to lour" \
 A Baltic-Germanic isogloss, possibly related to [\*glōan- "to glow"](#gloan) (cf. Sw. _glo_ [wk.] "to glow; to stare") and [\*glawwa-](#glawwa) (q.v.). Also cf. Nw. _glyma_ [wk.] "to lour" < \*glūmjan- and MLG _glūmen_ "id.", MDu. _glumende_ ptc. "vicious (of dogs)" < \*glūmen-. \
 REF: [EDPG]\: 182
 
-### <a id="glunten">\*gluntēn- [wk.] "to peer" (v)</a>
+### <a id="gluntēn">\*gluntēn- [wk.] "to peer" (v)</a>
 N: \
 -- ON _glotta_ "to sneer, grin, smirk" \
 -- Far. _glotta_ "to clear up, (of the sun) to peep through the clouds" \
@@ -9641,7 +9641,7 @@ PIE: \*gʰlnd-eh₁- \
 The stative belonging to [\*glintan-](#glintan) (q.v.). \
 REF: [EDPG]\: 182
 
-### <a id="gluppon">\*glupp/bōn- [wk.] "to gape" (v)</a>
+### <a id="gluppōn">\*glupp/bōn- [wk.] "to gape" (v)</a>
 N: \
 -- Icel. _glopa_ "to drop" \
 -- Far. _gloppa_ "to stand a little open; put ajar" \
@@ -9652,7 +9652,7 @@ COGN: Lith. _glèbti_ (_glembù_) "to become smooth" < \*gʰlé-m-bʰ-e- \
 An old iterative formation 3sg. \*glu(m)pōþi, 3pl. \*glu(m)bunanþi < \*gʰl(m)bʰ-néh₂-ti, \*gʰl(m)bʰ-nh₂-énti. It is difficult to determine whether or not the Nordic verbs originally contained a nasal in the root because of the change -_mp_- > -_pp_- in West Nordic. The situation is further complicated by the fact that we seem to be dealing with an infix in view of the Lithuanian verb, for which cf. the a-grade iterative represented by [\*glapp/bōn- "to slip off"](#glappon) and the strong verb [\*gleppan- "to slip"](#gleppan) (< "to slip through a hole"?). The alternation of Far. _gloppa_ and Nw. _glopa_ "to be open", however, does seem to presuppose a non-nasal formation \*glup(p)ōn-. Perhaps both nasalized and non-nasalized roots occurred side by side in Germanic. \
 REF: [EDPG]\: 182
 
-### <a id="glutton">\*glut(t)ōn- [wk.] "to peer" (v)</a>
+### <a id="gluttōn">\*glut(t)ōn- [wk.] "to peer" (v)</a>
 W: \
 -- E _to gloat_ \
 -- MHG _glotzen_, _glutzen_ "to watch with widespread eyes, stare" \
@@ -9682,7 +9682,7 @@ W: \
 A sound symbolic formation to the verb continued by e.g. ME _gnāsten_ "to gnash the teeth" < \*gnaistōn-, cf. G _knistern_, _gnistern_ "to crackle". Hardly to OPru. _knaistis_ "fire". \
 REF: [EDPG]\: 183
 
-### <a id="gnidan">\*gnīdan- [st.] "to rub" (v)</a>
+### <a id="gnīdan">\*gnīdan- [st.] "to rub" (v)</a>
 W: \
 -- OE _gnīdan_ \
 -- MLG _gnīden_ \
@@ -9698,7 +9698,7 @@ COGN: Ru. _grust'_ [f.] "sorrow" < \*gʰrous-ti- (whence OCS _sъ-grustiti sę_ 
 An apparently denominal verb probably to OE _grorn_, _gnorn_ [m.] "grief" or perhaps to the adj. _gnorn_ "sad" < \*gruzna- < \*gʰrus-nó-. After the rhotacism of \*z, the initial cluster became prone to dissimilation of the \*r, thus resulting in both OS _gnornon_ and _gornon_. Despite the somewhat different meanings, the verb can probably be reconciled with OE _greosan_ [st.] "to frighten" < \*greusan- < \*gʰreus-e- and OE _gryre_, OS _gruri_ [m.] "fright" < \*gruzi- < \*gʰrus-í-. The alternative is to connect OE _gnyran_ [wk.] "to creak" < \*gnurjan-, thus starting from a primary meaning "to groan". \
 REF: [EDPG]\: 184
 
-### <a id="goda">\*gōda- "suitable, good" (adj)</a>
+### <a id="gōda">\*gōda- "suitable, good" (adj)</a>
 E: \
 -- Go. _goþs_ \
 N: \
@@ -9714,7 +9714,7 @@ W: \
 An o-grade adjective derived from the lost strong verb \*gadan- "to fit", for which cf. [\*gadōjan-](#gadojan). \
 REF: [EDPG]\: 184
 
-### <a id="goin">\*gōīn- [f.] "late winter" (n)</a>
+### <a id="gōīn">\*gōīn- [f.] "late winter" (n)</a>
 N: \
 -- ON _gói_, _gœ_ \
 -- Icel. _góa_ \
@@ -9726,7 +9726,7 @@ In spite of some formal difficulties, the word must be related to the PIE word f
 The PGmc. root \*gō- is most likely to have developed from \*ǵʰi-ōm, a secondary nominative that generalized the radical zero grade of the PIE paradigm nom. \*ǵʰéi-ōm, gen. \*ǵʰi-m-ós. The loss of \*y after a word-initial velar is paralleled by e.g. [\*kewwan- "to chew"](#kewwan) (q.v.) < PIE \*ǵiéuH-e-. The genitive stem \*ǵʰi-m- can still be retrieved from OLFra. Sal. _in-gimus_ "one-year old animal" < \*aina-gima- and _tui-gimus_ "two-year old animal" (cf. Lat. _bīmus_ "id.") < \*Hoino-, \*dui-ǵʰi-m-o-. \
 REF: [EDPG]\: 184
 
-### <a id="goja">\*gōja/ō- [n./f.] "peritendinitis crepitans" (n)</a>
+### <a id="gōja">\*gōja/ō- [n./f.] "peritendinitis crepitans" (n)</a>
 N: \
 -- Far. _gø_ [n.] "synovitis (esp. of the wrist)" \
 -- Nw. _gjø_ [f.] "pain in the wrist due to strain" \
@@ -9735,7 +9735,7 @@ COGN: Gr. _χωλός_ "lame, paralyzed (especially of a foot)" < \*ǵʰoH-lo- 
 A West Norse word probably continuing ON \*gœ < \*gōja/ō- (not \*_gjǫ́_ in view of Far. _gø_). Nw. dial. _gøyr_, _gjøgr_, _geir_ [m.], _gøyre_ [f.] with the same meanings are difficult to account for, but may have evolved from ON \*gœr < \*gōiz. The word has no etymology so far, but can probably be connected with Gr. _χωλός_. Also cf. Shetl. (Unst) _jøger_ "painful and swollen wrist; condition of the feet of cattle". \
 REF: [EDPG]\: 185
 
-### <a id="goljan">\*gōljan- [wk.] "to call(?)" (v)</a>
+### <a id="gōljan">\*gōljan- [wk.] "to call(?)" (v)</a>
 E: \
 -- Go. _goljan_ "to greet" \
 N: \
@@ -9745,7 +9745,7 @@ W: \
 The verb is a formal causative, but the semantics could point to an original intensive formation. \
 REF: [EDPG]\: 185
 
-### <a id="goman">\*gōman- ~ \*gauman- [m.] "gum, palate" (n)</a>
+### <a id="gōman">\*gōman- ~ \*gauman- [m.] "gum, palate" (n)</a>
 N: \
 -- ON _gómi_, _gómr_ \
 -- Far. _gómi_ \
@@ -9788,7 +9788,7 @@ COGN: OCS _greti_ "to dig, scrape", Ru. _grestí_ (_grebú_) "to row, rake", SCr
 On top of the aforementioned cognates, Hitt. _karāpi_, _karipanzi_ "to devour" has been adduced as well (Kloekhorst 2008: 442-4), but this verb rather belongs to the iterative doublet [\*garp/bōn- / \*gurpōn-](#garpon) (q.v.). The iteratives belonging to \*graban- are [\*grapp/bōn-](#grappon) and [\*grupp/bōn-](#gruppon). Also cf. [\*graba-](#graba), Go. _graba_ [f.] "trench, ditch", ON _grǫf_ [f.] "pit, ditch; grave" < \*grabō- and - with ablaut - \*grōbō-. \
 REF: [EDPG]\: 185
 
-### <a id="graipon">\*graipōn- [wk.] "to grope" (v)</a>
+### <a id="graipōn">\*graipōn- [wk.] "to grope" (v)</a>
 N: \
 -- ON _greipa_ "to grasp" \
 W: \
@@ -9822,7 +9822,7 @@ COGN: Ru. _gran'_ [f.] "side, face; border, verge" < \*gʰroH-n-i-, Cz. _hrana_ 
 Probably related to [\*granō- "hair of the beard"](#grano). The Nordic meaning "thin" must have developed out of older "sharp" in view of the Icelandic meaning "accurate". Also cf. the Faroese phrase _ta stóð so grant_ "it stood so near the edge", in which the meaning of _grannur_ is particularly close to Cz. _hrana_ "edge". Slightly less attractive is the connection to OIr. _grind_, _grinn_ "sharp" < \*gʰrendʰ-i-; PGmc. \*granna- would then have to be reconstructed as \*gʰrondʰ-no-. \
 REF: [EDPG]\: 186
 
-### <a id="grano">\*granō- [f.] "hair of the beard" (n)</a>
+### <a id="granō">\*granō- [f.] "hair of the beard" (n)</a>
 N: \
 -- ON _grǫn_ "hair on the upper lip; moustache" \
 -- Far. _gron_ "nose of cattle, snout; perineum", pl. "nostrils, nose" \
@@ -9835,7 +9835,7 @@ COGN: Ru. _gránka_ [f.] "tuft", SCr. _grána_ [f.] "branch" < \*gʰroH-neh₂- 
 Together with the Slavic forms, PGmc. \*granō- can with Dybo's law (pretonic shortening before resonants) readily be reconstructed as PIE \*gʰroH-neh₂-. There are some semantically close lookalikes in Celtic, however, cf. OIr. _grend_ [f.?] "beard, hair, bristles" < \*gʰrend/dʰ-eh₂- and MW _grann_ [m.] "chin, beard, cheek", MBret. _grann_ "eyebrow" < \*gʰrand/dʰ-o-, but these formations pose serious formal problems: both the intra-Celtic interchange of \*a and \*e as well as the dental suffix remain unexplained. Also cf. [\*granna- "sharp"](#granna). \
 REF: [EDPG]\: 186
 
-### <a id="grappon">\*grapp/bōn- [wk.] "to grapple" (v)</a>
+### <a id="grappōn">\*grapp/bōn- [wk.] "to grapple" (v)</a>
 W: \
 -- E _to grab_ \
 -- MLG _grabben_ "to snatch" \
@@ -9882,7 +9882,7 @@ COGN: Hitt. _kariya(tt)a(ri)_ "to be gracious", Skt. _háryati_ "to enjoy, like"
 A tu-stem to the root \*gʰreh₁-, whence Go. _gredags_ "hungry", ON _gráðugr_, OE _grǣdig_, OS _grādag_, OHG _grātag_ "greedy" < \*grēduga-, \*-aga-. See also [\*gerna-](#gerna). \
 REF: [EDPG]\: 187
 
-### <a id="gretan">\*grētan- [st.] "to wail" (v)</a>
+### <a id="grētan">\*grētan- [st.] "to wail" (v)</a>
 E: \
 -- Go. _gretan_ "to cry" \
 N: \
@@ -9933,7 +9933,7 @@ COGN: Lith. _grū́sti_ (_grū́džiu_, _grū́du_) "to thrust, pestle, stamp" <
 A strong verb with many different derivations, e.g. ON _grjót_ [n.] "rubble", OS _griot_, OE _grēot_, OHG _grioz_ [n.] "sand, gravel, grit" < \*greuta-; ON _grautr_ [m.] "porridge" < \*grauta- and [\*grutja(n)- "groats"](#grutjan). The formations \*grūti-, cf. OE _grūt_ "coarse meal, grout", MDu. _grute_ [f.], Du. _gruit_ "herb mixture used for bittering and flavoring beer", MHG _grūz_, G _Graus_ [m.] "grain (of sand or wheat") < \*grūti-, could point to the existence of a secondary strong verb variant \*grūtan-. See also [\*gruttōn-](#grutton). \
 REF: [EDPG]\: 189
 
-### <a id="grewa">\*grēwa- "grey" (adj)</a>
+### <a id="grēwa">\*grēwa- "grey" (adj)</a>
 N: \
 -- ON _grár_ \
 W: \
@@ -9956,7 +9956,7 @@ COGN: Lith. _grìdyti_ "to go, wander" < \*gʰridʰ-eie-, OCS _gręsti_, Ru. _gr
 An i-stem derived from the strong verb [\*grīdan-](#gridan), cf. MHG _grīten_ [st.] "to spread the legs wide" < \*gʰréidʰ-e-. \
 REF: [EDPG]\: 189
 
-### <a id="griman">\*grīma/ōn- [m./f.] "make-up" (n)</a>
+### <a id="grīman">\*grīma/ōn- [m./f.] "make-up" (n)</a>
 N: \
 -- ON _gríma_ [f.] "mask, cowl; beak" \
 W: \
@@ -9977,7 +9977,7 @@ COGN: Av. _gram_- "to become angry" < \*gʰrem- \
 A nasal present to PIE \*gʰrem-, no doubt an old sound symbolic root. See also [\*gramjan-](#gramjan). \
 REF: [EDPG]\: 190
 
-### <a id="grinan">\*grīnan- [st.] "to flash, snarl" (v)</a>
+### <a id="grīnan">\*grīnan- [st.] "to flash, snarl" (v)</a>
 N: \
 -- ON _grína_ "to grimace, grin" \
 -- Far. _grína_ "to grin, laugh" \
@@ -10010,7 +10010,7 @@ COGN: Lith. dial. _grindà_ [f.] "flooring of a bridge", Latv. _grìda_ [f.] "fl
 Also cf. OE _grindel_ [m.] "bar, bolt, lattice frame", OHG _grintil_ [m.] "bolt, bar, plank" < \*grindila-. \
 REF: [EDPG]\: 190
 
-### <a id="gripan">\*grīpan- [st.] "to grasp, seize" (v)</a>
+### <a id="grīpan">\*grīpan- [st.] "to grasp, seize" (v)</a>
 E: \
 -- Go. _greipan_ \
 N: \
@@ -10024,7 +10024,7 @@ W: \
 Since the root-final \*p of this verb in view of G Als. _grippen_ < \*gribbōn must have developed from Pre-Gm. \*-pp-, the strong verb is likely to be a back-formation to the iterative [\*gripp/bōn-](#grippon) (q.v.). Also cf. Nw. dial. _gripe_, OE _gripa_ [m.] "handful" < \*gripan-; ON _gripr_ [m.] "valuable", OE _gripe_ [m.] "grip, grasp", MDu. _grepe_, Du. _greep_ "id.", MHG _grif_, G _Griff_ [m.] "id." < \*gripi- and OE _grīpa_, Far. _grípur_ [m.] "vulture" < \*grīpa(n)-. \
 REF: [EDPG]\: 190
 
-### <a id="grippon">\*gripp/bōn- [wk.] "to grasp" (v)</a>
+### <a id="grippōn">\*gripp/bōn- [wk.] "to grasp" (v)</a>
 N: \
 -- ON _gripla_ "to grope" \
 W: \
@@ -10035,7 +10035,7 @@ COGN: Lith. _griẽbti_ (_griebiù_) "to seize" < \*gʰreibʰ-ie-, Lith. _graib�
 The material points to an iterative paradigm 3sg. \*grippōþi, 3pl. \*gribunanþi < \*gʰribʰ-néh₂-. This verb probably gave rise to the strong verb \*grīpan- in view of the (shortened) geminate of the latter. Also cf. the closely related o-grade iterative \*graipōn-. \
 REF: [EDPG]\: 191
 
-### <a id="grisa">\*grīsa- "grey" (adj)</a>
+### <a id="grīsa">\*grīsa- "grey" (adj)</a>
 W: \
 -- OE _grīs_ \
 -- OS _grīs_ \
@@ -10044,7 +10044,7 @@ W: \
 The anlaut \*gr- has spawned the idea that the adjective is related to \*grēwa- with the same meaning, but this is formally difficult The only way to reconcile the two formations is to assume that \*grīsa- was derived from an i-present to the root \*ǵʰreh₁-, i.e. \*ǵʰreh₁-i-. After the addition of an s-suffix, the resulting form \*gʰrēis- would then have developed into \*grīs- by Osthoffs law. This scenario remains highly speculative, however. Also note that the connection with ON _gríss_, Far. _grísur_, Elfd. _grais_ [m.] "pig" (cf. Pokorny IEW: 441-2) is erroneous: this word was derived from the strong verb \*grīsan- underlying Far. _grísa_ [wk.] "to be straying (of cattle)", Nw. dial. _grisa_ [st.] "to have holes". \
 REF: [EDPG]\: 191
 
-### <a id="groan">\*grōan- [st.] "to grow" (v)</a>
+### <a id="grōan">\*grōan- [st.] "to grow" (v)</a>
 N: \
 -- ON _gróa_ \
 W: \
@@ -10058,7 +10058,7 @@ COGN: Hitt. _kariyant_- "grass" < \*gʰrh₁-i-ent- (Puhvel 1984-: 4, 80), Lat _
 An o-grade strong verb to the root \*gʰreh₁-, cf. OE _grǣd_ [m.] "grass" < \*grēda- < \*gʰreh₁-tó-. The verb did not have a suffix \*-ie-: both the \*j of OHG -_en_, OFri -_ia_, MDu. -_yen_-, -_ien_ and the \*w of OE -_wan_, OFri. -_wa_ are secondary hiatus fillers. See also [\*grōni- "green"](#groni) and [\*grōþi- "growing"](#grothi). \
 REF: [EDPG]\: 191
 
-### <a id="grobo">\*grōbō- [f.] "cavity, pit" (n)</a>
+### <a id="grōbō">\*grōbō- [f.] "cavity, pit" (n)</a>
 E: \
 -- Go. _groba_ "dugout, hole, cave" \
 N: \
@@ -10070,7 +10070,7 @@ W: \
 An ō-stem derived from [\*graban-](#graban) (q.v.). \
 REF: [EDPG]\: 191
 
-### <a id="groni">\*grōni- "green" (adj)</a>
+### <a id="grōni">\*grōni- "green" (adj)</a>
 N: \
 -- ON _grœnn_ \
 -- Far. _grønur_ \
@@ -10085,7 +10085,7 @@ PIE: \*gʰroh₁-ni- \
 An adjective related to [\*grōan- "to grow"](#groan) (q.v.). \
 REF: [EDPG]\: 191
 
-### <a id="grotjan">\*grōtjan- [wk.] "to make shout, greet" (v)</a>
+### <a id="grōtjan">\*grōtjan- [wk.] "to make shout, greet" (v)</a>
 N: \
 -- ON _grœta_ "to make cry" \
 W: \
@@ -10097,7 +10097,7 @@ PIE: \*gʰroh₁d-eie- \
 The causative to [\*grētan-](#gretan) (q.v.). \
 REF: [EDPG]\: 192
 
-### <a id="grothi">\*grōþi- [f.] "growing, growth, young vegetation" (n)</a>
+### <a id="grōþi">\*grōþi- [f.] "growing, growth, young vegetation" (n)</a>
 N: \
 -- ON _gróðr_ [m.] "growth, crop" \
 -- Far. _gróður_ [m.] "vegetation" \
@@ -10118,7 +10118,7 @@ COGN: Lith. _grubùs_ "uneven, rough" < \*gʰrubʰ-u-, OCS _grǫbъ_, Ru. _grúb
 An adjective derived from the root \*greub- "to grind", which also occurs in the strong verb [\*greupan-](#greupan) (q.v.). \
 REF: [EDPG]\: 192
 
-### <a id="grumthu">\*grumþu- ~ \*grundu- [m.] "floor" (n)</a>
+### <a id="grumþu">\*grumþu- ~ \*grundu- [m.] "floor" (n)</a>
 E: \
 -- Go. _grundu-waddjus_ "ground-wall" \
 N: \
@@ -10135,7 +10135,7 @@ PIE: \*gʰrm-tu- \
 Usually reconstructed as a tu-stem to a root \*gʰren- (cf. Orel 2003: 144). Cimb. _grumf_, however, points to a form \*grumþu- with an epenthetic f between the m and the þ (for which cf. [\*kwumþi-](#kwumthi) and [\*samþu-](#samthu)). Related to Skt _harmyá_- "permanent building" < \*gʰer-m-io-? Also cf. ON _grandi_ [m.] "isthmus" < \*granda-. \
 REF: [EDPG]\: 192
 
-### <a id="gruppon">\*grupp/bōn- [wk.] "to dig" (v)</a>
+### <a id="gruppōn">\*grupp/bōn- [wk.] "to dig" (v)</a>
 N: \
 -- Nw. _gropa_ "to dig up; hollow out, groove" \
 W: \
@@ -10155,7 +10155,7 @@ W: \
 A collective formation with the same ja(n)-suffix that is found in other terms for cereals, cf. [\*hersja(n)- "millet"](#hersjan) and [\*hwaitja- "wheat"](#hwaitja) (q.v.). Also cf. the feminine OE _grytt_, E _grits_, MLG _grutte_, MDu. _gorte_, Du. _gort_, G _Grütze_ "groat" < \*grutjō-. \
 REF: [EDPG]\: 193
 
-### <a id="grutton">\*gruttōn- [wk.] "to cut into pieces" (v)</a>
+### <a id="gruttōn">\*gruttōn- [wk.] "to cut into pieces" (v)</a>
 W: \
 -- G Pal. _grotzen_, _grutzen_ "to cut into uneven pieces" \
 PIE: \*gʰrud-néh₂- \
@@ -10172,7 +10172,7 @@ COGN: W _gro_ "pebbles, coarse gravel", OCorn. _grow_ "sand", Co. _grow_ "sand",
 Also cf. Icel. _gregg_, _grogg_ [n.] "sediment, filth" < ON \*_grøgg_ < \*grawwja- (Magnusson 1985), presumably a collective ja-formation to a root \*grawwa- < \*gʰrouH-ó- (with _Verschärfung_). Also cf. Far. _grugga_, Nw. _grugga_ [wk.] "to make muddy, turbid" < \*gruwwōjan- and the more distantly related [\*greuna- "gravel"](#greuna). \
 REF: [EDPG]\: 193
 
-### <a id="gubbon">\*gub(b)ōn- [wk.] "to steam" (v)</a>
+### <a id="gubbōn">\*gub(b)ōn- [wk.] "to steam" (v)</a>
 N: \
 -- Icel. _gubba_ "to vomit" \
 -- Far. _guva_ "to smoke, steam" \
@@ -10181,7 +10181,7 @@ PIE: \*gʰubʰ-neh₂- \
 The iterative to [\*geuban- ~ \*gūban-](#geuban) (q.v.). The attested forms continue 3sg. \*guppōþi, 3pl. \*gubunanþi < \*gʰubʰ-neh₂-. \
 REF: [EDPG]\: 193
 
-### <a id="guben">\*gubēn- [wk.] "to stoop" (v)</a>
+### <a id="gubēn">\*gubēn- [wk.] "to stoop" (v)</a>
 N: \
 -- Nw. _guve_ "to cower" \
 -- Gutn. _gäua sig_ "to stoop" \
@@ -10216,7 +10216,7 @@ COGN: OCS _žlěbъ_ "groove; crib", Ru. _žólob_ "chute, gutter, trunk", SCr. 
 Of the aforementioned Slavic words, the link with Ru. _globá_ "beam" is especially attractive. The other cognates are semantically closer to Gr. _γλάφω_ "to hollow out" < \*glbʰ-e-, but in spite of the divergent semantics, this verb could be related to PGmc. \*gulba- as well. \
 REF: [EDPG]\: 194
 
-### <a id="guljon">\*guljōn- [f.] "puddle?" (n)</a>
+### <a id="guljōn">\*guljōn- [f.] "puddle?" (n)</a>
 N: \
 -- Sw. dial. _gōlja_ "puddle, hole in the ice" \
 W: \
@@ -10226,14 +10226,14 @@ W: \
 Also cf. OSw. _gøl_ [f.] "abyss; throat", Sw. _gōl_ "abyss; lake" < \*guljō- (cf. Fi. _kulju_ "abyss, deep water"). Both formations were derived from a PGmc. root \*geul-, cf. ON -_gjól_ top. "marshy area", MHG _giel_ [m.] "throat" < \*geula-. There is no need to explain the Dutch forms as loanwords from French _gueule_ "throat", cf. Franck 1949: 192. No certain extra-Germanic etymology: cognate with Hitt. _gulliya_- "hole" (cf. Melchert 1983)? \
 REF: [EDPG]\: 194
 
-### <a id="gullon">\*gullōn- [wk.] "to shout, sing" (v)</a>
+### <a id="gullōn">\*gullōn- [wk.] "to shout, sing" (v)</a>
 N: \
 -- Nw. _golla_ "to sound; boast" \
 PIE: \*gʰl-néh₂- \
 The iterative to [\*galan-](#galan) and [\*gellan-](#gellan). The latter verb is given its geminate likely to have been back-formed to this iterative. \
 REF: [EDPG]\: 194
 
-### <a id="gultha">\*gulþa- ~ \*gulda- [n.] "gold" (n)</a>
+### <a id="gulþa">\*gulþa- ~ \*gulda- [n.] "gold" (n)</a>
 E: \
 -- Go. _gulþ_ \
 N: \
@@ -10271,7 +10271,7 @@ W: \
 An etymologically obscure word. The Nordic form was borrowed into Sámi as _gumba_, _gumpa_. \
 REF: [EDPG]\: 195
 
-### <a id="gumen">\*gumēn- [wk.] "to pay attention" (v)</a>
+### <a id="gumēn">\*gumēn- [wk.] "to pay attention" (v)</a>
 N: \
 -- Icel. _guma_ \
 W: \
@@ -10280,7 +10280,7 @@ W: \
 A secondary stative created to an unattested adjective \*gauma- "attentive" < \*gʰouǵʰ-mo-, for which cf. [\*gauma- "heed, attention"](#gauma); the stative required the zero-grade of the root, which apparently was introduced secondarily, since primary \*gʰuǵʰ-m- would probably not result in PGmc. \*gum-. \
 REF: [EDPG]\: 195
 
-### <a id="gumpon">\*gump/bōn- [wk.] "to hop" (v)</a>
+### <a id="gumpōn">\*gump/bōn- [wk.] "to hop" (v)</a>
 N: \
 -- ON _goppa_ "to jump" \
 -- Sw. _gumpa_ "to jolt" \
@@ -10302,7 +10302,7 @@ W: \
 No extra-Germanic etymology. Unrelated to Gr. _κανθύλος_ "abscess, tumor" (Holthausen 1887: 282) and Av. _guṇda_- "small round bread" (Trautmann 1906: 268). \
 REF: [EDPG]\: 195
 
-### <a id="gunthi">\*gunþī- ~ \*gunþjō- [f.] "fight" (n)</a>
+### <a id="gunþī">\*gunþī- ~ \*gunþjō- [f.] "fight" (n)</a>
 N: \
 -- ON _gunnr_, _guðr_ \
 W: \
@@ -10324,7 +10324,7 @@ PIE: \*gʰrdʰ-ié- \
 A ie-present related to the strong verb [\*gerdan-](#gerdan) (q.v.). \
 REF: [EDPG]\: 196
 
-### <a id="gutton">\*gut(t)ōn- [wk.] "to pour; to spawn" (v)</a>
+### <a id="guttōn">\*gut(t)ōn- [wk.] "to pour; to spawn" (v)</a>
 N: \
 -- ON _gota_ "to spawn" \
 -- Nw. _gota_, dial. _gåtta_ "id." \
@@ -10336,7 +10336,7 @@ REF: [EDPG]\: 196
 
 ## H
 
-### <a id="habano">\*habanō- [f.] "harbor" (n)</a>
+### <a id="habanō">\*habanō- [f.] "harbor" (n)</a>
 N: \
 -- ON _hǫfn_ \
 W: \
@@ -10349,7 +10349,7 @@ COGN: OIr. _cúan_ [m.] "port, harbor" < \*kap-ono- \
 A Germanic-Celtic isogloss representing \*kap-óno/eh₂- or \*kop-óno/eh₂- (\*kVp-nó/eh₂- would have resulted in \*\*happō- under Kluge's law). The standard etymology of the word connects it to ON _haf_, OE _hæf_, OFri. _hef_, MLG _haf_, MHG _hap_ [n.] "sea, lake" < \*haba- < \*kh₂p-ó- and [\*hafjan- ~ \*habjan- "to lift"](#hafjan) < \*kh́₂p-ie-, which implies an original PIE form \*kh₂p-óno/eh₂-. The limitation to Gm. and Celtic, however, makes it likely that the word spread from one branch to another at a relatively late stage. Also cf. OHG _havan_, MHG _haven_, OS _haƀan_- [m.] "vessel, pot" < \*hafna- (< \*kh́₂p-no-?). \
 REF: [EDPG]\: 196
 
-### <a id="haben">\*habēn- [wk.] "to have" (v)</a>
+### <a id="habēn">\*habēn- [wk.] "to have" (v)</a>
 E: \
 -- Go. _haban_ \
 N: \
@@ -10467,7 +10467,7 @@ COGN: OIr. _corca_, _coirce_ [m.] "oats", W _ceirch_ [m.] "id.", Bret _kerc'h_ "
 In a number of Scandinavian dialects, the continuants of ON \*hagri have become synonymous with ON _hafri_ "oats" (< [\*habran-](#habran), q.v.). Since this meaning is also attested for the cognate OIr. _coirce_, it can be old. In view of Da. _hejre_ "bromus", however, the original meaning may have been broader. Brome grass is closely related to the wheat-grass lineage, and is known to infest grain fields. Formally, the alternation of Pre-Gm. \*kokró- vs. Pre-Celt. \*kork-io- can be explained by assuming metathesis, but the potentially related Nw. dial. _hagr_, _harg_ [m.] "coarse hair from a horse's manes or tail" < ON \*hargr < PGmc. \*harga- and OIr. _corc_ "hair" < \*kork-o- can alternatively be derived from an original form \*korkró- that in Pre-Germanic was dissimilated into \*kokró-. \
 REF: [EDPG]\: 199
 
-### <a id="hahsjo">\*hahsjō- [f.] "ham, back of the knee" (n)</a>
+### <a id="hahsjō">\*hahsjō- [f.] "ham, back of the knee" (n)</a>
 W: \
 -- Du. _haas_ [c.] "tenderloin" \
 -- OHG _hahsa_ "back of the knee", MHG _hahsa_, _hehse_ "id.", G _Hächse_ "id." \
@@ -10555,7 +10555,7 @@ COGN: Cf. Gr. _κοιμάω_ "to put to sleep, lull", derived from an unatteste
 A mo-stem to the PIE root \*ḱei- "to lie", cf. Hitt. _kitta(ri)_ ~ _kianta_ "to lie, be laid, be in place, be set", Skt. _śáye_ "to lie", Gr. _κεῖμαι_ "id.", for which cf. OIr. _cóim_, _cáem_, W _cu_ "dear" < \*koi-mo- (with the shift "belonging to the same home" > "intimite", Matasovic 2009: 279). Related to [\*hīwōn-](#hiwon). \
 REF: [EDPG]\: 201
 
-### <a id="haino">\*hainō- [f.] "whetstone" (n)</a>
+### <a id="hainō">\*hainō- [f.] "whetstone" (n)</a>
 N: \
 -- ON _hein_ \
 W: \
@@ -10623,7 +10623,7 @@ COGN: Sogd. _sēδ_- "to call", Oss. _sidyn_ / _sedun_ "id." < \*ḱeid-e-(?) \
 A strong verb without extra-Gm. cognates save - perhaps - the ones found in Iranian. The original meaning of the word was "to call", which - as in English - developed into "to make a decision". The meaning "to be called" developed in medio-passive usage, cf. ON _ek heiti_ "my name is" < \*haitai < \*ḱoid-h₂ei. \
 REF: [EDPG]\: 202
 
-### <a id="haithi">\*haiþi- [f.] "heath, heather" (n)</a>
+### <a id="haiþi">\*haiþi- [f.] "heath, heather" (n)</a>
 E: \
 -- Go. _haiþi_ "open field" \
 N: \
@@ -10709,7 +10709,7 @@ PIE: \*kolp-ó-(?) \
 No clear etymology. The links with Skt. _kálpate_ "to fit, to be partaken by" and with Lith. _kálpa_ [f.] "crossbeam" are semantically uncompelling. \
 REF: [EDPG]\: 204
 
-### <a id="haleth">\*haleþ- ~ \*haluþ- [m.] "man, hero" (n)</a>
+### <a id="haleþ">\*haleþ- ~ \*haluþ- [m.] "man, hero" (n)</a>
 N: \
 -- ON _hǫldr_ "yeoman", poet _halr_ "man" \
 W: \
@@ -10722,7 +10722,7 @@ COGN: ToB _kālśke_, _kālyske_ "youth, young brahmin" < \*kHl-sko-? \
 The original inflection of the word is not entirely evident ON _hali_, which has gone over to the n-stems, is assumed to point to a hysterokinetic nominative \*halēþ < \*kHl-ḗt of an archaic t-stem (with loss of the final \*þ). In addition there is the variant \*haluþ-, which could point to an "ablauting" suffix \*-ut-, potentially a secondary zero-grade, but it might also have developed from \*-eþ-u- by Van Helten's law (e.g. in the datpl. \*-eþ-umiz and the acc.pl. \*-eþ-uns). Etymologically, the connection with To. _kālśke_ is possible, but the word further appears to be conspicuously close to OIr. _caur_, gen. _curad_ [m.] "warrior, hero" < \*karut-. The correspondence of \*kale/ut- with \*karut- would then point to a non-IE origin. \
 REF: [EDPG]\: 204
 
-### <a id="haljo">\*haljō- [f.] "hell" (n)</a>
+### <a id="haljō">\*haljō- [f.] "hell" (n)</a>
 E: \
 -- Go. _halja_ \
 N: \
@@ -10751,7 +10751,7 @@ COGN: CS _slama_, Ru. _solóma_, SCr. _slȁma_ [f.] "straw", OPru. _salme_ "id."
 Probably related to [\*helman- "helm, rudder"](#helman) (through a more primitive meaning "cane"). (E)Du., LG _helm_ "sedge, marram grass" (whence Da. _hjælme_, Icel. _hjálmur_ "bent grass, marram grass"?) represents a similar e-grade formation \*helma- < \*k/ḱelh₂-mo- formally identical to Lith. _kélmas_ "tree-stub" < \*kelH-mo-. All these forms go back to a PIE ablauting m-stem \*ḱélh₂-m, gen. \*ḱlh₂-m-ós (the Baltic forms with non-palatal \*k arose in the zero-grade roots in front of the resonant). \
 REF: [EDPG]\: 204
 
-### <a id="halon">\*halōn- ~ \*hulōn- [wk.] "to call" (v)</a>
+### <a id="halōn">\*halōn- ~ \*hulōn- [wk.] "to call" (v)</a>
 W: \
 -- OE _ge-holian_ "to get" \
 -- OFri. _halia_ "to fetch" \
@@ -10795,7 +10795,7 @@ COGN: OIr. _coll_ [n.] "destruction", MW _coll_ [m.] "id." < \*kold-o- \
 A Germanic-Celtic isogloss (cf. Matasovic 2008: 212). The sometimes connected Lat. _clādēs_ [f.] "destruction" (cf. Pokorny IEW: 545-7) is from \*klh₂-dʰeh₁-, and cannot directly be compared. \
 REF: [EDPG]\: 205
 
-### <a id="haltha">\*halþa- "sloping; inclined" (adj)</a>
+### <a id="halþa">\*halþa- "sloping; inclined" (adj)</a>
 E: \
 -- Go. _wilja-halþei_ [f.] "inclination, bias" \
 N: \
@@ -10867,7 +10867,7 @@ COGN: Gr. _κάμπτω_ "to bend, bow, curve" < \*kmp-ie- (with secondary _μ_
 An adjective to a European root \*kemp-, for which see [\*hupp/bōn-](#huppon). \
 REF: [EDPG]\: 207
 
-### <a id="hammo">\*ham(m)ō- [f.] "shank" (n)</a>
+### <a id="hammō">\*ham(m)ō- [f.] "shank" (n)</a>
 N: \
 -- ON _hǫm_ "ham or haunch (of a horse)" \
 W: \
@@ -10951,7 +10951,7 @@ COGN: Lith. _kìnka_ [f.] "leg, thigh, knee-cap" < \*knh₂-k-eh₂- \
 A diminutive \*hanhila(n)- created to ON _há_-, OE _hōh_ [m.] "heel" < \*hanha- < \*konh₂-ko-. The formation appeared to be limited to Nordic and Anglo-Frisian, but Swab. (Gechingen) _haile_ "heel" (for _ai_ < \*ǟ, cf. _Kraibl_ "muck rake" < \*krāb-līn-) indicates that the word was out there in the High German dialects as well. Du. _hiel_ for expected \*_heel_ is a Frisianism. See also \*ham(m)ō-. \
 REF: [EDPG]\: 209
 
-### <a id="hanhilo">\*hanhilō- [f.] "pothook" (n)</a>
+### <a id="hanhilō">\*hanhilō- [f.] "pothook" (n)</a>
 W: \
 -- MDu. _hael_ [f./n.] \
 -- OHG _hāhala_, G Swi. Visp. _heeli_ "id." \
@@ -10986,7 +10986,7 @@ COGN: Gr. _κάνναβις_ (_κάνναβος_) [f.] "hemp, cannabis" < \*ka
 A Wanderwort belonging to the pre-Indo-European agricultural layer in Germanic and related languages in Europe. Also cf. Turk. _kenevir_, Karalpak _kenep_ and Neo-Assyr. _qunnabu_, _qunnapu_, _qun(u)bu_ (cf. Barber 1991: 36-38). The comparison with Skt _śaṇa_-, Mari _keṅe_, _kiṅe_ and. Turk. _kendir_ is more uncertain. \
 REF: [EDPG]\: 209
 
-### <a id="hanso">\*hansō- [f.] "troop" (n)</a>
+### <a id="hansō">\*hansō- [f.] "troop" (n)</a>
 E: \
 -- Go. _hansa_ "troop, cohort" \
 W: \
@@ -10998,7 +10998,7 @@ COGN: Fi. _kansa_ "people, society" is a Germanic loanword \
 No certain etymology in spite of numerous proposals (see Lehmann 1986: 177). Many reconstructions assume a first member \*han- < PIE \*kom- "together", which in unstressed position became the collective-perfective prefix \*ga(n)-, cf. Osthoff 1888: 425-6. Perhaps, a formation \*kom-sh₂-eh₂-, containing the root \*seh₂- "to bind" (cf. Hitt. _ishai_ ~ _ishiyanzi_ < \*sh₂-ói-ei, \*sh₂-i-énti) would be conceivable. \
 REF: [EDPG]\: 209
 
-### <a id="hantha">\*hanþa- "sharp" (adj)</a>
+### <a id="hanþa">\*hanþa- "sharp" (adj)</a>
 N: \
 -- ON -_hannr_ \
 PIE: \*ḱónt-o- \
@@ -11114,7 +11114,7 @@ COGN: Lith. _šarmuõ_, _šermuõ_ [m.] "wildcat, stoat, weasel" < \*ḱe/orm-on
 A Germanic-Baltic isogloss. Also cf. the diminutive OHG _harmilī(n)_, G _Hermelin_, Du. _hermelijn_. The final stress of the latter two forms is due to It _ermellino_ (Kluge/Seebold 2002: 408), which in turn is a German loanword. \
 REF: [EDPG]\: 212
 
-### <a id="harojan">\*harōjan- [wk.] "to sharpen" (v)</a>
+### <a id="harōjan">\*harōjan- [wk.] "to sharpen" (v)</a>
 W: \
 -- MLG _haren_ "to sharpen" \
 -- MDu. _haren_ "to sharpen" \
@@ -11123,7 +11123,7 @@ COGN: Lat. _catus_ "smart, shrewed", OIr. _cath_ "wise" < \*ḱh̥₃-to- (throu
 A formation derived from an unattested adjective [\*hara- "sharp"](#hara), which may continue either \*ḱh̥₃-ro- or \*ḱoh₃-ró- (with pretonic shortening). See also [\*hainō-](#haino). \
 REF: [EDPG]\: 212
 
-### <a id="harron">\*har(r)ōn- [wk.] "to wait out(?)" (v)</a>
+### <a id="harrōn">\*har(r)ōn- [wk.] "to wait out(?)" (v)</a>
 N: \
 -- ON _hara_ "to stare, watch motionlessly" \
 -- Nw. _hara_ "to freeze, watch without motion" \
@@ -11228,7 +11228,7 @@ PIE: \*kHt-nú- \
 The formation looks like a split-off from the acc.pl. of an n-stem \*haþō, gen. \*hattaz, acc.pl. \*hattuns < \*kHt-ōn, \*kHt-n-ós, \*kHt-n-ń̥s (cf. Lühr 2000: 266; Kroonen 2011a: 304-6), and served as the basis for ON _hetta_ [f.] "cowl" < \*hettjōn-. The original dat.sg. \*hadeni < \*kHt-én-i is probably continued by ON _heðinn_ [m.] "jacket" and OE _heden_ [m.] "robe, hood, chasuble". Possibly related to OHG _hadara_ [f.] "patch, goat skin", G _Hader_ [f.] "rag" < \*haþrōn-, which points to ON _haðna_ [f.] "young goat" and MHG _hatele_ [f.] "id." < \*had-, cf. Lat. _catulus_ "young animal" < \*kHt-(e/o)lo- as the ultimate source; it is not impossible that hoods and hats were made of goat skin. See also [\*hōda- "hat, hood"](#hoda). \
 REF: [EDPG]\: 214
 
-### <a id="hatharo">\*haþarō- [f.] "fight" (n)</a>
+### <a id="haþarō">\*haþarō- [f.] "fight" (n)</a>
 W: \
 -- MHG _hader_, G _Hader_ \
 PIE: \*kót-or-eh₂- \
@@ -11236,7 +11236,7 @@ COGN: OCS _kotora_ [f.] "struggle", Ru. dial. _kotóra_, _kótora_ [f.] "hostili
 The word is reminiscent of [\*haþu- "battle"](#hathu), which, however, seems to have developed from \*k/ḱh₃t-u-. \
 REF: [EDPG]\: 214
 
-### <a id="hathu">\*haþu- [f.] "battle" (n)</a>
+### <a id="haþu">\*haþu- [f.] "battle" (n)</a>
 N: \
 -- ON _hǫð_ \
 W: \
@@ -11356,7 +11356,7 @@ COGN: Av. _kaofa_- [m.] "mountain, hump" < \*koupH-o-, OIr. _cúan_ "pile" < \*k
 An a-stem probably continuing Pre-Gm. \*hauppa- < \*kouHp-nó-. Alternatively, it may continue the full-grade root \*keh₂/₃up- of the ablauting n-stem \*hūpan-, which implies a paradigm \*k(é)uHp-on, gen. \*kuHp-n-ós. In general, the position of the laryngeal is difficult to determine. Av. _kaofa_- points to \*koupH-o-, but the Slav. material is suggestive of a form \*kouHp-o-; it therefore seems likely that metathesis occurred in Iranian (cf. Skt. _śaphá_- [m.] "hoof", YAv. _safa_- [m.] "hoof, horse-shoe(?)" < \*ḱopH-o- vs. PGmc. [\*hōfa- "hoof"](#hofa) < \*koHp-o-). \
 REF: [EDPG]\: 216
 
-### <a id="hauthan">\*hauþan- [m.] "testicle" (n)</a>
+### <a id="hauþan">\*hauþan- [m.] "testicle" (n)</a>
 W: \
 -- OFri. _hātha_, _hōtha_ \
 -- MDu. _hode_ \
@@ -11449,7 +11449,7 @@ COGN: Lat. _occulo_ "to hide, conceal", OIr. _ceilid_, MW _kelu_ "id." < \*ḱé
 A strong verb whose original meaning probably was "to cover", for which see [\*helma-](#helma). Related to [\*hēli-](#heli). \
 REF: [EDPG]\: 218
 
-### <a id="heli">\*hēli- "deceitful" (adj)</a>
+### <a id="hēli">\*hēli- "deceitful" (adj)</a>
 W: \
 -- MLG _hāl_ "hidden" \
 -- OHG _hāli_ "smooth, slippery, weak", MHG _hæl(e)_ "concealing; concealed" \
@@ -11500,7 +11500,7 @@ W: \
 A verb without a clear etymology. In view of the potential cognate Lith. _šel̃pti_ (_šelpiù_) "to help", it is tempting to assume that \*helpan- continues \*ḱélp-e-, and adopted its geminate from the expected iterative \*hulpōn- < \*ḱlp-néh₂-. No such iterative is attested, however, and I wonder whether _šel̃pti_ cannot have been borrowed from a lost Slavic root \*šelp- (cf. OCS _xlapъ_ "servant", Ru. _xolóp_ "id.", Pol. chlop "peasant" < PSlav. \*xolpъ « PGmc. \*halpa-) that itself again was borrowed from PGmc. \*helpan-. With the occurrence of yet another irregular correspondence, viz. Lith. _gélbėti_ "to help" < \*g/gʰelb-, the etymological problems become even more complex. \
 REF: [EDPG]\: 219
 
-### <a id="hemero">\*hemerō- [f.] "hellebore" (n)</a>
+### <a id="hemerō">\*hemerō- [f.] "hellebore" (n)</a>
 W: \
 -- OHG _hemera_, MHG _hemere_, _hemer_, G dial. _hemern_ pl. \
 PIE: \*kem-er-eh₂- \
@@ -11527,7 +11527,7 @@ On the PIE level, the Germanic word is usually analyzed as a distorted continuan
 Also cf. OHG _himilizi_, MHG _himelz(e)_, MLG _hemelte_ [n.] "ceiling", Du. _ge-hemelte_ [n.] "palate" < \*(ga-)hemilatja-. \
 REF: [EDPG]\: 220
 
-### <a id="hera">\*hēra- [n.] "hair" (n)</a>
+### <a id="hēra">\*hēra- [n.] "hair" (n)</a>
 N: \
 -- ON _hár_ \
 -- Far. _hár_ \
@@ -11543,7 +11543,7 @@ COGN: Hitt. _kiszi_ ~ _kisanzi_ "to comb, card" < \*kés-ti, \*ks-énti, OCS _č
 The word has been derived from \*hezra- < \*ḱes-ro- by Gqsiorowski 2012, who assumes pre-rhotic loss of \*z and compensatory lengthening of the preceding vowel. It is possible, too, however, that the original form was \*ḱēs-ró- with a lengthened grade, cf. OIr. _cír_ [f.] "comb" < \*ḱēs-reh₂-. The word served as the basis for OE _hǣring_, _hēring_, OFri. _hēring_, Du. _haring_, OHG _hāring_, G _Hering_ [m.] "herring", a fish named after its many thin, hair-like bones (for the suffix, cf. E _whiting_, Du. _wijting_ < \*hwītinga-). \
 REF: [EDPG]\: 220
 
-### <a id="herdo">\*herdō- [f.] "herd" (n)</a>
+### <a id="herdō">\*herdō- [f.] "herd" (n)</a>
 E: \
 -- Go. _hairda_ \
 N: \
@@ -11601,7 +11601,7 @@ COGN: Hitt. _karas_- [n.] "wheat, emmer-wheat" < \*ḱrh₁-s-, Lat. _Cerēs_ [f
 A word created with the collective suffix \*-io- to the original neuter. s-stem attested as Hitt. _karas_-. The latter form is usually connected to [\*gerstō- "barley"](#gersto) < \*gʰersd-, and has hence been reconstructed as \*gʰrsdʰ- (see Kloekhorst 2008: 444), but the link with \*hersja(n)- "millet" is more straightforward. \
 REF: [EDPG]\: 222
 
-### <a id="herton">\*hertōn- [n.] "heart" (n)</a>
+### <a id="hertōn">\*hertōn- [n.] "heart" (n)</a>
 E: \
 -- Go. _hairto_ \
 N: \
@@ -11619,7 +11619,7 @@ COGN: Hitt _ker_ ~ _kard(i)_- [n.] "heart, center, core" < \*ḱēr, \*ḱrd-, T
 An old IE word, originally inflected as nom. \*ḱḗr (< \*ḱérd), gen. \*ḱrd-ós. See also [\*harta-](#harta). The initial \*ǵʰ of the Indo-Iranian forms is unexplained. \
 REF: [EDPG]\: 222
 
-### <a id="hertha">\*herþa- [m.] "hearth" (n)</a>
+### <a id="herþa">\*herþa- [m.] "hearth" (n)</a>
 W: \
 -- OE _heorð_, E _hearth_ \
 -- OFri. _herth_ \
@@ -11630,7 +11630,7 @@ PIE: \*kerh₃-to \
 A to-stem created to the root \*kerh₃- "to burn", for which see [\*hurja-](#hurja). \
 REF: [EDPG]\: 222
 
-### <a id="herthra">\*herþra- [n.] "intestines" (n)</a>
+### <a id="herþra">\*herþra- [n.] "intestines" (n)</a>
 E: \
 -- Go. _hairþra_ [n.pl.] "intestines, bosom" \
 W: \
@@ -11729,7 +11729,7 @@ COGN: OPru. _kaāubri_ "thorn" \
 Also note MHG _hiefalter_, -_olter_ "rose hip", which has the productive tree-suffix -_alter_ as in _apfalter_ "apple-tree" (< \*apaldra/ō-), _mazalter_ "field maple", _reckholter_ "juniper", _wechalter_, -_olter_ "id.", etc. No certain etymology: the only potential extra-Germanic cognate is OPru. _kaāubri_, but the appurtenance of this word has been doubted (cf. De Vries 1971: 257). Note the neuter gender in Icelandic, which can be old. \
 REF: [EDPG]\: 224
 
-### <a id="hewja">\*hēwja- "dark blue(?)" (adj)</a>
+### <a id="hēwja">\*hēwja- "dark blue(?)" (adj)</a>
 W: \
 -- OE _hāwi_, _hǣwi_, _hēawi_ "blue, purple, grey, discolored", E obs. _haw_ "blue, azure, bluish, dull leaden blue; livid" \
 PIE: \*ḱiéh₁-uo- \
@@ -11737,7 +11737,7 @@ COGN: Skt. _śyāvá_- "dark-brown, black-brown, dark", YAv. _siiāuuaršan_- pr
 Within Germanic, the word is formally identical to OE -_hāwe_ "visible", the gerundive of OE _hawian_ "to observe" < [\*hawēn-](#hawen-2). The adjective OE _hǣwen_ "blue", on the other hand, with its \*-īna- suffix seems to have been derived from a noun, possibly \*hæwe as implied by E obs. _haw_ "nictitating membrane, third eyelid (of a horse, dog, etc.)" < \*hēwja-. The whole cluster can thus be related to [\*heuja-](#heuja) (q.v.), which occurs with a meaning "shape" as well as "membrane". \
 REF: [EDPG]\: 224
 
-### <a id="hezdon">\*hezdōn- [f.] "flax fibers" (n)</a>
+### <a id="hezdōn">\*hezdōn- [f.] "flax fibers" (n)</a>
 W: \
 -- OE _heord_ "hair", _heordan_ pl. "rope", E _hards_, _hurds_ "the coarser parts of flax or hemp separated in hackling" \
 -- MDu. _hede_, EDu. _herde_, _heerde_ \
@@ -11770,7 +11770,7 @@ PIE: \*ḱi-or \
 The North-West Germanic languages all point to \*hiar from PIE \*ḱi-or (Kortlandt 2006), which contains the root \*hi- < \*ḱi- "this", cf. Lith. _šìs_ "this" and the suffix -ar as in [\*þar "there"](#thar) < \*to-r. The surfacing of the diphthong \*ia as Go. _e_, ON _é_, OHG _ia_ indicates that it merged with \*ē₂ as early as the PGmc. period (cf. Kortlandt 2006). Also note Go. _hiri_, which presupposes a more primary form \*ḱi-r plus an obscure suffix -_i_ (< \*-ih₁?). \
 REF: [EDPG]\: 225
 
-### <a id="higen">\*hīgēn- ~ \*hīkēn- [wk.] "to pant(?)" (v)</a>
+### <a id="hīgēn">\*hīgēn- ~ \*hīkēn- [wk.] "to pant(?)" (v)</a>
 N: \
 -- Nw. _hika_ "to long for" \
 -- Sw. dial. _hikja_ "to pant" \
@@ -11781,7 +11781,7 @@ W: \
 A verb with a semantic range between "to pant" and "to long for" (cf. Du. _snakken_ "to gasp for breath; to yearn"). The alternation of \*hīg- and \*hīk- can be due to infection with the geminate of the iterative \*hikkōn-, cf. Du. _aan-hikken tegen_ "to postpone, procrastinate"). No further etymology: the connection with Skt. _śīghrá_- "fast" and Ru. _sigát'_ "to leap" must be abandoned because the original meaning was "to pant" in Germanic. Also cf. the highly onomatopoetic Du. _hikken_, Fri. _hikje_ "to hiccup". \
 REF: [EDPG]\: 225
 
-### <a id="hihelon">\*hihelōn- [f.] "hoarfrost" (n)</a>
+### <a id="hihelōn">\*hihelōn- [f.] "hoarfrost" (n)</a>
 N: \
 -- ON _héla_ \
 -- Elfd. _ila_ \
@@ -11790,7 +11790,7 @@ COGN: Lith. _šalnà_, Latv. _sal̂na_ [f.] "light frost", OCS _slana_, SCr. _sl
 The Germanic word looks like a reduplicated formation to the root \*ḱelh₁- "to be cold", cf. Skt. _śiśira_- "cold" < \*ḱi-ḱl̥h₁-o-. The underlying proto-form, however, would through PGmc. \*hihul-on- result in ON \*\*_hjól-a_. For this reason, I reconstruct the word as \*hihelōn- < \*ḱi-ḱelh₁-. Also cf. PGmc. [\*hagla- "hail"](#hagla), which usually is assumed to be another, closely related reduplicated formation. Certainly unreduplicated is Du. _hal_ [n.] "frozen soil" < \*hala- < \*ḱolh₁-o- (cf. Lith. _pã-šalas_ [m.] "id."). \
 REF: [EDPG]\: 226
 
-### <a id="hindo">\*hindō- [f.] "hind" (n)</a>
+### <a id="hindō">\*hindō- [f.] "hind" (n)</a>
 N: \
 -- ON _hind_ \
 -- Far. _hind_ \
@@ -11815,7 +11815,7 @@ COGN: OIr. _cingid_ "to tread, step, walk", MW _ry-gyng_ "to amble" < \*keng-e- 
 Also cf. OE _helle-hinca_ [m.] "devil" and the zero-grade intensive OE _huncettan_ [wk.] "to limp" < \*hunk-atjan-, which is based on a further unattested iterative \*hunkōn- < \*kn̥g-néh₂-. Apart from OIr. _cingid_, \*hinkan- is often connected to Gr. _σκάζω_ "to limp" < \*skng-ie- and Skt. _khañjati_ "id." < \*skeng-e- (cf. Seebold 1970: 255), but these forms are rather cognate with [\*skinkan- ~ \*skankan- ~ \*skunkan- "ham, shank"](#skinkan) (q.v.). \
 REF: [EDPG]\: 226
 
-### <a id="hinno">\*hinnō- [f.] "thin skin, membrane" (n)</a>
+### <a id="hinnō">\*hinnō- [f.] "thin skin, membrane" (n)</a>
 N: \
 -- ON _hinna_ \
 -- Far. _hinna_ \
@@ -11828,7 +11828,7 @@ COGN: Close to OIr. _ceinn_ "head", _cenni_ pl. "scales", W _cen_ [m.] "skin" < 
 The connection with PCelt. \*ken(t)no- could imply a form \*kent-neh₂-, and indeed PGmc. \*hindnō- would have regularly given \*hinnō-. The existence of a dental is further supported by Far. _hind_ [f.] "membrane, film" < \*hindō- (as well as Lat. _centō_ [n.] "blanket, patched cloth" if related). In view of Icel. _himna_ [f.] "membrane, film, layer" < \*himnō-, however, it may be preferable to reconstruct an mn-stem \*ken(t)-mōn, gen. \*ken(t)-mn-ós, which would probably give PGmc. \*himmō, \*hinnaz. Yet another possibility is to connect Nw. _hime_ [f.] "thin layer" < \*hīmōn-, which could require the reconstruction of the paradigm as \*kéin-mōn, \*kin-mn-ós. The root of the latter formation is irreconcilable with the Celtic forms, however. \
 REF: [EDPG]\: 226
 
-### <a id="hinthan">\*hinþan- [st.] "to reach for" (v)</a>
+### <a id="hinþan">\*hinþan- [st.] "to reach for" (v)</a>
 E: \
 -- Go. _hinþan_ "to catch" \
 N: \
@@ -11837,7 +11837,7 @@ PIE: \*k/ḱént-e- \
 The strong verb gave rise to some nominal derivations, viz. Go. _hunþs_ [f.] "captivity" < \*hunþi-, OE _hūð_, OHG _hunda_ "booty" < \*hundō- and [\*handu- "hand"](#handu) (q.v.). For a verbal cognate, cf. the iterative [\*huntōn- "to chase, hunt"](#hunton). \
 REF: [EDPG]\: 227
 
-### <a id="hitjo">\*hitjō- [f.] "heat" (n)</a>
+### <a id="hitjō">\*hitjō- [f.] "heat" (n)</a>
 W: \
 -- OFri. _hete_ \
 -- OS _hittia_ \
@@ -11860,7 +11860,7 @@ COGN: Lat. _caedō_ "to cut, hew, fell" < ?\*kh₂eid/dʰ(h₁)-e- \
 The derivation of the verb is not entirely clear, but it might have been created to an iterative formation \*hittōn-. The formation is often assumed to be related to Lat. _caedō_, which would imply a Pre-Gm. form \*kh₂eid-néh₂-, but it is not impossible that the Latin verb continues \*ḱh₂-ei-dʰh₁- "to make fall", i.e. a compound of \*ḱh₂-ei- (cf. Skt. _śīyáte_ "to fall" < metathesized \*ḱih₂-ié-) and \*dʰeh₁- "to put". Similarly, W _cwyddaw_ "to fall", Bret. _coezaff_ "to fall, happen" may continue \*ḱh₂-oi-dʰh₁-eh₂-ie-, an extension of W -_chiawr_ "to fall" < \*ḱh₂i-o-. The original Germanic meaning seems to have been "to strike", cf. the full grade form Far. _híta_ [wk.] "to spank, beat" < \*hīt-. \
 REF: [EDPG]\: 227
 
-### <a id="hiwiskja">\*hīwiskja- [n.] "household" (n)</a>
+### <a id="hīwiskja">\*hīwiskja- [n.] "household" (n)</a>
 N: \
 -- ON _hýski_ \
 -- Far. _húski_, _hýski_ \
@@ -11871,7 +11871,7 @@ W: \
 Derived from \*hīwa-, for which see [\*hīwōn-](#hiwon). \
 REF: [EDPG]\: 227
 
-### <a id="hiwon">\*hīwōn- [n.] "married couple, household" (n)</a>
+### <a id="hīwōn">\*hīwōn- [n.] "married couple, household" (n)</a>
 N: \
 -- ON _hjú(n)_, _hjó(n)_ [n.pl.] \
 -- Far. _hjún_ [n.pl.] \
@@ -11939,7 +11939,7 @@ PIE: \*ḱloi-uo \
 A wa-stem to the root \*ḱlei- "to be inclined", for which see [\*hlinēn-](#hlinen). \
 REF: [EDPG]\: 228
 
-### <a id="hlakkon">\*hlak(k)ōn- [wk.] "to laugh" (v)</a>
+### <a id="hlakkōn">\*hlak(k)ōn- [wk.] "to laugh" (v)</a>
 N: \
 -- ON _hlakka_ "to cry, scream (of eagles); to rejoice, exult" \
 W: \
@@ -11956,13 +11956,13 @@ PIE: \*klong-éie- \
 Also cf. MHG, G _link_ "left" < \*hlinka-, OHG _lanka_, _hlanka_, MHG _lanke_ [f.] "thigh" < \*hlankō- (>> OFr. _flanc_) and ON _hlekkr_ [m.] "chain, fetter" < \*hlanki-, OE _hlence_ [f.] "link" < \*hlankjō-. The extra-Germanic comparison with the marginally attested Lat _clingō_, -_ere_ "to gird" (Paul. ex Fest) or "to close" (Isidore) < \*kléng-e- and ToA _klaṅk_ "riding animal", ToB _kleṅke_ [m.] "vehicle" (Adams 1999: 227) is doubtful. \
 REF: [EDPG]\: 228
 
-### <a id="hlanthojan">\*hlanþōjan- [wk.] "to rob" (v)</a>
+### <a id="hlanþōjan">\*hlanþōjan- [wk.] "to rob" (v)</a>
 N: \
 -- ON _hlanna_ "to rob" \
 A verb only attested in ON, but further supported by OHG _landeri_, OE _hlōðere_ [m.] "robber" < \*hlanþ-arja- (cf. with an older suffix: ON _hlenni_ [m.] "id." < \*hlanþjan-) and OE _hlōð_, ODu. _hlotha_ "booty" < \*hlanþō- (Quak 1979). No clear etymology: hardly an n-infixed cognate of [\*hlaþan-](#hlathan) (q.v.). \
 REF: [EDPG]\: 229
 
-### <a id="hlathan">\*hlaþan- [st.] "to load" (v)</a>
+### <a id="hlaþan">\*hlaþan- [st.] "to load" (v)</a>
 E: \
 -- Go. _af-hlaþan_ "to burden, load down" \
 N: \
@@ -12047,7 +12047,7 @@ COGN: Lith. _kliū́ti_ (_kliūvù_) "to stick", Latv. _kļũt_ "to become, succ
 A strong verb apparently created to a Germanic and Baltic root \*kleuH-. The root-final dental of the Germanic verb is probably etymologically dissimilar from the dental of Lith. _kliudýti_ (_kliudaũ_) "to stick", -_dýti_ < \*-dʰh₁-eie- being a productive verbal suffix. It is possible to speculate that the Germanic t continues the root \*dh₃- "to give". The underlying stem \*kleuH-dh₃- would then originally have meant "to give by lot". \
 REF: [EDPG]\: 230
 
-### <a id="hleutha">\*hleuþa- [n.] "listening" (n)</a>
+### <a id="hleuþa">\*hleuþa- [n.] "listening" (n)</a>
 E: \
 -- Go. _hliuþ_\* "hearing" \
 N: \
@@ -12083,7 +12083,7 @@ PIE: \*ḱleh₁-uó- \
 Also cf. the derived adjective ON _hlýr_ "mild, warm", OE _hlīwe_, _hlēowe_ "warm, sheltered", E _lew_ "lukewarm", MDu. _lieu_, Du. _luw_ "sheltered" < \*hleuja-. The word is not ablauting with [\*hlēwa-](#hlewa) (q.v.) < \*ḱleh₁-uo-, as the regular zero grade \*ḱlh₁-uo- would never have resulted in PGmc. \*hlewa-. It is likely, therefore, that the short \*e of \*hlewa- arose from \*ē due to Dybo's law of pretonic shortening. \
 REF: [EDPG]\: 231
 
-### <a id="hlewa">\*hlēwa- "lukewarm" (adj)</a>
+### <a id="hlēwa">\*hlēwa- "lukewarm" (adj)</a>
 N: \
 -- Icel. _hlár_ "melted; warm" \
 W: \
@@ -12094,7 +12094,7 @@ COGN: Lat _caleō_, -_ēre_ "to be warm" < \*ḱlh₁-eh₁-; without laryngeal:
 Closely related to [\*hlewa- "shelter"](#hlewa). Also cf. ON _hlær_ "warm, mild" < \*hlēja- < \*ḱleh₁-io-. \
 REF: [EDPG]\: 231
 
-### <a id="hlinen">\*hlinēn- [wk.] "to lean" (v)</a>
+### <a id="hlinēn">\*hlinēn- [wk.] "to lean" (v)</a>
 W: \
 -- OE _hlinian_, _hleonian_ \
 -- OS _hlinon_ \
@@ -12105,7 +12105,7 @@ COGN: YAv. _ni-srinaomi_ 1sg.pres. "to lean" < \*ḱli-neu-, Gr. _κλῑ́νω_
 A stative verb created to an old nasal present \*ḱli-neh₂- or \*ḱli-neu-. The root \*ḱlei- is again likely to continue an i-present to the root \*ḱel-, for which see [\*halþa-](#haltha). See further [\*hlainjan-](#hlainjan) and [\*hlaiwa-](#hlaiwa). \
 REF: [EDPG]\: 231
 
-### <a id="hloan">\*hlōan- [st.] "to low, bellow" (v)</a>
+### <a id="hlōan">\*hlōan- [st.] "to low, bellow" (v)</a>
 W: \
 -- OE _hlōwan_, E _to low_ \
 -- OS _hlōinga_ [f.] "bellowing" \
@@ -12115,7 +12115,7 @@ PIE: \*ḱlóh₁-e- \
 An originally strong verb that in view of its o-grade and iterative semantics must continue an intensive ḱloh₁-e- to the root \*ḱelh₁- (for which see [\*halōn- / \*hulōn-](#halon)). In spite of OLFr. _luogin_ and OHG _luoen_, there is no evidence for a j-suffix: this glide just like the w of OE _hlōwan_ arose as a hiatus filler in the separate Germanic daughter languages. \
 REF: [EDPG]\: 231
 
-### <a id="hlogjan">\*hlōgjan- [wk.] "to make laugh" (v)</a>
+### <a id="hlōgjan">\*hlōgjan- [wk.] "to make laugh" (v)</a>
 E: \
 -- Go. _uf-hlohjan_\* \
 N: \
@@ -12125,7 +12125,7 @@ N: \
 The causative to [\*hlah(j)an-](#hlahjan) (q.v.). Also cf. Far. _løgin_, Nw. _løyen_ (_løgjen_) "funny". \
 REF: [EDPG]\: 231
 
-### <a id="hluda">\*hlūda- "loud" (adj)</a>
+### <a id="hlūda">\*hlūda- "loud" (adj)</a>
 W: \
 -- OE _hlūd_, E _loud_ \
 -- OFri. _hlūd_, WFri. _lûd_ \
@@ -12153,7 +12153,7 @@ W: \
 The meaning "to lift" allows for two potential etymologies, i.e. 1) to [\*luftu- "sky"](#luftu) (whence ON _lyfta_, MHG _lüften_ [wk.] "to lift" < \*luftjan-); and 2) to [\*hlaupan- "to jump, leap"](#hlaupan). Since the MHG verb also has an attestation with the meaning "to rush" (see MHW: 1, 1988), the latter possibility is probably more plausible. The jan-verb may then have directly been derived from the iterative [\*hluppōn-](#hluppon). \
 REF: [EDPG]\: 232
 
-### <a id="hluppon">\*hluppōn- [wk.] "to run" (v)</a>
+### <a id="hluppōn">\*hluppōn- [wk.] "to run" (v)</a>
 W: \
 -- MDu. _loppen_ "to run" \
 PIE: \*klup-néh₂- \
@@ -12161,7 +12161,7 @@ COGN: Latv. _klupinât_ "to keep stumbling" < \*klup-néh₂- \
 The iterative belonging to the strong verb [\*hlaupan-](#hlaupan), apparently continuing a paradigm 3sg. \*hluppōþi, 3pl. \*hlubunanþi < \*klup-néh₂-ti, \*klup-nh₂-énti (also cf. ME _lōpen_ [wk.] "to jump, leap", which does not necessarily have to be a loanword from ON _hlaupa_, but can also continue \*hlupōn-). The formation is exactly parallel to Latv. _klupinât_, the iterative to _klupt_. Note that the suffix -_inâ_- in this language arose as a conflation of the zero grade -_in_- < \*-n̥h₂- and the full grade -_nâ_- < \*-neh₂-. \
 REF: [EDPG]\: 232
 
-### <a id="hlusen">\*hlusēn- [wk.] "to listen" (v)</a>
+### <a id="hlusēn">\*hlusēn- [wk.] "to listen" (v)</a>
 W: \
 -- OHG _losēn_, _hlosēn_ \
 PIE: \*ḱlus-eh₁-ie \
@@ -12291,14 +12291,14 @@ COGN: Gr. _κνύω_ "to scratch" < \*knuH-ie-, Latv. _knüt_ "to itch" \
 A strong verb \*hnewwan-. The _ǫ_ of ON _hnǫggva_ (for expected \*_hnyggva_) is analogical after _hǫggva_ < \*hawwan- (Rasmussen 1989): the original e-vocalism is confirmed by Elfd. _negga_. The verb was created to a European root \*kneuH-. The secondary link with Skt. _kṣaṇóti_ "to hurt" < \*tk/ḱn-neu- (Gunnarson 1971; LIV²: 645-6) is formally difficult, as the European forms seem to point to a root with a laryngeal. See also [\*hnawwu-](#hnawwu). \
 REF: [EDPG]\: 235
 
-### <a id="hnipan">\*hnīpan- [st.] "to pinch, squeeze" (v)</a>
+### <a id="hnīpan">\*hnīpan- [st.] "to pinch, squeeze" (v)</a>
 W: \
 -- MLG _nīpen_ \
 -- MDu. _nipen_ "the squeeze; to tear off (with nails or teeth); to snap", Du. _nijpen_ [wk.] "to press" \
 The verb continues Pre-Gm. \*hnīppan- and must in view of the root-final geminate have been derived from the iterative [\*hnippōn-](#hnippon) (q.v.). \
 REF: [EDPG]\: 235
 
-### <a id="hnipon">\*hnipōn- [wk.] "to be downcast" (v)</a>
+### <a id="hnipōn">\*hnipōn- [wk.] "to be downcast" (v)</a>
 N: \
 -- ON _hnipa_ "to be downcast, droop" \
 PIE: \*knibʰ-néh₂-(?) \
@@ -12341,7 +12341,7 @@ COGN: Gr. _κονίς_ [f.] "nit; flea; bug", Alb. _thërí_ / _thëní_ [f.] "
 A European word with many different irregular cognates. Gr. _κονίς_, Alb. _thëní_ and Arm. _anic_ can perhaps be reconciled into a proto-form \*ḱh₃nid-, assuming that the Albanian form went through a stage \*śanid- and that Arm. _anic_ developed from a simplified form \*onid-s. PGmc. \*hnit- < \*ḱnid-, on the other hand, shows no trace of a laryngeal, and neither does OIr. _sned_ < \*snid-eh₂-. Originally, the word may have been a compound, but due to all kinds of apparently tabooistic distortions, its reconstruction remains problematic. Also cf. the formally more dissimilar Lat. _lēns_, -_endis_ and Ru. _gnída_, SCr. _gnjȉda_, Lith. _glìnda_, Latv. _gnĩda_, _gņĩda_ [f.] "nit". \
 REF: [EDPG]\: 236
 
-### <a id="hnitan">\*hnītan- [st.] "to poke, butt" (v)</a>
+### <a id="hnītan">\*hnītan- [st.] "to poke, butt" (v)</a>
 N: \
 -- ON _hníta_ [wk.] "to poke" \
 W: \
@@ -12353,7 +12353,7 @@ COGN: Gr. _κνίζω_ "to scratch, pound, chop up, provoke" < \*knid-ie-, OIr.
 A strong verb to a European root \*k/ḱneid-. Also cf. OE _hnitol_, MDu. _netel_ "given to butting" < \*hnitala- and the intensive ON _hneita_ [wk.] "to poke, insult" < \*hnaitjan-. \
 REF: [EDPG]\: 236
 
-### <a id="hniwan">\*hnīwan- ~ \*hnīgan- [st.] "to bow (down)" (v)</a>
+### <a id="hnīwan">\*hnīwan- ~ \*hnīgan- [st.] "to bow (down)" (v)</a>
 E: \
 -- Go. _hneiwan_ \
 N: \
@@ -12370,7 +12370,7 @@ COGN: Lat. _cōnīveō_ "to be tightly closed, close (of the eye)" < \*kom-knéi
 An etymologically obscure verb with Lat. _cōnīveō_ as the only formally possible, but semantically remote cognate. The vacillation between \*hnīwan- and \*hnīgan- is due to influence from the causative [\*hnaigjan- ~ \*hnaiwjan-](#hnaigjan), where the labialization was regularly lost (between \*o and \*i/j, cf. [\*sagja- "man, hero"](#sagja-1) < \*sokʷH-ió-). In the strong verb, on the other hand, the change \*gʷʰ > \*w is expected, cf. [\*snīwan- "to snow"](#sniwan) < \*sneigʷʰ-e-. \
 REF: [EDPG]\: 236
 
-### <a id="hnojan">\*hnōjan- [wk.] "to groove" (v)</a>
+### <a id="hnōjan">\*hnōjan- [wk.] "to groove" (v)</a>
 W: \
 -- OHG _nōen_, MHG _nūejen_ \
 PIE: \*knéh₂-ie- \
@@ -12378,7 +12378,7 @@ COGN: Gr. -_κναίω_ "to scrape, scratch", OIr. _imm-cná_, W _cnoi_ "to bit
 In many cases, OHG verbs in -_en_ (< \*-jan-) continue older _verba pura_, which theoretically allows us to reconstruct a strong verb \*hnōan- < \*knóh₂-e-. The late OHG _ginūiter marchstein_ "carved landmark", however, confirm that the PGmc. verb really was \*hnōjan-, thus agreeing to the formation \*kneh₂-ie- as supported by the other IE languages. Also cf. OHG _nuo(w)il_ [m.] "plane" < \*hnōila-, OS _hnōa_ "joint, seam", OHG _nuo_, _hnuo_ [f.] "joint, seam" < \*hnōō- and G _Nut_ [f.] "groove, notch" < \*hnōdō-. \
 REF: [EDPG]\: 237
 
-### <a id="hnuppon">\*hnupp/bōn- [wk.] "to tear off" (v)</a>
+### <a id="hnuppōn">\*hnupp/bōn- [wk.] "to tear off" (v)</a>
 N: \
 -- Elfd. _nuppa_ \
 W: \
@@ -12421,7 +12421,7 @@ W: \
 The iterative to OHG _bi-hneotan_ "to shake out" < \*hneudan-, which may or may not be identical to [\*hneudan- "to rivet"](#hneudan). Icel. _hnjóta_ [st.] "to stumble" < \*hneut(t)an- in turn appears to be a back-formation to the iterative. \
 REF: [EDPG]\: 238
 
-### <a id="hobo">\*hōbō- [f.] "piece of land" (n)</a>
+### <a id="hōbō">\*hōbō- [f.] "piece of land" (n)</a>
 W: \
 -- MLG _hōve_ \
 -- MDu. _hoeve_, Du. _hoeve_ [c.] "farm" \
@@ -12430,7 +12430,7 @@ PIE: \*keh₂p-éh₂- \
 COGN: Gr. _κῆπος_, Dor. _κãπος_ [m.] "garden, o rchard, plantation, unworked piece of land" < \*keh₂p-o- \
 REF: [EDPG]\: 238
 
-### <a id="hoda">\*hōda- [m.] "hat, hood" (n)</a>
+### <a id="hōda">\*hōda- [m.] "hat, hood" (n)</a>
 W: \
 -- OE _hōd_ "hood", E _hood_ \
 -- MDu. _hoed_ "hat", Du. _hoed_ [c.] "id." \
@@ -12439,7 +12439,7 @@ PIE: \*koHt-ó- \
 The formation appears to continue \*koHt-ó- and is closely related to [\*hattu- "hat"](#hattu) (q.v.) < \*kHt-nú-. It may have served as the basis for OHG _huoten_, OE _hēdan_ [wk.] "to guard" < \*hōdjan-, although the verb could theoretically also have developed from a regular causative \*koHt-éie-. OE _hædre_ "anxiously" (adv), implying an adjective \*hadra- < \*kHt-ró-(?), has been adduced as well, and would imply a primary meaning "to be cautious". For an alternative explanation, see [\*hattu-](#hattu). \
 REF: [EDPG]\: 238
 
-### <a id="hofa">\*hōfa- [m.] "hoof" (n)</a>
+### <a id="hōfa">\*hōfa- [m.] "hoof" (n)</a>
 N: \
 -- ON _hófr_ \
 -- Far. _hóvur_ \
@@ -12463,7 +12463,7 @@ COGN: Skt. _śā́khā_- [f.] "branch, twig", NP _šax_ "twig" (with _š_- for e
 The word in IE denoted a forked branch that was deployed as a primitive plow. The word has an interesting formal history. Skt. _śā́khā_-, with its combination of a long vowel and an aspirated _kh_, points to a PIIr. paradigm \*ćākā, gen. \*ćakʰas < \*ḱok-eh₂, gen. \*ḱ(o)k-h₂-ós. A similar kind of variation is implied by the co-occurrence of Arm. _c'ak'_ < \*ḱok- and _c'ax_ < \*ḱok-h₂-: since the normal outcome of PIE \*ḱ is _s_ in Armenian, it is possible to think that the _c'_ arose by assimilation in the zero-grade genitive root \*čʰkʰ-. The Germanic word seems to be a different formation, i.e. an n-stem, apparently continuing \*ḱōk-on-, but it is possible to assume that the long \*ō arose in a form \*ḱoh₂k- that was metathesized from \*ḱok-h₂- (for a potential example of the opposite metathesis, however, cf. \*hōfa-). Also cf. OHG _huohili_ [n.] "aratiuncula" < \*hōh(i)lja-. \
 REF: [EDPG]\: 239
 
-### <a id="hokina">\*hōkīna- [n.] "kid, young goat" (n)</a>
+### <a id="hōkīna">\*hōkīna- [n.] "kid, young goat" (n)</a>
 W: \
 -- OE _hēcen_ \
 -- MDu. _hoekijn_ \
@@ -12472,7 +12472,7 @@ COGN: OCS _koza_, Ru. _kozá_, SCr. _kòza_ [f.] "goat" < \*kogʰ-eh₂- \
 A word that cannot be separated from OCS _koza_, although the irregularity of the sound correspondences makes it impossible to reconcile the different forms into a single PIE form. It is conceivable, for this reason, that the term was borrowed from an extinct European language by Slavic and Germanic independently. Also note that the proto-source \*kō̆ǵ/ǵʰ- is reminiscent of another phonetically irregular, and thus potentially non-IE word meaning "goat", i.e. Gr. _αἴξ_ < \*h₂eig/ǵ- and Skt. _ajá_- < \*h₂eǵ-o-. \
 REF: [EDPG]\: 239
 
-### <a id="hola">\*hōla- [n.] "flattery(?)" (n)</a>
+### <a id="hōla">\*hōla- [n.] "flattery(?)" (n)</a>
 N: \
 -- ON _hól_ "praise, flattery" \
 W: \
@@ -12482,7 +12482,7 @@ COGN: Gr. _κηλέω_ "to charm, bewitch" < \*keh₁/₂l-eie-, Lat. _calvor_ 
 An o-stem adjective possibly derived from a sparsely attested base \*keh₁l- or \*keh₂l-. Also cf. Go. _af-holon_ "to slander" < \*hōlōjan- and ON _hœla_ [wk.] "to praise", OE _hēlan_ [wk.] "to slander", OHG _huolan_ [wk.] "to deceive" < \*hōljan-. \
 REF: [EDPG]\: 239
 
-### <a id="honiz">\*hōniz- [n.] "hen, fowl" (n)</a>
+### <a id="hōniz">\*hōniz- [n.] "hen, fowl" (n)</a>
 W: \
 -- OS _hōn_ "hen" \
 -- Du. _hoen_ [c.] "id." \
@@ -12490,7 +12490,7 @@ W: \
 A _vr̥ddhi_-derivative from [\*hanan-](#hanan) (q.v.) . The WGm. languages point to \*hōnaz, pl. \*hōniziz (quasi PIE \*keh₂n-os, pl. \*keh₂n-es-es). ON _hœnsn_, Far. _høsn_, Elfd. _yōns_ [n.pl.] "liens, poultry" points to a diminutive \*hōnis-ina-, a formation with stem variant in \*-s that apparently was not affected by Verner's law. \
 REF: [EDPG]\: 240
 
-### <a id="hopa">\*hōpa- [n.] "small bay(?)" (n)</a>
+### <a id="hōpa">\*hōpa- [n.] "small bay(?)" (n)</a>
 N: \
 -- ON _hóp_ "land-locked bay, small inlet" \
 -- Far. _hópur_ top. "small bay" \
@@ -12522,7 +12522,7 @@ PIE: \*keh₂-ro- \
 The noun seems to have given rise to the verb \*hōrōjan-, cf. ON _hóra_, OS _hōrian_, OHG _huorōn_, G _huren_ "to commit adultery", which is formally parallel to OIr. _caraid_, MW _caraf_ "to love" < \*keh₂-r-eh₂-ie-. Cf. with a different suffix Go. _horinon_ "id.". \
 REF: [EDPG]\: 240
 
-### <a id="horon">\*hōrōn- [f.] "whore" (n)</a>
+### <a id="hōrōn">\*hōrōn- [f.] "whore" (n)</a>
 N: \
 -- ON _hóra_ \
 W: \
@@ -12555,7 +12555,7 @@ PIE: \*krok-éie- \
 The causative of [\*hregan-](#hregan) (q.v.). \
 REF: [EDPG]\: 241
 
-### <a id="hragon">\*hrag/kkōn- [wk.] "to jut out" (v)</a>
+### <a id="hragōn">\*hrag/kkōn- [wk.] "to jut out" (v)</a>
 W: \
 -- OE _ofer-hragan_ "to loom over(?)" \
 -- MDu. _ragen_ "id." \
@@ -12662,7 +12662,7 @@ COGN: OIr. _crib_ "quickly, swiftly" (adv) < \*krb/bʰ- \
 Also cf. MDu. _hem reppen_, Du. _zich reppen_ [wk.] "to rush" < \*hrapjan-. \
 REF: [EDPG]\: 243
 
-### <a id="hratton">\*hratt/dōn- [wk.] "to rush, tumble" (v)</a>
+### <a id="hrattōn">\*hratt/dōn- [wk.] "to rush, tumble" (v)</a>
 N: \
 -- ON _hrata_ "to stagger, fall, tumble" \
 W: \
@@ -12673,7 +12673,7 @@ COGN: Lith. _kretė́ti_ (_kretù_) "to tremble (with old age)" < \*kret-eh₁-i
 The o-grade variant of the iterative [\*hurtōn- ~ \*hrutōn- "to rush, tumble"](#hurton) apparently continuing 3sg. \*hrattōþi, 3pl. \*hradunanþi < \*krot-neh₂-. The received connection with Gr. _κραδάω_ "to swing, brandish" < \*krd-eh₂-ie-, OIr. _fo-ceird_ "to put, throw", MW _kerddet_ "to walk, go" < \*kerd- is erroneous, the Germanic root variant \*hrad- pointing to \*krot-. Also cf. [\*hraþa- ~ \*hrada- "fast"](#hratha). \
 REF: [EDPG]\: 243
 
-### <a id="hratha">\*hraþa- ~ \*hrada- "fast" (adj)</a>
+### <a id="hraþa">\*hraþa- ~ \*hrada- "fast" (adj)</a>
 N: \
 -- ON _hraðr_ \
 W: \
@@ -12746,7 +12746,7 @@ PIE: \*krék-e- \
 A strong verb related to [\*hrag/kkōn-](#ragon) and [\*hrēhi-](#hrehi) (q.v.). The root \*hreg- instead of expected \*hreh- may be due to influence from the causative [\*hragjan-](#hragjan) or the iterative \*hrag/kkōn-. No further etymology: unrelated to Gr. _κρόσσαι_ [f.pl.] "stepped copings of parapets", Lith. _krãkė_ [f.] "rod, staff" < \*krok-ieh₂- and Ru. _krókva_ [f.] "bar, club, rafters" < \*krok-ueh₂-. \
 REF: [EDPG]\: 244
 
-### <a id="hrehi">\*hrēhi- "protruding" (adj)</a>
+### <a id="hrēhi">\*hrēhi- "protruding" (adj)</a>
 W: \
 -- MHG _ræhe_ \
 A _vr̥ddhi_-gerundive to the strong verb [\*hregan-](#hregan) (q.v.). \
@@ -12761,7 +12761,7 @@ COGN: OCS _krada_ [f.] "bonfire, stake", Ukr. _kóroda_ "pile of logs, wood-stac
 The Low Franconian evidence clearly points to a proto-form \*hrētō- (the initial \*h- is not attested, but follows from MLat _frata_ "honeycomb"). MHG _rāz_, G _Roß_ [n.] "id." is in support of a parallel neuter formation \*hrēta-. The MDu. variants _rete_ and _rote_ do not point to ablauting formations \*hretōn- and \*hrutōn- (_pace_ Torp 1909: 107), on the other hand, but reflect a dialectal change of ā to ō and the pertaining umlaut products ǟ and ȫ that arose in the plural, cf. Saarbr. _rōs_, pl. _rēs_ "honey comb". See further [\*hrōta-](#hrota). \
 REF: [EDPG]\: 245
 
-### <a id="hrethan">\*hreþan- [st.] "to sift" (v)</a>
+### <a id="hreþan">\*hreþan- [st.] "to sift" (v)</a>
 W: \
 -- OHG _redan_ \
 PIE: \*krit-é- \
@@ -12769,7 +12769,7 @@ COGN: Lat _cernō_ "to sift, distinguish, decide" < \*kri-n-e-, Gr. _κρῑ́ν
 A zero-grade present \*hriþan- that shifted to the class 5 strong verbs after the a-mutation to \*hreþan- (cf. [\*stekan-](#stekan)). In view of the dental extension, the verb may have been created to the 3sg. aorist form \*kri-t of the root \*krei- "to sieve". See also [\*hrīdra-](#hridra) and [\*hrīþan- ~ \*hrittan-](#hrithan). \
 REF: [EDPG]\: 245
 
-### <a id="hrethra">\*hreþra-(?) [m.] "bat" (n)</a>
+### <a id="hreþra">\*hreþra-(?) [m.] "bat" (n)</a>
 N: \
 -- Icel. _leður-blaka_ [f.] \
 -- Far. _leður-bløka_ \
@@ -12781,7 +12781,7 @@ W: \
 The variants OHG _fledar-mūs_ < \*fleþra-, OE _hrēaðe-mūs_, _hrēre-mūs_ < \*hreþra-(?) and Icelandic _leðr-blaka_ "bat", Elfd. _leðer_ < \*leþra- probably all derive from a difficult to reconstruct proto-form \*þreþra-, \*þleþra- or \*hreþra- that was distorted by assimilation and dissimilation in several different ways. OHG _fledar_- could be the regular outcome of \*þleþra- (cf. G _fliehen_ < \*þleuhan-) but synchronically belongs to _fledarōn_ [wk.] "to flutter". The derivation of OE _hrēaðe_- < \*hrauþa- and _hrēre_- < \*hrēra- is not transparent, but the initial cluster at any rate seems to have been \*hr-. In Old Norse, the form _leðr-blaka_ synchronically means "leather-flapper" (cf. _blaka vængjunum_ "to flap the wings"), but in view of the WGm. evidence, it seems likely that this formation partly results from folk etymology (cf. also ON _veðr-blaka_, Nw. dial. _ver-bloke_ "sky-flapper"). Perhaps, it is possible to connect all forms to a lost noun \*hreþra- "skin, membrane", cf. [\*hreþrja-](#hrethrja) (q.v.). This would imply a PGmc. compound \*hreþra-mūs-. The element "mouse", however, may have been added at many different stages, cf. typologically E _shrew(mouse)_, _rattle(mouse)_, _tit(mouse)_. This may indicate that the word rather started out as a simplex (cf. Elfd. _leðer_). \
 REF: [EDPG]\: 245
 
-### <a id="hrethrja">\*hreþrja- [n.] "diaphragm" (n)</a>
+### <a id="hreþrja">\*hreþrja- [n.] "diaphragm" (n)</a>
 W: \
 -- OE _mid-hriðere_ \
 -- OFri. _mid-rith_, -_rhether_ \
@@ -12833,7 +12833,7 @@ PIE: \*kreu(H)-e \
 Icel. _hrjá_, though a weak verb, corresponds rather neatly to the WGm. forms. It thus points to a non-geminated proto-form \*hrewan- rather than \*hrewwan-, as the latter form would have produced a strong verb ON \*\*_hryggva_, Icel. \*\*_hryggja_. The attested ON _hryggva_, _hryggja_ "to distress, grieve; to cause to look sad" is a factitive \*hrewwjan- to ON _hryggr_ "afflicted, grieved, sad" < \*hrewwu-, cf. OE _hrēow_, OS _hriuwi_ "sad". Also cf. Nw. dial. _rogg_, _rugg_ [n.] "fear" < \*hrawwa-. \
 REF: [EDPG]\: 246
 
-### <a id="hridra">\*hrīdra- [n.] "sieve" (n)</a>
+### <a id="hrīdra">\*hrīdra- [n.] "sieve" (n)</a>
 W: \
 -- OE _hrīdder_, _hrīddel_, E _riddle_ \
 -- OHG _rītera_ [f.], MHG _riter(e)_ [f.], G _Reiter_ [f.] (< \*hridrō-) \
@@ -12842,7 +12842,7 @@ COGN: Lat _crībrum_ [n.] "sieve", OIr. _criathar_ [m.] "id.", OW _cruitr_ "winn
 Derivation with the instrumental suffix \*-tro- or \*-dʰro- from the root \*krei- "to sift", for which see [\*hreþan-](#hrethan). \
 REF: [EDPG]\: 247
 
-### <a id="hriman">\*hrīman- ~ \*hrīpan- [m.] "hoar frost, rime" (n)</a>
+### <a id="hrīman">\*hrīman- ~ \*hrīpan- [m.] "hoar frost, rime" (n)</a>
 N: \
 -- ON _hrím_ [n.] \
 -- Far. _rím_ [n.] \
@@ -12855,7 +12855,7 @@ PIE: \*kreip-mon- \
 The PGmc. variants \*hrīman- and \*hrīpan- both go back to a paradigm nom. \*hrīmō, gen. \*hrīpaz from \*kréip-mōn, \*krip-(m)n-ós (Kroonen 2006). The m was lost in the weak cases, thus creating the right conditions for the operation of Kluge's law. In the nominative, however, the m remained and absorbed the preceding labial. SaaN _riippmo_ possibly preserves a trace of the labial stop, however, the strong grade of -_mm_- normally being -_bm_-. \
 REF: [EDPG]\: 247
 
-### <a id="hrinan">\*hrīnan- [st.] "to touch, affect" (v)</a>
+### <a id="hrīnan">\*hrīnan- [st.] "to touch, affect" (v)</a>
 N: \
 -- ON _hrína_ [wk.] "to take effect" \
 W: \
@@ -12881,7 +12881,7 @@ COGN: OCS _krǫgъ_, Ser. _krȗg_ [m.] "circle" < \*krongʰ-o- \
 An exclusively Slavic and Germanic root that is in violation with the IE constraint against the co-occurrence of plain stops and voiced aspirates. This makes it likely that its origin is to be found in the post-IE phase. Further cf. [\*hrungō-](#hrungo) and - with irregular onset - [\*kringa-](#kringa). Gr. _κρίκος_, _κίρκος_ [m.] "ring" is unrelated. \
 REF: [EDPG]\: 247
 
-### <a id="hrinthiz">\*hrinþiz- ~ \*hrunþiz- [n.] "cow, bovine" (n)</a>
+### <a id="hrinþiz">\*hrinþiz- ~ \*hrunþiz- [n.] "cow, bovine" (n)</a>
 W: \
 -- OE _hrīðer_, _hrȳðer_ \
 -- OFri. _hrīther_ \
@@ -12891,7 +12891,7 @@ PIE: \*ḱr-ént-es- \
 The ablaut displayed by the dialects is suggestive of an ablauting s-stem \*hrinþaz, gen. \*hrundizaz continuing PIE \*ḱrént-os, gen. \*ḱrn̥t-es-s. The root of this noun is likely to be an extension of the PIE root \*ḱr- "horn" (see [\*hurna-](#hurna)). Hardly to Gr. _καρταίποδα_ [n.pl.] "cattle, larger beast", cf. Gr. Hsch. _κάρτην_ acc. "cow". \
 REF: [EDPG]\: 247
 
-### <a id="hrisa">\*hrīsa- [n.] "brushwood" (n)</a>
+### <a id="hrīsa">\*hrīsa- [n.] "brushwood" (n)</a>
 N: \
 -- ON _hrís_ \
 -- Far. _rís_ \
@@ -12905,7 +12905,7 @@ COGN: Lat _crīnis_ [f.] "hair" < \*kris-ni-, OPru. _craysi_ "stalk", _crays_ "h
 A neuter a-stem to a European root \*kreis-. Also cf. Elfd. _umbel-riesn_ [f.] "hop shoot" < \*raisnō(n)- < \*krois-neh₂-. \
 REF: [EDPG]\: 248
 
-### <a id="hrispon">\*hrispōn- [f.] "curl" (n)</a>
+### <a id="hrispōn">\*hrispōn- [f.] "curl" (n)</a>
 W: \
 -- MLG _rispe_ "truss" \
 -- MHG _rispe_ "id." \
@@ -12914,7 +12914,7 @@ COGN: Lat. _crispus_ "curly, curled (of hair)" < \*krisp-o- and with metathesis 
 Also cf. OHG _hrisp-ahi_ [n.] "shrubbery" < \*hrisp-ahja- and MHG _rispen_, _rispeln_ [wk.] "to ripple, curl". \
 REF: [EDPG]\: 248
 
-### <a id="hrithan">\*hrīþan- ~ \*hrittan- [m.] "fever, shivering" (n)</a>
+### <a id="hrīþan">\*hrīþan- ~ \*hrittan- [m.] "fever, shivering" (n)</a>
 W: \
 -- OS _hrido_ \
 -- MDu. _ridde_, _rede_, EDu. _rijde_, _ridde_ \
@@ -12924,7 +12924,7 @@ COGN: OIr. _crith_, W _cryd_ "fever" < \*kri-ti/u- \
 An ablauting n-stem to the _tudáti_-verb \*hriþan- (see \*hrepan-), which originally meant "to shake", then "to sieve" (see [\*hridra-](#hridra)). The ablaut of \*hriþō, gen. \*hrittaz, dat. \*hrideni was preserved until in the OHG period, cf. Notker nom. _rîdo_, dat. _ríten_ (Schaffner 2001: 551). OHG _ritto_, MHG _ritte_ and MDu. _ridde_ continue a stem \*hriþþan- that arose by contamination of the nominative \*hrīþō and the genitive \*hrittaz (cf. Swab. _ritze-rot_ "crimson"). \
 REF: [EDPG]\: 248
 
-### <a id="hrofa">\*hrōfa- [n.] "roof" (n)</a>
+### <a id="hrōfa">\*hrōfa- [n.] "roof" (n)</a>
 N: \
 -- ON _hróf_ "shed under which ships are built" \
 W: \
@@ -12936,7 +12936,7 @@ PIE: \*ḱrōp-o \
 COGN: OCS _stropъ_ [m.] "roof" < \*ḱrop-o, OIr. _cró_ [m.] "enclosure, shed, sty", MW _creu_ [m.] "shed" < \*ḱrōp-o- \
 REF: [EDPG]\: 248
 
-### <a id="hrokan">\*hrōka(n)- [m.] "rook, jackdaw" (n)</a>
+### <a id="hrōkan">\*hrōka(n)- [m.] "rook, jackdaw" (n)</a>
 N: \
 -- ON _hrókr_, _hraukr_ "rook" \
 -- Icel. _hraukur_ "id." \
@@ -12958,7 +12958,7 @@ PIE: \*kroh₂/₃-mo- \
 A mo-stem to the root \*kerh₂/₃ ~ \*kreh₂/₃-. See further under [\*hurjan-](#hurjan), [\*hrōþi-](#hrothi) and [\*hrōþra-](#hrothra). \
 REF: [EDPG]\: 249
 
-### <a id="hropan">\*hrōpan- [st.] "to call, shout" (v)</a>
+### <a id="hrōpan">\*hrōpan- [st.] "to call, shout" (v)</a>
 W: \
 -- OE _hrōpan_ \
 -- OFri. _(h)rōpa_ \
@@ -12986,7 +12986,7 @@ W: \
 No certain etymology. The received comparison with OE _hrūm_ [m.] "soot" < \*hrūma- would imply a formation \*kroHu-d-o- (with PGmc. -ōu- > -ō-), but the suffixation remains unclear. \
 REF: [EDPG]\: 249
 
-### <a id="hrothi">\*hrōþi- [m.] "glory" (n)</a>
+### <a id="hrōþi">\*hrōþi- [m.] "glory" (n)</a>
 E: \
 -- Go. in: _hroþeigs_ "glorious" \
 W: \
@@ -12996,7 +12996,7 @@ COGN: Skt. _kīrtí_- [f.] "fame" < \*krh₂/₃-tí- \
 A ti-stem to the PIE root \*kerh₂/₃-, for which see [\*hrōma-](#hroma) and [\*hurjan-](#hurjan). \
 REF: [EDPG]\: 249
 
-### <a id="hrothra">\*hrōþra- [m.] "praise" (n)</a>
+### <a id="hrōþra">\*hrōþra- [m.] "praise" (n)</a>
 N: \
 -- ON _hróðr_ \
 W: \
@@ -13006,7 +13006,7 @@ COGN: Skt. _carkárti_, YAv. _carəkərə_- "to praise" < \*ker-korh₂/₃- \
 An instrumental noun derived from the PIE root \*kreh₂/₃-. See further [\*hurjan-](#hurjan), [\*hroþi-](#hrothi) and [\*hrōma-](#hroma). \
 REF: [EDPG]\: 249
 
-### <a id="hroza">\*hrōza- "motile" (adj)</a>
+### <a id="hrōza">\*hrōza- "motile" (adj)</a>
 W: \
 -- OE _hrōr_ "stirring, active, vigorous" \
 -- OS _hrōr_ "lively" \
@@ -13015,7 +13015,7 @@ PIE: \*ḱroH-s-ó- \
 An adjective related to [\*hrōzjan-](#hrozjan) (q.v.). \
 REF: [EDPG]\: 249
 
-### <a id="hrozjan">\*hrōzjan- [wk.] "to touch, move, stire" (v)</a>
+### <a id="hrōzjan">\*hrōzjan- [wk.] "to touch, move, stire" (v)</a>
 N: \
 -- ON _hrœra_ \
 -- Far. \*_røra_ \
@@ -13072,7 +13072,7 @@ W: \
 In spite of OS and OFri. _hrok_, the word is often erroneously reconstructed as PGmc. \*rukka- without initial h, and further mistakenly compared to OIr. _rucht_ [f.(?)] "tunic". The initial \*h is also substantiated by OFr. _froc_ (>> G _Frack_, E _frock_), which was adopted from Old Low Franconian with the usual substitution of \*hr- by fr- (see also [\*hraman-](#hraman)). OE _roc_, on the other hand, may just like ON _rokkr_ be a loanword from the continent No further etymology. Hardly related to [\*hrugja- "back; ridge"](#hrugja) (q.v.) through \*hrukka- < \*kruk-nó- "cloak covering the back" in view of the problematic semantics. \
 REF: [EDPG]\: 250
 
-### <a id="hrungo">\*hrungō- [f.] "rung" (n)</a>
+### <a id="hrungō">\*hrungō- [f.] "rung" (n)</a>
 E: \
 -- Go. _hrugga_ "staff, cane" \
 W: \
@@ -13083,7 +13083,7 @@ COGN: Pol. _krężel_ [m.] "distaff" < \*krongʰ-(e/i)li- \
 A zero-grade formation related to [\*hringa- "ring"](#hringa) (q.v.). The formal and semantic similarities with Pol. _krężel_ may be deceptive in view of _kądziel_ "id." < \*kǫdělь and other irreconcilable variants (see Trubacev 1966: 96ff.). \
 REF: [EDPG]\: 251
 
-### <a id="hruson">\*hrusōn- [f.] "crust" (n)</a>
+### <a id="hrusōn">\*hrusōn- [f.] "crust" (n)</a>
 W: \
 -- OE _hruse_ "earth, ground" \
 -- OHG _rosa_ "crust, ice" \
@@ -13092,7 +13092,7 @@ COGN: Lith. _krušà_ "icefloe" < \*krus-eh₂- \
 Also cf. Nw. dial. _rosna_ [wk.] "to come off (of skin)" < \*hrusnan-. \
 REF: [EDPG]\: 251
 
-### <a id="hrutton">\*hrut(t)ōn- [wk.] "to snore, roar" (v)</a>
+### <a id="hruttōn">\*hrut(t)ōn- [wk.] "to snore, roar" (v)</a>
 N: \
 -- Elfd. _rotå_ "to babble" \
 W: \
@@ -13101,7 +13101,7 @@ PIE: \*krut-neh₂- \
 An iterative 3sg. \*hruttōþi, 3pl. \*hrudunanþi < \*krut-néh₂-ti, \*krut-nh₂-énti, the derivational base of OE _hrot_ [m.] "slime", OHG _roz_, _hroz_, G _Rotz_ [m.] "snot" < \*hrut(t)a- as well as the strong verb [\*hreutan- ~ \*hrūtan-](#hreutan) (q.v.). The ungeminated consonantism is still found in e.g. ON _hroði_ [m.] "snot" < \*hruþan- and Icel. _hryðja_ [wk.] "to hawk, cough" < \*hruþjan-, cf. Far. _ryður_ [m.] "coughed up mucus". With a single \*t, cf. MDu. _rotelen_, _reutelen_, G dial. _rosseln_ [wk.] "to rattle". No further etymology: the connection with Gr. Hsch. _κροῦμαι_ "snot" (< \*krou-meh₂-?) is doubtful. \
 REF: [EDPG]\: 251
 
-### <a id="hruthjan">\*hruþjan- [m.] "male dog" (n)</a>
+### <a id="hruþjan">\*hruþjan- [m.] "male dog" (n)</a>
 W: \
 -- OE _hryðða_ \
 -- MLG _rude_ \
@@ -13111,7 +13111,7 @@ PIE: \*krut-ion- \
 Also cf. OE _hroð-hund_ "big dog, molossus" < \*hruþa-. Clearly connected to what Kilian gives as EDu. _roden_ "_catulire_ (to be in heat, to mate)", which technically can be united with the iterative [\*hruttōn- "to roar"](#hrutton) and the pertaining strong verb [\*hreutan- ~ \*hrūtan- "to snore, rout"](#hreutan), cf. E _to rut_. \
 REF: [EDPG]\: 251
 
-### <a id="hudi">\*hūdi- [f.] "skin" (n)</a>
+### <a id="hūdi">\*hūdi- [f.] "skin" (n)</a>
 N: \
 -- ON _húð_ \
 -- Far. _húð_ \
@@ -13168,7 +13168,7 @@ PIE: \*kʷḱ-í- \
 No certain etymology. Often compared to Skt. _śúcyati_ "to glow, shine; to hurt" < \*ḱuk-ie-, but the semantics are not compelling. Rather related to the i-present of the root \*kʷeḱ-, cf. Skt. _ákhyat_ 3sg.aor. "to look", with vocalization of the labialization like in ON _kona_ "woman" < \*kunōn- < \*gʷn-? Within Germanic, also cf. Go. _hugjan_, ON _hyggja_, OE _hycgan_, OFri. _hugia_, OS _huggian_, OHG _huggen_ [wk.] "to think" < \*hugjan- and the late iterative ON _hugga_ [wk.] "to comfort" < \*huggōn-. \
 REF: [EDPG]\: 252
 
-### <a id="hukan">\*hūkan- [st.] "to squat" (v)</a>
+### <a id="hūkan">\*hūkan- [st.] "to squat" (v)</a>
 N: \
 -- ON _húka_ [wk.] \
 -- Far. _húka_ \
@@ -13180,7 +13180,7 @@ W: \
 A strong verb continuing \*hūkkan-, a back-formation to the primary iterative [\*huk(k)ōn-](#hukkon) < \*kuk-néh₂- (q.v.). Further cf. [\*heuhman-](#heuhman) and [\*hauha-](#hauha). \
 REF: [EDPG]\: 252
 
-### <a id="hukkon">\*huk(k)ōn- [wk.] "to squat, cower" (v)</a>
+### <a id="hukkōn">\*huk(k)ōn- [wk.] "to squat, cower" (v)</a>
 N: \
 -- ON _hoka_ \
 W: \
@@ -13219,7 +13219,7 @@ COGN: OIr. _cuilenn_, W _celyn_ [m.] "holly" < \*kolino- \
 E holly appears to be shortened for OE _holen_, _holegn_, which in view of the lack of umlaut seems to point to \*hulena- < \*kuleno-. This proto-form is formally close to, but ultimately irreconcilable with PCelt. \*kolino-. It therefore stands to reason to assume that the Celtic and Germanic words were adopted independently from a third, extinct European language. Also note the even more irregular lookalike ON _hulfr_, Icel. _húlfur_, Da. dial. _hylver-torn_ [n.] "holly" < \*hulba- (= ME _hulvere_). \
 REF: [EDPG]\: 253
 
-### <a id="hullon">\*hul(l)ōn- [wk.] "to move, fetch(?)" (v)</a>
+### <a id="hullōn">\*hul(l)ōn- [wk.] "to move, fetch(?)" (v)</a>
 N: \
 -- Nw. dial. _hula_ "to bend over and reach forward, to pull oneself" \
 W: \
@@ -13257,7 +13257,7 @@ COGN: Gr. _κλάδος_ [m.] "branch, twig, sprout" < \*kld-o-, OCS _klada_, R
 A European word possibly continuing a neuter root noun \*kóld, gen. \*kld-és. \
 REF: [EDPG]\: 254
 
-### <a id="hultha">\*hulþa- "propitious" (adj)</a>
+### <a id="hulþa">\*hulþa- "propitious" (adj)</a>
 E: \
 -- Go. _hulþs_ "kind, clement" \
 N: \
@@ -13306,7 +13306,7 @@ W: \
 A prehistoric Wanderwort. ORu. _xmělь_ < PSl. \*xъmelь and VLat. _humulus_ (cf. Fr. _houblon_) are loanwords from Germanic \*humel(i)-, but the origin of the Germanic word is itself obscure. Lookalikes in the Finno-Ugric and Turkish languages point to an Eastern origin, cf. Hung. _komló_, Mansi _qumlix_, Tat _qolmaq_, Chuv. _xə̑mla_, etc. \
 REF: [EDPG]\: 255
 
-### <a id="hunan">\*hūna(n)- [m.] "top of a stick" (n)</a>
+### <a id="hūnan">\*hūna(n)- [m.] "top of a stick" (n)</a>
 N: \
 -- ON _húnn_ "knob at the top of the mast-head" \
 -- Icel. _húnn_ "door knob, door handle; knob on a flagpole; bear cub" \
@@ -13390,14 +13390,14 @@ COGN: Av. _spənta_-, Lith. _šveñtas_, OPru. _swints_, OCS _svętъ_, Ru. _svj
 An instrumental noun formed by adding the sla-suffix to the continuant of the PIE root \*ḱuent-. It is unclear whether this root was verbal or adjectival in PIE, but in Germanic, the sla-suffix is usually added to verbal stems, cf. Go. _swum(f)sl_ [n.] "pool" < \*swum-sla- to [\*swimman- "to swim"](#swimman). \
 REF: [EDPG]\: 256
 
-### <a id="hunton">\*huntōn- [wk.] "to chase" (v)</a>
+### <a id="huntōn">\*huntōn- [wk.] "to chase" (v)</a>
 W: \
 -- OE _huntian_ "to hunt", E _to hunt_ \
 PIE: \*k/ḱnt-néh₂- \
 The iterative to [\*hinþan-](#hinthan) (q.v.). It gave rise to the causative OE _hentian_ [wk.] "to prosecute, catch" < \*hantjan-, which apparently inherited the iterative semantics. Also cf. OE _hunta_ [m.] "hunter" < \*huntan-. \
 REF: [EDPG]\: 257
 
-### <a id="hupan">\*hūpan- [m.] "pile, heap" (n)</a>
+### <a id="hūpan">\*hūpan- [m.] "pile, heap" (n)</a>
 W: \
 -- OHG _hūfo_, G _Haufen_ \
 PIE: \*kuHp-on \
@@ -13535,7 +13535,7 @@ W: \
 The word has been derived from the verb [\*hurzōn- "to rush"](#hurzon), which is akin to Lat _currō_ "to run" (cf. De Vaan 2008: 157-8). This seems attractive in view of the fact that OIr. _carr_ "vehicle, cart", which similarly can be derived from \*krs-o-, contains the same root. Another possibility is that the word - like [\*paþa- "path"](#patha) and ON _refr_ "fox" (see [\*fuhsa-](#fuhsa)) was borrowed from the Alans during the Migration Period (Brøndal 1928: 5, 15f., 2f.). It is remarkable, at any rate, that Ossetic _wyrs_/_urs_, the continuant of Pllr. \*uršan- "male animal" is the only Iranian language in which the word has come to mean "stallion", cf. Skt. _vŕ̥ṣan_- [m.] "man, male animal (bull, stallion)", YAv. _aršan_- [m.] "man, male". \
 REF: [EDPG]\: 259
 
-### <a id="hurton">\*hurtōn- ~ \*hrutōn- [wk.] "to rush, tumble" (v)</a>
+### <a id="hurtōn">\*hurtōn- ~ \*hrutōn- [wk.] "to rush, tumble" (v)</a>
 N: \
 -- Nw. _rota_ "to slide down" \
 W: \
@@ -13544,7 +13544,7 @@ PIE: \*krt-néh₂- \
 The zero-grade variant of the iterative \*hratt/dōn- "to rush, tumble", continuing Pre-Gm. 3sg. \*hurttōþi, 3pl. \*hurdunanþi < \*krt-néh₂-. Nw. hrota < \*hrutōn-, which received an inverted zero grade on the basis of the full-grade forms, gave rise to the secondary strong verb ON, Icel. _hrjóta_ "to fall, fly, be slung", Nw. _rjota_ "to fall down" < \*hreut(t)an-. \
 REF: [EDPG]\: 260
 
-### <a id="hurzon">\*hurzōn- [wk.] "to rush" (v)</a>
+### <a id="hurzōn">\*hurzōn- [wk.] "to rush" (v)</a>
 N: \
 -- Far. _hurra_ "to take off, roar" \
 -- Nw. _hurre_ "to turn, swirl, rumble" \
@@ -13556,7 +13556,7 @@ COGN: Lat. _currō_ "to run" < \*kors-e-, OIr. _carr_, W _car_ "vehicle" < \*krs
 The semantics of the different forms point to an iterative 3sg. \*hurznōþi, 3pl. \*hurzunanþi < \*krs-neh₂-. Possibly, this formation contains the same root [\*hursa- "horse"](#hursa) (q.v.). \
 REF: [EDPG]\: 260
 
-### <a id="husa">\*hūsa- [n.] "house" (n)</a>
+### <a id="hūsa">\*hūsa- [n.] "house" (n)</a>
 E: \
 -- Go. -_hus_ \
 N: \
@@ -13597,7 +13597,7 @@ COGN: Gr. _κεύθω_ "to hide" < \*keudʰ-e- \
 In view of OSw. _hydda_ [f.] "shelter, hut" < \*huzdjōn-, it seems plausible that the word is related to Gr. _κεύθω_. If so, it can be reconstructed as \*kudʰ-to-, assuming that PGmc. \*-zd- arose by Bartholomae's law. \
 REF: [EDPG]\: 260
 
-### <a id="huzjan">\*hūzjan- [wk.] "to hire" (v)</a>
+### <a id="hūzjan">\*hūzjan- [wk.] "to hire" (v)</a>
 W: \
 -- OE _hyr(i)an_, E _to hire_ \
 -- OFri. _hera_ \
@@ -13625,7 +13625,7 @@ COGN: Hitt. _kui_- ~ _kue_- ~ _kuwa_- (pron) "who, what", Skt. _kí_- (pron) "wh
 The Indo-European interrogative pronoun. The Germanic evidence points to masculine \*hwaz (Go. _ƕas_) vs. \*hwiz (OS _hwe_, OHG _wer_) < \*kʷe/os, feminine \*hwō < \*kʷeh₂ and neuter \*hwat < \*kʷod. See also [\*hwaþera- "who/which of two"](#hwathera). \
 REF: [EDPG]\: 261
 
-### <a id="hwaino">\*hwainō- [f.] "red-top grass" (n)</a>
+### <a id="hwainō">\*hwainō- [f.] "red-top grass" (n)</a>
 N: \
 -- ON _hvein_ top. "swamp(?)" \
 -- Nw. _kvein(e)_ "red-top grass; hair" \
@@ -13685,7 +13685,7 @@ COGN: OPru. _kalis_ "wels catfish" < \*kʷol-i-? \
 The word probably contains the PIE root \*kʷel- "to turn" (see [\*hweula- "wheel"](#hweula)), cf. Du. _tuimelaar_ "bottlenose dolphin" (lit. "tumbler"). In view of the closely related formations OHG _walira_ [f.] "whale" < \*hwalizō(n)- and G _Wels_ "wels catfish, sheatfish" < \*hwalisa-, it is conceivable that the stem \*hwali- developed from an old hysterokinetic s-stem \*kʷol-ḗs. gen. \*kʷol-s-ós, acc. \*kʷol-és-m. Schrijver 2001: 423, on the other hand, adduced Lat. _squalus_ "unidentified sea-fish", OPru. _kalis_ "catfish" and Fi. _kala_ "fish" to substantiate a European substrate word. Also note Icel, _hvelja_, Far. _hvølja_ [f.] "whaleskin" < quasi-PGmc. \*hwaljōn-. \
 REF: [EDPG]\: 262
 
-### <a id="hwanno">\*hwannō- [f.] "(stalk of) angelica" (n)</a>
+### <a id="hwannō">\*hwannō- [f.] "(stalk of) angelica" (n)</a>
 N: \
 -- ON _hvǫnn_ \
 -- Far. _hvonn_ \
@@ -13769,7 +13769,7 @@ PIE: \*kʷh₁d-o- \
 Adjective to \*hwētan- < \*kʷeh₁d-e-. Cf. the factitive Go. _ga-ƕatjan_, ON _hvetja_, OE _hwettan_, OHG _wezzen_ [wk.] "to incite, sharpen, whet". \
 REF: [EDPG]\: 264
 
-### <a id="hwathera">\*hwaþera- "who of two?" (pron)</a>
+### <a id="hwaþera">\*hwaþera- "who of two?" (pron)</a>
 E: \
 -- Go. _ƕaþar_ \
 N: \
@@ -13786,7 +13786,7 @@ COGN: Skt. _katará_-, Av. _katāra_-, Gr. _πότερος_, Lat. _uter_ "which
 An Indo-European pronoun derived from \*kʷo- "who, which" (see [\*hwa-](#hwa)) with the contrastive suffix \*ter-o-. \
 REF: [EDPG]\: 264
 
-### <a id="hwathon">\*hwaþōn- [f.] "foam" (n)</a>
+### <a id="hwaþōn">\*hwaþōn- [f.] "foam" (n)</a>
 E: \
 -- Go. _ƕaþo_ \
 N: \
@@ -13854,7 +13854,7 @@ PIE: \*kʷérp-e-(?) \
 The received etymology connects the verb to Gr. _καρπός_ [m.] "wrist", allegedly from \*kʷrp-o- with dissimilatory delabialization of \*kʷ and analogical metathesis of -_ρα_- to -_αρ_- .(cf. Pokorny lEW: 631). It is unclear why Go. _ƕairban_ and G _werben_ generalized the Verner variant \*b, but MHG _werven_ may be a vestige of original \*hwerfan- < \*kʷérp-e-. \
 REF: [EDPG]\: 265
 
-### <a id="hwerhwetjo">\*hwerhwetjō- [f.] "gourd(?)" (n)</a>
+### <a id="hwerhwetjō">\*hwerhwetjō- [f.] "gourd(?)" (n)</a>
 W: \
 -- OE _hwerhwette_ "cucumber", ME _hwerwette_, _werwette_ "cucumber, gourd" \
 PIE: \*kʷerkʷet- \
@@ -13862,7 +13862,7 @@ COGN: Lat. _cucurbita_ [f.] "gourd" \
 The English attestations can be reconstructed as PGmc. \*hwerhwetjō-, continuing quasi-PIE \*kʷerkʷet-ieh₂-. The word is reminiscent of, but formally irreconcilable with Lat. _cucurbita_. I therefore assume that a European word referring to one of the members of the _Cucurbitaciae_ was adopted by Germanic and Italic independently when these languages had settled in Europe. The word no doubt belongs to the layer of agricultural terms that are clearly non-Indo-European, cf. [\*arwīt- "pea"](#arwit) and [\*murhōn- "carrot"](#murhon). \
 REF: [EDPG]\: 266
 
-### <a id="hwesan">\*hwēsan- [st.] "to wheeze" (v)</a>
+### <a id="hwēsan">\*hwēsan- [st.] "to wheeze" (v)</a>
 W: \
 -- OE _hwǣsan_, E _to wheeze_ \
 PIE: \*ḱuḗs-e- \
@@ -13870,14 +13870,14 @@ COGN: Skt. _śvásati_ "to hiss, breathe, sigh" (cf. Skt. _śúṣma_- [m.] "his
 Also cf. ON _hvæsa_ [wk.] "to hiss", Far. _hvæsa_ [wk.] "to wheeze", Elfd. _węsa_ [wk.] "to breathe" (with secondary nasal vowel) < \*hwēsjan- and MDu. _hissen_, _hussen_ [wk.] "to whistle, hiss", ME _hissen_ [wk.] "to hiss (of serpents, geese); to whistle", E _to hiss_ < \*husjan-(?) < \*ḱus-ie-(?). \
 REF: [EDPG]\: 266
 
-### <a id="hwetan">\*hwētan- [st.] "to stab, pierce" (v)</a>
+### <a id="hwētan">\*hwētan- [st.] "to stab, pierce" (v)</a>
 N: \
 -- ON _hváta_ [wk.] \
 PIE: \*kʷeh₁d-e- \
 A marginally attested strong verb (ON _hváta_ is weak, but the poet. form _hvátinn_ "pierced" probably continues the original strong past participle) without any certain extra-Germanic cognates. The link with Skt. _códati_ "to stimulate" < \*kéud-e- (for which see [\*hut(t)ōn-](#hutton)) cannot be maintained (_pace_ Pokorny IEW: 636), because the Germanic ablaut points to a root \*kʷeh₁d- rather than \*kuēd- with _Schwebeablaut_. This is especially clear from [\*hwassa- "sharp"](#hwassa) (q.v.), which continues the original past participle \*kʷh̥₁d-to- with vocalization of a laryngeal. See also [\*hwata-](#hwata) and [\*hwōtjan-](#hwotjan). \
 REF: [EDPG]\: 266
 
-### <a id="hwijon">\*hwijōn- [wk.] "to whinny" (v)</a>
+### <a id="hwijōn">\*hwijōn- [wk.] "to whinny" (v)</a>
 N: \
 -- Icel. _hvía_ \
 W: \
@@ -13886,7 +13886,7 @@ PIE: \*kʷi-eh₂-ie- \
 A verb of onomatopoetic origin. G _wiehern_ "id." is a frequentative of MHG _wihen_. Also cf. OHG _weijōn_, MHG _weihen_ "id." < \*hwaijōn- < \*kʷoi-eh₂-ie-. Related to [\*hwīnan-](#hwinan)? \
 REF: [EDPG]\: 266
 
-### <a id="hwilo">\*hwīlō- [f.] "while" (n)</a>
+### <a id="hwīlō">\*hwīlō- [f.] "while" (n)</a>
 E: \
 -- Go. _ƕeila_ "period, while" \
 N: \
@@ -13904,7 +13904,7 @@ COGN: Av. _šāiti_- "joy", OP _šiyāti_- "comfort" < \*kʷieh₁-ti-, Av. _š(
 Also cf. Go. _ƕeilan_ [wk.] "to hesitate", ON _hvíla_ [wk.] "to rest, lie down", OHG _wīlōn_ [wk.] "to stay, reside", G _weilen_ [wk.] "to linger" < \*hwīlēn-. \
 REF: [EDPG]\: 266
 
-### <a id="hwinan">\*hwīnan- [st.] "to whistle, whiz" (v)</a>
+### <a id="hwīnan">\*hwīnan- [st.] "to whistle, whiz" (v)</a>
 N: \
 -- ON _hvína_ \
 W: \
@@ -13921,7 +13921,7 @@ W: \
 The full-grade form of [\*hunda- "dog"](#hunda-2) (Pijnenburg 1981). The old view that the word means "Wendish hound" is obliterated by the late OFri. form _hwynden_ pl. "greyhounds" with initial _hw_- (Bremmer 1993: 31-2). \
 REF: [EDPG]\: 267
 
-### <a id="hwita">\*hwīta- ~ \*hwitta- "white" (adj)</a>
+### <a id="hwīta">\*hwīta- ~ \*hwitta- "white" (adj)</a>
 E: \
 -- Go. _ƕeits_ \
 N: \
@@ -13939,7 +13939,7 @@ COGN: Skt. _śvítna_- "white, whitish" < \*ḱuit-no-, Skt. _śvetá_- "white, 
 A formally complicated word. Most dialects have \*hwīta-, a full-grade form continuing Pre-Gm. \*hwītta- < \*ḱueit-nó- (with Kluge's law), but OFri. _wit_ and Du. _wit_ with a short vowel point to a zero-grade variant \*hwitta- < \*ḱuit-nó-. The resulting ablaut alternation raises the question of whether the adjective originally may have been athematic, e.g. a heteroclitic \*ḱuéit-ōr, gen. \*ḱuit-n-ós. For a similar type of adjectival ablaut, see [\*stōra- ~ \*stura- "big"](#stora). \
 REF: [EDPG]\: 267
 
-### <a id="hwosan">\*hwōsan- [st.] "to cough" (v)</a>
+### <a id="hwōsan">\*hwōsan- [st.] "to cough" (v)</a>
 W: \
 -- OE _hwōsan_, ME _hwōsen_ \
 PIE: \*kʷéh₂s-e- \
@@ -13947,7 +13947,7 @@ COGN: Skt. _kā́s_- [f.] "cough" < \*kʷeh₂s-, Lith. _kósėti_ (_kósiu_) "t
 The primary verbal root served as the basis for [\*hwōstan- "cough"](#hwostan) (q.v.). \
 REF: [EDPG]\: 267
 
-### <a id="hwostan">\*hwōstan- [m.] "cough" (n)</a>
+### <a id="hwōstan">\*hwōstan- [m.] "cough" (n)</a>
 N: \
 -- ON _hósti_ \
 W: \
@@ -13957,7 +13957,7 @@ W: \
 Derived from [\*hwōsan-](#hwosan) (q.v.) with a dental suffix. A denominal verb is ON _hósta_, OE _hwōsta_, OHG _huoston_, G _husten_, Du. _hoesten_ < \*hwōstōjan-. \
 REF: [EDPG]\: 268
 
-### <a id="hwotjan">\*hwōtjan- [wk.] "to bore; to threaten" (v)</a>
+### <a id="hwōtjan">\*hwōtjan- [wk.] "to bore; to threaten" (v)</a>
 E: \
 -- Go. _ƕotjan_ "to reprimand, warn sternly, threaten" \
 N: \
@@ -13980,7 +13980,7 @@ COGN: Skt. _ayám_, [f.] _iyám_, [n.] _idám_ (pron) "this here, he", OAv. _aii
 The PIE demonstrative pronoun, probably originally inflected as [m.] \*h₁ei, [f.] \*h₁i-ih₂, [n.] \*h₁id. \
 REF: [EDPG]\: 268
 
-### <a id="ida">\*īda- [m.] "chub, orfe" (n)</a>
+### <a id="īda">\*īda- [m.] "chub, orfe" (n)</a>
 N: \
 -- Nw. _id_ \
 -- Sw. _id_ [c.] \
@@ -13990,7 +13990,7 @@ W: \
 A fish name usually taken to be derived from the root \*h₂eidʰ- "to burn" (see [\*aida-](#aida)) because of its light color. This etymology is impossible, however, as \*īd- cannot possibly have developed from this root in a regular way. \
 REF: [EDPG]\: 268
 
-### <a id="idala">\*īdala- "void, idle, futile" (adj)</a>
+### <a id="īdala">\*īdala- "void, idle, futile" (adj)</a>
 W: \
 -- OE _īdel_, E _idle_ \
 -- ODu. _īdil_, Du. _ijdel_ \
@@ -14000,7 +14000,7 @@ COGN: Latv. _jȩ̂ls_ "raw, crude, unworked", Ru. _jályj_, _jálovyj_ "infertil
 The word has been compared to [\*aida- "fire"](#aida) (q.v.) and Gr. _ἰθάρος_ "pure, clear", but the implied semantic shifts are problematic. If the original meaning was "empty", however, the word can simply be connected to the aforementioned Balto-Slavic and Celtic forms, which point to a proto-meaning "empty land, clearing". \
 REF: [EDPG]\: 268
 
-### <a id="idojan">\*idōjan- [wk.] "to move about restlessly" (v)</a>
+### <a id="idōjan">\*idōjan- [wk.] "to move about restlessly" (v)</a>
 N: \
 -- Icel. _iða_ \
 PIE: \*h₁i-t-eh₂-ie \
@@ -14008,7 +14008,7 @@ COGN: Identical to Gr. _ἰτάω_ "to go here and there", Lat. _itō_, -_āre_
 The Icelandic verb has not been given a straightforward etymology, but probably continues the well-attested IE frequentative in -t- created to the root \*h₁ei- "to go" (cf. [\*aidja-](#aidja)) . Also cf. Icel. _ið_ [n.] "constant moving, quivering" and Icel. _íð_, _ið_ [f.] "profession, job" (Far. _íðin_ "eager, industrious"), the latter perhaps continuing an ablauting i-stem \*h₁éi-ti-s, \*h₁it-éi-s (hardly \*h₁éit-ih₂, \*h₁it-iéh₂-, Magnusson 1989: 415). \
 REF: [EDPG]\: 269
 
-### <a id="ilith">\*iliþ- [m.(?)] "sole of the foot" (n)</a>
+### <a id="iliþ">\*iliþ- [m.(?)] "sole of the foot" (n)</a>
 N: \
 -- ON _il_ [f.] \
 -- Far. _il_ [f.] \
@@ -14020,7 +14020,7 @@ PIE: \*il-it \
 The different formations all seem to continue an old t-stem, \*ili, gen. \*iliþiz < \*ii-it, \*ii-it-es. Magnusson 1989: 418-9 connects ON _ĭ́li_, Icel. _íli_ [m.] "fishing net weight; wedge", Nw. dial. _ile_ [m.] "fishing net weight, anchor; turf wall around a hut" < \*īlan-, which point to an original meaning "foot" or "anchor". No further cognates, except, perhaps ON _ilki_ "sole of the foot" if it derives from \*il-kan- (with the same suffix as in e.g. [\*mankan- "neck of a horse"](#mankan), q.v.). This +, however, has also been explained as borrowing from a lost Saami word corresponding to Fi. _jälka_ "track" (Hyllested 2008). \
 REF: [EDPG]\: 269
 
-### <a id="iljan">\*īljan- [wk.] "to rush" (v)</a>
+### <a id="īljan">\*īljan- [wk.] "to rush" (v)</a>
 W: \
 -- OS _īlian_ "to hurry" \
 -- MDu. _īlen_ "to rush", Du. _ijlen_ "to hurry" \
@@ -14095,7 +14095,7 @@ COGN: Lith. _į́sčios_, Latv. _ìekšas_ [f.pl.] "entrails" < \*h₁n-sth₂-i
 A noun derived from the preposition \*h₁en "inside" and the locational suffix \*-sth₂-, for which see [\*in(i)](#ini) and [\*inþera-](#inthera). OPru. _instran_ "lard" may have been borrowed from MLG _inster_. \
 REF: [EDPG]\: 270
 
-### <a id="inthera">\*inþera- [n.] "entrails" (n)</a>
+### <a id="inþera">\*inþera- [n.] "entrails" (n)</a>
 N: \
 -- ON _iðr_, _innr_, _indr_ \
 -- Far. _indur_ "intestines for cooking blood sausage", pl. "entrails" \
@@ -14112,7 +14112,7 @@ COGN: Gr. _δόρξ_, _ζόρξ_, Hsch. _ἴορκες_, _ἴυρκες_ (pl.)
 Also cf. OHG _ir(a)h_ "buck leather", MLG _er(e)ch_, _errich_ [n.] "tanned leather". All forms point to PGmc. \*irha-. This form has a close match in the o-grade formation Arm. _ors_ (Martirosyan 2009: 544-5) and W _iwrch_ < \*iork-o- (with raising before -rk-, cf. Schrijver 1995: 61). The variation of Gr. _δόρξ_, _ζόρξ_, _ἴορκες_ and Lat. _hircus_, _ircus_ is unexplained. \
 REF: [EDPG]\: 270
 
-### <a id="isa">\*īsa- [m./n.] "ice" (n)</a>
+### <a id="īsa">\*īsa- [m./n.] "ice" (n)</a>
 N: \
 -- ON _íss_ [m.] \
 -- Far. _ísur_ [m.] \
@@ -14125,7 +14125,7 @@ COGN: To Av. _aēxa_- [n.] "cold", Oss. _ix_ / _yex_ "ice" < \*HeiH-ko-? \
 In view of the neuter gender in West Germanic, it is possible that the word represents a thematicized s-stem, e.g. \*h₁ei(H)-(o)s, gen. \*h₁i(H)-es-(o)s. No certain extra-Gm. cognates. Av. _aēxa_- can only be related if it continues a form \*h₁eiH-ko- that developed into \*HeikHo- by laryngeal metathesis (for which cf. [\*hōfa-](#hofa)). \
 REF: [EDPG]\: 271
 
-### <a id="isarna">\*īsarna- ~ \*īzarna- [n.] "iron" (n)</a>
+### <a id="īsarna">\*īsarna- ~ \*īzarna- [n.] "iron" (n)</a>
 E: \
 -- Go. _eisarn_ \
 N: \
@@ -14138,7 +14138,7 @@ W: \
 A PGmc. loanword from PCelt. \*īsarno- "iron", cf. OIr. _íarn_ "id.". The latter word was borrowed by Old Norse at a later stage, emerging there as _járn_. It is uncertain whether \*īsarno- belongs to the family of [\*aiza- "ore"](#aiza) (q.v.) < \*h₂ei-es-. \
 REF: [EDPG]\: 271
 
-### <a id="iwa">\*īwa- [m.] "yew" (n)</a>
+### <a id="īwa">\*īwa- [m.] "yew" (n)</a>
 N: \
 -- ON _ýr_ \
 -- Elfd. _åyve_ [n.] (< \*īwja-) \
@@ -14152,7 +14152,7 @@ REF: [EDPG]\: 271
 
 ## J
 
-### <a id="jakkon">\*jakk/gōn- [wk.] "to rush, chase" (v)</a>
+### <a id="jakkōn">\*jakk/gōn- [wk.] "to rush, chase" (v)</a>
 W: \
 -- OS _jagon_ "to drive", WPhal. _jacken_ "to rush" \
 -- EDu. _jacken_ "id.", Du. _jagen_ "to rush, hunt"; _jakkeren_ "to speed" \
@@ -14218,7 +14218,7 @@ COGN: Hitt. _eka_- [n./c.] "cold, frost, ice" < \*ieǵ-o-, OIr. _aig_, gen. _ega
 Also cf. ON _jǫkull_ [m.] "icicle; glacier", OFri \*_j(i)ūkul_ (with u-mutation, cf. Lofstedt 1931: 141, fn. 2), WFri. _jûkel_ [c.] "icicle, cone", NFri. _jugl_ [m.] "id." (= MLG _jokele_ "id."); OSw. _ikil_ [m.] "id.", Elfd. _ais-ikkel_ [m.] "id.", OFri. _itsil_, OE _gicel_ [m.] "ice-floe; icicle" (E _icicle_ < \*ice-yickle) < \*jekila-; OHG _ihhilla_, OS _jikila_ [f.] "icicle" < \*jekiljō-. \
 REF: [EDPG]\: 273
 
-### <a id="jera">\*jēra- [n.] "year" (n)</a>
+### <a id="jēra">\*jēra- [n.] "year" (n)</a>
 E: \
 -- Go. _jer_ \
 N: \
@@ -14295,7 +14295,7 @@ W: \
 A WGm. jan-verb 3sg. \*jukjeþi, 3pl. \*jukjanþi. The \*j was lost before front vowels, which after WGm. j-gemination resulted in an allomorphic paradigm 3sg. \*jukiþi, 3pl. \*jukkjanþi. This allomorphy explains the difference between e.g. G _jucken_ and Du. _jeuken_. Also cf. OE _gycða_ [m.] "itch", MDu. _jucte_, _joocte_ [f.] "id.", OHG _jukido_, MHG _jukede_ [m.] "scabies" < \*jukiþan-. No certain etymology. It is perhaps conceivable that the verb, which appears to have had an oblique subject (\*mike jukjeþi "I have an itch"), is related to \*jukkōn-, cf. G Als., Pal. _jucken_ "to jerk". \
 REF: [EDPG]\: 274
 
-### <a id="jukkon">\*jukkōn- [wk.] "to hop; to run" (v)</a>
+### <a id="jukkōn">\*jukkōn- [wk.] "to hop; to run" (v)</a>
 W: \
 -- G dial. _jucken_, Swab. "to jump, hop", Pal. "to jerk, rock", Als. "to jerk, jump up, turn away", Swab. "to jump, run; to hop", Cimb. "to throw; jump", Swi. (Rhntl.) "to run fast", (Schfh.) _jūkxə_ "to hop" \
 Probably related to [\*jakk/gōn-](#jakkon) (q.v.) "to rush" in view of the semantics of e.g. G Pal. _jacken_ [wk.] "to rock". In the German dialects, the word has often merged with _jucken_ "to itch" < \*jukjan-, but this may originally have been a different verb. \
@@ -14326,7 +14326,7 @@ COGN: Identical to Skt. _yuvaśá_- "young, youthful", [m.] "youth", Lat. _iuven
 This adjective is commonly reconstructed as \*h₂iu-Hn-ḱo-, i.e. a formation derived from PIE \*h₂oi-u- "lifetime, age" (for which see [\*aiwa/ō-](#aiwa-1)) with the possessive Hoffmann suffix (cf. Skt. _yúvan_-, gen. _yū́naḥ_ [m.] "young" < \*Hiu-Hon-, gen. \*Hiu-Hn-os). The original meaning would then have been "having lifetime (left)". I am tempted, however, to derive \*junga- directly from the hitherto isolated verbal base \*Hieu- "to mature", as supported by ToB _yäw_- "to ripen, mature". The meaning "young" would then have developed from "maturing". See also [\*ju(w)unþi- "youth"](#juwunthi). \
 REF: [EDPG]\: 274
 
-### <a id="juz">\*jūz "you (pl.)" (pron)</a>
+### <a id="jūz">\*jūz "you (pl.)" (pron)</a>
 E: \
 -- Go. _jus_, obl. _izwis_ \
 N: \
@@ -14342,7 +14342,7 @@ COGN: Skt. _yūyám_, Lith. _jū̃s_, Latv. _jũs_, OPru. _iuse_, Alb. _ju_ (pro
 The pronoun of the second person plural. In the nominative, \*jūz is the primary form. It is attested in Gothic, but the NWGm. languages introduced \*jīz on the basis of [\*wīz "we"](#wiz) (q.v.). The original oblique form was \*iwe < PIE \*iu(H)-e, with an ending -e as in PIE \*h₁me "me". In WGm., this form was extended by \*-ike (OE _eowic_, OHG _iuwih_, G _euch_) on the basis of \*mike in the accusative case. North and East Germanic point to \*izwiz in both the dative and the accusative case; ON _yðr_ arose from \*iʀwiʀ by dissimilation of the first palatal _r_. This \*izwiz seems to have come about by metathesis of a form \*iw-siz, i.e. the oblique form \*iwe plus a dative suffix abstracted from \*unsiz "us". It replaced the original dative \*iwiz that lived on as OFri. _iō_, _iū_, OHG _iu_, etc. The suffix \*-iz itself arose under the influence of the datives \*miz and \*þiz. See also [\*wīz](#wiz) and [\*jut](#jut). \
 REF: [EDPG]\: 275
 
-### <a id="justa">\*jū̆sta- [m.] "cheese"(n)</a>
+### <a id="jūsta">\*jū̆sta- [m.] "cheese"(n)</a>
 N: \
 -- ON _ostr_ \
 -- Far. _ostur_ \
@@ -14368,7 +14368,7 @@ COGN: Lith. _jùdu_, [f.] _jùdvi_ "you (du.)" < \*iu-du- (the absence of Winter
 The dual pronoun of the second person. The original nominative was probably \*jut in view of Lith. _jùdu_. This form is not attested in Gothic, however, and NWGm. introduced \*jit under the influence of [\*wit "we two"](#wit) (q.v.). The oblique case is to be reconstructed as \*inke. It is entirely parallel to \*unke "us two", and is likely to have arisen analogically by the substitution of initial u by i on the basis of \*iwe, the oblique form of [\*jūz](#juz) (q.v.). Similarly, the dative \*inkwiz, continued by Go. _igqis_, ON _ykkr_, adopted the element \*-wiz that was abstracted from the parallel second person plural oblique form \*izwiz. \
 REF: [EDPG]\: 276
 
-### <a id="juwunthi">\*ju(w)unþi- [f.] "youth" (n)</a>
+### <a id="juwunþi">\*ju(w)unþi- [f.] "youth" (n)</a>
 E: \
 -- Go. _junds_\* \
 W: \
@@ -14486,7 +14486,7 @@ W: \
 The original past participle of the strong verb [\*kalan-](#kalan) (q.v.). The Germanic word is unrelated yet suspiciously similar to OCS _xladъ_ "coolness, cool breeze", Ru. _xólod_ "cold". Further cf. ON, Far. _kuldi_, Nw., Da. _kulde_ "cold" < \*kuldan-. \
 REF: [EDPG]\: 278
 
-### <a id="kallon">\*kallōn- [wk.] "to freeze" (v)</a>
+### <a id="kallōn">\*kallōn- [wk.] "to freeze" (v)</a>
 W: \
 -- G Swi. _xallen_ "to freeze, stiffen" \
 The iterative to the strong verb [\*kalan-](#kalan) (q.v.). \
@@ -14502,7 +14502,7 @@ COGN: OCS _golъ_, Ru. _gólyj_, SCr. _go_ "naked" < \*golH-o-; for a comparable
 Also cf. OFri. _sin-kele_ [f.] "permanent baldness". A Germanic-Balto-Slavlc isogloss. Unrelated to Skt. _kulvá_- "bald, thin-haired", YAv. _kauruua_- "bald", Lat. _calvus_ "id." < \*klH-uo-. \
 REF: [EDPG]\: 278
 
-### <a id="kalzojan">\*kalzōjan- [wk.] "to call, shout" (v)</a>
+### <a id="kalzōjan">\*kalzōjan- [wk.] "to call, shout" (v)</a>
 N: \
 -- ON _kalla_ \
 -- Far. _kalla_ \
@@ -14606,7 +14606,7 @@ COGN: Lith. _žándas_ [m.] "cheek, jaw", Latv. _zuôds_ [m.] "chin, jaw" \
 The late attestation of this word has led to the assumption that it was borrowed from Romance, cf. Fr. dial. _cant_, It., Sp. _canto_. In view of the semantically similar G _Kanz_ and Scot. _cantle_, however, it seems plausible that we are dealing with a Germanic word meaning "side (of the head?)" or "cheek". PGmc. \*kanta- can then be connected to Lith. _žándas_ < \*ǵond-o-, whose root looks like a variant of \*gen(H)- as found in [\*kinnu- "cheek, chin"](#kinnu). \
 REF: [EDPG]\: 280
 
-### <a id="kappon">\*kap(p)ōn- [wk.] "to stare" (v)</a>
+### <a id="kappōn">\*kap(p)ōn- [wk.] "to stare" (v)</a>
 W: \
 -- OE _capian_ "to turn" \
 -- MDu. _capen_ "to watch, stare at" \
@@ -14616,7 +14616,7 @@ COGN: Ru. _zabóta_ [f.] "care, worry" < \*ǵōbʰ-ot-eh₂-(?) \
 An iterative formation 3sg. \*kappōþi, 3pl. \*kabunanþi (secondary \*kapunanþi) < \*gobʰ-neh₂-ti, \*gobʰ-nh₁-enti. It probably served as the basis for the stative ON _kópa_ "to watch" < \*kōpēn- and the causative(?) OE _kēpan_ "to watch, keep", WFri. _kypje_ [wk.] "to look" < \*kōpjan-. Also cf. OE _ge-cōp_ "fit" < \*ga-kōpa- (Heidermanns 1993: 340-1). \
 REF: [EDPG]\: 280
 
-### <a id="karo">\*karō- [f.] "worry, care" (n)</a>
+### <a id="karō">\*karō- [f.] "worry, care" (n)</a>
 E: \
 -- Go. _kara_ "care, worry, concern" \
 N: \
@@ -14648,7 +14648,7 @@ W: \
 A formation that is taken to be derived from [\*kattōn- "cat"](#katton) with the masculinizing azan-suffix, for which cf. [\*ganazan- "gander"](#ganazan). The Göttingen dialect variant _kāz_, pl. _kȫze_ (Schambach 1858: 98) would then continue a non-Vernerized form \*katasan- or \*kadasan-. The single t of the implied root \*kat- still remains remarkable, as the derivational base \*kattōn- has a geminate. Perhaps, this alternation points to an old n-stem with a singulate/geminate alternation, nom. \*katō, gen. \*kattaz. Late OHG _katere_ looks like a variant stem \*kadazan-, but is in spite of Cimb. _kattaro_ usually regarded as a loanword from Low German. The alternative is to conversely assume that Du. _kater_ is a loanword from High German, which would imply a paradigm \*kadō, \*kattaz "cat". \
 REF: [EDPG]\: 281
 
-### <a id="katton">\*kattōn- [f.] "cat" (n)</a>
+### <a id="kattōn">\*kattōn- [f.] "cat" (n)</a>
 N: \
 -- Nw. _katte_ \
 W: \
@@ -14682,7 +14682,7 @@ N: \
 Also cf. Far. _koyna_, Nw. _køyne_ [f.] "blister" < \*kaunōn-. No further etymology. \
 REF: [EDPG]\: 282
 
-### <a id="kauno">\*kaunō- [f.] "jaw" (n)</a>
+### <a id="kaunō">\*kaunō- [f.] "jaw" (n)</a>
 W: \
 -- MDu. _coon_ "jaw (of a fish), gill", Du. _koon_ [c.] "cheekbone, jaw, gill" \
 PIE: \*ǵiouH-neh₂- \
@@ -14690,7 +14690,7 @@ COGN: Lith. _žiáuna_ [f.] "jaw, jawbone, gill", Latv. _žaũnas_ [f.pl.] "jaw"
 A formation derived from the verb [\*kewwan- "to chew"](#kewwan) (q.v.). Other related Germanic formations meaning "jaw" are difficult to account for due to severe formal incongruences, cf. OSw. _kiæke_, Sw. _käke_, Nw. _kjake_ < \*kekan- ~ OE _cēace_, E _cheek_ < \*kaukōn- ~ OFri. _tziāke_, WFri. _tjeak_, EFri. _sooke_ < \*keukōn- ~ MDu. _cake_, Du. _kaak_ < \*kakōn- (see De Vaan 2012). OE _cian_ [f.pl.] "gills", MDu. _kieuwe_ [f.] "jaw, gill", Du. _kieuw_ [c.] "gill", OHG _kiuwa_, MHG _ki(u)we_, G _Käu_ [f.] "jaw" < \*kew(w)ōn-, on the other hand, can be derived directly from the strong verb. \
 REF: [EDPG]\: 282
 
-### <a id="kauton">\*kautōn- [f.] "knuckle" (n)</a>
+### <a id="kautōn">\*kautōn- [f.] "knuckle" (n)</a>
 W: \
 -- OFri. _kāte_ \
 -- MDu. _cote_ "hoof, fetlock", Du. _kootje_ dim. "phalanx" \
@@ -14698,7 +14698,7 @@ W: \
 No certain etymology. The word has been compared to Sw. dial. _kut_ [m.] "hunch, hump", which, however, belongs to the unrelated etymological cluster of Sw. dial. _kuta_ (_ryggjn_), Nw. dial. _kuuta ryggjn_ "to bend one's back", Nw. dial. _kut_ [m.] "stuntedness, dwarfism" < \*kūta-, Sw. dial. _kot_ [m.] "gnarl" etc. The link with MDu. _cotel_ [f.] "animal dropping", Du. _keutel_ [c.] "id." < \*kutilō- (cf. Pokorny IEW: 393-8) is not very appealing either. \
 REF: [EDPG]\: 283
 
-### <a id="kawo">\*kawō- [f.] "jackdaw" (n)</a>
+### <a id="kawō">\*kawō- [f.] "jackdaw" (n)</a>
 W: \
 -- OE _cēo_, E _chough_ \
 -- OS _kā_ \
@@ -14729,7 +14729,7 @@ W: \
 A West Germanic word probably leading back to a proto-form \*kefran- or \*kebran- (with -br- > \*-fr- by Bahder's law). The reconstruction of the vocalism is problematic, however. Swi. (App.) _xɛfər_ (with ɛ < \*e rather than \*ä₁ or \*ä₂) precludes a formation \*kabiza-, which would have given \*\*xefər in this dialect. A form \*kafra- or \*kabra- must nevertheless be reconstructed on the basis of OE _ceafor_. Etymologically, the word is often derived from a verbal root \*ǵebʰ- as supported by OCS _o-zobati_ "to spoil", Ru. _zobat'_ "to eat, peck", SCr. _zòbati_ "to eat" < \*ǵobʰ-, cf. Ru. _zob_ "bill", OIr. _gop_ [m.] "muzzle, snout, beak" < \*gobbo-. The original meaning must then have been "gnawer". \
 REF: [EDPG]\: 283
 
-### <a id="kegjo">\*kēgjō- [f.] "peg, key" (n)</a>
+### <a id="kēgjō">\*kēgjō- [f.] "peg, key" (n)</a>
 W: \
 -- OE _cǣg_ "key" \
 -- OFri. _kāi_, _kēi_ [m.] "id." (< \*kēga-), WFri. _kaai_ [c.] "id." \
@@ -14747,7 +14747,7 @@ W: \
 A formation related to [\*kelōn- "throat"](#kelon) (q.v.). Perhaps, the k-suffix can be explained from a ur/n-stem \*gʷélh₁-ur, \*g/gʷlh₁-u-én-s (see [\*kelurō-](#keluro)), which could regularly have developed into PGmc. \*kelkur, \*kulkenaz by the velarization ofpost-sonorantal laryngeals before \*u (cf. [\*taikwer-](#taikwer)). A potential zero grade is present in Da. _kulk_ "gullet", dial. "Adam's apple". Icel. _kálkur_ [m.] "sledge, bar on a sledge" continues an o-grade formation \*kalka-. Also cf. OHG _kelh_, MHG _kelch_ [m.] "crop, goiter". \
 REF: [EDPG]\: 284
 
-### <a id="kelon">\*kelōn- [f.] "throat" (n)</a>
+### <a id="kelōn">\*kelōn- [f.] "throat" (n)</a>
 W: \
 -- OE _ceole_ "throat, jowl" \
 -- Du. _keel_ [c.] \
@@ -14757,7 +14757,7 @@ COGN: Close to Lat. _gula_ "throat, gullet" < \*gʷlh₁-eh₂-; also cf. Skt. _
 The lack of labialization in Germanic is problematic, but it may have been lost in the zero-grade form \*gul- < \*gʷlh₁-, for which see [\*kelurō-](#keluro). The word has a WGm. distribution, but Elfd. _grą̊-tjyōlu_ [f.] "Eurasian siskin", lit "firtree-throat"(?), appears to point to the pre-existence of ON \*kjala, obl. \*kjǫlu (Noreen 1882: 66 fn. 1). See also [\*kelkan-](#kelkan). \
 REF: [EDPG]\: 284
 
-### <a id="keluro">\*kelurō- [f.] "throat" (n)</a>
+### <a id="kelurō">\*kelurō- [f.] "throat" (n)</a>
 W: \
 -- OE _ceoler_ "collar, throat" \
 -- OHG _kelur_, _kelero_ [m.], _kelera_ "id." \
@@ -14765,7 +14765,7 @@ PIE: \*gʷelh₁-ur- \
 The Germanic word is usually reconstructed as \*keluza-, but the alternative \*kelura- is preferable because it favors the reconstruction of the word as a heteroclitic ur/n-stem, nom. \*gʷelh₁-ur, gen. \*g/gʷlh₁-én-s. In this paradigm the loss of the labialization would be regular in the genitive, which allows us to connect the word to the PIE root \*gʷelh₁- "to devour". See also [\*kelōn-](#kelon). \
 REF: [EDPG]\: 284
 
-### <a id="kema">\*kēma- [n.] "mold" (n)</a>
+### <a id="kēma">\*kēma- [n.] "mold" (n)</a>
 N: \
 -- Icel. _kám_ "filth" \
 W: \
@@ -14872,7 +14872,7 @@ COGN: ToA _śwā_-, ToB _śäwā_- "to eat" < \*ǵiuH-, MP _jw_- "to chew; to de
 A strong verb of IE origin. The initial t of the Nordic forms (ON _tyggva_, _tyggja_ etc.) is unexpected, but since the orthographical variation of -_ggv_- and -_ggj_- points to a palatalized labiovelar geminate \*-ǵǵv́- (Rasmussen 1989: 371), it probably arose due to dissimilation of the initial palatal k against the palatal gv further on in the word. Note that ON -_yǵǵv́_- regularly developed from PGmc. \*-eww- and does not imply a sequence \*-ewwj- (Heidermanns 1986, Rasmussen l.c.). This is confirmed by Elfd. _tegga_, which preserved the original root vowel. See also [\*kaunō-](#kauno). \
 REF: [EDPG]\: 286
 
-### <a id="kiban">\*kīban- [st.] "to quarrel" (v)</a>
+### <a id="kīban">\*kīban- [st.] "to quarrel" (v)</a>
 N: \
 -- ON _kífa_ [wk.] \
 W: \
@@ -14889,7 +14889,7 @@ COGN: Close to Arm. _cil_, _ciɫ_ "sprout, bud, piece of wood" < \*ǵiH-l- \
 Probably a derivation from the verb [\*kīnan-](#kinan) (q.v.). The alternative is to derive the formation from \*ǵiH-ló- with pretonic shortening. \
 REF: [EDPG]\: 287
 
-### <a id="kiman">\*kīman- [m.] "germ, sprout" (n)</a>
+### <a id="kīman">\*kīman- [m.] "germ, sprout" (n)</a>
 W: \
 -- OS _kīmo_ \
 -- Du. _kiem_ [c.] \
@@ -14898,7 +14898,7 @@ PIE: \*ǵiH-mon- \
 An mn-stem derived from [\*kīnan-](#kinan) (q.v.). \
 REF: [EDPG]\: 287
 
-### <a id="kimbon">\*kimbōn- [f.] "crest, ridge" (n)</a>
+### <a id="kimbōn">\*kimbōn- [f.] "crest, ridge" (n)</a>
 W: \
 -- OE _cimb-stān_ [m.] "pedestal, socket", E _chimbe_, _chime_ "edge or rim of a cask or drum" \
 -- MDu. _kimme_ "edge, chime", Du. _kim_ [c.] "horizon", dial. "edge of a cask, chime" \
@@ -14906,7 +14906,7 @@ PIE: \*ǵembʰ-on- \
 An n-stem related to [\*kamba-](#kamba) (q.v.). \
 REF: [EDPG]\: 287
 
-### <a id="kinan">\*kīnan- [st.] "to burst open, germinate" (v)</a>
+### <a id="kīnan">\*kīnan- [st.] "to burst open, germinate" (v)</a>
 E: \
 -- Go. _us-keinan_ [st./wk.] "to sprout up, bud forth, grow from" \
 W: \
@@ -14940,7 +14940,7 @@ COGN: ToA _śanweṃ_ [du.f.] "jaws", Skt. _hánu_- [f.] "jaw", YAv. _zanauua_ [
 An amphidynamic u-stem \*ǵén(H)-u-s, gen. \*ǵn(H)-u-ós. The stem variant \*ǵen(H)w- regularly developed into PGmc. \*kinn-, which means that the u-ending must have been restored on the basis of the expected nom. \*kenus < \*ǵen(H)-u-s. In West Germanic, the word was reshaped into jō- and ja-stems, while ON _kinn_, pl. _kinnr_ points to remodeling into a root noun. \
 REF: [EDPG]\: 288
 
-### <a id="kintha">\*kinþa- ~ \*kinda- [n.] "child" (n)</a>
+### <a id="kinþa">\*kinþa- ~ \*kinda- [n.] "child" (n)</a>
 N: \
 -- Nw. _kind_ \
 W: \
@@ -14997,7 +14997,7 @@ COGN: Lith. _žìzdras_, dial. _žigždras_ "gravel", _žiezdrà_, _žiegždrà_
 A diminutive to MHG _kis_ [m./n.] "pebble, scrap", G _Kies_ [m.] "gravel, grit" < \*kisa-, which seems to be in ablaut relationship to LG _keisel_, _kēsel_ < \*kaisila-. In view of the limitation to Germanic and Baltic, the word is unlikely to be of Indo-European origin. Note, for instance, the following non-IE _comparanda_: Udm. (S) _gi̮ǯ_, _gi̮ǯi̮_ "grain of sand", Komi _keža_ "gravel", Khanty _χĭš_ "fine sand" and Georg. _kviša_ "sand". \
 REF: [EDPG]\: 289
 
-### <a id="kitton">\*kit(t)ōn- [wk.] "to tickle" (v)</a>
+### <a id="kittōn">\*kit(t)ōn- [wk.] "to tickle" (v)</a>
 N: \
 -- ON _kitla_ \
 -- Nw. _kita_, _kitla_, _kisla_ \
@@ -15011,7 +15011,7 @@ COGN: Perhaps to Arm. _kēt_ "point, dot" < \*goid-o- (whence _kcanem_ "to bite,
 In most Germanic languages, a frequentative l-suffix was added to the iterative 3sg. \*kittōþi, 3pl. \*kitunanþi, but MHG _kitzen_ and Nw. dial. _kita_ preserve this primary formation. Etymologically, it is clearly linked with the Armenian forms. The implied base \*geid- is in violation of the PIE constraint on roots with two voiced (glottalized?) stops, but this may be due to its iconic meaning. \
 REF: [EDPG]\: 289
 
-### <a id="kitha">\*kiþa- [m.] "sprout, bud" (n)</a>
+### <a id="kiþa">\*kiþa- [m.] "sprout, bud" (n)</a>
 W: \
 -- OE _cīð_ "young shoot, sprig" \
 -- OS _kīth_ "germ, sprout" \
@@ -15030,7 +15030,7 @@ COGN: OIr. _crand-gíus_ "pine tree", Ir. _giú(i)s_, _giúsach_ "bog deal" < \*
 Usually connected to OIr. _gíus_ "spruce" through a proto-Germanic reconstruction \*kizna- (with \*-iz- resulting in \*ē₂ in West Germanic). Given the distribution of the word, it is not likely to have been inherited from PIE. Perhaps, there can be a link with Fi. _kuusi_ "fir, spruce", SaaN _guossâ_ "spruce", Mordv. _kuz_ "id.", Udm. _ki̮z_, _kə̑z_ "pine", which has been reconstructed as Proto-Uralic \*kuse or \*kose. \
 REF: [EDPG]\: 289
 
-### <a id="klago">\*klagō- [f.] "complaint, lament" (n)</a>
+### <a id="klagō">\*klagō- [f.] "complaint, lament" (n)</a>
 W: \
 -- OS _klaga_ \
 -- MDu. _clage_, _claech_ \
@@ -15048,7 +15048,7 @@ W: \
 An adjective that was derived from the same root as found in ON, Far. _klína_ [wk.] "to smear" < \*klīnjan- and OHG _klenan_ [st.] "id." < \*klinan- (cf. Pokorny IEW: 366-7), for which see [\*klajja- "clay"](#klajja). Its original meaning must then have been "shining", whence "pretty" and "delicate" (cf. Heidermanns 1993: 332). Still problematic is the variant LG _klīn_, Swi. _xlii_, which appears to continue an ablauting form \*klīn- (Mitzka 1934). Heidermanns (l.c.) assumed a verbal origin for this ablaut, but the doublet \*klainja- : \*klīn(j)a- is fully parallel to e.g. MDu. _droghe_, Du. _droog_ "dry" < \*draugja-: OE _drȳge_ "id.", E _dry_ < \*drūgja-, and thus implies nominal or derivationally dependent ablaut. \
 REF: [EDPG]\: 290
 
-### <a id="klaitha">\*klaiþa- [n.] "cloth" (n)</a>
+### <a id="klaiþa">\*klaiþa- [n.] "cloth" (n)</a>
 W: \
 -- OE _clōð_, E _cloth_ \
 -- OFri. _klāth_, _klēth_, WFri. _klaad_ \
@@ -15110,7 +15110,7 @@ PIE: \*gloubʰ-éie- \
 The causative to [\*kleuban-](#kleuban) (q.v.). \
 REF: [EDPG]\: 291
 
-### <a id="klawo">\*klawō- [f.] "claw" (n)</a>
+### <a id="klawō">\*klawō- [f.] "claw" (n)</a>
 W: \
 -- OE _clāwu_, _clā_, E _claw_ \
 -- Du. _klauw_ [c.] \
@@ -15154,7 +15154,7 @@ W: \
 A zero-grade neuter directly derived from [\*klīban-](#kliban) (q.v.). Also cf. MDu. _clippe_, Du. _klip_ [c.] "cliff" < \*klippōn- with \*-pp- < \*-bʰ-n-́. \
 REF: [EDPG]\: 292
 
-### <a id="kliban">\*klīban- [st.] "to stick" (v)</a>
+### <a id="klīban">\*klīban- [st.] "to stick" (v)</a>
 N: \
 -- ON _klífa_ "to climb" \
 -- Far. _klúgva_ (_klíva_) "id." \
@@ -15168,7 +15168,7 @@ COGN: Latv. _gliêbtiês_, -_juos_ "to cling" < \*gleibʰ-ie- \
 A Germanic/Balto-Slavic root. Also cf. the causative OHG _kleiben_ [wk.] "to cause to stick" < \*klaibjan-. See further [\*kliba-](#kliba) and [\*klibēn-](#kliben). \
 REF: [EDPG]\: 292
 
-### <a id="kliben">\*klibēn- [wk.] "to stick" (v)</a>
+### <a id="klibēn">\*klibēn- [wk.] "to stick" (v)</a>
 W: \
 -- OE _clifian_, _cleofian_, E _to cleave_ \
 -- OS _kliƀon_ \
@@ -15249,7 +15249,7 @@ W: \
 A ie-present related to the strong verb [\*klinnan-](#klinnan) (q.v.). \
 REF: [EDPG]\: 294
 
-### <a id="klunkon">\*klunk/gōn- [wk.] "to sound, ring" (v)</a>
+### <a id="klunkōn">\*klunk/gōn- [wk.] "to sound, ring" (v)</a>
 W: \
 -- E _to clunk_ "to sound; to hit" \
 -- MDu. _clongen_, _clonken_ "to sound" \
@@ -15311,7 +15311,7 @@ COGN: OCS _gnesti_ "to oppress, press, constrict", Ru. _gnestí_ (_gnetú_) "to 
 An "aorist present", quasi PIE \*gnét-mi, \*gn̥t-mé (cf. for a similar paradigm [\*tredan- ~ \*trudan- "to tread"](#tredan)). The regular zero grade \*kundume was apparently remodeled into \*knudume after the full-grade forms. It thus appears that OPru. _gnode_ [f.] "trough for kneading bread" must be a loanword from Germanic. Also cf. [\*knuttōn-](#knutton). \
 REF: [EDPG]\: 295
 
-### <a id="knei">\*knēi- "acknowledging" (adj)</a>
+### <a id="knēi">\*knēi- "acknowledging" (adj)</a>
 W: \
 -- OE _ge-cnǣwe_ "in agreement with, acknowledging" \
 A _vr̥ddhi_-gerundive to [\*knēan- "to know, be able"](#knean) (q.v.), with an original meaning "to be acknowledged". The lengthened grade is productive in this formation and does not attest to a PIE root \*gnēh₃- (with Eichner's law). It is further to be stressed that the W of OE _ge-cnǣwe_ is secondary: it was adopted from the infinitive _cnāwan_ (< \*knēan-), where it regularly arose in hiatus position. There therefore cannot be a direct link with Lat. _gnāvus_ "known" < \*ǵnh₃-uo-. See also [\*knawa-](#knawa). \
@@ -15343,7 +15343,7 @@ W: \
 An n-stem created to [\*knewa- "knee"](#knewa) (q.v.). The latter word also occurs with the meaning "degree of relationship". It has been assumed that this meaning arose due to influence from Lat. _genus_ [n.] "race, stock, descent", but since the hitherto unetymologized ON _kníar_ "men(?)" must belong here, it proves that the meaning "relative" was native to Germanic. For the form of the word, cf. ON _klé_, pl. _kljár_ < [\*klewan-](#klewan) (q.v.). \
 REF: [EDPG]\: 296
 
-### <a id="kniban">\*knība(n)- [m.] "knife" (n)</a>
+### <a id="knīban">\*knība(n)- [m.] "knife" (n)</a>
 N: \
 -- ON _knífr_ "knife, dirk" \
 -- Far. _knívur_ "id." \
@@ -15355,14 +15355,14 @@ PIE: \*ǵneibʰ-o(n)- \
 A deverbal noun, possibly derived from a lost strong verb \*knīban- (for which see [\*knīpan-](#knipan)). The High German forms with double b are recent, as PGmc. did not allow for superheavy syllables. The geminate probably ulti- mately goes back to the iterative \*knipp/bōn-. \
 REF: [EDPG]\: 296
 
-### <a id="knien">\*knīēn- [wk.] "to investigate" (v)</a>
+### <a id="knīēn">\*knīēn- [wk.] "to investigate" (v)</a>
 N: \
 -- Icel. _knjá_ \
 PIE: \*gnh₃-ei- \
 Possibly an i-present to the root \*ǵneh₃- "to know" (Þórhallsdóttir 1994-95), for which cf. [\*knēan-](#knean) and [\*kunnan-](#kunnan). The verb is preserved only in the fixed phrase _knjá mál_ "to discuss matters", and has previously been identified with _knjá_ "to press". \
 REF: [EDPG]\: 296
 
-### <a id="knikkon">\*knikkōn- [wk.] "to snap, fold" (v)</a>
+### <a id="knikkōn">\*knikkōn- [wk.] "to snap, fold" (v)</a>
 N: \
 -- Nw. _knikka_ "to kneel" \
 W: \
@@ -15371,14 +15371,14 @@ W: \
 An iterative that ultimately must be related to [\*knewa- "knee"](#knewa) (q.v.), even though the origin of the suffixation is obscure. Also cf. the causative ON _kneikja_ [wk.] "to press", Nw. dial. _kneikja_ [wk.] "to bend backwards", refl. "to sprain", Elfd. _knjetja-s_ [wk.] "to succumb" < \*knaikjan-. \
 REF: [EDPG]\: 297
 
-### <a id="knipan">\*knīpan- [st.] "to pinch" (v)</a>
+### <a id="knīpan">\*knīpan- [st.] "to pinch" (v)</a>
 W: \
 -- Du. _knijpen_ "to pinch" \
 -- G dial. _kneipen_ "to pinch" (< \*knībban-) \
 A de-iterative verb Pre-Gm. \*knīppan- derived from or at least influenced by the iterative [\*knipp/bōn-](#knippon) (q.v.). The High German dialects must at any rate have adopted the \*bb from there. \
 REF: [EDPG]\: 297
 
-### <a id="knippon">\*knipp/bōn- [wk.] "to cut, snap" (v)</a>
+### <a id="knippōn">\*knipp/bōn- [wk.] "to cut, snap" (v)</a>
 W: \
 -- MLG _cnippen_ \
 -- Du. _knippen_ "to cut", dial. "to pinch" \
@@ -15398,7 +15398,7 @@ COGN: Formally identical to Skt. _jñātí_- [m.] "close relative", Latv. _znuō
 A ti-stem to the IE root \*ǵneh₁-, a _Schwebeablaut_ variant of \*ǵenh₁- "to be born", for which see [\*kindi-](#kindi) and [\*kunda-](#kunda). Cf. with a different suffix: OE _cnōsal_, OS _knōsal_, OHG _knuosal_ [n.] "descent" < \*gnoh₁-slo-. \
 REF: [EDPG]\: 297
 
-### <a id="knujan">\*knūjan- [wk.] "to press(?)" (v)</a>
+### <a id="knūjan">\*knūjan- [wk.] "to press(?)" (v)</a>
 N: \
 -- ON _knýja_ "to knock; to press, to push, urge on" \
 PIE: \*gnuH-ie- \
@@ -15416,7 +15416,7 @@ PIE: \*ǵnu-gon- \
 An n-stem probably to be reconstructed as \*knukō, gen. \*knukkaz < \*gnug-ōn, \*gnug-n-ós. It gave rise to the diminutive \*knukila-, cf. ON _knykill_ [m.] "small knot, protuberance", MDu. _cnokel_, Du. _kneukel_, E _knuckle_. Outside Germanic, the word has been compared to Lith. _gniáužti_ "to close one's hand" < \*gneuǵ- (see [\*knukkōn-](#knukkon)), but a connection with [\*knewa- "knee"](#knewa) (q.v.) is more likely since its PIE predecessor apparently also meant "node". The word must thus be analyzed as \*ǵnu-gon- with a suffix comparable to e.g. [\*mankan- "mane"](#mankan) (q.v.) < \*mon-gon-. ON _knoka_ "to knock with the knuckles", OE _cnocian_ "to knock" and MHG _knochen_ "to punch" < \*knukōjan- are denominal. \
 REF: [EDPG]\: 298
 
-### <a id="knukkon">\*knukkōn- [f.] "bundle" (n)</a>
+### <a id="knukkōn">\*knukkōn- [f.] "bundle" (n)</a>
 W: \
 -- MLG _knocke_, _knucke_ "bundle of flax" \
 -- G _Knocke_ [m./f.] "id." \
@@ -15430,13 +15430,13 @@ E: \
 A verb usually derived from a lost noun \*knussu- "kneeling" < \*ǵnut-tu- or \*knussa- "kneeled" < \*ǵnut-to- so as to explain the double _s_ (see e.g. Smith 1938). It is furthermore possible to compare G _knotzen_, _knutzen_ "to squat" (see DWB: 11, 1512), which points to an iterative \*knuttōn- < \*ǵnut-neh₂-. The stem of this verb may be the original PIE instrumental case of the word for "knee", cf. Hitt. _ganut_ "with the knee" < \*ǵn-u-t. \
 REF: [EDPG]\: 298
 
-### <a id="knutton">\*knuttōn- [wk.] "to press, crush" (v)</a>
+### <a id="knuttōn">\*knuttōn- [wk.] "to press, crush" (v)</a>
 W: \
 -- G dial. _knotzen_ "to press, knead, squeeze" \
 The iterative to [\*knedan- ~ \*knudan-](#knedan) (q.v.), apparently continuing Pre-Gm. \*gnut-néh₂-. Further cf. G dial. _knützen_ [wk.] "to squeeze; punch" < \*knuttjan- and Pal. _knōzen_ "to knead" < \*knautjan-(?). \
 REF: [EDPG]\: 298
 
-### <a id="knuthan">\*knūþan- ~ \*knuttan- [m.] "knot" (n)</a>
+### <a id="knūþan">\*knūþan- ~ \*knuttan- [m.] "knot" (n)</a>
 N: \
 -- ON _knítr_ "knot; hump, protuberance", Icel. _hnúði_ "knob, hump" \
 -- Far. _knútur_ \
@@ -15447,7 +15447,7 @@ W: \
 An ablauting n-stem nom. \*knuþō, gen. \*knuttaz, dat. \*knudeni (Kroonen 201 la: 299-300) with many different dialectal remodelings of the original root variants. The word is likely to be a ton-formation to the PIE root \*ǵnu- "knee; node", for which cf. [\*knewa-](#knewa). \
 REF: [EDPG]\: 298
 
-### <a id="ko">\*kō- ~ \*kū- [f.] "cow" (n)</a>
+### <a id="kō">\*kō- ~ \*kū- [f.] "cow" (n)</a>
 N: \
 -- ON _kýr_ \
 -- Far. _kúgv_ \
@@ -15463,21 +15463,21 @@ COGN: ToA _ko_, ToB _keᵤ_ "cow", Skt. _gáv_- [m./f.] "id.", OAv. _gāuš_ "id
 A root noun continuing the common IE word for "cow". Germanic has two different root variants, i.e. \*kō- and \*kū-, both of which belonged to an originally ablauting paradigm nom. \*kōz, obl. \*kū-, continuing a PIE u-stem \*gʷeh₃-u-s, obl. \*gʷh₃-u-. This u-stem was itself derived from the PIE verbal root \*gʷeh₃- "to graze, pasture", cf. Gr. _βόσκω_ "id." < \*gʷh₃-ske- and Lith. _guõtas_ [m.] "group, flock, shoal" < \*gʷoh₃-to-. See also [\*kudja-](#kudja). \
 REF: [EDPG]\: 299
 
-### <a id="kokan">\*kōkan- [m.] "cookie" (n)</a>
+### <a id="kōkan">\*kōkan- [m.] "cookie" (n)</a>
 W: \
 -- MDu. _coeke_ [m./f.], Du. _koek_ [c.] \
 -- OHG _kuohho_, G _Kuchen_ \
 Also cf. the diminutive OE _cœ̄cel_ [m.] "morsel, little mouthful, cake" and OS _kāsi-kōkilīn_ [n.] "whole cheese". Related to ON _kaka_, obl. _kǫku_, Far. _køka_, Elfd. _kåkå_, obl. _kaku_ [f.] "cake" < \*kakōn- with ablaut. \
 REF: [EDPG]\: 299
 
-### <a id="kokon">\*kōkōn- [m.] "skid" (n)</a>
+### <a id="kōkōn">\*kōkōn- [m.] "skid" (n)</a>
 W: \
 -- MLG _kōke_ [f.] "sledge runner" \
 -- OHG _slito-kōhha_ [f.] "skid", G _Kufe_ [f.] "runner, blade, skid" (with -_f_- < -_ch_-?) \
 Possibly related to [\*kagan- "shrub"](#kagan) (q.v.). The word must then be reconstructed as Pre-Gm. \*kōkkōn- with a geminate, for which cf. MLG _kāk_ [m.] "pillory", MDu. _cake_ [f.], _caek_ [m.] "scaffold" < Pre-Gm. \*kēkka(n)-. \
 REF: [EDPG]\: 299
 
-### <a id="kolu">\*kōlu- "cool" (adj)</a>
+### <a id="kōlu">\*kōlu- "cool" (adj)</a>
 W: \
 -- OE _cōl_, E _cool_ \
 -- MDu. _coele_, Du. _koel_ \
@@ -15485,7 +15485,7 @@ W: \
 A secondary _vr̥ddhi_-formation to [\*kalan-](#kalan) (q.v.). ON _kœla_, OE _cēlan_, OHG _kuolen_ [wk.] "to cool, chill" < \*kōljan- may represent a factitive derived from this adjective, but could also continue a causative derived directly from the aforementioned strong verb. \
 REF: [EDPG]\: 299
 
-### <a id="koni">\*kōni- "able" (adj)</a>
+### <a id="kōni">\*kōni- "able" (adj)</a>
 N: \
 -- ON _kœnn_ "wise, skilful, expert" \
 -- Far. -_kønur_ "id." \
@@ -15566,7 +15566,7 @@ COGN: Lith. _grim̃zti_ (_grimztù_) "to sink" < \*gʷrms-ske-, OCS _po-gręznǫ
 With Go. _qrammiþa_ [f.] "moisture", the Old Norse adjective _krammr_ can be reconstructed as PGmc. \*kwramma- with a labiovelar. Its long m may have come about by assimilation of the following z. This change is uncertain, however. It is therefore not unlikely that \*kwramma- rather developed from a mo-stem \*gʷroms-mó- by the well-established assimilation rule \*-zm- > \*-mm-. For a similar problem, see Go. _mammo_\* [f.] "flesh" < \*moms-(m)on- under [\*mimza-](#mimza). \
 REF: [EDPG]\: 300
 
-### <a id="krammon">\*krammōn- [wk.] "to squeeze" (v)</a>
+### <a id="krammōn">\*krammōn- [wk.] "to squeeze" (v)</a>
 W: \
 -- OE _crammian_ "to stuff", E _to cram_ \
 -- MHG _krammen_ "to grab with one's claws" \
@@ -15616,14 +15616,14 @@ PIE: \*gronǵʰ-éie- \
 The causative to [\*kringan- ~ \*krinkan-](#kringan) (q.v.), derivationally identical to Lith. _grąžýti_ "to turn one's head, return" < \*gʰronǵʰ-eie-. Note that ON _krenkja_ "to make sick", Nw. _krenkja_ "to sprain", OFri. _krenza_, -_krinza_ "to affect", MHG _krenken_ "to make ill, humiliate", G _kränken_ "to insult", MDu. _crenken_ "to damage, weaken", Du. _krenken_ "to hurt one's feelings" is another formation, i.e. a factitive to [\*kranga- ~ \*kranka-](#kranga) (q.v.). \
 REF: [EDPG]\: 302
 
-### <a id="kranho">\*kranhō- [f.] "corner" (n)</a>
+### <a id="kranhō">\*kranhō- [f.] "corner" (n)</a>
 N: \
 -- ON _krá_, _kró_ \
 -- Nw. _krå_, pl. _krær_ \
 A Nordic word of uncertain derivation. The root \*kranh- is formally and semantically close to the cluster of [\*kringan- ~ \*krinkan-](#kringan) (q.v.), but these forms clearly continue a Pre-Gm. root \*grengʰ-, and therefore cannot be related. It is possible, however, that \*kranhō- arose as a back-formation to the strong verb. \
 REF: [EDPG]\: 302
 
-### <a id="krappon">\*krapp/bōn- [wk.] "to scratch" (v)</a>
+### <a id="krappōn">\*krapp/bōn- [wk.] "to scratch" (v)</a>
 W: \
 -- MLG _krabben_ \
 -- MDu. _crabben_, Du. _krabben_, _krappen_ dial. _kraven_ \
@@ -15661,7 +15661,7 @@ PIE: \*grébʰ-on- \
 The Germanic dialects reveal an alternation offormal variants that points to the pre-existence of an ablauting n-stem, nom. \*krebō, gen. \*kurpaz < \*grébʰ-on, \*grbʰ-n-ós (Kroonen 2011a: 179). Leveling of the _Schwebeablaut_ and contamination of geminated and non-geminated case forms gave rise to secondary variants such as \*krebb-, \*krepp-, \*krubb-, \*krupp-. The n-stem further gave rise to a number of equally divergent jō-stems, cf. OE _cribb_, E _crib_, OFri. _kribbe_, OS _kribbia_, Du. _kribbe_, OHG _krippa_, G _Krippe_ < \*kreb(b)jō-, OHG _kripfa_, MHG _kripfe_ < \*krep(p)jō- and G _Krüpfe_ < \*krup(p)jō-. Icel. _karfa_ [f.] "basket, hamper" was borrowed from Middle Low German. \
 REF: [EDPG]\: 303
 
-### <a id="krebi">\*krēbi- "to be claimed" (adj)</a>
+### <a id="krēbi">\*krēbi- "to be claimed" (adj)</a>
 N: \
 -- ON _kræfr_ "strong" \
 -- Icel. _kræfur_ "tough; due for payment" \
@@ -15706,7 +15706,7 @@ W: \
 A gerundive closely related to [\*krīgan-](#krigan) (q.v.). Since gerundives were created to the plural preterite root of strong verbs, the form \*kriagi- (WGm. \*kriagja-) implies that there was an otherwise lost reduplicated verb \*kraigan-, pret \*kriag- (for older \*kre-kraig-). The closely related OHG _krēg_ "stubbornness", MHG _kriec_ [m.] "effort, struggle" < \*kriaga- contains the same base. MHG _kriegen_ [wk.] "to strive, struggle, fight", G _kriegen_ [wk.] "to get" < \*kriagōjan-, on the other hand, was created on the basis of the gerundive. \
 REF: [EDPG]\: 304
 
-### <a id="krigan">\*krīgan- [st.] "to be stubborn" (v)</a>
+### <a id="krīgan">\*krīgan- [st.] "to be stubborn" (v)</a>
 W: \
 -- MDu. _crigen_ "to strive, fight; to obtain", Du. _krijgen_ "to get" \
 The oldest meaning of this verb was "to be stiff, stubborn" (cf. OFri. _hals-krīga_ [m.] "stiff neck"), whence "to strive" (cf. WFri. _kriich_ "pith, energy, zeal") and "to fight". No certain etymology. Pokorny IEW: 476-7 compares Ir. _bríg_ "force, strength" and W _bri_ "fame", which can theoretically be derived from \*gʷriHg/gʰ-o-. See also [\*kriagi-](#kriagi). \
@@ -15763,7 +15763,7 @@ N: \
 To Icel. _krjúfa_ [st.] "id.", apparently continuing \*kreufan- or \*kreuban- (Magnússon 1989: 506). Also cf. ON _krof_ [n.] "cut-up carcass". The no doubt related Nw. _kropp_ [m.] "id." could point to a link with [\*kruppa- "compact object"](#kruppa) (q.v.). \
 REF: [EDPG]\: 306
 
-### <a id="kruda">\*krūda- [m.] "herb" (n)</a>
+### <a id="krūda">\*krūda- [m.] "herb" (n)</a>
 W: \
 -- OS _krūd_ [n.] \
 -- Du. _kruid_ [n.] \
@@ -15780,7 +15780,7 @@ COGN: To OIr. _gruth_ [m.] "curds, cheese"? \
 A late Nordic derivative of the verbal complex of Nw. _krota_ "to curdle", for which see [\*krutt/dōn- "to pack(?)"](#krutton). The meaning "curds" must be completely secondary in Norwegian in view of Nw. _krodde_, a word used for a variety of dregs (coffee, grease, cheese). As a result, the Germanic and Celtic forms can no longer be adduced to reconstruct a PIE root \*grut- (_pace_ Pokorny IEW: 406). OIr. _gruth_ in fact does not have to continue \*grutu- either, but rather seems to have developed from PCelt. \*gʷritu- < \*gʷʰr̥-tu- by rounding of the i to u under the influence of a labiovelar (cf. Schrijver 1999a; Irslinger 2002: 144) . It can thus be compared to Lat _fermentum_ [n.] "ferment; yeast" < \*gʷʰer-mn-to- and perhaps also OE _beorma_ [m.] "leaven, yeast, froth" (if from \*gʷʰer-mon-). \
 REF: [EDPG]\: 306
 
-### <a id="kruddon">\*krud(d)ōn- [f.] "toad" (n)</a>
+### <a id="kruddōn">\*krud(d)ōn- [f.] "toad" (n)</a>
 W: \
 -- MDu. _crode_, EDu. _krodde_ \
 -- OHG _krota_, _krotta_, G _Kröte_ \
@@ -15796,7 +15796,7 @@ W: \
 An adjective derived from the strong verb [\*krimpan-](#krimpan) (q.v.). In view of the variant \*krumba-, this verb must have replaced the more primary \*krimban- < \*gré-m-bʰ-e- under the influence of the iterative, cf. G _krumpfen_ [wk.] "to cringe" < \*krumb/pōn- < \*grmbʰ-néh₂-. \
 REF: [EDPG]\: 307
 
-### <a id="krunkon">\*krunkōn- [wk.] "to wind" (v)</a>
+### <a id="krunkōn">\*krunkōn- [wk.] "to wind" (v)</a>
 W: \
 -- EDu. _kronken_, Du. _kronkelen_ "to wind, squirm" \
 PIE: \*grn̥ǵʰ-néh₂- \
@@ -15815,7 +15815,7 @@ W: \
 An a-stem perhaps related to [\*krupp/bōn-](#kruppon) (q.v.) through a meaning "to be clump-like". \
 REF: [EDPG]\: 307
 
-### <a id="kruppon">\*krupp/bōn- [wk.] "to crawl" (v)</a>
+### <a id="kruppōn">\*krupp/bōn- [wk.] "to crawl" (v)</a>
 W: \
 -- MDu. _cropen_ \
 -- G Rhnl. _kruppen_ "to crouch, curl up", Cimb. _kruppen_ "to crawl" \
@@ -15939,7 +15939,7 @@ COGN: Lith. _gùltas_ "bed, lair", Latv. _gùlta_ [f.] "id." < \*gʷlH-to/eh₂-
 A Nordic word probably connected with Go. _kilþei_ [f.] "womb" < \*kelþīn- and OE _cild_ [n.] "child" < \*keldiz-. I tentatively reconstruct the root with \*gʷ in view of the vocalization of the l as -ul- rather than -il- in Baltic. \
 REF: [EDPG]\: 309
 
-### <a id="kuma">\*kūma- "miserable(?)" (adj)</a>
+### <a id="kūma">\*kūma- "miserable(?)" (adj)</a>
 W: \
 -- MHG _kūm_ "thin, weak" \
 PIE: \*guH-mo- \
@@ -16042,7 +16042,7 @@ COGN: ToA _knā_- "to know, understand", ToB _nana_- "to recognise, appear" < \*
 A preterite-present whose conjugation like [\*unnan- "to grant"](#unnan) (q.v.) is a Germanic innovation, the original root being purely aoristic in Proto-Indo-European. The verb was presumably created to the secondary (de-aoristic) n-present attested as e.g. Skt. _jānā́ti_, Lith. _žinóti_ < 3sg. \*ǵnh₃-néh₂-ti, 3pl. \*gnh₃-nh₂-énti, which in Germanic would have developed into \*kunnōþi, \*kununanþi. Starting from this formation, the geminate of \*kunnan- can be explained from the singular root allomorph. See also [\*kannjan-](#kannjan), [\*kannōn-](#kannon-1), [\*kōni-](#koni), [\*kunja-](#kunja-1), [\*kunþa-](#kuntha) and [\*knean-](#knean). \
 REF: [EDPG]\: 311
 
-### <a id="kuntha">\*kunþa- "known" (adj)</a>
+### <a id="kunþa">\*kunþa- "known" (adj)</a>
 E: \
 -- Go. _kunþs_ "known, recognized" \
 N: \
@@ -16073,7 +16073,7 @@ COGN: Lat. _grānum_ [n.] "grain, seed", OIr. _grán_, W _grawn_ [n.] "grain", O
 The IE word for "kernel". Cf. the diminutive OE _cyrnel_ "corn", E _kernel_ < \*kurnila-. See further [\*kernan-](#kernan). \
 REF: [EDPG]\: 312
 
-### <a id="kurthra">\*kurþra- ~ \*kurdra- [n.] "flock" (n)</a>
+### <a id="kurþra">\*kurþra- ~ \*kurdra- [n.] "flock" (n)</a>
 W: \
 -- OE _corðor_ "troop" \
 -- OHG _kortar_ "herd" \
@@ -16098,7 +16098,7 @@ COGN: ToA _kayurṣ_, ToB _kaurṣe_ "bull", Skt. _go-vrṣá_- "id." \
 An Indo-European compound of \*gʷ(e)h₃-u- "cow" and \*ursén- "male (animal)" (Kroonen _apud_ Pronk 2010), for which see [\*kō- ~ \*kū-](#ko) and [\*urzan-](#urzan). \
 REF: [EDPG]\: 312
 
-### <a id="kurzon">\*kurzōn- [wk.] "to creak" (v)</a>
+### <a id="kurzōn">\*kurzōn- [wk.] "to creak" (v)</a>
 N: \
 -- ON _kurra_ "to murmur, grumble" \
 -- Elfd. _kurra_ "to coo; to purr" \
@@ -16164,7 +16164,7 @@ W: \
 Within Germanic, the word appears to be in ablaut relationship to Nw. _køyta_ [f.] "wickerwork hut", MHG _kōtze_ [f.] "basket" < \*kautjōn- and G dial. _Kietz_ [m.] "fisherman's hut", _Kietze_ [f.] "bark container" < \*keutja/ō- (Adelung 1793-1801: 2, 1572). Outside Germanic, it is difficult to dissociate the word from Fi. _kota_ "hut, hovel, house", Hung. _haz_ "house" < PFU \*kota, which also has a reminiscence in OHG _huttea_, MHG _hütte_ [f.] "hut" < \*hudjan- (whence Fr. _hutte_, E, Du. _hut_). The Finnish word cannot have been borrowed from Germanic, however, in view of the Hungarian attestation. \
 REF: [EDPG]\: 313
 
-### <a id="kuta">\*kūta- [n.] "soft tissue" (n)</a>
+### <a id="kūta">\*kūta- [n.] "soft tissue" (n)</a>
 W: \
 -- E Scot _kite_ "stomach" \
 -- MDu. _cute_ [n./f.] "calf of the leg; fish roe", Du. _kuit_ [c.] "id." \
@@ -16203,7 +16203,7 @@ W: \
 A secondary factitive to [\*kwikwa- "alive, lively"](#kwikwa) (q.v.), continuing quasi-PIE \*gʷoigʷh₃u-éie-. \
 REF: [EDPG]\: 314
 
-### <a id="kwainojan">\*kwainōjan- [wk.] "to lament, mourn, wail" (v)</a>
+### <a id="kwainōjan">\*kwainōjan- [wk.] "to lament, mourn, wail" (v)</a>
 E: \
 -- Go. _qainon_ \
 N: \
@@ -16225,7 +16225,7 @@ PIE: \*gʷolH-éie- \
 The causative to [\*kwelan-](#kwelan) (q.v.). \
 REF: [EDPG]\: 315
 
-### <a id="kwalo">\*kwalō- [f.] "torment" (n)</a>
+### <a id="kwalō">\*kwalō- [f.] "torment" (n)</a>
 N: \
 -- ON _kvǫl_ "torment" \
 W: \
@@ -16234,7 +16234,7 @@ W: \
 An o-stem derived from [\*kwelan- "to suffer"](#kwelan) (q.v.). \
 REF: [EDPG]\: 315
 
-### <a id="kwebjan">\*kwēbjan- [wk.] "to suffocate, choke" (v)</a>
+### <a id="kwēbjan">\*kwēbjan- [wk.] "to suffocate, choke" (v)</a>
 N: \
 -- ON _kvæfa_, _kœfa_ \
 -- Icel. _kæfa_ \
@@ -16277,7 +16277,7 @@ COGN: Arm. _keł_ "wound, sore, ulcer" < \*gʷelH-o-, Lith. _gélti_ "to sting, 
 An old strong verb. See also [\*kwaljan-](#kwaljan) and [\*kwēlō-](#kwelo). \
 REF: [EDPG]\: 316
 
-### <a id="kwelo">\*kwēlō- [f.] "agony" (n)</a>
+### <a id="kwēlō">\*kwēlō- [f.] "agony" (n)</a>
 W: \
 -- OS _quāla_ "pangs of death" \
 -- OHG _quāla_, _chuāla_ "torment, misery", G _Qual_ "pain, agony" \
@@ -16303,7 +16303,7 @@ COGN: Skt. _gáchati_ "to move, to go, to come", YAv. _jasaiti_ "id.", Gr. _β�
 A strong verb with two ablauting variants, viz. \*kweman- and \*kuman-. This alternation may point to the pre-existence of an athematic present 3sg. \*gʷém-ti, 3pl. \*gʷm-énti. Since, however, the presentic formations in the other IE languages were created to primary aorists (cf. Arm. _ekn_ < \*h₁e-gʷem-), it is more likely that the Germanic formation similarly continues a root aorist. A third possibility is to assume that the zero grade was inherited from a _tudáti_-present, and that it was replaced by analogical full grades in Go. _qiman_ and OHG _queman_ (cf. Seebold 1970: 31 5). See also [\*kwumpi-](#kwumthi). \
 REF: [EDPG]\: 316
 
-### <a id="kweni">\*kwēni- [f.] "wife" (n)</a>
+### <a id="kwēni">\*kwēni- [f.] "wife" (n)</a>
 E: \
 -- Go. _qens_ "wife" \
 N: \
@@ -16338,7 +16338,7 @@ COGN: Gr. Hsch. _δερίαι_ [f.pl.] "cuss, expletive" < \*gwerH-ieh₂-, Lit
 The verb seems most closely related to Lith. _gùrti_, whose round vowel points to a root \*gʷerH- rather than \*gerH-. The form would then be unrelated to Lith. _gìrti_ (_giriù_), Latv. _dzir̃tiês_, OPru. _girtwei_ "to praise" < \*gʷrH-ie- and Skt. _gr̥ṇā́ti_, _gr̥ṇīté_ "id." < \*gʷr-n(é)H-. Skt. _járate_ "to call; crackle (of fire)" continues a dissimilar root \*ǵer(H)-. \
 REF: [EDPG]\: 317
 
-### <a id="kwerko">\*kwerkō- [f.] "throat" (n)</a>
+### <a id="kwerkō">\*kwerkō- [f.] "throat" (n)</a>
 N: \
 -- ON _kverk_ "the angle below the chin; throat" \
 -- Far. _kvørkrar_ [f.pl.] \
@@ -16400,7 +16400,7 @@ COGN: Hitt. _kwerzi_ ~ _kuranzi_ "to cut up, to cut out off, to amputate" < \*g�
 A formation without an accepted etymology. I am inclined to connect it with Hitt _kwerzi_, assuming that the original meaning was "cut, edge". Far. _kvarði_ [m.] "edge or border on garment", Nw. _kvarde_ [m.] "seam, border, chime", Elfd. _kward_ [m.] "band; callus" were borrowed from Low German. \
 REF: [EDPG]\: 318
 
-### <a id="kwethan">\*kweþan- [st.] "to say" (v)</a>
+### <a id="kweþan">\*kweþan- [st.] "to say" (v)</a>
 E: \
 -- Go. _qiþan_ "to say, tell, express" \
 N: \
@@ -16416,7 +16416,7 @@ The Germanic verb has some close but irreconcilable lookalikes, e.g. 1) OW _guet
 Within Germanic, cf. e.g. ON _kvittr_ [m.] "report, rumor" < \*kweþiþu-, whence ON, Icel. _kvitta_ [wk.] "to report, rumor", Far. _kvetta_, _kvøtta_ [wk./st.] "to utter, say a word". An apparently archaic formation is Go. _ga-qiss_\* [f.] "concurring, agreeing" < \*kom-gʷet-ti- with assibilation of the dental cluster. See further [\*kwadjan-](#kwadjan) and [\*kwedu-](#kwedu-1). \
 REF: [EDPG]\: 319
 
-### <a id="kwethu">\*kweþu- [m.] "stomach; uterus" (n)</a>
+### <a id="kweþu">\*kweþu- [m.] "stomach; uterus" (n)</a>
 E: \
 -- Go. _qiþus_ \
 N: \
@@ -16429,7 +16429,7 @@ W: \
 A formation without any clear extra-Gm. cognates. The derivation from PIE \*gʷh₃-i- "to live" (Meid 1985; Lehmann 1986: 278) remains conjectural due to the required semantic shift. Note that the word emerges as a ja-stem in Old High German, and may additionally have given rise to EDu. _kutte_, Du. _kut_ "vagina" (with the change of -wi- to -u- as in _tussen_ "between" < \*twisk-, Van Helten 1906). \
 REF: [EDPG]\: 319
 
-### <a id="kwinan">\*kwīnan- [st.] "to wither, dwindle" (v)</a>
+### <a id="kwīnan">\*kwīnan- [st.] "to wither, dwindle" (v)</a>
 W: \
 -- OE _ā-cwīnan_ "to waste, dwindle away" \
 -- MDu. _quinen_ [wk.] "to wither", Du. _kwijnen_ [wk.] (also strong _kween_?) "to wither, languish" \
@@ -16470,7 +16470,7 @@ The best way of dealing with \*kwikwa- is to start from an originally reduplicat
 Within Germanic, further compare the inchoative Go. _ga-qiunan_\*, ON _kvikna_ "to become alive" < \*kwi(k)w-nan- and the factitive [\*kwaikwjan-](#kwaikwjan) (q.v.). In WGm., we further find a denominative \*kwikwōjan-: OE _cwician_, OS _quikon_ "to cause to live", Du. _kweken_ "to grow (crops)". \
 REF: [EDPG]\: 320
 
-### <a id="kwoba">\*kwōba- [n.] "thickening (of the air)" (n)</a>
+### <a id="kwōba">\*kwōba- [n.] "thickening (of the air)" (n)</a>
 N: \
 -- Icel. _kóf_ "blizzard" \
 -- Far. _kó(g)v_ "hazy sky" \
@@ -16479,7 +16479,7 @@ PIE: \*gʷoh₂bʰ-o \
 An o-grade thematic noun related to [\*kwēbjan-](#kwebjan) (q.v.). Also cf. Nw. _kjøva_ [wk.] "to choke; to thicken (of the sky); to start freezing over", Elfd. _tjyōva_ [wk.] "to become covered with ice" < \*kwōbjan-. \
 REF: [EDPG]\: 321
 
-### <a id="kwumthi">\*kwumþi- [f.] "arrival" (n)</a>
+### <a id="kwumþi">\*kwumþi- [f.] "arrival" (n)</a>
 E: \
 -- Go. _ga-qumþs_ "convention" \
 W: \
