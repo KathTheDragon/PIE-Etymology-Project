@@ -18002,3 +18002,1704 @@ W: \
 PIE: \*lud/dʰ-neh₂- \
 <!-- The iterative to the strong verb \*liltan- "to stoop" (q.v.). It is identical to \*lud(d)on- "to dangle", cf. Icel. loaa, lodda, Far. loaa, Nw. loda [wk.] "to hang down; to stick (to)", which would imply that the PGmc. root was \*!up- or \*ludrather than \*fut-. Outside Germanic, the word has been connected to OIr. Iott [m.] "damage, destruction", but it is unclear whether this form can be derived from \*ludfhl-no-, as n-gemination (Stokes' law) remains controversial in Celtic. \ -->
 REF: [EDPG]\: 345
+
+## M
+
+### <a id="madrōn">\*madrōn- [f.] "madder" (n)</a>
+N: \
+-- ON _maðra_ \
+-- Nw. _modre_ \
+W: \
+-- OE _mædere_, _mæddre_, E _madder_ \
+-- MHG _matare_, _metere_ \
+<!-- A herbaceous scrambling plant cultivated as early as the 14th century BCE in the East Mediterranean (Zohary/Hopf 2000: 21 0) for the reddish-purple dye obtained from the root. ON maora, OE mcedre and OHG matara go back to a proto-form \*mad(a)ron- (cf. Fi. matara, Latv. madaras). It has furthermore been argued that MLG, MDu. mede [f.] "id.", Du. mee-krap "id." and WFri. miede "id." represent an ablauting formation \*medjon- (Franck 1949: 418) or even \*maidon- (Torp 1909: 306), but I assume that this is the Frisian outcome of a variant \*madon- that spread to the surrounding Saxon and Franconian dialects. No certain etymology. Pokorny IEW: 747 connects CS modrb, Cz. modry, SCr. modar "blue" < PS!av. \*modrb, which can be related to Hitt. antara- "id." < \*mdʰ-ro- (Machek 1949: 13 1-2). Perhaps, Germanic had a related adjective \*madra- that served as the derivational base for \*madr6n-. Or was the Slavic adjective borrowed from Germanic? \ -->
+REF: [EDPG]\: 346
+
+### <a id="magan">\*magan- [m.] "stomach" (n)</a>
+N: \
+-- ON _magi_ \
+-- Far. _magi_ \
+-- Elfd. _magi_ \
+W: \
+-- OE _maga_, E _maw_ \
+-- OFri. _maga_ \
+-- Du. _maag_ [c.] \
+-- OHG _mago_, G _Mage_ \
+PIE: \*mok-on- \
+<!-- COGN: Lith. miikas, Latv. maks [m.] "id.", OPru. danti-max "gums" < \*mak-o-, OCS mosbna [f.] "small bag, scrip", Ru. mosni [f.] "pouch, purse", SCr. mosnja "purse, scrotum" < \*mok-in-eh₂-, MW megin [f.] "bellows", MBret. meguin, B ret. megin [f.] "id." < PCelt \*mokinii \ -->
+<!-- A European word with no IE etymology. The occurrence of a plain \*k could point to a non-IE origin. Also cf. Swi. (App.) mega "rennet", EDu. meghe "whey; curd" < \*magin-(?). \ -->
+REF: [EDPG]\: 346
+
+### <a id="magaþi">\*magaþi- [f.] "girl, maiden" (n)</a>
+E: \
+-- Go. _magaþs\*_ \
+W: \
+-- OE _mæg(e)ð_, E _maid_ \
+-- OFri. _megith_ \
+-- OS _magath_ \
+-- Du. _maagd_ \
+-- OHG _magad_, G _Magd_ \
+PIE: \*magʰ-ot-i- \
+<!-- A feminine derived from \*magu- (q.v.). The feminizing suffix \*-api- has been analyzed as an indication that the word was borrowed from a language related to Semitic, since this language family has a productive femi- nizing t-suffix (Vennemann 2002; Boutkan 2003: 11-17). PIE did have semantically comparable t-stems as well, however, cf. PGmc. \*nefan- "cousin" < \*nep-ot-. It is not implausible, therefore, that PGmc. \*magapi- inherited a PIE suffix \*-ot-i-. Further evidence for this derivational element comes from the Middle Flemish suffix -ede < \*-apf-, which was often added to masculine n-stems, cf. MDu. graefnede "countess" to grafe "count" < \*ga-refan- and swasenede "sister-in-law" to an unattested \*swase "brother-in-law" < \*swesan-. Also cf. \*briidi- "bride". \ -->
+REF: [EDPG]\: 346
+
+### <a id="magra">\*magra- "lean" (adj)</a>
+N: \
+-- ON _magr_ \
+-- Elfd. _mager_ \
+W: \
+-- OE _mæger_, E _meager_ (= Anglo-Norman _megre_, _meigre_) \
+-- Du. _mager_ \
+-- OHG _magar_, G _mager_ \
+PIE: \*mh̥₂ḱ-ró- \
+<!-- COGN: Identical to Gr. µaKp6c; "long", Lat. macer "thin, lean"; also Hitt. maklant- "thin, meagre" < \*meh₂ḱ-1-ent- \ -->
+<!-- An old ro-stem, with regular vocalization of the laryngeal between initial m and a consonantal element. Elfd. maungen [wk.] "to lose weight" < \*magnan- is based on the suffixless form. For another word with approximately the same meaning, see \*hurha-. \ -->
+REF: [EDPG]\: 347
+
+### <a id="magu">\*magu- [m.] "boy, relative" (n)</a>
+E: \
+-- Go. _magus_ "boy" \
+N: \
+-- ON _mǫgr_ "id." \
+W: \
+-- OE _magu_ "child, young man, son" \
+-- OFri. _mach_ [n.] "child" \
+-- OS _magu_ "son" \
+-- OHG _maga-zoho_ "nurturer" \
+PIE: \*magʰ-u- \
+<!-- COGN: OIr. mug "servant", Corn. maw "id." < \*magʰ-u- \ -->
+<!-- A West European word of obscure origin. See also \*magafḱ-, \*mawf- and \*mega-. \ -->
+REF: [EDPG]\: 347
+
+### <a id="mahti">\*mahti- [f.] "strength" (n)</a>
+E: \
+-- Go. _mahts_ \
+W: \
+-- OE _meaht_, _miht_, E _might_ \
+-- OFri. _macht_ \
+-- OS _maht_ \
+-- Du. _macht_ [c.] \
+-- OHG _maht_, G _Macht_ \
+<!-- A ti-stem derived from the preterite-present \*mugan- (q.v.). ON mattr [m.] "id." continues a tu-stem \*mahtu-. \ -->
+REF: [EDPG]\: 347
+
+### <a id="maida">\*maida- [m.] "post" (n)</a>
+N: \
+-- ON _meior_ "beam; log, tree" \
+-- Icel. _meiður_ "id." \
+-- Nw. _mei_ "skid" \
+-- Sw. _med_ [c.] "beam; skid" \
+PIE: \*moi-to- \
+<!-- COGN: Latv. miets [m.] "post, stick" < \*moi-to- \ -->
+<!-- A to-stem derived from a PIE root \*mei-, cf. Skt min6ti "to fix, build" < \*mi-neu- and Latv. miet (meju, mienu) "to set a post" < \*moi-ie-. Related to \*mairja- "mooring-post" (q.v.). \ -->
+REF: [EDPG]\: 347
+
+### <a id="maidjan">\*maidjan- [wk.] "to damage, hurt" (v)</a>
+N: \
+-- ON _meiða_ "to hurt; to damage, destroy" \
+-- Far. _meiða_ "to injure a limb" \
+PIE: \*moith₂-eie- \
+<!-- COGN: Skt methati "to hurt" < \*m6itH-e-, Gr. µ [ruJ.oc; "mutilated" < \*mitH-ulo-, OLith. ap-maitinti "to wound" < \*-moitH-neh₂-, Latv. maitat "to spoil, destroy" < \*moitH-eh₂-ie- \ -->
+<!-- A causative probably related to \*maitan- and \*mitton- (q.v.) . \ -->
+REF: [EDPG]\: 347
+
+### <a id="maina">\*maina- "common" (adj)</a>
+E: \
+-- Go. _ga-mains_ "shared, communal, common, vulgar" \
+W: \
+-- OE _ge-mǣne_ "common", E _mean_ \
+-- OS _gi-mēni_ "joined, common, ordinary" \
+-- Du. _ge-meen_ "mean; common" \
+-- OHG _gi-mein_, _gi-meini_ "common, public", G _ge-mein_ "mean; common" \
+PIE: \*kom-moi-no- \
+<!-- COGN: Lat. commiinis "common, general" < \*kom-moi-no-, Lith. mainas [m.] "exchange" < \*moi-no- \ -->
+<!-- An formation that in view of the parallelism with Lat. commiinis must have arisen prior to the rise of Germanic as a separate language. The adjective is also attested without a prefix, in the PGmc. word for "perjury", cf. ON mein-eiar, OE man-lip, OFri. mena eth, OS meneth, Du. mein-eed, OHG mein-eid, G Mein-eid < \*maina-aipa- "false oath". \ -->
+REF: [EDPG]\: 348
+
+### <a id="mainjan">\*mainjan- [wk.] "to think" (v)</a>
+W: \
+-- OE _mǣnian_ "to mean, intend", E _to mean_ \
+-- OFri. _mēna_ "to mean, believe; to suspect; to intend" \
+-- OS _mēnian_ "to mean, mention" \
+-- Du. _menen_ \
+-- OHG _meinen_ "to mean; to believe; to say", G _meinen_ "id." \
+PIE: \*moin-eie- \
+<!-- COGN: ocs meniti "to suppose, think, reckon", SCr. mijeniti "to think, say, remember" < \*moin-eie-, OIr. mfan [f.] "desire; inclination" < \*mein-eh₂- \ -->
+<!-- A Germanic-Baltic causative formation. Also cf. OFri. mene [f.] "opinion", OHG meina [f.] "meaning, intention, opinion" < \*main(j)o-. \ -->
+REF: [EDPG]\: 348
+
+### <a id="mairja">\*mairja- [n.] "mooring-post" (n)</a>
+N: \
+-- ON _landa-mæri_ "border post" \
+W: \
+-- OE _land-gemǣre_ "id." \
+-- MDu. _mere_, _meer_ [f.] "post, boundary, mooring-post; pillory", Du. _meer-paal_ [c.] "mooring-post" \
+PIE: \*moi-r-io- \
+<!-- COGN: Lat. miirus [m.] "wall" < \*moi-ro-, Skt. min6ti "to fix, build", OIr. do-dimen\* "to fix, tie" < mi-neu-, YAv. barazi-mita- "highly built" < \*mi-to- \ -->
+<!-- A formation related to \*maida- "post" (q.v.). Also cf. OE mii!rels-rap "mooring-rope" < \*mairisla- and MDu. meren [wk.] "to moor; to mark with posts; to dwell", Du. aan-meren "to moor", ME moren "to take root, fasten, fix", E to moore < \*mairojan-, whence British NLat. moragium "moorage". MDu. maren "to moor" is an Ingvaeonism and LG ver-moren was probably borrowed from English. \ -->
+REF: [EDPG]\: 348
+
+### <a id="maisa">\*maisa- [m.] "backpack" (n)</a>
+N: \
+-- ON _meiss_ "wooden box, basket" \
+-- Far. _meis_ [f.] "net basket; net stretched on frame on which corn is dried; certain amount of corn; tousled hair" \
+-- Nw. _meis_ [m./f.] "wicker basket, wicker backpack, haynet" (< \*maisa/ō-) \
+W: \
+-- MDu. _mese_ [f.] "basket, hamper" \
+-- OHG _meis(s)a_ [f.] "carriage" (< \*mais-jō-), MHG _meise_ [f.] "a frame to carry on the back" (< \*maisjō-) \
+PIE: \*mois-o- \
+<!-- COGN: Lith. maifas [m.] "bag, sack", Latv. maiss [m.] "bag", OPru. moasis \*maison- "bellows", OCS mexa [m.] "wine-skin", Ru. mex [m.] "fur", dial. "bag", SCr. ml'jeh [m.] "bellows, wine-skin" < \*mois-o- \ -->
+<!-- If its original meaning was "skin-bag", the Germanic word can be equated with Skt. me�a- [m.] "ram" and Gr. µ£lov [n.] "sacrificial sheep or lambs". De Vries 1962: 382 rejected this linkage in view of the supposed primary meaning "net", but this sense can no doubt be secondary. \ -->
+REF: [EDPG]\: 348
+
+### <a id="maisōn">\*maisōn- [f.] "titmouse" (n)</a>
+N: \
+-- Icel. _-meisa_ \
+-- Nw. _meis (<_ \*maisō-) \
+W: \
+-- OE _māse_, E _tit-mouse_ (with -_mouse_ supplanting regular \*-_mose_) \
+-- MDu. _mese_, Du. _mees_ [c.] \
+-- OHG _meisa_, G _Meise_ \
+<!-- An exclusively Germanic bird name. It is often compared to W myalch "thrush" < \*meis-alko-, but this word is more likely to be connected with PGmc. \*amslon- "blackbird" (q.v.). The internally Germanic derivation from Nw. meis "weak" (De Vries 1962: 382; Strathmann 2008: 2, 414) is formally possible, but the adjective is absent from the dictionaries and may be a ghost word. Presumably, Nw. meis [m.] "titmouse; weak person" (cf. Elfd. mjes [m.] "titmouse") was mistaken for an adjective. With secondary suffixation, cf. ON meisingr [m.] "id." and ODu. \*mesinga as continued by MLat. misinga, OFr. mesinga, Fr. mesange < \*maisinga/o-. \ -->
+REF: [EDPG]\: 349
+
+### <a id="maitan">\*maitan- [st.] "to hew, cut" (v)</a>
+E: \
+-- Go. _maitan_ \
+N: \
+-- ON _meita_ [wk.] \
+W: \
+-- OHG _meizan_, MHG _meizen_ \
+<!-- An o-grade intensive verb. The root-final \*t points to contamination with or derivation from the related iterative \*mitton- "to cut" (q.v.). In view of the presumably related causative \*maidjan- "to hurt" it seems reasonable, at any rate, to assume that the original form of the verb was \*mai{Jan-. As a result, the reconstruction of a PIE root \*meid- (Pokorny IEW: 697) must be abandoned. See further \*amaitjo- and \*mfton- "mite". \ -->
+REF: [EDPG]\: 349
+
+### <a id="maiwa-1">\*maiwa- "slim, narrow" (adj)</a>
+N: \
+-- ON _mjórr_ (adv) \
+-- Far. _mjáur_ \
+-- Elfd. _mją̊_ \
+PIE: \*moiH-uo- \
+<!-- A wa-stem identical to ToB maiwe "young" < \*moiH-uo-. Derived from the PIE root \*meiH-, for which cf. \*minniz comp. "smaller, less". \ -->
+REF: [EDPG]\: 349
+
+### <a id="maiwa-2">\*maiwa- [m.] "sea-gull" (n)</a>
+N: \
+-- ON _már_, _mór_ \
+-- Icel. _máfur_, _mávur_ \
+-- Far. _má(v)ur_ \
+W: \
+-- OE _māw_ \
+-- Du. _meeuw_ [c.] \
+-- OHG _mēh_, G _Möwe_ (= LG) \
+<!-- An exclusively Germanic word. The traditional comparison with Skt. mecaka- "blue" is a mere shot in the dark. Schrijver 1997: 305 more appropriately compared the word to OFr. moue, Picardian mauve "gull", which he assumed to continue a loanword from Celtic \*maw-. The alternation with PGmc. \*maiw- would then point to a non-Indo-European word. It cannot be excluded, however, that the Old French word was borrowed from Germanic \*maiwa-. Further cf. OE mci!w, meaw [m.] "id.", E mew < \*maiwi- as well as the Nordic diminutives Far. masi, Nw. mase, Sw. mas < \*-san- and Sw. make, Da. mage < \*-kan-. The latter formation was presumably adopted by Frisian and Dutch as mok "sea-gull". \ -->
+REF: [EDPG]\: 349
+
+### <a id="maizan">\*maizan- "more" (comp)</a>
+E: \
+-- Go. _maiza_ \
+N: \
+-- ON _meiri_ \
+W: \
+-- OE _māra_, E _more_ \
+-- OFri. _māra_, _mēra_ \
+-- OS _mēro_ \
+-- Du. _meer_ \
+-- OHG _mēro_, G _mehr_ \
+PIE: \*meh₂-is-on \
+<!-- COGN: OIr. m6r "great" < \*meh₂-ro-, W mwy comp. "more" < \*meh₂-i6s (Osc. mais comp. "id." does not belong here, but is to be equated with Lat magis with schwa secundum as in maior < \*mg-ios- (cf. \*mekila-) \ -->
+<!-- Since PIE comparatives in \*-is- had root stress, the fact that Verner's law operated in \*maizan- proves that the word originally must have been trisyllabic, i.e. \*m&isan- < PIE \*meh₂is-on-. Just like the development of PGmc. \*winda- "wind" < PIE \*h₂ueh₂ento-, this comparative thus demonstrates that Verner's law preceded Osthoffs law. This again implies that Osthoffs law in Germanic must be separated from Osthoffs law in Greek and Latin. As for the etymology of the root \*meh₂-, it is likely, in my opinion, that it served as the basis for the comparative and superlative suffix PIE \*-1' [1h₂(-on)- > PGmc. \*-uman-, cf. Go. auhuma "higher" < \*ufuman- < \*up-1' [1h₂-on-, etc. \ -->
+REF: [EDPG]\: 350
+
+### <a id="maka">\*maka- "fit, comfortable" (adj)</a>
+N: \
+-- ON _makr_ "easy to deal with; suitable" \
+-- Far. _makur_ "quite, still, calm" \
+W: \
+-- MDu. _ge-mak_ "settled, calm, pleasant", Du. _mak_ "tame" \
+-- OHG _gi-mah_ "modest, suitable", MHG _ge-mach_ "appropriate, convenient, pleasant" \
+<!-- COGN: OIr. mam "yoke" < \*mag-mo-(?), Lith. mJgti (mJgiu) "to like", Latv. megt "to be able" < \*meg-ie- \ -->
+<!-- An adjective with an original meaning "fit, suitable" (cf. \*makan- "match"). It served as the derivational base for the weak verb OE macian "to prepare, make", E to make, OFri. makia "id.", OS (gi-)makon "to make, form, fix", Du. maken "to make", OHG mahh6n "id.", G machen "id." < \*makojan-. Under the assumption that the original meaning was "to knead", the verb is usually compared to Gr. µacrcrw "to knead, mold; to wipe" < \*mh₂g-ie and OCS mazati "to anoint", SCr. mdzati "to smear" < \*meh₂g-eh₂-. The original meaning is more likely to have been "to match, put together", however, which renders these connections obsolete. The etymological link with the aforementioned non-Germanic forms is more attractive, but the reconstruction of a PIE root \*meg- nevertheless remains uncertain. \ -->
+REF: [EDPG]\: 350
+
+### <a id="makan">\*makan- [m.] "match" (n)</a>
+N: \
+-- ON _maki_ \
+-- Far. _maki_ "equal, peer; spouse" \
+-- Elfd. _matji_ "spouse; match" \
+W: \
+-- OE _ge-maca_ "mate, equal, companion", ME _make_ "spouse" \
+-- OS _gi-mako_ "comrade" \
+-- OHG _ga-mahho_ "id." \
+<!-- Derived from \*mak6jan-, for which see \*maka- "fit". Also cf. OE ge-mEcca [m.] "match" < \*ga-makjan- and - for the original meaning "to fix up" - OFri. mekere [m.] "matchmaker", MDu. maekelaer [m.] "matchmaker, intermediary, middle-man", Du. makelaar [c.] "broker". \ -->
+REF: [EDPG]\: 350
+
+### <a id="malan">\*malan- [st.] "to grind" (v)</a>
+E: \
+-- Go. _malan_ \
+N: \
+-- ON _mala_ \
+-- Far. _mala_ \
+-- Elfd. _målå_ \
+W: \
+-- OS _malan_ \
+-- Du. _malen_ [st./wk.] \
+-- OHG _malan_, G _mahlen_ [st./wk.] \
+PIE: \*mólh₁-e- \
+<!-- COGN: Hitt mallai ~ mallanzi "to grind" < \*m6lh₁-ei, \*mlh₁-enti, Lat moli5, -ere "id.", Arm. malem "to crush", Lith. malti (malu), Latv. maTt "to grind" < \*m6lh₁-e-, OCS mleti "id.", Ru. mol6t' (melju), SCr. mljeti "id.", OIr. meilid "id." < \*melh₁-ie-, Skt. mp:i&ti "to crush, grind" < \*ml-neh₁- \ -->
+<!-- An o-grade intensive verb. Related to \*malwjan- and \*melwa- (q.v.). \ -->
+REF: [EDPG]\: 351
+
+### <a id="maldjō">\*maldjō- [f.] "saltbush, orache" (n)</a>
+N: \
+-- Nw. _svine-melde_ \
+-- OSw. _mæld_ \
+W: \
+-- OE _melde_ \
+-- OS _maldia_ \
+-- Du. _melde_ [c.] \
+-- OHG _melta_, _melda_, G _Melde_ \
+PIE: \*molt-ieh₂-(?) \
+<!-- An etymologically obscure plant name. If Gr. .hov, .iiwv [n.] "purple amaranth" is connected (thus Pokorny IEW: 716-9), it would point to a non-IE word varying between \*melt-, \*mlit- and \*mlet-. The Germanic word, however, is not to be reconstructed as \*meldo- (_pace_ Torp 1909: 31 7) in view of OS maldia and the more primary formation Sw. molla and G Cimb. malda < \*maldo-. The proto-form \*meldo- is also contradicted by Fi. maltsa "chickweed" < PFi. \*malcca (cf. LAGLOS, II, 248-9), although this word could also have been borrowed from the potentially unrelated \*maldja-, cf. Nw. melde [n.] "seeds from weeds mixed with grain", dial. melde-stokk [m.] "goosefoot, Chenopodium album". \ -->
+REF: [EDPG]\: 351
+
+### <a id="malha">\*malha/ō- [m./f.] "bag" (n)</a>
+N: \
+-- ON _malr_ [m.] "knapsack" \
+W: \
+-- MDu. _male_ [f.] "pouch, purse, bag" \
+-- OHG _malaha_ [f.] "bag, knapsack", MHG _malhe_ [f.] "leather bag" \
+PIE: \*molk- \
+<!-- COGN: To Gr. µot.y6c; [m.] "bag made of cowhide"? \ -->
+<!-- No IE etymology. Even if the supposed link with Gr. µot.y6c; is correct, the word still exhibits a formal mismatch with PGmc. \*malha-. It has therefore been suggested that we are dealing with a Thracian word (Pokorny IEW: 747) or a prehistoric Wanderwort (Furnee 1972: 126). \ -->
+REF: [EDPG]\: 351
+
+### <a id="malta">\*malta- "soft; gone bad(?)" (adj)</a>
+N: \
+-- ON _maltr_ "bitter" \
+W: \
+-- OHG _malz_ "mild" \
+PIE: \*mold-o- \
+<!-- COGN: OCS mlado "young", Ru. molod6j "id.", SCr. mliid "id." < \*mold-o- \ -->
+<!-- An adjective derived from the strong verb \*meltan- (q.v.). Also cf. ON malt, Far. malti, Elfd. molt, OE mealt, Du. mout, OHG malz, G Malz "malt" < \*malta-. \ -->
+REF: [EDPG]\: 351
+
+### <a id="maltjan">\*maltjan- [wk.] "to make dissolve" (v)</a>
+E: \
+-- Go. _ga-maltjan\*_ "to dissolve" \
+N: \
+-- ON _melta_ "to malt for brewing; to digest" \
+-- Far. _melta_ "to break, smash, crush; to digest, dissolve in the stomach" \
+W: \
+-- OE _mieltan_ "to (make) melt" \
+-- ODu. _gi-meltian_ "to malt" \
+PIE: \*mold-éie- \
+<!-- COGN: Skt. mradayati "to make soft" < \*mlod-eie-, Skt. mrdnati "to crush" < \*mld-neh₂-, OAv. m6ral)dat 3sg.pres.inj. "to ruin, crush" < \*ml-n-d-e- \ -->
+<!-- The causative to \*meltan- (q.v.). Of all Germanic languages, only Faroese seems to have preserved the original meaning "to crush". It thus directly corresponds to Skt. mrdniiti. The meaning "to be weak" probably developed from "to be crushed" in medio-passive use ofthe verb. \ -->
+REF: [EDPG]\: 351
+
+### <a id="malwjan">\*malwjan- [wk.] "to crush, pound" (v)</a>
+E: \
+-- Go. _ga-malwjan_ \
+N: \
+-- ON _mølva_ \
+<!-- A causative formation containing the suffix \*-wjan-, for which cf. \*kaizwjan- "to turn". Related to \*malan- "to grind" (q.v.). \ -->
+REF: [EDPG]\: 352
+
+### <a id="mampjan">\*mampjan- [wk.] "to mock, scorn" (v)</a>
+E: \
+-- Go. _bi-mampjan_ \
+<!-- A causative or intensive formation created to the iterative \*mump/b6n(q.v.). \ -->
+REF: [EDPG]\: 352
+
+### <a id="managa">\*managa- "many" (adj)</a>
+E: \
+-- Go. _manags_ \
+N: \
+-- ON _mangr_, _margr_ (with assimilation) \
+-- Far. _mangur_ \
+-- Elfd. _maung_ \
+W: \
+-- OE _manig_, _monig_, _menig_, E _many_ \
+-- OFri. _manich_, _monich_, _menich_, WFri. _mennich_ \
+-- OS _manag_ \
+-- Du. _menig_ \
+-- OHG _manag_, _manig_, G _manch_ \
+PIE: \*monogʰ-o- \
+<!-- COGN: OCS mMog'b "much, many", Ru. mn6gij adj . "much, many, numerous", SCr. mnogi "much, many, numerous" < \*munogʰo-, OIr. menic, Ir. minic "often", MW mynych "id." < PCelt. \*menekki- \ -->
+<!-- A Northwest Indo-European word that due to the irregular formal correspondences cannot be reconciled into a single proto-form. It has therefore been suggested that the word was borrowed from a non-IE source (Boutkan 1998: 124-5; Schrijver 2001: 422). This view is strengthened by the no doubt connected Fi. moni, which cannot have been borrowed from Germanic. The connection with Lith. minia [f.] "crowd" (Schulze 1913: 333) must at any rate be abandoned, as this word was derived from the unrelated Lith. minti "to tread". \ -->
+REF: [EDPG]\: 352
+
+### <a id="mandula">\*mandula- [m.] "handle on a grinding mill" (n)</a>
+N: \
+-- ON _mǫndull_ \
+-- Far. _mondul_ \
+<!-- COGN: Skt. manthati, mathn&ti "to whirl round" < \*mentH-e-, \*mnt-neH-, Skt. manthii- "churning stick, whirl" < \*montH-eh₁-, Lith. meāte [f.] "shoulder blade, paddle, trowel", Latv. meāte [f.] "ladle, stirring spoon" < \*mentH-ieh₂-, Lith. m�sti (menCiit) "to mix", OCS mf(sti "to stir, trouble", Ru. mjastf "id.", SCr. mesti "to disturb, mix, stir" < \*mentH- \ -->
+<!-- An instrumental noun derived from the PIE root \*me-n-tH- "to stir". G Mangel, dial. Mandel [f.] "mangle" does not belong here, but was borrowed from Romance, cf. It. mangano [m.] "mangle; pressing machine; calendar" < Lat. manganum [n.] "military catapult, mangonel", which in turn was adopted from Greek µayyavov [n.] "philtre; catapult; block of a pulley; hunting-net". \ -->
+REF: [EDPG]\: 352
+
+### <a id="mangjan">\*mangjan- [wk.] "to mix" (v)</a>
+W: \
+-- OE _mengan_ \
+-- OFri. _mengia_ \
+-- OS _mengian_ \
+-- Du. _mengen_ \
+-- OHG _mengen_, G _mengen_ \
+PIE: \*monHk-eie- \
+<!-- COGN: Lith. mankyti "to knead" < \*monHk-eie-; unrelated to OCS mpka, Ru. muka, SCr. muka [f.] "flour" < \*monHk-eh₂- \ -->
+<!-- Also cf. OE ge-mong "crowd", OS gi-mang "id.", MDu. ge-manc [m./n.] "mingling, company" (whence E among), MDu. ge-manc "mixed" < \*ga-mangaand ON manga [wk.] "to barter", OE ge-mangian [wk.] "to mix; to trade", OS mangon [wk.] "to trade", MDu. mangelen [wk.] "to mingle; to exchange; to argue" < \*(ga-)mangojan-. ON mengdr, mengjaar, menginn "mixed, blended" is considered to be a Low German loanword. \ -->
+REF: [EDPG]\: 353
+
+### <a id="mangō">\*mangō- [f.] "lack" (n)</a>
+W: \
+-- MHG _manc_ \
+PIE: \*monk-eh₂- \
+<!-- COGN: ToA miinkii- "to be guilty". ToB miirikii- "to be inferior, lack" < \*m(e)nk-, Lat. mancus "maimed" < \*monk-a- (with unclear a), Lith. meiikas "small, weak" < \*menk-o- \ -->
+<!-- Also cf. the denominal formations OHG mengen [wk.] "to lack" < \*mangjanand OHG mangolon, G mangeln [wk.] "id." < \*manglojan-. \ -->
+REF: [EDPG]\: 353
+
+### <a id="manja">\*manja- [n.] "necklace" (n)</a>
+N: \
+-- ON _men_ \
+W: \
+-- OE _mene_ \
+-- OHG _menni_ \
+PIE: \*mon-io- \
+<!-- COGN: Skt. ma1Jf- [m.] "amulet" (with unexplained retroflex), OIr. muin [f.] "neck" < \*mon-i-, Skt. manyii- [f.du.] "neck" < \*mon-ieh₂-, Av. manaotgri [f.] "neck" (of unclear derivation), OIr. muinel, W mwnwg(l) "collar" < \*moniklo(adopted by Latin as monfle "necklace, collar"?) \ -->
+<!-- An inherited word for "necklace". It was probably derived from the PIE word for "neck", for which see \*mano- "mane, neck" and \*mankan- "mane". \ -->
+REF: [EDPG]\: 353
+
+### <a id="mankan">\*mankan- [m.] "mane; upper part of a horse's neck" (n)</a>
+N: \
+-- ON _makki_ \
+-- Nw. _manke_ \
+-- Elfd. _maunke_ \
+-- Da. _manke_ [c.] \
+PIE: \*mon-gon- \
+<!-- COGN: OIr. mong [f.] "tuft of hair", W mwng [m.] "mane" < \*mon-go/eh₂- \ -->
+<!-- A derivation from \*mano- "mane, neck" with the more common kan-suffix for body parts, cf. ON kjalki "jaw-bone" < \*kelkan- and Icel. lj6ski "groin" < \*Ieuskan-). The parallelism with OIr. mong nevertheless indicates that addition of the velar happened at an early stage. Or was the Germanic word borrowed from Celtic? \ -->
+REF: [EDPG]\: 353
+
+### <a id="mannan">\*mannan- [m.] "man" (n)</a>
+E: \
+-- Go. _manna_, pl. _manns_ \
+N: \
+-- ON _maðr_, pl. _meðr_, _menn_ \
+-- Far. _maður_, pl. _menn_ \
+W: \
+-- OE _mann(a)_, pl. _menn_, E _man_ \
+-- OFri. _mon_ \
+-- Du. _man_ [c.] \
+-- OHG _man_ [c.], G _Mann_ [c.] \
+PIE: \*dʰgʰm-on- \
+<!-- COGN: Lat. homo, -inis [m.] "human being, man", Lith. obs. imuo [m.] "man", OPru. smoy "id." < \*dʰgʰm-on-, Lith. zmogits [m.] "man" (for the suffix, cf. OCS m{J-Zb "man" < \*mon-gʰ-io-) \ -->
+<!-- A word that was inflected as an n-stem in the singular and as a root noun in the plural. Presumably, the original paradigm \*manna, pl. \*mannaniz developed into \*manna, \*manniz by regular Proto-Germanic syncope of the unstressed vowel in the sequence \*-nnan-. The n-stem endings were then removed from the singular in most languages except for Gothic and OE manna. The etymology of the word is disputed. Some connect Skt manu"man" (cf. Ringe 2006: 139), but the underlying formation \*men-u- (not \*mon-u-) would regularly give \*minn- in Germanic. It is therefore more likely that the word split off from the PIE word for man, viz. \*dʰgʰm-on-, which is the form underlying the parallel formation \*guman- "man" (q.v.). The accusative stem \*dʰgʰm-on- regularly Jost the initial stops, the initial cluster Cm- being impossible in Germanic, and thus gave rise to a PGmc. root \*man- (Berneker 1898: 360-1). The geminate probably arose secondarily in an analogical paradigm nom. \*mano, gen. \*mannaz < quasi-PIE \*m6n-an, \*mon-n-6s. See further also \*manniska-. \ -->
+REF: [EDPG]\: 353
+
+### <a id="manniska">\*manniska- "human" (adj)</a>
+E: \
+-- Go. _mannisks_ \
+N: \
+-- ON _men(n)skr_ \
+W: \
+-- OE _mennisc_ \
+-- OHG _mennisk_ \
+<!-- An adjective derived from \*mannan- "man" with the adjectival suffix \*-iska-. Also cf. OFri. menneska, OS menisco, Du. mens, OHG mannisco, G Mensch [m.] "man, mankind" < \*manniskan-. \ -->
+REF: [EDPG]\: 354
+
+### <a id="manō">\*manō- [f.] "mane, neck" (n)</a>
+N: \
+-- ON _mǫn_ \
+-- Far. _mon_ "mane hair" \
+W: \
+-- OE _manu_ "mane", E _mane_ \
+-- OFri. _mona_ [m.] "id.", WFri. _moannen_ pl. "id." \
+-- MDu. _mane_ "id.", Du. _manen_ pl. "id." \
+-- OHG _mana_, G _Mähne_ "mane, crest" \
+PIE: \*mon-eh₂- \
+<!-- A formation closely related to \*manja- (q.v.) . The feminine \*mano- is the oldest form, but OFri. mona points to a parallel n-stem \*manan-. Another uniquely Germanic formation is implied by Elfd. mql [n.] "id." < \*mania- (with \*-anl- > \*-iii-). For the suffixation of I, compare \*nablan- "navel". \ -->
+REF: [EDPG]\: 354
+
+### <a id="marha">\*marha- [m.] "horse, steed" (n)</a>
+N: \
+-- ON _marr_ \
+W: \
+-- OE _mearh_ \
+-- OFri. _mar_ \
+-- OHG _marh_, _marah_, MHG _march_ \
+PIE: \*mark-o- \
+<!-- COGN: Identical to Gaul. markan acc., MIr. mare, MW march [m.] "horse" \ -->
+<!-- A Germanic-Celtic isogloss. Also cf. ON merr, OE mere, MDu. merie, mere, Du. merrie, OHG mariha, meriha, G Māhre [f.] "mare" < \*marh₁-, \*marhjo(n)-. \ -->
+REF: [EDPG]\: 354
+
+### <a id="mari">\*mari- [m./n.] "lake, sea" (n)</a>
+E: \
+-- Go. _mari-saiws_ [m.] \
+N: \
+-- ON _marr_ [m.] \
+-- Far. _mar_ \
+W: \
+-- OE _mere_ [m.] \
+-- OFri. _mar_ [m.] "ditch" \
+-- Du. _meer_ [n.] "lake" \
+-- OHG _meri_ [m./n.], G _Meer_ [m./n.] \
+PIE: \*mor-i- \
+<!-- COGN: Oss. mal"stagnant water", Lat. mare [n.] "sea", OIr. muir [n.] "id.", MW mor "id." < \*mor-i-, Lith. miirios [f.pl.] "id." < \*mor-ieh₁-, OCS morje, Ru. more, SCr. more, more [n.] "id." < \*mor-io- \ -->
+<!-- The regular outcome of PIE \*mor-i-, a neuter i-stem meaning "sea". Also note the feminine Go. marei, OS meri, OHG merf "lake, sea" < \*marfn-, which is close to Lith. miirios. Related to \*mora- "marsh, moor" (q.v.). \ -->
+REF: [EDPG]\: 354
+
+### <a id="marikan">\*marikan- [m.] "wild celery, smallage" (n)</a>
+N: \
+-- ON _merki_ [n.] \
+-- OSw. _mærke_ [f.] \
+-- EDa. _mærkæ_ \
+W: \
+-- OE _mer(e)ce_, E obs. _march_ \
+-- MLG _merk_ \
+<!-- A plant name that in view of the plant's preference for brackish marshes was probably derived from \*mari- "sea" (q.v.) with the diminutive suffix \*-kan-. Since the Nordic forms are likely to have been borrowed from Old English or Low German, the word originally had an Ingvaeonic distribution. This is in accordance with the natural occurrence of the plant along the North Sea coast and the West Baltic. Nw. dial. eld-merkje [m.] "willowherb, Epilobium" does not belong here. It developed from eld-mjfi'llke, -mj;;elke "id." by dissimilation, cf. Elfd. 6-mok [n.] "id." < ON \*hey-mjplk. \ -->
+REF: [EDPG]\: 355
+
+### <a id="marka">\*marka- [n.] "sign" (n)</a>
+N: \
+-- ON _mark_ "mark, sign; matter of importance" \
+-- Far. _mark_ "mark, characteristics" \
+-- Elfd. _mark_ [m.] "house mark" \
+W: \
+-- OE _mearc_ [f.] "sign, mark", E _mark_ \
+-- MDu. _marc_ "mark, trademark", Du. _merk_ "id." \
+PIE: \*morg-o- \
+<!-- Also cf. ON marka, OE mearcian, OFri. merkia, OS markon, OHG markon [wk.] "to mark" < \*markojan- and ON merkja "to notify, denote", OHG merken, G, Du. merken [wk.] "to become aware of" < \*markjan-. Possibly related to \*marko- "boundary" (q.v.). \ -->
+REF: [EDPG]\: 355
+
+### <a id="markō">\*markō- [f.] "boundary, region" (n)</a>
+E: \
+-- Go. _marka_ \
+N: \
+-- ON _mǫrk_ "forest" \
+-- Far. _mørk_ "wood, wilderness" \
+W: \
+-- OE _mearc_ "boundary, district" \
+-- OFri. _merke_ "id." \
+-- OS _marka_ "border, region" \
+-- MDu. _marke_ "id." \
+-- OHG _marka_ "border, region, end", G _Marke_ "id." \
+PIE: \*morg-eh₂ \
+<!-- COGN: YAv. maroza- [m.] "border, district", NP marz "boundary" < \*morg-o-, Lat. margo, -inis [n.] "edge, border" < \*morg-on-(?), OIr. mruig [m.] "territory", W bro [f.] "id." < \*mrog-i- \ -->
+<!-- An old Indo-European term for a territorial delimitation. It is possible that the word was derived from the verb underlying Hitt marki ~ markijanzi "to divide, separate, distribute; to cut up, to butcher" < \*morg-ei, \*mrg-i-enti (Kloekhorst 2008: 558-9). \ -->
+REF: [EDPG]\: 355
+
+### <a id="marþru">\*marþru- [m.] "marten" (n)</a>
+N: \
+-- ON _mǫrðr_ \
+-- Nw. _mord_ \
+-- Sw. _mård_ [c.] \
+-- Elfd. _mard_, _marder_ \
+W: \
+-- OE _mearð_ \
+-- WFri. _mird_ [c.] \
+-- OHG _mardar_, MHG _mart_, _marder_, G _Marder_ \
+<!-- The dialects point to at least three different proto-forms, 1. \*marpu- (ON mprour), 2. \*marpra- (OHG mardar) and 3. \*marpa- (OE mearo, WFri. mird, MHG mart). I assume that they all developed from PGmc. \*marpru- by cross-dialectal dissimilation of the second r and transfer to the a-stems in West Germanic. This form was borrowed into Romance, cf. Fr. martre, and from there spread to West Germanic, Du. marter, E marten, obs. marter. Etymology unknown. The word has been compared to Lith. marti [f.] "bride" in view of parallel semantic shifts from "bride" to "marten", cf. It. donnola, MoGr. vucphoa and OCS nevesta (Torp 1909: 313). \ -->
+REF: [EDPG]\: 355
+
+### <a id="marzjan">\*marzjan- [wk.] "to impede" (v)</a>
+E: \
+-- Go. _marzjan_ "to hamper, impede, offend" \
+W: \
+-- OE _mierran_ "to impede; to get lost" \
+-- OS _merrian_ "to disturb, annoy" \
+-- ODu. _merren_ "to wait, linger" \
+-- OHG _merren_ "to impede, tie up" \
+PIE: \*mors-éie- \
+<!-- COGN: Hitt. marsant- "deceitful, dishonest; unholy" < \*mrs-ont-, ToA mriisii-, ToB miirsii- "to forget" < \*mers-, Skt. mr�yate "to forget" < \*mrs-ie-, Arm. mofanam "forget" < \*mors-, Lith. mifsti (mirstil), Latv. -mirst "id." < \*mrs-ske- \ -->
+<!-- A causative to an unattested strong verb \*mersan- continuing a root PIE \*mers-. The Germanic meaning "to impede, irritate, make err" can be understood more easily from H ittite "to be deceitful" than from "to forget", the meaning that is found in all the other IE languages. Also Far. marra [wk.] "to plague" < \*marzon-. \ -->
+REF: [EDPG]\: 356
+
+### <a id="masjinga">\*masjinga-(?) [m.] "brass" (n)</a>
+W: \
+-- OE _mæs(t)ling_, _mæslen(n)_ [n.] \
+-- OFri. _mesken_ "made of brass" \
+-- MDu. _messinc_, _missinc_ [n.] "id.", Du. _messing_ [n.] "id." \
+-- MHG _messinc_, _missinc_, _mōschinc_ "id." \
+<!-- Etymology unclear. It has been suggested that the word was borrowed from Slavic (cf. Pol. mosiqdz < PSlav. \*most;gb), but this was rejected by Franck 1949: 425 on the basis of the attestation in Old English. It is further clear that the Germanic word is related to the derivationally more primitive MHG mess(e), MDu. mes [n.] "brass" < \*masja- and MHG messe [f.] "Jump of metal" < \*masjo-. Borrowing in the opposite direction is therefore more likely. Perhaps, the Germanic word ultimately goes back to Lat. massa [f.] "mass", cf. ME masse "chunk; mass of minerals, ingot". For the suffix \*-inga-, cf. Go. skilliggs, OE scilling, E shilling, OFri., OS skilling, Du. schelling, OHG scilling, G Schilling and OE penning, pennig, E penny, OS penning, Du. penning, OHG pfenning, pfennic, G Pfennig. \ -->
+REF: [EDPG]\: 356
+
+### <a id="maska">\*maska- [m.] "mesh; stain(?)" (n)</a>
+W: \
+-- OE _masc_, _max_ [n.] "mesh, net, toil", E _mesh_ \
+-- WFri. _mesk_ [c.] "id." \
+PIE: \*mozg-o- \
+<!-- COGN: ToA masiik, ToB meske\* [m.] "joint", Lith. māzgas [m.] "knot", Latv. mazgs [m.] "id." < \*mozg-o-, Lith. megzti (mezga) "to tie (a knot), knit", Latv. megzt "id." < \*mezg-e- \ -->
+<!-- A Germanic-Baltic and Tocharian isogloss \*mozgo-. Several related derivatives can be found in the Germanic dialects. West Germanic has a feminine \*mask6(n)-, cf. OS maska [f.] "snare, hole", OHG masca [f.] "mesh, loop", G Masche [f.] "mesh". This formation may have merged with the presumably related OS masko [m.] "stain" in MDu. maesce [f.] "stain; mesh" and Du. maas. The latter two forms have been interpreted as containing a lengthened grade root \*mesk(Franck 1949: 407), but this must be due to contamination with \*meson"spot, stain" (q.v.). The same two meanings "stain" and "mesh" are attested for OE mrescre, which together with the closely related ON mpskvi (= Far. meska, meski, meskur?), Nw. moske [m.] "mesh" < \*maskwan- may go back to an old heteroclitic paradigm, nom. \*mozg-ur, gen. \*mozg-uen-s. \ -->
+REF: [EDPG]\: 356
+
+### <a id="masta-1">\*masta- [m.] "mast, fruit of forest trees" (n)</a>
+W: \
+-- OE _mæst_, E _mast_ \
+-- OHG _mast_ [n.], G _Mast_ [f.] "fattening" \
+PIE: \*mosd-o- \
+<!-- COGN: Close to OIr. mess [m.] "acorns, tree-fruit", W mes pl. "id." < \*mezd-tu- \ -->
+<!-- Also cf. G miisten, Du. vet-mesten [wk.] "to fatten up" < \*mastjan-. It is likely that OIr. mess belongs here, the semantic match with mast being especially close: acorns and beech-nuts were used to feed pigs. On a deeper level, both words may be related to Skt. medas- [n.] "fat, ghee(?), marrow" < \*mezd-es- (cf. Skt. medyati "to become fat" < \*mezd-ie-; YAv. azdiia- "well-fed, fat" < \*mzd-io-). Others have compared and \*mazga- "marrow" (q.v.), which seems to consists of a root \*most- followed by an unknown velar element The alternative derivation from the root \*mod- (for which see \*mati- "food") plus an element starting in \*-d-, possibly the root \*dh₃- "to give" (Hill 2003: 186-196), is formally problematic, as \*mod-dh₃-o- should have given \*massa-. \ -->
+REF: [EDPG]\: 357
+
+### <a id="masta-2">\*masta- [m.] "post, mast" (n)</a>
+W: \
+-- OE _mæst_ "mast", E _mast_ \
+-- OS _mast_ "mast, pole" \
+-- Du. _mast_ [c.] "id." \
+-- OHG _mast_ "stick, pole, mast", G _Mast_ "mast" \
+PIE: \*mazdo- \
+<!-- COGN: MIr. maide [m.] "stick" < \*mazd-io- (OIr. matan [m.] "club" is not attested) \ -->
+<!-- A Celtic-Germanic isogloss. The connection of Lat. miilus [m.] "pole, mast" can only be maintained by reconstructing a rather far-fetched proto-form \*mazd-slo-, which is unattractive, or assuming a dialectal development of Lat. \*miidus to miilus (De Vaan 2008: 361). OCS mostb, Ru. most, SCr. most [m.] "bridge" was borrowed from Germanic. \ -->
+REF: [EDPG]\: 357
+
+### <a id="masura">\*masura- [m.] "burl, growth" (n)</a>
+N: \
+-- ON _mǫsurr_ "burl wood; maple" \
+-- Icel. _mösur_ "maple" \
+-- Sw. _masur_ [c.] "burl wood" \
+W: \
+-- OS _masur_ "swelling" \
+-- MDu. _maser_ "burl" \
+-- OHG _masar_ "speckle; burl, vein (of wood)", G _Maser_ [f.] "id." \
+<!-- The original meaning of this word was "growth" or "tumor", for which see \*mesl0-. Maple wood typically has a decorative wood grain, especially in the so-called burls. As a result, the word came to be applied to the tree as a whole. The word seems to have been in association with ON mppurr [m.] "maple", OE mapulder, mapuldor [m./f.] "id.", which is of unknown origin. \ -->
+REF: [EDPG]\: 357
+
+### <a id="mati">\*mati- [m.] "food" (n)</a>
+E: \
+-- Go. _mats_ \
+N: \
+-- ON _matr_ \
+-- Far. _matur_ \
+-- Elfd. _mat_ \
+W: \
+-- OE _mete_, E _meat_ \
+-- OFri. _mete_ \
+-- OS _meti_ [n.], MLG _met_ [n.] "pork" \
+-- MDu. _met-worst_ "air-dryed pork sausage" \
+-- OHG _maz_ [n.] "food" \
+PIE: \*mod-i- \
+<!-- COGN: Gr. µrn"T6; "full, filled, satiated" < \*med-to- \ -->
+<!-- An old i-stem, the basis for the factitive Go. matjan "to eat", ON mettr "satisfied, full" (< \*matida-), OE mettan [wk.] "to feed" < \*matjan-. Also note the Verner alternation in the compound \*mati-sahsa- ~ \*mati-zahsa- "knife", cf. OHG mezzisahs, OE meteseax, OS mezas-, Du. mes vs. OHG mezzirahs, G Messer (Kluge 1883: 82). The word probably continues a PIE root \*med- "to satiate" in view of Gr. µEcrr6c;. The link with Skt. mcindati "to rejoice, get intoxicated", Gr. µmSaw "to drip, melt, be moist" and Lat. madeo "to be wet" < \*mh₂(-n-)d- is erroneous (see \*matjan- "to lap"). Lat. mando "to bite, chew" is also not related, as this verb continues an n-present \*mt-neh₂- (see \*minpla-) rather than \*ma-n-d- (with a schwa secundum and nasal infixation by Thurneysen's law). See also \*masta- 1 and \*mosa-. \ -->
+REF: [EDPG]\: 358
+
+### <a id="matjan">\*matjan- [wk.] "to lap" (v)</a>
+N: \
+-- ON _metja_ \
+PIE: \*mh₂d-ie- \
+<!-- COGN: Skt. mcindati "to rejoice, get intoxicated", Alb. mend "to suckle, nurse" < \*mh₂-n-d(Lubotsky 198 1), Gr. µacScXw "to drip, melt, be moist" < \*mh₂d-h₂-ie-(?), Lat. madeo, -ere "to be wet" < \*mh₂d-eh₁- \ -->
+<!-- An IE term for "sucking", "lapping" or "guzzling". In spite of Torp 1909: 305 and Pokorny IEW: 694-5, unrelated to \*mati- "food" (q.v.). \ -->
+REF: [EDPG]\: 358
+
+### <a id="maþan">\*maþan- [m.] "maggot, moth" (n)</a>
+E: \
+-- Go. _maþa_ "worm" \
+W: \
+-- OE _maða_ "grub, worm, maggot" \
+-- OS _matho_ "maggot, worm" \
+-- Du. _made_ [c.] "maggot" \
+-- OHG _mado_ "maggot, worm", MHG _matte_ [f.] "moth", G _Made_ "maggot" \
+<!-- COGN: Ru. mot.JI' "maggot" \ -->
+<!-- An n-stem that together with \*muj:Jj:Ja/on- (q.v.) split offfrom an ablauting paradigm nom. \*maj:Jo, gen. \*muttaz continuing \*m6t-6n, \*mt-n-6s (Kroonen 201 1a: 218-2 1). For the full grade, also cf. ON maokr, ME maoek, maggot, maddock, MLG maddike, meddeke < \*maj:ḱkan-, Nw. mare [m.] "woodworm" < \*maj:Jran- and Nw. mrere [m.] "mite" < \*maprjan-. \ -->
+REF: [EDPG]\: 358
+
+### <a id="maþla">\*maþla- [n.] "meeting-place" (n)</a>
+E: \
+-- Go. _maþl_ "forum, marketplace, assembly" \
+N: \
+-- ON _mál_ "speech; case" \
+W: \
+-- OE _mæðel_ "assembly, council; speech, address" \
+-- OS _mahal_ "court, meeting; speech" \
+-- OHG _mahal_ "court, assembly" \
+<!-- An instrumental noun in \*-tlo-, derived from the zero-grade stem of \*motan- (q.v.). The resulting \*mad-tlo- developed into PGmc. \*maj:Jla through a simplified form \*matlo-, and further into \*mahla- in NWGm. (cf. \*stahla- and \*staj:Jla-) . \ -->
+REF: [EDPG]\: 358
+
+### <a id="mauja">\*mauja- "fine, pretty" (adj)</a>
+W: \
+-- LG _moie_ "pretty" \
+-- MDu. _mooy_ "pretty, elegant, proud, vain", Du. _mooi_ "pretty, fine, beautiful" \
+PIE: \*mouH-io\
+<!-- A purely Low German and Dutch word (= Sw. moj "nice, fine") with no certain etymology. Perhaps related to OCS myti "to wash" < \*muH- and Latv. maut "to submerge, swim" < \*mouH- (Van Wijk 19 18: 156). EDu. ver-mooyen [wk.] "to squander" (= Sw. moja sig "to enjoy oneself"?) could point to a more original meaning "vain". \ -->
+REF: [EDPG]\: 359
+
+### <a id="maura">\*maura- [m.] "ant" (n)</a>
+N: \
+-- ON _maurr_ \
+-- Nw. _maur_ \
+-- OSw. _mø̄r_ \
+PIE: \*mour-o- \
+<!-- COGN: Skt. vamrci- [m.] "ant" < \*uomr-o-, YAv. maoiri- [m.] "id.", NP mor "id.", Oss. mcel3YB / mul3ug "id." < \*moru-i-, Skt. vamrf-, Av. maoiri- [f.] "id." < \*uomr-ih₂- I \*moru-ih₂-, Gr. µupµri�, -riKo� [m.] "id." < \*morm-, Lat. formlca [f.] "id." < \*bʰ(o)rm-, OIr. moirb [f.] "id.", W myr "id." < PIE \*moru-i-, CS mravii [f.] "id." < \*moru-ih₂-, ORu. morovej, Ru. muravej [m.] "id." < \*moru-io-, SCr. mriiv [m.] "id." < \*moru-o-, ToB warme\* "id." < \*urm-i- \ -->
+<!-- Also cf. the derived feminine Far. meyra [f.] "id.", Elfd. mi;ra [f.] "id." < \*maurjon-, which is parallel to \*meurjon- (q.v.). The word is of IE origin, but the original form is difficult to reconstruct due to cross-dialectal tabooistic distortions and metatheses (cf. Van Wijk 19 14). \ -->
+REF: [EDPG]\: 359
+
+### <a id="mawēn">\*mawēn- [wk.] "to scrape" (v)</a>
+N: \
+-- ON _má_ "to blot or rub out, efface; to wear, make blunt" \
+-- Icel. _má_ "to blur, efface" \
+-- Nw. _må_ "to scrape, grate; wear" \
+PIE: \*mHu-eh₁- \
+<!-- COGN: Lith. mauti (mauna, mciuju) "to put on, tear, pull, stab, strike, dash", Latv. maut "to pull up, pull off, bridle" < \*meHu- \ -->
+<!-- I reconstruct this verb as \*mlju-eh₁-. The presence of a radical laryngeal is hypothetical, but not improbable, since statives in -eh₁- usually take zero grade of the root. In addition, there is Baltic evidence for a root with a laryngeal. Also cf. Nw. m ugg [m./n.] "sawdust; drizzle" < \*muwwa- < \*muH-o(with metathesis), Far. moo [n.] "speck of dust, seed" < \*mHu-to- and ON m6oa [f.] "dust" < \*moHu-teh₂- (with regular loss of \*u after PGmc. \*o). \ -->
+REF: [EDPG]\: 359
+
+### <a id="mawī">\*mawī- [f.] "girl" (n)</a>
+E: \
+-- Go. _mawi_, gen. _maujos_ "girl, maid" \
+N: \
+-- ON _mær_, gen. _meyjar_ "girl; daughter" \
+-- Far. _moyggj_ "maid(en), virgin" \
+<!-- The feminine counterpart of \*magu- (q.v.). Cf. the ancient diminutive Go. mawilo, ON meyla, OE meowle < \*mawilon-. See also \*magapi-. \ -->
+REF: [EDPG]\: 359
+
+### <a id="mazga">\*mazga- [m.] "marrow" (n)</a>
+N: \
+-- ON _mergr_, gen. _mergjar_ \
+-- Far. _mergur_ \
+-- Elfd. _mjärg (<_ \*mazgi-) \
+W: \
+-- OE _mearh_, _mærh_ [m./n.] \
+-- OFri. _merch_ [m./n.] \
+-- OS _marg_ [n.] \
+-- Du. _merg_ [n.] \
+-- OHG _marg_ [n.], G _Mark_ [n.] \
+PIE: \*mozgʰ-i/o- \
+<!-- COGN: Skt. majj{m- [f.] "marrow, pith" < \*mozgʰ-en-, YAv. mazga "marrow, brain", NP mayz "brain, fat, marrow, kernel", Oss. magz "brain, marrow", CS mozgo "marrow", Ru. mozg "brain, marrow", SCr. mozak "brain" < \*mozgʰ-o-, MIr. medg, medc [m.] "whey", W meidd [m.] "id." < \*mezgʰ-o- \ -->
+<!-- An ancient IE term for "marrow" or "brain". The proto-form \*mozgʰ-oprobably continues older \*most-gʰ-o- in view of Skt. mastrhan-, YAv. mastarayan- [m.] "brain", which was dissimilated from \*most-mrgʰ-en(Lubotsky 2008a), for which see \*bragna-. \ -->
+REF: [EDPG]\: 359
+
+### <a id="mēan">\*mēan- [st.] "to mow" (v)</a>
+W: \
+-- OE _mawan_, E _to mow_ \
+-- OFri. _miā_, _miān_ \
+-- MDu. _maeyen_ [st./wk.], Du. _maaien_ [wk.] \
+-- OHG _māen_ [wk.], G _mähen_ [wk.] \
+PIE: \*h₂méh₁-e- \
+<!-- COGN: Hitt. bamesba- [c.] "spring" < \*h₂m(e)H-sh₂0- (for the suffix cf. damme/isba- "damage" < \*demh₂-sh₂6-), Gr. aµaw "to reap corn, cut" < \*h₂mh₁-eh₂-ie-; aµrp:o; [m.] "harvest" < \*h₂mh₁-eh₂-to- \ -->
+<!-- A reduplicating strong verb \*mean-; the different glides of OE mawan, OHG maen (< \*majan) and Du. maaien arose secondarily in hiatus position. See also \*mepa-. \ -->
+REF: [EDPG]\: 360
+
+### <a id="medi">\*medi "with" (prep)</a>
+E: \
+-- Go. _miþ_ \
+N: \
+-- ON _með_ \
+W: \
+-- OE _mid_ \
+-- OFri. _mith_ \
+-- OS _mid_, _midi_, _mith_ \
+-- Du. _met_ \
+-- OHG _mit_, _miti_, G _mit_ \
+PIE: \*met-i \
+<!-- COGN: Gr. µem, µETa (adv, prep) "in the midst, afterwards; between, with, after" < \*met-m (with an ending as in KCXTa "down, against" (prep)), Alb. mjet "between" (adv) < \*met- \ -->
+<!-- An Indo-European adverb and preposition, originally a locative in -i to a root noun \*met- or \*medʰ-. See \*medja- 1 "middle". \ -->
+REF: [EDPG]\: 360
+
+### <a id="medja-1">\*medja- "middle" (adj)</a>
+E: \
+-- Go. _midjis_ \
+N: \
+-- ON _miðr_ \
+-- Far. _miður_ \
+W: \
+-- OE _midde_ \
+-- OFri. _midde_ \
+-- OS _middi_ \
+-- OHG _mitti_ \
+PIE: \*medʰ-io- \
+<!-- COGN: Skt. mcidhya- "middle", OAv. maidiia-, YAv. mai6iia- "id.", Arm. mef "the middle; mid, middle", Gr. µfoo; "(in the) middle", Lat. medius "central, middle", OIr. mide [m.] "middle", Lith. mediias [m.] "forest", Latv. meis [m.] "wood", OPru. median "id." < \*medʰ-io-, Ru. meza [f.] "boundary", SCr. meaa [f.] "id." \ -->
+<!-- The Indo-European word for "center, middle". The ja-stem has a formal variant ON, Far. mioja, Elfd. mioa, OHG mitti [f.] "middle" < \*medjo(n)-. See also \*meduma-. \ -->
+REF: [EDPG]\: 360
+
+### <a id="medja-2">\*medja- [n.] "aim" (n)</a>
+N: \
+-- Icel. _mið_ \
+PIE: \*met-io- \
+<!-- COGN: Lith. matjti "to look, watch" < \*mot-eie- \ -->
+<!-- The word is usually equated with \*medja- 1 "middle" (Magnusson 1989: 61 8), but it may alternatively be a Germanic-Baltic isogloss derived from a root \*met- "to look". Also cf. ON, Far. mioa [wk.] "to aim" < \*mepjojan-. \ -->
+REF: [EDPG]\: 360
+
+### <a id="medu">\*medu- [m.] "mead, alcoholic liquor made of honey and water" (n)</a>
+N: \
+-- ON _mjóðr_ \
+-- Far. _mjøður_ "mead" \
+-- Elfd. _myöð_ "honey" \
+W: \
+-- OE _meodo_ [m./n.] "mead", E _mead_ \
+-- OFri. _mede_ "id." \
+-- MDu. _mede_ "id.", Du. _mede_ [c.] "id." \
+-- OHG _metu_, _meta_, _mito_ "id.", G _Meth_ "id." \
+PIE: \*medʰ-u- \
+<!-- COGN: CLuv. maddu- "wine", HLuv. matu- "id.", ToB mit "honey", Skt. madhu- [n.] "sweet drink, honey", Gr. µ£-Bu [n.] "intoxicating drink, wine", OIr. mid [m./n.] "mead", MW medd [m.] "id.", Lith. medits [m.] "honey", Latv. m�dus [m.] "id.", OPru. meddo "id.", OCS med'b [m.] "id.", Ru. med "honey, mead", Ser. med "honey" \ -->
+<!-- The PIE word for "honey, mead". In Germanic, the default word for "honey" was \*hunanga- (q.v.). \ -->
+REF: [EDPG]\: 361
+
+### <a id="meduma">\*meduma- "middle, midmost" (comp)</a>
+E: \
+-- Go. _miduma_ [f.] "middle" \
+W: \
+-- OE _medume_, _medeme_, _meodume_ "moderate, common" (adj) \
+-- OHG _metemo_ "middle(most)" \
+PIE: \*medʰ-mh₂-eh₂- \
+<!-- COGN: Identical to Skt madhyama- (with analogical -y-), YAv. maoama- "middle, midmost" \ -->
+<!-- The original comparative to \*medja- 1 "middle". Also cf. the derived Go. miduma [f.] "middle", ON mjpam [f.] "waist", Far. mjedn, Elfd. myorm [f.] "hip" < \*medum6-. \ -->
+REF: [EDPG]\: 361
+
+### <a id="mēga">\*mēga- [m.] "son-in-law" (n)</a>
+E: \
+-- Go. _megs_ \
+N: \
+-- ON _mágr_ "son-in-law; brother-in-law" \
+-- Far. _mágur_ "id." \
+-- Elfd. _mą̊g_ "id." \
+W: \
+-- OE _mǣg_ "relative" \
+-- OFri. _mēch_ "id." \
+-- OS _māg_ "id." \
+-- Du. obs. _maag_ [c.] "id." \
+-- OHG _māg_ "id." \
+<!-- A _vr̥ddhi_-formation to \*magu- (q.v.). It was probably created in analogy to the proportion of \*swehra(n)- : \*swegura- (q.v.). \ -->
+REF: [EDPG]\: 361
+
+### <a id="mekan">\*mekan- [st.] "to hinder" (v)</a>
+W: \
+-- MHG _ver-mechen_ "to delay, hinder, weaken" \
+<!-- An obscure strong verb without any intra- or extra-Germanic comparanda. \ -->
+REF: [EDPG]\: 361
+
+### <a id="mekila">\*mekila- "large, great; much" (adj)</a>
+E: \
+-- Go. _mikils_ \
+N: \
+-- ON _mikill_ \
+-- Far. _mikil_ \
+-- Elfd. _mikkel_ \
+W: \
+-- OE _micel_ \
+-- OS _mikil_ \
+-- MDu. _mekel_ \
+-- OHG _mihhil_, MHG _michel_ \
+PIE: \*meǵ-el- \
+<!-- COGN: Hitt. mekk- "much, many, numerous", ToA mak, ToB maka (adv/indecl.) "much", Gr. µfym; "great, big, large", Arm. mec "great, big, large", "much" (adv), Alb. madh "big" < \*meg-h₂-, Lat magnus "great, big, large" < \*mg-no- (with schwa secundum), MIr. maige "great" < \*meg-io- (with the regular change of lrish -eg- to -ag-) \ -->
+<!-- Unlike the other IE languages, Germanic added a suffix \*-ila- (< \*-eli-?) to the root \*meg-. It is unclear whether this happened on the basis of analogy with \*litila- "small" ( q.v.) or vice versa, but the suffixation has a clear parallel in Gr. µfya�. [f.] µeyXAri "great, big, large" and the semantically comparable Lith. didelis (beside didis) "big". An entirely different formation is represented by Skt. mah&nt- "great, big, extensive, powerful", YAv. maz&�t- "big, comprehensive, spacious" < \*meg-eh₂-ont- and Lat. ingens, -entis "huge", Gr. ayav "much, too much" (adv) < \*mg-h₁-(e)nt-. Note that the PNGm. adverb \*meku, cf. ON mjpk, Icel. mjog "much" (adv), Elfd. mjog "rather", was created in analogy to \*felu- ~ \*fulu-, cf. ON fjpl- "many". \ -->
+REF: [EDPG]\: 361
+
+### <a id="mēla-1">\*mēla- [n.] "point in time" (n)</a>
+E: \
+-- Go. _mel_ "season, point in time, period of time" \
+N: \
+-- ON _mál_ "time; meal" \
+W: \
+-- OE _mǣl_ "moment; meal", E _meal_ \
+-- MDu. _mael_ "point in time", Du. _maal_ "meal; time" \
+-- OHG _māl_ "point (in time), spot; meal", G _Mal_ "time", _Mahl_ "meal" (with unetymological orthographical disambiguation) \
+<!-- Of disputed origin: some assume that the word is identical to \*mela"measure" (see \*mela- 3), but it is also possible to start from a meaning "spot" or "point", for which see \*mela- 2. \ -->
+REF: [EDPG]\: 362
+
+### <a id="mēla-2">\*mēla- [n.] "spot, mark" (n)</a>
+N: \
+-- ON _mál_ "goal" \
+W: \
+-- OE _mǣl_ "mark", E _mole_ \
+-- MDu. _mael_ "sign, mark, stigma" \
+-- OHG _mal_ "spot", G _Mal_ "mark" \
+PIE: \*melh₂-o- \
+<!-- COGN: Skt. mcila- [n.] "dirt" < \*molh₂-o-, Gr. µtA.ac; "dark, black" < \*melh₂-n-, Lith. mJlas "blue", Latv. m�ls "dark blue, violet" < \*melh₁-o- \ -->
+<!-- Etymology uncertain. The word has been connected with Gr. µD.ac; and Lith. mJlas (cf. Pokorny IEW: 720-1). It is alternatively possible to equate it with \*mela- 1 "point" and \*mela 3- "measure"; the meaning "mark" may then be used to bridge the semantic gap between these potential cognates. Also cf. ON mcila [wk.] "to paint" < \*melojan-. \ -->
+REF: [EDPG]\: 362
+
+### <a id="mēla-3">\*mēla- [n.] "measure, amount" (n)</a>
+E: \
+-- Go. _mela_ [m.] "bushel" (< \*mēlan-) \
+N: \
+-- ON _mál_ "measure" \
+W: \
+-- OE _mǣl_ "measure" \
+-- ODu. _māl_ "jar, vase" \
+PIE: \*meh₁-lo- \
+<!-- COGN: OCS mera [f.] "measure", Ru. mera "id.", SCr. mjera [f.] "measure, weight" < \*meh₁-reh₂- \ -->
+<!-- Derived from the PIE root \*meh₁- "to measure", cf. \*meþi-. Also cf. ON mElir, OE mele [m.] "cup, bowl, basin" < \*melja-, for which cf. ON mEla [wk.] "to measure" < \*meljan-. \ -->
+REF: [EDPG]\: 362
+
+### <a id="melda">\*melda- "pleasant, mild" (adj)</a>
+E: \
+-- Go. _un-milds\*_ "unloving" \
+N: \
+-- ON _mildr_ "merciful, generous" \
+-- Far. _mildur_ "mild, gentle, pleasant" \
+W: \
+-- OE _milde_ "friendly, merciful", E _mild_ \
+-- OFri. _milde_ "merciful, gracious" \
+-- OS _mildi_ "kind" \
+-- Du. _mild_ "mild, benign" \
+-- OHG _milti_ "merciful, meek", G _milt_ "lenient, mild" \
+PIE: \*melh₂-t6- \
+<!-- COGN: Skt. mḱitci- "soft" < \*mleh₁-to-, OIr. mlciith "tender, soft" < \*mlh₁-ti- \ -->
+<!-- A to-formation created to the PIE root \*melh₂-, which is also supported by the stative \*mulwen- "to soften" (q.v.). Unrelated to OCS mlado "young" < \*mold-a- and OIr. mell "pleasant" < \*meld-a- (for which see \*multojan-). Problematic, too, is the link with Gr. µaA.-8aK6; "weak, tender, soft, mild" (cf. Skt. mardhati "to neglect, abandon", OAv. maradaitf "to ignore, neglect"?), as the regular outcome of \*mldʰ- would be \*\*�A.a�- in Greek (Beekes 20 10: 897-8). \ -->
+REF: [EDPG]\: 362
+
+### <a id="melha">\*melha- ~ \*melga- [m.] "sand bank" (n)</a>
+N: \
+-- ON _melr_ "sand bank" \
+-- Elfd. _mjåg_ "steep sandy river-bank" \
+<!-- An e-grade formation closely related to Icel. mol [f.] "gravel, pebbles", Far. mu! [f.] "beach covered with pebbles; moraine gravel" < \*malh6-, for which also cf. the derived Nw. dial. mjele [m.] "fine sand" < \*melhan-. The Elfdalian form developed from a Verner variant \*melga-, ON \*mjalgr. \ -->
+REF: [EDPG]\: 363
+
+### <a id="melhman">\*melhman- [m.] "cloud" (n)</a>
+E: \
+-- Go. _milhma_ \
+PIE: \*melḱ-mon- \
+<!-- COGN: Lith. milsti, milsti-s "to become overcast" < \*mlḱ-ske-, Ru. dial. molost' "bad weather" < \*molk-ti- \ -->
+<!-- An mn-stem created to a lost verbal root \*melh-, continuing a Germanic-Balto-Slavic isogloss \*melI- (Fraenkel 1965: 453). The zero grade of the same root is found in OSw. moln, molen, Elfd. muoln [n.] "cloud" < \*mulhna-, whence OSw. molna [wk.] "to become overcast". Possibly, both formations split off from an ablauting paradigm, nom. \*melhm6, gen. \*mulhnaz < \*melk-m6n, \*mlk-n-6s (with dissimilation of the m in the latter form). The genitive must then have become barytone at an early stage, as oxytone \*mlk-n6- would have developed into Pre-Gm. \*mulkka- > PGmc. \*mulka- under Kluge's law. \ -->
+REF: [EDPG]\: 363
+
+### <a id="meliþ">\*meliþ- [n.] "honey" (n)</a>
+E: \
+-- Go. _miliþ_ \
+PIE: \*meli-t- \
+<!-- COGN: Hitt. milit "honey", Gr. µE:A.t, -rro; [n.] "id.", Arm. melr "id.", Alb. mjalte "id.", Lat. mel [n.] "id.", OIr. mil < \*meli-t-, Gr LTTW "to cut out a honeycomb" < \*mlit-ie-, Alb. embel I ambel "sweet, mild" < \*rpl-o(?) \ -->
+<!-- One of the PIE words for "honey", cf. \*medu- and \*hunanga-. The original paradigm had ablaut, nom. \*melit, gen. \*mlit-6s. If the derivation of Alb. embel / ambel from \*rpl-o- is correct, it would prove that \*mel-it has an it-suffix. Within Germanic, further cf. OE mildeaw, E mildew, OS milidou, Du. meeldauw, OHG militou, G Mehltau "honey-dew" < \*mili-daww6- and OE milisc "sweet" < \*miliska-. \ -->
+REF: [EDPG]\: 363
+
+### <a id="meltan">\*meltan- [st.] "to dissolve, be digested" (v)</a>
+N: \
+-- Icel. _moltinn_ "soft, half-dissolved" \
+-- Far. _moltin_ "not quite fresh, slightly decomposed" \
+W: \
+-- OE _meltan_ "to melt, dissolve", E _to melt_ \
+-- MDu. _melten_ "to malt" \
+PIE: \*meld-e \
+<!-- COGN: Skt. mardati "to crush" < \*meld-e- \ -->
+<!-- See also \*malta-, \*maltjan- (for the semantic gap between "to crush" and "to be soft") and \*mult6jan-. Unrelated to \*smeltan- "to melt, smelt". \ -->
+REF: [EDPG]\: 363
+
+### <a id="meltja">\*meltja- [n.] "milt, spleen" (n)</a>
+N: \
+-- ON _milti_ \
+-- Far. _milt(i)_ \
+-- Nw. _milte_ \
+-- OSw. _milter_ [m.] \
+W: \
+-- OE _milte_ [f.], E _milt_ \
+-- OFri. _milte_ [f.] \
+-- MLG _milte_ [f.] \
+-- MDu. _milt(e)_, _melte_ [f.], Du. _milt_ [c.] \
+-- OHG _milzi_, MHG _milze_, G _Milz_ [f.] \
+<!-- The word is likely to be related to \*meluk- "milk" (q.v.), cf. Far. mjcilki [m.] "milt, soft roe, fish semen" < \*melkan-, and has accordingly been reconstructed as \*melhtja- (quasi PIE \*h₂melg-t-io-), which may be a collective formation to ON mjplt [f.] "milking" < \*melhtu-. Apparently, the milt, i.e. the testes of male fish, was named after the milky substance that it produces, and later came into use for the spleen and other soft parts of the body, cf. Nw. dial. hand-milte [n.] "inside of the lower arm" and Nw. dial. molke [m.] "muscle" < \*mulht-kan-. Also cf. ON mjalti, Nw. mjelte [m.] "milt" < \*melhtanand Elfd. mjiilta [n.] "id." < \*melhton-. \ -->
+REF: [EDPG]\: 364
+
+### <a id="meluk">\*meluk- [f.] "milk" (n)</a>
+E: \
+-- Go. _miluks_ \
+N: \
+-- ON _mjǫlk_, gen. _mjǫlkr_ \
+-- Icel. _mjólk_ \
+-- Far. _mjólk_ \
+-- Elfd. _mjok_ \
+W: \
+-- OE _meoloc_, _meolc_, E _milk_ \
+-- OFri. _melok_ \
+-- OS _miluk_ \
+-- MDu. _melc_, _mellic_, _meelc_, Du. _melk_ [m.] \
+-- OHG _miluh_, G _Milch_ \
+PIE: \*h₂melǵ- \
+<!-- An archaic root noun derived from the strong verb \*mel(u)kan- (q.v.). Note that the Old Norse form was mjplk rather than the often cited mjolk: -jp- is the regular outcome of u-breaking of e. The confusion between o and p results from the later merger of these two vowels when they were lengthened before -l- + velar or labial, cf. Icel. t6lg [f.] "tallow" < \*tǫlg < ON \*tplg < \*talgo-. As for the origin of the form \*meluk-, the u of the second syllable is unexpected and has not yet received a satisfactory explanation. Szemerenyi 1992 : 1125 proposed contamination of the full- and zero-grade in an ablauting paradigm \*melk-z, gen. \*mulk-iz, but this leaves the _Schwebeablaut_ unexplained. It is not likely either that the u represents a schwa that arose between the I and the k in the nom. \*melk-z (Bammesberger 1990: 196- 7), as this solution fails to explain why the same did not happen in e.g. \*alh- "temple" (on the latter, see Kiimmel 2004). Perhaps the -u- rather came about in the aforementioned strong verb \*mel(u)kan-. \ -->
+REF: [EDPG]\: 364
+
+### <a id="meluka">\*meluka- "giving milk" (adj)</a>
+N: \
+-- ON _mjǫlkr_ \
+W: \
+-- OE _meolc_ \
+-- OHG _melch_ \
+<!-- An adjective derived from \*meku)kan- (q.v.). \ -->
+REF: [EDPG]\: 364
+
+### <a id="melukan">\*mel(u)kan- [st.] "to milk" (v)</a>
+W: \
+-- OE _melcan_ \
+-- OFri. _melka_ \
+-- Du. _melken_ \
+-- OHG _melkan_, G _melken_ \
+PIE: \*h₂melg- \
+<!-- COGN: Gr. aµEl1.yw "to milk", Alb. mjel "id.", Lat. mulgeo "id.", Dir. mligid "id.", RuCS mJesti (mlbzu) "to bring down, dislodge", SCr. musti "id.", Lith. melzti (melziu) "id." < \*h₂melg-j\*h₂mlg- \ -->
+<!-- A strong verb related to \*meluka-, \*mulkna-, \*mulki- and \*mulkon- (q.v.). MHG has both melken and melchen, the latter pointing to \*melVkan-. This may be \*melukan-, a form influenced by \*meluk-. Since, however, the u of the noun has no clear explanation, it is more likely that it arose in the verb itself. The PIE paradigm was athematic, 3sg. \*h₂melg-ti, 3pl. \*h₂mlg-enti, which would give PGmc. \*melhti, \*mulkinpi. Perhaps this irregular paradigm gave rise to a contaminated root \*melulk- that later was dissimilated to \*meluk-. Another possibility is to assume a similar dissimilation in an originally reduplicated present \*mel-mulkan- < \*h₂mel-h₂mlg-e-. \ -->
+REF: [EDPG]\: 364
+
+### <a id="melwa">\*melwa- [n.] "meal, flour" (n)</a>
+N: \
+-- ON _mjǫl_ \
+-- Far. _mjøl_ \
+-- Elfd. _myöl_ \
+W: \
+-- OE _melo_, _melu_, E _meal_ \
+-- OFri. _mele_ \
+-- OS _melo_ \
+-- Du. _meel_ \
+-- OHG _melo_, G _Mehl_ \
+PIE: \*melh₁-uo- \
+<!-- A wa-stem derived from the strong verb \*malan- (q.v.). For the suffix, cf. \*smerwa-. \ -->
+REF: [EDPG]\: 365
+
+### <a id="mēnan">\*mēnan- [m.] "moon" (n)</a>
+E: \
+-- Go. _mena_ \
+N: \
+-- ON _máni_ \
+-- Far. _máni_ "moon; month" \
+W: \
+-- OE _mōna_, E _moon_ \
+-- OFri. _mōna_ "moon; month" \
+-- OS _māno_ \
+-- Du. _maan_ [c.] \
+-- OHG _māno_, G _Mond_ \
+PIE: \*meh₁n-os- \
+<!-- COGN: ToA mafi, ToB mefie [m.] "moon, month" < \*meh₁n(-en)-, Skt. mas- [m.] "moon, month", OAv. mJ "moon", YAv. ma, gen. mJTJh6 "id." (also thematicized m&T)ha- [m.] "moon, month"), Gr. µT)v [m.] "month, moon-cycle", Lat. mensis [m.] "month", OIr. mf [m./f.] "id.", MW mis [m.] "id." < \*meh₁n-s-, Lith. mJnuo, gen. mJnesio [m.] "moon, month", Latv. meness [m.] "moon" < \*meh₁n-os-, OPru. menig "id.", OCS mes�cb "moon, month", Ru. mesjac "month", SCr. mjesec "month, moon" < \*meh₁ns-nk-o-, Alb. muaj / muej [m.] "month" < \*meh₁n-, Arm. amis "id." (with analogical a- after am "year", awr "day", arew "sun" and astf "star", Winter 1965: 101) \ -->
+<!-- Most IE languages point to a stem \*meh₁n-s-, but Lith. mJnuo, obl. menesand perhaps also PGmc. \*menan- point to an amphikinetic s-stem \*meh₁n-os, \*meh₁n-s-6s. The Germanic n-stem is considered to have arisen secondarily on the basis of the nom. \*meno, which may regularly continue \*meh₁n-os or \*meh₁n-ot. The latter possibility is usually preferred in view of PGmc. \*menop- "month" (q.v.), which may have split off from an original paradigm \*meh₁n-ot, \*meh₁n-t-6s. The t-suffix is only found in Germanic, however. Note that the dental of G Mond "moon" is late, i.e. secondary. \ -->
+REF: [EDPG]\: 365
+
+### <a id="mēnōþ">\*mēnōþ- [m.] "month" (n)</a>
+E: \
+-- Go. _menoþs_ \
+N: \
+-- ON _mánaðr_ \
+-- Icel. _mánaður_ \
+-- Far. _mánaður_ \
+W: \
+-- OE _mōnað_, E _month_ \
+-- OFri. _mōnath_ \
+-- Du. _maand_ [c.] \
+-- OHG _mānōd_, G _Monat_ \
+PIE: \*meh₁n-ot- \
+<!-- A uniquely Germanic t-stem corresponding to the PIE s-stem \*meh₁n-os "moon; month" , for which see \*menan-. \ -->
+REF: [EDPG]\: 365
+
+### <a id="mēri">\*mēri- "famous" (adj)</a>
+E: \
+-- Go. _waila-mers_ "with a good reputation" \
+N: \
+-- ON _mærr_ "famous, excellent; bright, shining" \
+W: \
+-- OE _mǣre_ "excellent" \
+-- OS _māri_ "bright, known, famous, excellent" \
+-- OHG _māri_ "id.", MHG _mære_ "shining; famous" \
+PIE: \*mēr-i- \
+<!-- A _vr̥ddhi_-gerundive to a further unattested strong verb \*meran-, cf. Icel. merla [wk.] "to shine" < \*marilon- (the frequently adduced OE (a)-merian [wk.] "to purify" is derived from mere "pure", which itself is a loanword from Lat. merus "id."). The meaning of the word seems to have shifted from "shining" to "brilliant" and "illustrious", which allows for the connection with Gr. µapµatpw "to flash, sparkle" < \*mr-mr-ie- and the aforementioned Lat. merus. No further etymology. The adjective occurs as a second member of composite proper nouns, and has therefore been compared to the similar onomastic elements in Celtic and Slavic, cf. Gaul -marus and OCS -mero. PCelt. \*-maro- is formally dissimilar, however, and Slav. -mero may have been borrowed from Germanic. \ -->
+REF: [EDPG]\: 366
+
+### <a id="mērjan">\*mērjan- [wk.] "to make illustrious" (v)</a>
+E: \
+-- Go. _merjan_ "to announce" \
+N: \
+-- ON _mæra_ "to praise" \
+W: \
+-- OE _mǣran_ "to make known, celebrate, declare" \
+-- OHG _mārren_ "to make known", MHG _mæren_ "id." \
+<!-- The factitive to \*meri- (q.v.). It in turn gave rise to the pan-Gm. formation Go. meripa [f.] "rumor", ON mcero [f.] "fame, glory", OE m:i!rpu [f.] "id.", OS maritha [f.] "id.", OHG marida [f.] "id." < \*meripo-. \ -->
+REF: [EDPG]\: 366
+
+### <a id="merkwu">\*merkwu- "dark" (adj)</a>
+N: \
+-- ON _myrkr_ \
+-- Far. _myrkur_ \
+-- Elfd. _mörk_ \
+W: \
+-- OE _mierce_ \
+-- OS _mirki_ \
+PIE: \*mergʷ-u- \
+<!-- COGN: Hitt. Markuyaja- pl. "deities in the depth of the earth", CLuv. maryai- "black, dark" < \*m(o)rgʷ-oi-, Lith. mirgJti (mirgu), Latv. mifdzet "to twinkle" < \*mrgʷ-eh₂, Ru. morg6.t' "to blink, wink", Cz. dial. mrgat "to move, wave, watch gloomily" < \*mrgʷ-eh₂-, Alb. mjergulle [f.] "nebula" < \*mergʷ-l-eh₂ \ -->
+<!-- A u-stem (remodeled into a WGm. ja-stem) derived from the PIE root \*mergʷ-. Compare the formally and semantically similar \*dinkwa-. \ -->
+REF: [EDPG]\: 366
+
+### <a id="mēslō">\*mēslō- [f.] "growth" (n)</a>
+W: \
+-- OE _masele_ "rash", E _measles_ \
+-- MLG _masele_, _massele_ "rash, blister" \
+-- MDu. _masel_ "stain", EDu. _maselen_, _maseren_ pl. "measles", Du. _mazelen_ pl. "id." \
+-- OHG _masala_ "inflammation", MHG _masel(e)_ "swelling, growth", G _Masern_ \
+<!-- A diminitive of \*meson- (q.v.). The appurtenance of OHG masala [f.] "linen-weaver's starch" is uncertain: it may have been borrowed from Slavic \*masla "butter" in the sense of "paste". \ -->
+REF: [EDPG]\: 366
+
+### <a id="mēsōn">\*mēsōn- [f.] "spot, scar" (n)</a>
+W: \
+-- MLG _māse_ "stain, scar" \
+-- MDu. _mase_ "mud, dirt", EDu. _maese_ "stain" \
+-- OHG _māsa_ "id.", MHG _māse_ "spot; scar", G Swi. (App.) _mɔsə_ [m.] "spot" (< \*mēsan-) \
+<!-- Probably related to \*masura- "burl; maple". See also \*mesl6-. \ -->
+REF: [EDPG]\: 366
+
+### <a id="metan">\*metan- [st.] "to measure, evaluate" (v)</a>
+E: \
+-- Go. _mitan_ "to measure" \
+N: \
+-- ON _meta_ "to evaluate" \
+-- Far. _meta_ [wk.] "to estimate; to appreciate" \
+W: \
+-- OE _metan_ "to measure" \
+-- OFri. _meta_ "id.", WFri. mjitte "id." \
+-- ODu. _metan_ "id.", Du. meten "id." \
+-- OHG _mezzan_ "to measure, estimate, compare", G _messen_ "id." \
+PIE: \*med-e- \
+<!-- COGN: Gr. µ�cSoµm "to deliberate, estimate, contrive, decide", Lat. medeor "to heal, cure" (< "to diagnose"?), OIr. midithir, MW meddu "to possess, rule" < \*med-e-, Arm. mit-k' "mind, intelligence" < \*med- \ -->
+<!-- An inherited verb that shows both the meanings "to measure" and "to estimate" across the IE different languages. In view of the deponents Gr. µ�cSoµm, Lat medeor and OIr. midithir, it is likely that the latter meaning arose in reflexive use, viz. "to measure for oneself". On a deeper, Pre-IE level, the root \*med- probably gave rise to the synonymous \*meh₂, for which cf. \*menan-, \*mela- 3 and \*mepi-. See further \*metojan-. \ -->
+REF: [EDPG]\: 367
+
+### <a id="mēti">\*mēti- "estimable" (adj)</a>
+N: \
+-- ON _mætr_ "valuable, excellent" \
+W: \
+-- OE _ge-mǣte_ "moderate; low" \
+-- MDu. _ge-māte_ "moderate; mediocre" \
+-- OHG _māzi_ "moderate", MHG _ge-mæze_ "id." \
+<!-- A _vr̥ddhi_-gerundive to the strong verb \*metan- (q.v.). The original meaning was "estimable", which can easily be retrieved from the semantics of the given forms. \ -->
+REF: [EDPG]\: 367
+
+### <a id="metōjan">\*metōjan- [wk.] "to evaluate" (v)</a>
+E: \
+-- Go. _miton_ "to evaluate, think over, argue" \
+W: \
+-- OE _metian_ "to assign due measure; to moderate" \
+-- OHG _mezzōn_ "to moderate" \
+<!-- A verb derived from a noun \*meta- "evaluation", for which see \*metan-. Also cf. the derived tu-stem ON mjǫtuor [m.] "fate", OE meted [m.] "id.", OS metod [m.] "god" < \*metodu-. \ -->
+REF: [EDPG]\: 367
+
+### <a id="mēþa">\*mēþa- [n.] "mowing, mown grass" (n)</a>
+W: \
+-- OE _mǣð_ \
+-- OFri. _-mē̆th_ \
+-- OHG _ā-mād_ "aftermath", G _Mahd_ [f.] "mown grass" \
+PIE: \*h₂meh₁-to- \
+<!-- A to-stem created to the strong verb \*mean- (q.v.). Also cf. OE mii!d, E meadow, OFri. mede, ODu. miida [f.] "pasture, meadow" < \*medwo- < \*h₂meh₂tueh₂- and MHG mate, matte, G Matte [f.] "id." < \*madwo- < \*h₂mti1-tueh₂-. In all likelihood, both of the latter two formations split off from an ablauting paradigm, nom. \*h₂meh₁-tuh₂, gen. \*h₂mti1-tueh₂-s. \ -->
+REF: [EDPG]\: 367
+
+### <a id="mēþi">\*mēþi- [f.] "measure" (n)</a>
+W: \
+-- OE _mǣð_ \
+PIE: \*meh₁-ti- \
+<!-- COGN: Skt mimlte "to measure", OAv. fra-mlmai'ḱi 2pl.pres.subj. "to arrange, ordain" < \*-mi-mh₁-, Skt a-sa-miiti- "unparallelled" < \*meh₂ti-, Alb. mot [m.] "period of time, year, weather" < \*meh₁-ti-, Gr. µfrpov [n.] "measure, goal; metre" < \*mh₂tro- \ -->
+<!-- A ti-stem created to the root \*meh₂, for which cf. \*mela 3-. \ -->
+REF: [EDPG]\: 367
+
+### <a id="meuka">\*meuka- ~ \*mūka- "weak" (adj)</a>
+E: \
+-- Go. _muka-modei_ [f.] "meekness" \
+N: \
+-- ON _mjúkr_ "weak, soft" \
+-- Far. _mjúkur_ "soft; supple" \
+W: \
+-- MDu. _muyck_ "soft, mellow" \
+-- G Swi. _mūch_ "timid" \
+<!-- COGN: OIr. mocht "soft, tender", W mwyth "soft, sleek; tender" < \*(H)muCk'l-to- \ -->
+<!-- The vacillation between \*meuka- and \*muka- points to derivation from a strong verb of the second class, where such alternations are typical. This verb is substantiated by the causative OSw. mðkia, Nw. m!i1ykja [wk.] "to make soft" < \*maukjan-, whence Du. maker, LG maker "sledge-hammer" < \*maukarja- (cf. Fi. maukari) and probably also EDu. maacke, maack-sack "animal stomach". The root \*meuk- ~ \*miik- may be secondary for \*meuh- in view of ON m6a [wk.] "to digest", Far. m6gva-st [wk.] "to become weak, diminish", Nw. dial. maa [wk.] "to soften by kneading or pounding; to chew" < \*muh₁in-. The root-final \*k must then represent a shortened geminate that may have spread from a lost iterative \*muk(k)iin- < \*(H)muCl(J-neh₂-. \ -->
+REF: [EDPG]\: 368
+
+### <a id="meurja">\*meurja- [n.] "chickweed" (n)</a>
+W: \
+-- WFri. _mier(e)_ [c.], WPhal. _mîr_ [m.], _mîre_ [f.] \
+-- MDu. _miere_, _mure_ [f.], EDu. _muer(-kruyd)_, Du. _muur_ [c./n.] \
+-- G _Stern-miere_ [f.] \
+<!-- A Germanic word. On the basis of OFr. marun, Fr. mauran "chickweed", it is possible to reconstruct a form ODu. \*mur, but the root vocalism does not match the expected outcome of PGmc. \*eu, i.e. ODu. -ie- or -iu-. No further etymology. For another word for "chickweed", see \*arfan-(?). \ -->
+REF: [EDPG]\: 368
+
+### <a id="meurjōn">\*meurjōn- [f.] "ant" (n)</a>
+E: \
+-- Go. Crim. _meura_ \
+N: \
+-- OSw. _mȳra_ \
+-- Sw. _myra_ [c.] \
+-- Da. _myre_ [c.] \
+W: \
+-- ME _mīre_, E _pis-mire_ \
+-- MDu. _miere_, Du. _mier_ [c.] \
+PIE: \*meur-ieh₂- \
+<!-- An NWGm. formation in ablaut relation to the more restricted, though derivationally more primitive \*maura- "ant" (q.v.). The e-grade is also found in Lith. merva [f.] "gadfly" < \*meru-eh₂-. \ -->
+REF: [EDPG]\: 368
+
+### <a id="meusa">\*meusa- [n.] "moss" (n)</a>
+W: \
+-- OE _mēos_ [m./n.] \
+-- MDu. _mies_ [n.(?)] \
+-- OHG _mios_ [m./n.], G obs. _Mies_ [m./n.] \
+PIE: \*meusa- \
+<!-- A full-grade formation closely related to \*musa(n)- (q.v.) with the same meaning. The full grade is also found in ON myrr [f.] "swamp" < \*meuzf- < \*meus-ih₂-. \ -->
+REF: [EDPG]\: 368
+
+### <a id="mīgan">\*mīgan- [st.] "to pass water (usually of animals)" (v)</a>
+N: \
+-- ON _míga_ \
+-- Far. _míga_ \
+-- Elfd. _maiga_ \
+W: \
+-- OE _mīgan_ \
+-- MDu. _migen_, Du. dial. _miegen_ \
+PIE: \*h₃meiǵʰ-e- \
+<!-- COGN: Skt. mehati "to urinate", YAv. maezar:iti 3pl.pres. "id.", Gr. oµdxw "id." < \*h₃meigʰ-e-, Arm. mizem "id.", Lat meiii, -ere "id.", SCr. miiati "id." < \*h₃meigʰ-ie-, ToB mi5o [m.] "urine" < \*h₃m(e)igʰ-ieh₂- \ -->
+<!-- An inherited strong verb. See also \*miggiin- and \*mihstu-. \ -->
+REF: [EDPG]\: 368
+
+### <a id="miggōn">\*miggōn- [wk.] "to drizzle" (v)</a>
+W: \
+-- Du. _miggelen_ \
+PIE: \*h₃miǵʰ-neh₂- \
+<!-- COGN: Lat mingo, -ere "to urinate" < \*h₃migʰ-neh₂- \ -->
+<!-- An iterative to the strong verb \*mfgan- (q.v.). The attestation is late, but in view of Lat mingo, which likewise can have developed from \*migʰ-neh₂- (under Thurneysen's law), it is possible to reconstruct an n-present 3sg. \*h₃migʰ-neh₁-ti, 3pl. \*h₃migʰ-nh₂-enti. \ -->
+REF: [EDPG]\: 369
+
+### <a id="mihstu">\*mihstu- [m.] "dung, manure" (n)</a>
+E: \
+-- Go. _maihstus_ \
+W: \
+-- MDu. _mest_ [m./n.], Du. _mest_ [c.] \
+-- OHG _mist_, G _Mist_ \
+<!-- A tu-stem apparently created to the more primary OE m eox [n.], WFri. mjuks [c.], EFri. mjuks [m.], OS m esk [n.], MDu. mes [m./n.] "dung" < \*mihsa- < \*h₃migʰ-so-. See \*migan-. \ -->
+REF: [EDPG]\: 369
+
+### <a id="mimza">\*mimza- [n.] "meat" (n)</a>
+E: \
+-- Go. _mimz_, _mims_ "meat" \
+PIE: \*mēms-ó- \
+<!-- COGN: ToB misa [f.pl.] "meat, flesh", Skt miiT!lsci- [n.] "meat", YAv. m&T)ham "meat, board", Arm. mis "flesh, meat", Lat mensa [f.] "table", Alb. mish [m./n.] "meat", OCS m�so, Ru. mjaso, SCr. meso, Lith. mesa [f.] "flesh, meat", OPru. mensii "meat", Lith. mesa [f.] "flesh, meat", Latv. miesa [f.] "id." \ -->
+<!-- An old PIE word for "(sacrificial?) meat". Related to Go. mammo [f.] "flesh" < \*mammon-, which continues either 1. \*mamzon- with assimilation of -mz- to \*-mm-, or 2. \*ma(m)z-mon- with the well-attested change of -zm- to \*-mm-. For a similar issue, cf. \*kramma- "moist" < \*gʷroms-(m)6-. \ -->
+REF: [EDPG]\: 369
+
+### <a id="mīna">\*mīna- "my" (pron)</a>
+E: \
+-- Go. _meins_ \
+N: \
+-- ON _minn_ \
+-- Far. _mín_ \
+-- Elfd. _maį_ \
+W: \
+-- OE _mīn_, E _my_ \
+-- OFri. _mīn_ \
+-- OS _mīn_ \
+-- Du. _mijn_ \
+-- OHG _mīn_, G _mein_ \
+PIE: \*h₁meino- \
+<!-- The possessive pronoun pertaining to \*eka "I" (q.v.). See also \*pina- and \*sina-. \ -->
+REF: [EDPG]\: 369
+
+### <a id="minna">\*minna- "small" (adj)</a>
+W: \
+-- OE _minn_ "small" \
+-- Du. _min_ "small, slight" \
+PIE: \*mi-nu-o- \
+<!-- COGN: Skt. mindti "to damage, diminish, violate" < \*mi-n-eh₂-, Gr. µl\IU-l:lw "to lessen, fade away", Lat minuo, -ere "to diminish" < \*mi-nu- \ -->
+<!-- An adjective derived from a nu-present created to the root \*meiH-, cf. Skt mfyate "to disappear" < \*miH-ie-. \ -->
+REF: [EDPG]\: 369
+
+### <a id="minniz">\*minniz "less" (comp)</a>
+E: \
+-- Go. _mins_ \
+N: \
+-- ON _minnr_, _miðr_ \
+-- Far. _miður_ "worse" (adv) \
+W: \
+-- OFri. _minn_ "id." \
+-- OS _min_ \
+-- OHG _min_ \
+PIE: \*mi-nu-is \
+<!-- COGN: Skt minati "to damage, diminish" < \*mi-n-eH-, Gr. µdwv comp. "smaller" < \*meiH-ion-, OCS mbnii comp. "smaller, lesser, younger" < \*minH-ion- \ -->
+<!-- The adverbial comparative pertaining to \*litila- ~ \*luttila-. Related to \*minna- (q.v.) and - on a deeper level - to \*maiwa- 1. \ -->
+REF: [EDPG]\: 369
+
+### <a id="minþla">\*minþla- [m.] "bit of a bridle" (n)</a>
+N: \
+-- ON _mél_, _míl_ [n.pl.] \
+-- Icel. _mél_ [n.] \
+-- Far. _meil_ [f.] (with unexplained _ei_ instead of _æ_) \
+-- Nw. _mel_ [n.] \
+-- OSw. _mīl_ [f.] \
+W: \
+-- OE _mīðl_, _mīdl_ [n.], ME _mīld_ \
+-- OHG _mindil_ [n.] \
+PIE: \*ment-tlo- \
+<!-- A formation created to the root \*ment- "to chew" (cf. \*munpa- "mouth"), with the instrumental tlo-suffix. ON mel, mfl arose from an intermediate form \*minnla- with regular loss of the n before l. \ -->
+REF: [EDPG]\: 370
+
+### <a id="miskan">\*miskan- [st.] "to mix" (v)</a>
+W: \
+-- OE _miscian_ [wk.], E _to mix_ \
+-- MDu. _mischen_ [wk.] \
+-- OHG _miscan_, _miscen_ [wk.], G _mischen_ [wk.] \
+PIE: \*miǵ-ske- \
+<!-- COGN: Gr. µtoyw "to mix, bring together", Lat. misceo "to mix, blend" < \*mig-ske-, Skt. mek$ciyati "to mingle, stir", OCS mesiti "to mix", Ru. mesft' (mesu) "to knead", SCr. mijesiti "id.", Lith. maisyti "to mix", Latv. maisft "id." < \*moig-sk-eie-, OIr. mesc "confused" < \*mig-sko- (whence OIr. mescaid "to mix" < \*mig-sk-eh₂-ie-) \ -->
+<!-- The continuant of an IE inchoative verb in \*-ske-. The verb may originally have been strong, cf. \*waskan- "to wash" < \*uod-ske-. \ -->
+REF: [EDPG]\: 370
+
+### <a id="mītōn">\*mītōn- [f.] "mite" (n)</a>
+N: \
+-- Nw. _mit_ [m.] \
+W: \
+-- OE _mīte_, E _mite_ \
+-- MDu. _mite_, Du. _mijt_ [c.] \
+-- OHG _mīza_ "mosquito" \
+<!-- A formation that in view of Nw. meta "to gnaw" and mita "to prick" (see \*mitton-) is likely to have been derived from the verbal cluster of \*maitan"to cut" (q.v.). The comparison with Gr. µtom; [m.] "destructive insect in beans", for which see \*amaitjo-, is less attractive. \ -->
+REF: [EDPG]\: 370
+
+### <a id="mittōn">\*mittōn- [wk.] "to cut" (v)</a>
+N: \
+-- Nw. _mita_ "to perforate, prick, sting" \
+W: \
+-- MHG _metzen_ "to cut", G Pal. _metzen_ "to slaughter, butcher" \
+<!-- The iterative to \*maitan- (q.v.). \ -->
+REF: [EDPG]\: 370
+
+### <a id="mizdōn">\*mizdō(n)- [f.] "reward" (n)</a>
+E: \
+-- Go. _mizdo_ \
+W: \
+-- OE _mēd_, _meord_, E _meed_ \
+-- OFri. _mēde_ \
+-- OS _mēda_ \
+-- MDu. _miede_ \
+-- OHG _miata_, G _Miete_ "rent" \
+PIE: \*misdʰ-eh₂- \
+<!-- COGN: Skt. mlc;lhci- [n.] "battle, booty, prize, profit", Av. mlida- [n.] "reward, prize", NP muzd "reward, payment", Oss. myzd / mizd "reward", Gr. µLa-86; [m.] "hire, pay, wages, reward, daily wages", OCS mbzda [f.] "payment, salary, fee, gift", Ru. obs. mzda [f.] "recompense, payment", SCr. mazda [f.] "recompense, payment, pay, revenge, punishment" < PIE \*misdʰ-o/eh₂- \ -->
+<!-- An IE compound of the root \*mi(s)- "to exchange (gifts)" and \*dʰh₁- "to put". The PGmc. form \*mizdo- developed into WGm. \*miado- (\*me2d6-) due to (sporadic) loss of z before dentals, which is the source of the r-less forms OS meda, mieda, OFri. mede, mlde, OHG miata. The dialectal distribution of z-loss is rather patchy, however, cf. OS llnon "to learn" vs. OHG lernon < \*liznon-, and Old English preserved a (dialectally dependent?) doublet med : meord. \ -->
+REF: [EDPG]\: 370
+
+### <a id="mōder">\*mōder- [f.] "mother" (n)</a>
+N: \
+-- ON _móðir_ \
+-- Far. _móðir_ \
+W: \
+-- OE _mōdor_, E _mother_ \
+-- OFri. _mōder_ \
+-- OS _mōdar_ \
+-- Du. _moeder_ [c.] \
+-- OHG _muoter_, G _Mutter_ \
+PIE: \*meh₂-tér- \
+<!-- COGN: Skt miitar- [f.] "mother", Av. miitar- [f.] "id.", P miidar "id.", Arm. mayr "id.", Gr. µðTilP [f.] "id.", Alb. mater "sister", Lith. mote [f.] "mother", OCS mati [f.] "id.", ToA miicar, ToB macer "id.", Lat mater [f.] "id.", OIr. maithir [f.] "id." < \*meh₂-ter- \ -->
+<!-- The IE word for "mother". The accent seems to have shifted to the suffix in Proto-Germanic already, as the dialects uniformly attest to a form \*moderrather than \*moper-. This accent shift, which is paralleled by Skt miitar-, is almost certainly analogical to \*fader- "father" < \*ph₂-ter-. See also \*mopra-. \ -->
+REF: [EDPG]\: 371
+
+### <a id="mōhan">\*mōhan- ~ magan- [m.] "poppy" (n)</a>
+N: \
+-- Nw. _vall-mo(g)_ ("lily of the valley") \
+-- OSw. _val-moge_ "id." \
+-- Sw. _vall-mo_ "id." \
+-- ODa. _val-mughe_ "id.", Da. _valmue_ [c.] "id." \
+W: \
+-- E _maw-seed_ "poppy seed" \
+-- OS _magon-hōƀud_ "poppy head" \
+-- Du. _maan-zaad_ "poppy seed" \
+-- OHG _maho_, _mago_, MHG _mage_, _mahen_, _mān_, G _Mohn_, Swab. _mage_, Cimb. _mago_ \
+PIE: \*meh₂k-on \
+<!-- COGN: Gr. µi)Kwv [m.] "poppy" < \*meh₂k-on-, OCS make, Ru. mak, gen. maka, SCr. mdk [m.] "id." < \*meh₂k-o-, OPru. moke "id.", Alb. mokth "pheasant's eye" (with -th < \*-Jo-) < \*meh₂k- \ -->
+<!-- An ablauting n-stem \*moho, dat. \*mageni from PIE \*meh₂k-on, loc. \*mP2k-en-i (Schaffner 2001: 561-2; Kroonen 201 la: 311-4); Nordic generalized the full-grade root from the nominative and the \*g from the originally suffix-stressed dative; only Nw. Tel. kvit-mor "melancholy thistle" < ON \*-m6r may have preserved the original nominative root \*moh-. In West Germanic, the zero-grade vocalism was leveled, but there must have been a paradigmatic interchange between \*mahan- a.nd \*magan- up to a fairly recent stage, cf. OHG maho vs. mago. There is no evidence for a root \*meh- or \*meg- (_pace_ Pokorny IEW: 698; Kluge/Mitzka 1963: 484). These reconstructions are based on the erroneous interpretation of G Mohn as continuing PGmc. \*mehna- (with rounding of MHG ii before n) rather than the thematicized MHG mahen, miin < \*mahna-. \ -->
+REF: [EDPG]\: 371
+
+### <a id="mōjan">\*mōjan- [wk.] "to tire" (v)</a>
+E: \
+-- Go. _mojan\*_ \
+W: \
+-- MDu. _moyen_ "to bother, annoy" \
+-- OHG _muojan_, _muon_ "to encumber, anger", MHG _müejen_, _müen_ "to encumber, to anger, to annoy", G _sich mühen_ "to struggle, strive" \
+PIE: \*meh₃-ie- \
+<!-- COGN: ToA miiskii- "to be difficult" < \*mp3-ske- (Peyrot 2011), Ru. majat' "to detain, tire, exhaust" < \*meh₃- (in Slavic, the verb merged with ORu. majati "to beckon", SCr. mdjati "id.", Lith. m6ti "id.", Latv. miit "id." < \*meh₂-, for which see \*mundo-), Gr. µwuigm "to strive" < \*me/oh₃-, Gr. µwA.oc; "effort", Lat moles "burden" \ -->
+<!-- A ie-present Note that the Gothic verb is only attested as the participle afmauidai [n.pl.] "E:KA.u6µevot". See also \*mopu-. \ -->
+REF: [EDPG]\: 371
+
+### <a id="mōnjan">\*mōnjan- [wk.] "to tower" (v)</a>
+N: \
+-- ON _mœna_ \
+PIE: \*mon-ie- \
+<!-- COGN: Av. maiti-, Lat. mans, -tis [m.] "mountain" < \*m(o)n-ti-, OW minid, MW mynyd "mountain" < \*mon-io-, Lat. eminere "to stand out" < \*h₁egʰs-mn-eh₁-ie- (with i from unstressed a (schwa secundum)?) \ -->
+<!-- A lengthened-grade causative to the root \*men- "to jut out", which is also found in e.g. \*mano- "mane, neck" (q.v.). Further cf. ON mamir [m.] "ridge of a roof" < \*monja- and Far. mgna [f.] "ridge of a roof; spinal marrow", whence mgna [wk.] "to make the ridge of a hayrick". \ -->
+REF: [EDPG]\: 372
+
+### <a id="mōra">\*mōra- [m./n.] "marsh, moor" (n)</a>
+W: \
+-- OE _mōr_ [n.], E _moor_ \
+-- MDu. _moer_ [m./n.] "bog, peat, mud" \
+-- OHG _muor_ [m./n.] "id.", G _Moor_ [n.] "id." \
+<!-- An internally-Germanic derivation from \*mari- "sea" (q.v.). \ -->
+REF: [EDPG]\: 372
+
+### <a id="mōsa">\*mōsa- [n.] "food" (n)</a>
+W: \
+-- OE _mōs_ \
+-- OFri. _mōs_ \
+-- MDu. _moes_ \
+-- OHG _muos_ \
+<!-- A to-formation closely related to \*mati- "food" (q.v.). Also cf. G Ge-muse [n.] "vegetables", Du. moes-tuin "vegetable garden" < \*(ga)-mosja-. \ -->
+REF: [EDPG]\: 372
+
+### <a id="mōtan">\*mōtan- [pp.] "to approach, concede to(?)" (v)</a>
+E: \
+-- Go. _ga-motan_ "to find opportunity, be permitted" \
+W: \
+-- OFri. _mōta_ "to be allowed, to be able, to have to" \
+-- OS _mōtan_, 3sg. _mōt_ "to be allowed, be permitted, have opportunity to" \
+-- Du. _moeten_, 3sg. _moet_ "to be obliged to" \
+-- OHG _muozan_, 3sg. _muot_ "to find room for, may, be able", G _müssen_, 3sg. _muß_ "to be obliged to" \
+<!-- COGN: Arm. matc'im "to approach, come close" < \*mod- \ -->
+<!-- A preterite-present probably based on the root \*mod- as attested in Armenian. See also \*mapla- and \*motjan-. \ -->
+REF: [EDPG]\: 372
+
+### <a id="mōtjan">\*mōtjan- [wk.] "to meet" (v)</a>
+E: \
+-- Go. _ga-motjan_ \
+N: \
+-- ON _mœta_ \
+-- Far. _møta_ \
+-- Elfd. _myöta_ \
+W: \
+-- OE _mētan_, E _to meet_ \
+-- OFri. _mēta_ \
+-- OS _mōtian_ \
+-- Du. _ont-moeten_ \
+<!-- Ajan-verb closely related to \*motan- (q.v.). \ -->
+REF: [EDPG]\: 372
+
+### <a id="mōþra">\*mōþra- [n.] "womb, belly, bodice" (n)</a>
+W: \
+-- OFri. _mōther_ "bodice(?)" \
+-- MLG _mōder_ [f.] "womb" \
+-- Du. _baar-moeder_ [c.] "placenta" \
+-- OHG _muodar_ "belly, waistcoat", MHG _muoder_, _müeder_ "body, bodice, girdle", G _Mieder_ "id." \
+PIE: \*meh₂-tro\
+<!-- COGN: Gr. µtj i:pa [f.] "womb" < \*meh₂-treh₂- \ -->
+<!-- An instrumental noun created to the same root as found in \*moder"mother" (q.v.). The modern German form Mieder arose from an umlauted plural form MHG miieder whose diphthong was unrounded dialectally. The non-neuter gender of M LG moder and Du. moeder is probably due to influ-- ence from \*moder- "mother", but in view of Gr. µði:pa it cannot entirely be excluded that PGmc. had a feminine variant \*mopro-. \ -->
+REF: [EDPG]\: 372
+
+### <a id="mōþu">\*mōþu- "tired, weary" (adj)</a>
+N: \
+-- ON _móðr_ \
+-- Far. _móður_ \
+W: \
+-- OE _mēðe_ \
+-- OS _mōthi_ \
+-- Du. _moe_ \
+-- OHG _muodi_, G _müde_ \
+PIE: \*méh₃-tu- \
+<!-- A tu-adjective to \*mojan-. Also cf. the derived factitive ON mreoa, OHG muoden, G er-miiden [wk.] "to tire" < \*mopjan-. \ -->
+REF: [EDPG]\: 373
+
+### <a id="mudena">\*mudena- "moldy" (adj)</a>
+N: \
+-- Far. _moðin_ "moldy, musty" \
+-- Nw. _moden_ "mature, ripe, gone bad" \
+-- OSw. _moghin_, _moin_ "mature; ripe" \
+-- Elfd. _muogen_ "id." \
+-- Da. _moden_ "id." \
+PIE: \*mudʰ-eno- \
+<!-- COGN: Latv. mudet "to molder, decay, go bad" < \*mudʰ-eh₁- \ -->
+<!-- A Nordic word, apparently continuing ON \*mooinn. I propose to connect the word to the aforementioned stative Latv. mudet. The received connection with ON m6a-sk "to be digested" and Nw. tyggja mo "to ruminate" (cf. Falk/Torp 1960: 727) is less attractive in view of the dentals of Far. mooin and Da. moden (the velars of OSw. moghin and Elfd. muogen are secondary). Note that the derivation of Sw. dial. mo sig "to mature" is uncertain, as it may have developed from both ON m6a and \*mooa. \ -->
+REF: [EDPG]\: 373
+
+### <a id="mugan">\*mugan- [pp.] "to be able" (v)</a>
+E: \
+-- Go. _magan_ \
+N: \
+-- ON _mega_ \
+-- Far. _mega_, _muga_ \
+W: \
+-- OE _magan_ "to be able, may", E _to may_ \
+-- OFri. _muga_, _moga_ "id." \
+-- OS _mugan_ "id." \
+-- Du. _mogen_ "id." \
+-- OHG _magan_, _mugan_ "id.", G _mögen_ "to like" \
+PIE: \*m(o)gʰ- \
+<!-- COGN: Skt. magha- [n.] "power, wealth, gift" < \*megʰ-o-, OCS mosti, Ru. moc' (mogu), SCr. moti "to be able, be allowed" < \*m6gʰ-e- \ -->
+<!-- A preterite-present 3sg. \*mage, 3pl. \*mugunp < quasi PIE \*m6gʰ-e, \*mgʰ-nt. The verb probably originally belonged to the PIE class of primary unreduplicated perfectives corresponding to the Hittite bi-verbs. The different Germanic dialects adopted either the a- or the u-vocalism to create the infinitives. The e-grade of ON mega, 3sg. ma, 3pl. mega is analogical. See further \*mahti-. \ -->
+REF: [EDPG]\: 373
+
+### <a id="mūhan">\*mūhan- ~ \*mukkan- [m.] "pile" (n)</a>
+N: \
+-- ON _múgi_, _múgr_ "pile, crowd" \
+-- Icel. _múgi_ "id." \
+-- Far. _múgvi_ "crowd" (also _múgva_ [f.] "id." < \*mūhōn-) \
+-- Nw. _muge_ "heap", _mukke_ [f.] "id." \
+-- Gutn. _måckå_ [f.] "id." \
+W: \
+-- OE _mūha_, _mūga_, _mūwa_ "heap", E _mow_ \
+PIE: \*muk-on- \
+<!-- COGN: Gr. Hsch. µuiwv "pile" < \*muk-on- \ -->
+<!-- An n-stem with secondary ii/u-ablaut, nom. \*muho, gen. \*mukkaz, dat. \*mugeni < \*m6k-6n, \*muk-n-6s, \*m uk-en-i (cf. Schaffner 2001: 563-5; Kroonen 2011a: 278-9). After the change PIE \*ei > PGmc. \*f, PGmc. \*zi was introduced analogically as a secondary full-grade marker. It thus started to compete with PGmc. \*eu from PIE \*eu. \ -->
+REF: [EDPG]\: 373
+
+### <a id="mukkōn">\*mukkōn-(?) [f.] "sow" (n)</a>
+W: \
+-- MDu. _mocke_ "sow; prostitute" \
+-- MHG _mocke_ "breeding sow" \
+<!-- COGN: OIr. mucc "pig", MW moch "id." < \*mokku- \ -->
+<!-- A non-Proto-Germanic, Celtic loanword. It has been proposed that both the Celtic and Germanic word were borrowed from a lost European language (Matasovic 2009: 274-5). The restriction of \*mukkon- to the Franconian dialect area makes it more likely that the word entered Germanic at a late stage, from Celtic. \ -->
+REF: [EDPG]\: 374
+
+### <a id="mūlan">\*mūlan- [m.] "muzzle" (n)</a>
+N: \
+-- ON _múli_ "muzzle, snout; promontory" \
+-- Far. _múli_ "muzzle, nose; promontory" \
+W: \
+-- OFri. _mūla_ "muzzle, mouth" \
+-- MDu. _mule_ [m./f.] "mouth (of animal)", Du. _muil_ [c.] "id." \
+-- OHG _mūla_ [f.] "id.", MHG _mūl_ [n.] "id." \
+PIE: \*muH-lo-(?) \
+<!-- Also cf. Go. faur-muljan [wk.] "to muzzle", ON myla [wk.] "id." and - with a remarkably different meaning - Nw. myla [wk.] "to pout, smirk" < \*miiljan-. The word is usually connected to Gr. µullov [n.] "lip" (cf. Pokorny IEW: 751 -2), but the origin of the double A is uncertain (\*-lj-?), and the root-final I seems to have been added within Germanic itself in view of G Bav. miiuen [wk.] "to chew, rumigate" < \*maujan- < \*mou(H)-eie-. A closely related ablauting formation is represented by Icel. maula [wk.] "to munch", Far. meyla [wk.] "to ramble" < \*maulOlja)n-. \ -->
+REF: [EDPG]\: 374
+
+### <a id="mulki">\*mulki- "milkable" (adj)</a>
+N: \
+-- Icel. _mylkur_ "giving milk" \
+W: \
+-- G Swi. _lind-mulch_ "easy to milk" \
+<!-- The gerundive to \*meku)kan- (cf. Heidermanns 1993 : 408). Cf. Far. mylkin [f.] "woman who has sufficient milk". \ -->
+REF: [EDPG]\: 374
+
+### <a id="mulkna">\*mulkna- [n.] "dairy" (n)</a>
+W: \
+-- OE _molcen_ "curdled milk" \
+-- MDu. _molcken_ \
+-- MHG _molken_, _molchen_, G _Molken_ [f.pl.] "whey" \
+<!-- A zero-grade formation closely related to \*mel(u)kan- (q.v.), perhaps derived from the past participle thereof. \ -->
+REF: [EDPG]\: 374
+
+### <a id="mulkōn">\*mulkōn- [wk.] "to milk" (v)</a>
+N: \
+-- ON _molka_ \
+-- OSw. _molka_ \
+-- OGutn. _mulka_ \
+PIE: \*h₂mlǵ-neh₂- \
+<!-- The iterative to \*mel(u)kan- "to milk" (q.v.). \ -->
+REF: [EDPG]\: 374
+
+### <a id="multōjan">\*multōjan- [wk.] "to become soft" (v)</a>
+N: \
+-- Nw. _molta_ "to ripen (of berries)" \
+W: \
+-- G dial. _molzet_ "soaked" \
+PIE: \*mld-u- \
+<!-- COGN: Skt. mrdu- "delicate, weak, soft, mild", Gr .a6Uc; "weak", Lat. mollis "weak, soft", OIr. mell "pleasant, delightful" (< \*meld-a-), W blydd "tender, soft" (< \*mld-o-) < \*mld-u- \ -->
+<!-- A weak verb created to a lost \*multu- "soft", for which cf. \*meltan-. The shift from "soft" to "ripe" must have taken place at an early stage in view of the related MHG molz [n.] "fruit (of an apple tree)" < \*multa- and EDu. mouter "overripe" < \*multra- / \*maltra-. On the PIE level, the ablaut of OIr. mell vs. MW blydd may point to an ablauting paradigm, nom. \*meld-u-s, gen. \*mld-u-6s, (Matasovic 2009: 262-3). \ -->
+REF: [EDPG]\: 374
+
+<!-- ### <a id="mulwēn">\*mulwēn- [wk.] "to soften" (v)</a> -->
+<!-- PIE: \ -->
+<!-- COGN: Gr. µaAaK6� "weak, soft, tender" < \*mlh₂-lfo- \ -->
+<!-- A stative apparently created to either the adjective \*mulwa-, cf. MHG molwic "soft", or to \*melwa- "id.", cf. E mellow < \*m(e)lh₂-ḱ-u6-. See also \*melda-. \ -->
+<!-- REF: [EDPG]\: 375 -->
+
+### <a id="mumpōn">\*mump/bōn- [wk.] "to stain" (v)</a>
+W: \
+-- E obs. _to mump_ "to cheat, get the better of" \
+-- Du. obs. _mompen_ "to cheat, deceive, hide" \
+PIE: \*mmbʰ-neh₂- \
+<!-- COGN: Gr. µ£µcpoµm "to reproach, blame" < \*me(-)mbʰ-e-, Gr. µo µcp� [f.] "reproach" < \*mombʰ-eh₂- \ -->
+<!-- The iterative \*mump/bon- goes back to \*mrpbʰ-neh₂-, and is reconcilable with the aforementioned Greek verb. Go. mampjan must have been derived directly from the iterative, or otherwise from an unattested strong verb \*mimpan-. \ -->
+REF: [EDPG]\: 375
+
+### <a id="munan">\*munan- [pp.] "to think, remember, intend" (v)</a>
+E: \
+-- Go. _munan_ "to reckon, believe, consider" \
+N: \
+-- ON _muna_, _munu_ "to remember" \
+-- Far. _munna_ "to will, be about to" \
+W: \
+-- OE _munan_ "to remember; to consider, think" \
+-- OS _munan_ "to judge"; _far-munan_ "to scorn, disregard, renounce" \
+PIE: \*m(o)n- \
+<!-- COGN: OCS pombneti "to remember", Lith. paminJti "to mention, recall, commemorate" < \*mn-eh₁- \ -->
+<!-- A preterite-present 3sg. \*mane, 3pl. \*mununp < quasi-PIE \*mon-e, \*mn-nt. The Old Norse infinitive munu (cf. ON skulu under \*skulan-) has an analogical u-ending after the 3pl. form. Related to \*muni-, \*mundi-, etc. \ -->
+REF: [EDPG]\: 375
+
+### <a id="mundi">\*mundi- [f.] "memory, mind" (n)</a>
+E: \
+-- Go. _ga-munds_ "remembrance, memory" \
+N: \
+-- ON _mynd_ "form, image" \
+-- Far. _mynd_ "picture" \
+W: \
+-- OE _ge-mynd_ "mind, memory, memorial", E _mind_ \
+-- OHG _gi-munt_ "memory" \
+PIE: \*mn-ti- \
+<!-- COGN: Skt. matf- [f.] "thought, thinking, mind, attention, intention, song of praise", Lat. mens, mentis [f.] "mind", Lith. mintis [m.] "thought", OCS pa-mt:tb [f.] "memory, remembrance, memorial", Ru. pa-mjat' [f.] "memory, remembrance", SCr. pamet [f.] "mind" \ -->
+<!-- A ti-stem pertaining to \*munan- (q.v.). \ -->
+REF: [EDPG]\: 375
+
+### <a id="mundō">\*mundō- [f.] "hand" (n)</a>
+N: \
+-- ON _mund_ \
+W: \
+-- OE _mund_ "hand; protection" \
+-- OFri. _mund_, _mond_ "protection" \
+-- OHG _munt_ "protection" \
+PIE: \*mh₂-nt-eh₂- \
+<!-- COGN: Lat. manus [f.] "hand" < \*mh₂-no-, Gr. Hsch. µap11 [f.] "hand" < \*mh₂-r-eh₂- (= OHG Jang-mar "middle finger"?). Also cf. Far. munda [wk.] "to be able to grasp" < \*mundiijan- and Nw. dial. fjor-mynda [f.] "newt" (lit. "four-hand") < \*-mundjiin- \ -->
+<!-- Outside Germanic, \*mundii- is often compared to Lat. manus (cf. De Vaan 2008: 363-4), but in spite ofthe obvious semantic match, the deeper link with the root \*meh₂- "to beckon" has not yet been established. What I would like to propose here, is to derive the Latin and Germanic formations as well as Gr. Hsch. µap11 from this verbal root, for which cf. RuCS po-mavati "to give a signal with one's hand or head", SCr. majati "to beckon, keep, detain", Lith. m6ti (m6ju) "to beckon", Latv. miit "id." < \*meh₂-ie- and Gr. µlJvuw, Dor. µavuw "to indicate" < \*meh₂-neu-. The Germanic nd-suffix (PIE \*-n t-) is parallel to e.g. ON hprund [n./f.] "flesh; skin" < \*harunda/ii- (q.v.) and OE wiisend [m./f.] "windpipe", OHG weisunt [f.] "id." < \*waisunda/ii- (q.v.) < \*-nt-o/eh₂-. \ -->
+REF: [EDPG]\: 375
+
+### <a id="mundra">\*mundra- "lively" (adj)</a>
+W: \
+-- OHG _muntar_ "brisk, cheerful", G _munter_ "id." \
+PIE: \*mn-dʰh₁-ro- \
+<!-- COGN: Skt. medhira- "wise", OAv. hu-mqzdra- "very learned", YAv. mqzdra- "wise" < \*mn-s-dʰh₁-ro-, Lith. mafidras (also mandrus) "cheerful, lively", Latv. muOdrs "cheerful, alert, vigorous", OCS mpdn "wise", Ru. mudryj "id.", SCr. mudar "id." < \*mon-dʰi-ro- \ -->
+<!-- An adjective that was derived from a PIE composite root \*men-dʰh₁- or \*mn-s-dʰh₁- "to put in mind" with the adjectival ro-suffix. For the root \*men-, see e.g. \*munan- and \*mundi-. \ -->
+REF: [EDPG]\: 376
+
+### <a id="muni">\*muni- [m.] "thought, mind" (n)</a>
+E: \
+-- Go. _muns_ "intention" \
+N: \
+-- ON _munr_ "mind; difference" \
+-- Far. _munur_ "effect, amount, degree; change, difference; balance" \
+-- Elfd. _mun_ "effect" \
+W: \
+-- OE _myne_ "mind" \
+PIE: \*mn-i- \
+<!-- An i-stem derived from the PIE root \*men- "to think", for which see \*munan-. Also cf. Elfd. mun "frugal". \ -->
+REF: [EDPG]\: 376
+
+### <a id="muniwōn">\*muniwōn- [f.] "minnow" (n)</a>
+W: \
+-- OE _myne_ [m.] "small seafish, eelpout" \
+-- MDu. _mone_ "rockling(?)", Du. _meun_ [c.] "rockling" \
+-- OHG _mun(e)wa_ "eelpout", G _Möhn_, Pal. _Münne_, _Mimf_ "dace, chub" \
+PIE: \*mnH-i-ueh₂- \
+<!-- COGN: Gr. µaLVTJ [f.] "small fish, sprat" < \*mvH-ieh₂-, Ru. men', Cz. men "burbot, eelpout" < \*mvH-i(o)-, Lith. menke, Latv. meiice [f.] "cod" < \*menH-k-ieh₂ \ -->
+<!-- OE _myne_ has been analyzed as continuing an independent formation \*muni-, but it is probably better to harmonize it with the other Germanic forms, which point to \*muniwiin-, \*munwjiin- or \*munwln-. Kohler 1906: 60ff showed that his proposed reconstructions \*muniwln- and \*muniwiinshould indeed have developed into myne, referring to the parallel development of OE pyle, gen. pylwes "pillow" < \*pulwln- (« Lat. pulvfnus) \ -->
+REF: [EDPG]\: 376
+
+### <a id="munþa">\*munþa- [m.] "mouth" (n)</a>
+E: \
+-- Go. _munþs_ \
+N: \
+-- ON _munnr_ \
+-- Far. _munnur_, _muður_ \
+-- Elfd. _munn_ \
+W: \
+-- OE _mūþ_, E _mouth_ \
+-- OFri. _mūth_ \
+-- OS _mūth_ \
+-- Du. _mond_ [c.] \
+-- OHG _mund_, G _Mund_ \
+PIE: \*mnt-o- \
+<!-- COGN: Lat mentum [n.] "chin", MW mant [m.] "mandible, gums" < \*mnt-o- \ -->
+<!-- A Germanic and Italo-Celtic o-stem. It is further possible that the root \*ment- continues \*stment-, for which see \*stimno-. The root may further be identified in Gr. µacraoµm "to chew, bite" (< quasi PIE \*mnt-i-eh₂-ie-) and Lat mando "to chew" < \*mnt-neh₂- (with 1. dissimilation of the first n; 2. schwa secundum in the resulting form \*mt-na-; and 3. prenasalization under Thurneysen's law). The alternative connection with Hitt meni [n.] "face, cheek" (< \*men-ih₁-, Rieken 1999: 56f.) can only be maintained if the root was \*men- rather than \*ment-, which seems less likely. \ -->
+REF: [EDPG]\: 376
+
+### <a id="murgena">\*murge/ana- [m.] "morning" (n)</a>
+E: \
+-- Go. _maurgins_ \
+N: \
+-- ON _myrginn_, _morgunn_, _morginn_ \
+-- Icel. _morgunn_ \
+-- Far. _morgun_ \
+-- OSw. _morghon_ \
+-- Elfd. _morgun_ \
+W: \
+-- OE _mergen_, _morgen_ \
+-- OFri. _morn_, WFri. _moarn_ [c.], EFri. _māiden_ \
+-- OS _morgan_, _moragan_ \
+-- ODu. _morgan_, Du. _morgen_ [c.] \
+-- OHG _morgan_, G _Morgen_ \
+PIE: \*mr(H)k-e/on- \
+<!-- COGN: OCS mrako [m.] "darkness", Ru. dial. m6rok [m.] "darkness, cloud, fog", SCr. mriik [m.] "darkness" < \*mork-o-, OCS ml'bknpti "to become dark, darken", Ru. merknut' "to become dark, become dim, fade", SCr. mrknuti "to become dark, darken" < \*mrHk-ne-, Lith. merkti "to close one's eyes" < \*merHk-e- \ -->
+<!-- A word of uncertain derivation. The correlation between \*murgen-, \*murgan- and \*murgun- is unclear. The u-vocalism is productive in Old Norse suffixes such as -ull and -ugr, which often replace -all, -ill and -agr, -igr. It is therefore likely that morgunn replaces \*morgann (also cf. the a-mutation of \*u to \*o), a form corresponding to WGm. \*murgana-. ON myrginn and Go. maurgins, on the other hand, continue \*murgena- with a suffixal e-grade. In view of the parallelism with the suffix of ON himinn, Go. himins "heaven" < \*hemina-, a formation based on the locative \*hemeni of a more primary mn-stem (see \*hemina- ~ \*hemna-), it is conceivable that \*murgena- and \*murgana- continue the oblique case of an n-stem, e.g. \*murho, loc. murgeni, acc. \*murganun < \*mrHk-on, \*-en+, \*-on-m. The suffixal variation of \*murgena- / \*murgana-, however, is also comparable to the interchange of \*-ena- and \*-ana- in the past participles of the strong verbs. \ -->
+REF: [EDPG]\: 377
+
+### <a id="murgu">\*murgu- "short" (adj)</a>
+W: \
+-- OHG _murg_, _murgi_ \
+PIE: \*mrǵʰ-u- \
+<!-- COGN: Av. marazu- "short", Sogd. murzak "id.", Gr. ppax\J; "id." < \*mrgʰ-u-, Lat. brevis "id." < \*mregʰ-u- \ -->
+<!-- A u-stem that in PIE had an ablauting paradigm nom. \*mregʰ-u-s, gen. \*mrgʰ-u-6s (for another ablauting u-stem within Germanic, see \*gelwa- ~ \*gulu- "yellow"). It gave rise to the factitive Go. ga-maurgjan [wk.] "to make short, curtail". The appurtenance of OE myrge "pleasant", E m erry, MDu. mergelijc "pleasant" (adv) < \*murgja- and OE mergo, myrgo [f.] "joy, pleasure", E mirth, MDu. merchte [f.] "id." < \*murgipo- is less certain (especially in view of the vocalism of the Dutch forms), but can be maintained by assuming a semantic shift from "short" to "swift" to "enjoyable" (cf. Heidermanns 1993: 416). \ -->
+REF: [EDPG]\: 377
+
+### <a id="murhōn">\*murhōn- [f.] "wild carrot" (n)</a>
+W: \
+-- OE _moru_, _more_ \
+-- OS _morha_ "parsnip" \
+-- MDu. _more_ "carrot; rutabaga" \
+-- OHG _moraha_, G _Mohr-rübe_, _Möhre_ (< \*murhjōn-) \
+PIE: \*mrk- ~ \*brk- \
+<!-- COGN: Gr. [3paKava [n.pl.] "wild vegetables" < \*mrk-J\*brk-, Ru. borkan' "wild carrot" (» Latv. bufkiins, Fi. porkkana, cf. Pli:iger 1973: 14 1-2) < \*brk-, Ru. mork6v' [f.], dial. m6rkva, SCr. mrkva [f.] "carrot" < \*mrk-uH- \ -->
+<!-- A European word. The connection with Gr. [3paKava has been questioned in view of the irregular variant [3aKavov "cabbage(-seed)", which points to a non-IE origin (Furnee 1972: 330). Since the Germanic word is likely to be of non-IE derivation, too, the connection can still be maintained on a different level. ln all likelihood, the word started out as an indigenous European term (\*mrk- ~ \*brk-) referring to a root vegetable, e.g. a carrot, parsnip or turnip, and was picked up by different groups of Indo-Europeans when they arrived in their new European homelands. \ -->
+<!-- In North Germanic, \*murhon- may have developed into ON, Icel., Far. mura, Nw. gdse-mure [f.] "silverweed", cf. ON Jura [f.] "fir-tree" < \*furhwon- (q.v.). This is all the more likely in view of the facts that the roots of this plant were often used to supplement the diet, and have a taste similar to carrots. The claim that ON mura is in ablaut relation to OE mare, allegedly meaning "silverweed" (Torp 1909: 312), is erroneous, the latter being a ghost word (Schlutter 1925: 189ff.). \ -->
+REF: [EDPG]\: 378
+
+### <a id="murþa">\*murþa- [n.] "murder" (n)</a>
+N: \
+-- ON _morð_ \
+-- Far. _morð_ \
+-- Elfd. _mųord_ \
+W: \
+-- OE _morð_ [m.] \
+-- OFri. _morth_ \
+-- OS _morth_ \
+-- Du. _moord_ [c.] \
+-- OHG _mord_, G _Mord_ [m.] \
+PIE: \*mŕ̥-to- \
+<!-- COGN: Hitt merzi ~ maranzi "to disappear, vanish" < \*mer-ti, \*mr-enti, Skt. mriycite "id.", YAv. fra-miriiete "id.", OP amriyata "id.", NP mir- "id.", Oss. m«!lyn / m«!lun "id.", Lat morior, mori "id.", OCS mreti (m brQ, mbrjp), Ru. mret' (mru), SCr. mrijeti "id.", Lith. mifti (mirstu, miriaii), Latv. mirt "id." < \*mr-ie-, Arm. mefanim "id." < \*mer-s- \ -->
+<!-- A to-stem to the lE root \*mer- "to die", whence ON, Icel., Far. myroa, OHG murdjan, MHG miirden [wk.] "to kill" < \*murpjan-. Go. maurpr, OE moroor [n.] "murder" < \*murpra- continue an instrumental noun \*mf-tro- to the same root Note that the Hittite form may point to a more primitive (i.e. Indo-Hittite) meaning "to disappear" (Kloekhorst 2008: 57 7). \ -->
+REF: [EDPG]\: 378
+
+### <a id="mūs">\*mūs- [f.] "mouse, muscle" (n)</a>
+N: \
+-- ON _mús_ "mouse; biceps" \
+-- Far. _mús_ "mouse" \
+-- Elfd. _maus_ "id." \
+W: \
+-- OE _mūs_ "mouse", E _mouse_ \
+-- OFri. _mūs_ "id.", WFri. _mûs_ [c.] "id." \
+-- OS _mūs_ "id." \
+-- Du. _muis_ [c.] "id." \
+-- OHG _mūs_ "id.", G _Maus_ "id." \
+PIE: \*muHs \
+<!-- COGN: Skt md$- [m./f.] "mouse; rat", NP miis "mouse, rat", Oss. myst / miste "mouse", Arm. mukn "mouse, muscle", Alb. mi "id.", OCS mysb [f.] "mouse", Gr. µu;, µu6; [m.] "mouse; muscle", Lat. miis [f.] "mouse" (also cf. miisculus [m.] "muscle") \ -->
+<!-- A PIE root noun. The word is often connected to Skt. mu$ridti "to steal" (cf. Pokorny IEW: 752-5 3), but this is formally impossible because of the absence of a laryngeal. For a possible Germanic cognate of this verb, cf. OFra. chreo-mosido "despoiling of dead bodies". \ -->
+REF: [EDPG]\: 379
+
+### <a id="musan">\*musa(n)- [m./n.] "moss" (n)</a>
+N: \
+-- ON _mosi_ [m.] "moss; bog" \
+-- OSw. _mos_ [n.], _mosi_ [m.] "id." \
+-- Elfd. _muosi_ [m.] "id." \
+W: \
+-- OE _mos_ [n.] "id.", E _moss_ \
+-- Du. _mos_ [n.] "moss" \
+-- OHG _mos_ [n.] "moss; swamp", G _Moos_ [n.] "moss" \
+PIE: \*mus-o- \
+<!-- COGN: Lith. mil.sos [f.pl.] "mold" < \*mus- (also cf. Lith. miisai [m.pl.] "id." with secondary long u), Ru. mox [m.] "moss", SCr. mc'ih [m.] "moss, mold, bloom" < \*mus-o-, Lat. mucus [m.] "swamp" < \*m(o)us-ko- \ -->
+<!-- A European word. See also \*meusa-. \ -->
+REF: [EDPG]\: 379
+
+### <a id="musī">\*musī- [f.] "mosquito, fly" (n)</a>
+W: \
+-- MDu. _meusie_ "mosquito; fly", EDu. _meusie_, _mosie_ "mosquito", Du. Flem. _meuz(i)e_ "id." \
+PIE: \*mus-(i)eh₂- \
+<!-- COGN: Gr. µuḱX [f.] "fly" < \*mus-ieh₂-, Lith. muse [f.] "mosquito", Latv. mufa [f.] "id." < \*mus-ieh₂-, OPru. muso [f.] "id." < \*mus-ieh₂-, OCS muxa, Ru. muxa, SCr. mil.ha [f.] "fly" < \*mous-(i)eh₂- (also Ru. dial. m6xa [f.] "mosquito", SCr. dial. maha "id." < \*mus-eh₂-), Lat. musca [f.] "fly" < \*mus-keh₂- \ -->
+<!-- The Dutch material, which points to \*musi- < \*mus-i(e)h₂- (= Lith. muse) is often conflated with Gutn. mausa [f.] "fly", but this form goes back to \*miisonwith an (unexplained) long \*ā See further \*muwi- "mosquito". \ -->
+REF: [EDPG]\: 379
+
+### <a id="muska">\*muska- [m.] "haze(?)" (n)</a>
+N: \
+-- Icel. _musk_ [n.] "dust, fluff; haze" \
+-- Far. _æl-musk_ [n.] "light shower of rain" \
+-- Nw. _musk_ [n.] "fog; drizzle from fog; dark hue" \
+PIE: \*mus-g/ko\
+<!-- COGN: To CS muzga [f.] "pool", ORu. muzg'b [m.] "mud", Ru. m uzga [f.] "stagnant water", SCr. miizga [f.] "stripe, trail" < \*mouzg-o/eh₂- \ -->
+REF: [EDPG]\: 379
+
+### <a id="muþþan">\*muþþa/ōn- [m./f.] "moth" (n)</a>
+N: \
+-- ON _motti_ [m.] \
+-- Far. _motti_ [m.], _motta_ [f.] "mite" \
+-- Elfd. _måtta_ [f.] \
+W: \
+-- OE _moþþe_ [f.], E _moth_ \
+-- MDu. _motte_ [f.], Du. _mot_ [c.] \
+-- MHG _motte_, _mutte_ [f.], G _Motte_ [f.] \
+<!-- A zero-grade formation closely related to \*mapan- (q.v.). Also cf. OE mohðe, ME mohthe, E Scot. mogthe "moth" < \*mupikon-. \ -->
+REF: [EDPG]\: 379
+
+### <a id="muwī">\*muwī- [f.] "mosquito" (n)</a>
+N: \
+-- OSw. _mygga_ \
+W: \
+-- OE _mycge_, E _midge_ \
+-- WFri. _mich_ [c.], EFri. _määge_ \
+-- Du. _mug_ [c.] \
+-- OHG _mucka_, G _Mücke_ \
+PIE: \*muH-ih₂- \
+<!-- Also cf. ON [m.]Y [n.] "mosquito" < \*miija- and Sw. mygg [n.] "id." < \*mujja-. The word, which appears to be linked to \*musi- (q.v.), has a complicated prehistory. OSw. mygga developed from the form \*mujjon- by regular Verschiirfung of \*-jj- to -gg(j)-. The resulting velar is unrelated to the one in West Germanic, which arose due to velarization ofthe \*w in the nominative \*muwi (cf. Du. vreugde "joy" < \*fruwipo-). The new root \*mug- was subsequently generalized throughout the paradigm, and became geminated in the gen. \*mugjoz according to WGm. gemination. The original PGmc. paradigm can thus be reconstructed as \*muwi, \*mujjoz, continuing PIE \*muH-fh₂, \*muH-ieh₂-s. Note that the short \*u in Gm. arose due to the operation of Dybo's law of pretonic shortening. For a parallel development, see \*bruwi"bridge". \ -->
+REF: [EDPG]\: 380
