@@ -12751,7 +12751,7 @@ W: \
 <!-- A _vr̥ddhi_-gerundive to the strong verb [\*hregan-](#hregan) (q.v.). \ -->
 REF: [EDPG]\: 245
 
-### <a id="hret6">\*hrētō- [f.] "honeycomb" (n)</a>
+### <a id="hretō">\*hrētō- [f.] "honeycomb" (n)</a>
 W: \
 -- ODu. _rāta_, MDu. _rate_, _raet_, Du. _honing-raat_ \
 -- MHG _rāze_ "honeycomb, stake, stake" \
