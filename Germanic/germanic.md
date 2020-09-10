@@ -20436,3 +20436,277 @@ PIE: \*nud-neh₂- \
 <!-- COGN: Skt nudciti "to push, thrust, impel" < \*nud-e-, OCS nuditi "to force", Ru. dial. nudit' "to compel, force", SCr. nuditi "to offer, incite, invite" < \*n6ud-eie- \ -->
 <!-- An iterative 3sg. \*nuttopi, 3pl. \*nutunanpi continuing PIE \*nud-neh₂-ti, \*nud-nh₂-enti. See also \*hnutt/don- 2. \ -->
 REF: [EDPG]\: 393
+
+## O
+
+### <a id="ōbjan">\*ōbjan- [wk.] "to perform" (v)</a>
+W: \
+-- OS _ōƀian_ "to celebrate" \
+-- MDu. _oeven_ "to practice" \
+-- OHG _uoben_, _uoppen_ "to practice, exercise; to celebrate", G _üben_ "to practice" \
+<!-- A causative with a secondary long \*6, derived from the PIE root \*h₃ep- "to labor, work". With the same vocalism, cf. OHG uoba [f.] "festivity" < \*6b6- and OHG uobo [m.] "farmer" < \*oban-. See also \*ajla-. \ -->
+REF: [EDPG]\: 393
+
+### <a id="ōfera">\*ōf(e)ra- [m./n.] "edge; shore" (n)</a>
+W: \
+-- OE _ōfer_, _ōfor_ [m.] "edge, border, margin" \
+-- MDu. _oever_ [m./n./f.] "shore", Du. _oever_ [c.] "shore" \
+-- MHG _uover_ [n.] "shore", G _Ufer_ [n.] "bank, shore" \
+PIE: \*h₂eh₁;2per-o- \
+<!-- COGN: Gr mpoc;, Dor. frrrnpo;, Aeol. &ncppo; [f.] "landmass, coast" < \*h₂eh₁;2per-io- \ -->
+<!-- A potential Germanic-Greek isogloss. The appurtenance of Arm. ap'n "shore, coast" (Benveniste 1935: 13) is less certain, as PIE \*p should have disappeared word-internally. It is possible, however, that p' developed from the cluster -Hp- by metathesis to \*-pH-. The underlying form \*h₂pH-n- would then support the reconstruction of an ablauting heteroclitic, nom. \*h₂eh₁;2p-r, gen. \*h₂h₁;2p-en-s. \ -->
+REF: [EDPG]\: 394
+
+### <a id="ōgjan">\*ōgjan- [wk.] "to scare" (v)</a>
+E: \
+-- Go. _ogjan_ \
+N: \
+-- ON _œgja_ \
+W: \
+-- OE _on-œgan_ "to fear" \
+<!-- The causative to \*agan- (q.v.) . \ -->
+REF: [EDPG]\: 394
+
+### <a id="ōhstnō">\*ōhs(t)nō- [f.] "armpit" (n)</a>
+W: \
+-- OE _ōxn_ \
+-- OHG _uohsana_ \
+<!-- The dialects contain a variety of different formations. In my view, the no doubt closely related ON 6st [f.], 6str [m.] "armpit" and especially OE 6xta, i5custa [m.] "id." < \*ohsta(n)- show that OHG uohsana and OE i5xn developed from \*i5hstni5-, a feminine formation derived from a primary n-stem \*i5hstan-; the heavy cluster \*-hst(n)- must then have become simplified to \*-hsn- in West Germanic, while Nordic \*i5hsta-, on the other hand, lost the h. The additional variants OHG uohisa, MHG uochse, uechse [f.] "armpit" < \*i5hsji5n- and MHG uohsn(e), uehsen [n.] "id." < \*i5hs(t)nja- are secondary. \ -->
+<!-- The formations mentioned here all have long \*o, which probably arose secondarily due to the process of deriving the primary n-stem \*i5hstan- from \*ahso- "axle" (q.v.). They also contain the PIE suffix \*-sth₂-, for which cf. \*aiston- "testicle". OE oxta can accordingly be derived from a quasi-PIE proto-form \*h₂0Ks-sth₂-on-. \ -->
+REF: [EDPG]\: 394
+
+### <a id="ōsan">\*ōsa(n)- [m.(?)] "mouth of a river, estuary" (n)</a>
+N: \
+-- ON _óss_ [m.] \
+-- Far. _ósi_ [m.] \
+-- Nw. _os_ [m./n.] "estuary, hole in the ice" (cf. dial. _øse_ [n.] "id." < \*ōsja-) \
+PIE: \*h₁/h₃éh₁/h₃-es- \
+<!-- COGN: Hitt. ais ~ iss- [n.] "mouth", CLuv. cias- [n.] "id.", Skt. as- [n.] "mouth, face", Lat OS, oris [n.] "mouth", OIr. poet ci "id.", Lith. uoksas [m.] "opening, cavity" \ -->
+<!-- An Indo-European term for "mouth". If OE or [n.] and OE ora [m.] "edge" < \*oza(n)- belong here, the Verner alternation \*os- ~ \*oz- would be a clear indication of an originally mobile s-stem, e.g. \*h₁;3eh₁;3-S, \*h₁13h₁;3-es-6s. Such a paradigm is directly supported by Hitt. ajis, ais, gen. isfas < \*h₁eh₃-es (secondary for \*h₁eh₃-s), gen. \*h₃h₁-es-6s. Note that the lack of an initial b in the nominative points to \*h₁eh₃-(e)s, while the vocalism of the genitive at least superficially seems to reflect \*h₃h₁-es-6s (cf. Rieken 1999: 186) with the reversed order of the laryngeals. Kloekhorst 2008: 166, on the other \*opala- hand, reconstructs the word as an amphidynamic neuter \*h₁eh₃-es, gen. \*h₁h₃-s-6s. \ -->
+REF: [EDPG]\: 394
+
+### <a id="ōþala">\*ōþala- [n.] "patrimony" (n)</a>
+N: \
+-- ON _óðal_ "ancestral property, patrimony, inheritance" \
+W: \
+-- OE _ōðel_ [m.] "home, native country" \
+-- OS _ōthil_ "home" \
+-- OHG _uodal_ "ancestral property" \
+<!-- A _vr̥ddhi_-formation to \*aþala- (q.v.). \ -->
+REF: [EDPG]\: 395
+
+## P
+
+### <a id="paddōn">\*pad(d)ōn- [f.] "toad" (n)</a>
+N: \
+-- ON _padda_ \
+-- Far. _padda_ \
+-- Elfd. _padda_ \
+W: \
+-- ME _pade_, _padde_ "toad; toadstool, mushroom", E _paddock_ \
+-- MDu. _padde_, Du. _pad_ [c.] \
+<!-- The variation of ME pade with padde (continuing OE \*pade, \*padde) may point to an n-stem with a consonantal alternation, nom. \*pado, gen. \*paddaz. It gave rise to the feminine formation \*pad(d)jon-, cf. MDu., WPhal. pedde [f.] "toad" < \*pad(d)jon- and probably also to the verb Du. dial. padden [wk.] "to crawl", if not the other way around. The word cannot be related to Lat. buf6 "toad" as if continuing \*bodʰ-on-. In agreement with known folkloristic notions concerning the animal, the latter word was actually derived from \*gʷh₃-u-dʰh₁-on- "cow-sucker", cf. Skt. godha- [f.] "big lizard" < \*gʷh₃-eu-dʰeh₁-. \ -->
+REF: [EDPG]\: 395
+
+### <a id="pagila">\*pagila- [m.] "measuring stick(?)" (n)</a>
+W: \
+-- OE _pægel_ "wine-vessel", E _pail_ \
+-- MDu. _pegel_, _peil_ [m./f.] "knob in vessel for liquid goods to measure their contents", Du. _pegel_ [c.] "peg, pin, icicle" \
+PIE: \*bak- \
+<!-- COGN: Gr. j3aKTpov "id." < \*bak-tro-, Lat. baculum [n.] "stick" < \*bak-(t)lo-, OIr. bacc [m.] "crook, hook", MW bach [m./f.] "hook, peg" < \*bakko- \ -->
+<!-- The diminutive to MDu. pegge [f.] "pin, cone, peg" (= ME pegge, E peg) < \*pagj6-. In view of the European distribution of the word and the phonologically abberrant alternation between \*bak- and \*bakk-, it is unlikely that we are dealing with an Indo-European word. \ -->
+REF: [EDPG]\: 395
+
+### <a id="paidō">\*paidō- [f.] "coat, shirt" (n)</a>
+E: \
+-- Go. _paida_ "tunic, vest, shirt" \
+W: \
+-- OE _pād_ "coat, cloak" \
+-- OS _pēda_ "garment" \
+-- OHG _pfeit_ "coat", MHG _pfeit_ "shirt" \
+PIE: \*bait- \
+<!-- COGN: Thrac. j3a [UJ [f.] "coat made of pelt" \ -->
+<!-- An ancient loanword (cf. Pokorny IEW: 92-3). As PIE did not have a \*b, the initial \*p of the Germanic word is a confirmation of its non-inherited status. \ -->
+REF: [EDPG]\: 395
+
+### <a id="pakka">\*pakka- [n.] "bundle, pack" (n)</a>
+W: \
+-- ME _packe_, E _pack_ \
+-- MLG _pack_ \
+-- MDu. _pac_, Du. _pak_ \
+<!-- COGN: Gr. q>UKEAO) "bundle" < \*bʰak-elo-, Lat. biiiulus [m.] "porter, carrier" (cf. Prov. baga "bundle", Span. baga "capsule of flaxseed") < \*bagi-e/o-(?); ?W beich [m.] "load, weight, burden" < PCelt \*bakki- 1 \*baski- \ -->
+<!-- A "Middle Germanic" word with an obscure prehistory. The restriction of the word to the westernmost Indo-European languages speaks against a PIE origin. This is confirmed by the irregular correlation between PGmc. \*pakkan- < \*bakk-, Gr. q>cXKEAO) < \*bʰak- and Lat. \*baga < \*bag-. Even within Germanic itself, the word corresponds irregularly to ON baggi [m.] "pack, bundle", which points to PGmc. \*bagg- next to \*pakk-. Did the word enter Germanic twice, i.e. both before and after Grimm's law? The source of the word still remains unknown. W beich can be derived from \*bakki-, and may theoretically have served as the source of the Germanic word. The alternative reconstruction as \*baski- is reconcilable with Lat fascis "bundle" < \*bʰask-i-, however, and speaks against this hypothesis. \ -->
+REF: [EDPG]\: 396
+
+### <a id="paþa">\*paþa- [m./n.] "path" (n)</a>
+W: \
+-- OE _pæð_, _pað_ [m.], E _path_ \
+-- OFri. _path_, _pad_ [n.] \
+-- MDu. _pat_ [m./n.], Du. _pad_ [n.] \
+-- OHG _pfad_ [m./n.], G _Pfad_ [m.] \
+PIE: \*pap- \
+<!-- Also cf. OHG pfadon [wk.] "to go", Du. obs. na-paden [wk.] "to track" < \*papojan- and OE prefJfJan [wk.] "to traverse", LG pedden [wk.] "to step on" < \*papjan-. A WGm. word without a clear etymology. Possibly, it was adopted from an Iranian source \*paB-, cf. Av. pant&, gen. pa()o < \*pont-eh₁-s, \*pnt-h₁-6s, perhaps from Migration Age Alanic or Sarmatian (Bailey/Ross 1961; Green 1999: 28). Ossetic frendag "path, road" does not preserve the form \*pa{)-, and builds on Pir. \*pantiika- with the full grade root, but fre t.reg "leader" < \*pa{)aka- does contain the required root. An alternative possibility is to assume borrowing from PCelt. \*bato- < \*gʷ(l2-to-, a formation to the PIE root \*gʷeh₂- "to tread". In the modern Celtic languages, however, the meaning of this word has clearly shifted to "pass away", cf. OIr. bath [n.] "death", MW bad "pest, plague". \ -->
+REF: [EDPG]\: 396
+
+### <a id="piþman">\*piþman- ~ \*pittan- [m.] "root, pith" (n)</a>
+W: \
+-- OE _piþa_ "pith" \
+-- WFri. _piid_ "pith, stone (of a fruit)" (< \*pidan-?) \
+-- EDu. _pee_ "skirwort, skirret, (edible) root", _peën_ "bent grass, tall oat grass", Du. _peen_ [c.] "carrot" \
+<!-- A West Germanic word with an indirect attestation in Far. piaa [wk.] "to pick the meat from the bone" < \*pipojan-. The alternation of the stem variants \*pipan- and \*pittan- (\*pippan-?) points to an n-stem nom. \*pipo, gen. \*pittaz < \*bft-on, \*bit-n-6s. In view of the suffixation of Du. peem "root (of grasses)", dial. pessem, pettem "root, field horsetail" (\*-pp- > -ss-/-tt- in the Du. dialects), it is further conceivable that this n-stem continues an older mn-stem \*pipmon, \*pittaz from \*bft-mon, \*bit-mn-6s with dissimilation of the m in the genitive (Kroonen 2011a: 67-8). The etymology of the word is obscure. However, it is formally and semantically close to Ir. bi(o)th "resin, gum", Gael. bith "gum, pith, tar", W bywed "pith". I wonder whether the root \*pip- was borrowed from PCelt. \*bitu- "pitch" < PIE \*gʷet-u- (for which see \*kwedu- 2). Also cf. Scot. pich "pith" (< OE North. \*pihþ), EFri. piedek [m.] "id.", WFri. piik, pyk, pich "id.", MLG, MLG ped(d)ik [m.] "id." < \*pipika-. \ -->
+REF: [EDPG]\: 396
+
+### <a id="plagōn">\*plag/kkōn- [f.] "rag, sod" (n)</a>
+N: \
+-- ON _plagg_ [n.] "cloth" \
+W: \
+-- MDu. _placke_, _plagge_ "rag; sod, turf", Du. _plag_ [c.] "sod", _plak_ [c.] "slice, patch" \
+-- MHG _pflacke_ [m.] "rag, patch, stain" \
+<!-- A number of nominal formations probably belonging to an iterative verb \*plakk/gon-, cf. MDu. placken [wk.] "to slap", Sw. plagg "beating", LG plegel, G Swab. Pflegel [m.] "flail" < \*plagila-. If the meaning "sod" as attested in MDu. is old enough, the root may have served as the basis for \*ploga- "plow" (q.v.), whose etymology is usually considered to be obscure. \ -->
+REF: [EDPG]\: 397
+
+### <a id="plehan">\*plehan- ~ \*plegan- [st.] "to take responsibility" (v)</a>
+W: \
+-- OS _plegan_ \
+-- MDu. _plien_, _plegen_ "to guarantee, take care of, be accustomed to" \
+-- OHG _pflegan_ "to take care of, maintain, nurse", G _pflegen_ [wk.] "id." \
+PIE: \*pslék-e-(?) \
+<!-- The primary meaning of the verb seems to have been "to take responsibility", whence the more secondary "to run a risk" (cf. OE pleoh, OFri. pie, pli [n.] "danger" < \*pleha- and OHG pfligida [f.] "id." < \*plegipo-) and "to maintain, care". This is close to the semantic primitive "to stake" ("einsetzen") that was proposed by Seebold 1 970: 364 to account for the potentially related OE plega [m.] "play", plegian [wk.] "to play, dash" < \*plegojan-. No certain etymology. The connection with OIr. dligid, MW dyly "to owe" < \*dlgʰ-e- (see \*dulga"debt") is spurious in view ofthe formal irreconcilability with PGmc. \*pleh-. If, however, MHG spulgen "to be used to" < \*spulgen- is related, it is possible to conjecture a root \*pslek-/\*psjk- > PGmc. \*pleh-/\*spulh- (with loss of the s in the cluster psi-). See also \*plehti-. \ -->
+REF: [EDPG]\: 397
+
+### <a id="plehti">\*plehti- [m./f.] "responsibility" (n)</a>
+W: \
+-- OE _pliht_ [m./f.] "danger, damage", E _plight_ \
+-- OFri. _plicht_ [f.] "caution, responsibility" \
+-- MDu. _plicht_ [f.] "obligation", Du. _plicht_ [c.] "id." \
+-- OHG _pfliht_ [f.] "fervor, caution, practice, manner", G _Pflicht_ [f.] "obligation, responsibility" \
+<!-- A ti-stem to the root of the strong verb \*plegan- (q.v.). The sometimes compared OS pletta, MLG plicht, MDu., Du. plecht, OHG pflihta [f.] "small (cabin on a) fore-deck" (also cf. OE plihtere "look-out man in the prow") is unrelated. I would instead like to compare this word to the obscure MLG pligen "to steer carefully(?)" and E obs. ply "to beat up against the wind; to tack, work to windward; to direct one's course (in a ship), steer", which ultimately go back to Lat appliciire "to attach, place close to; to steer" via borrowing from Romance. \ -->
+REF: [EDPG]\: 397
+
+### <a id="plōga">\*plōga- [m.] "plow" (n)</a>
+N: \
+-- ON _plógr_ \
+-- Icel. _plógur_ \
+-- Far. _plógv_ [n.] "jointer plane; groove in a board; plow"; _plógv_ [f.] "plow" \
+W: \
+-- OE _plōh_, E _plow_ \
+-- OFri. _plōch_ \
+-- MDu. _ploech_ [m./f.] "plow; team, group", Du. _ploeg_ [c.] "id." \
+-- OHG _pfluog_ "plow; livelihood", G _Pflug_ "plow" \
+<!-- The etymology of "plow", first attested in the enigmatic plaumorati mentioned by Pliny, is disputed (see e.g. Puhvel 1964). It is believed by many to be derived from the verb PGmc. \*plehan- ~ \*plegan- (q.v.), in which case there must have been a shift of meaning from "to be used to" to "live" to "to plow" (cf. OHG pfluog "livelihood"). H owever, the opposite semantic evolution from "plow" to "livelihood" cannot be excluded in view of e.g. Icel. pl6gur [m.], pl6g [n.] "profit". Alternatively, it is possible to assume a relation with \*plag/kkon- "sod". PGmc. \*ploga- must then be a _vr̥ddhi_-derivation from this or a related formation. The word was borrowed into Vulgar Latin as \*plovu(= plovum in the Edictum Rothanj, cf. Lomb. pio(vo), and also became the source of Lith. plidgas and OCS plug'b. \ -->
+REF: [EDPG]\: 398
+
+### <a id="plukkjan">\*plukkjan- [wk.] "to pluck" (v)</a>
+W: \
+-- OE _plyccean_, ME _plicchen_ "to pull, snatch, pluck", E obs. _to plitch_ "id." \
+-- MDu. _plocken_, _plucken_, Du. _plukken_ "to pick, pluck" \
+<!-- Ajan-verb derived from the iterative \*pluk(k)on- (q.v.). \ -->
+REF: [EDPG]\: 398
+
+### <a id="plukkōn">\*pluk(k)ōn- [wk.] "to pluck" (v)</a>
+W: \
+-- OE _ploccian_ "to pull off, cull", E _to pluck_ \
+-- OFri. _hēr-plokkia_ "to pluck out hair", WFri. _ploats(j)e_, _plôk(j)e_ "to pluck", LG _ploken_ "to pluck" \
+<!-- An iterative verb whose paradigm in view of the derived MLG plugge, plucke [m.] "wooden nail, peg", EDu. plugge "wooden nail, plug, bung, stopper", Du. plug [c.] "id.", MHG pfloc [m.] "stake, peg", G Pflock [m.] "id." < \*plugg/kkan- is to be reconstructed as 3sg. \*plukkopi, 3pl. \*plugunanpi. OSw. trce-plðgger "peg" and Nw. pligg [m.] "peg, pin" have been adduced in support of an ablauting formation \*plegja- / \*plegʷa-, but these forms are more likely to have been adopted from Low German. See also \*plukkjan-. \ -->
+REF: [EDPG]\: 398
+
+### <a id="pōla">\*pōla- [m.] "pool" (n)</a>
+W: \
+-- OE _pōl_, E _pool_ \
+-- OFri. _pōl_ \
+-- MDu. _poel_, Du. _poel_ [c.] \
+-- OHG _pfuol_, G _Pfuhl_ \
+PIE: \*bal-(?) \
+<!-- COGN: Lith. balQ [f.] "marsh" < \*b(hlolH-eh₂-; with a dental element: OCS blato, Ru. bol6to [n.] "swamp", SCr. bliito [n.] "mud, swampy terrain" < \*bChlolH-to-, Alb. balte [f.] "mud, swamp", MoGr. J3a.A:roc; [f.] "swamp", Rom. baltii [f.] "mud, swamp", Lomb. palta, Piem. pauta \ -->
+<!-- A non-IE word in close association with Lith. ba!G. The similar, but apparently suffixed form \*bʰalH-t- has a broader geographic distribution, but also seems to be of post-PIE date in view of the irregular correspondence with It. palta (Derksen 2008: 53). Perhaps, then, Lat. paliis, paliidis [f.] "fen, swamp" must be included in this cluster of European regionalisms, too. \ -->
+REF: [EDPG]\: 398
+
+### <a id="prakkōn">\*prakkōn- [wk.] "to press(?)" (v)</a>
+W: \
+-- LG _prakken_ "to squeeze" \
+-- Du. _prakken_ "to mash" \
+<!-- An iterative verb that can hardly be separated from the strong verb \*prangan- (q.v.) with the same meaning. I therefore reconstruct the formation as \*brogʰ-neh₂- without the n, which was apparently an infix. Also cf. LG pranke "claw" < \*prankan- < \*brongʰ-n-. \ -->
+REF: [EDPG]\: 399
+
+### <a id="prangan">\*prangan- [st.] "to press" (v)</a>
+E: \
+-- Go. _ana-praggan_ "to press upon, oppress, trouble" \
+W: \
+-- MLG _prangen_ [wk.] "to press, clamp" \
+-- MDu. _prangen_ [wk.] "to press, squeeze; to wrestle, fight", Du. _prangend_ [ptc.] "urgent" \
+PIE: \*bróngʰ-e- \
+<!-- A strong verb with an uncertain etymology. The link with Lith. braflktas [m.] "swingletree (part of the harness of a horse)" < \*brongʰ-to-(?) and Latv. brankti "adjacent" (adv) (Pokorny IEW: 103) is acceptable. The connection with Scot. Gae. brang(as) "slip of wood in the head-stall of a horse's halter; horse's collar" (Fowkes 1949: 4-5) is probably erroneous as this word may have been borrowed from Scottish branks. \ -->
+REF: [EDPG]\: 399
+
+### <a id="preunan">\*preuna(n)- [m.] "needle, pin" (n)</a>
+N: \
+-- Icel. _prjónn_ "knitting needle" \
+-- Far. _prónur_ "large pin, fixing pin" \
+-- Nw. _prjóna_ [f.] "fixing pin" \
+-- Da. _pryne_ [c.] "needle for stringing fish; ring for pigs; eel prong" \
+W: \
+-- OE _prēon_ "pin, brooch, fastening", E _preen_ "decorative pin, brooch, clasp" \
+-- MLG _prēn(e)_, _prēme_ "awl" \
+-- MDu. _priem(e)_ "needle, awl, pin", Du. _priem_ [c.] "awl" \
+-- MHG _pfrieme_ "id.", G _Pfriem_ "id." \
+PIE: \*breuk-no-(?) \
+<!-- COGN: Lith. brukti "to prod" < \*bruk-, OCS brut'b [m.] "nail" < \*brouk-to- \ -->
+<!-- The dialectal distribution of the two closely related formations \*preuhman- and \*preuhna(n)- is complementary, and thus may point to dissimilar leveling of a PGmc. paradigm, possibly \*preuhmo, gen. \*preuhnaz < \*breuk-mon, \*breuk-(m)n-os (with dissimilation of the m in the genitive, for which cf. \*budman- ~ \*buttaz "bottom") . It is not inconceivable either, however, that \*preuman- conversely developed from \*preunan- by labialization of the nasal. This is perhaps in support of the view that the word was borrowed from Slavic, cf. OCS prion'b, which itself is a loanword from Gr. rrp(wv "saw" (Falk 1909: 82). There are no additional instances of Slavic loanwords in PNWGm., however, and in view of Teuth. pryel "dagger", Sw. pryl"pin, needle, dagger, spear" < \*preu(h)la-, it seems more likely that the word was inherited. Also cf. MLG prunen [wk.] "to seam together badly; to ring a pig" < \*preu(h)njan-. \ -->
+REF: [EDPG]\: 399
+
+### <a id="prikkōn">\*prik(k)ōn- [wk.] "to prick" (v)</a>
+W: \
+-- OE _prician_, E _to prick_ \
+-- MLG _pricken_ \
+-- Du. _prikken_ \
+-- MHG _pfrecken_ \
+<!-- A NWGm. word, perhaps ultimately an onomatopoeia. The variation of \*prikon- vs. \*prikkon- points to an original iterative 3sg. \*prikkopi, 3pl. \*prikunanpi < \*brig-neh₂-, but the root of this formation cannot possibly be of PIE origin with its forbidden combination of two voiced (glottalized?) stops. Note that the potential connection with Lith. braityti "to scratch" (< \*bChJroig-eie-?) is doubtful, because this formation is assumed to be a conflation of brJtti "to scrabble" < \*b(hJreg- and graityti "to cut, carve" (Fraenkel 1965: 56-7). \ -->
+REF: [EDPG]\: 399
+
+### <a id="puhan">\*puh/kkan- [m.] "bag" (n)</a>
+N: \
+-- ON _poki_ \
+W: \
+-- OE _pocca_, _pohha_ "purse", E _pough_ \
+-- MDu. _poke_ "bag (for wool)", EDu. _poke_ "hairshirt, crop", Du. obs. _pook_ "bag" \
+-- G _Pfoch_ "id." \
+<!-- An exclusively Germanic word that surfaces with many different shapes in the different dialects. The variation of the stems \*puhhan-, \*pukkan- and \*pukan- can nevertheless be resolved by reconstructing a paradigm nom. \*puho, gen. \*pukkaz < \*bUk-on, \*buk-n-6s. No further etymology. The link with Pol. buczyc sit; "to puff oneself up" < \*bouk-eie- is technically possible, but remains uncertain in view of the restriction of this form to Slavic. In addition, the possibly related Nw. poka [f.] "pigskin, sward" < \*pukon- could point to a primary meaning "animal skin" rather than "inflate". See also \*punga- "pouch". \ -->
+REF: [EDPG]\: 400
+
+### <a id="pūka">\*pūka- ~ \*pūga- [n.(?)] "sheeting(?)" (n)</a>
+W: \
+-- MLG _pūche_, _pūghe_ [f.] "blanket, covering", LG _pūch_ "bed" \
+-- MDu. _puuc_ [n.] "(high quality) sheeting" \
+<!-- An apparently WGm. word with no clear etymology. The origin of the variation between \*puk- and \*pug- is unknown; it is theoretically possible that the former continues Pre-Gm. \*pukk- with a geminate, but it is unclear where this geminate would have come from. As for the semantics of the cluster, MDu. puuc [n.] "high quality textile" and Du. puik "fine" have been adduced in order to start from a meaning "handpicked", cf. Du. dial. puiken "to pick" (Kluge/Seebold 2002: 702). However, this leaves the variant \*pugunaccounted for. Related to \*puh/kkan- "bag" (q.v.)? \ -->
+REF: [EDPG]\: 400
+
+### <a id="punga">\*punga- [m.] "purse, pouch" (n)</a>
+E: \
+-- Go. _puggs_ \
+N: \
+-- ON _pungr_ \
+W: \
+-- OE _pung_ \
+-- ODu. _pung_, _pong_ \
+-- OHG _scaz-pfung_ \
+<!-- An etymologically obscure word restricted to Germanic. It is tempting to connect it to the semantically similar \*puh/kkan- "bag" (q.v.), but this comparison requires the assumption of a proto-form \*pu-n-k-o- with a nasal infix, which is far-fetched. \ -->
+REF: [EDPG]\: 400
+
+### <a id="pursa">\*pursa- [m.] "bog myrtle" (n)</a>
+W: \
+-- MLG _pors_ \
+-- MDu. _pors(e)_ \
+<!-- A resinous shrub that was used as an insect repellent and abortifacient. It is native to northern and western Europe and typically grows in acidic peat bogs. The geographic distribution is in keeping with the linguistic spread of the word; like MHG horse and G Porst, ON pars (cf. Nw., Sw., Da. pars) was probably borrowed from Low German. This means that the word was limited to the Low German and Dutch area. No further etymology. \ -->
+REF: [EDPG]\: 400
+
+### <a id="puttōn">\*put(t)ōn- [wk.] "to poke, prod" (v)</a>
+N: \
+-- Icel. _pota_ "to prod/tuck into" \
+-- Far. _pota_ "to thrust, stick; to prod, poke" \
+-- Elfd. _puotå_ "to poke" \
+W: \
+-- OE _potian_ "to push, strike, butt" \
+-- MLG _poten_, _potten_ "to plant in the ground, implant" \
+-- MDu. _poten_ "id.", Du. _poten_ "id." \
+<!-- A weak verb closely related to OE pjitan [wk.] "to push, poke, thrust, put", E to put < \*putjan- and Nw. dial. pauta [wk.] "to stick" < \*pauton-. The secondary nature of the root-final t is revealed by the frequentative MLG podderen "to bicker", MDu. poderen, puederen "to root; to bother", Du. peuren "to blend" (vs. Du. peuteren "to poke"). Together, all these forms point to an iterative verb 3sg. \*puttopi, 3pl. \*pudunanpi < \*but/dʰ-neh₂-. This iterative has no further etymology, and I assume that it was originally onomatopoetic. \ -->
+REF: [EDPG]\: 401
