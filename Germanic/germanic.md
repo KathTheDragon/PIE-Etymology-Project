@@ -19703,3 +19703,736 @@ W: \
 PIE: \*muH-ih₂- \
 <!-- Also cf. ON [m.]Y [n.] "mosquito" < \*miija- and Sw. mygg [n.] "id." < \*mujja-. The word, which appears to be linked to \*musi- (q.v.), has a complicated prehistory. OSw. mygga developed from the form \*mujjon- by regular Verschiirfung of \*-jj- to -gg(j)-. The resulting velar is unrelated to the one in West Germanic, which arose due to velarization ofthe \*w in the nominative \*muwi (cf. Du. vreugde "joy" < \*fruwipo-). The new root \*mug- was subsequently generalized throughout the paradigm, and became geminated in the gen. \*mugjoz according to WGm. gemination. The original PGmc. paradigm can thus be reconstructed as \*muwi, \*mujjoz, continuing PIE \*muH-fh₂, \*muH-ieh₂-s. Note that the short \*u in Gm. arose due to the operation of Dybo's law of pretonic shortening. For a parallel development, see \*bruwi"bridge". \ -->
 REF: [EDPG]\: 380
+
+## N
+
+### <a id="nabja">\*nabja- [n.] "beak" (n)</a>
+N: \
+-- ON _nef_ "nose; bill" \
+-- Far. _nev_ "bill, beak" \
+-- Elfd. _nev_ "nose; mouth, muzzle" \
+W: \
+-- OE _nebb_ "nose; neb; face" \
+-- MLG _nebbe_ [m./f.] "beak" \
+-- MDu. _nebbe_ [m./f.] "beak" \
+<!-- Possibly related to OSw. nappa "to pinch, snap, pick", MDu. nappen [wk.] "to prick, bite" < \*nappon- < \*nop/bʰ-neh₂-. No clear extra-Germanic cognates. Some have compared the word to \*nabO- "nave" < \*h₃nobʰ-eh₂- through a meaning "protuberance, knob" (cf. Magnusson 1989: 662). Another potential lead is Gaul. nebba "bill" as recorded by Pliny (thus already Kilian 1599: 33 4), but the word is not attested in the later Celtic languages. \ -->
+REF: [EDPG]\: 380
+
+### <a id="nablan">\*nablan- [m.] "navel" (n)</a>
+N: \
+-- ON _nafli_ \
+-- Far. _nalvi_ \
+-- Elfd. _navel_ \
+W: \
+-- OE _nafela_, E _navel_ \
+-- OFri. _naula_ \
+-- Du. _navel_ [c.] \
+-- OHG _nabalo_, _nabulo_, G _Nabel_ \
+PIE: \*h₃nobʰ-l-on- \
+<!-- COGN: Gr. 6µcpcxl.6; [m.] "navel, shield boss" < \*h₃mbʰ-J-, Lat. umbilicus [m.] "navel, center" < \*h₃mbʰ-e/ol- + \*-iko-, OIr. imbliu "navel" < \*h₃mbʰ-el-ion- \ -->
+<!-- The IE word for "belly-button". Like the mentioned cognates in the other European languages, the Germanic word was derived from the PIE word for "nave, hub" (see PGmc. \*nabO-) with an l-suffix. See also \*ambna-. \ -->
+REF: [EDPG]\: 380
+
+### <a id="nabō">\*nabō- [f.] "nave" (n)</a>
+N: \
+-- ON _nǫf_ \
+W: \
+-- OE _nafu_, E _nave_ \
+-- WFri. _nauwe_ [c.] \
+-- MDu. _nave_, Du. _naaf_ [c.] \
+-- OHG _naba_, G _Nabe_ \
+PIE: \*h₃nobʰ-eh₂- \
+<!-- COGN: Latv. naba "navel" < \*h₃nobʰ-eh₂-, Skt. nabhya- [n.] "hub (of wheel)" < \*h₃nobʰ-io-, Skt. nabhi- "hub, centre, navel (ofthe body or the world), origin, relationship, family" < \*h₃nobʰ-i- (also cf. OPru. nabis "nave, navel"), YAv. nāfa- [m.] "navel, origin, blood relationship", NP nāf(a) "navel", Oss. naffE "id." < \*h₃nobʰ-h₂-o- (with Ir. \*-f < \*-bʰ-h₂-?) \ -->
+<!-- An inherited word. In view of the ablaut variants mentioned under the closely related \*nablan- "navel" (q.v.), it is possible that the word originally had an ablauting paradigm, nom. \*h₃n6bʰ-h₂, gen. \*h₃mbʰ-h₂-6s. This paradigm further offers a potential explanation for the _Schwebeablaut_ of \*amban- "belly" (q.v.). \ -->
+REF: [EDPG]\: 380
+
+### <a id="nadra">\*nadra- [m.] "adder, snake" (n)</a>
+E: \
+-- Go. _nadrs\*_ \
+N: \
+-- ON _naðr_ \
+PIE: \*nh̥₁tr-ó- \
+<!-- COGN: Lat. natrix [f.] "water snake", OIr. nathir, gen. natrach [f.] "viper" < \*nortr-ik- \ -->
+<!-- Also cf. the feminine ON naora [f.] "id.". A West European word of uncertain origin. The connection with \*nean- "to sew" through an original meaning "winder" (cf. Pokorny IEW: 767) is uncertain. Compare, with ablaut, the semantically identical feminine \*nedron- (q.v.). \ -->
+REF: [EDPG]\: 381
+
+### <a id="nagl">\*nagl- [m.] "nail" (n)</a>
+N: \
+-- ON _nagl_, pl. _negl_ \
+-- Icel. _nogl_, pl. _neglur_ [f.] \
+-- Far. _naglur_, [f.pl.] _negl_ \
+-- Elfd. _nagel_ \
+W: \
+-- OE _nægel_, _nægl_, E _nail_ \
+-- OFri. _neil_ \
+-- OS _nagal_ \
+-- Du. _nagel_ [c.] \
+-- OHG _nagal_, G _Nagel_ \
+PIE: \*h₃nogʷʰ-l-o- \
+<!-- COGN: Gr. ovu�, -uxo; [m.] "nail, claw, hoof", Arm. efungn "nail", OPru. nage "foot", Lith. niigas [m.] "nail, claw", naga [f.] "hoof", OCS noga, Ru. noga "foot, leg" < \*h₃nogʷʰ., Lat. unguis [f.] "id.", OIr. ingen [f.] "id.", MW ewin "id." < \*h₃ngʷʰ. \ -->
+<!-- An l-derivative from the PIE word for "nail", which originally had an ablauting paradigm nom. \*h₃n6gʷʰ.s, gen. \*h₃ngʷʰ.es. The Old Norse word nagl was inflected as a root noun, but this may be secondary: all other Germanic forms point to an original a-stem \*nagla-. Also cf. Go. ga-nagljan, ON negla, OS neglian, OHG negilen [wk.] "to nail" < \*nagljan-. \ -->
+REF: [EDPG]\: 381
+
+### <a id="naht">\*naht- [f.] "night" (n)</a>
+E: \
+-- Go. _nahts_ \
+N: \
+-- ON _nǫtt_, gen. _nætr_, _náttar_, pl. _nætr_ \
+-- Icel. _nótt_, pl. _nætur_ \
+-- Far. _nátt_, pl. _nætur_ \
+-- Elfd. _ną̊t_, pl. _nę́ter_ \
+W: \
+-- OE _næht_, _niht_, E _night_ \
+-- OFri. _nacht_ \
+-- OS _naht_ \
+-- Du. _nacht_ [c.] \
+-- OHG _naht_, G _Nacht_ \
+PIE: \*nokʷ-t- \
+<!-- COGN: Hitt. nekuz "in the evening" (adv) < \*nekʷ-t-s, Gr. vu�, VUKT6; [f.] "night", Lat. nox, noctis [f.] "id.", Lith. naktis [f.] "id.", OCS nostb [f.] "id." < \*nokʷ-t- \ -->
+<!-- A static t-stem nom. \*n6kʷ-t-s, gen. \*nekʷ-t-s. In view of the formal and semantic similarities with the adjective \*dinkʷa- "dark" (q.v.) < PIE \*dʰengʷ-o-, I assume that the word started out as \*dʰnogʷ-t- in Proto-Indo-European, and lost its initial dental due to dissimilation against the t-suffix. This t-suffix is almost certainly parallel to that of \*leuhada- "light" (q.v.) < \*leukʷ-ot-, cf. Hitt. lukkatt- [c.] "dawn, next morning" < \*l(e)uk-ot-. \ -->
+REF: [EDPG]\: 381
+
+### <a id="nakwan">\*nakwan- [m.] "dugout boat" (n)</a>
+N: \
+-- ON _nǫkkvi_ "ship, dugout" \
+-- Icel. _nökkvi_ "id." \
+-- Far. poet. _nokki_ "small boat" \
+W: \
+-- OE _naca_ "id." \
+-- MDu. _ake_, _aec_ "boat, barge", EDu. _aecke_, _naecke_ "id.", Du. _aak_ [c.] "id." \
+-- OHG _nahho_ "dugout boat", G _Nachen_ "barque" \
+PIE: \*nogʷ-on- \
+<!-- The word has been compared to Skt. naga- "tree trunk" (Liden 1897: 31-7; Torp 1909: 288). Another possibility is to assume that the PGmc. labiovelar developed from a laryngeal before \*u, which would allow for a connection with \*no- "ship" < \*neh₂u- (Kortlandt 1988b: 2 56). \ -->
+REF: [EDPG]\: 382
+
+### <a id="nakweda">\*nakwe/ada- "naked" (adj)</a>
+E: \
+-- Go. _naqaþs_ \
+N: \
+-- ON _nøkkviðr_ \
+-- OSw. _nakuþer_ \
+W: \
+-- OE _nacod_, _næcad_, E _naked_ \
+-- OFri. _naked_, _nakend_, _naken_ \
+-- MDu. _naket_, _nakent_ "id", Du. _naakt_ \
+-- OHG _nackot_, MHG _nacket_, _nackent_, G _nackt_ \
+PIE: \*nogʷ-e/ont- \
+<!-- COGN: Close to Lat. niidus "id." < \*nogʷ-edʰ-o-(?); further cf. Hitt. nekumant "id." < \*negʷ-m-ont-(?), Skt. nagna- "naked" < \*nogʷ-no-, YAv. mayna "id." (from "\*nwog-no-" with labial metathesis), cf. Gr. yuµv6c; "id." < "\*gonw-no-" < \*nogʷ-no-, OIr. nocht, W noeth "id." < \*nogʷ-to-, Lith.. nuogas, Latv. nuogs "id.", OCS nag'b, Ru. nag6j, SCr. obs. nag "id." < \*nogʷ-o- \ -->
+<!-- The IE word for "naked". The origin of the Germanic element \*-e/ad-, ostensibly continuing \*-e/odʰ- is obscure. It has been compared to the dental of Lat niidus, which accordingly has received a reconstruction \*nogʷedʰ(Beekes 1994: 91ff.). I rather assume that both PGmc. \*nakwed- (ON npkkvior) and \*nakwad- (Go. naqaps) as opposed to e.g. MHG nackent and MDu. nakent developed from \*nogʷ-ent- and \*nogʷ-ont- by the dissimilation of the second [n.] The ablaut of the suffix can be accounted for by reconstructing an ablauting nt-stem, eg. \*negʷ-ont, gen. \*ngʷ-nt-6s, acc. \*nogʷ-ent-m (for even older \*negʷ-mont, \*ngʷ-mnt-6s, \*nogʷ-ment-m in view of Hitt. nekumant-?) . The dental-less formation \*nakwana-, as continued by ON nakinn, Far. nakin, Elfd. nakun, Da. nggen adj . "naked", is probably based on the nominative in \*-ont, where the t would regularly be lost in word-final position. As for Lat. niidus, cf. Lat. iidus "wet, soaked" < \*uogʷ-edʰo- (see \*wakwa- "moist"). \ -->
+REF: [EDPG]\: 382
+
+### <a id="namōn">\*namōn- [n.] "name" (n)</a>
+E: \
+-- Go. _namo_, pl. _namna_ \
+N: \
+-- ON _nafn_ \
+-- Far. _navn_ \
+-- Elfd. _nammen_ \
+W: \
+-- OE _nama_ [m.], E _name_ \
+-- OFri. _noma_ [m.] \
+-- OS _namo_ [m.] \
+-- Du. _naam_ [c.] \
+-- OHG _namo_ [m.], G _Name_ [m.] \
+PIE: \*h₃nh̥₃-men- \
+<!-- COGN: Hitt. Iāman- [n.] "name", HLuv. 6.laman- [n.] "id.", Lye. alāman- "id.", ToA fiom, ToB fiem "id.", Skt. n&man-, Av. nāman- [n.] "id.", Gr. ovoµa [n.] "id.", Phryg. onoman "id.", Arm. anun "id.", Alb. emer "id.", OCS im�. Ru. fmja, SCr. l'me [n.] "id.", OPru. emmens "id." \ -->
+<!-- The Indo-European word for "name". In view of the ablaut displayed by the attested forms, the original paradigm is likely to have been proterodynamic, nom. \*h₃neh₃-mn, gen. \*h₃nh₃-men-s. Germanic probably generalized the zero grade root, in which the laryngeal was regularly vocalized. Also cf. Go. namnjan, ON nefna, OE nemnan, OFri. namna, OS nemnian, OHG nemnan, nemman, nennan [wk.] "to call" < \*namnjan-. For an ablauting formation, see \*nomjan-. \ -->
+REF: [EDPG]\: 382
+
+### <a id="nanþjan">\*nanþjan- [wk.] "to dare" (v)</a>
+E: \
+-- Go. _ana-nanþjan_ "to dare, take courage" \
+N: \
+-- ON _nenna_ "to be inclined, willing" \
+-- Far. _nenna_ "to have the heart to" \
+W: \
+-- OE _nēðan_ "to have courage, dare" \
+-- OFri. _nētha_ \
+-- OS _nāthian_ \
+-- OHG _nenden_, MHG _nenden_, _ge-nenden_ \
+<!-- In view of the root-final \*p, this verb is probably a factitive to an unattested adjective \*nanpa- "daring" < \*n6nt-o-; the causative to \*ninpan- would have been \*nandjan- < \*nont-eie-. Further cf. OE noo, OHG nand "rashness" < \*nanpa-. \ -->
+REF: [EDPG]\: 383
+
+### <a id="narwa">\*narwa- "narrow" (adj)</a>
+W: \
+-- OE _nearu_, E _narrow_ \
+-- WFri. _near_ \
+-- OS _naro_, _naru_ \
+-- MDu. _nare_, _naer_, Du. _naar_ "disagreeable, dreary" \
+PIE: \*neh₂r-u- \
+<!-- COGN: Latv. nars [m.] "clamp" < \*noh₂r-o-(?) \ -->
+<!-- An "Ingvaeonic" adjective, possibly related to Latv. nars. If this is correct, the wa-stem may have developed from \*neh₂r-u- by pretonic shortening. Also cf. Nw. naur [m.] "wretch" < \*narwa-, ON nara [wk.] "to dwindle" < \*narojan- and the ablauting Nw. nor [n.] "sound, canal" < \*nora- < \*noh₂r-o-. \ -->
+REF: [EDPG]\: 383
+
+### <a id="nasō">\*nasō- ~ \*nusō- [f.] "nose" (n)</a>
+N: \
+-- ON _nǫs_ "nostril" \
+-- Far. _nøs_, pl. _nasar_ "nose" \
+-- OSw. _nasær_ [f.pl.] \
+W: \
+-- OE _nosu_, E _nose_ \
+-- OFri. _nose_ \
+-- OS _nasa-druppo_ [m.] "cold" \
+-- Du. _neus_ [c.] \
+-- OHG _nasa_, G _Nase_ \
+PIE: \*nh̥₂-s-eh₂- \
+<!-- COGN: Skt. nasci- [f.] "nose", YAv. niT)ha nom.acc.du.(?) "id.", OP nciham acc. "id.", Lat. naris [f.] "nostril", pl. "nose", Lith. n6sis, Latv. nass [f.] "id." < \*neh₂-s-, CS nos'b, Ru. nos, SCr. nos [m.] "id." < \*nh₂-es- \ -->
+<!-- The IE word for "nose". It is traditionally reconstructed as PIE \*nas- with a-vocalism (Pokorny IEW: 755), but Kortlandt 1985a: 119 postulated an ablauting s-stem nom. \*neh₂-s, gen. \*nh₂s-6s, acc. \*nh₂es-m in order to account for the ablaut of e.g. Lith. n6sis (cf. Nw. dial. nos, Elfd. nuos [f.] "snout, muzzle" < \*noso-) < \*neh₂-s- vs. Ru. nos < \*nh₂-es- (cf. Beekes 1995: 180). The origin of the exclusively Germanic ablaut of \*naso- (ON nps, OHG nasa) vs. \*nuso- (OE nosu, OFri. nose, Du. neus) is unclear, but the root \*nus- is likely to have arisen as a secondary zero grade following a remodeling of the original paradigm (cf. Griepentrog 1995: 323-49). Also cf. MLG noster(en), niister(en), G Niister "nostril" < \*nustrf, which possibly continues an old dual PIE \*nh₂s-r-ih₁. \ -->
+REF: [EDPG]\: 383
+
+### <a id="nata">\*nata- "wet" (adj)</a>
+W: \
+-- ODu. _nat_, Du. _nat_ \
+-- OHG _naz_, G _naß_ \
+<!-- COGN: Skt. uncitti, 3pl. undcinti "to well up, moisten" < \*u-n-ed-ti, \*u-n-d-enti \ -->
+<!-- Also cf. the factitive Go. natjan, OHG nazzen, nezzen, G netzen [wk.] "to make wet, wetten". The origin of the word is uncertain, but it is possible that it continues \*ynod-o-, i.e. an o-stem adjective derived from the n-present 3sg. \*uned-ti, 3pl. \*und-enti (Weigand 1909-10: II, 276), as the initial sequence \*yn- could have been simplified to \*n in PGmc. \ -->
+REF: [EDPG]\: 384
+
+### <a id="natja">\*natja- [n.] "net" (n)</a>
+E: \
+-- Go. _nati_ \
+N: \
+-- ON _net_ \
+-- Far. _net_ \
+-- Elfd. _nęt_ \
+W: \
+-- OE _net_, E _net_ \
+-- OS _netti_ \
+-- Du. _net_ \
+-- OHG _nezzi_, G _Netz_ \
+PIE: \*nHd-io- \
+<!-- COGN: Lat nassa [f.] "wicker-work basket", OIr. nassae "bound" < \*nHd-to/eh₂-, Lat. nodus [m.] "node" < \*noHd-o-, OIr. nascaid, MBret. naska "to bind" < \*nHd-ske- \ -->
+<!-- A collective formation to an unattested verbal root \*nat- < \*nHd-, which is also to be found in the ablauting ON n6t, pl. ncetr [f.] "net" < \*n0Hd-eh₂-. See also \*natjo- "caul" and \*naton- "nettle". \ -->
+REF: [EDPG]\: 384
+
+### <a id="natjō">\*natjō- [f.] "caul, omentum" (n)</a>
+N: \
+-- ON _netja_ \
+-- Far. _netja_ \
+W: \
+-- OFri. _nette_, _nitte_ "retina" \
+-- EDu. _net_ "id." \
+-- G _Netzen_ "id." \
+<!-- Derived from \*natja- or the underlying root \*nat-. \ -->
+REF: [EDPG]\: 384
+
+### <a id="natōn">\*natōn- [f.] "nettle" (n)</a>
+N: \
+-- ON _nata_ "spear" \
+-- Far. _nota_ \
+-- Nw. _nata_ \
+-- Gutn. _nata_ \
+PIE: \*nHd-eh₂- \
+<!-- COGN: To OIr. nenaid [f.] "id." < \*ne-nad-i; hardly to Gr. acSiKTt [f.] "nettle" < \*nd-ik-eh₂-(?) \ -->
+<!-- The nettle is a fibrous plant that was used for making nets, whence the etymological connection with \*natja- "net" (q.v.). The form of the word can safely be reconstructed as \*naton-, although Far. nota appears to continue a zero-grade variant \*nuton-. The diminutive \*natilon-, cf. OSw. niitla, niisla, niilla, Sw. niissla, Nw. netla, nesla, Da. nElde, OE netele, netle, netel, E nettle, OHG nezzila, G Nessel, OS netela, MDu. netele, Du. netel is old as well. Outside Germanic, the word reappears in Balto-Slavic and Celtic. Since OPru. noatis "nettle", Pol. nae, Cz. nat' "plant stem", Slov. ncit "id." < \*nat-i- and Lith. ni5tere, Latv. nc'itre "id." < \*nat-r-ieh₂- have t for expected d, however, it is likely that they were borrowed from Germanic. This is preferable over assuming a European Wanderwort or substrate word (cf. EWN [st.] netel), because the link with \*natja- provides the word with a sound etymology. \ -->
+REF: [EDPG]\: 384
+
+### <a id="naustra">\*naust(r)a- [n.] "boathouse, boatshed" (n)</a>
+N: \
+-- ON _naust_ \
+-- Far. _neyst_ \
+-- Nw. _naust(r)_ \
+<!-- Derived from \*no- < \*neh₂u- "boat" (q.v.) with the suffix \*-sta- (variant \*-stra-) < PIE \*-sth₂-o-. \ -->
+REF: [EDPG]\: 384
+
+### <a id="nauta">\*nauta- [n.] "cattle" (n)</a>
+N: \
+-- ON _naut_ "cattle, ox" \
+W: \
+-- OE _nēat_ "ox, cow, cattle" \
+-- OFri. _nāt_ [m.] "animal" \
+-- OS _nōtil_ "domestic animal" (= dim. \*nautila-) \
+-- MDu. _noot_ "cattle, cow" \
+-- OHG _nōz_, G dial. _Noß_ \
+<!-- An a-stem usually derived from \*neutan- "to make use of" (q.v.), an etymology that implies a primary meaning "utilizable cattle", cf. G Nutz-vieh "domestic cattle". Another possibility is to connect MDu. noten [wk.] "to mate (of animals)" < \*(h)nuton-. \ -->
+REF: [EDPG]\: 385
+
+### <a id="nauþi">\*nauþi- [f.] "compulsion, distress" (n)</a>
+E: \
+-- Go. _nauþs_ \
+N: \
+-- ON _nauð_ "need, difficulty, distress" \
+-- Far. _neyð_ "id." \
+W: \
+-- OE _nīed_ "id.", E _need_ \
+-- OFri. _nēd_ "id." \
+-- OS _nōd_ "id." \
+-- Du. _nood_ [c.] "id." \
+-- OHG _not_ "id.", G _Not_ "id." \
+PIE: \*neh₂u-ti- \
+<!-- COGN: Identical to OPru. nautin acc. "need", OIr. nune [f.] "famine", W newyn [m.] "id." < \*neh₂u-en-, Lith. novyti "to oppress, torment, destroy", Cz. poet naviti "to tire" < \*noh₂u-eie- \ -->
+<!-- A ti-stem to the root \*neh₂u-, for which see \*nawi- "corpse". Also cf. Go. nauþjan, ON neyoa, OE niedan, OFri. neda, OS nOdian, OHG noten [wk.] "to force, compel". \ -->
+REF: [EDPG]\: 385
+
+### <a id="nawi">\*nawi- [m.] "corpse" (n)</a>
+E: \
+-- Go. _naus_ \
+N: \
+-- ON _nár_ \
+PIE: \*nh₂u-i- \
+<!-- An i-stem closely related to Lith. nove [f.] "oppression, agony, death", Latv. nave [f.] "death" < \*neh₂u-ieh₂-. As opposed to its cognates, the Germanic form must continue a zero-grade stem \*nb2u-i-, as \*neh₂u-i- would have resulted in \*noi- by the change \*ou > \*o. This alternation points to a PIE ablauting i-stem nom. \*neh₂u-i-s, gen. \*nh₂u-e/6i-s. Further cf. Go. ga-nawistron "to bury", apparently a derivation from \*nawistr [n.] "mortuary(?)" < \*nb2u-i-sth₂-ro-. The latter form is unrelated to \*naust(r)a- "boathouse" (_pace_ Lamb/Mitchell 1991: 85). See also \*naudi-. \ -->
+REF: [EDPG]\: 385
+
+### <a id="nazjan">\*nazjan- [wk.] "to save, heal" (v)</a>
+E: \
+-- Go. _nasjan_, _ga-nasjan_ \
+W: \
+-- OE _nerian_ "to save" \
+-- OFri. _nera_ "to save; to nourish" \
+-- OS _nerian_ "id." \
+-- MDu. _neren_ "to nourish" \
+-- OHG _nerren_, _neren_ "to heal, nourish", G _nähren_ "to nourish" \
+PIE: \*nos-eie- \
+<!-- The causative to \*nesan- (q.v.). See also \*nesta- and \*nozjan-. \ -->
+REF: [EDPG]\: 385
+
+### <a id="ne">\*ne "not" (adv)</a>
+E: \
+-- Go. _ni_ \
+N: \
+-- ON _ne_ \
+W: \
+-- OE _ne_ \
+-- OFri. _ne_, _ni_, _en_ \
+-- MDu. _ne_, _en_ \
+-- OHG _ne_, _ni_, MHG _ne_, _en_ \
+PIE: \*ne \
+<!-- COGN: Skt. na "not" (adv), Lith., Latv. ne, OCS, Ru., SCr. ne "id." (adv) \ -->
+<!-- The IE negation adverb. \ -->
+REF: [EDPG]\: 385
+
+### <a id="nēan">\*nēan- [st.] "to sew" (v)</a>
+W: \
+-- MDu. _naeyen_ [wk.], Du. _naaien_ [wk.] \
+-- OHG _nāan_, _nājan_, _nāwan_, G _nähen_ [wk.] \
+PIE: \*néh₁-e- \
+<!-- COGN: Gr. vtw "to spin", Lat. neo, nere "id.", OIr. sniid "to tie", W nyddu "to spin" < \*sneh₁-e-, Ru. nit', SCr. nl't [f.] "thread", Lith. nytis, Latv. nitis [f.] "(warp) thread" < \*nh₁i-ti- (a ti-stem derived from an unattested i-present \*nh₁-ei-ti, \*nh₁-i-entl) \ -->
+<!-- A strong verb derived from a PIE root \*(s)neh₁-. The absence of the initial s in Germanic is unexplained (and therefore called s mobile), but is paralleled by Ru. nit' and Lith. nytis. See also \*neplo- "needle". \ -->
+REF: [EDPG]\: 385
+
+### <a id="nebala">\*nebala- [m.] "fog" (n)</a>
+W: \
+-- OFri. _nevil_, _newil_ \
+-- OS _neƀal_ "fog, darkness" \
+-- Du. _nevel_ [c.] "mist" \
+-- OHG _nebul_ "fog, darkness", G _Nebel_ "id." \
+PIE: \*dʰnebʰ-(e/o)l-o- \
+<!-- COGN: CLuv. tappas-, HLuv. tipas- [n.] "heaven", Skt. nibhas [n.] "cloud", Gr. vtcpo; [n.] "cloud", OCS nebo, gen. nebese [n.] "sky", Lith. debesis [f.] "sky, heaven" < \*(dʰ)nebʰ-es-, Gr. vEcp£A.t] [f.], Lat. nebula [f.] "id.", OIr. nel, W niwl "cloud" < \*(dʰ)nebʰ-el-eh₂-; perhaps also here: Gr. Bv6cpo; [m.] "darkness" < PGr. \*LVocpo; < \*dʰnogʷʰ_o- (with Bv- as a dialectal reflex of PGr. \*TV-) \ -->
+<!-- An l-extension to PIE \*nebʰ-os, gen. \*mbʰ-es-os "cloud, sky" (continuing older \*dʰnebʰ-os, \*dʰmbʰ-es-os, see \*dimban- ~ \*dimpan- < \*dʰembʰ-e-). It is difficult to identify the vowel that preceded the I (if there was one) due to possible West Germanic anaptyxis and cross-dialectal vowel mergers in unstressed final syllables. OHG nebul continues either \*nebla-, \*nebela- or \*nebala-, but not \*nebula-, which would have resulted in \*\*nibul with raising of e to i. The usually adduced ON poet. nj61 [f.] "night" can be derived from both \*neba!O- and \*nebu!O- (cf. ON bj6rr "beaver" < \*bj{Jfurr < \*bebura- 1). I therefore provisionally reconstruct the root as \*nebal-, although it cannot be excluded that Proto-Germanic had two different ablauting forms, e.g. \*nebul- vs. \*nebel- (cf. Gr. vEcptA.T)). Further cf. OE nifol, ON nifl- "dark" < \*nebila-. \ -->
+REF: [EDPG]\: 386
+
+### <a id="nēdrōn">\*nēdrōn- [f.] "viper" (n)</a>
+W: \
+-- OE _nǣ̆dre_, _næddre_ (also Nrth. _neder_ [m.] < \*nēdra-), E _adder_ \
+-- WFri. _njirre_ [c.], EFri. _needer_ \
+-- OS _nādra_, _nādara_ \
+-- MDu. _nadre_, _addre_, _adder_, Du. _adder_ [c.] \
+-- OHG _nā̆t(a)ra_, G _Natter_ \
+PIE: \*neh₁tr-éh₂- \
+<!-- A formation ablauting with \*nadra- (q.v.). \ -->
+REF: [EDPG]\: 386
+
+### <a id="nefan">\*nefan- [m.] "nephew, cousin" (n)</a>
+N: \
+-- ON _nefi_ "relative" \
+W: \
+-- OE _nefa_ "nephew, grandson, stepson" \
+-- OFri. _neva_, _newa_, _nia(u)wa_, _nōwa_ "nephew" \
+-- MDu. _neve_ "relative, nephew, cousin", Du. _neef_ [c.] "nephew, cousin" \
+-- OHG _nefo_, _nevo_ "grandson, descendant, cousin, nephew", G _Neffe_ "nephew" \
+PIE: \*nep-ot- \
+<!-- COGN: Skt. nipat-, OAv. naftu loc.pl.m. (< Pllr. \*napt-su), YAv. napti, acc. napiitam, naptiiram, gen. nafatsro, OP napii "grandson", OIr. nfa, gen. niad "cousin", W nei, nai "id.", OLith. nepuotis "grandson, granddaughter", Alb. nip "grandson, nephew" \ -->
+<!-- A PIE t-stem nom. \*nep-ot, gen. mp-t-6s. The dental was lost word-finally in the nominative. The resulting form \*nefo subsequently triggered the transfer to the n-stems. See also \*neftf-. \ -->
+REF: [EDPG]\: 386
+
+### <a id="neftī">\*neftī- [f.] "niece, cousin" (n)</a>
+N: \
+-- ON _nift_ "female relative, sister" \
+W: \
+-- OE _nift_ "niece; grand-daughter; step-daughter" \
+-- OFri. _nift(e)_, neft "niece, cousin" \
+-- MDu. _nichte_ "relative, niece, cousin", Du. _nicht_ [c.] "niece, cousin" \
+-- OHG _nift_ "niece", G _Nichte_ "id." \
+PIE: \*nep-t-ih₂ \
+<!-- COGN: Skt. naptf- "daughter, granddaughter", YAv. napti- [f.] "granddaughter", Alb. mbese "niece", Lith. nepte [f.] "granddaughter", RuCS nestera [f.] "niece" < \*nep-t-ih₂- \ -->
+<!-- The feminine equivalent of \*nefan- (q.v.). The zero grade of the suffix is expected in formations with the ih₂-suffix, cf. within Germanic e.g. Elfd. ynn [f.] "female grouse" < \*urzni- to \*urzan- (q.v.). \ -->
+REF: [EDPG]\: 387
+
+### <a id="nēhwa">\*nēhwa- "near" (adj)</a>
+E: \
+-- Go. _neƕ_ (adv) \
+N: \
+-- ON _ná-_ (pref) \
+W: \
+-- OE _nēah_ (adv/prep), E _nigh_ \
+-- OFri. _nei_ "to" (prep) \
+-- OS _nāh_ "id." (adv) \
+-- Du. _na_ "id." (adv) \
+-- OHG _nāh_ "id.", G _nahe_ (adv/prep) "id." \
+<!-- A lengthened-grade adjective derived from the PIE root \*h₂nek- "to reach", for which see \*nugan- "to suffice". \ -->
+REF: [EDPG]\: 387
+
+### <a id="neman">\*neman- [st.] "to take" (v)</a>
+E: \
+-- Go. _niman_ \
+N: \
+-- ON _nema_ "to take (possession of); to touch; to learn" \
+-- Far. _nema_ "to touch; to learn" \
+W: \
+-- OE _niman_ \
+-- OFri. _niman_ \
+-- OS _neman_, _niman_ \
+-- Du. _nemen_ \
+-- OHG _neman_, G _nehmen_ \
+PIE: \*kom-h₁em-e- \
+<!-- COGN: Lat. emo, -ere "to take, buy", OIr. ar-fofm "to receive, allow" < \*ari-wo-em- < \*h₁em-, Lith. imti (imu) "to take", Latv. jemt "id.", OPru. imt "id.", OCS j�ti (imp) "to take", Ru. dial. jat' "id.", SCr. jeti "id." < \*h₁m- \ -->
+<!-- A verb back-formed to the perfective form \*ga-neman-, which started out as \*gan-eman- < \*kom-h₁em-e- (Kortlandt 1992: 104). Unrelated to Gr. v£µw "to distribute" < \*nem-e- and cognates. See also \*nemi-. \ -->
+REF: [EDPG]\: 387
+
+### <a id="nēmi">\*nēmi- "takeable, acceptable" (adj)</a>
+E: \
+-- Go. _anda-nems_ "pleasant" \
+N: \
+-- ON _næmr_ "quick at learning; deprived of" \
+-- Far. _næmur_ "apt, quick" \
+W: \
+-- MDu. _ge-name_ "pleasant" \
+-- OHG _nāmi_ "acceptable", G _ge-nehm_ "acceptable, convenient" \
+<!-- A _vr̥ddhi_-gerundive to \*neman- (q.v.). \ -->
+REF: [EDPG]\: 387
+
+### <a id="nesan">\*nesan- [st.] "to save, heal; to be saved" (v)</a>
+E: \
+-- Go. _ga-nisan_ \
+W: \
+-- OE _nesan_, _ge-nesan_ "to be saved, survive" \
+-- OS _gi-nesan_ "to be saved" \
+-- Du. _ge-nezen_ "to heal; to recuperate" \
+-- OHG _gi-nesan_ "id.", G _ge-nesen_ "id." \
+PIE: \*nés-e- \
+<!-- COGN: Skt. nasate "to come together (at home), join", Gr. vfoµm "to return home, to arrive happily, to get off (from trouble)" < \*nes-e-, Gr. v6cnoc; [m.] "returning home" < \*nos-to- \ -->
+<!-- A strong verb whose meaning "to be saved" beside "to heal, save" appears to have arisen in medio-passive use. See also \*nesta-, \*nazjan- and \*nozjan-. \ -->
+REF: [EDPG]\: 387
+
+### <a id="nesta">\*nesta- [n.] "food" (n)</a>
+N: \
+-- ON _nest_ "provisions" \
+W: \
+-- OE _nest_ "nourishment" \
+-- OHG _wega-nest_ "traveling provisions" \
+PIE: \*nes-to- \
+<!-- Derived from \*nesan- (q.v.). \ -->
+REF: [EDPG]\: 388
+
+### <a id="neþan">\*neþan- [st.] "to grant safety(?)" (v)</a>
+E: \
+-- Go. _niþan_ "to unite (in consanguinity), help" \
+PIE: \*net-e- \
+<!-- COGN: Perhaps to ToA nati, ToB nete "might, strength" < \*not-o- \ -->
+<!-- The evidence clearly implies a PIE root \*net-, which finds an excellent parallel in PTo. \*nete (Adams 1999: 342). Within Germanic, I consider \*nepja- "relative" < \*net-io- to be cognate. The original meaning of the word must have been "to offer protection", i.e. to relatives and people within the clan. See further \*nep6-. \ -->
+REF: [EDPG]\: 388
+
+### <a id="neþja">\*neþja- [m.] "relative" (n)</a>
+E: \
+-- Go. _niþjis_ "kinsman" \
+N: \
+-- ON _niðr_ "son, kinsman, relative" \
+W: \
+-- OE _niþþas_, _niþas_ [m.pl.] "men" \
+PIE: \*nét-io- \
+<!-- The word is often derived from PIE \*nep-t-io- (for which see \*nefan"nephew, cousin"), but the implied cluster reduction is ad hoc and must be rejected. Equally uncertain is the connection with Skt. nftya- "innate". In my view, the likeliest scenario is that the word was derived from the PIE root \*net- as found in PGmc. \*nepan- "to offer protection" (q.v.). Presumably, a PIE \*net-io- was a clan-member, i.e. someone under the patron's protective sphere. A possible feminine form \*nepj6- can be identified in the MDu. suffix -nede, swasenede "sister-in-law" < \*swesa-nepj6- and enede "wife" < \*aiw6-nepjo- (but see \*magapi- for a different explanation). \ -->
+REF: [EDPG]\: 388
+
+### <a id="nēþlō">\*nēþlō- [f.] "needle" (n)</a>
+E: \
+-- Go. _neþla_ \
+N: \
+-- ON _nál_ \
+-- Far. _nál_ \
+-- Elfd. _ną̊l_ \
+W: \
+-- OE _nǣþl_, _nǣdl_, E _needle_ \
+-- OFri. _nēdle_, _nēlde_ \
+-- OS _nāthla_, _nādla_ \
+-- MDu. _naelde_, Du. _naald_ [c.] \
+-- OHG _nādala_, _nālda_, G _Nādel_ \
+PIE: \*neh₁-tlo- \
+<!-- An instrumental noun derived from the originally strong verb \*nean(q.v.) . The cluster \*-pl- was metathesized to \*-Ip- in various WGm. dialects, cf. OHG nalda, MDu. naelde, Du. naald as well as in the NGm. formation Icel. sncelda [f.] "spindle" < \*snedlj6n- (with s mobile?). The latter form shows the effects of Verner's law. \ -->
+REF: [EDPG]\: 388
+
+### <a id="nēþō">\*nēþō- [f.] "mercy, safety" (n)</a>
+N: \
+-- ON _náð_ "grace, mercy; rest, peace, quietness" \
+W: \
+-- OFri. _nēthe_, _nāthe_ "mercy, protection, peace, privilege" \
+-- OS _(ge-)nātha_ "id." \
+-- Du. _ge-nade_ [c.] "id." \
+-- OHG _gi-nāda_ "id.", G _Gnade_ "id." \
+PIE: \*net-eh₂- \
+<!-- COGN: Skt. natha- [m.] "refuge, help" < \*net-h₁-o- \ -->
+<!-- A formation close to Skt. natha-. The word was derived from the PIE root \*net- "to protect, favor", for which see \*nepan-. \ -->
+REF: [EDPG]\: 388
+
+### <a id="neuhsjan">\*neuhsjan- [wk.] "to search out" (v)</a>
+E: \
+-- Go. _bi-niuhsjan_ "to scout out, spy out" \
+N: \
+-- ON _nýsa_ "id." \
+W: \
+-- OE _nēosan_ \
+-- OS _niusian_ "to try" \
+-- OHG _niusen_ "id." \
+PIE: \*neuks-ie- \
+<!-- COGN: Ru. njuxat' "to smell, sniff" < \*neu(k)s-eh₂-ie-, SCr. njusiti "to sniff" < \*neu(k)s-ie- (= \*neuhsjan-) \ -->
+<!-- A root restricted to Germanic and Slavic. Its structure is unclear. Possibly, PGmc. \*neuhs- contains the PIE roots \*nu(H) "now" or \*neu- "new", but the origin of the second element \*-hs- is obscure. Perhaps, it can be compared to Lat. careo "to want" < \*ḱs-ie-. Within Germanic, further cf. ON nj6sn [f.] "spying, scouting; news" < \*neuhsini-. \ -->
+REF: [EDPG]\: 389
+
+### <a id="neuja">\*neuja- "new" (adj)</a>
+E: \
+-- Go. _niujis_ \
+N: \
+-- ON _nýr_ \
+-- Far. _nýggjur_ \
+-- Elfd. _ny(r)_ \
+W: \
+-- OE _nīwe_, _nēowe_, E _new_ \
+-- OS _niuwi_ \
+-- Du. _nieuw_ \
+-- OHG _niuwi_, G _neu_ \
+PIE: \*neu-io- \
+<!-- COGN: Gr. Ion. VELO) "new" < \*neu-io-, Skt. narya- "new, fresh, young", OIr. nuae, W newydd "id." < \*ne/ou-io-, Lith. naujas "id.", Ru. n6ryj, SCr. nov "id." < \*nou-(i)o-, Hitt. neya- "new, fresh", ToA iiu, ToB fiuwe "new", Skt. nava-, YAv. nauua- "new, young", Gr. vfo; "new", Lat. novus "id." < \*neu-o- \ -->
+<!-- An adjective of IE origin, probably derived from the adverb \*nu "now" (q.v.). See also \*neuhsjan-. \ -->
+REF: [EDPG]\: 389
+
+### <a id="neuran">\*neura/ōn- [n./m.] "kidney" (n)</a>
+N: \
+-- ON _nýra_ [n.] \
+-- Far. _nýra_ [n.] \
+-- OSw. _niura_ [f.] \
+-- Elfd. _niųora_ [n.] \
+W: \
+-- ME _nēre_ \
+-- MDu. _niere_ [f.], Du. _nier_ [c.] \
+-- OHG _nioro_ [m.], G _Niere_ [f.] \
+PIE: \*negʷʰr-on- \
+<!-- COGN: Gr. vEq>poi [m.pl.] "kidneys" < \*negʷʰ-ro-, Lat. nefrones [m.pl.] "kidneys, testicles" < \*negʷʰ-ron- \ -->
+<!-- An organ name with clear cognates in Greek and Latin. The umlaut of ON nyra (vs. unfronted OSw. niura) is difficult to explain, but may have been triggered by a dative ending \*-er-i. The umlaut doublet is parallel, at any rate, to ON lifr vs. OSw. lyr "liver" (see under \*libro-). \ -->
+REF: [EDPG]\: 389
+
+### <a id="neutan">\*neutan- [st.] "to make use of, enjoy" (v)</a>
+E: \
+-- Go. _niutan_ "to acquire use of, attain, enjoy" \
+N: \
+-- ON _njóta_ "to use; to enjoy" \
+-- Far. _njóta_ "to enjoy; to keep, retain" \
+-- Elfd. _niųota_ "to enjoy" \
+W: \
+-- OE _nēotan_ "to enjoy; to make use of" \
+-- OS _niotan_ "id." \
+-- Du. _ge-nieten_ "to enjoy" \
+-- OHG _niozan_ "to use; to enjoy", G _ge-nießen_ "to enjoy" \
+PIE: \*neud-e- \
+<!-- COGN: Lith. nauda [f.] "property" < \*noud-eh₂- \ -->
+<!-- A strong verb related to \*nauta- and \*nuti-. \ -->
+REF: [EDPG]\: 389
+
+### <a id="newun">\*newun- "nine" (num)</a>
+E: \
+-- Go. _niun_ \
+N: \
+-- ON _níu_ \
+-- Far. _níggju_ \
+-- Elfd. _niu_ \
+W: \
+-- OE _nigon_, E _nine_ \
+-- OFri. _niugun_, _niugen_, _niogen_, _nigun_ \
+-- OS _nigun_ \
+-- Du. _negen_ \
+-- OHG _niun_, G _neun_ \
+PIE: \*h₁néun \
+<!-- COGN: ToAB fiu, Skt nava, YAv. nauua, MP no, Gr. fvvfo, Lat novem, OIr. nof, OW nauou, MW naw, Lith. devyni, Latv. devil)i, devil)i, OCS dew;tb, Ru. devjat', SCr. devet, Alb. nente "id." (num) < \*h₁neun (also \*h₁neum after \*def{m "ten"), Arm. inn "id." (num) < \*h₁nun (with zero grade from the ordinal) \ -->
+<!-- The PIE cardinal "nine". The velarization of the \*w in West Germanic (cf. e.g. \*su- ~ \*suw- "sow") points to a secondary form \*niwun with a raised vowel, as velarization only occurred between two high vowels of which one was rounded (Kroonen 2011b). The West Germanic raising of \*e was regular before \*u in the next syllable. See also \*newunþ/dan-. \ -->
+REF: [EDPG]\: 389
+
+### <a id="newunþan">\*newunþ/dan- "ninth" (num)</a>
+E: \
+-- Go. _niunda_ \
+N: \
+-- ON _níundi_ \
+-- Far. _níggjundi_ \
+-- Elfd. _niund_ \
+W: \
+-- OE _nigoða_ \
+-- OFri. _niugunda_, _niugende_, _niogenda_ \
+-- OS _nigundo_, _nigutho_ \
+-- Du. _negende_ \
+-- OHG _niunto_, G _neunte_ \
+PIE: \*h₁neun-tHó- \
+<!-- COGN: ToB fiunte, Lith. devifitas, Latv. devft(ai)s, OPru. newints, OCS dew;to, Ru. devjatyj, SCr. deveti, Alb. nente / niinte "ninth" (num) < \*h₁neun-tHo-, Gr. £vaToc;, Ion. a:'(vaTOc; < \*h₁nun-tHo-, Lat. nonus "id." (num) < \*h₁neun-Ho-, OIr. nomad, W nawfed < \*h₁neum-etHo-, Skt. navama-, YAv. naoma-, nauma-, OP navama- "id." (num) < \*h₁neun-mHo- \ -->
+<!-- The ordinal pertaining to \*newun "nine". The Germanic form goes back to a full-grade root \*h₁neun, but PIE probably had a zero grade formation \*h₁nun-(t)H6-. \ -->
+REF: [EDPG]\: 390
+
+### <a id="nidwō">\*nidwō- [f.] "downfall(?)" (n)</a>
+E: \
+-- Go. _nidwa_ "corrosion, decay" \
+N: \
+-- ON _nið_ [f.pl.] "new moon; darkness" \
+-- Far. _niða_ "id." \
+PIE: \*ni-tueh₂- \
+<!-- A tuhz-stem derived from the PIE adverb \*ni "down", for which see \*nipera-. Also cf. OE nia [n.] "abyss" < \*ni-to-. \ -->
+REF: [EDPG]\: 390
+
+### <a id="nikwasa">\*nikwas/za- [m.] "water monster" (n)</a>
+N: \
+-- ON _nykr_ "hippopotamus, water being" \
+-- Far. _nykur_ "water elf" \
+W: \
+-- OE _nicor_ "hippopotamus; water-monster" \
+-- MDu. _nicker_ "water-sprite" \
+-- OHG _nihhus_, _nichus_ [m./n.] "water-sprite, crocodile", MHG _niches_, _nickes_ [m./n.] "water-sprite", G _Nix_ "river merman" \
+<!-- The geminate of OHG nickus points to \*nikwasa- < \*nigʷ-os-o- with a vowel behind the labiovelar. In combination with the Verner variant ON nykr, OE nicor < \*nikwaza-, it can therefore be surmised that the original inflection was athematic, e.g. PIE nom. \*nfgʷ-os, gen. \*nigʷ-s-6s, acc. \*nigʷ-6s-m > PGmc. \*nikwo, \*nikuzaz, \*nikwasun. The stem \*nikwas- gave rise to the feminine derivative OHG nickessa, MHG nixe, G Nixe [f.] "female water spirit" < \*nikwasjo-. \ -->
+<!-- Outside Germanic, the word is usually compared to Skt. nenekti "to wash, cleanse", YAv. naeniiaiti 3sg.intens. "to wash down" < \*nei-noigʷ- and Gr. vi�w "to wash, to clean", OIr. nigim "to wash" < \*nigʷ-ie- (the latter with -gwj> \*-gj-). It is conceivable that the Germanic form continues the regular PIE perfect participle \*nigʷ-uos-, but the reconstruction of a masculine s-stem is more straightforward. \ -->
+REF: [EDPG]\: 390
+
+### <a id="ninþan">\*ninþan- [st.] "to dare" (v)</a>
+W: \
+-- OHG _gi-nindan_ \
+PIE: \*nént-e- \
+<!-- COGN: OIr. neit [m.] "battle, combat, fighting" < \*n!'t-i- \ -->
+<!-- A strong verb to a root only occurring in Germanic and Celtic. See also \*nanpjan-. \ -->
+REF: [EDPG]\: 391
+
+### <a id="nista">\*nista- [n.] "nest" (n)</a>
+W: \
+-- OE _nest_, E _nest_ \
+-- Du. _nest_ \
+-- OHG _nest_, G _Nest_ \
+PIE: \*ni-zd-o- \
+<!-- COGN: Skt. nlcjci- [m./n.] "nest, lair, bird's nest", Arm. nist "residence, settlement", Lat. nldus [m.] "nest", MIr. net, W nyth "nest, dwelling", Lith. lizdas, Latv. ligzds [m.] "nest", OCS gnezdo, Ru. gnezd6, SCr. gnijezdo [n.] "id." \ -->
+<!-- A formation generally analyzed as consisting of the PIE adverb \*ni "down" (see \*nipera-) and the zero grade of the root \*sed- "to sit" (cf. \*setOJan-). \ -->
+REF: [EDPG]\: 391
+
+### <a id="niþera">\*niþera- "down" (adv)</a>
+N: \
+-- ON _niðr_ \
+-- Far. _niður_ \
+-- Elfd. _niðer_ \
+W: \
+-- OE _niþer_ \
+-- OFri. _nither_ \
+-- OS _niđar_ \
+-- Du. _neer_ \
+-- OHG _nidar_, G _nieder_ \
+PIE: \*nf-tero- \
+<!-- COGN: Skt. nitar&m "down, downwards" (adv) < \*ni-tero-, Av. nitama- superl. "lowest" < \*ni-tmH-o- \ -->
+<!-- An adverb created to PIE \*ni- "down(wards)" (Skt. nf, Av. nl, Arm. n-) with the contrastive suffix \*-tero-. See also \*nista- and \*nidwo-. \ -->
+REF: [EDPG]\: 391
+
+### <a id="nō">\*nō- [m.] "ship" (n)</a>
+N: \
+-- ON _nór_ \
+-- Icel. _nór_ "tempering trough" \
+-- Nw. _no_, _nu_ "wooden bowl" \
+PIE: \*neh₂u- \
+<!-- COGN: Skt. nau- [f.] "boat", NP nciv "id.", Oss. naw I nawa? "id." (also cf. Skt. ncivcijci-, YAv. nauuciza- [m.] "skipper" < \*neh₂u-h₂og-o-), Gr. vai;, Ion. vriu; [f.] "ship", Lat. ncivis [f.] "id.", OIr. nau [f.] "id.", W noe "large vase" \ -->
+<!-- An ancient IE word for "boat" or - more specifically - "dugout boat". The development of PGmc. \*-ou- to \*-o- was regular in open syllables, but the \*u in this particular word may also have been assimilated by the ending -m in the PIE accusative form \*neh₂u-m, cf. \*gʷeh₃-u-m acc. "cow" > Gr. Dor v, Skt. g&m. Also cf. OE nowend [m.] "skipper" < \*noand- (with W filling the hiatus). \ -->
+REF: [EDPG]\: 391
+
+### <a id="nōga">\*nōga- "enough" (adv)</a>
+E: \
+-- Go. _ga-nohs_ \
+N: \
+-- ON _gnógr_, _nógr_ \
+-- Far. _nógvur_ "much" \
+W: \
+-- OE _ge-nōh_, E _enough_ \
+-- OFri. _enōch_ \
+-- OS _gi-nōh_, _gi-nōg_ \
+-- Du. _ge-noeg_ \
+-- OHG _gi-nuog_ (adj/adv), G _ge-nug_ \
+<!-- A lengthened grade adjective derived from \*nugan- "to suffice" (q.v.). \ -->
+REF: [EDPG]\: 391
+
+### <a id="nōmjan">\*nōmjan- [wk.] "to call, give a name" (v)</a>
+W: \
+-- MDu. _noemen_, Du. _noemen_ \
+-- MHG _be-nüemen_ \
+<!-- A weak verb derived from \*namon- (q.v.). The formation preserves the original full grade of the root, which was otherwise lost in Germanic (cf. Neri 2005: 234-5). Note that OFri. nomia cannot belong here, as \*nomjanwould have given \*\*nema in this language. I therefore assume that it represents nomia, which together with OE ge-namian, E to name continues \*namojan-. \ -->
+REF: [EDPG]\: 391
+
+### <a id="nōtan">\*nōtan- [m.] "rear (of a ship)" (n)</a>
+E: \
+-- Go. _nota\*_ "afterdeck, stem, rear of a ship" \
+PIE: \*neh₃t-on- \
+<!-- COGN: Cognate with Gr. vGnov [n.] "back" < \*noHt-o- and Lat. natis [f.] "rump, buttocks" < \*nljt-i- (cf. Torp 1909: 298) \ -->
+<!-- Attested only once in Gothic as the dat. notin. The correspondence of PIE \*t with root final PGmc. \*t points to a geminate that was shortened in superheavy syllables. This geminate probably arose in the PIE n-stem paradigm nom. \*n6Ht-on, gen. \*noHt-n-6s > PGmc. \*nopo, \*notaz. For alternative interpretations, see Lehmann 1986: 269. There is no etymological relation with PGmc. \*no- "ship" (q.v.). \ -->
+REF: [EDPG]\: 392
+
+### <a id="nōzjan">\*nōzjan- [wk.] "to refresh, nourish" (v)</a>
+N: \
+-- ON _nœra_ \
+-- Far. _nøra_ "to bring up, rear; to increase" \
+<!-- A causative created to an unattested o-grade intensive verb \*nasan- < \*n6s-e-, cognate of \*nesan- "to be saved, cured" and \*nazjan- "to save, cure, feed" (q.v.). The ablaut proportion was productive, cf. the creation of \*forjan- "to lead" to \*faran- "to go" and \*goljan- "to greet" to \*galan- "to shout" (q.v.). Unrelated to ON nara [wk.] "to dwindle" \*naro(ja)n- (_pace_ De Vries 1962: 405) as the required \*nazojan- would have given ON \*\*nera by R-mutation. \ -->
+REF: [EDPG]\: 392
+
+### <a id="nū">\*nū "now" (adv)</a>
+E: \
+-- Go. _nu_ \
+N: \
+-- ON _nú_ \
+-- Far. _nú_, obs. _núgv_ \
+-- Elfd. _nų_ \
+W: \
+-- OE _nū_, E _now_ \
+-- OFri. _nū_ \
+-- MDu. _nu_, Du. _nu_, _nou_ \
+-- OHG _nū̆_, _nun_, G _nun_ \
+PIE: \*nu \
+<!-- COGN: Hitt. nu "now, and" (conj), Skt. nu, nu (adv/conj) "now, just, but", Av. nil "now" (adv) \ -->
+<!-- An IE adverb, to be reconstructed as \*nu. The vowel often became lengthened in the individual daughter languages due to the frequent occurrence of the word in stressed position. Note that OHG nun may correspond directly to Gr. vuv, Skt. niinam, NP niin "now" (adv). Also cf. \*neuja- "new". \ -->
+REF: [EDPG]\: 392
+
+### <a id="nugan">\*nugan- [pp.] "to suffice" (v)</a>
+E: \
+-- Go. _ga-nauhan_, 3sg. _ga-nah_ \
+W: \
+-- OE _ge-nugan_, 3sg. _ge-neah_ \
+-- OHG _gi-nugan\*_, 3sg. _ge-nah_ \
+PIE: \*h₂no1- \
+<!-- COGN: ToA ents-, ToB enk- "id." \*h₂(o)n1(-ske)-, Skt. a5n6ti "to reach, attain", YAv. -asnaoiti "id." < \*h₂n1-neu-, Lat. nancfscor, -f "to acquire, get" < \*h₂ne-h₂nk-, OIr. -ic "to come", Arm. hasanem "to arrive" < \*h₂n1- \ -->
+<!-- A preterite-present 3sg. \*ga-nahe, 3pl. \*ga-nugunp < PIE \*-h₂nolf-e, \*-h₂nlf-nt (with remodeling of the zero grade). The 3sg. form was borrowed into Balto-Slavic, cf. Lith. gana, gan "enough" (adv), where it gave rise to a number of secondary formations, e.g. Lith. ganJti, OCS goneti "to suffice". See also \*nehwa- and \*noga-. \ -->
+REF: [EDPG]\: 392
+
+### <a id="nurþera">\*nurþera- "north, northwards" (adv)</a>
+N: \
+-- ON _norðr_ \
+-- Far. _norður_ \
+-- Elfd. _norter_ \
+W: \
+-- OFri. _norther_ \
+-- MDu. _norder_ \
+-- MHG _norder_ \
+PIE: \*h₁nŕ̥-tero- \
+<!-- COGN: ToB nor "below" < \*h₁neru-(?), Gr. £vEpOL "those below, those below the earth" < \*h₁ner-o- (also cf. Gr. £v£p-rEpoc;, v£pnpoc; "below (the earth)", Umb. nertru 1eft', Osc. nertra-k "id." < \*h₁ner-tero-); unrelated to Lith. nerti (neriu) "to dive, sink" < \*nerH-ie- \ -->
+<!-- An adverb derived from a root \*h₁ner- with the contrastive \*tero-suffix. In Germanic, the meaning "north" seems to have developed from "below" or "left", which reveals a geographical orientation towards the rising sun. See also \*sunpera- "south". \ -->
+REF: [EDPG]\: 393
+
+### <a id="nuti">\*nuti- "useful" (adj)</a>
+E: \
+-- Go. _un-nuts_ "useless, unavailing" \
+W: \
+-- OE _nyt_ \
+-- OFri. _nette_ \
+-- OS _nutti_ \
+-- MDu. _nutte_ \
+-- OHG _nuzzi_, MHG _nütze_ \
+<!-- An i-stem adjective (gerundive?) to the strong verb \*neutan- (q.v.). In WGm., it was remodeled into aja-stem, which again gave rise to OE nyttian, OFri. bi-netta, OHG nuzzen [wk.] "to make use of" < \*nutjojan-. Also cf. OHG nuz, G Nutzen [m.] "use" < \*nutja- and ON nyt, OE nytt [f.] "id." < \*nutjo-. \ -->
+REF: [EDPG]\: 393
+
+### <a id="nuttōn">\*nut(t)ōn- [wk.] "to drive" (v)</a>
+N: \
+-- Nw. _not(t)a_ "to drive (a horse)" \
+PIE: \*nud-neh₂- \
+<!-- COGN: Skt nudciti "to push, thrust, impel" < \*nud-e-, OCS nuditi "to force", Ru. dial. nudit' "to compel, force", SCr. nuditi "to offer, incite, invite" < \*n6ud-eie- \ -->
+<!-- An iterative 3sg. \*nuttopi, 3pl. \*nutunanpi continuing PIE \*nud-neh₂-ti, \*nud-nh₂-enti. See also \*hnutt/don- 2. \ -->
+REF: [EDPG]\: 393
