@@ -20710,3 +20710,1008 @@ W: \
 -- MDu. _poten_ "id.", Du. _poten_ "id." \
 <!-- A weak verb closely related to OE pjitan [wk.] "to push, poke, thrust, put", E to put < \*putjan- and Nw. dial. pauta [wk.] "to stick" < \*pauton-. The secondary nature of the root-final t is revealed by the frequentative MLG podderen "to bicker", MDu. poderen, puederen "to root; to bother", Du. peuren "to blend" (vs. Du. peuteren "to poke"). Together, all these forms point to an iterative verb 3sg. \*puttopi, 3pl. \*pudunanpi < \*but/dʰ-neh₂-. This iterative has no further etymology, and I assume that it was originally onomatopoetic. \ -->
 REF: [EDPG]\: 401
+
+## R
+
+### <a id="rada">\*rada- "fast(?)" (adj)</a>
+E: \
+-- Go. _raþs_ "effortless, facile, easy" \
+W: \
+-- OE _ræd_ "fast" \
+-- Du. _rad_ "fast" \
+PIE: \*Hrot-ó- \
+<!-- COGN: OIr. reithid "to run, flow" < \*Hret-e- \ -->
+<!-- Possibly related to \*rapa- "wheel" (q.v.). The adjective became conflated with \*h₂apa- ~ \*h₂ada- "fast", cf. OE hrCEo, OHG hrad, probably already in Proto-Germanic. \ -->
+REF: [EDPG]\: 401
+
+### <a id="radō">\*radō- [f.] "row" (n)</a>
+N: \
+-- ON _rǫð_ \
+-- Elfd. _rað_ "row, line" \
+W: \
+-- MLG _rat_ "line, order(?)" \
+PIE: \*Hrh̥₁dʰ-eh₂- \
+<!-- Probably related to the strong verb \*redan- "to decide" (q.v.), thus pointing to a primary meaning "to order", whence "to analyze", etc. Also cf. \*hund-rada- "hundred" ( [st.] \*hunda- 1), which contains a neuter variant \*rada- as continued by e.g. Far. rao [n.] "row, line, rank". \ -->
+REF: [EDPG]\: 401
+
+### <a id="ragina">\*ragina- [n.] "decision" (n)</a>
+E: \
+-- Go. _ragin_ "opinion, law, decree, task, responsibility" \
+N: \
+-- ON _regin_ [n.pl.] "the ruling powers, the gods" \
+W: \
+-- OS _regina-giskapu_ "fate" \
+PIE: \*Hrok-én-o- \
+<!-- COGN: OCS rok'b [m.] "time", Ru. rok [m.] "fate", SCr. rok [m.] "period, time" < \*Hrok-o- \ -->
+<!-- In view of the internally Germanic cognates Go. ga-rehsns [f.] "decision" and Go. rahnjan\* [wk.] "to reckon, consider" (for which see \*rahna-), the meaning of the word may have been "(divine) decision". The cluster can further be connected to the PIE root \*Hrek- "to speak", cf. OCS rdti, Ru. dial. reCf (reku), SCr. reci "id.", but this is less certain. \ -->
+REF: [EDPG]\: 401
+
+### <a id="rahna">\*rahna- [n.] "booty" (n)</a>
+N: \
+-- ON _rán_ "robbery, plundering; booty" \
+W: \
+-- OHG _rahan_ "booty" \
+PIE: \*Hrók-no- \
+<!-- The obviously derived verbs ON rl!na [wk.] "to rob" and OHG bi-rahanen [wk.] "to loot" < \*rahnjan- are formally and probably also etymologically identical to Go. rahnjan [wk.] "to reckon" (for which see \*ragina-). The original meaning may have shifted from "to decide" to "to lead" and then further to "to perform a raid", cf. Go. faura-rahnjan\* "to lead the way". \ -->
+REF: [EDPG]\: 402
+
+### <a id="rahō">\*rahō- [f.] "pole, ray" (n)</a>
+N: \
+-- ON _rá_ "berth in a ship" \
+-- Far. _rá_ "yard; stick, cudgel" \
+W: \
+-- MDu. _ra_ "stick; yard", Du. _ra_ [c.] "yard" \
+-- MHG _rahe_ "stick; yard" \
+<!-- A word included in nautical terminology, the original meaning being "upright stick"; together with Nw. dial. rage [m.] "thin post", Sw. dial. raga [m.] "thin tree" < \*ragan- related to the iterative \*rakk/gon- "to jut out". \ -->
+REF: [EDPG]\: 402
+
+### <a id="raibō">\*raibō- [f.] "swaddling cloth, wrap" (n)</a>
+N: \
+-- ON _reifar_ [pl.] "swaddling bands" \
+PIE: \*Hroip-éh₂- \
+<!-- Also cf. ON reifa, OE ii-riifian [wk.] "to wrap" < \*raibojan- and ON rifa [wk.] "to sew" < \*ribOn-. Another potential cognate is \*raipa- "rope" (q.v.). \ -->
+REF: [EDPG]\: 402
+
+### <a id="raidja">\*raid(j)a- "arranged, prepared" (adj)</a>
+E: \
+-- Go. _ga-raiþs_ "determined, arranged, commanded" \
+N: \
+-- ON _greiðr_ "cleared, ready, settled" \
+-- Far. _greiður_ "straightforward; gentle" \
+W: \
+-- OE _rǣde_, _ge-rǣde_ "ready, easy", E _ready_ \
+-- OFri. _rede_, red, reid "ready; available; payable" \
+-- MDu. _ge-rede_ "ready; considerable", Du. _ge-reed_ "id." \
+-- OHG _gi-reiti_ "ready", MHG _reite_, _ge-reite_ "id." \
+PIE: \*h₂rei-dʰh₁- \
+<!-- COGN: Latv. raids "ready" < \*h₂roidʰ-o-, Latv. rist (riedu) "to put in order" < \*Hreidʰ-, OIr. reid "simple, easy, flat", OW ruid, W rhwydd "easy, quick" < \*Hreidʰ-i- \ -->
+<!-- A deverbal noun with gerundival semantics, perhaps a merger of a usual a-grade adjective \*(ga)-raida- and a gerundive \*(ga)-raidi-. Created to a European extension of the root \*h₂rei- "to arrange" (see \*rfma- "number"), viz. \*h₂rei-dʰh₁- "to put in order". Note that Latv. raids "ready, prepared" could be a Germanic loanword, but the ablaut of rist (riedu) "to prepare" < \*Hreidʰ- and ridi [m.pl.] "tools" < \*Hridʰ-o- would then have to be secondary. Also cf. Go. ga-raidjan "to arrange, command", ON greioa "to settle, help", OE (ge-)rredan "to arrange" < \*(ga-)raidjan-. \ -->
+REF: [EDPG]\: 402
+
+### <a id="raihan">\*raiha(n)- [m.] "roe deer" (n)</a>
+N: \
+-- ON _rá_ [f.] \
+-- Far. _rá-djór_ [n.] \
+-- Elfd. _rå-diuor_ [n.] \
+W: \
+-- OE _rā_, _rāha_, E _roe_ \
+-- ODu. _rēho_, Du. _ree_ [c.] \
+-- OHG _rēh_ [n.], _rēho_, G _Reh_ [n.] \
+PIE: \*Hroik-on- \
+<!-- COGN: Ir. riach "grey" < \*Hreik-o- \ -->
+<!-- Also cf. the derived feminine OE rrege, OHG reia [f.] "id." < \*raihjon- (hardly \*raigjon-) and the more primary \*rikkf- with the same meaning. The word may have ultimately been derived from an adjective \*Hroik-o-, cf. Ir. riach "gray". \ -->
+REF: [EDPG]\: 402
+
+### <a id="raihō">\*raihō- [f.] "row" (n)</a>
+N: \
+-- Nw. _rå_ "border between fields" \
+W: \
+-- OE _rāwe_ "row" \
+<!-- A formation possibly ablauting with \*rfh6-. It is usually assumed that the -w- in OE rawe (for which also cf. OE r.i?w [f.] "row" < \*raiwi-) points to PGmc. \*raiwo- < \*Hroik-ueh₂-. The alternative is to connect Lith. reive [f.] "stripe" < \*Hrei-u-ieh₂-(?). \ -->
+REF: [EDPG]\: 403
+
+### <a id="raina">\*raina/ō- [m./n./f.] "hill, border(?)" (n)</a>
+N: \
+-- ON _rein_ [f./n.] "marge, strip of land" \
+-- Far. _rein_ [f.] "edge of a field, piece of land" \
+-- Elfd. _rien_ [f.] "id." \
+W: \
+-- MHG _rein_ [m.] "marge, elevation", G _Rain_ [m.] "id." \
+PIE: \*Hroi-no- \
+<!-- COGN: Bret. run "hill" < \*Hroi-no- \ -->
+<!-- A Germanic-Celtic isogloss. \ -->
+REF: [EDPG]\: 403
+
+### <a id="raipa">\*raipa- [m./n.] "strap" (n)</a>
+E: \
+-- Go. _skauda-raip_ [n.] "shoelace" \
+N: \
+-- ON _reip_ [n.] "rope" \
+W: \
+-- OE _rāp_ [m.] "id.", E _rope_ \
+-- OFri. _rāp_ [n.] "id." \
+-- OHG _reif_ [m.], G _Reif_ [m.] \
+PIE: \*Hroip-nó- \
+<!-- Related to \*raib6-; the root-final p continues a shortened geminate that arose by Kluge's law. \ -->
+REF: [EDPG]\: 403
+
+### <a id="raizjan">\*raizjan- [wk.] "to cause to rise, raise" (v)</a>
+E: \
+-- Go. _ur-raisjan_ \
+N: \
+-- ON _reisa_ \
+-- Far. _reisa_ \
+W: \
+-- OE _rǣran_, E _to rear_ \
+-- MDu. _reren_ "to make fall, make shed" \
+-- OHG _rēren_ "to cause to fall", MHG _rēren_ "to cause to fall; to make shed" \
+PIE: \*h₃rois-éie- \
+<!-- The causative to \*risan- (q.v.). It is unclear why the Nordic forms do not show the effects of Verner's law. Also cf. the derived feminine OHG reisa [f.] "departure, journey", G Reise [f.] "journey" < \*raiso-. \ -->
+REF: [EDPG]\: 403
+
+### <a id="raka">\*raka- "straight" (adj)</a>
+N: \
+-- ON _rakr_ \
+W: \
+-- LG _rak_ "straight, correct" \
+PIE: \*h₃roǵ-o- \
+<!-- COGN: Skt. rju- "straight" < \*h₃rg-u- \ -->
+<!-- An o-grade adjective to the root \*rek- < PIE \*h₃reg-, for which see \*rakjan-. \ -->
+REF: [EDPG]\: 403
+
+### <a id="rakjan">\*rakjan- [wk.] "to stretch" (v)</a>
+E: \
+-- Go. _uf-rakjan_ "to stretch out, extend, reach out" \
+N: \
+-- ON _rekja_ "to wrap" \
+W: \
+-- OE _reccan_ "to stretch, extend" \
+-- OFri. _rekka_, retsa "to reach", EFri. _räkke_ "id." \
+-- OS _rekkian_ "to tell, explain" \
+-- Du. _rekke_ \
+-- OHG _recken_ "to stretch, reach, explain", G _recken_ "id." \
+PIE: \*h₃roǵ-eie- \
+<!-- COGN: YAv. razaiieiti "to draw a line; to lead" \ -->
+<!-- Formally, the verb looks like an old causative \*h₃rog-eie- to the root \*h₃reg-. It is less probable that it continues a factitive to the adjective \*raka"straigʰt" (q.v.). The latter may in fact be a back-formation. \ -->
+REF: [EDPG]\: 403
+
+### <a id="rakkan">\*rak(k)an- [m.] "(sleuth) dog" (n)</a>
+N: \
+-- ON _rakki_ \
+-- Far. _rakki_ "(young) dog" \
+-- Elfd. _rakke_ "dog" \
+W: \
+-- OE _ræc_, _racca_ "sleuth dog", E dial. _rake_ "sheepdog" \
+-- G Alem. _rache_ "sleuth dog (Canis Brittanicus)" \
+<!-- The dictionaries usually reconstruct \*rakkan-, but E dial. rake and G Alem. rache point to a variant \*rakan- that is further substantiated by the diminutive MDu. rekel [m.] "bad dog, male dog", Du. rekel [c.] "villain" < \*rakila-. Both variants split off from an n-stem nom. \*rakii, gen. \*rakkaz (cf. thematicized OE rcec < \*rakka-). This n-stem has no certain etymology, but may be related to \*rakjan- "to reach out", cf. OE racian "to direct; to take a course". Also cf. the conspicuously close \*brakkan- "sleuth dog". \ -->
+REF: [EDPG]\: 404
+
+### <a id="rakkan">\*rakkan- [m.] "parrel" (n)</a>
+N: \
+-- ON _rakki_ \
+-- Far. _rakki_ "parrel; jaw rope, gaffe parrel" \
+W: \
+-- OE _racca_ \
+-- Du. _rak_ [n.] (< Scand.?) \
+PIE: \*Hroḱ-on- \
+<!-- COGN: Skt. ra5an- [f.] "rope, cord", NP rasan "rope" < \*Hreḱ-en-eh₂-, Skt. rasmf- [m.] "rein" < \*Hre/oḱ-mi- \ -->
+<!-- A nautical term, cf. British MLat. racka and MFr. raque. The geminate of the word probably results from leveling in an original paradigm nom. \*raho, gen. \*rakkaz < \*Hroḱ-iin, \*Hroḱ-n-6s. The analogically formed root variant \*rak- (as in ON rak [n.] "wick"?) seems to have served as the basis for ON rekendi [n.] "chain" < \*rakindja-. OE race(n)te [f.] "fetter" and OHG rahhinza [f.] "id." belong here, too, but the suffix of this formation is obscure. \ -->
+REF: [EDPG]\: 404
+
+### <a id="rakkōn">\*rakk/gōn- [wk.] "to move to and fro" (v)</a>
+N: \
+-- Icel. _raga_ "to stroll" \
+-- Far. _ragga_ "to walk slowly" \
+-- Nw. _rakka_ "to swerve, roam" \
+W: \
+-- MDu. _raggen_ "to run, be wild" \
+-- G Pal. _racken_ "to rock, swing" \
+<!-- An o-grade iterative related to \*rukk/giin- 1 (q.v.). \ -->
+REF: [EDPG]\: 404
+
+### <a id="rakkōn">\*rak(k)ōn- [wk.] "to incline" (v)</a>
+W: \
+-- E _to rake_ \
+-- EDu. _racken_ "to turn, be bent, incline" \
+<!-- Also cf. EDu. racke "twist". No certain etymology. Perhaps rather to be reconstructed as \*h₂ak(k)6n- in view of the potential link with \*h₂ag/kkiin"to jut out" (< "to be uneven"?). \ -->
+REF: [EDPG]\: 404
+
+### <a id="ramma">\*ramma- [m.] "ram" (n)</a>
+W: \
+-- OE _ram_, E _ram_ \
+-- MDu. _ram_, Du. _ram_ [c.] \
+-- OHG _ram_, _rammo_, G _Ramm_ \
+<!-- The original meaning of this word may have been "to batter", cf. (M) Du., MHG rammen "to batter; be in heat", E to ram < \*rammiin-. It may secondarily have come in use for the male sheep in view of its characteristic butting. The primary nature of the verb is further supported by the iterative variant \*ramiin- attested as G Rhnl. ramen "to batter, have sex". \ -->
+REF: [EDPG]\: 404
+
+### <a id="ranka">\*ranka- "erect" (adj)</a>
+N: \
+-- ON _rakkr_ (also _hug-rakkr_ "bold") \
+W: \
+-- OE _ranc_ "proud, arrogant", E _rank_ \
+-- MDu. _ranc_ "slim", Du. _rank_ "tall" \
+PIE: \*h₃r-on-g-o- \
+<!-- COGN: Lith. rqzyti "to stretch" < \*h₃r-on-g-eie-, Skt rnjciti "to stretch, direct (oneself)" < \*h₃r-n-g-e- \ -->
+<!-- An adjective derived from the nasal present \*rinkan- "to be straight" < \*h₃r-en-g-e-, which is possibly attested as Far. rRJkka [st.] "to reach". \ -->
+REF: [EDPG]\: 404
+
+### <a id="rannjan">\*rannjan- [wk.] "to cause to run" (v)</a>
+E: \
+-- Go. _ur-rannjan_ "to cause to rise" \
+N: \
+-- ON _renna_ "to make run" \
+W: \
+-- OS _rennian_ "id." \
+-- Du. _rennen_ "to run" \
+-- OHG _rennen_ "id.", G _rennen_ "id." \
+<!-- The causative to \*rinnan- (q.v.). \ -->
+REF: [EDPG]\: 405
+
+### <a id="rastō">\*rastō- [f.] "interval" (n)</a>
+E: \
+-- Go. _rasta_ "mile" \
+N: \
+-- ON _rǫst_ "id." \
+W: \
+-- OE _ræst_ "rest, peace, grave", E _rest_ \
+-- OS _rasta_ "rest, resting place, grave" \
+-- OHG _rasta_ "rest, length (of three hours)" \
+<!-- A teh₂-stem to the root of ON rasa [wk.] "to rush" (Bjorvand 2011: 11-2), cf. ON rcis [f.] "running; course" < \*reso-. Unrelated to \*r66- "rest". \ -->
+REF: [EDPG]\: 405
+
+### <a id="raþa">\*raþa- [n.] "wheel" (n)</a>
+W: \
+-- OFri. _reth_ \
+-- ODu. _rath_, Du. _rad_ \
+-- OHG _rad_, _hrad_, G _Rad_ \
+PIE: \*Hrót-h₂-o- \
+<!-- COGN: Skt rcitha-, YAv. rafJa- [m.] "chariot", Lith. riitas [m.] "wheel, circle, ring", pl. "cart" < \*Hrot-h₂-o-, Lat. rota [f.] "wheel" < \*Hrot-eh₂- \ -->
+<!-- An IE word for "wheel". Possibly, the different attestations are continuations of an ablauting hz-stem, e.g. \*Hr6t-(e)h₂, gen. \*Hr(o)t-h₂-6s. \ -->
+REF: [EDPG]\: 405
+
+### <a id="raþan">\*raþan- ~ \*ratta(n)- [m.] "rat" (n)</a>
+W: \
+-- OE _ræt_, E _rat_ \
+-- WFri. _rôt_ [c.] \
+-- OS _ratta_ [f.] \
+-- MDu. _ratte_, _rotte_ [f.], Du. _rat_ [c.] \
+-- OHG _rato_, _ratto_, MHG _ratze_, G _Ratte_ [f.] \
+PIE: \*Hr6t-on- \
+<!-- A word restricted to Germanic. The original (ablauting) paradigm was nom. \*rapo, gen. \*ruttaz, dat. \*rudeni < \*Hr6t-6n, \*Hrt-n-6s, \*Hrt-en-i (with -ru- replacing -ur- on the basis of analogy with the full grade). The \*þ of this paradigm precludes the standard etymological links with MHG rreze "sharp" < \*reti- "sharp" (cf. Pokorny IEW: 854) and Lat riido, -ere, MW rathu "to scrape, scratch" < \*razd- (cf. Matasovic 2011: 32). The other consonantisms arose by Kluge's law and subsequent paradigmatic contamination (Kroonen 20l la: 22 1-3). G Ratte < \*rappon-, for instance, is an obvious contamination of the nominative with the genitive case. The zero grade \*rutt- was preserved in MDu. rot (also cf. Du. land-rot "landlubber") and MLG rotte, whence Icel., Far. rotta, Da., Nw. rotte. \ -->
+REF: [EDPG]\: 405
+
+### <a id="raþjōn">\*raþjōn- [f.] "account(?)" (n)</a>
+E: \
+-- Go. _raþjo_ "counting, account, explanation, number" \
+W: \
+-- OFri. _rethia_ "talk, acount" \
+-- OS _rethia_ "id." \
+-- OHG _red(e)a_ "account, reasoning, speech", G _Rede_ "speech" \
+PIE: \*h₂rh₁-t-ieh₂- \
+<!-- COGN: Lat. ratio [f.] "reason" \ -->
+<!-- The Germanic word appears to be formally parallel to Lat. rati6, but while the Latin formation clearly belongs to the verb Lat. reor "to think, believe" < \*h₂reh₂ie- and must have been derived from it with a dental suffix (cf. ratus ptc. < \*h₂rh₁-to-), no such derivational pathway is available for PGmc. \*rap-. This \*rap- rather functioned as a primary verbal root in synchronic Germanic, cf. Go. ga-raþans\*ptc. "counted", which implies a strong verb ra)Jan\*or raþjan\*< \*h₂r!J1-t-. \ -->
+REF: [EDPG]\: 405
+
+### <a id="rauba">\*rauba- [m./n.] "loot" (n)</a>
+W: \
+-- OE _rēaf_ [n.] "spoil, booty; garment, robe" \
+-- OFri. _rāf_ [n.] "booty" \
+-- OS _nōd-rōf_ [m.] "violent robbery" \
+-- Du. _roof_ [c.] "theft, robbery" \
+-- OHG _roub_ [m.] "robbery, booty", G _Raub_ [m.] "id." \
+PIE: \*Hroup-ó- \
+<!-- Derived from \*reufan- (q.v.). \ -->
+REF: [EDPG]\: 406
+
+### <a id="raubjan">\*raubjan- [wk.] "to break (off), tear off, rob" (v)</a>
+N: \
+-- ON _reyfa_ "to break, tear; to rob" \
+W: \
+-- OE _be-riefan_ "to rob", E _to bereave_ \
+PIE: \*Hroup-éie- \
+<!-- A merger of an intensive formation to the strong verb \*reufan- (q.v.) and a denominal formation derived from \*rauba- (q.v.). \ -->
+REF: [EDPG]\: 406
+
+### <a id="raubō">\*raubō- [f.] "rift" (n)</a>
+N: \
+-- ON _rauf_ "rift, hole" \
+-- Far. _reyv_ "seat; behind, rump" \
+-- Elfd. _rov_ "tail; behind" \
+-- Da. _røv_ [c.] "behind" \
+PIE: \*Hroup-eh₂- \
+<!-- A feminine 6-stem derived from \*reufan- (q.v.) . It is formally parallel to SCr. rupa [f.] "hole" < \*Hroup-eh₂-. \ -->
+REF: [EDPG]\: 406
+
+### <a id="rauda">\*rauda- "red" (adj)</a>
+E: \
+-- Go. _rauþs_ \
+N: \
+-- ON _rauðr_ \
+-- Far. _reyður_ \
+-- Elfd. _roð_ \
+W: \
+-- OE _rēad_, E _red_ \
+-- OFri. _rād_ "red, yellow" \
+-- OS _rōd_ \
+-- Du. _rood_ \
+-- OHG _rōt_, G _rot_ \
+PIE: \*h₁roudʰ-o- \
+<!-- COGN: Lith. rail.das "reddish brown, bay, reddish". Ru. dial. rudyj "blood-red", SCr. rud "reddish". Lat. rufus "red, tawny, red-haired", OIr. ruad, MW rhudd "red" < \*h₁roudʰ-o- \ -->
+<!-- An o-grade adjective related to \*reudan- 1 (q.v.). \ -->
+REF: [EDPG]\: 406
+
+### <a id="rauki">\*rauki- [m.] "smoke" (n)</a>
+N: \
+-- ON _reykr_ "smoke, steam" \
+-- Far. _roykur_ "smoke; dust; smell" \
+-- Elfd. _räk_ \
+W: \
+-- OE _rēc_ \
+-- OFri. _rēk_ \
+-- OS _rōk_ \
+-- Du. _rook_ [c.] \
+-- OHG _rouh_, G _Rauch_ \
+<!-- An i-stem derived from the strong verb \*reukan- ~ \*riikan- (q.v.). Also cf. ON ryk [n.] "dust" < \*rukja-. \ -->
+REF: [EDPG]\: 406
+
+### <a id="raupjan">\*raupjan- [wk.] "to tear (Gff)" (v)</a>
+E: \
+-- Go. _raupjan_ "to rip" \
+W: \
+-- OE _rīepan_ "to loot", E _to reap_ \
+-- EDu. _rōpen_ "to pluck, tear off" \
+-- OHG _roufen_ "to rip, tear" \
+<!-- A causative (or intensive) formation that in view of the root-final p must have been derived directly from the iterative \*rupp/bon- (q.v.), which syn- chronically belonged to the strong verb \*reufan- (q.v.). The original causative is preserved as \*raubjan- (q.v.) . Also cf. ME ryppen, E to rip < \*ruppjan-. \ -->
+REF: [EDPG]\: 406
+
+### <a id="rautōjan">\*rautōjan- [wk.] "to roar(?)" (v)</a>
+N: \
+-- ON _rauta_ \
+PIE: \*Hroud-eh₂-ie- \
+<!-- COGN: Lith. raud6ti (raud6ju), Latv. raudat "to lament" < \*Hroud-eh₂-ie- \ -->
+<!-- A denominal formation implying PGmc. \*rauta-, cf. Nw. dial. raut [n.] "bellowing". Related to \*reutan- (q.v.). \ -->
+REF: [EDPG]\: 407
+
+### <a id="rauza">\*rauza- [n.] "reed" (n)</a>
+E: \
+-- Go. _raus_ \
+N: \
+-- ON _reyrr_ [m.], _reyr_ [f.] \
+-- Icel. _reyr_ \
+-- Far. _royggj_ "reed canary grass" (with analogical removal of the -_r_) \
+W: \
+-- OFri. _rēr_ [m.] "reed (stalk)" \
+-- MDu. _roer_ "id." \
+-- OHG _rōr_ "id.", G _Rohr_ "reed; pipe, tube" \
+<!-- An etymologically obscure word. The formal and semantic similarities with OCS rogoz'b [m.] "papyrus", Ru. rog6z [m.] "bulrush; cattail", SCr. rogoz "sedge" < PSlav. \*rogoz'b are striking (Hirt 1897: 234-5), but Slavic \*z does not regularly correspond to PGmc. \*z. In addition, the Slavic formation may very well have metathesized from \*rozog- in view of OCS rozga [f.] "twig" and Lith. regzti "to plait" < PIE \*resg-. Also cf. OHG roria, G Rohre [f.] "tube" < \*rauzjo-. \ -->
+REF: [EDPG]\: 407
+
+### <a id="rawwō">\*rawwō- [f.] "(plucked) wool" (n)</a>
+N: \
+-- ON _rǫggr_ [m.], _rǫgg_ "shaggy hair or wool" \
+-- Icel. _rōgg_ "id." \
+-- Nw. _ragg_ [n.] "coarse hair of animals (esp. goats)" \
+PIE: \*HrouH-ó- \
+<!-- A nominal formation that given the operation of Holtzmann's law must be of considerable antiquity; the related verbs \*rewan- and \*riijan- in contrast do not have it, at any rate. \ -->
+REF: [EDPG]\: 407
+
+### <a id="razdō">\*razdō- [f.] "voice" (n)</a>
+E: \
+-- Go. _razda_ "language, speech" \
+N: \
+-- ON _rǫdd_ \
+-- Far. _rødd_ \
+W: \
+-- OE _reord_ "speech, language, voice" \
+-- OHG _rarta_ "sound, voice" \
+PIE: \*Hros-dʰh₁-eh₂-(?) \
+<!-- COGN: To Skt. rasati "to roar" < \*Hres-e-? \ -->
+<!-- A formation traditionally analyzed as a compound consisting of the roots \*Hros- "to sound" and \*dʰh₁- "to put" (Pokorny IEW: 852). The alternative, to reconstruct a formation \*Hrh₁dʰ-to- related to \*redan- q.v. (Hill 2003: 218-20), is formally difficult. \ -->
+REF: [EDPG]\: 407
+
+### <a id="rebja">\*rebja- [n.] "rib" (n)</a>
+N: \
+-- ON _rif_ \
+-- Far. _riv_ "rib; reef" \
+W: \
+-- OE _rib_, E _rib_ \
+-- OFri. _rib_ [m.] \
+-- MDu. _ribbe_ [n./f.], Du. _rib_ [c.] \
+-- OHG _rippi_, G _Rippe_ [f.] \
+PIE: \*h₁rebʰ-io- \
+<!-- COGN: Gr. epecpw "to roof" < \*h₁rebʰ-e-, Gr. opocpoc; [m.] "roof" < \*h₁robʰ-o-, OCS rebro [n.] "rib", Ru. rebr6 [n.] "id.", SCr. rebro [n.] "id." < \*h₁rebʰ-ro- \ -->
+<!-- A collective formation cognate with OHG hirni-reba [f.] "skull" < \*rebon-. Unrelated to \*refiz- "roof beam" (q.v.). \ -->
+REF: [EDPG]\: 407
+
+### <a id="rēdan">\*rēdan- [st.] "to decide" (v)</a>
+E: \
+-- Go. _ga-redan_ "to plan, intend" \
+N: \
+-- ON _ráða_ "to advise, counsel; to consult about; to devise, plan" \
+-- Far. _ráða_ "id." \
+-- Elfd. _råða_ "id." \
+W: \
+-- OE _rǣdan_ "to counsel, decide, interpret", E _to read_ \
+-- OFri. _rēda_ "to advice, protect, help, cause, decide" \
+-- OS _rādan_ "to counsel, plan, realize, help" \
+-- Du. _raden_ [st./wk.] "to advise, guess" \
+-- OHG _rātan_ "to counsel, decide, help", G _raten_ [wk.] "to advise" \
+PIE: \*Hreh₁dʰ-e- \
+<!-- COGN: Skt. riidhn6ti "to succeed, to be successful", OAv. rcida.t 3sg.aor.subj. "to do right, to fit" < \*Hreh₁dʰ-neu- \ -->
+<!-- An inherited strong verb. See also \*rodjan-. \ -->
+REF: [EDPG]\: 408
+
+### <a id="rēfiz">\*rēfiz- [n.] "roof beam" (n)</a>
+N: \
+-- ON _ráfr_, _ræfr_ "roof" \
+-- Far. _ráva_ [f.] "roof ridge of a house" \
+W: \
+-- OS _rāƀo_ [m.] \
+-- MDu. _rave_ [m.] \
+-- OHG _rāfo_, _rāvo_ [m.] "board" \
+PIE: \*h₁rēp-es- \
+<!-- A cluster of different formations that are all based on a primary s-stem \*rebaz, gen. \*rebizaz, cf. the Old Norse doublet rifr < \*rebaza- vs. rEfr < \*rebiza-. The Old Norse variant rjafr, for which cf. Icel. rjifur, is secondary: it may have arisen by the analogical intrusion of palatal r from rEfr to rafr. Unrelated to \*rebja- (q.v.) . \ -->
+REF: [EDPG]\: 408
+
+### <a id="regna">\*regna- [n.] "rain" (n)</a>
+E: \
+-- Go. _rign_ \
+N: \
+-- ON _regn_ \
+-- Far. _regn_ \
+-- Elfd. _raingen_ \
+W: \
+-- E _rain_ \
+-- OFri. _rein_ [m.], WFri. _rein_ [c.], EFri. _rien_ [m.] \
+-- OS _regan_, _regin_ [m.] \
+-- ODu. _regan_ [m.], Du. _regen_ [c.] \
+-- OHG _regan_ [m.], G _Regen_ [m.] \
+PIE: \*Hréǵʰ-no-(?) \
+<!-- COGN: Lat. irrigiire "to irrigate" and Alb. rrjedh "to flow" < \*Hregʰ- \ -->
+<!-- A convincing extra-Gm. etymology is yet to be found. The connection with Lat. ir-rigiire and Alb. rjedh is possible, but uncertain. The derivation from a PIE root \*rek- related to ON raki [m.] "dampness, moisture" < \*rakan- < \*Hrok-on, gen. \*Hrok-n-6s(?) is even more doubtful. Within Germanic, cf. the denominal Go. rignjan, ON rigna [wk.] "to rain" < \*regnjan- and ON regna, OE regnian, E to rain, OFri. reina, OHG reganon, G regnen, Du. regenen [wk.] "id." < \*regnojan-. \ -->
+REF: [EDPG]\: 408
+
+### <a id="rehta">\*rehta- "straight" (adj)</a>
+E: \
+-- Go. _raihts_ \
+N: \
+-- ON _réttr_ "straight; correct" \
+-- Far. _rættur_ "id." \
+-- Elfd. _rett_ "id." \
+W: \
+-- OE _riht_ "id.", E _right_ \
+-- OFri. _riucht_ "id.", WFri. _rjocht_ "id.", EFri. _gjucht_ "id." \
+-- OS _reht_ "id." \
+-- Du. _recht_ \
+-- OHG _reht_ "straight, good, right", G _recht_ "id." \
+PIE: \*h₃reǵ-to- \
+<!-- COGN: Av. rasta- "straight", Gr. 6pEKTO; "id.", Lat. rectus "id." \ -->
+<!-- A to-stem created to the root of e.g. \*raka- and \*rakjan-. Also cf. the denominative verb Go. ga-raihtjan [wk.] "to direct", ON retta [wk.] "to straighten; to pass", OE rih tan [wk.] "to erect", OHG rihten "to direct, aim, straighten, compensate", G richten "id." < \*rehtjan-. \ -->
+REF: [EDPG]\: 408
+
+### <a id="rekan">\*rekan- [st.] "to rake up, pile up" (v)</a>
+E: \
+-- Go. _rikan_ \
+W: \
+-- MHG _rechen_ \
+PIE: \*h₃reǵ-e- \
+<!-- COGN: Gr. 6pfyw "to reach out, stretch out", OIr. a-t-raig "to stand up", W re "to get up" < \*h₃reg-e-, Lat. rogus [m.] "funeral pyre" < \*h₃rog-o- \ -->
+<!-- In spite of the unexpected meaning, the Germanic verb continues the PIE root \*h₃reg- "to make straight", probably through an intermediate semantic step "to erect (a pile)", cf. Lat. rogus "pyre". Within Germanic, \*rekan- give rise to e.g. ON reka [f.] "rake", OS reka [f.] "id.", OHG rehho [m.] "id.", G Rechen [m.] "id." < \*reka/on- and OSw. raka, OE racu, OS raka [f.] "id." < \*rako-, whence ON raka, OE racian [wk.] "to rake" < \*rakojan-. See further \*raka-, \*rakjan- and \*ranka-. \ -->
+REF: [EDPG]\: 409
+
+### <a id="rekwiz">\*rekwiz- [n.] "darkness" (n)</a>
+E: \
+-- Go. _riqis_ \
+N: \
+-- ON _røkkr_ \
+PIE: \*h₁regʷ-es- \
+<!-- COGN: Skt. rijas- [n.] "dust, mist, vapour, gloom", OAv. rajiS nom. "darkness", Arm. erek "evening", Gr. EpE�o; [n.] "dark of the underworld"; also cf. ToA arkant-, ToB obl. erkent "black" < \*h₁rgʷ-(u)ont-, ToA orkiim "darkness", ToB orkamo, orkmo "dark" < \*h₁rgʷ-men- \ -->
+<!-- An IE word for "darkness". Also cf. Go. riqizjan [wk.] "to grow dark" and the derivationally more primary ON rekkva [wk.] "id." < \*rakwjan- < \*h₁rogʷ-eie-. \ -->
+REF: [EDPG]\: 409
+
+### <a id="rēma">\*rēma- "hoarse" (adj)</a>
+N: \
+-- ON _rámr_ \
+-- Nw. _råm_ \
+PIE: \*h₁réh₁-mo \
+<!-- COGN: Lat. ravus "hoarse" < \*Hrh₁-uo-, Skt. r6yati "to bark", Ru. dial. rijat' "to make a noise, sound" < \*Hreh₁-ie- \ -->
+<!-- An adjective \*rema- ablauting with Elfd. ram "id." < \*rama- (< \*Hrf,li-mo-), cf. ON remja, Elfd. rema [wk.] "to bellow, bray" < \*ramjan-. With a different vocalization of the zero-grade form, cf. ON rymja [wk.] "to roar", Far. rymja [wk.] "to be hoarse" < \*rumjan- < \*Hrh₁-T [l-ie-. \ -->
+REF: [EDPG]\: 409
+
+### <a id="remiz">\*remiz- [n.] "quiet, tranquility" (n)</a>
+E: \
+-- Go. _rimis_ \
+PIE: \*h₁rem-es- \
+<!-- COGN: Skt. rimate "to become appeased" < \*h₁rem-e-, Skt. riimiyati, YAv. riimaiieiti "to bring to rest", OIr.fo-ruimi "to place, put" < \*Hrom-eie-, Lith. rimti (rimstu) "to calm down" < \*h₁rm-ske- (with acute from the st-suffix), Gr £µa "quietly, gently, slowly" (adv) (with unexplained T)) \ -->
+<!-- An s-stem to the root \*h₁rem- "to be quiet, calm". \ -->
+REF: [EDPG]\: 409
+
+### <a id="rēti">\*rēti- "fierce" (adj)</a>
+W: \
+-- OHG _rāzi_, MHG _ræze_ \
+<!-- COGN: Skt. ridati "to dig, furrow; to open, prepare the way" (with loss of the laryngeal as per Lubotsky 198 1: 134?), YAv. rii8aiti "to prepare (the way)", Lat. rodo, -ere "to gnaw (at)" < \*Hreh₃d-e- \ -->
+<!-- A _vr̥ddhi_-gerundive \*Hreh₃d-i- to a lost strong verb \*rotan- "to bite". \ -->
+REF: [EDPG]\: 409
+
+### <a id="reuda">\*reuda- "red" (adj)</a>
+E: \
+-- Go. _ga-riuds_ "honorable" \
+N: \
+-- ON _rjóðr_ "red (in the face), ruddy" \
+W: \
+-- OE _rēod_ "red" \
+PIE: \*h₁reudʰ-o- \
+<!-- An e-grade adjective parallel to \*rauda- (q.v.) See also \*reudan 1. \ -->
+REF: [EDPG]\: 409
+
+### <a id="reudan-1">\*reudan- [st.] "to make red" (v)</a>
+N: \
+-- ON _rjóða_ \
+W: \
+-- OE _rēodan_ "to redden, stain with blood" \
+PIE: \*h₁reudʰ-e- \
+<!-- COGN: Identical to Gr. E:pEu-8w "to make red" \ -->
+<!-- An old IE thematic verb with many different derivations, cf. \*reuda-, \*rauda- and \*ruden-. \ -->
+REF: [EDPG]\: 410
+
+### <a id="reudan-2">\*reudan- [st.] "to clear, remove, eradicate" (v)</a>
+N: \
+-- ON _rjóða_ "to clear" \
+W: \
+-- OE _rēodan_ "to kill" \
+-- MHG _rieten_ "to exterminate, wipe out" \
+PIE: \*Hreudʰ-e\
+<!-- A purely Germanic strong verb. The meaning of the often linked Av. raoi8iia- (cf. Pokorny IEW: 868-7 1), i.e. "to be made arable", is highly uncertain, which makes the connection doubtful. Within Germanic, cf. ON ruo [n.] "clearing in a wood" < \*ruda- and rj6or [n.] "id." < \*reudra- and the iterative \*rud(d)on- (q.v.). \ -->
+REF: [EDPG]\: 410
+
+### <a id="reufan">\*reufan- [st.] "to break (off)" (v)</a>
+N: \
+-- ON _rjúfa_ "to break (open)" \
+-- Far. poet. _rjúva_ "to tear apart" \
+W: \
+-- OE _rēofan_ "to break, tear" \
+PIE: \*Hreup-e- \
+<!-- COGN: Skt lumpati "to tear, break, harm, plunder", Lat. rumpo, -ere "to burst, break open" < \*Hru-m-p-e- \ -->
+<!-- An IE strong verb. See also \*rauba-, \*raubjan-, \*rupp/b6n- and \*raupjan-. \ -->
+REF: [EDPG]\: 410
+
+### <a id="reukan">\*reukan- ~ \*rūkan- [st.] "to smoke; to drift, fly" (v)</a>
+N: \
+-- ON _rjúka_ "to smoke, steam; to be driven, be flung, fly" \
+-- Far. _rúka_ "to smoke; to fly off; to run, dash" \
+W: \
+-- OE _rēocan_ "to reek, send forth smoke or steam" \
+-- OFri. _riāka_ "to smoke" \
+-- MDu. _rieken_, _ruken_ "to smell", Du. _ruiken_ "id." \
+-- OHG _riohhan_ "to smoke, steam", G _riechen_ "to smoke" \
+<!-- A word without a generally accepted etymology. The connection with e.g. Lith. rukas [m.] "haze" and Lith. rake "cloud of dust" (Fraenkel 1965: 705-6) is highly unlikely as these may have been borrowed from Low German. The alternative link with Alb. re "cloud" (Torp 1909: 349) is even more doubtful, as the alleged proto-form \*rougi- is only one of many possible reconstructions. In view of the semantic parallelism with the strong verb \*feukan- ~ \*fukan- "to steam; to dash" (q.v.), I assume that the original meaning was "to drift, be flung" rather than "to smoke". The presence of an iterative \*rukk/gon- 2, (Cimbr. rucken "to smoke") indicates that the root-final k of \*reukan- ~ \*rukan- may represent a shortened geminate (Kroonen 201 1a: 109). If so, it is possible that the strong verb arose as a back-formation to the formally identical iterative \*rukk/gon- 1 "to move to and fro" (q.v.). \ -->
+REF: [EDPG]\: 410
+
+### <a id="reuman">\*reuman- [m.] "strap, belt" (n)</a>
+W: \
+-- OE _rēoma_ "belt; ligament" \
+-- OS _riomo_ "thong" \
+-- Du. _riem_ [c.] "belt" \
+-- OHG _riomo_ "id.", G _Riemen_ "id." \
+<!-- No certain etymology. The word is usually mechanically reconstructed as \*reuman-, but this formation has no links outside Germanic. Related to \*rewan- "to jerk" (q.v.)? ON reim [f.] "lash, thong" was borrowed from Low German (with the substitution of -e- by -ei-). \ -->
+REF: [EDPG]\: 410
+
+### <a id="reuman">\*reuman- ~ \*rauma(n)- [m.] "cream" (n)</a>
+N: \
+-- ON _rjómi_ \
+-- Far. _rómi_ \
+W: \
+-- OE _rēoma_, _rēama_ "membrane" \
+-- WFri. _rjemme_ [c.] "id." \
+-- MDu. _rome_, _room_ [m./f.] "id.", Du. _room_ [c.] "id." \
+-- OHG _roum_ "id.", G _Rahm_ "id." \
+PIE: \*Hre/oug/gʰ-mon \
+<!-- COGN: Av. raoyna- "butter" < \*HrougChl-mno- (for the PIE loss of the m-, cf. see \*budman- ~ \*buttman- "bottom") \ -->
+<!-- An ablauting mn-stem (cf. Kroonen 2011a: 186-7). At least two ablaut grades can be discerned, but as in the word for "udder" (see PGmc. \*eudra- ~ \*udra-) the original paradigmatic distribution of the e- and a-grades remains unclear. Perhaps, the PIE paradigm was static, nom. \*Hr6ugʰ-mn, gen. \*Hreugʰ-mn-s. A possible zero grade is represented by Swi. ruumme [f.] "crust; butter" (Pokorny IEW: 873), but it is also not entirely certain whether this form really could have developed from PIE \*Hrugʰl-m-, e.g. through PGmc. \*rugmon-. \ -->
+REF: [EDPG]\: 411
+
+### <a id="reupōn">\*reupōn- [f.] "grouse" (n)</a>
+N: \
+-- ON _rjúpa_ \
+-- Far. _rýpa_ (« Da. _rype_?) \
+-- Nw. _rjupe_, _rype_ \
+-- Elfd. _rjoppa_ \
+<!-- A North Germanic word often connected to \*erpa- "light brown" and - outside Germanic - to Lith. jerube [f.] "hazel grouse", Latv. rubenis "black grouse", RuCS rebb "partridge" (cf. Derksen 2000; Kroonen 20 10b: 25 7-258). Within the parameters of Germanic derivational history, however, it is clear that \*reup6n- was derived from the verb \*rup(p)on- attested as e.g. ON ropa [wk.] "to belch; to shout (esp. of grouse)" and MDu. roppen [wk.] "to belch". The connection between the verb, an onomatopoetic iterative related to OSw. rapa, Nw. dial. rapa [wk.] "to belch", and the bird name further follows from the compounds Icel. rop-karri, -keri and rjup-karri, -keri "male grouse", for which see \*kurron-. Also cf. ON, Icel. raupa, Far. reypa [wk.] "to boast". \ -->
+REF: [EDPG]\: 411
+
+### <a id="reutan">\*reutan- [st.] "to cry" (v)</a>
+W: \
+-- OE _rēotan_ "to make a noise; to cry" \
+PIE: \*Hréud-e \
+<!-- COGN: Skt. r6diti, 3pl. rudanti "to lament", Lat. rudo, -ere "to roar" < \*Hr(e)ud- \ -->
+<!-- Formally close to \*h₂eutan- ~ \*h₂iitan- (q.v.). See also \*rut(t)on- and \*raut6jan-. \ -->
+REF: [EDPG]\: 411
+
+### <a id="rewan">\*rewan- [st?] "to tear, jerk, fight" (v)</a>
+N: \
+-- Icel. _rjá_ [wk.] "to wrestle, fight; to move, tear" \
+PIE: \*HréuH-e-(?) \
+<!-- COGN: ToAB riiwii- "to tear out" < \*HreuH-, Skt. ravati "to break, hurt" (also cf. Skt. roman- [n.] "hair, body hair", NP rum(a), rom(a) "pubic hair" < \*HreuH-men-), Lat ruo, -ere "to churn; to plow up, dig out" < \*Hre/6uH-e-, Lith. rauti "to tear out, pull", Latv. raut "tear, pull, take" < \*Hr6uH-e-, Lith. ravJti (raviu), Latv. ravet "to weed" < \*HrouH-eh₁-, CS n,vati "to tear", Ru. rvat' "id.", SCr. ivati "to tense, strain" < \*HruH-eh₂- \ -->
+<!-- In spite of the weak conjugation of Icel. rja (< \*rewojan- as per Magnusson 1989: 767?), we may be dealing with an originally strong verb. See also \*rājan- and \*rawwo-. \ -->
+REF: [EDPG]\: 411
+
+### <a id="rīdan">\*rīdan- [st.] "to ride; to move, swing, rock" (v)</a>
+N: \
+-- ON _ríða_ "to ride" \
+W: \
+-- OE _rīdan_ "to ride; to move, rock", E _to ride_ \
+-- OFri. _rīdan_ "to ride, drive" \
+-- OS _rīdan_ "id." \
+-- Du. _rijden_ "id." \
+-- OHG _ritan_ "id.", G _reiten_ "id." \
+PIE: \*Hreidʰ-e \
+<!-- COGN: OIr redid "to ride", W rhwydd-hau "to hurry", Lith. riedJti (riedit) "to roll" < \*Hreidʰ-e- \ -->
+<!-- A European verb. See also \*ridra-. \ -->
+REF: [EDPG]\: 412
+
+### <a id="ridra">\*ridra- [n.] "penis" (n)</a>
+N: \
+-- ON _reðr_, _erðr_ \
+-- Icel. _reður_ [m.] \
+-- Far. _reður_ \
+<!-- Magnusson 1989: 746 connects Gr. pf.-8oc; [n.] "face, body, limb", but the initial rho in Greek can only be derived from \*ur- or \*sr-, which precludes the link with ON rear. I therefore propose to link the word to Icel. rið "spawning spot", Nw. rid "spawning" and the primary strong verb Icel. rfaa [st.] "to fuck", Nw. rida [st.] "to wobble; to mate (of male animals)", which may be identical to \*rfdan- "to ride; to move, rock" (q.v.). PGmc. \*ridra- may then be reconstructed with an instrumental suffix: \*ridra- < \*Hridʰ-dʰro-. \ -->
+REF: [EDPG]\: 412
+
+### <a id="rīfan">\*rīfan- ~ \*rīpan- [st.] "to tear" (v)</a>
+N: \
+-- ON _rífa_ "to tear; to be rent, give way" \
+W: \
+-- OE _rīpan_ "to reap; to harvest", ME _rīven_ "to tear" \
+-- OFri. _rīva_ "id." \
+PIE: \*Hreip-e- \
+<!-- COGN: Gr. F.petnw "to throw down, dash down, fall down" < \*h₁reip-e-, MIr. repaid "to tear, rend, break" < \*h₁rei-m-p-eh₂-ie-(?), Ru. dial. repnut' "to burst" < \*h₁rip-ne- \ -->
+<!-- Closely related to OE rfpan "to harvest" < \*rfpan-, which received its p (< \*pp) from the iterative \*ripp/bon- (q.v.) . Also cf. OE rifler [m.] "scythe" < \*Hrip-tro-. See further \*rfpi-. \ -->
+REF: [EDPG]\: 412
+
+### <a id="rīhō">\*rīhō- [f.] "bar, line" (n)</a>
+N: \
+-- OGutn. _ri_ "pole", Gutn. _räj_ "bar" \
+W: \
+-- MDu. _rie_ "slat, line", Du. _rij_ [c.] "row" \
+-- MHG _rīhe_ "line", G _Reihe_ "line, row" \
+<!-- A word with many closely-related variants, e.g. OHG rfga [f.] "line" < \*rfgo(n)-, MLG rege, G Riege [f.] "id." < \*rigo(n)-, MDu. ree [f.] "(marcation) line" < \*riho(n)-, MDu. reke [f.] "row, line" < \*riko(n)-, and G Recke [f.] "series" < \*rikko(n)-, which may all go back to an ablauting n-stem nom. \*rfho, gen. \*rikkaz, dat. \*rigeni < \*Hreik-on, \*Hrik-n-6s, \*Hrik-en-i (Kroonen 201la: 23 9ff). Also cf. Nw. rja, Sw. rie [m.] "pole on which grain is placed to dry" < \*rfhan-. \ -->
+REF: [EDPG]\: 412
+
+### <a id="rīk">\*rīk- [m.] "ruler, king" (n)</a>
+E: \
+-- Go. _reiks_ \
+<!-- A PGmc. loanword from Celtic \*reg-, cf. OIr. ri, OW ri, MW ri [m.] "king" < PIE \*h₃reg-, cf. Skt. rlij-, Lat. rex [m.] "id.". Also cf. Go. reiks, ON rfkr, OE rice, OFri. rike, rik, OS riki, OHG rfhhi "rich; powerful" < \*rikOJa- and the collective Go. reiki, ON riki, OE rice, OFri. rike, OS riki, OHG rihhi [n.] "reign, realm" < \*rikja-. \ -->
+REF: [EDPG]\: 412
+
+### <a id="rikkī">\*rikkī- [f.] "female roe deer" (n)</a>
+W: \
+-- Du. _rekke_ [c.] \
+-- G _Ricke_ \
+PIE: \*Hrik-n-íh₂- \
+<!-- A zero-grade feminine derivation to the n-stem \*raiha(n)- < \*Hroiḱ-on-. The geminate \*kk arose by the operation of Kluge's law. \ -->
+REF: [EDPG]\: 413
+
+### <a id="rīma">\*rīma- [n.] "number, calculation" (n)</a>
+N: \
+-- ON _rím_ "computation" \
+W: \
+-- OE _rīm_ "number" \
+-- OHG _rīm_ [m.] "number, calculation" \
+<!-- COGN: Gr. v�pLTO) "countless" (< \*r;i-h₂ri-to-, Gr. apLflµ6c; [m.] "number, payment" < \*h₂ri-t-smo- (for the suffix -flµo-, see Milani 1987), Lat. ritus "use, rite" < \*h₂rei-tu-, OIr. rim [f.] "number, count", W rhifm. "number" < \*h₂rei(dʰ)-mo- \ -->
+<!-- The root \*h₂rei- has an extension \*h₂reidʰ- (for which see \*raida-) and it is possible that this extended root also gave rise to PGmc. \*rima- and W rhif < \*h₂rei(dʰ)-mo-, a clear Germanic-Celtic isogloss (cf. Hyllested 20 10). The root \*h₂rei- may in turn have arisen from \*h₂rh₁-ei-, i.e. an i-present to the root \*h₂reh₁- "to count", for which see \*rapjon-. \ -->
+REF: [EDPG]\: 413
+
+### <a id="rimi">\*rimi- [f.] "beam" (n)</a>
+N: \
+-- ON _rim_ "rail; rung" \
+-- Far. _rim_ "slat, narrow, board" \
+W: \
+-- E _rim_ "rung; edge" \
+-- Du. dial. _rim_ "edge, rim" \
+<!-- Cf. ON rimi [m.] "bar; strip of land, ridge", OE rima [m.] "edge, verge; strip of land", MDu. reme [m.] "frame", MHG reme [m./f.] "frame, support" < \*riman-. Not to be reconstructed with \*e in the root (as if related to \*remiz-, q.v) in view of Sw. dial. riiimu [f.] "thin bar" < \*rim6n (Magnusson 1989: 762). The latter connection furthermore precludes the link with Lith. rJme [f.] "frame" < \*h₁reh₁-m-ieh₂-. \ -->
+REF: [EDPG]\: 413
+
+### <a id="rinnan">\*rinnan- [st.] "to run" (v)</a>
+E: \
+-- Go. _rinnan_ "to run, rush" \
+N: \
+-- ON _renna_ "to run, flow" \
+-- Far. _renna_ "id." \
+-- Elfd. _rinna_ (pres. _rið_ < ON \*_riðr_ < \*_rinnr_) "id." \
+W: \
+-- OE _rinnan_ \
+-- OS _rinnan_ "to run, flow" \
+-- OHG _rinnan_ "id.", G _rinnen_ "id." \
+PIE: \*h₃ri-nu-e- \
+<!-- COGN: Skt. rir:iati, rfr:i vati "to make flow, set off" < \*h₃ri-neu-, \*h₃ri-neh₂-, OCS rinpti "to push, shove", Ru. rinut'sja "to rush, dash", SCr. rl'nuti "to push" < \*h₃rei-n-H-e-, Skt. rfyate "to flow" < \*h₃riH-ie- \ -->
+<!-- The Germanic verb together with the aforementioned forms in the other languages points to a PIE transitive nasal present 3sg. \*h₃ri-neH-ti, 3pl. \*h₃ri-nH-enti or 3sg. \*h₃ri-neu-ti, 3pl. \*h₃ri-nu-enti. The Germanic root \*rinnmay then have developed from the plural form by either laryngeal gemination (LUhr 1976) or regular assimilation of -ny- to \*-nn-. Given the intransitive meaning of the Germanic verb it is also possible, however, to start from a medio-passive formation \*h₃ri-nH-e- or \*h₃ri-nu-e-. After the PGmc. raising of \*e to \*i before \*-nn-, the verb was reanalyzed as deriving from \*renn- and subsequently incorporated into the third class of the strong verbs. See also \*runnon- and \*risan-. \ -->
+REF: [EDPG]\: 413
+
+### <a id="rīpi">\*rīpi- "ripe" (adj)</a>
+W: \
+-- OE _rīpe_, E _ripe_ \
+-- OFri. _rīp_ \
+-- OS _rīpi_ \
+-- Du. _rijp_ \
+-- OHG _rīf_, G _reif_ \
+<!-- A _vr̥ddhi_-gerundive to \*rlpan- "to harvest", for which see \*rifan- ~ \*rlpan-. \ -->
+REF: [EDPG]\: 414
+
+### <a id="rippōn">\*ripp/bōn- [wk.] "to tear" (v)</a>
+N: \
+-- Far. _ripa_ "to tear off; to hurl, fling" \
+-- Nw. _ripa_ "to tear off" \
+W: \
+-- MDu. _repen_ "to tear", EDu. _reppen_ "to pluck", Du. _rippen_ "to tear off (violently)" \
+-- G Pal. _reffen_ "to reap" \
+PIE: \*Hrip-neh₂- \
+<!-- The iterative to \*rifan- ~ \*rlpan- (q.v.) . The underlying formation \*Hrip-neh₂- has also been reconstructed for MIr. repaid (< \*h₁reip-neh₂-), but it is uncertain whether Stokes' law (i.e. Kluge's law in Celtic) can be maintained. The alternative is to start from \*Hri-m-p- with a nasal infix. \ -->
+REF: [EDPG]\: 414
+
+### <a id="rīrēn">\*rīrēn- [wk.] "to tremble" (v)</a>
+E: \
+-- Go. _reiran_ "id." \
+<!-- COGN: Skt. leliiyati "to move to and fro, tremble" < \*Hrei-Hr(o)iH- \ -->
+<!-- Also cf. Go. reiro [f.] "earthquake, trembling". A stative verb continuing an IE reduplicated perfect (Jasanoff 1978a: 71-2, fn. 27), cf. Skt. lel&ya < \*Hrei-HroiH-e (the aforementioned presentic formation is secondary). Similar remodelings are represented by \*biben- and \*gigen- (q.v.). Unrelated to OE rarian [wk.] "to roar" < \*rairo [ja)n- (_pace_ e.g. Lehmann 1986: 283-4). \ -->
+REF: [EDPG]\: 414
+
+### <a id="rīsan">\*rīsan- [st.] "to rise, get up" (v)</a>
+E: \
+-- Go. _ur-reisan_ \
+N: \
+-- ON _rísa_ \
+-- Far. _rísa_ \
+W: \
+-- OE _rīsan_, E _to rise_ \
+-- OFri. _rīsa_ \
+-- Du. _rijzen_ \
+-- OHG _rīsan_ "to fall", MHG _rīsen_ "id." \
+PIE: \*h₃réis-e- \
+<!-- COGN: Hitt. arai ~ arijanzi "to (a)rise, lift; raise", CLuv. ariOaJ- "to raise" < \*h₃r-6i-ei, \*h₃r-i-enti, Gr. 6pivw, -oµm "to excite, stir" < \*h₃r-i-n-ie-, Lat. orior, -iri "to come up, rise", Alb. rri "to sit down, stand, stay", Arm. ari imp. "rise!" < \*h₃r-ei- \ -->
+<!-- An s-extension (desiderative?) of the root \*h₃r-ei- "to start moving". In Germanic, this meaning of this root paradoxically split into 1) "to move up" and 2) "to move down". The latter is also apparent from OHG alt-riso [m.] "someone who is about to die of old age" < \*-risan-. See also \*raizjan-. \ -->
+REF: [EDPG]\: 414
+
+### <a id="rōan">\*rōan- [st.] "to row" (v)</a>
+N: \
+-- ON _róa_ \
+-- Far. _rógva_ [irr.] \
+-- Elfd. _ruo_ [wk.] \
+W: \
+-- OE _rowan_, E _to row_ \
+-- MDu. _roen_, _roeyen_ [wk.], Du. _roeien_ [wk.] \
+-- MHG _rüejen_ [wk.] \
+PIE: \*h₁róh₁-e- \
+<!-- COGN: Identical to OIr. raid "to row"; also cf. Lith. irti (iriu), Latv. ift "id." < \*h₁rh₂ie- \ -->
+<!-- An o-grade intensive verb to the PIE root \*h₁reh₂. The ON preterite rera developed from a reduplicated form \*rero- < \*h₁re-h₁roh₂. See also \*ropra-. \ -->
+REF: [EDPG]\: 414
+
+### <a id="rōbjōn">\*rōbjōn- [f.] "turnip" (n)</a>
+W: \
+-- MDu. _rove_, Du. dial. _reuf_ \
+-- OHG _ruoba_, _ruoppa_, G _Rube_ \
+PIE: \*rā̆p- \
+<!-- COGN: Gr. paIDJ;, paqm; [f.] "id." < \*riipfh'-, Lith. r6pe [f.] "turnip", Lat. riipa [f.], -um [n.] "id." < \*riip- (hardly \*reh₂p-), Rues repa, Ru. repa, SCr. repa [f.] "id." < \*rep- (hardly \*reh₁p-), W erftn pl. "id." < \*arp-(?) \ -->
+<!-- A post-IE word, possibly a Wanderwort or a relic from the agricultural cultures that covered Europe before the arrival of the Indo-Europeans. This non-IE origin is betrayed by the many formal irregularities displayed by the different IE languages, which makes it impossible to reconstruct a single proto-form. It is to be noted that the alternation of \*rap- vs. arp- is reminiscent of the one found in the etymological cluster of e.g. \*arut- "ore", and supports the hypothesis of an a-prefix in a Pre-Indo-European language (Schrijver 1997). \ -->
+REF: [EDPG]\: 415
+
+### <a id="rōbōn">\*rōbōn- [f.] "tail" (n)</a>
+N: \
+-- ON _rófa_ \
+-- Far. top. _rógva_ "narrow projection" \
+-- Nw. _rove_ "tail; corner of a field" \
+W: \
+-- G Alem. _rueb(en)_ "(base of the) tail" \
+<!-- Clearly in ablaut relation to Icel. raft [m.] "strip (of land)", Far. ravi [m.] "strip of halibut; side of a ray", Nw. rave [m.] "rag; strip of land" < \*h₁rop-on- or \*h₁rb1p-on-. Unrelated to \*riibjiin- "turnip". \ -->
+REF: [EDPG]\: 415
+
+### <a id="rōdjan">\*rōdjan- [wk.] "to speak" (v)</a>
+E: \
+-- Go. _rodjan_ \
+N: \
+-- ON _rœða_ "to speak; to converse" \
+PIE: \*h₂roh₁dʰ-éie- \
+<!-- COGN: OIr. radid "to talk", imm-radi "to think", Lith. r6dyti (r6do), Latv. riidft "to show, indicate, demonstrate", OCS ne-raditi "to not care (about), not heed", ORu. raditi "to care (about)", SCr. raditi "to strive, work" < \*h₂roh₁dʰ-eie- \ -->
+<!-- In view of the meaning of OIr. radid, it seems evident that Gm. \*rodjanrepresents the causative to the strong verb \*redan- < \*h₂reh₁dʰ-, i.e. an extension of the root \*h₂reh₁- with the root \*-dʰh₁-. \ -->
+REF: [EDPG]\: 415
+
+### <a id="rōkjan">\*rōkjan- [wk.] "to heed" (v)</a>
+N: \
+-- ON _rœkja_ "to heed, take care of" \
+W: \
+-- OE _rēcan_, _reccan_ (pret. _rōhte_) "id." \
+-- OS _rōkian_ "to be careful" \
+-- OHG _ruochen_ \
+<!-- COGN: Gr. apðyw "to help, assist" < \*h₂reh/g1-e- \ -->
+<!-- Probably derived from \*roko- as continued by OHG ruohha, MHG ruoche [f.] "heed, care", which is parallel to Gr. apwyð [f.] "help, assistence" < \*h₂rohlg'-eh₂-. The verb takes an oblique subject in e.g. MDu. mi roect "I care". Also cf. OE rece-leas, E reek-less, MHG ruoch-liis, G ruch-los, Du. roeke-loos "careless". \ -->
+REF: [EDPG]\: 415
+
+### <a id="rōō">\*rōō- [f.] "calm, rest" (n)</a>
+N: \
+-- ON _ró_ \
+-- Far. _rógv_ \
+-- Elfd. _ruo_ \
+W: \
+-- OE _rōw_ \
+-- OHG _ruowa_, G _Ruhe_ \
+PIE: \*h₁roh₁-ueh₂- \
+<!-- COGN: Identical to Gr. Epwð [f.] "withdrawal, rest"; also cf. Av. riiman- [n.] "rest" < \*h₁reh₂men-, Skt. frm6 "quiet, still" (adv) < \*h₁rh₁-mo, Gr. £pijµo; "lonely, uninhabited, deserted" < \*h₁reh₁-mo-, MW araf"quiet, leasurely, calm" < \*h₁erh₁-mo- \ -->
+<!-- Also cf. ON r6r, Far. r6gvur, OE row "quite, calm" < PGmc. \*roa- < PIE \*h₁roh₂uo- (with \*-ou- > \*-ii- in open syllables). \ -->
+REF: [EDPG]\: 415
+
+### <a id="rōta">\*rōta- "glad" (adj)</a>
+W: \
+-- OE _rōt_ "glad, cheerful; excellent" \
+PIE: \*HroHd-o- \
+<!-- COGN: Identical to OCS rado, SCr. riid [m.] "willing" < \*HroHd-o- \ -->
+<!-- A Slavic-Germanic isogloss (Lith. rodas "glad" was borrowed from Slavic). Also cf. the factitives rceta, OE a-retan [wk.] "to gladden" < \*rotjan-. \ -->
+REF: [EDPG]\: 416
+
+### <a id="rōþra">\*rōþra- [n.] "rudder" (n)</a>
+N: \
+-- Far. _róður_ \
+-- Elfd. _ruoðer_ \
+W: \
+-- OE _rodor_, E _rudder_ \
+-- OFri. _roder_ [m.] \
+-- Du. _roer_ \
+-- OHG _ruodar_ "oar, rudder", G _Ruder_ "id." \
+PIE: \*h₁róh₁-tro- \
+<!-- COGN: Cf. Skt. aritra- [n.] "id.", Lith. irklas [m.] "id." < \*h₁(e)rh₂tlo- \ -->
+<!-- An instrumental noun derived from \*roan- (q.v.) . Also cf. ON r6or, gen. r6orar [m.] "rowing" < \*ropru-. \ -->
+REF: [EDPG]\: 416
+
+### <a id="ruddōn">\*rud(d)ōn- [wk.] "to clear" (v)</a>
+W: \
+-- MDu. _roden_ "to clear", Du. _rooien_ "to pull out, clear (of land)" \
+-- MHG _roten_ "to clear", G _aus-rotten_ "to exterminate" \
+<!-- The iterative to \*reudan- 2 (q.v.). \ -->
+REF: [EDPG]\: 416
+
+### <a id="rudēn">\*rudēn- [wk.] "to redden" (v)</a>
+N: \
+-- ON _roða_ "to emit a red gleam" \
+-- Far. _roða_ "to redden" \
+-- Elfd. _roðå_ "to turn red (e.g. of the sky)" \
+W: \
+-- OHG _rotēn_ "to redden, shine red" \
+PIE: \*h₁rudʰ-eh₁- \
+<!-- COGN: Identical to OCS rbdeti "id.", Lat. rubeo, -ere "id." \ -->
+<!-- A stative related to the strong verb \*reudan- 1 (q.v.). \ -->
+REF: [EDPG]\: 416
+
+### <a id="rugi">\*rugi- [m.] "rye" (n)</a>
+N: \
+-- ON _rugr_ \
+-- Far. _rugur_ \
+-- Elfd. _rug_ \
+W: \
+-- OE _ryge_, E _rye_ \
+-- WPhal. _rů-strô_ "rye straw" \
+PIE: \*rugʰ-i- \
+<!-- COGN: Identical to Lith. rugiai [m.pl.] "id.", Latv. rudzi pl. "id.", OCS r'bZb [f.] "id." \ -->
+<!-- An i-stem existing beside the more secondary n-stem \*rukk/gan- (q.v.). The primary formation is not only attested in ON and OE, but probably also as WPhal. rzi-stro "rye straw" and indirectly as the diminutive Du. dial. reugel "rye" (WBD I, 8: 1403) < \*rugila-. With Balta-Slavic pointing to a proto-form \*rugʰ-i- as well, the geographic distribution of this etymon is suggestive of a post-Indo-European origin, cf. Thrac. (�a "emmer-wheat, rye" < \*urugʰi-(?), the source of Bulg. brica "summer wheat". Gr. opu�a "rice" seems to be an unconnected loanword from Eastern Iranian, cf. Pash. vrize [f.pl.] "rice". \ -->
+REF: [EDPG]\: 416
+
+### <a id="rūjan">\*rūjan- [wk.] "to tear" (v)</a>
+N: \
+-- ON _rýja_ "to pluck the wool off sheep" \
+-- Icel. _rýja_ "to shear" \
+PIE: \*HruH-ie- \
+<!-- COGN: ToB riiwa- "to tear out", Lat. ruo, -ere "to plough up, dig out" < \*HreuH-e-, OCS nvati "to tear out" < \*HruH-eh₂-, Lith. rauti (rauju) "to tear out, weed" < \*HrouH-eie- \ -->
+<!-- The possibility exists that the verb continues an old zero-grade ie-present \*HruH-ie- related to \*rewan- and \*rawwo- (q.v.), but it seems more probable that it was derived more recently from a nominal base to be identified as Jee!. ru [f.] "coarse wool", Nw. ru [f.] "old winter wool" < \*HruH-eh₂, cf. Nw. rua [wk.] "to pluck off wool" < \*riiojan-. \ -->
+REF: [EDPG]\: 416
+
+### <a id="rukjan">\*rukjan- [wk.] "to chew the cud, ruminate" (v)</a>
+W: \
+-- MDu. _ed-ricken_ \
+-- MHG _ita-rücken_ \
+PIE: \*Hrug-ie- \
+<!-- A compound verb from PGmc. \*edi "again" (< PIE \*h₁etl) and \*rukjan- "to chew". Also cf. OE ed-roc "cud" < \*edi-ruka- and the derivationally unclear Nw. jort [f.] "id." (< \*ehurti- < \*eruhti- < \*edi-ruhti-?). Old English also has a frequentative rocettan [wk.] "to belch" < \*ruk-atjan-. \ -->
+REF: [EDPG]\: 417
+
+### <a id="rukkan">\*rukk/gan- [m.] "rye" (n)</a>
+W: \
+-- OFri. _rogga_ \
+-- OS _roggo_, _rokko_ \
+-- Du. _rogge_ [c.] \
+-- OHG _rocko_, G _Roggen_ \
+<!-- An n-stem derived from the more primary formation \*rugi- (q.v.). The dominant form is \*ruggan-, but OS rokko and Du. obs. rage may point to two additional variants \*rukkan- and \*rugan-. If these reconstructions are valid, the word must be derived from an n-stem \*rugo, gen. \*rukkaz < \*rugʰ-on, \*rugʰ-n-6s, assuming that this regular allomorphy gave rise to the analogical variant \*ruggan-. \ -->
+REF: [EDPG]\: 417
+
+### <a id="rukkōn-1">\*rukk/gōn- [wk.] "to move to and fro, to rock" (v)</a>
+N: \
+-- ON _rugga_ \
+-- Icel. _rugga_, _rogga_, _rokka_; _roga_ "to slave, work hard; to jerk" \
+-- Far. _rugga_ "to rock" \
+W: \
+-- OE _roccian_ "id.", E _to rock_ \
+-- WFri. _rokke_, _rukke_ "to rock, jerk", EFri. _rukje_ "id." \
+-- EDu. _rocken_ "to incite" \
+PIE: \*h₃ruk-neh₂-(?) \
+<!-- COGN: Pali luncati "to pluck", Lat. runco, -ere "to grub up plants, weed" < \*h₃ru-n-k-e-, Gr. 6puaaw "to dig, grub" < \*h₃ruk-ie- \ -->
+<!-- An old iterative possibly corresponding to the aforementioned nasal presents in Sanskrit and Latin. Within Germanic, however, the presence of the a-grade variant \*rakk/gon- could indicate that the u of \*rukk/gon- represents a secondary zero grade. If so, it is tempting to derive the iterative from an unknown strong verb \*rehan- or \*regan- (cf. Lith. roiyti "to touch, hit" < \*HrogʰJ_eie-?). Within Germanic, further cf. ON rykkja [wk.] "to jerk", ME richen [wk.] "to pull", OHG rucken [wk.] "id.", G riicken [wk.] "id.", Du. rukken [wk.] "id." < \*rukkjan-. \ -->
+REF: [EDPG]\: 417
+
+### <a id="rukkōn-2">\*rukk/gōn- [wk.] "to smoke; to rush" (v)</a>
+N: \
+-- Nw. _rogga_ "to speed up, make move" \
+W: \
+-- G Cimb. _rucken_ "to smoke" \
+<!-- The iterative to \*reukan- ~ \*rukan- (q.v.). The meanings of this strong verb, i.e. 1) "to smoke" and 2) "to drift, fly" reappear in Cimbrian and Norwegian respectively. \ -->
+REF: [EDPG]\: 417
+
+### <a id="rūma">\*rūma- "roomy, spacious" (adj)</a>
+E: \
+-- Go. _rums_ \
+N: \
+-- ON _rúmr_ \
+-- Far. _rúmur_ \
+W: \
+-- OE _rūm_ \
+-- OFri. _rūm_ \
+-- Du. _ruim_ \
+-- OHG _rūmi_, MHG _rūm_, _rūme_ \
+PIE: \*HruH-mo- \
+<!-- COGN: ToAB riiw- "to open" < \*Hreu-, Av. rauuah- [n.] "open space", Latin rus, ruris [n.] "countryside", OIr. r6e [f.] "field, open land" < \*HreuH-es-, OCS ravbn'b "open" < \*HoruH-ino- \ -->
+<!-- A mo-stem to a PIE root \*HreuH-. Also cf. Go. rum\*, ON rum, OE rum [m.], Du. ruim [n.], OHG rum, G Raum [m.] "space" < \*ruma- and the factitive ON ryma "to clear; to escape", OS rumian, Du. ruimen, MHG rumen, G riiumen [wk.] "to clear" < \*rumjan-. \ -->
+REF: [EDPG]\: 418
+
+### <a id="runi">\*runi- [m.] "run, stream" (n)</a>
+E: \
+-- Go. _runs_ "run, course", ur-runs "rising (of the sun), exit, latrine" \
+W: \
+-- OE _ryne_ "course, running" \
+-- OHG _runs_ [m./f.] "flood, current" \
+<!-- An i-stem to the non-geminated root of \*rinnan-. Also cf. MHG riinne [f.] "wave" < \*runnj6(n)-. \ -->
+REF: [EDPG]\: 418
+
+### <a id="runnōn">\*runnōn- [wk.] "to run, flow" (v)</a>
+W: \
+-- MDu. _ronnen_ \
+<!-- The iterative to \*rinnan- (q.v.). \ -->
+REF: [EDPG]\: 418
+
+### <a id="ruppōn-1">\*rupp/bōn- [wk.] "to tear off" (v)</a>
+N: \
+-- ON _ruppa_ "to tear loose" \
+W: \
+-- LG _rubben_ "to scratch, rip" \
+-- MDu. _roppen_ "to jerk, tear off" \
+-- MHG _ropfen_, _rupfen_ "to rip", G _rupfen_ "to pluck" \
+PIE: \*Hrup-neh₂- \
+<!-- The iterative to \*reufan- (q.v.), to be reconstructed with a paradigm 3sg. \*rupp6pi, 3pl. \*rubunanpi < \*Hrup-neh₂-ti, \*Hrup-nh₂-enti. The iterative served as the basis for the intensive \*raupjan- (q.v.). \ -->
+REF: [EDPG]\: 418
+
+### <a id="ruppōn-2">\*rup(p)ōn- [wk.] "to belch" (v)</a>
+N: \
+-- ON _ropa_ "to belch; to shout (esp. of grouse)" \
+-- Far. _ropa_ \
+W: \
+-- MDu. _roppen_, Du. _roppen_ "to devour" \
+<!-- An iterative formation, probably of sound-symbolic origin, cf. E to burp. It formed the derivational base for the Nordic word \*reup6n- "grouse" (q.v.). Also cf. OHG roffezzen, MHG rofzen "to belch" < \*rupatjan-. \ -->
+REF: [EDPG]\: 418
+
+### <a id="rusila">\*rusila- [m.] "fat" (n)</a>
+W: \
+-- OE _rysel_ "fat" \
+-- OS _ruslos_ [m.pl.] "piece of bacon" \
+-- Du. _reuzel_ [c.] "tallow" \
+<!-- Cf. the derivationally more primitive ON hold-rosa, Nw. kjtJt-rose [f.] "fleshy side of a hide" < \*rus6n- as well as Sw. r6sen "paunch-fat" < \*rusina-(?) and OE rti!ge-reose [f.] "spinal muscles" < \*-reuson-. Presumably related to Nw. rysja [wk.] "to flay" < \*rusjan-. \ -->
+REF: [EDPG]\: 418
+
+### <a id="ruttōn">\*rut(t)ōn- [wk.] "to lament" (v)</a>
+N: \
+-- Far. _ruta_ "to grumble, complain" \
+W: \
+-- G Pal. _rotzen_ "to cry" \
+PIE: \*Hrud-neh₂- \
+<!-- The iterative to either \*reutan- or \*h₂eutan- ~ \*h₂iitan-. The Farnese form can alternatively be lumped under \*h₂ut(t)on- (q.v.). \ -->
+REF: [EDPG]\: 418
+
+### <a id="ruzlja">\*ruzlja- "loose (of sand)" (adj)</a>
+W: \
+-- Du. _rul_ \
+PIE: \*Hrus-lo- \
+<!-- COGN: Lith. raiisti (rausiu) "to scrabble" < \*Hrous-ie-, OCS razdrusiti "to destroy" < \*Hrous-eie-, Ru. rjxlyj "loose, rough, course" \ -->
+<!-- Also cf. Du. dial. rul [c.] "june bug" (lit. "scrabbler"?). \ -->
+REF: [EDPG]\: 419
