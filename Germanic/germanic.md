@@ -18598,7 +18598,7 @@ W: \
 -- Du. _made_ [c.] "maggot" \
 -- OHG _mado_ "maggot, worm", MHG _matte_ [f.] "moth", G _Made_ "maggot" \
 <!-- COGN: Ru. mot.JI' "maggot" \ -->
-<!-- An n-stem that together with \*muj:Jj:Ja/on- (q.v.) split offfrom an ablauting paradigm nom. \*maj:Jo, gen. \*muttaz continuing \*m6t-6n, \*mt-n-6s (Kroonen 201 1a: 218-2 1). For the full grade, also cf. ON maokr, ME maoek, maggot, maddock, MLG maddike, meddeke < \*maj:ḱkan-, Nw. mare [m.] "woodworm" < \*maj:Jran- and Nw. mrere [m.] "mite" < \*maprjan-. \ -->
+<!-- An n-stem that together with \*muþþa/on- (q.v.) split offfrom an ablauting paradigm nom. \*maþo, gen. \*muttaz continuing \*m6t-6n, \*mt-n-6s (Kroonen 201 1a: 218-2 1). For the full grade, also cf. ON maokr, ME maoek, maggot, maddock, MLG maddike, meddeke < \*maj:ḱkan-, Nw. mare [m.] "woodworm" < \*maþran- and Nw. mrere [m.] "mite" < \*maprjan-. \ -->
 REF: [EDPG]\: 358
 
 ### <a id="maþla">\*maþla- [n.] "meeting-place" (n)</a>
@@ -18610,7 +18610,7 @@ W: \
 -- OE _mæðel_ "assembly, council; speech, address" \
 -- OS _mahal_ "court, meeting; speech" \
 -- OHG _mahal_ "court, assembly" \
-<!-- An instrumental noun in \*-tlo-, derived from the zero-grade stem of \*motan- (q.v.). The resulting \*mad-tlo- developed into PGmc. \*maj:Jla through a simplified form \*matlo-, and further into \*mahla- in NWGm. (cf. \*stahla- and \*staj:Jla-) . \ -->
+<!-- An instrumental noun in \*-tlo-, derived from the zero-grade stem of \*motan- (q.v.). The resulting \*mad-tlo- developed into PGmc. \*maþla through a simplified form \*matlo-, and further into \*mahla- in NWGm. (cf. \*stahla- and \*staþla-) . \ -->
 REF: [EDPG]\: 358
 
 ### <a id="mauja">\*mauja- "fine, pretty" (adj)</a>
