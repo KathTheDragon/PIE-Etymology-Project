@@ -20545,7 +20545,7 @@ W: \
 -- MDu. _pat_ [m./n.], Du. _pad_ [n.] \
 -- OHG _pfad_ [m./n.], G _Pfad_ [m.] \
 PIE: \*pap- \
-<!-- Also cf. OHG pfadon [wk.] "to go", Du. obs. na-paden [wk.] "to track" < \*papojan- and OE prefJfJan [wk.] "to traverse", LG pedden [wk.] "to step on" < \*papjan-. A WGm. word without a clear etymology. Possibly, it was adopted from an Iranian source \*paB-, cf. Av. pant&, gen. pa()o < \*pont-eh₁-s, \*pnt-h₁-6s, perhaps from Migration Age Alanic or Sarmatian (Bailey/Ross 1961; Green 1999: 28). Ossetic frendag "path, road" does not preserve the form \*pa{)-, and builds on Pir. \*pantiika- with the full grade root, but fre t.reg "leader" < \*pa{)aka- does contain the required root. An alternative possibility is to assume borrowing from PCelt. \*bato- < \*gʷ(l2-to-, a formation to the PIE root \*gʷeh₂- "to tread". In the modern Celtic languages, however, the meaning of this word has clearly shifted to "pass away", cf. OIr. bath [n.] "death", MW bad "pest, plague". \ -->
+<!-- Also cf. OHG pfadon [wk.] "to go", Du. obs. na-paden [wk.] "to track" < \*papojan- and OE preþþan [wk.] "to traverse", LG pedden [wk.] "to step on" < \*papjan-. A WGm. word without a clear etymology. Possibly, it was adopted from an Iranian source \*paB-, cf. Av. pant&, gen. pa()o < \*pont-eh₁-s, \*pnt-h₁-6s, perhaps from Migration Age Alanic or Sarmatian (Bailey/Ross 1961; Green 1999: 28). Ossetic frendag "path, road" does not preserve the form \*pa{)-, and builds on Pir. \*pantiika- with the full grade root, but fre t.reg "leader" < \*pa{)aka- does contain the required root. An alternative possibility is to assume borrowing from PCelt. \*bato- < \*gʷ(l2-to-, a formation to the PIE root \*gʷeh₂- "to tread". In the modern Celtic languages, however, the meaning of this word has clearly shifted to "pass away", cf. OIr. bath [n.] "death", MW bad "pest, plague". \ -->
 REF: [EDPG]\: 396
 
 ### <a id="piþman">\*piþman- ~ \*pittan- [m.] "root, pith" (n)</a>
@@ -20965,7 +20965,7 @@ W: \
 -- ODu. _rath_, Du. _rad_ \
 -- OHG _rad_, _hrad_, G _Rad_ \
 PIE: \*Hrót-h₂-o- \
-<!-- COGN: Skt rcitha-, YAv. rafJa- [m.] "chariot", Lith. riitas [m.] "wheel, circle, ring", pl. "cart" < \*Hrot-h₂-o-, Lat. rota [f.] "wheel" < \*Hrot-eh₂- \ -->
+<!-- COGN: Skt rcitha-, YAv. raþa- [m.] "chariot", Lith. riitas [m.] "wheel, circle, ring", pl. "cart" < \*Hrot-h₂-o-, Lat. rota [f.] "wheel" < \*Hrot-eh₂- \ -->
 <!-- An IE word for "wheel". Possibly, the different attestations are continuations of an ablauting hz-stem, e.g. \*Hr6t-(e)h₂, gen. \*Hr(o)t-h₂-6s. \ -->
 REF: [EDPG]\: 405
 
@@ -22496,7 +22496,7 @@ W: \
 -- OHG _semida_ [f.], MHG _semede_, _sende_, _semt_, _sebede_ [n./f.] \
 PIE: \*sem- \
 <!-- COGN: OIr. simin, sibin(n), sibhean(d) [f.] "rush, reed; corn-stalk" < \*sem-ino-(?) \ -->
-<!-- A formation containing the \*ep-suffix for groups of trees and plants, cf. Sw. ide [n.] "ivy" < \*iwepja- under \*lwa-. The underlying root \*sem- is likely to be connected with OIr. simin(n), sibin(n), sibhean (the forms with -b(h)arose by nasal dissimilation of [s&aCfJ.J) to [sivaCnl]). Its relation to ON sef, Far. sev, Sw. siiv [n.] "reed" is unclear, however: if this Nordic word is not a loan from Old Irish, it implies a proto-form \*seba- that together with the element \*sem- would result in an irregular, un-Indo-European root alternation \*seb- ~ \*sem- as in e.g. \*samda- "sand" (q.v.). Also cf. the secondary collective OS semithahi, OHG semidahi, MHG semedehe [n.] "reed bank" < \*semep-ahja-. \ -->
+<!-- A formation containing the \*ep-suffix for groups of trees and plants, cf. Sw. ide [n.] "ivy" < \*iwepja- under \*lwa-. The underlying root \*sem- is likely to be connected with OIr. simin(n), sibin(n), sibhean (the forms with -b(h)arose by nasal dissimilation of [s&aCþ.J) to [sivaCnl]). Its relation to ON sef, Far. sev, Sw. siiv [n.] "reed" is unclear, however: if this Nordic word is not a loan from Old Irish, it implies a proto-form \*seba- that together with the element \*sem- would result in an irregular, un-Indo-European root alternation \*seb- ~ \*sem- as in e.g. \*samda- "sand" (q.v.). Also cf. the secondary collective OS semithahi, OHG semidahi, MHG semedehe [n.] "reed bank" < \*semep-ahja-. \ -->
 REF: [EDPG]\: 432
 
 ### <a id="senīga">\*seniga- "senior" (adj)</a>
@@ -22829,7 +22829,7 @@ W: \
 -- OHG _scato_, G _Schatten_ \
 PIE: \*skh₃-tu- \
 <!-- COGN: Gr. aK6wc; [m.] "darkness, dark" < \*skh₁-to-, OIr. seith [n.] "shadow", MWysgawd [m.] "shade, darkness" < \*skoh₁-to- \ -->
-<!-- Also cf. Far. skadda, skfJdda, Nw. skodde [f.] "mist" < ON \*skadda, obl. \*skpddu (with an unclear geminate). \ -->
+<!-- Also cf. Far. skadda, skþdda, Nw. skodde [f.] "mist" < ON \*skadda, obl. \*skpddu (with an unclear geminate). \ -->
 REF: [EDPG]\: 438
 
 ### <a id="skaiwarō">\*skaiwarō- [f.] "magpie" (n)</a>
@@ -26317,3 +26317,1372 @@ PIE: \*sur-neh₂- \
 <!-- COGN: Skt. svarati "to sound, make a sound, snort", OAv. xvaramna- ptc.pres.med. "swearing" < \*suer-e-, Gr. upov [n.] "beehive, bee swarm" < \*suro-, MW chwyrnaf "to snore" < \*suer-neh₂- \ -->
 <!-- An iterative verb closely related to Icel. svarra [wk.] "to murmur, crack" < \*swarron- < \*suor-neh₂-. Also cf. MHG surm [m.] "buzz" < \*surma- and Icel. svarmr [m.] "tumult", OE swearm [m.] "swarm, crowd", MDu. swarm [m./n.] "swarm", Du. zwerm [c.] "id.", OHG swarm, G Schwarm [m.] "id." < \*swarma-. Related to \*swar(j)an-(?). \ -->
 REF: [EDPG]\: 503
+
+## T
+
+### <a id="tabjan">\*tabjan- [wk.] "to delay, hinder" (v)</a>
+N: \
+-- ON _tefja_ "to hinder, delay" \
+PIE: \*dobʰ-éie- \
+<!-- COGN: Identical to OAv. diibaiieiti "to deceive", YAv. dauuaiieiTJ tfptc.f. "damaging" < \*dobʰ-eie-; also cf. Skt. dfpsati des. "to deceive" < \*di-dbʰ-s-e- \ -->
+<!-- ON _tejja_ formally and semantically classifies as a causative, which allows us to reconstruct the verb as Pre-Gm. \*dobʰ-eie-. I connect this formation to the aforementioned Indo-Iranian forms, which in spite of the older literature cannot be based on a root \*dʰebʰ- with aspirated dental (LIVZ: 13 2-3). Cf. \*toba- "hesitation" and perhaps also Far. tava "to endeavor, exert oneself" \ -->
+REF: [EDPG]\: 504
+
+### <a id="tafna">\*tafna- [n.] "sacrificial meat" (n)</a>
+N: \
+-- ON _tafn_ \
+PIE: \*dh̥́₂p-no- \
+<!-- COGN: Formally identical to Lat. damnum "loss, expense", Arm. tawn "feast"; also cf.. Lat. daps [f.] "sacrificial meal, feast" < \*dʰrp-, Gr. _8arr6:VTJ_ [f.] "cost" < \*dʰrp-nh₂-, Hitt. tappala- "person responsible for court cooking"(?) \ -->
+<!-- A formation possibly derived from a verbal root, cf. Gr. 86:m:w "to tear to pieces, slaughter" < \*dʰrp-ie- and ToA tiipii- suppl. "to eat" < \*dʰrp- (Adams 1999: 286). The word also has some conspicuously close lookalikes in Semitic, however, cf. Akk. zfbu, Ugar. dbb, Hebr. zel;Jab "sacrifice, sacrificial animal" (cf. Moller 1911: 44-5). See also \*tapp/bon- "to lose". \ -->
+REF: [EDPG]\: 504
+
+### <a id="tagla">\*tagla- [n.] "hair" (n)</a>
+E: \
+-- Go. _tagl_ \
+N: \
+-- ON _tagl_ "horse's hair, tail" \
+W: \
+-- OE _tægl_ [m.] "id.", E _tail_ \
+-- MLG _tagel_ "end of a rope" \
+-- OHG _zagal_ [m.] "tail, sting, penis", MHG _zagel_ [m.] "id." \
+PIE: \*dok/ḱ-ló- / \*dHk/ḱ-ló- \
+<!-- The word has been compared to Skt. dasii- [f.] "fringe" < \*deJ-eh₂-, OIr. dual [m.] "tuft, plait" < \*doJ-lo-(?) and SCr. dldka [f.] "single hair" < \*dok-leh₂ (with depalatalization and metathesis, Matasovic 2009: 102). Within Germanic, however, \*tagla- can just as well be a diminutive \*dHk-16- to the root of \*tahjan- "to tear, unravel" or to \*togan- ~ \*takkan- "prickle, branch". \ -->
+REF: [EDPG]\: 504
+
+### <a id="tagra">\*tagra- ~ \*trahna- [n.] "tear" (n)</a>
+E: \
+-- Go. _tagr_ \
+N: \
+-- ON _tár_ \
+-- Far. _tár_ \
+-- Elfd. _tår_ \
+W: \
+-- OE _tæhher_, _tēar_, _teagor_ [m.], E _tear_ \
+-- OFri. _tār_ [m./n.] \
+-- OS _trahan_ [m.] \
+-- Du. _traan_ [c.] \
+-- OHG _trahan_, _zahar_ [m.], MHG _traher_, _zaher_ [m.], G _Trähne_, obs. _Zähre_ [f.] \
+PIE: \*drli-h₂eli-ur/n- \
+<!-- COGN: Gr. MKpu "id." < \*dʰr1i-ru-, Arm. artawsr, pl. artasu-k' "id." < \*drh₂1i-ru-/-un-, Lat. dacrima, lacrima "id." < \*dʰrJ-ru-meh₂, OIr. der "id.", W deigr "id." < \*dʰr1i-ro-; also cf. Hitt. isbabru- "tear(s), weeping" \ -->
+<!-- An old PIE heteroclitic that can only be reconstructed with great difficulties due to the many formal problems in both Germanic and the other IE languages. The Germanic dialects provide evidence for four different stem variants: 1) Go. tagr, OE teagor < \*tagra-; 2) OE tEhher, OFri. tar, OHG zahar < \*tah₂a-; 3) MHG traher < \*trahra-; and 4) OS, OHG trahan < \*trahna-. Presumably, these variants all split off from a heteroclitic paradigm, e.g. nom. \*tragru (> \*tagru by dissimilation), gen. \*trahnaz. According to Kortlandt 198Sb, the original PIE word developed from a compound \*dr](-h₂ek-ur, \*drK-h₂eK-un-h₂, identifying the first member as the PIE root \*derk- "to see" (cf. \*turhta- "clear"). The second element \*h₂ek-ru- "tear" can be retrieved from ToA ākiir, ToB akriina pl. "tear", Skt. a§ru- [n.] "id.", YAv. asrii [n.] pl. "id.", NP ars, ask "id." and - in modified form - from Lith. āsara, Latv. asara [f.] "id." < \*h₂eK-or-eh₂-. \ -->
+REF: [EDPG]\: 504
+
+### <a id="tahjan">\*tahjan- [wk.] "to tear" (v)</a>
+E: \
+-- Go. _tahjan_ "lacerate, tear" \
+N: \
+-- Icel. _tæja_ "to card" \
+-- Far. _tæ(g)a_ "to pluck loose; to unravel; to tear into bits and pieces" \
+-- Nw. _tæja_ "to unravel, pluck" \
+PIE: \*dh₁k-ié- \
+<!-- Cf. Nw. ta [wk.] "to unravel" < \*taholja)n-; ON tag (pl. tagar, tEgr), Far. tag [f.] "fibre, sinew" < \*teg-o- < \*deh₁k-eh₂-; MHG zache, G Bav. Zahen, Zachen [m.] "wick; tousle" < \*tehan- < \*deh₁k-on- and perhaps also \*tagla- "hair" < \*dl)1k-lo-. \ -->
+REF: [EDPG]\: 505
+
+### <a id="taihwōn">\*taihwō(n)- ~ \*taiwō(n)- [f.] "toe" (n)</a>
+N: \
+-- ON _tá_, pl. _tær_ \
+-- Far. _tá_, pl. _tær_, dat. _tóm_ \
+-- Elfd. _ton_, pl. _töner_ \
+W: \
+-- OE _tā(he)_, E _toe_ \
+-- MLG _tē(n)_, _tēwe_ \
+-- Du. _teen_ [c.] \
+-- OHG _zēha_, G _Zehe_ \
+PIE: \*doiḱ-ueh₂- \
+<!-- An old derivation, apparently from the root of \*tihan- "to show, indicate" < \*deiK-e-, cf. Lat. digitus [m.] "finger; toe". The originally oxytone MLG tewe < \*taiwo(n)- points to an athematic paradigm, possibly \*d6iK-uh₂, gen. \*di](-ueh₂-s. The zero grade has a possible vestige in OGutn. tia, Gutn. (Faro) tiiia [f.] "toe" < \*ti(h)won (hardly \*tihwon-, Pipping 1904: 11-2) < \*dik-ueh₂. For the use of the suffix \*-won-, cf. \*tehswo(n)- "right (hand)". \ -->
+REF: [EDPG]\: 505
+
+### <a id="taikōn">\*taik/gōn- [wk.] "to show" (v)</a>
+W: \
+-- OHG _zeigōn_, G _zeigen_, Swi. Visp. _zeixxu_ \
+PIE: \*doiḱ-néh₂- \
+<!-- An a-grade iterative Pre-Gm. 3sg. \*taikkopi, 3pl. \*taigunanpi to the root of \*tihan- (q.v.). The Swiss form seems to point to \*taikon- with the geminated root generalized from the singular, but it may alternatively have been dissimilated from \*taiknojan-, cf. OHG zeihhonon, MHG zeichenen, zeichen [wk.] "to show". See also \*taikna-. \ -->
+REF: [EDPG]\: 505
+
+### <a id="taikjan">\*taikjan- [wk.] "to show" (v)</a>
+W: \
+-- OE _tǣcan_ "to show", E _to teach_ \
+<!-- A formation \*taikjan- created to the geminated root \*taikk- as found in \*taikna- and the iterative \*taik/gon-. Perhaps, the formation can be analyzed as continuing a medial causative, quasi-PIE \*doiK-nH-eie- "to make oneself point out". \ -->
+REF: [EDPG]\: 505
+
+### <a id="taikna">\*taikna- [n.] "sign" (n)</a>
+N: \
+-- ON _teikn_ \
+W: \
+-- OE _tācn_ \
+-- OS _tēkan_ \
+-- Du. _teken_ \
+-- MHG _zeichan_, G _Zeichen_ \
+<!-- A nominal derivative from the geminated root \*taik(k)- (for which see \*taikjan-), and the ON teikna, OE tcicnian, OFri. tekna, OHG zeihhonon [wk.] "to point out, indicate" < \*taiknojan-. Also cf. Go. taikns [f.] "omen, miracle" < \*taik-ni-, which similarly gave rise to the verb taiknjan [wk.] "to show". \ -->
+REF: [EDPG]\: 506
+
+### <a id="taikwer">\*taikwer- [n.] "brother-in-law" (n)</a>
+W: \
+-- OE _tācor_, _tācur_ [m.] "husband's brother, brother-in-law" \
+-- OFri. _tāker_ [m.] "id." \
+-- OHG _zeihhur_, _zeichur_, _zeihhor_ [m.], MHG _zeicher_ [m.] \
+PIE: \*deh₂i-uer- \
+<!-- COGN: Skt. devar- [m.] "husband's brother", NP dial. ewar, hewar "id.", Oss. tiw / tew "id.", Gr. liii�p [m.] "id.", Lat levir [m.] "id.", Arm. taygr "id.", Lith. dieveris, dieveris, Latv. dieveris, Ru. dever', SCr. djever [m.] "id." \ -->
+<!-- An old IE kinship term. As to the form of the word, there is reason to assume that PGmc. \*kw arose in the sequence laryngeal plus labial glide, cf. \*aikwernan- ~ \*lkwernan- "squirrel". The implied proto-form \*daiHuerprobably developed from PIE \*deh₂i-uer- by laryngeal metathesis (Kortlandt 1988b: 356). \ -->
+REF: [EDPG]\: 506
+
+### <a id="tailja">\*tailja- [m.] "teal" (n)</a>
+W: \
+-- ME _tēl_, E _teal_ \
+-- MLG _tēlink_ \
+-- MDu. _teling_, _teiling_, EDu. _teelingh_, Du. _taling_ [c.] \
+<!-- According to the OED, ME tel can be derived from OE \*til < \*tela- or \*tele < \*tailja-. The latter reconstruction is corroborated by the e vocalism of the MLG and MDu. forms. Modern Dutch taling with its ti < \*ai classifies as a Frisianism. \ -->
+REF: [EDPG]\: 506
+
+### <a id="taina">\*taina- [m.] "sprig" (n)</a>
+E: \
+-- Go. _tains_ "branch, shoot, twig" \
+N: \
+-- ON _teinn_ "twig; spit; stake" \
+W: \
+-- OE _tān_ "twig, sprout, shoot" \
+-- MLG _tēn_ "thin metal rod; shaft of an arrow" \
+-- MDu. _teen_ "willow twig", Du. _teen_ [c.] "id." \
+-- OHG _zein_ "twig, stick, ruler, shaft, pipe, bar (of metal)", MHG _zein_ "stick, twig, staff" \
+PIE: \*doin-o- \
+<!-- OE ta [f.] "twig", E mistle-toe is the same word: it lost its final -n due to conflation with \*taihwo(n)- "toe". I assume that \*taina- is related to \*tina- "tin" (q.v.) in view of the meaning "metal rod" in Middle Low German and Middle High German. Also cf. the diminutive OE ti!nel < \*tainila- and the derivation Go. tainjo, ON teina, OHG zeinna [f.] "basket" < \*tainjon-. \ -->
+REF: [EDPG]\: 506
+
+### <a id="tairi">\*tairi- "clear" (adj)</a>
+N: \
+-- ON _tærr_ "clear (of water)" \
+-- Nw. _tær_ "clean" \
+<!-- The Nordic forms point to a gerundive \*tairi- "visible" or "shining" (whence Far. ta?ri [n.] "quality" < \*tairja-) to the root of \*tlren- (q.v.). It corresponds to WGm. \*tiari- (OHG ziari, MHG ziere "neat, beautiful, splendid", MLG un-tere "ugly"), which I derive from \*diH-or-i- with a different suffix (the resulting diphthong \*ia merged with \*e2). Also cf. MLG ter, MDu. tier [n.] "splendor, thriving". \ -->
+REF: [EDPG]\: 506
+
+### <a id="taisan">\*taisan- [st.] "to tousle" (v)</a>
+W: \
+-- ME _tōsen_ [wk.] "to tease (wool, flax, etc.), card; to pull apart, to pluck" \
+-- OHG _zeisan_ "to pull, tousle, pluck", MHG _zeisen_ "id." \
+PIE: \*dóis-e- \
+<!-- In view of MDu. tesen "to point with a sharp object" < \*taisjan- (q.v.), the original meaning is likely to have been "to prick", whence "to untangle". In this way, the word became associated with wool carding, cf. OHG zeisala, OE ti!s(e)l [f.] "teasle" < \*taisilo-. The root \*tais- has no Indo-European etymology, but within Germanic, there is a clear associative link with the cluster of \*tilsan- (q.v.). Also cf. Nw., Sw., Elfd. test [m.] "strand of hair" < \*tista- and Du. dial. tist [c.] "tangle" < \*tisti-. \ -->
+REF: [EDPG]\: 507
+
+### <a id="taisjan">\*taisjan- [wk.] "to pluck, card, prick" (v)</a>
+N: \
+-- Sw. _tesa_ "pull, to pluck (of wool)" \
+W: \
+-- OE _tǣsan_ "to pluck, card", E _to tease_ \
+-- MLG _tēsen_ "to pluck, scratch" \
+-- MDu. _tesen_ "to pluck, jerk; to point something sharp at someone" \
+PIE: \*dois-éie- \
+<!-- The causative to \*taisan-. \ -->
+REF: [EDPG]\: 507
+
+### <a id="takan">\*takan- ~ \*tēkan- [st.] "to touch" (v)</a>
+E: \
+-- Go. _tekan_ \
+N: \
+-- ON _taka_ "to take; to reach, touch" \
+-- Far. _taka_ "id." \
+-- Elfd. _tågå_ "to take; to hit" \
+W: \
+-- MDu. _taken_ [wk.] "to take, seize" \
+PIE: \*th₂ǵ-e- \
+<!-- COGN: ToB tiik- "to touch" < \*th₂g- (with secondary ii after the full grade eek- < \*teg- < \*te-th₂.g-?), Gr. 1"£Taywv "taking" < \*te-th₂.g-ont- \ -->
+<!-- The Germanic strong verb is clearly derived from PIE \*teh₂.g-, but the development of this root into \*takan- and \*tekan- is not straightforward. An important problem is the ablaut difference between Go. tekan and ON taka. The later form seems to continue a tudati-formation with zero grade of the root, viz. \*th₂g-e-, but Go. tekan cannot regularly be derived from the full-grade \*teh₂g-e-, as this would give \*\*tokan-. The greatest difficulty, however, consists of the irregular correspondence of PGmc. \*t- with PIE \*t-. It has been suggested that the t arose in reduplicated root \*te-th₂.g-, cf. Gr. T£1"aywv. As laryngeals do not vocalize in unstressed syllables, this stem would yield a PGmc. form \*tedg- in which the reduplication may have been restored (Mottausch 1993). The long \*e can subsequently be explained as from a form \*deh₁g- that developed out of \*dedg- by dissimilation of the second (glottalized) \*d (Kortlandt 2000). An alternative explanation would be to assume that \*tekan- was back-formed to the iterative \*pak(k)on- < \*th₂g-neh₂-, as a-grade iteratives give rise to secondary reduplicated verbs more often, cf. \*slepan- "to sleep" from \*slapp/b6n- (q.v.). \ -->
+REF: [EDPG]\: 507
+
+### <a id="tala">\*tala- [n.] "number; speech" (n)</a>
+N: \
+-- ON _tal_ "talk; speech" \
+-- Far. _tal_ "number; speech_, conversation" \
+-- Elfd. _tal_ "number; talk(ing)" \
+W: \
+-- OE _tæl_, _ge-tæl_ "number; reckoning" \
+-- OS _gi-tal_ "number, row" \
+-- Du. _ge-tal_ "number" \
+PIE: \*dolH-o- \
+<!-- COGN: Hitt. tallijelazi "to pray to, evoke (a deity)" < \*dlH-ie-, Gr. MA.oc; [m.] "bait, trick", Arm. tof "row" < \*dolH-o- \ -->
+<!-- An a-stem close to Arm. tof. Also cf. ON telja, OE tellan, OFri. tella, Du. tellen, OHG zellen, G ziihlen [wk.] "to count; to talk" < \*taljan-. The oldest meaning seems to have been "to aline", whence "to (re) count". See also \*talOn-. \ -->
+REF: [EDPG]\: 508
+
+### <a id="talga">\*talga/ō- [m./n./f.] "tallow" (n)</a>
+N: \
+-- Icel. _tólg_ [f.] \
+-- Far. _talg_ [f.] \
+-- Nw. _talg_, _tolg_ [f.] \
+-- Elfd. _tåg_ [m.] \
+W: \
+-- OE _tælg_ [m.] "dye", E _tallow_ \
+-- MLG _talch_ [n.] \
+-- MDu. _talch_ [n.], Du. _talg_ [n.] \
+PIE: \*dolgʰ-o/eh₂- \
+<!-- COGN: Hitt. taiga- [c.] "fat, grease(?)" < \*dolgʰ-o- \ -->
+<!-- A possible Anatolian-Germanic isogloss (Rosenkranz 1964: 25 4). All Germanic attestations point to a root \*talg-. Icel. t6lg does not represent a zero-grade formation \*tulgo- (_pace_ Pokorny IEW: 196); its vowel 6 developed from ON \*p, which like other back vowels was regularly lengthened before + plus velar or labial, so as to merge with ON 6. Also cf. OE telgan , [wk.] "to dye" < \*talgjan-. \ -->
+REF: [EDPG]\: 508
+
+### <a id="talōn">\*talō(n)- [f.] "speech, recount" (n)</a>
+N: \
+-- ON _tala_ "speech; number" \
+W: \
+-- OE _talu_ "recount, story", E _tale_ \
+-- OFri. _tele_ "number; story" \
+-- MDu. _tale_ "conversation; speech", Du. _taal_ [c.] "language" \
+-- OHG _zala_ "number; calculation", G _Zahl_ "number, amount" \
+<!-- Related to \*tala- (q.v.). Also cf. ON tala "to speak", OE talian, OFri. talia, OS talon, OHG zalon "to count" < \*talOjan-. \ -->
+REF: [EDPG]\: 508
+
+### <a id="tamjan">\*tamjan- [wk.] "to tame" (v)</a>
+E: \
+-- Go. _ga-tamjan_ "tame, subdue" \
+N: \
+-- ON _temja_ "to tame; train" \
+W: \
+-- OE _temian_ \
+-- MLG _temen_, _temmen_ \
+-- Du. _temmen_ \
+-- OHG _zemman_, MHG _zemen_, G _zähmen_ \
+PIE: \*domh₂-éie- \
+<!-- COGN: Skt. damayati "to subdue" < \*domh₂-eie-, Lat. domo, -are "to tame" < \*domh₂-eh₂-ie-, Gr. cSaµvriµL "to tame", OIr. damnaim "to bind" < \*dm-n-eh₂- \ -->
+<!-- A verb continuing either a purely verbal causative to the root \*demh₂- (as known from the other IE languages) or a denominal factitive to ON tamr, OE, OFri. tam, OHG zam, G zahm "tame" < \*tama- < \*domh₂-o-. The simi- larly denominal OHG zamon, G zahmen [wk.] "to tame" < \*tamojan- is paral- leled by Lat. domiire. \ -->
+REF: [EDPG]\: 508
+
+### <a id="tandjan">\*tandjan- [wk.] "to kindle" (v)</a>
+E: \
+-- Go. _tandjan_ \
+N: \
+-- ON _tenda_ \
+W: \
+-- OE _on-tendan_, ME _on-tenden_ \
+PIE: \*dondʰ-éie- \
+<!-- The causative to \*tinnan- "to burn" (q.v.), which has \*tinn- < \*tindn-, cf. Far. tenna [wk.] "to provoke, irritate" continues \*tannjan-. Also cf. the inchoative Go. tundnan [wk.] "to start burning", the stative OHG zunden [wk.] "to be burning" < \*tunden- and the secondary (zero-grade) causative OHG zunten [wk.] "to kindle, burn" < \*tundjan-. The verbal complex gave rise to many different nominal formations, for which see \*tandra(n)- and \*tundra-. \ -->
+REF: [EDPG]\: 508
+
+### <a id="tandran">\*tandra(n)- [m.] "ember" (n)</a>
+N: \
+-- ON _tandri_ "fire, spark" \
+-- Far. _tandur_ [n.] "weakly burning light" \
+W: \
+-- OHG _zantaro_, MHG _zanter_, _zander_ \
+PIE: \*dondʰ-ro- \
+<!-- See \*tandjan- and \*tundra-. \ -->
+REF: [EDPG]\: 509
+
+### <a id="tangan">\*tangan- [m.] "tip, blade(?)" (n)</a>
+N: \
+-- ON _tangi_ "point projecting into the sea, spit of land; pointed end by which the blade is driven into the handle" \
+-- Far. _tangi_ \
+-- Nw. _tange_ \
+PIE: \*donǵʰ-on- \
+<!-- Closely related to MLG tange [f.] "sandbank". < \*tango- and \*tungon- "tongue" (q.v.). \ -->
+REF: [EDPG]\: 509
+
+### <a id="tangja">\*tangja- "approximate" (adj)</a>
+W: \
+-- OE _ge-tenge_ "close to, pressing upon" \
+-- OS _bi-tengi_ "sticking, linked" \
+-- OHG _gi-zengi_ "near, close" \
+PIE: \*donḱ-ió- \
+<!-- Aja-stem derived from the strong verb \*tingan- (q.v.). \ -->
+REF: [EDPG]\: 509
+
+### <a id="tangō">\*tangō- [f.] "tongs" (n)</a>
+N: \
+-- ON _tǫng_, pl. _tangir_, _tengr_ \
+-- Far. _tong_, pl. _tengur_ \
+W: \
+-- OE _tang(e)_, E _tongs_ \
+-- OFri. _tange_ \
+-- MDu. _tange_, Du. _tang_ [c.] \
+-- OHG _zanga_, G _Zange_ \
+PIE: \*donḱ-éh₂- \
+<!-- COGN: Alb. dare / diine [f.] "tongs" < \*dT.Jlt-neh₂ \ -->
+<!-- An old derivation from the root of \*tingan-. \ -->
+REF: [EDPG]\: 509
+
+### <a id="tangra">\*tangra- "sharp, acute" (adj)</a>
+W: \
+-- MDu. _tanger_ \
+-- OHG _zangar_, MHG _zanger_ \
+PIE: \*donḱ-ró- \
+<!-- A ro-stem created to the strong verb \*tingan- (q.v.). Also cf. Elfd. taungg "brisk, alert" < \*tanga-. \ -->
+REF: [EDPG]\: 509
+
+### <a id="tanhu">\*tanhu- "tough" (adj)</a>
+W: \
+-- OE _tōh_, E _tough_ \
+-- MLG _tā_ \
+-- MDu. _taey_, Du. _taai_ \
+-- OHG _zāhi_, MHG _zæhe_, _zæh_, _zæch_, G _zähe_ \
+PIE: \*dónḱ-u- \
+<!-- A u-stem derived from \*tingan- (q.v.). The continental WGm. languages remodeled the adjective into aja-stem. \ -->
+REF: [EDPG]\: 509
+
+### <a id="tanþ">\*tanþ- ~ \*tunþ- [m./f.] "tooth" (n)</a>
+E: \
+-- Go. _tunþus\*_ [m.] \
+N: \
+-- ON _tǫnn_, pl. _teðr_ [f.] \
+-- Far. _tonn_, pl. _tenn_ [f.] \
+-- Elfd. _tann_, pl. _tenner_ [f.] \
+W: \
+-- OE _tōð_ [m.], E _tooth_ \
+-- OFri. _tōth_ [m.] \
+-- OS _tand_ [m.] \
+-- MDu. _tan_, _tant_ [m.], Du. _tand_ [c.] \
+-- OHG _zan_, _zant_ [m.], G _Zahn_ [m.] \
+PIE: \*h₃dont- \
+<!-- The ablaut of NWGm. \*tanp- and EGm. \*tunp- points to an original paradigm \*tanp, gen. \*tundiz < \*h₃d-6nt, \*h₃d-nt-es, i.e. an archaic participle to the root \*h₃ed- "to bite, be sharp" (for which see \*atjan- 1). Word-final \*p was deleted in PGmc., as a result of which the nom. became \*tan, cf. OHG zan, pl. zendi. For an elaborate discussion, see cf. Schaffner 2001: 625-631. See also \*tinda- and \*tuska-. \ -->
+REF: [EDPG]\: 509
+
+### <a id="tappōn">\*tapp/bōn- [wk.] "to lose" (v)</a>
+N: \
+-- ON _tapa_ \
+-- OSw. _tappa_, _tapa_ \
+-- Elfd. _tappa_ \
+PIE: \*dʰrp-néh₂- \
+<!-- The alternation of OSw. tapa with tappa points to an iterative formation 3sg. \*dappopi, 3pl. \*dabunanpi < \*dʰrp-neh₂-. A trace of the \*b is still found in the denominal Nw., Sw. tabbe [m.] "blunder" < \*tabban-. Related to \*tafna"sacrifice" through an original meaning "to suffer, spend"? \ -->
+REF: [EDPG]\: 510
+
+### <a id="tarbjan">\*tarbjan- [wk.] "to roll" (v)</a>
+W: \
+-- OHG _zerben_ "to turn, roll", MHG _zirben_ "to circle, whirl" \
+PIE: \*dorbʰ-éie- \
+<!-- COGN: Skt. d [bh6.ti "to tie together, join, tie in a bundle" < \*drbʰ-e- \ -->
+<!-- Also cf. OE tearflian, OHG zarbalOn [wk.] "to roll" < \*tarblon-; OE torftan [wk.] "to throw" < \*turban- and OE ge-turfan [wk.] "to sling" < \*turbjan- < \*drbʰ-ie-. \ -->
+REF: [EDPG]\: 510
+
+### <a id="targjan">\*targjan- [wk.] "to vex" (v)</a>
+N: \
+-- Elfd. _tjärga_ "to nag, carp" \
+W: \
+-- OE _tiergan_ "to irritate" \
+-- MDu. _tergen_, _torgen_ "to tease, provoke", Du. _tergen_ "id." \
+-- G _zergen_ "to pester, provoke" \
+PIE: \*dorgʰ-éie- \
+<!-- Also cf. Elfd. torga [wk.] "to abuse; to badger; to kill" and perhaps also Icel. torga [wk.] "to eat up" < \*turgo [ja)n-. No further etymology: unrelated to Lith. dirginti "to move" and OCS dngati "to pull", for which see \*trek(k)an- and \*trukkon-. \ -->
+REF: [EDPG]\: 510
+
+### <a id="targōn">\*targōn- [f.] "edge" (n)</a>
+N: \
+-- ON _targa_ "target, small round shield" \
+W: \
+-- OE _targe_, _targa_ [m.] "small shield" \
+-- OHG _zarga_ "edge, rim", MHG _zarge_ "id." \
+PIE: \*dorgʰ-eh₂- \
+<!-- COGN: OCS po-drago [m.] "edge, seam" < \*dʰorgʰ-o-(?) \ -->
+<!-- Also cf. G Als. Kiis-zorg [m.] "tub for curdling milk" < \*turga-. \ -->
+REF: [EDPG]\: 510
+
+### <a id="tarhjan">\*tarhjan- [wk.] "to mark" (v)</a>
+E: \
+-- Go. _ga-tarhjan_ "to expose, make public, reveal" \
+PIE: \*dorḱ-éie- \
+<!-- COGN: Skt. darsayati "to make see" < \*dorḱ-eie-, Gr. cSEpKoµm "to look, see (clearly)", OIr. at-chon-darc 1sg.pres. "to see" < \*derḱ-e-, OIr. drech [f.] "face, countenance", W drych [m.] "side, aspect, form" < \*drḱ-o/eh₂-, Alb. drite [f.] "light, brightness; beam, ray" < \*drḱ-ti- \ -->
+<!-- The causative to the IE verb \*derk-e- "to see", for which cf. \*turhta-. \ -->
+REF: [EDPG]\: 510
+
+### <a id="tauhōn">\*tauhōn- [f.] "bitch" (n)</a>
+N: \
+-- Icel. _tófa_ "vixen" \
+W: \
+-- MLG _tō_ \
+-- OHG _zō(h)a_, MHG _zohe_ \
+<!-- The -f- of Icel. t6fa is an unetymological rendering of the labial off-glide of the diphthong [ou] (< ON 6), as is shown by the derivation Icel. tEa [f.] "vixen, bitch" < \*tauhjon-. Also cf. the ablauting G Swab. zauche < \*tiih(h)on-. \ -->
+REF: [EDPG]\: 511
+
+### <a id="taujan">\*taujan- [wk.] "to do, make" (v)</a>
+E: \
+-- Go. _taujan_ \
+W: \
+-- OE _tawian_ "to prepare, make ready", E _to taw_ \
+-- MLG _touwen_ "to dress (furniture etc.), tan" \
+-- MDu. _touwen_ "to make, prepare (esp. leather)", Du. _vol-tooien_ "to complete" \
+-- OHG _zawen_, _zowen_ "to succeed", MHG _zouwen_, _zöuwen_ "to make, treat, produce" \
+<!-- A factitive to an adjective \*ga-tawa- which is only indirectly attested through the Proto-Slavic loanword as continued by OCS BOtov'b, Ru. BOt6v, SCr. BOtov "ready, finished". The verb has been connected to ToB tsuwa 3sg.pret "to join, adjust" and Gr. Mvaµm "to be able" < \*du-neh₂- (cf. LIVZ: 123), which allows us reconstruct the adjective as \*douh₂o-. See also \*toja-. \ -->
+REF: [EDPG]\: 511
+
+### <a id="tauma">\*tauma- [m.] "rein, bridle, rope" (n)</a>
+N: \
+-- ON _taumr_ \
+-- Far. _teymur_ \
+-- Elfd. _tom_ \
+W: \
+-- OE _tēam_ \
+-- OFri. _tām_ \
+-- ODu. _tōm_, Du. _toom_ [c.] \
+-- OHG _zoum_, G _Zaum_ \
+<!-- A mo-stem created to the root of \*teuhan- (q.v.). The original form was \*taugma-, which like \*drauma- < \*draugma- lost its \*g. With a slightly different meaning, cf. OFri. tam "offspring". \ -->
+REF: [EDPG]\: 511
+
+### <a id="taunōn">\*taunōn- [wk.] "to show" (v)</a>
+W: \
+-- MDu. _tonen_, Du. _tonen_ \
+-- MHG _zounen_ \
+<!-- In view of Go. at-augjan [wk.] "to show", it is possible to reconstruct this verb as \*h₂d-h₃ekʷ-neh₂1 i.e. with a zero grade of the preposition \*at (q.v.) and the PIE word for "eye". Another possibility that I would like to propose here is to connect Hitt. tekkussije/azi "to show", which according to Kloekhorst 2008: 864-5 can be derived from \*dekʷ-s-ie-. The Germanic formation may then represent a factitive to a lost adjective \*tawa- "visible" < \*dokʷ-6-. \ -->
+REF: [EDPG]\: 511
+
+### <a id="tawō">\*tawō- [f.] "pair" (n)</a>
+N: \
+-- ON _tá_ "two people together, pair, couple" \
+PIE: \*dóu-eh₂- \
+<!-- Not connected with Go. tewa "arrangement" (cf. De Vries 1962: 579), but rather an archaic derivation from the PIE root \*deu- "two", for which see \*twa-. \ -->
+REF: [EDPG]\: 511
+
+### <a id="tawwa">\*tawwa- [n.] "rope" (n)</a>
+W: \
+-- OS _tou_ \
+-- MDu. _tou_, Du. _touw_ \
+PIE: \*dh₁-uó- \
+<!-- COGN: Gr. oloT]µt "to bind" < \*di-deh₂, Hitt tije/azi\* "to bind(?)", Skt. dyati, Gr. M.w "id." < \*dʰrie- \ -->
+<!-- A possible wa-stem to the PIE root \*deh₁-. The pre-form \*d6w6- could have developed into \*tawwa- by an interplay of Dybo's law of pretonic shortening and Holtzmann's law (Verschārfung). Since Pre-Gm. \*-ou- in open syllables regularly gave \*-6-, however, I rather reconstruct a zero-grade formation \*dl;i1-u6-. \ -->
+REF: [EDPG]\: 511
+
+### <a id="tegu">\*tegu- [m.] "a number of ten" (n)</a>
+E: \
+-- Go. _tigus_ \
+N: \
+-- ON _tigr_ \
+-- Elfd. _tjäg_ \
+<!-- A u-stem probably created on the basis of \*tehun "ten" < \*deK-m. It occurs in bound form in the decade numbers, cf. OE -tig, E -ty, OS, Du. -tig, OHG -zig, -zug, G -zig. \ -->
+REF: [EDPG]\: 512
+
+### <a id="tehswōn">\*tehswō(n)- [f.] "right hand" (n)</a>
+E: \
+-- Go. _taihswa_, -o \
+W: \
+-- OS _tesewa_ \
+-- OHG _zesawa_, MHG _zesewe_, _zeswe_ \
+PIE: \*deḱ-s-ueh₂- \
+<!-- COGN: Skt dik:;ir.ra"right, southern", OCS desbn'b "right", Lith. desine "right hand" < \*deKs-ino-, Lat. dexter "id." < \*deks-tro-, OIr. dess "id." < \*deks-o- \ -->
+<!-- Derived from Go. taihswa, OHG zeso, MHG zese "right, dexter" < \*tehswan- or perhaps elliptic for \*so handuz so tehswon "the right hand". \ -->
+REF: [EDPG]\: 512
+
+### <a id="tehun">\*tehun- "ten" (num)</a>
+E: \
+-- Go. _taihun_ \
+N: \
+-- ON _tíu_ \
+-- Far. _tíggju_ \
+-- Elfd. _tiu_ \
+W: \
+-- OE _tīen_, E _ten_ \
+-- OFri. _tiān_, _tiēn_ \
+-- OS _tehun_ \
+-- Du. _tien_ \
+-- OHG _zehan_, G _zehn_ \
+PIE: \*deḱ-m \
+<!-- COGN: ToA Sik, ToB fok, Skt. difo, OAv. dasii, YAv. dasa, NP dah, Oss. dces, Arm. tasn, Gr. oi:Ka, Lat. decem, OIr. deich, W deg "ten" (num) \ -->
+<!-- The cardinal number "ten". It was ultimately derived from the root \*deK- "to fit (in a row)", cf. MLG tachen "to arrange" < \*tahjan- < \*doK-eie- and MHG zesem [m.] "row" < \*tehsma- < \*dek-smo- (whence zisemen [wk.] "to follow" < \*tehsmjan-). See also \*tehunp/dan-. \ -->
+REF: [EDPG]\: 512
+
+### <a id="tehunþan">\*tehunþ/dan- "tenth" (num)</a>
+E: \
+-- Go. _taihunda_ \
+N: \
+-- ON _tíundi_ \
+-- Far. _tíggjundi_ \
+-- Elfd. _tiund_ \
+W: \
+-- OE _tēoða_, _teogeða_, E _tenth_ \
+-- OFri. _tiānda_, _tiēnda_ \
+-- OS _tehando_ \
+-- Du. _tiende_ \
+-- OHG _zehanto_, G _zehnte_ \
+PIE: \*deKm-tHo- \
+<!-- The ordinal belonging to \*tehun (q.v.). \ -->
+REF: [EDPG]\: 512
+
+### <a id="telda">\*telda- [n.] "drape, tent" (n)</a>
+N: \
+-- ON _tjald_ "tent; hangings, tapestry" \
+W: \
+-- OE _teld_, _ge-teld_ "tent, pavilion" \
+-- MDu. _ge-telt_, _telt_ "id." \
+-- OHG _gi-zelt_, _zelt_ "id.", G _Zelt_ "id." \
+<!-- Unrelated to Gr. OEATO;, Cypr. ocU.To; [f.] "writing tablet", which in view of e.g. Hehr. delet "gate", pl. "columns of writing, tablet" is likely to be of Semitic origin (Beekes 2010: 313). Rather directly derived from the strong verb \*teldan-, cf. OE teldan "to cover". be-teldan "to cover, surround, overwhelm". This clear cognate, which has somehow been omitted from the etymological dictionaries, further i nvalidates the idea that the original meaning of the word was "tent pole" (_pace_ Pokorny IEW: 194-6). No further etymology. Perhaps to a marginal root \*delH- "to spread out(?)", cf. Lith. delna [f.] "palm of the hand" < \*delH-neh₂- and OCS dlanb [f.] "id." < \*dolH-ni-. \ -->
+REF: [EDPG]\: 512
+
+### <a id="teman">\*teman- [st.] "to suit, befit" (v)</a>
+E: \
+-- Go. _ga-timan_ "to be congruent with, match" \
+W: \
+-- OFri. _timia_ [wk.] "to befit" \
+-- OS _gi-teman_ "id." \
+-- OHG _zeman_ "id.", MHG _zemen_ "id.", G _ziemen_ [wk.] "id." \
+PIE: \*dem(H)-e- \
+<!-- COGN: Pllr. \*dam-: Khot. \*dim- "to create", Gr. cSeµw "to build" < \*dem(H)-e- \ -->
+<!-- The original meaning seems to have been "to put together, to join", whence "to befit" in Gm., and "to build" in the more central dialects. Also cf. \*tumpi-. \ -->
+REF: [EDPG]\: 513
+
+### <a id="tēmi">\*tēmi- "suitable, agreeable" (adj)</a>
+E: \
+-- Go. _ga-temiba_ "congruently, appositely" (adv) \
+W: \
+-- MLG _be-tāme_ "appropriate" \
+-- MDu. _be-tame_, _be-taem_ "appropriate, agreeable" \
+-- OHG _gi-zāmi_ "decent, pleasant", MHG _ge-zæme_ "befitting, appropriate" \
+<!-- A _vr̥ddhi_-gerundive to the strong verb \*teman- (q.v.). \ -->
+REF: [EDPG]\: 513
+
+### <a id="teran">\*teran- [st.] "to tear" (v)</a>
+E: \
+-- Go. _tairan_ \
+W: \
+-- OE _teran_, E _to tear_ \
+-- OHG _zeran_, _fir-zeran_ "to cut off, finish, fight", MHG _zer-zeren_ "to destroy" \
+PIE: \*dér(H)-e- \
+<!-- COGN: ToAB tsar- "to separate", Gr. cS£pw "to skin, flay", Arm. tefem "to flay", Alb. djerr "to destroy", OCS dbrati (derǫ) "to flay" < \*der(H)-e-, Lith. derti (deru) "id.", Skt. dlryate "to crack, shatter", Lith. dirti/difti "to tear, peel", OCS dbrati (dbrQ) "to flay", Ru. drat' (deru) "to tear", SCr. drati "to flay" < \*dr(H)-ie- \ -->
+<!-- A strong verb related to \*turnan- (q.v.) and Go. ga-tarnjan [wk.] "to rob". See also \*turpi-. \ -->
+REF: [EDPG]\: 513
+
+### <a id="ternō">\*ternō- [f.] "pond" (n)</a>
+N: \
+-- ON _tjǫrn_ \
+-- Far. _tjørn_ \
+PIE: \*dér-n-eh₂- \
+<!-- COGN: Perhaps to Skt. dara-, darf- "hole in the ground, cave" < \*der-o/ih₂- (for which see \*teran-) \ -->
+REF: [EDPG]\: 513
+
+### <a id="tersa">\*tersa- [m.] "peg; penis" (n)</a>
+W: \
+-- OE _teors_, E _tarse_ \
+-- MLG _ters_ \
+-- MDu. _teers_, Du. _taas_ [c.] \
+-- OHG _zers_ "twig; penis", MHG _zers_ "penis" \
+PIE: \*ders-on-(?) \
+<!-- It is tempting to connect the word to Lith. dirse [f.] "back, rump", Latv. dii'sa [f.] "podex" < \*drs-(i)eh₂-, but this word was clearly derived from the verb Latv. dirst "to shit" (see \*turzda-), and therefore cannot be compared. The standard etymology connects the word to ON tjasna [f.] "kind of peg marking off the lists for battle", which possibly continues older \*tjarsna < \*tersnon-. The original meaning would then be "bolt" or "peg". Further potential cog- nates are Nw. tersa [wk.] "to drive, push, hit" < \*tarsjan- and MDu. teers "cilindrical" < \*tersiska-(?). \ -->
+REF: [EDPG]\: 513
+
+### <a id="terwan">\*terwa/ōn- [n./f.] "tar" (n)</a>
+N: \
+-- ON _tjara_ [f.] \
+W: \
+-- OE _teoro_, _teru_ [n.], E _tar_ \
+-- MDu. _ter(re)_, _tar_ [n.], Du. _teer_ [n./c.] \
+PIE: \*der-uo/eh₂- \
+<!-- COGN: Lith. derva, darva [f.] "chip of kindling wood, log from which tar is produced, resin, tar", Latv. dafva [f.] "tar, pitch" < \*der-u-eh₂-, OCS drevo, Ru. derevo, SCr. drljevo [n.] "tree, wood" < \*der-uo- \ -->
+<!-- An apparently (Northeast) European derivation from the IE word for "wood", for which see \*trewa-. The gender varies between neuter and feminine, which could point to an old neuter collective paradigm. ON tjara superficially appears to have developed from \*teron- without the labial glide, but in this language the original nominative \*tjprva was replaced by tjara, a back-formation to the oblique tjpru (cf. ON gata [f.] "lane" < \*gatwon-). For the original suffix, cf. tjprr [m.] "spear" < \*terwa-. Secondary derivations are represented by ON tyrvi [n.] "pinewood" < \*terwja-, OE tierwe [f.] "tar" < \*terwjonand MHG zirben, zirm [m.] "pine" < \*terwjan-. \ -->
+REF: [EDPG]\: 514
+
+### <a id="terwōn">\*terwōn- [f.] "tare(s)" (n)</a>
+W: \
+-- ME _tare_ "wild or cultivated vetch, tare; vetch seed", pl. "weeds growing in grain fields, darnel", E _tare_ \
+-- NFri. (Wiedingharde) _tāre_ [m./n.] "buckwheat" \
+-- MDu. _tarwe_, _terwe_ "wheat", Du. _tarwe_ [c.] "id." \
+PIE: \*der-ueh₂- \
+<!-- COGN: Close to Skt. dilrvii- "diirva grass, Panicum dactylon", Lith. dirva [f.] "field" < \*dr-ueh₂- (Lubotsky 1997: 10, fn. 29) \ -->
+<!-- The Germanic and Sanskrit forms can formally be unified into a paradigm \*der-uh₂, gen. \*dr-ueh₂-s. The semantic variation between the three IE branches as well as within Germanic are difficult to account for, but possibly, the original meaning was simply "corn pest", as in Middle English. \ -->
+REF: [EDPG]\: 514
+
+### <a id="tetru">\*tetru- [m.] "tetter" (n)</a>
+W: \
+-- OE _teter_, _tetr_, E _tetter_ \
+-- OHG _zitaroh_, MHG _ziteroch_ (< \*tetruka-), G _Zitter-mal_ \
+PIE: \*de-dr-u- \
+<!-- COGN: Skt. dadni-, dardru- [f.] "cutaneous eruption, kind of leprosy" < \*de(r)-dr-uH-, Lat. derbita "scabies", W tarwyd-en "tetter" < \*derd-uit- \ -->
+<!-- An ancient IE word for "rash" or "eczema". The Germanic word is formally close to Skt. dadru-, and may similarly represent a reduplicated formation \*de(r)-dr-u-. For a comparable formation, cf. \*bebura- 1 "beaver" < \*bʰe-bʰr-u-. \ -->
+REF: [EDPG]\: 514
+
+### <a id="teudra">\*teudra- ~ \*tūdra- [n.] "tether" (n)</a>
+N: \
+-- ON _tjóðr_ \
+-- Far. _tjóður_ \
+W: \
+-- ME _teder_, _tether_ (« ON?), E _tether_ \
+-- OFri. _tiāder_, _tzāder_, _tzār_ \
+-- MDu. _tuder_, _tudder_ [m.], EDu. _tuyer_ \
+-- OHG _zeotar_ [m./n.], MHG _zieter_ [m./n.] "front shaft of a carriage" \
+<!-- The word is usually derived from \*teu-dra- with the PIE instrumental suffix \*-tro- ~ \*-dʰro- so as to establish a link with e.g. \*tawwa- "rope". I al- ternatively propose to connect the word to the iterative \*tutt/don- "to pull" (q.v.). The alternation between \*teudra- and \*tiidra- can then be explained as being imported from a lost strong verb \*teudan- ~ \*ttidan-. Also cf. MDu. toyen, Du. tuien "to tie" < \*tupjan-, apparently a ie-present < \*dut-ie-. \ -->
+REF: [EDPG]\: 514
+
+### <a id="teuhan">\*teuhan- [st.] "to pull" (v)</a>
+E: \
+-- Go. _tiuhan_ "to lead, guide" \
+N: \
+-- ON _toginn_ ptc. "drawn" \
+W: \
+-- OE _tēon_ \
+-- OS _tiohan_ "to pull, educate" \
+-- MDu. _tien_ "to pull, draw; to proceed", Du. _tijgen_ "to proceed" \
+-- OHG _ziohan_ "to lead, bring (up), educate", MHG _ziehen_ "lead, bring, retreat", G _ziehen_ "id." \
+PIE: \*déuk-e- \
+<!-- COGN: Formally identical to Lat. duc6, -ere "to lead, conduct"; also cf. W dwyn "to lead, carry" < \*duk-e-, Alb. nduk "to draw (out), pull" < \*duk- (with n-prefix) \ -->
+<!-- A strong verb to the European root \*deuk-. See also \*tauma-, \*tuhti- and \*tukk/gon-. \ -->
+REF: [EDPG]\: 515
+
+### <a id="teuna">\*teuna- [n.] "damage" (n)</a>
+N: \
+-- ON _tjón_ [f./n.] "damage, loss" \
+W: \
+-- OE _tēon_ "hurt, damage; insult, abuse" \
+PIE: \*h₃deu-no- \
+<!-- COGN: Either to Gr. 6Mvri [f.] "pain, smart, harm", Alb. dhure / dhune [f.] "injury, blemish, violence" < \*h₃du-neh₁- or to Gr. otw "to miss, want, need" < \*deu-e- \ -->
+<!-- Also cf. OE teona [m.], teone [f.] "wrongdoing, insult", OS tiono [m.] "evil, enmity" < \*teuna/on- and ON ryna [wk.] "to lose; to destroy", OE tienan "to vex", OFri. tiona, tiuna [wk.] "to damage", OS gi-tiunian "to do harm" < \*teunjan-. \ -->
+REF: [EDPG]\: 515
+
+### <a id="tēwō">\*tēwō- [f.] "order" (n)</a>
+E: \
+-- Go. _tewa_ "order, arrangement" \
+W: \
+-- OHG _zāwa_ "coloration" \
+PIE: \*dēḱ-uéh₂- \
+<!-- Also cf. OE cel-ti!we "complete, whole, sound" < \*-tewi- and - with a different ablaut - MLG teche [f.] "order", MHG zeche, zech [f.] "arrangement, sequence, guild" < \*tehwo- and the derived OE (ge-)teohhian, OHG (gi-)zehon [wk.] "to arrange" < \*tehwojan-. See also \*tehun and \*tawo-. \ -->
+REF: [EDPG]\: 515
+
+### <a id="tibbōn">\*tib(b)ōn- [f.] "bitch" (n)</a>
+N: \
+-- Icel. _tebba_ "vixen" \
+W: \
+-- OE _tife_ "id." \
+-- MDu. _teve_ "id.", Du. _teef_ [c.] "id." \
+-- G dial. _Zippe_ "bitch; ewe" \
+<!-- Also cf. E tib "woman of lower social status" and tib-cat "female cat". In the scholarly literature, this form is often analyzed as an hypocoristic formation to the proper name Isabel, but in view of G dial Zippe and Icel. tebba, it is more likely that it continues unattested OE \*tibbe < \*tibbon-. Together with \*tibon-, as continued by e.g. OE tife and Du. teef, this form could point to an n-stem paradigm nom. \*tib6, gen. \*tippaz. The oblique root \*tipp- must then have been replaced by \*tibb- under the influence of the nominative root \*tib-. \ -->
+REF: [EDPG]\: 515
+
+### <a id="tibra">\*tibra- [n.] "sacrifice" (n)</a>
+E: \
+-- Go. _aibr_ "sacrificial animal" \
+W: \
+-- OE _tiber_, _tifer_ "sacrifice" \
+-- OHG _zebar_ "offering" \
+PIE: \*dip-ró- \
+<!-- COGN: Gr. 6£1rrvov [n.] "meal" < \*deip-no- \ -->
+<!-- A word whose reconstruction poses many problems: 1. the attested Go. form aibr does not match the anlaut of OHG zebar and OE tifer; and 2. the vowel length of OE tifer is ambiguous. To my mind, these difficulties are best resolved by starting from OHG zebar, emending Go. aibr to tibr (cf. Lehmann 1986: 13), and assuming that OE tifer has a short vowel. (Note that the appurtenance of the sometimes connected hapax ON tfvurr (= tifurr?), meaning either "sacrifice" or "god", remains uncertain.) The resulting \*tibra- < PIE \*dip-r6- may together with Gr. iSclrrvov have split off from a PIE heteroclitic \*deip-r, gen. \*dip-n-6s. \ -->
+REF: [EDPG]\: 516
+
+### <a id="tīdi">\*tīdi- [f.] "time" (n)</a>
+N: \
+-- ON _tíð_ "time; hour; divine service" \
+-- Far. _tíð_ "time; moment; period" \
+W: \
+-- OE _tīd_ "time, season, hour", E _tide_ \
+-- OFri. _tīd_ [m./f.] "time, hour" \
+-- OS _tīd_ \
+-- Du. _tijd_ [c.] \
+-- OHG _zīt_ [f./n.] "age, time; time of prayer", G _Zeit_ "time" \
+PIE: \*dh₂i-tí- \
+<!-- COGN: Arm. ti, tioy "age, time" < \*dʰzi-to-, Skt. dayate "to divide, distribute", OAv. d(a)ii- "to allot(?)", Gr. 6a(oµm "to divide" < \*dʰr-ei- \ -->
+<!-- Also cf. ON tfor "frequent" < \*tidja- and ON tfaa [wk.] "to strive", OE tidan [wk.] "to betide, happen", OFri. tidia [wk.] "to strive; to appeal" < \*tidojan-. The latter verb seems to preserve the oldest meaning, i.e. "to strive", which is compatible with \*tila- "goal, occasion" (q.v.). See also \*til6- and \*timan-. \ -->
+REF: [EDPG]\: 516
+
+### <a id="tīgan">\*tīgan- ~ \*tikkan- [m.] "tick" (n)</a>
+N: \
+-- Nw. _tikk_, _tikke_ [f.] \
+W: \
+-- OE _ticia_ "ricinus", E _tick_ \
+-- MLG _teke_ "id." \
+-- MDu. _teke_ [f.] "id.", Du. _teek_, dial. _tijk_, _tijg_ "id." \
+-- MHG _zecke_ [m./f.] "id.", G _Zecke_, dial. _Zeche_ [f.] "id." \
+PIE: \*déiǵʰ-on- \
+<!-- COGN: Arm. tiz "tick" < \*deigʰ-o-, OIr. dega "black insect" < \*dig"-ont- \ -->
+<!-- One usually reconstructs the IE root as \*d(e)ig- on the basis of PGmc. \*tikan-, but this is impossible, because roots with two voiced unaspirated stops were prohibited in the proto-language. Arm. tiz and Du. dial. tijg rather point to \*deigʰ-. This means that the stems \*tikan- (Du. teek, G. dial. zeche) and \*tikan- (Du. tijk) must have arisen analogically in a paradigm \*tfgo, gen. \*tikkaz < \*deigʰ-on, \*digʰ-n-6s (Kroonen 2011a: 254-6). Note that the OE gloss ticia is ambiguous; it has been emended to both \*tiica and \*ticca. \ -->
+REF: [EDPG]\: 516
+
+### <a id="tigōn">\*tigōn- [f.] "goat" (n)</a>
+W: \
+-- OHG _ziga_, G _Ziege_ \
+PIE: \*dig/gʰ-eh₂- \
+<!-- COGN: Arm. tik "skin bottle" (Liden 1906: 10- 14) < \*dig-eh₂-, Gr. Lac. 6(�a [f.] "goat", Alb. dhi "id." < \*digfhl-ieh₂- \ -->
+<!-- A European word. Probably not of IE origin in view of the formal incongruences of "Balkan IE" \*dig- and Pre-Gm. \*digʰ-. Also cf. OE ticcen, OHG zickin [n.] "young goat" < \*tikkina-. \ -->
+REF: [EDPG]\: 516
+
+### <a id="tīhan">\*tīhan- [st.] "to point out" (v)</a>
+E: \
+-- Go. _ga-teihan_ "to announce, tell, report" \
+N: \
+-- ON _téa_, _tjá_ pret. _téða_, _tjáða_, ptc. _tiginn_ "to show, proclaim" \
+W: \
+-- OE _tēon_ "to accuse" \
+-- OS _af-tīhan_ "to fail" \
+-- MDu. _tien_ "to accuse" \
+-- OHG _zīhan_ "id.", MHG _zīhen_ "id." \
+PIE: \*déiḱ-e- \
+<!-- A strong verb to the PIE root \*deiḱ-. See also \*taik/g6n-, \*taikjan-, \*taikna-. \ -->
+REF: [EDPG]\: 517
+
+### <a id="tila">\*tila- [n.] "planned point in time" (n)</a>
+E: \
+-- Go. _til_ [m./n.] "opportunity" \
+N: \
+-- ON _til_ "to" (prep) \
+-- Far. _til_ "id." (prep) \
+W: \
+-- OE _til_ "fitness, station, standing-place" \
+-- OFri. _til_ "to" (prep) \
+-- MLG _til_ "border, goal" \
+-- MDu. _til_ [m./n.] "circumstance, case" \
+-- OHG _zil_ "border, aim", G _Ziel_ "id." \
+<!-- Also cf. ON. aldr-tili [m.] "end of life, death" < \*tilan- and the denominal verb Go. ga-tilon [wk.] "to achieve", Nw. tilast [wk.] refl. "to recuperate", OE tilian [wk.] "to strive, obtain, till", OFri. tilia [wk.] "to breed, till", MDu. telen [wk.] "to till, yield", OHG zilon [wk.] "to rush, arrange", MHG zilen [wk.] "id." < \*til6jan-. An older formation is Go. ga-tils "fit", OE ti! "fit, apt" < \*tila-. The root \*dfis also found in \*tidi- and \*timan-. \ -->
+REF: [EDPG]\: 517
+
+### <a id="tīlō">\*tīlō- [f.] "row" (n)</a>
+W: \
+-- WPhal. _tîle_, Du. dial. _tijl_ [c.] \
+-- OHG _zīla_, G _Zeile_ \
+PIE: \*dh₂-i-l-eh₂-(?) \
+<!-- A West Germanic word. Related to \*tidi- and \*tfman-? \ -->
+REF: [EDPG]\: 517
+
+### <a id="tīman">\*tīman- [m.] "time" (n)</a>
+N: \
+-- ON _tími_ "time; fit time; good luck" \
+-- Far. _tími_ "hour" \
+-- Elfd. _taime_ "id." \
+W: \
+-- OE _tīma_ "time, hour", E _time_ \
+-- G Swi. _zīmmen_ "occasion" \
+PIE: \*dh₂i-mon- \
+<!-- For the etymology, see \*tidi-. Also cf. ON tfma, OE ge-timian [wk.] "to happen" < \*tim6jan-. \ -->
+REF: [EDPG]\: 517
+
+### <a id="timbra">\*timbra- [n.] "timber, lumber" (n)</a>
+N: \
+-- ON _timbr_ \
+-- Elfd. _timber_ \
+W: \
+-- OE _timber_ "timber; building, structure" \
+-- OS _timbar_ "carpenter's work" \
+-- OHG _zimbar_ "timber", MHG _zimber_, _zimmer_ "timber, building", G _Zimmer_ "room" \
+PIE: \*dem(H)-ro- \
+<!-- COGN: Gr. cSEµw "to build" < \*dem(H)-e- \ -->
+<!-- Also cf. the denominal Go. timrjan [wk.] "to build" < \*temrjan-, and - with a zero grade - \*tumfeti- "foundation". \ -->
+REF: [EDPG]\: 517
+
+### <a id="tina">\*tina- [n.] "tin" (n)</a>
+W: \
+-- OE _tin_, E _tin_ \
+-- OS _tin_, MLG _tin_, gen. _tenes_, _tinnes_ \
+-- MDu. _tin_, _ten_, _teen_, Du. _tin_ \
+-- OHG _zin_, G _Zinn_ \
+PIE: \*din-o- \
+<!-- An etymologically obscure WGm. word (ON tin is a loanword). The frequently featured comparison to Lat. stannum (stagnum), It. stagno, Sp. estafi.o, Fr. etain "tin", which has been analyzed as a Celtic loan, is highly problematic on the formal side. The only certain extra-Gm. correspondence seems to be OIr. tinne [m.] "ingot". This word is only attested as a name for the letter t in the Briatharogaim ("word oghams"), and is described with kennings pointing to a meaning "metal bar, molten metal". According to McManus 199 1: 37, the word is related to OIr. tend "strong" or tind "brilliant". However, the potential link with PGmc. \*tina- speaks against an intra-Celtic origin, as the unshifted t of the Germanic word would be unexpected if it was borrowed from Celtic. The Germanic origin of the word is furthermore supported by the plausible correlation with \*taina- "twig" (q.v.), which in MLG and MHG also bears the meaning "rod, bar (of metal)". \ -->
+REF: [EDPG]\: 517
+
+### <a id="tinda">\*tinda- [m.] "jag, tip" (n)</a>
+N: \
+-- ON _tindr_ "spike, tooth; mountain-peak" \
+-- Far. _tindur_ "id." \
+W: \
+-- OE _tind_ "prong, tooth" \
+-- MHG _zint_ "prong; a wind instrument" \
+PIE: \*h₃dent-ó- \
+<!-- COGN: Cf. OIr. dind [n.] "spike, point; height; town" < \*h₃dent-u- \ -->
+<!-- A full-grade formation to \*tanp- ~ \*tunP- "tooth". Also cf. OHG zinna, G Zinne [f.] "pinnacle, merlon" < \*tindno(n)- and OHG zinko, G Zinke [m.] "tine, prong, cornet" < \*tind-kan-. \ -->
+REF: [EDPG]\: 518
+
+### <a id="tingan">\*tingan- [st.] "to press upon, throng" (v)</a>
+W: \
+-- OE _ge-tingan_ "to press upon, throng" \
+PIE: \*dénḱ-e- \
+<!-- COGN: ToB tsiikii- "to bite, pierce", Gr. MKVw "to bite, sting" < \*dnK-ne-, Skt. da§ati "id." < \*dnK-e- \ -->
+<!-- A strong verb only attested in Old English, but further ascertained by OE sam-tinges "immediately" (adv) and the causative OE tengan [wk.] "to press, hasten, hurry" < \*donK-eie- (also cf. ON tengja "to connect" and OE ge-tengan [wk.] "to join"). The fact that the verb emerges as \*tingan- rather than \*tinhan- could be the result of the removal of the expected nasal-less form \*tihan- (cf. OE Pingan "to thrive" similarly continuing \*Pinhan- < \*tenk-e-). The verbal complex gave rise to a number of nominal formations, e.g. \*tanhu-, \*tango-, \*tangja- and \*tangra- (q.v.). \ -->
+REF: [EDPG]\: 518
+
+### <a id="tinnan">\*tinnan- [st.] "to burn" (v)</a>
+W: \
+-- MHG _zinnen_ "to burn, glow" \
+PIE: \*déndʰ-n-e- \
+<!-- A nasal present to a Germanic root \*dendʰ-: the -d- was assimilated between two nasals, but can be retrieved from the causative \*tandjan- (q.v.). Also cf. ON tinna [f.] "tinder" < \*tindnon- and the zero-grade instrumental noun OHG zuntil, MHG ziindel [m.] "id." < \*tundila- (beside Du. tondel "id." < \*tund-la-). \ -->
+REF: [EDPG]\: 518
+
+### <a id="tīrēn">\*tīrēn- [wk.] "to shimmer, shine" (v)</a>
+N: \
+-- Nw. _tira_ \
+-- Sw. dial. _tira_ \
+PIE: \*diH-r-éh₁- \
+<!-- COGN: Apparently identical to Lith. dyrJti "to look" \ -->
+<!-- Also Nw. tira [wk.] "to shimmer" < \*tiren- and ON tfrr, OS tlr, OE tir [m.] "glory" < \*tira-. Related to \*tairi-? \ -->
+REF: [EDPG]\: 518
+
+### <a id="titrōn">\*titrōn- [wk.] "to tremble" (v)</a>
+N: \
+-- ON _titra_ [wk.2] "to twinkle" \
+-- Icel. _titra_ "to quake, shiver, vibrate" \
+W: \
+-- OHG _zittarōn_ "to stagger", G _zittern_ "to tremble" \
+PIE: \*di-dr-eh₂- \
+<!-- COGN: Gr. &opacrKw "to run" < \*di-drh₂-ske-, Skt. dari-dratptc. "to wander" < \*der-dreh₂ \ -->
+REF: [EDPG]\: 518
+
+### <a id="tittōn">\*tittōn- [f.] "tit, breast" (n)</a>
+W: \
+-- OE _tit_ [m.], E _tit_ \
+-- WFri. _tit_, _titte_ [c.] \
+-- MLG _titte_ [m./f.] \
+-- MHG _zitze_, G _Zitze_ \
+<!-- A word comparable to e.g. Gr. -crtfl6; and -d-cflTJ "tit". The sound correspondences are irregular, however, and this implies that the Greek and Germanic words are probably unrelated, both originating in the baby-talk register. \ -->
+REF: [EDPG]\: 519
+
+### <a id="tīwa">\*tīwa- [m.] "Tyr" (n)</a>
+N: \
+-- ON _Týr_ \
+W: \
+-- OE _Tīw_, _Tīg_ \
+PIE: \*dei-uo- \
+<!-- COGN: Skt. deva- [m.] "god", OAv. daeuua- [m.] "pre-Zoroastrian god", YAv. daeuua- [m.] "demon, monster, idol", OP daiva- [m.] "false god, idol", NP dew "demon", Lith. dievas, Latv. dievs [m.] "god", OPru. deiw(a)s "id.", Lat. deus [m.] "id.", OIr. dia [m.], OW duiu, MW duw "id." < \*dei-uo- \ -->
+<!-- The general meaning of PGmc. \*tiwa- was simply "god", cf. ON tfvar pl. "gods" < \*tiwoz, but the word was clearly associated with the specific deity Tyr-Tfw-Ziu, the Germanic sky and war god, cf. Skt. Dyaus, gen. Divas, Dy6s, Gr. ZEu;, gen. fiL6;, Lat. IU-piter, luppiter, gen. Iovis < \*dMu-s, \*diu-6s. With this meaning, it was preserved in ON Tjs-dagr, OE Tfwes-dceg, OHG Zies-tag, MHG Zfs-tac "Tuesday", a calque of Lat. dies Martis. Beekes 1985: 83-5 reconstructed the original paradigm as \*dei-u-s, gen. \*di-u-6s, acc. \*di-eu-m. The accusative case regularly developed into \*diem in PIE, and the long \*e of this form spread to the nominative of the word in the sense of "Sky God" at least in the central Indo-European dialects that developed into Sanskrit and Greek. \ -->
+REF: [EDPG]\: 519
+
+### <a id="tōba">\*tōba- [m./n.] "waiting(?)" (n)</a>
+N: \
+-- Icel. _tóf_ [n.] "hesitation" \
+W: \
+-- MDu. _toef_ [n.] "reception, treat, nursing" \
+<!-- A nominal formation derived from the root underlying \*tabjan- "to delay" (q.v.). Also cf. MLG toven [wk.] "to wait, hesitate, halt", MDu. toeven [wk.] "to wait, linger, dwell", Du. toeven [wk.] "to abide" < \*tobojan-. \ -->
+REF: [EDPG]\: 519
+
+### <a id="tōgan">\*tōgan- ~ \*takkan- [m.] "branch" (n)</a>
+N: \
+-- Nw. _tagg(e)_ "tip, jag" \
+-- OSw. _tagger_ "spike" \
+-- Sw. _tagg_ [c.] "spine, spike" \
+-- ODa. _tagge_ "prickle", Da. _tak_, _tag_ "jag, tip" \
+W: \
+-- ME _tak(ke)_ "clasp, nail", E _tack_, _tag_ \
+-- OS _tōgo_, MLG _takke_, _tagge_, LG _take_ "prickle" \
+-- MDu. _tac(ke)_, _tooch_, Du. _tak_, dial. _toeg_, _toek_ [c.] \
+-- OHG _zuogo_, MHG _zacken_ pl. "jags", G _Zacke(n)_ "jag, prong" \
+PIE: \*deh₃gʰ-on- \
+<!-- COGN: Alb. dege "branch" < \*deh₃gʰ- \ -->
+<!-- An ablauting n-stem \*toga, gen. \*takkaz < \*deh₂/₃gʰ-on, \*dʰr;3gʰ-n-6s (cf. Kroonen 2011a: 31 7ff.). In the different dialects, the original paradigm became leveled in many different ways. As a result, secondary root variants, such as \*tok- and \*tagg-, could arise. \ -->
+REF: [EDPG]\: 519
+
+### <a id="tōja">\*tōja- [n.] "deed, act" (n)</a>
+E: \
+-- Go. _taui_, gen. _tojis_ \
+<!-- An noun derived from \*taujan- (q.v.). The underlying proto-form, Pre-Gm. \*dou-io- developed into \*toja- by regular loss of \*u after \*o. It in turn gave Go. taui [t5i] by 1) apocope of the ending; 2) vocalization of the \*j; and 3) lowering of -o- to -5- before a hiatus. \ -->
+REF: [EDPG]\: 520
+
+### <a id="tōla">\*tōla- [n.] "tool" (n)</a>
+N: \
+-- ON _tól_ \
+-- Far. _tól_ \
+W: \
+-- OE _tōl_, E _tool_ \
+<!-- An instrumental noun to \*taujan- "to do, make" (q.v.). The attested forms did not develop from PGmc. \*towula- (_pace_ Pokorny IEW: 218-9), but rather straightforwardly from \*tola-. This formation, in turn, was created to the full-grade root \*to- (for which see \*toja- "deed") by the addition of the instrumental suffix \*-dla- < PIE \*-dʰlo- (or \*-tl6- by Verner's law). The resulting \*tOdla- regularly developed into \*tola- by 1. the assimilation of d to I as in \*stalla- "stand, stall, stable" < \*sth₁-dʰlo- and 2. the simplification of geminates in heavy syllables. \ -->
+REF: [EDPG]\: 520
+
+### <a id="tōma">\*tōma- "empty" (adj)</a>
+N: \
+-- ON _tómr_ \
+-- Far. _tómur_ \
+-- Elfd. _tuom_ \
+PIE: \*doH-mo- \
+<!-- COGN: To Skt. ava-dyati "to separate", Gr. 8atoµm "to split up" < \*dʰi-ie-? A mo-stem adjective to a root \*deH-. No certain etymology. The potential link with the PIE root \*deh₂- is possible, but semantically uncompelling. Also cf. the factitive ON tcema [wk.] "to empty", ME _temen_ [wk.] "to drain; to pour (out), spill", E teem, OFri. _tema_ [wk.] "to drain; to pay", OS _tomjan_ [wk.] "to free of" < \*tomjan- \ -->
+REF: [EDPG]\: 520
+
+### <a id="trabō">\*trabō- [f.] "fringe" (n)</a>
+N: \
+-- ON _trǫf_ \
+W: \
+-- MHG _trabe_ \
+PIE: \*drop-eh₂- \
+<!-- Closely resembled by Lith. dr6be [f.] "linen (cloth)", Latv. drebe [f.] "cloth, laundry" < \*dlhlrob-ieh₂- and OSorb. draby, Cz. zdraby [m.pl.] "clothes" < \*dlhlrob-, but the Baltic and Slavic forms with their final \*b rather than \*p or \*bʰ cannot be unified with the Germanic root \*trab- < \*drop- or \*drobʰ-. Lith. driipanos [f.]pl "clothes, linen" and Latv. driina "cloth" < \*drop(o)neh₂- can be reconciled with the Germanic material, but must then be disconnected from the other forms with \*b. Also cf. ON trefja [wk.] "to fuzz" < \*trabjan- and ON trefill [m.] "tatter, rag" < \*trabila-. \ -->
+REF: [EDPG]\: 520
+
+### <a id="trannjan">\*trannjan- [wk.] "to split" (v)</a>
+W: \
+-- Du. _tornen_ "to pull, jerk" \
+-- MHG _trennen_ [st.] "to separate, to cut", G _trennen_ "id." \
+<!-- The causative to \*trinnan-, quasi PIE \*dronu-eie-. \ -->
+REF: [EDPG]\: 520
+
+### <a id="trappōn">\*trappōn- [wk.] "to trample" (v)</a>
+W: \
+-- MLG _trappen_ "to stamp" \
+PIE: \*drob-neh₂\
+<!-- COGN: Pol. drabina [f.] "ladder" < \*drob-in-eh₂- \ -->
+<!-- The geminated forms have arisen in the iterative 3sg. \*trappopi, 3pl. \*trapunanpi < \*drob-neh₂-ti, \*drob-r,ih₂-enti. Also cf. OE treppan [wk.] "to tread" < \*trappjan- and OE tril!ppe [f.] "trap", OFri. treppe [f.] "stairs", Du. trap "id." < \*trappon-. \ -->
+REF: [EDPG]\: 520
+
+### <a id="trausta">\*trausta- "reliable" (adj)</a>
+N: \
+-- ON _traustr_ \
+-- Far. _treystur_ "strong, solid, lasting" \
+PIE: \*drou(H)-sd-o- \
+<!-- The root is clearly akin to PGmc. \*truen- "to trust" (q.v.). For the suffixation, compare OIr. druit "close, firm, trustworthy" < \*drou-sd-, the latter element of which may be the zero grade of the root \*sed- "to sit", cf. \*nista"nest". Also cf. ON treysta [wk.] "to fasten; to trust", OS tr6stian, Du. troosten, OHG trosten, G trosten "to comfort" < \*traustjan-. The ablauting formation MHG trut, G traut "intimate" could point to a root \*druH- with a laryngeal. \ -->
+REF: [EDPG]\: 521
+
+### <a id="tredan">\*tredan- ~ \*trudan- [st.] "to tread, trample" (v)</a>
+E: \
+-- Go. _trudan_ \
+N: \
+-- ON _troða_ "to tread; to cram, pack, stuff" \
+-- Far. _troða_ "to tread, step" \
+W: \
+-- OE _tredan_, E _to tread_ \
+-- OFri. _treda_ \
+-- MDu. _treden_, _terden_, _tarden_, _torden_, Du. _treden_ \
+-- OHG _tretan_, G _treten_ \
+PIE: \*dr(e)t-e- \
+<!-- The alternation \*tredan- ~ \*trudan- points to an original root aorist, which is the reason why this class of verbs is often referred to as the aorist presents. In this case, that would point to a paradigm 3sg. \*h₁e-dret-t, 3pl. \*h₁e-drt-nt. The formation \*knedan- ~ \*knudan- "to knead" (q.v.) is fully parallel, and since Ru. gnest{ (gnetu) points to a root \*gnet-, it seems likely that \*tredan- ~ \*trudan- must, too, be derived from a root ending in \*t, viz. \*dret~ \*drt-. Theoretically, this root could be an extension of the primary element \*dr- "to run", which occurs in PIE with both an hz- and an m-suffix, cf. Skt. dr&- vs. dram-. Possibly, this t-extension could continue the 3sg. aor. ending as in e.g. PGmc. stop "stood" < \*steh₂-t. Also cf. OHG trata [f.] "step, track", OS trada [f.] "id.", OE trodu [f.] "id." < \*trado-, OHG trota, truta [f.] "winepress" < \*trudo(n)-, the iterative \*trett/don- ~ \*trutt/don- (q.v.) and MHG trollen [wk.] "to move with small steps" < \*trudlon-. \ -->
+REF: [EDPG]\: 521
+
+### <a id="tregan">\*tregan- [st.] "to be downcast" (v)</a>
+W: \
+-- OS _tregan_ "to grieve" \
+PIE: \*dréǵʰ-e- \
+<!-- COGN: Lith. dreMti "to give reluctantly, be stingy" < \*dregʰ-eh₁-ie-, Lith. driiti "to become weak, fear, be shy" < \*drgʰ- (with remodeling of the regular zero grade \*diri-) \ -->
+<!-- The verb had an oblique subject in Old Saxon, e.g. ni tharfiu uuiht tregan "you don't need to feel sad", which is likely to reflect the Proto-Germanic situation. The original meaning was "to become slow", whence "sluggish" and "listless", cf. Go. trigo [f.] "reluctance" and ON tregr "hesitant", Nw. treg "reluctant, tough" < \*trega-. The semantics of ON tregi [m.] "grief", OE trega [m.] "id.", OS trego [m.] "pain" < \*tregan- as well as OS tregan logically follow from the impersonal construction: "it is tough for me" = "I am grieving". See also \*tregi-. \ -->
+REF: [EDPG]\: 521
+
+### <a id="trēgi">\*trēgi- "slow, down" (adj)</a>
+W: \
+-- OS _trāg(i)_ "lazy" \
+-- MDu. _traghe_, _traech_ "lazy, slow", Du. _traag_ "slow" \
+-- OHG _trāgi_ "lazy, slow", G _träge_ "id." \
+<!-- An adjective continuing a _vr̥ddhi_-gerundive to the strong verb \*tregan. \ -->
+REF: [EDPG]\: 522
+
+### <a id="trekkan">\*trek(k)an- [st.] "to pull" (v)</a>
+W: \
+-- MLG _treken_ [wk.] "to shudder" \
+-- MDu. _tre(c)ken_ \
+-- OHG _trehhan_, MHG _trechen_ "to shove, thrust, jerk" \
+PIE: \*drég/gʰ-e- \
+<!-- COGN: Lith. dirginti "to pull (the trigger)" < \*drg-neh₂-, OCS dngati "to shudder", Ru. dergat' "to j erk" < \*drgCh₁-eh₂- and Ru. drozat', OCz. drzeti "to shiver" < \*drgfhJ.eh₁- \ -->
+<!-- A strong verb with two variants: \*trekan- and \*trekkan-. At least the latter variant must have adopted its root-final consonantism from the iterative \*trukkon- (q.v.). It is unclear, on the other hand, whether the single k of \*trekan- is secondary or not. This depends on the analysis of the root-final consonant of the Balto-Slavic cognates, which is problematic: the accentuation of Ru. dergat' and Lith. dirginti points to \*drg-, while Ru. drozat' rather implies \*dorgʰ-. Note that the related formation Ru. dial. drjgat', drygat' "to tremble" is ambiguous, both in its accent and in its potentially secondary root vocalism. \ -->
+REF: [EDPG]\: 522
+
+### <a id="treman">\*treman- [st.] "to waver" (v)</a>
+W: \
+-- MHG _tremen_ \
+PIE: \*drém-e- \
+<!-- COGN: Skt. dramati "to run (about)", Gr. cSpaµEi:v "to run" < \*drm- (cf. cSp6µoc; [m.] "run, race, course" < \*drom-o-), SCr. drmati "to tremble" < \*drm-eh₂-ie- \ -->
+<!-- A verb derived from a PIE root \*drem-, possibly a variant of \*trem-, cf. Lat. tremo, -ere "to tremble". Also cf. OE trem "footstep". \ -->
+REF: [EDPG]\: 522
+
+### <a id="trettōn">\*trett/dōn- ~ \*trutt/dōn- [wk.] "to trample" (v)</a>
+N: \
+-- Elfd. _troðå_ \
+W: \
+-- MDu. _tredden_, _tretten_ "to tread, trample" \
+-- MHG _trot(t)en_ "to trot" \
+PIE: \*dr(e)t-néh₂- \
+<!-- The iterative to \*tredan- ~ \*trudan-. \ -->
+REF: [EDPG]\: 522
+
+### <a id="trewa">\*trewa- [n.] "tree" (n)</a>
+E: \
+-- Go. _triu_ "stick; vine" \
+N: \
+-- ON _tré_ "tree; mast; rafter, beam" \
+-- Far. _træ_ "tree; piece of wood" \
+-- Elfd. _trai_ "id." \
+W: \
+-- OE _trēo_, _trēow_, E _tree_ \
+-- OFri. _trē_ \
+-- OS _trio_, _treo_ \
+PIE: \*dréu-o- \
+<!-- COGN: Hitt. tiiru- [n.] "wood", ToAB or "id.", Skt. daru-, gen. dr6�, drlðJab [n.] "id.", YAv. diiuru, gen. draos [n.] "wood; tree-trunk", OP diiruv [n.] "wood", NP diir "wood; tree", Gr. cS6pu, gen. cSoup6c;, cSouparnc; [n.] "wood, tree(stem), spear", OIr. daur, dair [f.] "oak", W dar "id." < \*dor-u-, OCS dnva [n.pl.] "wood", Ru. drova [n.pl.] "id.", SCr. dfvo [n.] "tree", Alb. dru / dril [m.] "wood; tree; stem, trunk" < \*dru- \ -->
+<!-- The Indo-European word for "wood" and "tree". See also \*terwa/on- and \*truga-. \ -->
+REF: [EDPG]\: 522
+
+### <a id="trewwu">\*trewwu- "loyal, trustworthy" (adj)</a>
+E: \
+-- Go. _triggws_ \
+N: \
+-- ON _tryggr_ \
+-- Far. _tryggur_ "safe, calm" \
+W: \
+-- OE _trīewe_, _ge-trīewe_ "id." \
+-- OFri. _triūwe_, _triōwe_ "id." \
+-- OS _triuwi_ "id." \
+-- MDu. _trouwe_, _ge-trouwe_ "id.", Du. _trouw_, _ge-trouw_ "loyal" \
+-- OHG _triuwi_, _gi-triuwi_ "id.", G _treu_, _ge-treu_ "id." \
+PIE: \*dreuH-u- \
+<!-- COGN: OPru. druwit "to believe", OIr. derb "certain" < \*der-uo- \ -->
+<!-- An u-stem related to \*truen- (q.v.). Etymologically, there may be a connection to the PIE word for "wood" (see \*trewa-). For the shift of meaning, cf. Lat. r6bustus "made of oak; strong", which was derived from robur [n.] "oak; strength". Also cf. \*truen-. \ -->
+REF: [EDPG]\: 523
+
+### <a id="trinnan">\*trinnan- [st.] "to separate oneself" (v)</a>
+W: \
+-- OHG _intrinnan_ "to separate oneself, to elope", MHG _trinnen_ "id." \
+PIE: \*drénu-e \
+<!-- Probably a secondary present \*drenu-e- to a nasal present related to \*teran- "to tear" < \*der-e, cf. Skt. dr "to split" (only d [Iḱyiit 3sg.opt.) < \*dr-neh₂-. Presumably, the nasal present was conjugated 3sg. \*dr-neu-ti, \*dr-nu-enti. The latter form may have served as the basis for the strong verb, which appears to continue \*drenu-e- with \*-nl,J- becoming -nn-. For a similar remodeling, cf. \*rinnan- < \*h₃r-neu-. The strong verb gave rise to the causative \*trannjan- and the zero-grade formation OHG abe-trunne, abe-trunnig, G ab-triinnig "disloyal, separatist" < \*-trunnja-. \ -->
+REF: [EDPG]\: 523
+
+### <a id="trūēn">\*trūēn- [wk.] "to trust" (v)</a>
+E: \
+-- Go. _trauan_ \
+N: \
+-- ON _trúa_ "to believe; to believe in, trust" \
+-- Far. _trúgva_ "id." \
+W: \
+-- OE _trūwian_ "to trust, confide" \
+-- OFri. _triūwa_, _trōwa_ "to trust; to marry" \
+-- OS _trauwian_ \
+-- Du. _trouwen_ "to marry" \
+-- OHG _trū(w)ēn_ "to trust, believe", G _trauen_ "id." \
+PIE: \*druH-eh₁-ie- \
+<!-- COGN: OPru. druwit "to believe", OIr. derb "certain" < \*der-uo- \ -->
+<!-- A stative verb created to the adjective \*trua-, cf. ON trur, Far. trugvur "faithful". See also \*trewwu- and \*trausta-. \ -->
+REF: [EDPG]\: 523
+
+### <a id="truga">\*truga- [n.] "trough" (n)</a>
+N: \
+-- ON _trog_ \
+W: \
+-- OE _trog_, _troh_ [m.], E _trough_ \
+-- MDu. _troch_ [m.] "trough; boat", Du. _trog_ [c.] "trough" \
+-- OHG _troc_ [m.], G _Trog_ [m.] \
+PIE: \*dru-kó- \
+<!-- COGN: OIr. drochta, gen. drochtai "tub, vessel" < \*druk-to-, OIr. drochat [m.] "bridge" < \*druḱo-ponth₁-o- \ -->
+<!-- Also cf. the OSw. trrJ [n.] "corn-measure", OE trig [n.] "tray" < \*trauhja- < \*drouk-io- and ON sgaul-treyja [f.], tryju-sgaull [m.] "saddletree" < \*trauhj6n-/\*truhj6n-. Probably a derivative of the IE word for "wood", see \*trewa-. \ -->
+REF: [EDPG]\: 523
+
+### <a id="trukkōn">\*trukkōn- [wk.] "to pull" (v)</a>
+W: \
+-- MDu. _trocken_ "to pull, jerk" \
+PIE: \*drg/gʰ-néh₂- \
+<!-- COGN: Lith. dirginti "to pull (the trigger)" < \*drg-neh₂-, OCS dngati "to shudder", Ru. dergat' "to jerk" < \*drg(hJ_eh₂-ie-, Ru. drozat' "to shiver" < \*drg(hJ_eh₁-ie- \ -->
+<!-- The iterative belonging to \*trek(k)an-. Given its root-final consonantism, this strong verb must have been influenced by the iterative 3sg. \*trukkopi, 3pl. \*trugunanpi < \*drg(hJ-neh₂-. This iterative, in turn, probably adopted its vowel slot from the strong verb, as \*drgrhl.neh₂- regularly should have become \*\*turkon-. \ -->
+REF: [EDPG]\: 524
+
+### <a id="truma-1">\*truma- [m.] "root(?)" (n)</a>
+W: \
+-- OE _wyrt-trum_ "root-stock" \
+PIE: \*dru-mo- \
+<!-- COGN: Skt. druma- [m.] "tree, plant", Ru. dram [m.] "forest, thicket", Gr. opuµa [n.pl.] "wood, forest" < \*dru-mo- \ -->
+<!-- From a PIE masculine \*dru-mo- (Gr. Opuµa is a neuter collective to the same word). The word was derived from the IE word for wood, for which see \*trewa-. OE also has the secondary n-stems wyrt-truma [m.] and -trume [f.] "id.". \ -->
+REF: [EDPG]\: 524
+
+### <a id="truma-2">\*truma- "reliable" (adj)</a>
+W: \
+-- OE _trum_ "firm, strong" \
+<!-- Closely related to \*truma- 1 "root(?)". The once again displays a semantic shift from "wood" to "strong" (cf. \*trausta- and \*trewwu-). OE trymman [wk.] "to strengthen, trim" < \*trumjan- was derived from the adjective. \ -->
+REF: [EDPG]\: 524
+
+### <a id="trumpōn">\*trumpōn- [wk.] "to step(?)" (v)</a>
+W: \
+-- MDu. _trompen_ "to step, trample" \
+-- MHG _trumpfen_ "to walk, toddle off" \
+PIE: \*drmb/bʰ-neh₂- \
+<!-- An iterative to which the strong verb Go. trimpan [st.] "to step up close, crowd" is a back-formation. The verbal base can be a nasalized variant of a root \*drebrhJ., cf. \*trap(p)on-. \ -->
+REF: [EDPG]\: 524
+
+### <a id="trussōn">\*trussōn- [wk.] "to roll, turn" (v)</a>
+W: \
+-- WPhal. _trossen_ "to roll" \
+<!-- Also cf. MDu. trosse "pack, cluster; hawser", Du. tros [c.] "raceme, hawser" < \*trussan-, WPhal. truaseln [wk.] "to roll slowly" < \*truslon-. No extra-Gm. etymology. Perhaps connected with MDu. trisen [wk.] "to turn, spin", MLG triseln [wk.] "to roll, dash", WPhal. triaseln "to spin". \ -->
+REF: [EDPG]\: 524
+
+### <a id="trūþa">\*trūþa- [m.] "joker" (n)</a>
+N: \
+-- ON _trúðr_ "juggler, fool" \
+W: \
+-- OE _trūð_ "trumpeter, actor, buffoon" \
+PIE: \*druH-to- \
+<!-- COGN: M ir. druth [m.] "professional jester, fool", MW drut "dear, foolish, foolhardy" < \*dʰruH-to- \ -->
+<!-- A Germanic-Celtic isogloss. ON truor can be explained as a loanword from Old English, but the correspondence of triio with MIr. druth is regular, and seems to imply a common Indo-European source. Since, however, there never was a specifically Celto-Germanic proto-language (the two branches only came into contact with each other after their arrival in West Europe), the word is more likely to be a vestige of Germanic-Celtic contact prior to the great sound shifts. \ -->
+REF: [EDPG]\: 524
+
+### <a id="tuhti">\*tuhti- [f.] "pulling" (n)</a>
+E: \
+-- Go. _us-tauhts_ "completion" \
+W: \
+-- OE _tyht_ [m.] "conduct, practice" \
+-- MDu. _tucht_ "discipline", Du. _tucht_ [c.] "id." \
+-- OHG _zuht_ "pulling, tug, correction", G _Zucht_ "breeding, rearing; discipline" \
+<!-- A ti-stem to \*teuhan- (q.v.). \ -->
+REF: [EDPG]\: 525
+
+### <a id="tukkōn">\*tukk/gōn- [wk.] "to pull, jerk" (v)</a>
+N: \
+-- ON _toga_ "to drag" \
+-- Elfd. _tugå_ "id." \
+W: \
+-- OE _togian_ "to tug", ME _toggen_ "id.", E _to tug_ \
+-- MDu. _tocken_, _token_ "to push, jerk, strike", _togen_ "to pull, drag" \
+-- OHG _zogōn_, _zockōn_, _zohhōn_ "to pull, jerk", MHG _zogen_ "to acquire, tear" \
+PIE: \*duk-néh₂- \
+<!-- The iterative to \*teuhan- (q.v.). Also cf. MHG zueken, ziicken, G ziieken [wk.] "to pull quickly, jerk" < \*tukkjan-. \ -->
+REF: [EDPG]\: 525
+
+### <a id="tulga">\*tulga- [m.] "tongue(?)" (n)</a>
+W: \
+-- G dial. _Zungen-zolch_ \
+PIE: \*dlgʰ-o- \
+<!-- COGN: Gr. yl.waaa, Att. yl.aaaa [f.] "tongue, language" < \*dl(o)gʰ-ieh₂- \ -->
+<!-- G Zungen-zoleh was recorded by Hofler 1899: 857 in his Deutsehes Krankheitsnamen-bueh, and in view of the word-final fricative appears to be the Middle German outcome of \*tungona-tulga-. Hofler pointed to the apparent correspondence with OE tungan tulge attested in Bald's Leeehbook ("under tungan tulge swearte ii!dre"), but here, tulge may be the adverbial form of \*tulgu- "firm" (q.v.). The element Zoleh, however, can still be related to Gr. yl.wcrcra and yl.acrcra if these ihz-stems were derived from an ablauting root noun \*dlogʰ-s, gen. \*dlgʰ-es, cf. Hsch. yA.wxE; [f.pl.] "beard of corn". On a deeper level, the word may be related to Lith. dilgus "stinging, burning" < \*dlgʰ-u-, OPru. doalgis, Lith. dalgis "scythe" < \*dolgʰ-i- and OIr. delg [n.] "thorn" < \*delgʰ-, possibly through an intermediate meaning "blade". The Irish word has alternatively been compared to ON dalkr [m.] "brooch, clasp", OE dale, dole [m.] "clasp, bracelet" < \*dalka-, however. \ -->
+REF: [EDPG]\: 525
+
+### <a id="tulgu">\*tulgu- "firm" (adj)</a>
+E: \
+-- Go. _tulgus_ "firm" \
+W: \
+-- OE _tylg_ "rather" (comp) (< \*tulg-iz) \
+-- OS _tulgo_ "very" (adv) \
+PIE: \*dlh₁gʰ-u- \
+<!-- COGN: Skt. dirghG- "long, far, lasting", Gr. 6ol.tx6; "long" (with t < E?), Lith. ilgas, Latv. ilgs "id.", OCS dlbgo, dlogo, Ru. d6lgij, SCr. dug "id." < \*dlh₁gʰ-o- \ -->
+<!-- An Indo-European word. The meaning "firm" developed from "long-lasting". Also cf. Go. tulgjan [wk.] "to make firm". \ -->
+REF: [EDPG]\: 525
+
+### <a id="tumfeti">\*tumfeti- [f.] "foundation" (n)</a>
+N: \
+-- ON _toft_, _tuft_ \
+-- Icel. _tóft_ \
+-- Far. _toft_ \
+-- OSw. _tomt_, _tompt_ \
+PIE: \*dm̥-ped-i- / \*dḿ̥-ti- \
+<!-- COGN: Gr. M-rrE6ov "floor" \ -->
+<!-- Usually analyzed as a PIE compound of the root \*dem- "building; house" and \*ped- "foot", like Gr. M:-m:oov. The attested forms, however, can also have developed from \*tumpi-, i.e. a ti-stem straightforwardly derived from the root \*dem-, cf. OHG zumft "agreement", for which see \*teman- and \*timbra-. \ -->
+REF: [EDPG]\: 525
+
+### <a id="tumþi">\*tumþi- [f.] "guild" (n)</a>
+W: \
+-- OHG _zumft_ "agreement, community", MHG _zumft_, _zunft_ "appropriateness, rule, association, guild", G _Zunft_ "craft, guild" \
+PIE: \*dḿ̥-ti \
+<!-- A ti-stem to the root of the strong verb \*teman- "to befit" ( [wk.]). The f is epenthetic between \*m and \*fl. \ -->
+REF: [EDPG]\: 526
+
+### <a id="tūna">\*tūna- [n.] "fenced area" (n)</a>
+N: \
+-- ON _tún_ "enclosure, courtyard, homestead; home field; town" \
+W: \
+-- OE _tūn_ [m.] "enclosed piece of ground, yard; town", E _town_ \
+-- OFri. _tūn_ [m.] "fence, enclosure, yard" \
+-- MLG _tūn_ [m.] "fence" \
+-- Du. _tuin_ [c.] "garden" \
+-- OHG _zūn_ [m.] "fence, enclosure", G _Zaun_ [m.] "id." \
+<!-- A Pre-Gm. loanword from Celtic \*duno-, cf. OIr. dun [n.] "fort, rampart", MW din [m.] "id.". OE dun [f.] "hill, down", MLG dune [f.], MDu. dunen [f.pl.], Du. duin [c.]jn. "dune" can be a later adoption, but has also been interpreted as belonging to the root \*du- "to blow", cf. \*duna- "down". \ -->
+REF: [EDPG]\: 526
+
+### <a id="tundra">\*tundra- [n.] "tinder" (n)</a>
+N: \
+-- ON _tundr_ \
+W: \
+-- OE _tynder_, _tyndre_ [f.] "tinder, fuel" (< \*tundrjō-) \
+-- MLG _tunder_ "id." \
+-- MHG _zunder_ [m./n.] "id.", G _Zunder_ [m.] "id." \
+PIE: \*dndʰ-ro- \
+<!-- See \*tandjan- and \*tandra(n)-. \ -->
+REF: [EDPG]\: 526
+
+### <a id="tungla">\*tungla- [n.] "star, celestial body(?)" (n)</a>
+E: \
+-- Go. _tuggl_ "celestial body, star" \
+N: \
+-- ON _tungl_ "moon" (also _himin-tungl_ "heavenly body") \
+-- Elfd. _tunggel_ "moon" \
+W: \
+-- OE _tungol_ [m./n.] "celestial body" \
+-- OS _tungal_ "star" \
+-- OHG _himil-zungal_ "celestial body" \
+<!-- This word has an uncertain etymology. Some derive it from \*tung6n"tongue", assuming that the word initially only applied to the waxing or waning moon. Others have connected Lith. dangus, OPru. dangus "heaven", but these words contain the root \*dʰengʰ- (see \*dung6n-) and therefore cannot be related. Akin to Nw. tanga [wk.] "to run around, dash about" and Du. tongelen [wk.] "to drag; to dangle; to move about"? \ -->
+REF: [EDPG]\: 526
+
+### <a id="tungōn">\*tungōn- [f.] "tongue" (n)</a>
+E: \
+-- Go. _tuggo_ \
+N: \
+-- ON _tunga_ \
+-- Far. _tunga_ \
+-- Elfd. _tungga_ \
+W: \
+-- OE _tunge_, E _tongue_ \
+-- OFri. _tunge_ \
+-- OS _tunga_ \
+-- Du. _tong_ [c.] \
+-- OHG _zunga_, G _Zunge_ \
+PIE: \*dnǵʰ-ueh₂- \
+<!-- COGN: ToA kiintu [m./f.], ToB kantwo [m.] "tongue" < \*gʰnd(hl-ueh₂- (with metathesis), Skt. jihva- [f.] "id.", Av. hizuua-/hizu- [m.] "id." < \*d(i)ngʰ-ueh₂, Lat. lingua [f.] "id." < \*fngʰ-ieh₂-, OIr. tengae [m./f.] "id.", OW tauawt, W tafod "id." < \*tngʰ-ot-, Lith. liezuvis [m.] "id.", OPru. insuwis "id." < \*ngʰ-ueh₂-, OCS jr;zyk'b, Ru. jazyk, SCr. jezik [m.] "id." < \*ngʰ-u-(ko-), Arm. lezu, gen. lezvi "id." \ -->
+<!-- Although the word in many other IE languages appears to have been distorted (often under the influence of a verb "to lick", cf. Lat. lingo, Lith. lieiti, Arm. lizanem < PIE \*leigʰ-), the original form is probably to be reconstructed as \*dngʰ-u(e)h₂-, i.e. a masculine (cf. Av. hizuuii-) h₂-stem inflected as \*d(e)ngʰ-uh₂, gen. \*dngʰ-ueh₂-s. For another possible word for "tongue"-; see \*tulga-. \ -->
+REF: [EDPG]\: 526
+
+### <a id="turba">\*turba- [m./n.] "turf, peat" (n)</a>
+N: \
+-- ON _torf_ [n.] \
+W: \
+-- MLG _torf_ [m.] \
+-- MDu. _torf_, _turf_ [m.], Du. _turf_ [c.] \
+PIE: \*drbʰ-o- \
+<!-- COGN: Skt. darbha- [m.] "tuft of grass, bunch of grass" < \*derbʰ-o-, Ru. derbci [f.] "clearing. cleared woodland" < \*derbʰ-eh₂-, YAv. daraf36a- [n.] "bundle of muscles" < \*drbʰ-to- \ -->
+<!-- An old, possibly Pre-Gm. derivation from the root \*derbʰ- "to wind", see \*tarbjan-. Also cf. OFri. tilra, MDu. torve [m.] "turf" < \*turban-, OE eoel-tyrf [f.] "noble soil" < \*turbi-, and the root noun OE turf, pl. tyrf [f.] "id.", E turf, OFri. turff. "id.", OS turfm. "id." < \*turb-. \ -->
+REF: [EDPG]\: 527
+
+### <a id="turhta">\*turhta- "bright" (adj)</a>
+W: \
+-- OE _torht_ "bright, splendid" \
+-- OS _toroht_ "bright" \
+-- OHG _zoraht_ "bright, clear" \
+PIE: \*drḱ-to- \
+<!-- COGN: OAv. -darasta- "seen, visible" < \*drḱ-to- \ -->
+<!-- An adjective continuing the original past ptc. of the PIE verb \*derḱ-e-, for which see \*tarhjan-. Also cf. OHG ougo-zorhton [wk.] "to reveal" < \*turhtojan-. \ -->
+REF: [EDPG]\: 527
+
+### <a id="turna">\*turna- [n./m.] "anger, rage" (n)</a>
+W: \
+-- OE _torn_ [n.] \
+-- OS _torn_ [n.] \
+-- Du. _toorn_ [c.] \
+-- OHG _zorn_ [n.], G _Zorn_ [m.] \
+<!-- Related to \*teran- and \*turnan- (q.v.). Also cf. MHG zorn "angry" < \*turna-. \ -->
+REF: [EDPG]\: 527
+
+### <a id="turnan">\*turnan- [st.] "to separate oneself, tear oneself away" (v)</a>
+E: \
+-- Go. _af-taurnan_ "to tear off", _dis-taurnan_ "to tear apart" \
+W: \
+-- Du. obs. _tornen__ [wk.] "to run off" \
+PIE: \*dr-nh₂-e- \
+<!-- COGN: Skt. dp:ufo "to rend, tear, split" < \*dr-neH- \ -->
+<!-- An old medial factitive to the strong verb \*teran- (q.v.). \ -->
+REF: [EDPG]\: 527
+
+### <a id="turþi">\*turþi- [f.] "destruction" (n)</a>
+E: \
+-- Go. _ga-taurþs_ \
+PIE: \*dŕ̥-ti- \
+<!-- COGN: Skt. dfti- "sack", Gr. ocipou; "skinned leather" \ -->
+<!-- A ti-stem derived from the stem of \*teran- (q.v.). \ -->
+REF: [EDPG]\: 527
+
+### <a id="turzda">\*turzda- [m.] "excrement" (n)</a>
+W: \
+-- OE _tord_ [n.], E _turd_ \
+-- MDu. _to(o)rt_ [m./n.] "dung" \
+PIE:;> \*drs-dʰh₁-o- \
+<!-- COGN: Latv. dirst (dirsu, dirsnu) "to shit" < \*drs- \ -->
+<!-- Also cf. G zorten "to shit" < \*turzdojan-. \ -->
+REF: [EDPG]\: 527
+
+### <a id="tūsan">\*tūsan- [st.] "to pull" (v)</a>
+W: \
+-- ME -_tousen_ [wk.] "to pull, tear at; to dishevel", E _to touse_ \
+-- LG _tūsen_ [wk.] "to pull apart" \
+-- OHG _zir-zūsōn_ [wk.] "to tear to pieces, clear of undergrowth", MHG _zer-zūsen_ [wk.] "to tousle", G _zer-zausen_ [wk.] "id." \
+<!-- COGN: To OIr. dos [m.] "bushy tree", Gael. dos "thicket; tuft" < \*dus-o-(?) \ -->
+<!-- A formation only attested as a class 2 weak verb, but potentially continuing a strong verb, cf. the inchoative Icel. tusna [wk.] "to fray, ravel up". The etymology of the word is unclear, but in view of the iterative \*tus(s)on(q.v.) alternating with Nw. tasa < \*tason-, it is probable that it goes back to a Pre-Gm. root \*des-. The long \*u of \*tusan- must then be secondary, i.e. based on the analogical zero-grade root \*tus-. This would mean that the link with OIr. dos cannot be maintained, however. \ -->
+REF: [EDPG]\: 527
+
+### <a id="tuska">\*tuska- [m.] "tusk, fang" (n)</a>
+W: \
+-- OE _tusc_, _tux(a)_, E _tusk_ \
+-- OFri. _tusk_, WFri. _tosk_ [c.] "tooth" \
+PIE: \*h₃dnt-sko- \
+<!-- An old derivation from the PIE word for "tooth", see \*tanp ~ \*tunp-. A remarkable variant is represented by WFri. twisk "cutting tooth", E dial. twisk "fang", which has been claimed to represent a secondary full-grade root \*twisk- (cf. Spenter 1968: 94, fn. 5 57). \ -->
+REF: [EDPG]\: 528
+
+### <a id="tuskan">\*tuska(n)- [m.] "toad(?), frog(?)" (n)</a>
+N: \
+-- Elfd. _tuosk_ "toad" \
+W: \
+-- OE _tosca_ "frog" \
+<!-- In spite of the uncertainty of the correspondence between Old English and Elfdalian (Bugge apud Noreen 1882: 196, fn. 4), both words can be reconciled as PGmc. \*tuska(n)-, which may continue a formation \*tud-ska-. For the suffix, cf. \*fruska- "frog" < \*fru(g)-ska-(?). \ -->
+REF: [EDPG]\: 528
+
+### <a id="tuskjan">\*tuskjan- [wk.] "to be burning" (v)</a>
+W: \
+-- OHG _zuscen_ "to burn" \
+PIE: \*dh₂u-ske- \
+<!-- COGN: Gr. oaiw "to burn", W deifyaw "to kindle" < \*dʰzu-ie-, Gr. MTJ [f.] "misery, anguish" \*duh₂(-eh₂)-; MIr. doud, MW kynneu- "to kindle" < \*(kom-)doh₂u-eie- \ -->
+<!-- An inchoative sk-present to the PIE base \*dʰr-u- "to burn". \ -->
+REF: [EDPG]\: 528
+
+### <a id="tussōn">\*tus(s)ōn- [wk.] "to fray" (v)</a>
+N: \
+-- Icel. _tos(s)a_ "to pull, tug" \
+-- Nw. _tos(s)a_ "to jerk, pull, pluck" \
+W: \
+-- ME _tosen_, E obs. _to toze_ "to pull asunder" \
+-- MLG _tōsen_ "to tear, tug" \
+-- MDu. _tosen_ "to pick out" \
+PIE: \*d(u)s-néh₂- \
+<!-- A zero-grade iterative akin to \*tilsan- (q.v.) and e.g. Nw. tos [n.] "fiber" < \*tusa-. The a-grade variant \*tason-, as supported by Nw. tasa [wk.] "to fray", Sw. dial. tasa [wk.] "to pluck wool", LG tasen [wk.] "to pull" < \*dos-neh₂- apparently points to a root \*des- rather than \*dus-. The alternative is to assume that the a-vocalism is secondary. \ -->
+REF: [EDPG]\: 528
+
+### <a id="tuttōn">\*tutt/dōn- [wk.] "to pull, drag" (v)</a>
+N: \
+-- Nw. _tot(t)a_ "to jerk, drag; to toil; to squeeze" \
+-- Sw. dial. _tåtta_ "to squeeze" \
+-- ODa. _tuttæ_, _tyttæ_ "to pull" \
+W: \
+-- Du. dial. _todden_, _tooien_ "to drag" \
+-- MHG _zoten_ "to go slowly" \
+PIE: \*dt-néh₂- \
+<!-- No extra-Germanic etymology; the Pre-Gm. root \*dut- could be a formal variant of the more widespread \*duk- "to pull" (see \*teuhan- and \*tukk/gon-), but the full-grade forms (see below) rather point to a root \*det-. The meaning "to pull" must have developed into "to pluck" at an early stage in view of e.g. ON, Icel. toddi, [m.] "tuft", MHG zotte, G Zotte "id.", Du. todde [c.] "rag" < \*tudda/on- OHG zota, G Zote [f.] "hair; rag" < \*tud6n- and G Swab Zotze [f.] "tuft, brush" < \*tuttan-. The origin of the ablauting forms OHG zato [m.] "shaggy hair" < \*tadan-; OHG zatta [f.] "flax", G Zatte [f.] "windrow, sheaf" < \*tadd6n- and OE tEttec [m.] "rag" < \*tattaka- is not entirely clear, but may point either to an ablauting n-stem \*tado, gen. \*tuttaz (cf. \*mapan- ~ \*muttan- "moth") or to an otherwise unattested a-grade iterative \*tatt/don-. Note that the related OHG zaturra [f.] "harlot" < \*tadur-jo(n)- and ON tǫturr [m.] "id." < \*tatura- could theoretically even point to an old r/n-stem nom. \*d6t-r, gen. \*dt-n-6s, yielding PGmc. \*dapur, \*duttaz. See also \*teudra- ~ \*tildra-. \ -->
+REF: [EDPG]\: 528
+
+### <a id="tuz">\*tuz- "apart, asunder" (pref)</a>
+E: \
+-- Go. _tuz-_ \
+N: \
+-- ON _tor-_ \
+W: \
+-- OE _tor_ \
+-- OHG _zur-_, G _zer_- \
+PIE: \*dus- \
+<!-- COGN: Skt. du$-, Gr. cSuo-, OIr. du-, do-, Arm. t- < \*du-s- "ill-, mis-, un-" (pref) \ -->
+<!-- Possibly an originally genitival form of the root \*du- "two" (for which see \*twa-), cf. the locatival \*du-i ~ \*h₁u-i "in two" (see \*widu(w)on- "widow" and \*wida- "wide"). Further cf. the derivation Skt. d6$a- [m.] "lack" < \*dous-o-. \ -->
+REF: [EDPG]\: 529
+
+### <a id="twa">\*twa- "two" (num)</a>
+E: \
+-- Go. _twai_ [m.], _twos_ [f.] _twa_ [n.] \
+N: \
+-- ON _tveir_, acc. _tvá_, [f.] _tvær_, [n.] _tvau_, gen. _tveggja_, dat. _tveim(r)_ \
+-- Far. _tveir_, [f.] _tvær_, [n.] _tvey_, gen. _tveggja_, dat. _tveimum_ \
+-- Elfd. _twer_, acc. _tųo_, [f.] _twär_, [n.] _tau_, dat. _twem_ \
+W: \
+-- OE _twēgen_, [f.] _twā_, [n.] _tū_, E _two_ \
+-- OFri. _twēne_, _twē_, _twēr(e)_, [f./n.] _twā_ \
+-- OS _twēne_, _twēna_, [f.] _twā_, _twō_, [n.] _twē_ \
+-- Du. _twee_ \
+-- OHG _zwēne_, [f.] _zwā_, _zwō_, [n.] _zwei_, G _zwei_ \
+PIE: \*duo- \
+<!-- The original PGmc. paradigm was \*twai, acc. \*twans (cf. Go. twans vs. ON tva, Far. poet. t6gva, Elfd. tljo < ON \*t6Q), [f.] \*tw6z, [n.] \*tii (OE ti, Elfd. tau), gen. \*twajjan, dat. \*twaimiz (not \*twaimuz in view of the umlaut of OE tw�m) from Pre-Gm. \*du-oi, \*du-ons, \*du-eh₂-es, \*du-h₂, \*du-oi-6m, \*du-oi-mis. Note that the original neuter \*til < \*tuh₂ (OE tii) was replaced by \*two in OHG zw6 and by \*twa in Go. twa. See also \*taw6- "pair" and \*tuz"atwo". \ -->
+REF: [EDPG]\: 529
+
+### <a id="twalifa">\*twalifa- "twelve" (num)</a>
+E: \
+-- Go. _twalif_ \
+N: \
+-- ON _tolf_ \
+-- Far. _tólv_ \
+-- Elfd. _tolv_ \
+W: \
+-- OE _twelf_, E _twelve_ \
+-- OFri. _twelif_, _toulif_, _toleve_, _tolewe_, _tolve_ \
+-- OS _twelif_ \
+-- Du. _twaalf_ \
+-- OHG _zwelif_, G _zwölf_ \
+<!-- COGN: Close to Lith. dvy-lika "twelve" (num) \ -->
+<!-- A compound with an original meaning "two past ten". Also cf. \*ainalifa-. \ -->
+REF: [EDPG]\: 529
+
+### <a id="twīfla">\*twifla- [m.] "doubt" (n)</a>
+E: \
+-- Go. _tweifls\*_ \
+W: \
+-- OFri. _twīfel_, _twīwil_ [m./n.] \
+-- MDu. _twivel_, Du. _twijfel_ [c.] \
+-- OHG _zwīval_, G _Zweifel_ \
+PIE: \*duei-plo- \
+<!-- A nominalization of a PIE adjective \*dui-plo- "two-fold", cf. Gr. omA6oi;. Presumably, the causative OE ge-twci!fan [wk.] "to split" < \*twaibjan- < quasi-PI E \*duoip-eie-, arose as a back-formation. Also cf. OS twfjli "doubtful" < \*twiflja- and OHG zwfvo [m.] "doubt" < \*twifan-. \ -->
+REF: [EDPG]\: 530
+
+### <a id="twigan">\*twig/kkan- [m.] "twig" (n)</a>
+N: \
+-- EDa. _tvege_, Da. _tveje_, _tvege_, _tvegge_ \
+W: \
+-- OE Nhb. _twigge_ [f.], E _twig_ \
+-- LG _twig_, WPhal. _twick_, _twiək_ [f.] \
+-- OHG _zweck(o)_ "nail, peg", MHG _zwec_ "nail, bolt, twig", G _Zweck_ "id.", _Zwick_ "peg, sprout" \
+PIE: \*duigʰ-on- \
+<!-- An old n-stem \*twigo, gen. \*twikkaz < \*duigʰ-on, \*duigʰ-n-6s. The regular root allomorphs \*twig- and \*twikk- are attested as Da. tvege and WPhal. twick. The variants \*twigg- (OE twigge, Da. tvegge) and \*twik- (WPhal. twiak) are secondary contamination forms. With a full grade, cf. OE twi(g) [n.] "twig", OHG zwig [m./n.], G Zweig [m.], MDu. twijch, Du. twijg [c.] < \*twiga-. \ -->
+REF: [EDPG]\: 530
+
+### <a id="twis">\*twis "twice" (adv)</a>
+W: \
+-- MLG _twis_ \
+PIE: \*dui-s \
+<!-- COGN: Identical to Skt. dvf�, YAv. bis, Gr. o i;, Lat. bis (lx duis), OIr.fo-df "twice" (adv) \ -->
+<!-- Also cf. ON tvisvar, tysvar, OHG zwiror, MHG zwire, zwir "twice" (adv) < \*twiswar ~ \*twizwar < \*duis- plus an unknown suffix. \ -->
+REF: [EDPG]\: 530
+
+### <a id="twiskja">\*twisk(j)a- "twofold" (adj)</a>
+W: \
+-- OS _twisk_ \
+-- OHG _zwisk_, _zwiski_, MHG _zwisc(h)_ \
+PIE: \*dui-sko- \
+<!-- COGN: Arm. kic' "associate" < \*dui-sk-o- \ -->
+<!-- An adjective in \*-(i)ska- derived either from the numeral \*twa- "two" (q.v.) or from the adverb \*twis "twice" (q.v.). It has a close parallel in Arm. kic'. \ -->
+REF: [EDPG]\: 530
