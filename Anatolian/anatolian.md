@@ -7,7 +7,7 @@
 ### <a id="a-1">_-a_, _-ā_ "allative singular ending" (suff)</a>
 PIE \*-eh₂, \*-oh₂ \
 The allative case marks a _goal_ ("place to which"), rather than a direction, for which see Melchert (2017). Hence, against EDHIL, it cannot be compared with the local adverbs in _-a_ (in particular, _parā_ "forwards" and _sarā_ "upwards") to be reconstructed \*-o. Instead, with Melchert, the ending is to be reconstructed \*-eh₂ (thematic \*-oh₂) with regular loss of \*h₂ word-finally. \
-REF: [EDHIL]\: 161 "_-a_, _-ā_", [Melchert (2017)]
+References: [EDHIL]\: 161 "_-a_, _-ā_", [Melchert (2017)]
 
 
 <!-- References -->
