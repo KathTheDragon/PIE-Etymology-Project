@@ -1,6 +1,8 @@
 # Hittite
 
-## A
+[A](#§A) - [E](#§E) - [H](#§H) - [I](#§I) - [K](#§K) - [L](#§L) - [M](#§M) - [N](#§N) - [P](#§P) - [S](#§S) - [T](#§T) - [U](#§U) - [W](#§W) - [Y](#§Y) - [Z](#§Z)
+
+## <a id="§A">A</a>
 
 ### <a id="a-1">_-a_, _-ā_ "allative singular ending" (suff)</a>
 PIE \*-eh₂, \*-oh₂ \
