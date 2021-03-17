@@ -28,4 +28,4 @@ References: [EDHIL]\: 162, [Jasanoff (2009)]
 <!-- References -->
 [EDHIL]: ./bibliography.md#Kloekhorst-2008 "Etymological Dictionary of the Hittite Inherited Lexicon (Khloekhorst 2008)"
 [Melchert (2017)]: ./bibliography.md#Melchert-2017 "An allative case in Proto-Indo-European?"
-[Jasanoff (2009)]: ./bibliography.md#Jasanoff-2009 "*-bhi, *-bhis, *-o¯is: following the trail of the PIE instrumental plural"
+[Jasanoff (2009)]: ./bibliography.md#Jasanoff-2009 "*-bhi, *-bhis, *-ōis: following the trail of the PIE instrumental plural"
