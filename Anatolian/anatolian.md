@@ -13,7 +13,7 @@ References: [EDHIL]\: 161 "_-a_, _-ā_", [Melchert (2017)]
 PIE \*-eh₂ \
 References: [EDHIL]\: 161 "_-a_"
 
-### <a id="a-3">_=a-_ "he, she, it" (encl.pron)</a>
+### <a id="a-3">_=a-_ "he, she, it, _3<sup>rd</sup> person_" (encl.pron)</a>
 Forms: nom.sg.c. _=as_, acc.sg.c. _=an_, nom.-acc.sg.n. _=at_, dat.sg. _=sse_, _=ssi_, nom.pl.c. _=e_, acc.pl.c _=us_, _=as_, nom.-acc.pl.n _=e_, _=at_, dat.pl. _=smas_
 Pal. _=a-_ "id." (nom.sg.c. _=aš_, acc.sg.c. _=an_, nom.-acc.sg.n. _=at_, dat.sg. _=ši_, nom.pl.c. _=aš_, nom.-acc.pl.n. _=e_) \
 CLuw. _=a-_ "id." (nom.sg.c. _=aš_, acc.sg.c. _=an_, nom.-acc.sg.n. _=ata_, dat.sg. _=du_, _=tu_, nom.pl.c. _=ata_, acc.pl.c. _=aš_, nom.-acc.pl.n. _=ata_, dat.pl. _=(m)maš_) \
