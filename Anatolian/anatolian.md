@@ -17,7 +17,7 @@ References: [EDHIL]\: 161 "_-a_"
 Forms: nom.sg. _=as_, acc.sg. _=an_, dir.sg. _=at_, dat.sg. _=sse_, _=ssi_, nom.pl. _=e_, acc.pl._=us_, _=as_, dir.pl. _=e_, _=at_, dat.pl. _=smas_
 Pal. _=a-_ "id." (nom.sg. _=aš_, acc.sg. _=an_, dir.sg. _=at_, dat.sg. _=ši_, nom.pl. _=aš_, dir.pl. _=e_) \
 CLuw. _=a-_ "id." (nom.sg. _=aš_, acc.sg. _=an_, dir.sg. _=ata_, dat.sg. _=du_, _=tu_, nom.pl. _=ata_, acc.pl. _=aš_, dir.pl. _=ata_, dat.pl. _=(m)maš_) \
-HLuw. _=a-_ "id." (nom.sg. /=as/, acc.sg. /=an/, nom.-acc.n. /=ada/, dat.sg. /=du/, nom.pl. /=ada/, acc.pl. /=ada/, dir.pl. /=ada/, dat.pl. /=mantˢ/) \
+HLuw. _=a-_ "id." (nom.sg. /=as/, acc.sg. /=an/, dir.sg. /=ada/, dat.sg. /=du/, nom.pl. /=ada/, acc.pl. /=ada/, dir.pl. /=ada/, dat.pl. /=mantˢ/) \
 Lyd. _=a-_ "id." (nom.sg. _=aś_, _=ś_, acc.sg. _=aν_, _=ν_, dir.sg. _=ad_, _=at_, dat.sg. _=aλ_, _=λ_) \
 Lyc. _=e-_ "id." (nom.sg. _=e_?, acc.sg. _=ẽ_, _=e_, _=ẽn_, _=ẽne_, _=en_, _=ene_, dir.sg. _=ed_, _=ede_, dat.sg. _=i_, _=ije_, dir.pl. _=e_, _=ed_, _=ede_, dat.pl. _=ñn-_, _=ñne_) \
 PAnat. \*=o- (nom.sg. \*=os, acc.sg. \*=om, dir.sg. \*=ot, nom.pl. \*=oy, acc.pl. \*=oms, dir.pl. \*=oy) \
