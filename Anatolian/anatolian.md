@@ -14,13 +14,13 @@ PIE \*-eh₂ \
 References: [EDHIL]\: 161 "_-a_"
 
 ### <a id="a-3">_=a-_ "he, she, it, _3<sup>rd</sup> person_" (encl.pron)</a>
-Forms: nom.sg.c. _=as_, acc.sg.c. _=an_, nom.-acc.sg.n. _=at_, dat.sg. _=sse_, _=ssi_, nom.pl.c. _=e_, acc.pl.c _=us_, _=as_, nom.-acc.pl.n _=e_, _=at_, dat.pl. _=smas_
-Pal. _=a-_ "id." (nom.sg.c. _=aš_, acc.sg.c. _=an_, nom.-acc.sg.n. _=at_, dat.sg. _=ši_, nom.pl.c. _=aš_, nom.-acc.pl.n. _=e_) \
-CLuw. _=a-_ "id." (nom.sg.c. _=aš_, acc.sg.c. _=an_, nom.-acc.sg.n. _=ata_, dat.sg. _=du_, _=tu_, nom.pl.c. _=ata_, acc.pl.c. _=aš_, nom.-acc.pl.n. _=ata_, dat.pl. _=(m)maš_) \
-HLuw. _=a-_ "id." (nom.sg.c. /=as/, acc.sg.c. /=an/, nom.-acc.n. /=ada/, dat.sg. /=du/, nom.pl.c. /=ada/, acc.pl.c. /=ada/, nom.-acc.pl.n. /=ada/, dat.pl. /=mantˢ/) \
-Lyd. _=a-_ "id." (nom.sg.c. _=aś_, _=ś_, acc.sg.c. _=aν_, _=ν_, nom.-acc.sg.n. _=ad_, _=at_, dat.sg. _=aλ_, _=λ_) \
-Lyc. _=e-_ "id." (nom.sg.c. _=e_?, acc.sg.c. _=ẽ_, _=e_, _=ẽn_, _=ẽne_, _=en_, _=ene_, nom.-acc.sg.n. _=ed_, _=ede_, dat.sg. _=i_, _=ije_, nom.-acc.pl.n. _=e_, _=ed_, _=ede_, dat.pl. _=ñn-_, _=ñne_) \
-PAnat. \*=o- (nom.sg.c. \*=os, acc.sg.c. \*=om, nom.-acc.sg.n. \*=ot, nom.pl.c. \*=oy, acc.pl.c. \*=oms, nom.-acc.pl.n. \*=oy) \
+Forms: nom.sg. _=as_, acc.sg. _=an_, dir.sg. _=at_, dat.sg. _=sse_, _=ssi_, nom.pl. _=e_, acc.pl._=us_, _=as_, nom.-acc.pl.n _=e_, _=at_, dat.pl. _=smas_
+Pal. _=a-_ "id." (nom.sg. _=aš_, acc.sg. _=an_, dir.sg. _=at_, dat.sg. _=ši_, nom.pl. _=aš_, dir.pl. _=e_) \
+CLuw. _=a-_ "id." (nom.sg. _=aš_, acc.sg. _=an_, dir.sg. _=ata_, dat.sg. _=du_, _=tu_, nom.pl. _=ata_, acc.pl. _=aš_, dir.pl. _=ata_, dat.pl. _=(m)maš_) \
+HLuw. _=a-_ "id." (nom.sg. /=as/, acc.sg. /=an/, nom.-acc.n. /=ada/, dat.sg. /=du/, nom.pl. /=ada/, acc.pl. /=ada/, dir.pl. /=ada/, dat.pl. /=mantˢ/) \
+Lyd. _=a-_ "id." (nom.sg. _=aś_, _=ś_, acc.sg. _=aν_, _=ν_, dir.sg. _=ad_, _=at_, dat.sg. _=aλ_, _=λ_) \
+Lyc. _=e-_ "id." (nom.sg. _=e_?, acc.sg. _=ẽ_, _=e_, _=ẽn_, _=ẽne_, _=en_, _=ene_, dir.sg. _=ed_, _=ede_, dat.sg. _=i_, _=ije_, dir.pl. _=e_, _=ed_, _=ede_, dat.pl. _=ñn-_, _=ñne_) \
+PAnat. \*=o- (nom.sg. \*=os, acc.sg. \*=om, dir.sg. \*=ot, nom.pl. \*=oy, acc.pl. \*=oms, dir.pl. \*=oy) \
 Kloekhorst suggests that the neuter plural _=e_ could be from *-ih₂, with a comparable lowering to *-uh₂ > /-o/ in _assū_ "good", but I'm unconvinced by his examples. Moreover, Jasanoff has to my mind convincingly explained it from *-oy, with the pronominal neuter plural stem in *oy found in the oblique. \
 References: [EDHIL]\: 162, [Jasanoff (2009)]
 
