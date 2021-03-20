@@ -20,7 +20,7 @@ HLuw. _=a-_ "id." \
 Lyd. _=a-_ "id." \
 Lyc. _=e-_ "id." \
 PAnat. \*=o- \
-Kloekhorst suggests that the neuter plural _=e_ could be from *-ih₂, with a comparable lowering to *-uh₂ > /-o/ in _assū_ "good", but I'm unconvinced by his examples. Moreover, Jasanoff has to my mind convincingly explained it from *-oy, with the pronominal neuter plural stem in *oy found in the oblique. \
+Kloekhorst suggests that the neuter plural _=e_ could be from \*-ih₂, with a comparable lowering to \*-uh₂ > /-o/ in _assū_ "good", but I'm unconvinced by his examples. Moreover, Jasanoff has to my mind convincingly explained it from \*-oy, with the pronominal neuter plural stem in \*oy found in the oblique. \
 References: [EDHIL]\: 162 "_=a-_", [Jasanoff (2009)]
 
 ### <a id="ahh">_-ahh-<sup>i</sup>_ "_factitive_" (suff)</a>
@@ -41,7 +41,7 @@ Derivatives: _issalli-_ "spittle" \
 CLuw. _âs-_ "mouth", _āssa-_ "to speak(?)" \
 HLuw. _ásaza-_ "to speak" \
 PIE [\*h₁óh₁s ~ h₁(e)h₁s-](../PIE/pie.md#h₁oh₁s) \
-Following Melchert (2010), I reconstruct this word and its cognates as dir.sg. \*h₁óh₁s, oblique \*h₁(e)h₁s-. The nom.-acc. with an _i_ is due to anaptyxis of PAnat \*e in \*-h₁s# (PAnat \*h₁óh₁es > CLuw. /ā.as/, Pre-Hitt. /ā.is/ regularly), while the oblique (and derivative stem) with _ss_ is due to assimilation of *h₁s after an unaccented vowel. \
+Following Melchert (2010), I reconstruct this word and its cognates as dir.sg. \*h₁óh₁s, oblique \*h₁(e)h₁s-. The nom.-acc. with an _i_ is due to anaptyxis of PAnat \*e in \*-h₁s# (PAnat \*h₁óh₁es > CLuw. /ā.as/, Pre-Hitt. /ā.is/ regularly), while the oblique (and derivative stem) with _ss_ is due to assimilation of \*h₁s after an unaccented vowel. \
 References: [EDHIL]\: 166 "_aiš_ / _išš-_", [Melchert (2010)]
 
 ### <a id="āk">_āk-<sup>i</sup>_ ~ _akk-_ "to die, to be killed; to be eclipsed" (v)</a>
