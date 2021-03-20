@@ -30,11 +30,11 @@ References: [EDHIL]\: 164 "_-aḫḫ-<sup>i</sup>_"
 ### <a id="āi">_ā(i)-<sup>ari</sup>_ ~ _i-_ "to be hot"</a>
 Derivatives: _inu-<sup>zi</sup>_ "to make hot, fry" , _ayēss-<sup>zi</sup>_ "to become hot(?)" \
 Unclear etymology. \
-References: [EDHIL]\: 164 "_ā(i)-<sup>ari</sup>_ ~ _i-_"
+References: [EDHIL]\: 164 "_ā(i)-<sup>ari</sup>_ / _i-_"
 
 ### <a id="aikawartanna">_aikawartanna_ "for one turn" (adv)</a>
 Loanword. \
-References [EDHIL]\: 166 "_aikawartanna_"
+References [EDHIL]\: 166 "_aikau̯artanna_"
 
 ### <a id="ais">_ais_ ~ _iss-_ "mouth" (n)</a>
 Derivatives: _issalli-_ "spittle" \
@@ -42,14 +42,14 @@ CLuw. _âs-_ "mouth", _āssa-_ "to speak(?)" \
 HLuw. _ásaza-_ "to speak" \
 PIE [\*h₁óh₁s ~ h₁(e)h₁s-](../PIE/pie.md#h₁oh₁s) \
 Following Melchert (2010), I reconstruct this word and its cognates as dir.sg. \*h₁óh₁s, oblique \*h₁(e)h₁s-. The nom.-acc. with an _i_ is due to anaptyxis of PAnat \*e in \*-h₁s# (PAnat \*h₁óh₁es > CLuw. /ā.as/, Pre-Hitt. /ā.is/ regularly), while the oblique (and derivative stem) with _ss_ is due to assimilation of *h₁s after an unaccented vowel. \
-References: [EDHIL]\: 166 "_aiš_ ~ _išš-_", [Melchert (2010)]
+References: [EDHIL]\: 166 "_aiš_ / _išš-_", [Melchert (2010)]
 
 ### <a id="āk">_āk-<sup>i</sup>_ ~ _akk-_ "to die, to be killed; to be eclipsed" (v)</a>
 Derivatives: _akkātar_ ~ _akkann-_ "death" \
 Lyd. _akτa-_ "of the dead"? \
 PIE \*nóḱey ~ \*n̩ḱénti \
 Following Melchert (2012), Kloekhorst's (2008) account of this verb is impossible - short \*ó did not lenite a following stop. Rather, we should reckon with analogical extension of the _-āCi_ ~ _-aCCanzi_ pattern due to the abberant allomorphy of \*_nākki_ ~ _akkanzi_ \< \*nóḱey ~ \*n̩ḱénti. Why this repair was chosen over a paradigm \*_nākki_ ~ \*_nakkanzi_ or \*_ākki_ ~ \*_akkanzi_ is beyond me, however. \
-References: [EDHIL]\: 167 "_āk-<sup>i</sup>_ ~ _akk-_", [Melchert (2012)]
+References: [EDHIL]\: 167 "_āk-<sup>i</sup>_ / _akk-_", [Melchert (2012)]
 
 ### <a id="aku">_aku-_ "sea-shell" (n)</a>
 Derivatives: _akuwant-_ "covert with sea-shells" \
