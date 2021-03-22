@@ -8,7 +8,7 @@
 
 ## <a id="§H₁">H₁</a>
 
-### <a id="h₁oh₁s">\*h₁óh₁s ~ \*h₁(e)h₁s- [n.s.] "mouth" (n)</a>
+### <a id="h₁oh₁s">\*h₁óh₁s ~ \*h₁(e)h₁s- [n.] "mouth" (n)</a>
 Avestan _āh-_ \
 Hittite [_ais_ ~ _iss-_](../Anatolian/anatolian.md#ais) \
 Latin _ōs_ \
