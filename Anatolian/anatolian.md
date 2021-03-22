@@ -14,11 +14,11 @@ PIE \*-eh₂ \
 References: [EDHIL]\: 161 "_-a_"
 
 ### <a id="a-3">_=a-_ "he, she, it, _3<sup>rd</sup> person_" (encl.pron)</a>
-Pal. _=a-_ "id." (suff) \
-CLuw. _=a-_ "id." (suff) \
-HLuw. _=a-_ "id. (suff)" \
-Lyd. _=a-_ "id." (suff) \
-Lyc. _=e-_ "id." (suff) \
+Pal. _=a-_ "id." (encl.pron) \
+CLuw. _=a-_ "id." (encl.pron) \
+HLuw. _=a-_ "id. (encl.pron)" \
+Lyd. _=a-_ "id." (encl.pron) \
+Lyc. _=e-_ "id." (encl.pron) \
 PAnat. \*=o- \
 Kloekhorst suggests that the neuter plural _=e_ could be from \*-ih₂, with a comparable lowering to \*-uh₂ > /-o/ in _assū_ "good", but I'm unconvinced by his examples. Moreover, Jasanoff has to my mind convincingly explained it from \*-oy, with the pronominal neuter plural stem in \*oy found in the oblique. \
 References: [EDHIL]\: 162 "_=a-_", [Jasanoff (2009)]
