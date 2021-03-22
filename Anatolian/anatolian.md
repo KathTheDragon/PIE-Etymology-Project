@@ -23,12 +23,12 @@ PAnat. \*=o- \
 Kloekhorst suggests that the neuter plural _=e_ could be from \*-ih₂, with a comparable lowering to \*-uh₂ > /-o/ in _assū_ "good", but I'm unconvinced by his examples. Moreover, Jasanoff has to my mind convincingly explained it from \*-oy, with the pronominal neuter plural stem in \*oy found in the oblique. \
 References: [EDHIL]\: 162 "_=a-_", [Jasanoff (2009)]
 
-### <a id="ahh">_-ahh-<sup>i</sup>_ "_factitive_" (suff)</a>
+### <a id="ahh">_-ahh-_ [i] "_factitive_" (suff)</a>
 PIE \*-eh₂- \
 References: [EDHIL]\: 164 "_-aḫḫ-<sup>i</sup>_"
 
-### <a id="āi">_ā(i)-<sup>ari</sup>_ ~ _i-_ "to be hot"</a>
-Derivatives: _inu-<sup>zi</sup>_ "to make hot, fry" (v) , _ayēss-<sup>zi</sup>_ "to become hot(?)" (v) \
+### <a id="āi">_ā(i)-_ ~ _i-_ [ari] "to be hot" (v)</a>
+Derivatives: _inu-_ [zi] "to make hot, fry" (v) , _ayēss-_ [zi] "to become hot(?)" (v) \
 Unclear etymology. \
 References: [EDHIL]\: 164 "_ā(i)-<sup>ari</sup>_ / _i-_"
 
@@ -36,22 +36,22 @@ References: [EDHIL]\: 164 "_ā(i)-<sup>ari</sup>_ / _i-_"
 Loanword. \
 References [EDHIL]\: 166 "_aikau̯artanna_"
 
-### <a id="ais">_ais_ ~ _iss-_ "mouth" (n)</a>
-Derivatives: _issalli-_ "spittle" (n) \
-CLuw. _âs-_ "mouth" (n), _āssa-_ "to speak(?)" (v) \
+### <a id="ais">_ais_ ~ _iss-_ [n.] "mouth" (n)</a>
+Derivatives: _issalli-_ [n.] "spittle" (n) \
+CLuw. _âs-_ [n.] "mouth" (n), _āssa-_ "to speak(?)" (v) \
 HLuw. _ásaza-_ "to speak" (v) \
 PIE [\*h₁óh₁s ~ h₁(e)h₁s-](../PIE/pie.md#h₁oh₁s) \
 Following Melchert (2010), I reconstruct this word and its cognates as dir.sg. \*h₁óh₁s, oblique \*h₁(e)h₁s-. The nom.-acc. with an _i_ is due to anaptyxis of PAnat \*e in \*-h₁s# (PAnat \*h₁óh₁es > CLuw. /ā.as/, Pre-Hitt. /ā.is/ regularly), while the oblique (and derivative stem) with _ss_ is due to assimilation of \*h₁s after an unaccented vowel. \
 References: [EDHIL]\: 166 "_aiš_ / _išš-_", [Melchert (2010)]
 
-### <a id="āk">_āk-<sup>i</sup>_ ~ _akk-_ "to die, to be killed; to be eclipsed" (v)</a>
-Derivatives: _akkātar_ ~ _akkann-_ "death" (n) \
+### <a id="āk">_āk-_ ~ _akk-_ [i] "to die, to be killed; to be eclipsed" (v)</a>
+Derivatives: _akkātar_ ~ _akkann-_ [n.] "death" (n) \
 Lyd. _akτa-_ "of the dead"? (adj) \
 PIE \*nóḱey ~ \*n̩ḱénti \
 Following Melchert (2012), Kloekhorst's (2008) account of this verb is impossible - short \*ó did not lenite a following stop. Rather, we should reckon with analogical extension of the _-āCi_ ~ _-aCCanzi_ pattern due to the abberant allomorphy of \*_nākki_ ~ _akkanzi_ \< \*nóḱey ~ \*n̩ḱénti. Why this repair was chosen over a paradigm \*_nākki_ ~ \*_nakkanzi_ or \*_ākki_ ~ \*_akkanzi_ is beyond me, however. \
 References: [EDHIL]\: 167 "_āk-<sup>i</sup>_ / _akk-_", [Melchert (2012)]
 
-### <a id="aku">_aku-_ "sea-shell" (n)</a>
+### <a id="aku">_aku-_ [c.] "sea-shell" (n)</a>
 Derivatives: _akuwant-_ "covered with sea-shells" (adj) \
 No etymology. \
 References: [EDHIL]\: 168 "_aku-_"
