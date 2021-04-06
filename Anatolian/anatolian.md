@@ -1,5 +1,13 @@
 # Hittite
 
+## Note on Transcription
+Several liberties have been taken with the spelling of Hittite forms in bound transcription. Firstly, the letters _š_ and _ḫ_ have been replaced with _s_ and _h_. Secondly, the distinction between _p_, _t_, and _k_, on the one hand, and _b_, _d_, and _g_, on the other, has been collapsed in favour of the voiceless stops, as I know of no functional contrast that employs these spellings.
+
+## Word classes
+Verbs have been annotated with the form of the 3sg present corresponding to their inflection class: [zi] (_mi_-conjugation), [i] (_hi_-conjugation), [ari] (dentalless middle), and [ttari] (dental middle). Nouns are annotated with their gender: [c.] (common gender) and [n.] (neuter gender).
+
+# Dictionary
+
 [A](#§A) - [E](#§E) - [H](#§H) - [I](#§I) - [K](#§K) - [L](#§L) - [M](#§M) - [N](#§N) - [P](#§P) - [S](#§S) - [T](#§T) - [U](#§U) - [W](#§W) - [Y](#§Y) - [Z](#§Z)
 
 ## <a id="§A">A</a>
