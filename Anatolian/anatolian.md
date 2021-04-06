@@ -40,14 +40,14 @@ References [EDHIL]\: 166 "_aikau̯artanna_"
 Derivatives: _issalli-_ [n.] "spittle" (n) \
 CLuw. _âs-_ [n.] "mouth" (n), _āssa-_ "to speak(?)" (v) \
 HLuw. _ásaza-_ "to speak" (v) \
-PIE [\*h₁óh₁s ~ h₁(e)h₁s-](../PIE/pie.md#h₁oh₁s) \
+PIE [\*h₁óh₁s "mouth"](../PIE/pie.md#h₁oh₁s) \
 Following Melchert (2010), I reconstruct this word and its cognates as dir.sg. \*h₁óh₁s, oblique \*h₁(e)h₁s-. The nom.-acc. with an _i_ is due to anaptyxis of PAnat \*e in \*-h₁s# (PAnat \*h₁óh₁es > CLuw. /ā.as/, Pre-Hitt. /ā.is/ regularly), while the oblique (and derivative stem) with _ss_ is due to assimilation of \*h₁s after an unaccented vowel. \
 References: [EDHIL]\: 166 "_aiš_ / _išš-_", [Melchert (2010)]
 
 ### <a id="āk">_āk-_ ~ _akk-_ [i] "to die, to be killed; to be eclipsed" (v)</a>
 Derivatives: _akkātar_ ~ _akkann-_ [n.] "death" (n) \
 Lyd. _akτa-_ "of the dead"? (adj) \
-PIE \*nóḱey ~ \*n̩ḱénti \
+PIE [\*nóḱ-ey "dies"](#noḱ) \
 Following Melchert (2012), Kloekhorst's (2008) account of this verb is impossible - short \*ó did not lenite a following stop. Rather, we should reckon with analogical extension of the _-āCi_ ~ _-aCCanzi_ pattern due to the abberant allomorphy of \*_nākki_ ~ _akkanzi_ \< \*nóḱey ~ \*n̩ḱénti. Why this repair was chosen over a paradigm \*_nākki_ ~ \*_nakkanzi_ or \*_ākki_ ~ \*_akkanzi_ is beyond me, however. \
 References: [EDHIL]\: 167 "_āk-<sup>i</sup>_ / _akk-_", [Melchert (2012)]
 

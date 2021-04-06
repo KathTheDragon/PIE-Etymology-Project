@@ -10,7 +10,7 @@
 
 ### <a id="h₁oh₁s">\*h₁óh₁s ~ \*h₁(e)h₁s- [n.] "mouth" (n)</a>
 Avestan _āh-_ \
-Hittite [_ais_ ~ _iss-_](../Anatolian/anatolian.md#ais) \
+Hittite [_ais_](../Anatolian/anatolian.md#ais) \
 Latin _ōs_ \
 Old Irish _á_ \
 Sanskrit _ā́s-_ \
@@ -19,4 +19,4 @@ If the Kortlandt effect (\*d > \*h₁ in some environments) is accepted, then th
 ## <a id="§N">N</a>
 
 ### <a id="noḱ">\*nóḱ- ~ \*n̩ḱ- [h₂e] "to die" (v)</a>
-Hittite [_āk-<sup>i</sup>_ ~ _akk-_](../Anatolian/anatolian.md#āk) "to die, to be killed; to be eclipsed" \
+Hittite [_āki_](../Anatolian/anatolian.md#āk) "to die, to be killed; to be eclipsed"
