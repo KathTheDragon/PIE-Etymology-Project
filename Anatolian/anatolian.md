@@ -65,9 +65,9 @@ No etymology. \
 References: [EDHIL]\: 168 "_aku-_"
 
 <!-- References -->
-[EDHIL]: ./bibliography.md#Kloekhorst-2008 "Etymological Dictionary of the Hittite Inherited Lexicon (Khloekhorst 2008)"
-[Melchert (2010)]: ./bibliography.md#Melchert-2010 "The Word for ‘mouth’ in Hittite and Proto-Indo-European"
-[Melchert (2012)]: ./bibliography.md#Melchert-2012 "Hittite ḫi-Verbs of the Type -āC₁i, -aC₁C₁anzi"
-[Melchert (2017)]: ./bibliography.md#Melchert-2017 "An allative case in Proto-Indo-European?"
-[Jasanoff (2009)]: ./bibliography.md#Jasanoff-2009 "*-bhi, *-bhis, *-ōis: following the trail of the PIE instrumental plural"
 [Spence (2021)]: ./bibliography.md#Spence-2021 "The Origin of the Hittite mēma/i- Verbs"
+[EDHIL]: ./references.md#Kloekhorst-2008 "Etymological Dictionary of the Hittite Inherited Lexicon (Khloekhorst 2008)"
+[Melchert (2010)]: ./references.md#Melchert-2010 "The Word for ‘mouth’ in Hittite and Proto-Indo-European"
+[Melchert (2012)]: ./references.md#Melchert-2012 "Hittite ḫi-Verbs of the Type -āC₁i, -aC₁C₁anzi"
+[Melchert (2017)]: ./references.md#Melchert-2017 "An allative case in Proto-Indo-European?"
+[Jasanoff (2009)]: ./references.md#Jasanoff-2009 "*-bhi, *-bhis, *-ōis: following the trail of the PIE instrumental plural"
