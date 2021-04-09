@@ -24,7 +24,7 @@ References: [EDHIL]\: 161 "_-a_"
 ### <a id="a-3">_=a-_ "he, she, it, _3<sup>rd</sup> person_" (encl.pron)</a>
 Pal. _=a-_ "id." (encl.pron) \
 CLuw. _=a-_ "id." (encl.pron) \
-HLuw. _=a-_ "id. (encl.pron)" \
+HLuw. _=a-_ "id." (encl.pron) \
 Lyd. _=a-_ "id." (encl.pron) \
 Lyc. _=e-_ "id." (encl.pron) \
 PAnat. \*=o- \
@@ -55,7 +55,7 @@ References: [EDHIL]\: 166 "_aiš_ / _išš-_", [Melchert (2010)]
 ### <a id="āk">_āk-_ ~ _akk-_ [i] "to die, to be killed; to be eclipsed" (v)</a>
 Derivatives: _akkātar_ ~ _akkann-_ [n.] "death" (n) \
 Lyd. _akτa-_ "of the dead"? (adj) \
-PIE [\*nóḱ-ey "dies"](#noḱ) \
+PIE [\*nóḱ-ey "dies"](../PIE/pie.md#noḱ) \
 Following Melchert (2012), Kloekhorst's (2008) account of this verb is impossible - short \*ó did not lenite a following stop. Rather, we should reckon with analogical extension of the _-āCi_ ~ _-aCCanzi_ pattern due to the abberant allomorphy of \*_nākki_ ~ _akkanzi_ \< \*nóḱey ~ \*n̩ḱénti. Why this repair was chosen over a paradigm \*_nākki_ ~ \*_nakkanzi_ or \*_ākki_ ~ \*_akkanzi_ is beyond me, however. \
 References: [EDHIL]\: 167 "_āk-<sup>i</sup>_ / _akk-_", [Melchert (2012)]
 
