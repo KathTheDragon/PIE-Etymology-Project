@@ -36,7 +36,7 @@ PIE \*-eh₂- \
 References: [EDHIL]\: 164 "_-aḫḫ-<sup>i</sup>_"
 
 ### <a id="āi">_ā(i)-_ ~ _i-_ [ari] "to be hot" (v)</a>
-Derivatives: _inu-_ [zi] "to make hot, fry" (v) , _ayēss-_ [zi] "to become hot(?)" (v) \
+Derivatives: _inu-_ [zi] "to make hot, fry" (v); _ayēss-_ [zi] "to become hot(?)" (v) \
 Unclear etymology. \
 References: [EDHIL]\: 164 "_ā(i)-<sup>ari</sup>_ / _i-_"
 
@@ -46,7 +46,7 @@ References [EDHIL]\: 166 "_aikau̯artanna_"
 
 ### <a id="ais">_ais_ ~ _iss-_ [n.] "mouth" (n)</a>
 Derivatives: _issalli-_ [n.] "spittle" (n) \
-CLuw. _âs-_ [n.] "mouth" (n), _āssa-_ "to speak(?)" (v) \
+CLuw. _âs-_ [n.] "mouth" (n); _āssa-_ "to speak(?)" (v) \
 HLuw. _ásaza-_ "to speak" (v) \
 PIE [\*h₁óh₁s "mouth"](../PIE/pie.md#h₁oh₁s) \
 Following Melchert (2010), I reconstruct this word and its cognates as dir.sg. \*h₁óh₁s, oblique \*h₁(e)h₁s-. The nom.-acc. with an _i_ is due to anaptyxis of PAnat \*e in \*-h₁s# (PAnat \*h₁óh₁es > CLuw. /ā.as/, Pre-Hitt. /ā.is/ regularly), while the oblique (and derivative stem) with _ss_ is due to assimilation of \*h₁s after an unaccented vowel. \
@@ -83,12 +83,12 @@ Unknown. \
 References: [EDHIL]\: 170 "_alpant-_"
 
 ### <a id="alpu">_alpu-_ "pointed" (adj)</a>
-Derivatives: _alpuemar_ [n.] "point, tip" (n), _alpuēss-_ [zi] "to be sharp, acute" (v) \
+Derivatives: _alpuemar_ [n.] "point, tip" (n); _alpuēss-_ [zi] "to be sharp, acute" (v) \
 The exact reconstruction is uncertain. \
 References: [EDHIL]\: 170 "_alpu-_"
 
 ### <a id="alwanz">_alwanz-_ "being bewitched, affected by sorcery" (stem)</a>
-Derivatives: _alwanzātar_ ~ _alwanzann-_ [n.] "witchcraft, sorcery, spell" (n), \*_alwanzessar_ ~ _alwanzesn-_ [n.] "witchcraft" (n), _alwanzena-_ [c.] "practising sorcery, sorcerous; sorceror" (adj/n), _alwanzahh-_ [i] "to bewitch" (v), _alwanzahha-_ [?] "sorcery" (n) \
+Derivatives: _alwanzātar_ ~ _alwanzann-_ [n.] "witchcraft, sorcery, spell" (n); \*_alwanzessar_ ~ _alwanzesn-_ [n.] "witchcraft" (n); _alwanzena-_ [c.] "practising sorcery, sorcerous; sorceror" (adj), (n); _alwanzahh-_ [i] "to bewitch" (v); _alwanzahha-_ [?] "sorcery" (n) \
 No etymology. \
 References: [EDHIL]\: 171 "_alu̯anz-_"
 
@@ -113,14 +113,14 @@ PIE \*h₁en?
 References: [EDHIL]\: 173 "_=(a)n_"
 
 ### <a id="anna-1">_anna-_ "former, old" (stem)</a>
-Derivatives: _anni-_ "that, the aforementioned one" (pn), _annaz_ "formerly, once upon a time" (adv), _annal(l)a/i-_ "former, earlier, old" (adj), _annisan_ "formerly, before; once; at the time" (adv) \
+Derivatives: _anni-_ "that, the aforementioned one" (pn); _annaz_ "formerly, once upon a time" (adv); _annal(l)a/i-_ "former, earlier, old" (adj); _annisan_ "formerly, before; once; at the time" (adv) \
 _annis_ may be a ghost word or loan from Akkadian as it is only found in a glossary, glossing Akkadian _\[IŠ-TU AN-NI-I\]Š_. The variation in _annal(l)a/i-_ is also suggestive of a loanword. No further etymology. \
 References: [EDHIL]\: 173 "_anna-_"
 
 ### <a id="anna-2">_anna-_ [c.] "mother" (n)</a>
 Derivatives: _anniyatar_ ~ _anniyann-_ [n.] "motherhood" (n) \
 Pal. _anna-_ "mother" (n) \
-CLuw. _ānna/i-_ [c.] "mother" (n), _annalla/i-_ "maternal" (adj), _ānnawann(i)-_ [c.] "stepmother" (n), _ānninniyami-_ [c.] "cousin" (n), _ānni(ya)-_ "maternal" (adj) \
+CLuw. _ānna/i-_ [c.] "mother" (n); _annalla/i-_ "maternal" (adj); _ānnawann(i)-_ [c.] "stepmother" (n); _ānninniyami-_ [c.] "cousin" (n); _ānni(ya)-_ "maternal" (adj) \
 HLuw. **MATER**-_nati-_ [c.] "mother" (n) \
 Lyd. _ẽna-_ "mother" (n) \
 Lyc. _ẽne/i-_ [c.] "mother" (n) \
@@ -167,7 +167,7 @@ Compound of [_anna-_ "mother"](#anna) and [_neka-_ "sister"](#neka). \
 References: [EDHIL]\: 176 "_annaneka-_"
 
 ### <a id="annanu">_annanu-_ [zi] "to train, educate" (v)</a>
-Derivatives: _annanuhha-_ "trained(?)" (adj), _annanuzzi-_ [c.] "halter(?)" (n), _annanuzziyant-_ "haltered" (adj) \
+Derivatives: _annanuhha-_ "trained(?)" (adj); _annanuzzi-_ [c.] "halter(?)" (n); _annanuzziyant-_ "haltered" (adj) \
 PIE \*hₓn-nu-? \
 Likely originally the causative to [_aniye/a-_ "to work"](#aniye). The geminate _n_ would be due to rebuilding to make the derivation more transparent, compare the imperfective _anniske/a-_ for regular \*_aske/a-_.
 
@@ -185,7 +185,7 @@ Derived from [_anna-_ "mother"](#anna) with an unclear suffix _-wanna-_. \
 References: [EDHIL]\: 179 "_annau̯anna-_"
 
 ### <a id="aniye">_aniye/a-_ [zi] "to work; to carry out, to produce, to treat"</a>
-Derivatives: _aniyatt-_ [c.] "work, task; ritual gear or garments; message" (n), _aniūr_ [n.] "prestation, ritual" (n), _aniyauwar_ [n.] "id." (n) \
+Derivatives: _aniyatt-_ [c.] "work, task; ritual gear or garments; message" (n); _aniūr_ [n.] "prestation, ritual" (n); _aniyauwar_ [n.] "id." (n) \
 Pal. _aniye/a-_ "to do, to work" (v) \
 CLuw. _ānni-_ "to carry out, to treat" (v) \
 PIE \*hₓn-ye-? \
@@ -212,8 +212,8 @@ References: [EDHIL]\: 183 "_-ant-_"
 
 ### <a id="anta">_anta_ "in(to), inwards; (with)in; in addition" (adv)</a>
 Derivatives: _antan_ "(with)in, inside; in(to)" (adv) \
-CLuw. _ānta_ "in(to)" (prev), _andan_ "inside"? (adv) \
-HLuw. _anta_ "(with)in, in(to)" (adv), _antan_ "into", _antatila/i-_ "internal" (adj) \
+CLuw. _ānta_ "in(to)" (prev); _andan_ "inside"? (adv) \
+HLuw. _anta_ "(with)in, in(to)" (adv); _antan_ "into", _antatila/i-_ "internal" (adj) \
 Lyd. _ẽt-_ (prev) \
 Lyc. _ñte_ "inside" (adv) \
 PAnat. \*ʔn̩do, \*ʔn̩dom/n \
@@ -226,7 +226,7 @@ Likely a loanward from Hurrian. \
 References: [EDHIL]\: 186 "_antaka-_"
 
 ### <a id="antara">_antara-_ "blue" (adj)</a>
-Derivatives: _antarant-_ "blue" (adj), _antariske/a-_ "to make blue" (v) \
+Derivatives: _antarant-_ "blue" (adj); _antariske/a-_ "to make blue" (v) \
 PIE [\*m(o)dʰro- "blue"](../PIE/pie.md#modʰro) \
 References: [EDHIL]\: 186 "_antara-_"
 
@@ -282,7 +282,7 @@ References: [EDHIL]\: 189 "_-anzi_"
 
 ### <a id="apa">_=(a)p(a)_ "_locatival sentence particle_" (encl)</a>
 Pal. _=(p)pa_ "_sentence particle_" (encl) \
-CLuw. _pā=_ "_sentence particle_" (part), _=pa=_ (encl) \
+CLuw. _pā=_ "_sentence particle_" (part); _=pa=_ (encl) \
 HLuw. _=pa=_ "_sentence particle_" (encl) \
 Lyd. _fa=_ "_sentence particle_" (part) \
 Lyc. _=be_, _=pe_ "_sentence particle_" (encl) \
@@ -291,23 +291,23 @@ The connection of these particles together is based primarily on formal consider
 References: [EDHIL]\: 190 "_=(a)p(a)_"
 
 ### <a id="apā">_apā-_ ~ _apū-_ "that (one); he, she, it" (pron)</a>
-Derivatives: _apāsila_ "himself, herself, of one's own", _apatta(n)_ "there" (adv), _apiya_ "there, then" (adv), _apinissan_ "thus" (adv), _apinissuwant-_ "of such kind" (adj) \
+Derivatives: _apāsila_ "himself, herself, of one's own", _apatta(n)_ "there" (adv); _apiya_ "there, then" (adv); _apinissan_ "thus" (adv); _apinissuwant-_ "of such kind" (adj) \
 Pal. _apa-_ "that one" (pron) \
-CLuw. _apā-_ "that; he, she, it, they" (pron), _apati(n)_ "thus" (adv) \
+CLuw. _apā-_ "that; he, she, it, they" (pron); _apati(n)_ "thus" (adv) \
 HLuw. _ápa-_ "he, she, it", _ápati_ "there" (adv) \
-Lyd. _bi-_ "he" (pron), _bili-_ "his" (adj), _ebad_ "here, there" (adv) \
-Lyc. _ebe-_ "this" (pron), _eb(e)-_ "he, she, it" (pron), _ehbi-_ "his" (adj), _epttehe/i-_, _eb(e)ttehe/i-_ "their" (adj), _ebei_ "here" (adv), _ebeila_ "here" (adv), _ebeli_ "here" (adv) \
+Lyd. _bi-_ "he" (pron); _bili-_ "his" (adj); _ebad_ "here, there" (adv) \
+Lyc. _ebe-_ "this" (pron); _eb(e)-_ "he, she, it" (pron); _ehbi-_ "his" (adj); _epttehe/i-_, _eb(e)ttehe/i-_ "their" (adj); _ebei_ "here" (adv); _ebeila_ "here" (adv); _ebeli_ "here" (adv) \
 PAnat. \*ʔobó- \
 Probably a compound of the PIE pronoun \*h₁e- (for which see [_asi_ ~ _uni_ ~ _ini_](#asi)) and the deictic element found in [_=pat_](#pat). \
 References: [EDHIL]\: 191 "_apā-_ / _apū-_"
 
 ### <a id="āppa">_āppa_ "behind, backwards; back, again, further" (adv)</a>
-Derivatives: _āppan_ "behind; after(wards)" (adv), _āppanta_ "backwards" (adv), _āppananta_ "backwards" (adv), _appezzi(ya)-_ "backmost, hindmost, rear" (adj), _āppa-_ ~ _āppi-_ "to be finished, to be done" (v), _appasiwatt-_ [c.] "future" (n) \
-CLuw. _āppa_ "back, again" (prev), _āppan_ "behind, after" (adv), \*_āppanda_ "behind" (adv), _āpparant(i)-_ "future" (adj) \
-HLuw. _ápan_ "after, behind, again" (adv), \*_ápani_ "after, in the future" (adv), \*_ápara/i-_ "after-; later, younger" (adj), _ápi_ "back, again" (adv) \
-Lyc. _epñ_ "afterwards" (adv), _epñte_ "thereafter" (adv), _epre/i-_ "back-, rear-" (adj) \
+Derivatives: _āppan_ "behind; after(wards)" (adv); _āppanta_ "backwards" (adv); _āppananta_ "backwards" (adv); _appezzi(ya)-_ "backmost, hindmost, rear" (adj); _āppa-_ ~ _āppi-_ "to be finished, to be done" (v); _appasiwatt-_ [c.] "future" (n) \
+CLuw. _āppa_ "back, again" (prev); _āppan_ "behind, after" (adv); \*_āppanda_ "behind" (adv); _āpparant(i)-_ "future" (adj) \
+HLuw. _ápan_ "after, behind, again" (adv); \*_ápani_ "after, in the future" (adv); \*_ápara/i-_ "after-; later, younger" (adj); _ápi_ "back, again" (adv) \
+Lyc. _epñ_ "afterwards" (adv); _epñte_ "thereafter" (adv); _epre/i-_ "back-, rear-" (adj) \
 PAnat. \*ʔópi, \*ʔóp- \
-PIE [\*h₁épi, \*h₁ópi "at the back"](../PIE/pie.md#h₁epi) \
+PIE [\*h₁épi, \*h₁ópi "at the back"](../PIE/pie.md#h₁epi-2) \
 _āppa_ and _āppan_ are directional and locatival respectively, part of Hittite's synchronic system pairing such adverbs (e.g. [_anta_ "into"](#anta) ~ _antan_ "inside"). Note, however, that like _anta_, _āppa_ also displays locatival semantics. Against Kloekhorst (2008), local adverbs very much could be stressed, so there is no reason to assume that the plene spelling in _āppa_ and its derivatives reflects anything other than a long vowel resulting from the accent, thus /ˈaːppa/, and likewise the non-plene words reflect a short unaccented vowel (or the non-writing of plene). One important question that needs answering regardless is the status of the Luwian forms, a question I do not currently have an answer for. \
 Regarding etymology, I consider it more plausible on semantic grounds that _āppa_ belongs with Greek ἔπι "upon", Sanskrit _ápi_ "also", Latin _ob_ "towards", all deriving from the locative of a noun \*h₁op- "back" ("at the back" \> "behind", "on the back" \> "upon" \> "also", etc). PIE *h₂(e)pó denoted "away from" rather than "behind, backwards". \
 References: [EDHIL]\: 192 "_āppa_"
@@ -338,8 +338,8 @@ Against Kloekhorst (2008), Hittite _ārri_ rather than _ārrai_ does not give an
 References: [EDHIL]\:  197 "_ārr-<sup>i</sup>_ / _arr-_"
 
 ### <a id="āra">_āra_ "right, proper(ly)" (adv)</a>
-Derivatives: _arā-_ [c.] "friend" (n), _arāwa-_ "free (from)" (adj), _arawahh-_ [i] "to make free, release" (v), _arawēss-_ [zi] "to become free" (v), _arawan(n)i-_ "free (not being a slave)" (adj) \
-Lyc. _ara-_ "rite" (n), _arawa-_ "freedom" (n), _erawazije-_, _arawazije-_ "monument" (n) \
+Derivatives: _arā-_ [c.] "friend" (n); _arāwa-_ "free (from)" (adj); _arawahh-_ [i] "to make free, release" (v); _arawēss-_ [zi] "to become free" (v); _arawan(n)i-_ "free (not being a slave)" (adj) \
+Lyc. _ara-_ "rite" (n); _arawa-_ "freedom" (n); _erawazije-_, _arawazije-_ "monument" (n) \
 PAnat. \*ʔóro- "proper", \*ʔorā́wo- "free" \
 Lycian _ara-_ comes from PAnat. \*ʔorā́ "what is proper", which serves as the base for \*ʔorā́wo- "free" ("being in the proper social position"). The \*o is assured by _erawazije-_, which must be the unassimilated form. If \*h₂ \> \*ʔ before \*o is accepted, then \*ʔóro- can be derived from the root \*h₂er- "to join", but Bengtson (2016) suggests instead a root \*h₁er- "member of one's own clan".
 References: [EDHIL]\: 198 "_āra_", [Bengtson (2016)]
@@ -353,7 +353,7 @@ Denominal to an unattested noun \*_ara-_, possibly "standing position". Kloekhor
 References: [EDHIL]\: 199 "_arae-_"
 
 ### <a id="arai">_arai-_ ~ _ari-_ [i] "to (a)rise, to lift; to raise" (v)</a>
-CLuw. _ari(ya)-_ "to raise" (v), _ariyal-_ [n.] "carrying basket" (n) \
+CLuw. _ari(ya)-_ "to raise" (v); _ariyal-_ [n.] "carrying basket" (n) \
 Lyc. _erije-_ "to raise, levy" (v) \
 PAnat. \*ʔori-
 PIE [\*h₃ér-y-ey "rises"](../PIE/pie.md#h₃eri)
@@ -398,18 +398,18 @@ Although it is possible that the _hatrae-_ inflection of this verb is secondary 
 References: [EDHIL]\: 205 "_arkuu̯ae-<sup>zi</sup>_"
 
 ### <a id="arma">\*_arma-_ [c.] "moon, Moon-god; month" (n)</a>
-Derivatives: \*_armatar_ [n.] "monthspan(?)", _armanni-_ [c.] "lunula, crescent; "croissant" bread" (n), _arma(n)tal(l)anni-_ [c.] "type of bread" (n), _armuwalae-_ [zi] "to shine (of the moon)" (v), _armuwalasha(i)-_ [c.] "waxing of the moon" (n) \
-CLuw. \*_arma-_ [c.] "Moon-god" (n), _armannaima/i-_ "decorated with lunulae" (adj), \*_armassa/i-_ [c.] "month" (n) \
+Derivatives: \*_armatar_ [n.] "monthspan(?)", _armanni-_ [c.] "lunula, crescent; "croissant" bread" (n); _arma(n)tal(l)anni-_ [c.] "type of bread" (n); _armuwalae-_ [zi] "to shine (of the moon)" (v); _armuwalasha(i)-_ [c.] "waxing of the moon" (n) \
+CLuw. \*_arma-_ [c.] "Moon-god" (n); _armannaima/i-_ "decorated with lunulae" (adj); \*_armassa/i-_ [c.] "month" (n) \
 HLuw. \*_arma-_ [c.] "moon, Moon-god" (n) \
 Lyd. _armτa-_ "belonging to Arma(?)" (adj) \
-Lyc. _arm̃ma-_ "moon" (n), _rm̃mazata-_ "monthly offering(?)", _Erm̃menẽni_ "brother of the moon" (pn) \
+Lyc. _arm̃ma-_ "moon" (n); _rm̃mazata-_ "monthly offering(?)", _Erm̃menẽni_ "brother of the moon" (pn) \
 PAnat. \*ʔ(o)rmā "moon" \
 PIE \*h₁(o)r-meh₂ "measurer" (?) \
 There may or may not be a connection with [_armae-_ "to be pregnant"](#armae) and [_erman_ "sickness"](#erman). Regarding a PIE etymology, a connection with Tocharian B _yarm_ "measure" is possible, while derivation from the root \*h₁er- is less attractive than it first seems, since the semantics of the root are "to reach, attain", rather than "to move". \
 References: [EDHIL]\: 206 "_arma-_"
 
 ### <a id="armae">_armae-_ [zi] "to be pregnant" (v)</a>
-Derivatives: _armawant-_ "pregnant" (adj), _armahh-_ [i] "to make pregnant; (refl.) to become pregnant" \
+Derivatives: _armawant-_ "pregnant" (adj); _armahh-_ [i] "to make pregnant; (refl.) to become pregnant" \
 This group of words is based on an _a_-stem \*_arma-_, probably "pregnancy" or something similar. A relation with [_arma-_ "moon"](#arma) is certainly possible, though the two are probably not to be equated directly. A further connection with [_erman_ "sickness"](#erman) is uncertain. \
 References: [EDHIL]\: 207 "_armae-<sup>zi</sup>_"
 
@@ -420,7 +420,7 @@ Formally, this could be the causative of both [_artari_ "stands (by)"](#ar) or [
 References: [EDHIL]\: 208
 
 ### <a id="ars">_ars-_ [zi] "to flow" (v)</a>
-Derivatives: _arsanu-_ [zi] "to let flow" (v), _ārsanu-_ [n.] "flow, course" (n), _arsa(r)sur-_ [n.] "flowing, stream" (n) \
+Derivatives: _arsanu-_ [zi] "to let flow" (v); _ārsanu-_ [n.] "flow, course" (n); _arsa(r)sur-_ [n.] "flowing, stream" (n) \
 CLuw. _ārsiya-_ "to flow" (v) \
 PAnat. \*ʔérs- ~ \*ʔr̩s- "to flow" \
 PIE [\*h₁érs-ti "flows"](../PIE/pie.md#h₁ers) \
@@ -438,7 +438,7 @@ No etymology. \
 References: [EDHIL]\: 211 "_ardu-_"
 
 ### <a id="aru-1">_aru-_ ~ _araw-_ "high(?)" (adj)</a>
-Derivatives: _aru(-)suwaru-_ "high-and-full(?)" (adj), _aruma_ "highly, very much" (adv) \
+Derivatives: _aru(-)suwaru-_ "high-and-full(?)" (adj); _aruma_ "highly, very much" (adv) \
 Apparently the interpretations of these forms is not entirely secure. If the meanings listed here are correct, the word probably continues the root \*h₃er- "to rise" in \*h₃r-u- "high". \
 References: [EDHIL]\: 212 "_aru-_ / _arau̯-_"
 
@@ -470,7 +470,7 @@ No etymology. \
 References: [EDHIL]\: 214 "_āšš-_"
 
 ### <a id="āss-2">_āss-_ [ari], _āssiye/a-_ [ttari] "to be loved, be good" (v)</a>
-Derivatives: _āssiyanu-_ [zi] "to make beloved" (v), _āssiyatar_ ~ _āssiyann-_ [n.] "love" (n), _āssiyawant-_ [c.] "lover" \
+Derivatives: _āssiyanu-_ [zi] "to make beloved" (v); _āssiyatar_ ~ _āssiyann-_ [n.] "love" (n); _āssiyawant-_ [c.] "lover" \
 HLuw. _áza-_ "to love" (v) \
 Kloekhorst derives this verb from [_āssu-_ "good"](#āssu), but I think it's more likely they're independent formations from the same root. Hieroglyphic Luwian _áza-_ is a \*-sḱé- verb, with \*sḱ > \*sts > _z_ /ts/. See further s.v. _āssu-_. \
 References: [EDHIL]\: 215 "_āšš-<sup>ari</sup>_ / _āssii̯e/a-<sup>ttari</sup>_"
@@ -489,7 +489,7 @@ Following Kloekhorst (2008), this must be the causative of a verb whose weak ste
 References: [EDHIL]\: 216 "_as(sa)nu-_"
 
 ### <a id="asās">_asās-_ ~ _ases-_ [i] "to seat, make sit; to settle; to install" (v)</a>
-Derivatives: _asessar_ ~ _asesn-_ [n.] "settlement, assembly" (n), _ase/isanu-_ "to seat; to settle" (v) \
+Derivatives: _asessar_ ~ _asesn-_ [n.] "settlement, assembly" (n); _ase/isanu-_ "to seat; to settle" (v) \
 PIE \*h₁e-h₁ós-ey ~ \*h₁e-h₁s-énti (but see below) \
 Kloekhorst (2008) claims that this verb is spelled with both _e_ and _i_ in the weak stem but this is very misrepresentative of the facts. In the main verb, _i_ only appears in 2 spellings of the 3pl active present as _a-ši-ša-an-zi_, as well as one spelling of the 2sg middle imperative as _a-še-iš-ḫu-ut_. _asessar_ shows no spellings with _i_, while _ase/isanu-_ has several spellings with _a-ši-ša-_ alongside _a-še-ša-_. Of note is that there are several spellings of the main verb with plene _e_, but never _i_. It is also remarkable that there is a spelling _e-se-ser_, with the reduplicant vowel adjusted to _e_. In summary, the weak stem must be interpreted as /ases-/. The _i_-vocalism in the causative must be secondary somehow.
 _asās-_ is a reduplicated verb with causative force related to [_esari_ "sits (down)"](#es-2), showing the synchronic _VC-_ reduplicant to vowel-initial roots. The _a_-vocalism of the reduplicant can be regarded as a copy-vowel to the strong stem. The fact that it shows the productive reduplication type indicates that it was created or remodelled after the loss of \*h₁, but its unique ablaut indicates it continues an older type \*h₁e-h₁ós-ey ~ \*h₁e-h₁s-énti. \
@@ -505,9 +505,9 @@ PIE [\*h₁e- "that; _3rd person_"](../PIE/pie.md#h₁e) \
 This pronoun derives from \*h₁ós, \*h₁óm, \*h₁í, with _-i_ added after the developments of PAnat \*-óm \> Hittite _-ūn_ /-ón/ and generally \*-m > _-n_. The _-ni_ of the neuter is probably copied from the common accusative. The oblique forms are all made to a stem _e-_ that continues PIE \*h₁é-. \
 References: [EDHIL]\: 220 "_aši_ / _uni_ / _ini_"
 
-### <a id="asiwant">_asiwant-_ "poor" (adj), [c.] "poor man" (n)</a>
-Derivatives: _asiwantatar_ [n.] "poverty" (n), _asiwantēss-_ [zi] "to become poor" (v) \
-CLuw. _āssiwant(i)-_ "poor" (adj), _āssiwantattar_ ~ _āssiwantattn-_ [n.] "poverty" (n) \
+### <a id="asiwant">_asiwant-_ "poor" (adj); [c.] "poor man" (n)</a>
+Derivatives: _asiwantatar_ [n.] "poverty" (n); _asiwantēss-_ [zi] "to become poor" (v) \
+CLuw. _āssiwant(i)-_ "poor" (adj); _āssiwantattar_ ~ _āssiwantattn-_ [n.] "poverty" (n) \
 No etymology. \
 References: [EDHIL]\: 221 "_ašiu̯ant-_"
 
@@ -524,7 +524,7 @@ No etymology. \
 References: [EDHIL]\: 222 "_=(a)šta_"
 
 ### <a id="āssu">_āssu-_ ~ _āssau-_ "good; dear; favourable" (adj)</a>
-Derivatives: _āssu-_ [n.] "good(ness), good things; goods, possessions" (n), _āssuwant-_ "good, favourable" (adj), _āssuwatar_ ~ _āssuwann-_ [n.] "favourableness, friendly fashion" (n), _assul_ [n.], _assula-_ [c.] "favour; greeting; well-being" (n), _āssulatar_ ~ _āssulann-_ [n.] "well-being" (n), see also [_āssari_ "to be loved"](#āss) \
+Derivatives: _āssu-_ [n.] "good(ness), good things; goods, possessions" (n); _āssuwant-_ "good, favourable" (adj); _āssuwatar_ ~ _āssuwann-_ [n.] "favourableness, friendly fashion" (n); _assul_ [n.], _assula-_ [c.] "favour; greeting; well-being" (n); _āssulatar_ ~ _āssulann-_ [n.] "well-being" (n); see also [_āssari_ "to be loved"](#āss) \
 PIE \*h₁oh₁s-u-? \
 References: [EDHIL]\: 223 "_āššu-_ / _āššau-_"
 
@@ -538,8 +538,8 @@ References: [EDHIL]\: 225 "_āššuzēri-_"
 
 ### <a id="atta">_atta-_ [c.] "father" (n)</a>
 Derivatives: _attalla-_ "fatherly" (adj) \
-CLuw. _tāta/i-_ [c.] "father" (n), _tāti(ya)-_ "paternal" (adj), _tatalla/i-_ "paternal" (adj) \
-HLuw. _tata/i-_ [c.] "father" (n), _tatiya-_ "paternal" (adj), _tatala/i-_ "fatherly" (adj) \
+CLuw. _tāta/i-_ [c.] "father" (n); _tāti(ya)-_ "paternal" (adj); _tatalla/i-_ "paternal" (adj) \
+HLuw. _tata/i-_ [c.] "father" (n); _tatiya-_ "paternal" (adj); _tatala/i-_ "fatherly" (adj) \
 Lyd. _taada-_ [c.] "father" (n) \
 Lyc. _tede/i-_ [c.] "father(?)" (n) \
 Hittite _atta-_ can be compared with Core IE \*atta, a common IE nursery word, while non-Hittite \*tódo- is a common Anatolian nursery word. I wonder if the Hittite word could somehow reflect the Anatolian \*tódo- too. \
@@ -554,7 +554,7 @@ Against Kloekhorst (2008), I assume the first vowel of this suffix goes back to 
 References: [EDHIL]\: 226 "_-ātar_ / _-ānn-_"
 
 ### <a id="au">_au-_ ~ _u-_ [i] "to see, look" (v)</a>
-Derivatives: _uwatalla-_ [c.] "seer" (n), _uskiskat(t)alla-_ [c.] "guard, watchman" (n), _uskiske/at(t)allatar_ [n.] "guard duty" (n) \
+Derivatives: _uwatalla-_ [c.] "seer" (n); _uskiskat(t)alla-_ [c.] "guard, watchman" (n); _uskiske/at(t)allatar_ [n.] "guard duty" (n) \
 CLuw. _awa_ "look here" (interj) \
 PAnat. \*ʔów- \
 The obvious connection is with Sanskrit _āvíṣ_, Avestan _āuuiš_ "evidently, before the eyes", and further Greek ἀΐω "to perceive", αἰσθάνομαι "to perceive", Latin _audio_ "to hear", which together point to \*h₂ewis "evidently", but this is only possible if loss of \*h₂ before \*o is accepted. Unfortunately, I have no better etymology. \
@@ -565,7 +565,7 @@ Kloekhorst (2008) upholds an old comparison with Greek αὐλος "reed, flute"
 References: [EDHIL]\: 229 "_auli-_"
 
 ### <a id="auri">_auri-_ [n. > c.] "lookout, watchtower, guardpost, border post" (n)</a>
-Derivatives: _auriyala-_ [c.] "guard" (n), _auriyatalla-_ [c.] "guard" (n) \
+Derivatives: _auriyala-_ [c.] "guard" (n); _auriyatalla-_ [c.] "guard" (n) \
 Clearly derived from [_auszi_ "sees"](#au). \
 References: [EDHIL]\: 230 "_auri-_"
 
