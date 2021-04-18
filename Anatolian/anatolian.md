@@ -1,7 +1,7 @@
 # Hittite
 
 ## Note on Transcription
-Several liberties have been taken with the spelling of Hittite forms in bound transcription. Firstly, the letters _š_ and _ḫ_ have been replaced with _s_ and _h_. Secondly, the distinction between _p_, _t_, and _k_, on the one hand, and _b_, _d_, and _g_, on the other, has been collapsed in favour of the voiceless stops, as I know of no functional contrast that employs these spellings.
+Several liberties have been taken with the spelling of Hittite, Palaic, and Cuneiform Luwian forms in bound transcription. Firstly, the letters _š_ and _ḫ_ have been replaced with _s_ and _h_. Secondly, the distinction between _p_, _t_, and _k_, on the one hand, and _b_, _d_, and _g_, on the other, has been collapsed in favour of the voiceless stops, as I know of no functional contrast that employs these spellings.
 
 ## Word classes
 Verbs have been annotated with the form of the 3sg present corresponding to their inflection class: [zi] (_mi_-conjugation), [i] (_hi_-conjugation), [ari] (dentalless middle), and [ttari] (dental middle). Nouns are annotated with their gender: [c.] (common gender) and [n.] (neuter gender).
@@ -212,7 +212,7 @@ References: [EDHIL]\: 183 "_-ant-_"
 
 ### <a id="anta">_anta_ "in(to), inwards; (with)in; in addition" (adv)</a>
 Derivatives: _antan_ "(with)in, inside; in(to)" (adv) \
-CLuw. _ānta_ "in(to)" (prev); _andan_ "inside"? (adv) \
+CLuw. _ānta_ "in(to)" (prev); _antan_ "inside"? (adv) \
 HLuw. _anta_ "(with)in, in(to)" (adv); _antan_ "into", _antatila/i-_ "internal" (adj) \
 Lyd. _ẽt-_ (prev) \
 Lyc. _ñte_ "inside" (adv) \
@@ -238,7 +238,7 @@ PIE \*-énto(r), \*-n̩to(r) \
 References: [EDHIL]\: 186 "_-anta(ri)_, _-antat(i)_"
 
 ### <a id="antaru">_-antaru_ "_3pl middle imperative_" (suff)</a>
-CLuw. _-andaru_ "_3pl middle imperative_" (suff) \
+CLuw. _-antaru_ "_3pl middle imperative_" (suff) \
 See futher [_-anta(ri)_](#antari) and [_-u_](#u). \
 References: [EDHIL]\: 187 "_-antaru_"
 
@@ -248,8 +248,8 @@ Possibly a compound of [_anta_ "inside"](#anta) and [_iyant-_ "gone"](#i). Uncer
 References: [EDHIL]\: 187 "_antii̯ant-_"
 
 ### <a id="antu">_-antu_ "_3pl active imperative_" (suff)</a>
-Pal. _-andu_, _-endu_ \
-CLuw. _-andu_ \
+Pal. _-antu_, _-entu_ \
+CLuw. _-antu_ \
 HLuw. _-antu_ \
 Lyc. _-Ṽtu_ \
 PAnat. \*-Vntu \
@@ -303,7 +303,7 @@ References: [EDHIL]\: 191 "_apā-_ / _apū-_"
 
 ### <a id="āppa">_āppa_ "behind, backwards; back, again, further" (adv)</a>
 Derivatives: _āppan_ "behind; after(wards)" (adv); _āppanta_ "backwards" (adv); _āppananta_ "backwards" (adv); _appezzi(ya)-_ "backmost, hindmost, rear" (adj); _āppa-_ ~ _āppi-_ "to be finished, to be done" (v); _appasiwatt-_ [c.] "future" (n) \
-CLuw. _āppa_ "back, again" (prev); _āppan_ "behind, after" (adv); \*_āppanda_ "behind" (adv); _āpparant(i)-_ "future" (adj) \
+CLuw. _āppa_ "back, again" (prev); _āppan_ "behind, after" (adv); \*_āppanta_ "behind" (adv); _āpparant(i)-_ "future" (adj) \
 HLuw. _ápan_ "after, behind, again" (adv); \*_ápani_ "after, in the future" (adv); \*_ápara/i-_ "after-; later, younger" (adj); _ápi_ "back, again" (adv) \
 Lyc. _epñ_ "afterwards" (adv); _epñte_ "thereafter" (adv); _epre/i-_ "back-, rear-" (adj) \
 PAnat. \*ʔópi, \*ʔóp- \
@@ -476,7 +476,7 @@ Kloekhorst derives this verb from [_āssu-_ "good"](#āssu), but I think it's mo
 References: [EDHIL]\: 215 "_āšš-<sup>ari</sup>_ / _āssii̯e/a-<sup>ttari</sup>_"
 
 ### <a id="assa">_-assa-_ "_genitival adjective_" (suff)</a>
-CLuw. _-ašša/i-_ "_genitival adjective_" (suff) \
+CLuw. _-assa/i-_ "_genitival adjective_" (suff) \
 HLuw. _-asa/i-_ "_genitival adjective_" (suff) \
 Lyc. _-ahe/i-_ "_genitival adjective_" (suff) \
 PAnat. \*-osso-
