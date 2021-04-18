@@ -20,7 +20,48 @@ Hittite [_asi_ ~ _uni_ ~ _ini_ "that (one)"](../Anatolian/anatolian.md#asi) \
 Latin _is_ ~ _id_ ~ _ea_ \
 Sanskrit _ayám_ ~ _idám_ ~ _iyám_
 
-### <a id="h₁epi">\*h₁épi, \*h₁ópi "at/on the back" (adv)</a>
+### <a id="h₁ed">\*h₁éd- ~ \*h₁d- [ti] "to eat" (v)</a>
+Greek ἔδμεναι "to eat" \
+Hittite [_ezzazzi_ "eats"](../Anatolian/anatolian/md#et) \
+Latin _edo_ "to eat" \
+Lithuanian _ė́sti_ "eats" \
+OCS _jasti_ "eats" \
+Proto-Germanic \*etaną "to eat"
+
+### <a id="h₁eh₁gʷʰ">\*h₁é(h₁)gʷʰ- [ti?] "to drink" (v)</a>
+Hittite [_ekuzzi_ "drinks"](../Anatolian/anatolian.md#eku) \
+Tocharian A/B _yok-_ "to drink"
+
+### <a id="h₁eh₁s">\*h₁é-h₁s- [or] "to sit down, be seated" (v)</a>
+Greek ἤσται "sits" \
+Hittite [_esari_ "sits down"](../Anatolian/anatolian.md#es-3) \
+Sanskrit _ā́ste_ "sits" \
+Reduplicated middle to [\*h₁és-ti "is"](#h₁es)
+
+### <a id="h₁eḱu">\*h₁éḱu- ~ \*h₁ḱu- [m.] "horse" (n)</a>
+Armenian _ēš_ \
+Avestan _aspa-_ \
+Greek ἰππος \
+Hittite [\*_ekku-_](../Anatolian/anatolian.md#ekku) \
+Latin _equus_ \
+Lithuanian _ašvà_ \
+Old English _eoh_ \
+Old Irish _ech_ \
+Sanskrit _aśva-_ \
+Tocharian A _yuk_, B _yakwe_ \
+Although all languages outside Anatolian reflect a thematic noun, the consistent _u_-stem in Anatolian must be older. A _u_-stem would also help explain Greek ἰππος, as the expected zero-grade \*h₁ḱw- may undergo epenthesis of \*i instead of vocalising the laryngeal, with subsequent \*h₁i > /hi/ (similar to \*h₁y- > /h/).
+
+### <a id="h₁ep">\*h₁ép- ~ \*h₁p- [t] "to take, acquire" (v)</a>
+Hittite [_epzi_ "takes"](../Anatolian/anatolian.md#epp) \
+Derivatives: [\*h₁(e)p-i- "takes"](#h₁epi-1) \
+Most forms from this root reflect a perfect, but Hittite evidently reflects a root \*mi-verb. I have assumed an aorist here because of the i-present \*h₁(e)p-i-, but further uncertain.
+
+### <a id="h₁epi-1">\*h₁(e)p-i- [ey?] "to take, acquire" (v)</a>
+Latin _apiō_ "to tie, fasten"; _apīscor_ "to reach, receive" \
+Hittite _pāi_ "to give" (?) \
+A possible i-present to [\*h₁épt "has taken"](#h₁ep).
+
+### <a id="h₁epi-2">\*h₁épi, \*h₁ópi "at/on the back" (adv)</a>
 Greek ἔπι "upon" \
 Hittite [_āppa_ "backwards"](../Anatolian/anatolian.md#āppa) \
 Latin _ob_ "towards" \
@@ -37,6 +78,14 @@ Sanskrit _árcati_ "sings"
 ### <a id="h₁ers">\*h₁érs- ~ \*h₁r̩s- [ti] "to flow" (v)</a>
 Hittite [_arszi_ "flows"](../Anatolian/anatolian.md#ars) \
 Sanskrit _arṣ-_ "to stream, flow"
+
+### <a id="h₁es">\*h₁és- ~ \*h₁s- [ti] "to be" (v)</a>
+Greek ἐστί "is" \
+Hittite [_eszi_ "is"](../Anatolian/anatolian.md#es-2) \
+Latin _est_ "is" \
+Proto-Germanic \*isti "is" \
+Sanskrit _ásti_ "is" \
+Derivatives: [\*h₁éh₁sor "sits down"](#h₁eh₁s)
 
 ### <a id="h₁ndo">\*h₁n̩do, \*h₁n̩dom/n "into, inside" (adv)</a>
 Greek ἔνδον "inside, at home"
@@ -88,6 +137,13 @@ Hittite [_arskezzi_ "is coming to"](../Anatolian/anatolian.md#ār) \
 Sanskrit _ṛccháti_ "goes to, attains" \
 The \*sḱe-imperfective to [\*h₁ór-s "has reached"](#h₁or).
 
+## <a id="§H₂">H₂</a>
+
+### <a id="h₂eḱri">\*h₂éḱ-r-i- [f.] "point, spike" (n)</a>
+Greek ἄκρις "hilltop, mountain peak" \
+Sanskrit _áśri-_ "corner, sharp side" \
+Derived from \*h₂eḱ- "be sharp".
+
 ## <a id="§H₃">H₃</a>
 
 ### <a id="h₃eri">\*h₃ér-i- ~ \*h₃r-i- [ey] "to rise, move" (v)</a>
@@ -115,3 +171,14 @@ Slavic \*modrъ
 
 ### <a id="noḱ">\*nóḱ- ~ \*n̩ḱ- [ey] "to die" (v)</a>
 Hittite [_āki_](../Anatolian/anatolian.md#āk) "to die, to be killed; to be eclipsed"
+
+## <a id="§Y">Y</a>
+
+### <a id="yego">\*yég-o- [n.] "ice" (n)</a>
+Hittite [_ekan_ "cold, frost, ice"](../Anatolian/anatolian.md#eka)
+
+### <a id="yewon">\*yéwo(n)- [?] "grain" (n)</a>
+Greek ζειαί "spelt" \
+Hittite [_ewan-_ "a kind of grain"](../Anatolian/anatolian.md#ewan) \
+Lithuanian _jãvas_ "grain plant" \
+Sanskrit _yáva-_ "grain, corn, crop, barley"

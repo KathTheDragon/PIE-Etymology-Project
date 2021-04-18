@@ -581,14 +581,169 @@ PAnat. \*-(o)ti \
 The Luwo-Lycian languages show a suffix \*-odi, with lenition, while Hittite appears to reflect \*-ti (_nēpisza_ "from heaven"), \*-oti (_hāpparaz_ "from the city"), and \*-óti (_issāz_ "from the mouth"). Unaccented \*-oti would be expected to undergo lenition, but the unlenited variant can easily be levelled in from the other variants. I assume against Kloekhorst (2008) that the original distribution is \*-oti in root-stressed nouns, and \*-óti in ending-stressed nouns, with \*-ti limited to certain nouns (only in Old Hittite), and pronouns. The ending is undoubtedly an adverbial form secondarily integrated into the case system (note that it doesn't differentiate number), and there are numerous forms showing \*-ti in other IE languages with which it could be compared. \
 References: [EDHIL]\: 231 "_-(ā)z_"
 
+## <a id="§E">E</a>
+
+### <a id="ehu">_ehu_ "come!" (v)</a>
+Synchronically the 2sg active imperative of [_wezzi_ "comes"](#we). This verb is considered to be a compound of the prefix [_u-_ "here"](#u-1) (found alongside [_pe-_ "there"](#pe)) with the verb [_i-_ "to go"](#i-1), so it is natural to assume _ehu_ to consist of the same elements. The _h_ is a problem, however. Kloekhorst (2008) solves it by assuming the prefix _u-_ to come from \*h₂ou "away" with loss of \*h₂ word-initially only before \*o. Problematic for this account is that the prefix _u-_ is phonologically /u-/, while \*h₂ou could only yield /o-/. Kümmel (2014), on the other hand, supposes that _h_ here is epenthetic, triggered by the environment ē_u. \
+References: [EDHIL]\: 233 "_eḫu_", [Kümmel (2014)]
+
+### <a id="eyan">_eyan-_ [n.] "an evergreen tree" (n)</a>
+No certain etymology. \
+References: [EDHIL]\: 234 "_ei̯an-_"
+
+### <a id="eka">_eka-_ [n. > c.] "cold, frost, ice" (n)</a>
+Derivatives: _egae-_, _igae-_ [zi] "to cool down" (v); _ekuna-_, _ikuna-_ "cold" (adj); _ekunima-_ [c.] "coldness" (n); _ikunēss-_ [zi] "to become cold" (v); _ikunahh-_ [i] "to make cold" (v); see [_ikiyant-_](#ikniyant) \
+PIE [\*yeg-o- "ice"](../PIE/pie.md#yego) \
+References: [EDHIL]\: 235 "_eka-_"
+
+### <a id="ekt">_ekt-_ [c.] "(hunting) net(?)" (n)</a>
+CLuw. _akkati-_ [c.] "hunting net" (n) \
+Kloekhorst (2008) reconstructs a t-stem \*yék-t-, following a connection with OHG _jagōd_ "hunt", itself related to the verb _jagōn_ "to hunt". According to Kroonen (2013), however, the meaning "to hunt" in the verb developed out of an older "to rush", and the form represented by _jagōd_ is actually a u-stem secondarily derived from the verb. No etymology. \
+References: [EDHIL]\: 235 "_ekt-_", [EDPG]\: 271 "_\*jakk/gōn-_"
+
+### <a id="eku">_eku-_ ~ _aku-_ [zi] "to drink, to drink to (+dat.), to toast (+acc.)" (v)</a>
+Derivatives: _akuttara-_ [c.] "drinker, toaster" (n); see [_akutalla-_ "container of water"](#akutalla) \
+Pal. _ahu-_ "to drink" (v) \
+CLuw. _u-_ "to drink(?)" (v) \
+HLuw. **BIBERE** "to drink" (v) \
+PAnat. \*ʔégʷ-(?) \
+PIE [\*h₁é(h₁)gʷʰ-ti "drinks"](../PIE/pie.md#h₁eh₁gʷʰ) \
+Both Latin and Tocharian point to a long vowel \*ē or \*eh₁ in the verb system, while Hittite appears to reflect a root present or aorist, but it is thinkable that an originally unablauting present \*ʔḗgʷ- \> \*_eku-_ would have an analogical weak stem _aku-_ created very early, to fit with the general pattern for _mi_-verbs. As the Palaic verb is only attested in the weak stem, a similar scenario could work there, assuming the strong stem would be _eḫu-_. It could also be imagined that an old reduplicated stem \*h₁éh₁(e)gʷʰ- would yield PAnat. \*ʔǣgʷ- \> Pre-Luw. \*ʔew- \> CLuw. _ū-_, or possibly even PAnat. \*ʔéʔew- or \*ʔéʔu- \> CLuw. _ū-_. As yet another alternative, a "Narten" present \*h₁ḗgʷʰ- \> PAnat. \*ʔḗgʷ- \> Pre-Luw. \*iw- might also monophthongise to _ū-_. Without a better understanding of the evolution of Luwian, these scenarios are hard to rule out. \
+References: [EDHIL]\: 236 "_eku-<sup>zi</sup>_ / _aku-_"
+
+### <a id="ekku">\*_ekku-_ [c.] "horse" (n)</a>
+CLuw. \*_azzu-_ [c.] "horse" (n) \
+HLuw. _ázu-_ [c.] "horse" (n); _ázusatala-_ "to ride on horse" (v) \
+Lyc. _esb-_ "horse" (n) \
+PAnat \*ʔéḱu- \
+PIE [\*h₁éḱu- "horse"](../PIE/pie.md#h₁eḱu) \
+Note that the correct reading of the Hieroglyphic Luwian form is _á-zú-_, not _á-sù-_. The consistent _u_-stem in Anatolian cannot be explained as secondary from a thematic \*h₁éḱwo-, so the PIE form must have originally been a _u_-stem as well. \
+References: [EDHIL]\: 237 "\*_ekku-_"
+
+### <a id="ēl">_-ēl_ "_genitive singular_" (suff)</a>
+The genitive singular ending of pronouns. No etymology. \
+References: [EDHIL]\: 240 "_-ēl_"
+
+### <a id="elzi">_elzi-_ [n.] "(pair of) scales" (n)</a>
+No etymology. \
+References: [EDHIL]\: 240 "_elzi-_"
+
+### <a id="enu">_enu-_ [?] "?" (v)</a>
+The meaning of this verb is unclear, but it cannot be excluded that it means "to heat" and thereby be identical with the causative _inuzzi_ of [_āri_ "to be hot"](#āi). No etymology. \
+References: [EDHIL]\: 240 "_enu-_"
+
+### <a id="enuma">_enuma-_ [?] "to be refreshed(?)" (v)</a>
+No etymology. \
+References: [EDHIL]\: 241 "_enuma-_"
+
+### <a id="epp">_epp-_ ~ _app-_ [zi] "to take, seize, grab, pick, capture" (n)</a>
+Derivatives: _appat(a)riye/a-_ [zi] "to take in pledge; to confiscate" (v) \
+PIE [\*h₁ép-t "has taken"](../PIE/pie.md#h₁ep) \
+Given the lack of other root-verbs to \*h₁ep-, it's hard to know if this continues a root-present or a root-aorist. I have assumed a root-aorist given the semantics, and the apparent presence of an i-present in [_pāi_ "gives"](#pāi). \
+References: [EDHIL]\: 242 "_epp-<sup>zi</sup>_ / _app-_"
+
+### <a id="er">_-er_ "_3pl active preterite_" (suff)</a>
+PIE \*-ér(s) \
+The original 3pl active preterite of the _hi_-conjugation, secondarily taken over into the _mi_-conjugation as well. On comparison with Latin 3pl perfect _-ēre_ \< \*-ēr-i it is assumed to continue \*-ḗr as well, but \*-ér or \*-érs are both possible preforms as well, and see Spence (2018) for an argument that Szemerényi's law only applied in PIE after the separation of Anatolian. \
+References: [EDHIL]\: 244 "_-er_", [Spence (2018)]
+
+### <a id="erh">_erh-_ ~ _arah-_ ~ _arh-_, _erha-_, _arha-_ [c.] "line, boundary" (n)</a>
+Derivatives: _irhatt-_ [c.] "row, series, circuit" (n); _erhae-_, _arhae-_ [zi] "to go down the line, circulate, make the rounds, treat in succession, list, enumerate, conclude" (v); _arha_ "off, away (from), out of, on account of" (adv), (postp); _arhaya(n)_ "(all) around" (adv); _arahza_ "around; on the outside, away, absent, abroad" (adv); _arahzanda_ "(all) around" (adv); _arahza-_ "alien" (adj); _arahziya-_ "alien" (adj); _arahzena-_ "bordering, adjoining, surrounding; outer, external, foreign, alien" (adj) \
+HLuw. _irha-_ [c.] "border" (n) \
+PAnat. \*ʔérḫ- ~ \*ʔráḫ-, \*ʔerḫó- (?) \
+All forms of this word and its derivatives with initial _e_ can also be read with initial _i_, as those forms are always spelt with the IR sign, which is ambiguous between _e_ and _i_ vocalism. _irhatt-_ is a Luwian loanword according to Melchert (2013). The base noun is ambiguous between a consonant-stem and an _a_-stem in all forms other than the ablative _arahza_ (specialised into the adverb _arahza_), which must represent an old consonant stem and continue PAnat. \*ʔráḫti. The Old Script attestations of the derived verb _erhae-_ do guarantee an _a_-stem, however. Might this _a_-stem be an early loan from Luwian, where an a-stem _irha-_ is found? Ultimately, probably a derivative of PIE [\*h₁er- "to reach"](#h₁or). \
+References: [EDHIL]\: 245 "_erḫ-_ / _araḫ-_ / _arḫ-_, _erḫa-_, _arḫa-_", [Melchert (2013)]
+
+### <a id="erman">_erman-_ [n.] "sickness, illness" (n)</a>
+Derivatives: _armaniye/a-_, _ermaniye/a-_ [ttari] "to be(come) ill" (v); _armala-_, _ermala-_ "sick, ill" (adj); _ermalant-_ "sick, ill" (adj); _armaliye/a-_, _ermal(l)iye/a-_ [ttari] "to be(come) ill; to afflict (with illness)" (v) \
+The base noun is only attested with initial _e_, while the derivatives originally show initial _a_, changed to _e_ in New Hittite on the basis of _erman-_. The connection with [_arma-_ "moon"](#arma) and [_armaezzi_ "is pregnant"](#armae) is in my opinion weak. No certain etymology. \
+References: [EDHIL]\: 247 "_erman_ / _armn-_"
+
+### <a id="es-1">_-es_ "_nominative plural_" (suff)</a>
+PIE \*-ey-es \
+The generalised nominative plural of _i_-stems. See Kloekhorst (2008) for details. \
+References: [EDHIL]\: 249 "_-eš_"
+
+### <a id="es-2">_es-_ ~ _as-_ [zi] "to be, _copula_; to be present" (v)</a>
+Derivatives: see [_as(sa)nuzzi_ "takes care of"](#assanu) and [_ēsri-_](#ēsri-1) \
+Pal. _ās-_ ~ _as-_ "to be" (v) \
+CLuw. _ās-_ ~ _as-_ "to be" (v) \
+HLuw. _ás-_ ~ _s-_ "to be" (v) \
+Lyd. _im_ "I am(?)", _el_ "he is(?)" \
+Lyc. _es-_ ~ _ah-_ "to be" (v) \
+PAnat. \*ʔés- ~ \*ʔs- \
+PIE [\*h₁ésti "is" ~ \*h₁sénti "are"](../PIE/pie.md#h₁es) \
+References: [EDHIL]\: 250 "_eš-<sup>zi</sup>_ / _aš-_"
+
+### <a id="es-3">_es-_ ~ _as-_ [ari], [zi] "(mid.) to sit down, seat oneself; (+ _=ssan_) to sit; (act.) to sit, reside; (trans.) to settle" (v)</a>
+Derivatives: _asandul_ [n.] "occupation force, garrison" (v); _asandula/i-_ "occupation force" (adj); _asandulae-_ [zi] "to be on garrison duty" (v); _asandulatar_ ~ _asandulann-_ [n.] "garrisoning" (n) \
+CLuw. _istartalli-_ "throne-like" (adj) \
+HLuw. _ás-_ "to be seated, dwell" (v); _isnu(wa)-_ "to seat, settle" (v); _ása-_ [c.] "seat" (n); _istarta-_ [n.] "throne" (n) \
+PAnat. \*ʔéʔs-o, \*ʔes- \
+PIE [\*h₁é-h₁s-or "sits down, is seated"](../PIE/pie.md#h₁eh₁s) \
+Assuming that Luwian _i_ can reflect pretonic \*e, the Hittite and Luwian verbs can be unified as a verb \*ʔé(ʔ)s-o "sits down, is seated", causative \*ʔes-néw-ti "seats, settles", stem \*ʔes-. The non-Anatolian languages point to a verb with a long vowel \*ē, either original \*ē or \*eh₁; \*ē would yield _i_ in Luwian, however, meaning that the verb must be \*h₁éh₁s-, which can only be reduplicated from a root \*h₁es-, almost certainly identical with \*h₁es- "to be".
+References: [EDHIL]\: 252 "_eš-<sup>a(ri)</sup>_ / _aš-_; _eš-<sup>zi</sup>_ / _aš-_"
+
+### <a id="ēss">_-ēss-_ [zi] "_fientive_" (suff)</a>
+PIE \*-éh₁-s- \
+An s-present derived from the stative suffix, comparable to Latin _-ēscere_. As \*-éh₁-s- would not be expected to yield a geminate _ss_ in Hittite, I assume that the accent in the plural was analogically shifted to the ending (note, for instance, _italawesteni_ "you become evil" with the ending-stressed variant of the 2pl suffix), yielding \*-eh₁s- > \*-iss-. The vowel \*e was then reintroduced from the singular. Kloekhorst's (2008) scenario of \*-éh₁-sh₁- with the imperfective suffix [_-ssa-_](#ssa) is implausible, as this would be expected to inflect according to the _hi_-conjugation. \
+References: [EDHIL]\: 255 "_-ēšš-<sup>zi</sup>_"
+
+### <a id="ēshar">_ēshar_ ~ _ishan-_ [n.] "blood(shed)" (n)</a>
+Derivatives: _ishanuwant-_, _ēshanuwant-_ "bloody" (adj); _ēshaskant-_, _ishaskant-_ "bloodied" (adj); _isharnu-_, _ēsharnu-_ [zi] "to make bloody; to dye blood-red" (v); _ēsharnumae-_, _isharnumae-_ [zi] "to make bloody, smear with blood" (v); _ēsharwahh-_ [i] "to make blood-red" (v); _isharwant-_ "bloody" (adj); _isharwieske/a-_ [zi] "to be blood-red" (v); _isharwīl_, _ēsharwīl_ "blood-red" (adj) or [n.] "blood-red object" (n); _ishanallēss-_ [zi] "to become a blood-shedder(?)" (v); _ishanattalla-_ [c.] "blood-shedder, murderer(?)" (n) \
+CLuw. _āshar_ [n.] "blood" (n); _āsharnu-_ "to bloody" (v); _āsharnummai-_ "covered with blood" (adj); _āshanuwant(i)-_ "bloody" (adj) \
+HLuw. _ásharmisa-_ [n.] "offering(?)" (n); _áshanantisa-_ [n.] "blood-offering" (n) \
+PAnat. \*ʔésḫr̩ ~ \*ʔ(e)sḫán- (?) \
+PIE [\*h₁ésh₂r̩ ~ \*h₁sh₂én- "blood"](#h₁esh₂r) \
+Hittite _ē-_ and Luwian _ā-_ together point to initial PAnat. \*(ʔ)é-. Hittite _i-_ on the other hand indicates either unaccented \*(ʔ)e- or a zero-grade (due to prothesis before \*sḫ-). While Hittite does not synchronically tolerate alternating a vowel with zero, I'm unsure whether prothesis would be sufficient to repair it. If not, the initial \*e would have been levelled from the nominative-accusative. Kloekhorst (2008) takes the consistent spelling of the oblique stem as _°s-ha-n°_, together with a single attestation of plene _a_, as an indication that the medial vowel is real, spelling /-shan-/. \
+References: [EDHIL]\: 256 "_ēšḫar_ / _išḫan-_"
+
+### <a id="ēsri-1">_ēsri-_ [n.] "shape, image, statue" (n)</a>
+Derived from [_eszi_ "is"](#es-2) with the suffix _-ri-_ (compare [_etri-_ "food"](#etri) and [_auri-_ "lookout"](#auri)). The derivation could have happened at any point between Hittite and PIE as the suffix \*-ri- was likely already part of the parent language, cf. [\*h₂éḱri- "point, spike"](../PIE/pie.md#h₂eḱri). \
+References: [EDHIL]\: 260 "_ēšri-_"
+
+### <a id="ēsri-2">_ēsri-_ [n.], [c.] "fleece" (n)</a>
+Equivalence with [_ēsri-_ "shape"](#ēsri-1) is semantically implausible. No etymology. \
+References: [EDHIL]\: 261 "_ēšri-_"
+
+### <a id="et">_et-_ ~ _at-_ [zi] "eat" (v)</a>
+Derivatives: see [_etri-_ "food"](#etri) \
+Pal. _at-_ "to eat" (v) \
+CLuw. _āt-_ ~ _at-_ "to eat" (v) \
+HLuw. _át-_ "to eat" (v); _átaha-_ "_epithet of gods who have to eat something_" (adj) \
+PAnat. \*ʔéd- ~ \*ʔd- \
+PIE [\*h₁éd-ˢti "eats"](../PIE/pie.md#h₁ed) \
+References: [EDHIL]\: 261 "_ed-<sup>zi</sup>_ / _ad-_"
+
+### <a id="etri">_etri-_ [n.] "food" (n)</a>
+Derivatives: _etriye/a-_ [zi] "to feed" (v); _etriyanu-_ [zi] "to feed(?)" \
+HLuw. _ádri(a)- "to feed(?)" (v) \
+Derived from [_ezzazzi_ "eats"](#et) with the suffix _-ri-_ (compare [_ēsri-_ "shape"](#ēsri) and [_auri-_ "lookout"](#auri)). \
+References: [EDHIL]\: 263 "_edri-_"
+
+### <a id="ewan">_ewan-_ [n.] "a kind of grain; soup made of a kind of grain" (n)</a>
+PIE [\*yewo(n)-](../PIE/pie.md#yewon) ? \
+It is impossible to identify which grain this word denoted. The connection with PIE \*yewo- is formally plausible, with _ewan-_ representing a derived n-stem. \
+References: [EDHIL]\: 263 "_eu̯an-_"
+
+### <a id="ezziya">_-(e)zzi(ya)-_ "_adjective suffix_" (suff)</a>
+Lyc. _-zze/i-_ (suff) \
+PAnat. \*-Vtsyo- \
+PIE \*-(e)tyo- \
+References: [EDHIL]\: 264 "_-(e)zzi(i̯a)-_"
+
 
 <!-- References -->
 [EDHIL]: ./references.md#Kloekhorst-2008 "Etymological Dictionary of the Hittite Inherited Lexicon (Kloekhorst 2008)"
 [EDG]: ../Greek/references.md#Beeks-2010 "Etymological Dictionary of Greek (Beekes 2010)"
+[EDPG]: ../Germanic/germanic.md#Kroonen-2013 "Etymological Dictionary of Proto-Germanic (Kroonen 2013)"
 [Bengtson (2016)]: ./references.md#Bengtson-2016 "Iarl and Iormun-; Arya-and Aryaman-: A Study in Indo-European Comparative Mythology"
+[Kümmel (2014)]: ./references.md#Kümmel-2014 "The conditioning for secondary h in Hittite"
 [Melchert (2009)]: ./references.md#Melchert-2009 "Local Adverbs in Hittite: Synchrony and Diachrony"
 [Melchert (2010)]: ./references.md#Melchert-2010 "The Word for ‘mouth’ in Hittite and Proto-Indo-European"
 [Melchert (2012)]: ./references.md#Melchert-2012 "Hittite ḫi-Verbs of the Type -āC₁i, -aC₁C₁anzi"
+[Melchert (2013)]: ./references.md#Melchert-2013 "Hittite and Hieroglyphic Luvian arha ‘away’: Common Inheritance or Borrowing?"
 [Melchert (2017)]: ./references.md#Melchert-2017 "An allative case in Proto-Indo-European?"
 [Jasanoff (2009)]: ./references.md#Jasanoff-2009 "*-bhi, *-bhis, *-ōis: following the trail of the PIE instrumental plural"
+[Spence (2018)]: ./references.md#Spence-2018 "PIE Amphikinetic Accent-Ablaut and Hittite"
 [Spence (2021)]: ./references.md#Spence-2021 "The Origin of the Hittite mēma/i- Verbs"
