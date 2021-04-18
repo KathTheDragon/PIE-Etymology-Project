@@ -717,7 +717,7 @@ References: [EDHIL]\: 261 "_ed-<sup>zi</sup>_ / _ad-_"
 
 ### <a id="etri">_etri-_ [n.] "food" (n)</a>
 Derivatives: _etriye/a-_ [zi] "to feed" (v); _etriyanu-_ [zi] "to feed(?)" \
-HLuw. _ádri(a)- "to feed(?)" (v) \
+HLuw. _ádri(a)-_ "to feed(?)" (v) \
 Derived from [_ezzazzi_ "eats"](#et) with the suffix _-ri-_ (compare [_ēsri-_ "shape"](#ēsri) and [_auri-_ "lookout"](#auri)). \
 References: [EDHIL]\: 263 "_edri-_"
 
