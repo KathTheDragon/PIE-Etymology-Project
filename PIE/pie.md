@@ -35,7 +35,7 @@ Hittite [_arkuzzi_ "chants"](../Anatolian/anatolian.md#arku) \
 Sanskrit _árcati_ "sings"
 
 ### <a id="h₁ers">\*h₁érs- ~ \*h₁r̩s- [ti] "to flow" (v)</a>
-Hittite [_arszi_ "flows"](../Anatolian/anatolian.md#ars)
+Hittite [_arszi_ "flows"](../Anatolian/anatolian.md#ars) \
 Sanskrit _arṣ-_ "to stream, flow"
 
 ### <a id="h₁ndo">\*h₁n̩do, \*h₁n̩dom/n "into, inside" (adv)</a>
