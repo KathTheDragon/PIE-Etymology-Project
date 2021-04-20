@@ -156,13 +156,17 @@ In formal terms, the suffix inflects according to the _mēma/i-_ class with mixe
 - _tuhsanna/i-_ "to cut off" \< [_tuhs-_ "to cut off"](#tuhs)
 - _walhanna/i-_ "to hit" \< [_walh-_ "to hit"](#walh)
 - _weriyanna/i-_ "to call" \< [_weriye/a-_ "to call"](#weriye)
+
 A single verb is apparently derived directly from a noun:
 - _halukanna/i-_ "to bring news" \< [_haluka-_ "message"](#haluka)
+
 Another is derived directly from a noun in _-ātar_ ~ _-ānn-_:
 - _taksanna/i-_ "to level" \< [_taksatar_ "plain, level"](#taksatar)
+
 Lastly are a few with an unknown base:
 - [_hallanna/i-_ "to trample down(?)"](#hallanna)
 - [_sallanna/i-_ "to pull"](#sallanna)
+
 References: [EDHIL]\: 175 "_-anna-<sup>i</sup>_ / _-anni-_", [Spence (2021)]
 
 ### <a id="annaneka">_annaneka-_ [c.] "sister by the same mother" (n)</a>
