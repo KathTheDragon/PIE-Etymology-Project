@@ -134,32 +134,35 @@ PIE *-éh₂-tn-eh₂?
 Kloekhorst identifies this as the allative of the verbal noun in [_-ātar_ ~ _-ānn-_](#ātar), which see for further etymology.
 References: [EDHIL]\: 174 "_-ānna_"
 
-### <a id="anna-3">_-anna-_ ~ _-anni-_ [i] "_imperfective_" (suff)</a>
+### <a id="anna-3">_-anna-_ ~ _-anni-_ [i] "_imperfective_(?)" (suff)</a>
 PIE *-éh₂-tn-i-? \
-This suffix is equivalent to the other two imperfective suffixes, [_-ske/a-_](#ske) and [_-ss(a)-_](#ssa), and all three function as suppletive allomorphs. The verbs with _-anna/i-_ are:
- [_hallanna/i-_ "to trample down"](#hallanna),
- [_halukanna/i-_ "to make an announcement"](#haluka),
- [_hattanna/i-_ "to pierce"](#hatt),
- [_hukanna/i-_ "to conjure"](#huek),
- [_hu(i)ttiyanna/i-_ "to draw"](#huett),
- [_iyanna/i-_ "to march"](#i),
- [_ishuwanna/i-_ "to throw"](#ishuwai),
- [_iskaranna/i-_ "to sting"](#iskar),
- [_sippantanna/i-_ "to libate"](#ispant),
- [_isparanna/i-_ "to spread"](#ispar),
- [_lahhiyanna/i-_ "to go on an expedition"](#lahh),
- [_piyanna/i-_ "to give"](#pai),
- [_parhanna/i-_ "to chase"](#parh),
- [_parsiyanna/i-_ "to break"](#parsi),
- [_pessiyanna/i-_ "to throw away"](#pessiye),
- [_pittanna/i-_ "to bring"](#pittae),
- [_sallanna/i-_ "to pull"](#sallanna),
- [_taksanna/i-_ "to level"](#taksatar),
- [_tiyanna/i-_ "to lay down"](#tai),
- [_tuhsanna/i-_ "to cut off"](#tuhs),
- [_walhanna/i-_ "to hit"](#walh),
- [_weriyanna/i-_ "to call"](#weriye). \
-The suffix inflects according to the _mēma/i-_ class with mixed _a_- and _i_-stem inflection, which originally derives from the _dāi_ class, for which see Spence (2021). Kloekhorst (2008) connects this suffix with the [_-ātar_ ~ _-ānn-_](#atar) suffix, which see for further etymology. \
+This suffix is claimed to be equivalent to the other two imperfective suffixes, [_-ske/a-_](#ske) and [_-ss(a)-_](#ssa), and that all three function as suppletive allomorphs. Upon examining the verbs listed as showing this suffix in Kloekhorst (2008), which are given below, I must question this assertion - just about every deverbal case of _-anna/i-_ occurs alongside a _-ske/a-_ imperfective which is often as old or older attested, and in several cases shows a clearly archaic formation (e.g. _zaske/a-_ "be putting" to _tai-_ "put", next to _tiyanna/i-_ "lay down"). Moreover, almost all verbs in _-anna/i-_ are also found extended with the _-ske/a-_ imperfective themselves (and a few are only found in the imperfective). \
+In formal terms, the suffix inflects according to the _mēma/i-_ class with mixed _a_- and _i_-stem inflection, which originally derives from the _dāi_ class, for which see Spence (2021). Kloekhorst (2008) connects this suffix with the [_-ātar_ ~ _-ānn-_](#atar) suffix, which see for further etymology. The verbs containing the suffix can be divided into several groups. Most numerous are those attached to a verbal base:
+- _hattanna/i-_ "to pierce" \< [_hatt-_ "to pierce"](#hatt)
+- _hukanna/i-_ "to conjure" \< [_huek-_ "to conjure"](#huek)
+- _huttiyanna/i-_ "to pull" \< [_huettiye/a-_ "to pull"](#huett)
+- _iyanna/i-_ "to march" \< [_iye/a-_ "to march"](#iye)
+- _ishuwanna/i-_ "to throw" \< [_ishuwa(i)-_ "to throw"](#ishuwai)
+- _iskaranna/i-_ "to sting" \< [_iskār-_ "to sting"](#iskār)
+- _sippantanna/i-_ "to libate" \< [_ispānt-_ "to libate"](#ispānt)
+- _isparanna/i-_ "to spread" \< [_ispār-_ "to spread (out)"](#ispār)
+- _lahhiyanna/i-_ "to travel" \< [_lahhiye/a-_ "to travel"](#lahh)
+- _piyanna/i-_ "to give" \< [_pai-_ "to give"](#pai)
+- _parhanna/i-_ "to chase" \< [_parh-_ "to chase"](#parh)
+- _parsiyanna/i-_ "to break" \< [_parsiye/a-_ "to break"](#parsiye)
+- _pessiyanna/i-_ "to throw away" \< [_pessiye/a-_ "to throw away"](#pessiye)
+- _pittanna/i-_ "to bring" \< [_pittae-_ "to bring"](#pittae)
+- _tiyanna/i-_ "to lay down" \< [_tai-_ "to put"](#tai)
+- _tuhsanna/i-_ "to cut off" \< [_tuhs-_ "to cut off"](#tuhs)
+- _walhanna/i-_ "to hit" \< [_walh-_ "to hit"](#walh)
+- _weriyanna/i-_ "to call" \< [_weriye/a-_ "to call"](#weriye)
+A single verb is apparently derived directly from a noun:
+- _halukanna/i-_ "to bring news" \< [_haluka-_ "message"](#haluka)
+Another is derived directly from a noun in _-ātar_ ~ _-ānn-_:
+- _taksanna/i-_ "to level" \< [_taksatar_ "plain, level"](#taksatar)
+Lastly are a few with an unknown base:
+- [_hallanna/i-_ "to trample down(?)"](#hallanna)
+- [_sallanna/i-_ "to pull"](#sallanna)
 References: [EDHIL]\: 175 "_-anna-<sup>i</sup>_ / _-anni-_", [Spence (2021)]
 
 ### <a id="annaneka">_annaneka-_ [c.] "sister by the same mother" (n)</a>
