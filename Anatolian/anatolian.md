@@ -3,6 +3,8 @@
 ## Note on Transcription
 Several liberties have been taken with the spelling of Hittite, Palaic, and Cuneiform Luwian forms in bound transcription. Firstly, the letters _š_ and _ḫ_ have been replaced with _s_ and _h_. Secondly, the distinction between _p_, _t_, and _k_, on the one hand, and _b_, _d_, and _g_, on the other, has been collapsed in favour of the voiceless stops, as I know of no functional contrast that employs these spellings.
 
+Hieroglyphic Luwian forms are given in unbound transcription.
+
 ## Word classes
 Verbs have been annotated with the form of the 3sg present corresponding to their inflection class: [zi] (_mi_-conjugation), [i] (_hi_-conjugation), [ari] (dentalless middle), and [ttari] (dental middle). Nouns are annotated with their gender: [c.] (common gender) and [n.] (neuter gender).
 
@@ -47,7 +49,7 @@ References [EDHIL]\: 166 "_aikau̯artanna_"
 ### <a id="ais">_ais_ ~ _iss-_ [n.] "mouth" (n)</a>
 Derivatives: _issalli-_ [n.] "spittle" (n) \
 CLuw. _âs-_ [n.] "mouth" (n); _āssa-_ "to speak(?)" (v) \
-HLuw. _ásaza-_ "to speak" (v) \
+HLuw. _á-sa₅-za-_ "to speak" (v) \
 PIE [\*h₁óh₁s "mouth"](../PIE/pie.md#h₁oh₁s) \
 Following Melchert (2010), I reconstruct this word and its cognates as dir.sg. \*h₁óh₁s, oblique \*h₁(e)h₁s-. The nom.-acc. with an _i_ is due to anaptyxis of PAnat \*e in \*-h₁s# (PAnat \*h₁óh₁es > CLuw. /ā.as/, Pre-Hitt. /ā.is/ regularly), while the oblique (and derivative stem) with _ss_ is due to assimilation of \*h₁s after an unaccented vowel. \
 References: [EDHIL]\: 166 "_aiš_ / _išš-_", [Melchert (2010)]
@@ -121,7 +123,7 @@ References: [EDHIL]\: 173 "_anna-_"
 Derivatives: _anniyatar_ ~ _anniyann-_ [n.] "motherhood" (n) \
 Pal. _anna-_ "mother" (n) \
 CLuw. _ānna/i-_ [c.] "mother" (n); _annalla/i-_ "maternal" (adj); _ānnawann(i)-_ [c.] "stepmother" (n); _ānninniyami-_ [c.] "cousin" (n); _ānni(ya)-_ "maternal" (adj) \
-HLuw. **MATER**-_nati-_ [c.] "mother" (n) \
+HLuw. **MATER**-_na-tí-_ [c.] "mother" (n) \
 Lyd. _ẽna-_ "mother" (n) \
 Lyc. _ẽne/i-_ [c.] "mother" (n) \
 Mil. _ẽne/i-_ [c.] "mother" (n) \
@@ -220,7 +222,7 @@ References: [EDHIL]\: 183 "_-ant-_"
 ### <a id="anta">_anta_ "in(to), inwards; (with)in; in addition" (adv)</a>
 Derivatives: _antan_ "(with)in, inside; in(to)" (adv) \
 CLuw. _ānta_ "in(to)" (prev); _antan_ "inside"? (adv) \
-HLuw. _anta_ "(with)in, in(to)" (adv); _antan_ "into", _antatila/i-_ "internal" (adj) \
+HLuw. _a-ta_, _a-tá_ "(with)in, in(to)" (adv); _a-ta-na_ "into", _a-tá-ti-la/i-_ "internal" (adj) \
 Lyd. _ẽt-_ (prev) \
 Lyc. _ñte_ "inside" (adv) \
 PAnat. \*ʔn̩do, \*ʔn̩dom/n \
@@ -239,7 +241,7 @@ References: [EDHIL]\: 186 "_antara-_"
 
 ### <a id="antari">_-anta(ri)_, _-antat(i)_ "_3pl middle pres./pret._" (suff)</a>
 CLuw. _-antari_ "_3pl middle pres._" (suff) \
-HLuw. _-antasi_ "_3pl middle pres._" (suff) \
+HLuw. _-°a-tá-si_ "_3pl middle pres._" (suff) \
 PAnat. \*-énto(ri), \*-n̩to(ri) \
 PIE \*-énto(r), \*-n̩to(r) \
 References: [EDHIL]\: 186 "_-anta(ri)_, _-antat(i)_"
@@ -257,7 +259,7 @@ References: [EDHIL]\: 187 "_antii̯ant-_"
 ### <a id="antu">_-antu_ "_3pl active imperative_" (suff)</a>
 Pal. _-antu_, _-entu_ \
 CLuw. _-antu_ \
-HLuw. _-antu_ \
+HLuw. _-°a-tu_ \
 Lyc. _-Ṽtu_ \
 PAnat. \*-Vntu \
 PIE \*-éntu \
@@ -280,7 +282,7 @@ References: [EDHIL]\: 184 "_-ant-_"
 ### <a id="anzi">_-anzi_ "_3pl active present_" (suff)</a>
 Pal. _-ānti_ \
 CLuw. _-anti_ \
-HLuw. _-anti_ \
+HLuw. _-°a-ti_ \
 Lyd. _-d_? \
 Lyc. _-Ṽti_, _-ñti_ \
 PAnat. \*-Vnti \
@@ -301,7 +303,7 @@ References: [EDHIL]\: 190 "_=(a)p(a)_"
 Derivatives: _apāsila_ "himself, herself, of one's own", _apatta(n)_ "there" (adv); _apiya_ "there, then" (adv); _apinissan_ "thus" (adv); _apinissuwant-_ "of such kind" (adj) \
 Pal. _apa-_ "that one" (pron) \
 CLuw. _apā-_ "that; he, she, it, they" (pron); _apati(n)_ "thus" (adv) \
-HLuw. _ápa-_ "he, she, it", _ápati_ "there" (adv) \
+HLuw. _(á-)pa-_ "he, she, it", _á-pa-ti_, _á-pa-ri-_ "there" (adv) \
 Lyd. _bi-_ "he" (pron); _bili-_ "his" (adj); _ebad_ "here, there" (adv) \
 Lyc. _ebe-_ "this" (pron); _eb(e)-_ "he, she, it" (pron); _ehbi-_ "his" (adj); _epttehe/i-_, _eb(e)ttehe/i-_ "their" (adj); _ebei_ "here" (adv); _ebeila_ "here" (adv); _ebeli_ "here" (adv) \
 PAnat. \*ʔobó- \
@@ -311,7 +313,7 @@ References: [EDHIL]\: 191 "_apā-_ / _apū-_"
 ### <a id="āppa">_āppa_ "behind, backwards; back, again, further" (adv)</a>
 Derivatives: _āppan_ "behind; after(wards)" (adv); _āppanta_ "backwards" (adv); _āppananta_ "backwards" (adv); _appezzi(ya)-_ "backmost, hindmost, rear" (adj); _āppa-_ ~ _āppi-_ "to be finished, to be done" (v); _appasiwatt-_ [c.] "future" (n) \
 CLuw. _āppa_ "back, again" (prev); _āppan_ "behind, after" (adv); \*_āppanta_ "behind" (adv); _āpparant(i)-_ "future" (adj) \
-HLuw. _ápan_ "after, behind, again" (adv); \*_ápani_ "after, in the future" (adv); \*_ápara/i-_ "after-; later, younger" (adj); _ápi_ "back, again" (adv) \
+HLuw. _á-pa-na_, _á-pa-_, **POST**-_na_ "after, behind, again" (adv); **POST**-_ni_ "after, in the future" (adv); **POST**-_ra/i-_ "after-; later, younger" (adj); _á-pi_, _á-pi-i_ "back, again" (adv) \
 Lyc. _epñ_ "afterwards" (adv); _epñte_ "thereafter" (adv); _epre/i-_ "back-, rear-" (adj) \
 PAnat. \*ʔópi, \*ʔóp- \
 PIE [\*h₁épi, \*h₁ópi "at the back"](../PIE/pie.md#h₁epi-2) \
@@ -407,7 +409,7 @@ References: [EDHIL]\: 205 "_arkuu̯ae-<sup>zi</sup>_"
 ### <a id="arma">\*_arma-_ [c.] "moon, Moon-god; month" (n)</a>
 Derivatives: \*_armatar_ [n.] "monthspan(?)", _armanni-_ [c.] "lunula, crescent; "croissant" bread" (n); _arma(n)tal(l)anni-_ [c.] "type of bread" (n); _armuwalae-_ [zi] "to shine (of the moon)" (v); _armuwalasha(i)-_ [c.] "waxing of the moon" (n) \
 CLuw. \*_arma-_ [c.] "Moon-god" (n); _armannaima/i-_ "decorated with lunulae" (adj); \*_armassa/i-_ [c.] "month" (n) \
-HLuw. \*_arma-_ [c.] "moon, Moon-god" (n) \
+HLuw. **LUNA+_MI_**-(_ma-_) [c.] "moon, Moon-god" (n) \
 Lyd. _armτa-_ "belonging to Arma(?)" (adj) \
 Lyc. _arm̃ma-_ "moon" (n); _rm̃mazata-_ "monthly offering(?)", _Erm̃menẽni_ "brother of the moon" (pn) \
 PAnat. \*ʔ(o)rmā "moon" \
@@ -478,13 +480,13 @@ References: [EDHIL]\: 214 "_āšš-_"
 
 ### <a id="āss-2">_āss-_ [ari], _āssiye/a-_ [ttari] "to be loved, be good" (v)</a>
 Derivatives: _āssiyanu-_ [zi] "to make beloved" (v); _āssiyatar_ ~ _āssiyann-_ [n.] "love" (n); _āssiyawant-_ [c.] "lover" \
-HLuw. _áza-_ "to love" (v) \
+HLuw. _á-za-_ "to love" (v) \
 Kloekhorst derives this verb from [_āssu-_ "good"](#āssu), but I think it's more likely they're independent formations from the same root. Hieroglyphic Luwian _áza-_ is a \*-sḱé- verb, with \*sḱ > \*sts > _z_ /ts/. See further s.v. _āssu-_. \
 References: [EDHIL]\: 215 "_āšš-<sup>ari</sup>_ / _āssii̯e/a-<sup>ttari</sup>_"
 
 ### <a id="assa">_-assa-_ "_genitival adjective_" (suff)</a>
 CLuw. _-assa/i-_ "_genitival adjective_" (suff) \
-HLuw. _-asa/i-_ "_genitival adjective_" (suff) \
+HLuw. _-°a-sa/i-_ "_genitival adjective_" (suff) \
 Lyc. _-ahe/i-_ "_genitival adjective_" (suff) \
 PAnat. \*-osso-
 PIE \*-osyo- \
@@ -546,7 +548,7 @@ References: [EDHIL]\: 225 "_āššuzēri-_"
 ### <a id="atta">_atta-_ [c.] "father" (n)</a>
 Derivatives: _attalla-_ "fatherly" (adj) \
 CLuw. _tāta/i-_ [c.] "father" (n); _tāti(ya)-_ "paternal" (adj); _tatalla/i-_ "paternal" (adj) \
-HLuw. _tata/i-_ [c.] "father" (n); _tatiya-_ "paternal" (adj); _tatala/i-_ "fatherly" (adj) \
+HLuw. _tá-ta/i-_, _tá-ra/i-_ [c.] "father" (n); _tá-ti-ia-_ "paternal" (adj); _tá-tà-la/i-_ "fatherly" (adj) \
 Lyd. _taada-_ [c.] "father" (n) \
 Lyc. _tede/i-_ [c.] "father(?)" (n) \
 Hittite _atta-_ can be compared with Core IE \*atta, a common IE nursery word, while non-Hittite \*tódo- is a common Anatolian nursery word. I wonder if the Hittite word could somehow reflect the Anatolian \*tódo- too. \
@@ -582,7 +584,7 @@ References: [EDHIL]\: 231 "_au̯an_"
 
 ### <a id="āz">_-(ā)z_ "_ablative_" (suff)</a>
 CLuw. _-āti_ "_ablative-instrumental_" (suff) \
-HLuw. _-adi_ "_ablative-instrumental_" (suff) \
+HLuw. _-°a-di_ "_ablative-instrumental_" (suff) \
 Lyc. _-edi_ "_ablative-instrumental_" (suff) \
 PAnat. \*-(o)ti \
 The Luwo-Lycian languages show a suffix \*-odi, with lenition, while Hittite appears to reflect \*-ti (_nēpisza_ "from heaven"), \*-oti (_hāpparaz_ "from the city"), and \*-óti (_issāz_ "from the mouth"). Unaccented \*-oti would be expected to undergo lenition, but the unlenited variant can easily be levelled in from the other variants. I assume against Kloekhorst (2008) that the original distribution is \*-oti in root-stressed nouns, and \*-óti in ending-stressed nouns, with \*-ti limited to certain nouns (only in Old Hittite), and pronouns. The ending is undoubtedly an adverbial form secondarily integrated into the case system (note that it doesn't differentiate number), and there are numerous forms showing \*-ti in other IE languages with which it could be compared. \
@@ -620,7 +622,7 @@ References: [EDHIL]\: 236 "_eku-<sup>zi</sup>_ / _aku-_"
 
 ### <a id="ekku">\*_ekku-_ [c.] "horse" (n)</a>
 CLuw. \*_azzu-_ [c.] "horse" (n) \
-HLuw. _ázu-_ [c.] "horse" (n); _ázusatala-_ "to ride on horse" (v) \
+HLuw. **EQUUS**, _á-zú-_ [c.] "horse" (n); _á-zú-sà-ta-la-_ "to ride on horse" (v) \
 Lyc. _esb-_ "horse" (n) \
 PAnat \*ʔéḱu- \
 PIE [\*h₁éḱu- "horse"](../PIE/pie.md#h₁eḱu) \
@@ -656,7 +658,7 @@ References: [EDHIL]\: 244 "_-er_", [Spence (2018)]
 
 ### <a id="erh">_erh-_ ~ _arah-_ ~ _arh-_, _erha-_, _arha-_ [c.] "line, boundary" (n)</a>
 Derivatives: _irhatt-_ [c.] "row, series, circuit" (n); _erhae-_, _arhae-_ [zi] "to go down the line, circulate, make the rounds, treat in succession, list, enumerate, conclude" (v); _arha_ "off, away (from), out of, on account of" (adv), (postp); _arhaya(n)_ "(all) around" (adv); _arahza_ "around; on the outside, away, absent, abroad" (adv); _arahzanda_ "(all) around" (adv); _arahza-_ "alien" (adj); _arahziya-_ "alien" (adj); _arahzena-_ "bordering, adjoining, surrounding; outer, external, foreign, alien" (adj) \
-HLuw. _irha-_ [c.] "border" (n) \
+HLuw. _i-ra/i-ha-_ [c.] "border" (n) \
 PAnat. \*ʔérḫ- ~ \*ʔráḫ-, \*ʔerḫó- (?) \
 All forms of this word and its derivatives with initial _e_ can also be read with initial _i_, as those forms are always spelt with the IR sign, which is ambiguous between _e_ and _i_ vocalism. _irhatt-_ is a Luwian loanword according to Melchert (2013). The base noun is ambiguous between a consonant-stem and an _a_-stem in all forms other than the ablative _arahza_ (specialised into the adverb _arahza_), which must represent an old consonant stem and continue PAnat. \*ʔráḫti. The Old Script attestations of the derived verb _erhae-_ do guarantee an _a_-stem, however. Might this _a_-stem be an early loan from Luwian, where an a-stem _irha-_ is found? Ultimately, probably a derivative of PIE [\*h₁er- "to reach"](#h₁or). \
 References: [EDHIL]\: 245 "_erḫ-_ / _araḫ-_ / _arḫ-_, _erḫa-_, _arḫa-_", [Melchert (2013)]
@@ -675,7 +677,7 @@ References: [EDHIL]\: 249 "_-eš_"
 Derivatives: see [_as(sa)nuzzi_ "takes care of"](#assanu) and [_ēsri-_](#ēsri-1) \
 Pal. _ās-_ ~ _as-_ "to be" (v) \
 CLuw. _ās-_ ~ _as-_ "to be" (v) \
-HLuw. _ás-_ ~ _s-_ "to be" (v) \
+HLuw. _a-sa-_ ~ _á-sa-_, _sa-_ "to be" (v) \
 Lyd. _im_ "I am(?)", _el_ "he is(?)" \
 Lyc. _es-_ ~ _ah-_ "to be" (v) \
 PAnat. \*ʔés- ~ \*ʔs- \
@@ -685,7 +687,7 @@ References: [EDHIL]\: 250 "_eš-<sup>zi</sup>_ / _aš-_"
 ### <a id="es-3">_es-_ ~ _as-_ [ari], [zi] "(mid.) to sit down, seat oneself; (+ _=ssan_) to sit; (act.) to sit, reside; (trans.) to settle" (v)</a>
 Derivatives: _asandul_ [n.] "occupation force, garrison" (v); _asandula/i-_ "occupation force" (adj); _asandulae-_ [zi] "to be on garrison duty" (v); _asandulatar_ ~ _asandulann-_ [n.] "garrisoning" (n) \
 CLuw. _istartalli-_ "throne-like" (adj) \
-HLuw. _ás-_ "to be seated, dwell" (v); _isnu(wa)-_ "to seat, settle" (v); _ása-_ [c.] "seat" (n); _istarta-_ [n.] "throne" (n) \
+HLuw. **SOLIUM**, _á-sa-_ "to be seated, dwell" (v); _i-sà-nu/nú-(wa/i-)_ "to seat, settle" (v); _(á-)sa-_ [c.] "seat" (n); _i-sà-tara/i-ta/i-_ [n.] "throne" (n) \
 PAnat. \*ʔéʔs-o, \*ʔes- \
 PIE [\*h₁é-h₁s-or "sits down, is seated"](../PIE/pie.md#h₁eh₁s) \
 Assuming that Luwian _i_ can reflect pretonic \*e, the Hittite and Luwian verbs can be unified as a verb \*ʔé(ʔ)s-o "sits down, is seated", causative \*ʔes-néw-ti "seats, settles", stem \*ʔes-. The non-Anatolian languages point to a verb with a long vowel \*ē, either original \*ē or \*eh₁; \*ē would yield _i_ in Luwian, however, meaning that the verb must be \*h₁éh₁s-, which can only be reduplicated from a root \*h₁es-, almost certainly identical with \*h₁es- "to be".
@@ -699,7 +701,7 @@ References: [EDHIL]\: 255 "_-ēšš-<sup>zi</sup>_"
 ### <a id="ēshar">_ēshar_ ~ _ishan-_ [n.] "blood(shed)" (n)</a>
 Derivatives: _ishanuwant-_, _ēshanuwant-_ "bloody" (adj); _ēshaskant-_, _ishaskant-_ "bloodied" (adj); _isharnu-_, _ēsharnu-_ [zi] "to make bloody; to dye blood-red" (v); _ēsharnumae-_, _isharnumae-_ [zi] "to make bloody, smear with blood" (v); _ēsharwahh-_ [i] "to make blood-red" (v); _isharwant-_ "bloody" (adj); _isharwieske/a-_ [zi] "to be blood-red" (v); _isharwīl_, _ēsharwīl_ "blood-red" (adj) or [n.] "blood-red object" (n); _ishanallēss-_ [zi] "to become a blood-shedder(?)" (v); _ishanattalla-_ [c.] "blood-shedder, murderer(?)" (n) \
 CLuw. _āshar_ [n.] "blood" (n); _āsharnu-_ "to bloody" (v); _āsharnummai-_ "covered with blood" (adj); _āshanuwant(i)-_ "bloody" (adj) \
-HLuw. _ásharmisa-_ [n.] "offering(?)" (n); _áshanantisa-_ [n.] "blood-offering" (n) \
+HLuw. _á-sa-ha-ra/i-mi-sà-_ [n.] "offering(?)" (n); _á-sa-ha-na-ti-sa-_ [n.] "blood-offering" (n) \
 PAnat. \*ʔésḫr̩ ~ \*ʔ(e)sḫán- (?) \
 PIE [\*h₁ésh₂r̩ ~ \*h₁sh₂én- "blood"](#h₁esh₂r) \
 Hittite _ē-_ and Luwian _ā-_ together point to initial PAnat. \*(ʔ)é-. Hittite _i-_ on the other hand indicates either unaccented \*(ʔ)e- or a zero-grade (due to prothesis before \*sḫ-). While Hittite does not synchronically tolerate alternating a vowel with zero, I'm unsure whether prothesis would be sufficient to repair it. If not, the initial \*e would have been levelled from the nominative-accusative. Kloekhorst (2008) takes the consistent spelling of the oblique stem as _°s-ha-n°_, together with a single attestation of plene _a_, as an indication that the medial vowel is real, spelling /-shan-/. \
@@ -717,14 +719,14 @@ References: [EDHIL]\: 261 "_ēšri-_"
 Derivatives: see [_etri-_ "food"](#etri) \
 Pal. _at-_ "to eat" (v) \
 CLuw. _āt-_ ~ _at-_ "to eat" (v) \
-HLuw. _át-_ "to eat" (v); _átaha-_ "_epithet of gods who have to eat something_" (adj) \
+HLuw. **EDERE**, _á-ta/ra/i-_ "to eat" (v); _á-ta-ha-_ "_epithet of gods who have to eat something_" (adj) \
 PAnat. \*ʔéd- ~ \*ʔd- \
 PIE [\*h₁éd-ˢti "eats"](../PIE/pie.md#h₁ed) \
 References: [EDHIL]\: 261 "_ed-<sup>zi</sup>_ / _ad-_"
 
 ### <a id="etri">_etri-_ [n.] "food" (n)</a>
 Derivatives: _etriye/a-_ [zi] "to feed" (v); _etriyanu-_ [zi] "to feed(?)" \
-HLuw. _ádri(a)-_ "to feed(?)" (v) \
+HLuw. **EDERE**-_tà-ri-_ "to feed(?)" (v) \
 Derived from [_ezzazzi_ "eats"](#et) with the suffix _-ri-_ (compare [_ēsri-_ "shape"](#ēsri) and [_auri-_ "lookout"](#auri)). \
 References: [EDHIL]\: 263 "_edri-_"
 
@@ -743,9 +745,11 @@ References: [EDHIL]\: 264 "_-(e)zzi(i̯a)-_"
 <!-- References -->
 [EDHIL]: ./references.md#Kloekhorst-2008 "Etymological Dictionary of the Hittite Inherited Lexicon (Kloekhorst 2008)"
 [EDG]: ../Greek/references.md#Beeks-2010 "Etymological Dictionary of Greek (Beekes 2010)"
+[EDL]: ../Italic/references.md#de-Vaan-2008 "Etymological Dictionary of Latin and the other Italic Languages (de Vaan 2008)"
 [EDPG]: ../Germanic/germanic.md#Kroonen-2013 "Etymological Dictionary of Proto-Germanic (Kroonen 2013)"
 [Bengtson (2016)]: ./references.md#Bengtson-2016 "Iarl and Iormun-; Arya-and Aryaman-: A Study in Indo-European Comparative Mythology"
 [Kümmel (2014)]: ./references.md#Kümmel-2014 "The conditioning for secondary h in Hittite"
+[Melchert (1984)]: ./references.md#Melchert-1984 "Studies in Hittite Historical Phonology"
 [Melchert (2009)]: ./references.md#Melchert-2009 "Local Adverbs in Hittite: Synchrony and Diachrony"
 [Melchert (2010)]: ./references.md#Melchert-2010 "The Word for ‘mouth’ in Hittite and Proto-Indo-European"
 [Melchert (2012)]: ./references.md#Melchert-2012 "Hittite ḫi-Verbs of the Type -āC₁i, -aC₁C₁anzi"
