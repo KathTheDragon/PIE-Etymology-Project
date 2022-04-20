@@ -8,6 +8,7 @@
 - <a id="Kümmel-2014">Kümmel 2014</a> - [_The conditioning for secondary h in Hittite_](https://www.academia.edu/959610)
 
 ### Melchert, H. Craig
+- <a id="Melchert-1984">Melchert 1984</a> - Studies in Hittite Historical Phonology
 - <a id="Melchert-2009">Melchert 2009</a> - [_Local Adverbs In Hittite: Synchrony and Diachrony_](https://linguistics.ucla.edu/people/Melchert/melchertlocaladverbs.pdf)
 - <a id="Melchert-2010">Melchert 2010</a> - [_The Word for ‘mouth’ in Hittite and Proto-Indo-European_](https://linguistics.ucla.edu/people/Melchert/PIEmouth.pdf).
 - <a id="Melchert-2012">Melchert 2012</a> - [_Hittite ḫi-Verbs of the Type -āC₁i, -aC₁C₁anzi_](https://linguistics.ucla.edu/people/Melchert/melchertIF117.pdf)

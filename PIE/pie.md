@@ -139,27 +139,225 @@ The \*sḱe-imperfective to [\*h₁ór-s "has reached"](#h₁or).
 
 ## <a id="§H₂">H₂</a>
 
+### <a id="h₂ebʰn">\*h₂ébʰ-n- [f.] "river" (n)</a>
+Hittite [_hapa-_ "river"](../Anatolian/anatolian.md#hapa) \
+Latin _amnis_ "river" \
+Proto-Celtic \*abon- "river" \
+The n-stem is continued in Anatolian as Palaic _hāpna-_ and a possible n-stem in Hittite (only certainly found in words spelt with the Sumerogram **ÍD**). The rest of Anatolian attests an o-stem, but given the lack of external cognates it's unclear if this o-stem should be reconstructed for PIE.
+
 ### <a id="h₂eḱri">\*h₂éḱ-r-i- [f.] "point, spike" (n)</a>
 Greek ἄκρις "hilltop, mountain peak" \
 Sanskrit _áśri-_ "corner, sharp side" \
 Derived from \*h₂eḱ- "be sharp".
 
+### <a id="h₂emsu">\*h₂éms-u- [c.] "that which begets" (n)</a>
+Avestan _ahu(ra)-_ "god, lord" \
+Hittite [_hassus_ "king"](../Anatolian/anatolian.md#hassu) \
+Sanskrit _ásura-_ "godlike, powerful" \
+Proto-Germanic \*ansuz "god"
+
+### <a id="h₂enhₓ">\*h₂énhₓ- [f.] "grandmother" (n)</a>
+Greek ἀννίς "grandmother" \
+Hittite [_hanna-_ "grandmother"](../Anatolian/anatolian.md#hanna-2) \
+Latin _anus_ "old woman" \
+Lithuanian _anýta_ "mother-in-law" \
+Proto-Germanic \*anô "grandfather", \*anǭ "grandmother"
+
+### <a id="h₂ent">\*h₂ént- [n.?] "forehead, front" (n)</a>
+Hittite [_hant-_ "forehead, front"](../Anatolian/anatolian.md#hant) \
+This possibly neuter noun survived as such only in Anatolian, but already in PIE case-forms and derivatives were lexicalised as adverbs, such as [\*h₂énti "in front of"](#h₂enti) and [\*h₂n̩tbʰi "around"](#h₂ntbʰi)
+
+### <a id="h₂enti">\*h₂énti "in front of" (adv)</a>
+Greek ἀντί "opposed, facing" \
+Hittite [_hanza_ "in front"](../Anatolian/anatolian.md#hant) \
+Latin _ante_ "in front of" \
+Sanskrit _ánti_ "before, facing" \
+The lexicalised locative of [\*h₂ént- "forehead"](#h₂ent).
+
+### <a id="h₂erk">\*h₂érk/ḱ- ~ \*h₂r̩k/ḱ- [zi] "to hold(?), protect(?)" (v)</a>
+Greek ἀρκέω "wards off, defends; suffices" \
+Hittite [_harzi_, _hark-_ "holds, has, keeps"](../Anatolian/anatolian.md#hark-1) \
+Latin _arceō_ "contains; keeps out" \
+The precursors of ἀρκέω and _arceō_ are uncertain.
+
+### <a id="h₂ewh₂">\*h₂éwh₂- ~ \*h₂uh₂- [c.] "grandfather"</a>
+Armenian _haw_ \
+Hittite [_huhhas_](../Anatolian/anatolian.md#huhha) \
+Latin _avus_ \
+Lithuanian _avýnas_ "maternal uncle" \
+Proto-Germanic \*awô "grandfather", \*awǭ "grandmother" \
+Proto-Slavic \*ujь "maternal uncle"
+
+### <a id="h₂ntbʰi">\*h₂n̩t-bʰí "around, on both sides" (adv)</a>
+Greek ἀμφί "around, on both sides" \
+Latin _ambi-_ "round, about" \
+Proto-Celtic \*ambi "around" \
+Proto-Germanic \*umbi "around, about" \
+Sanskrit _abhí_ "to, towards, against, upon" \
+Tocharian B _āntpi_, _antapi_ "both" \
+An adverbial formation in \*-bʰi to [\*h₂ént- "forehead"](#h₂ent).
+
+### <a id="h₂od">\*h₂ód- ~ \*h₂d- [ey] "to dry up" (v)</a>
+Greek _ἄζω_ "to dry up" \
+Hittite [_hāti_ "to dry up"](../Anatolian/anatolian.md#hāt)
+
+### <a id="h₂odʰgʰ">\*h₂ódʰgʰ/ǵʰ- ~ *h₂dʰgʰ/ǵʰ- [ey] "to be tight, be under pressure" (v)</a>
+Greek ἄχθομαι "to be burdened, be depressed" \
+Hittite [_hatki_ "to shut, close"]
+
+### <a id="h₂oh₁s">\*h₂óh₁s- ~ *h₂h₁s- [c.] "ash" (n)</a>
+Hittite [_hāss-_](../Anatolian/anatolian.md#hāss) \
+Sanskrit _ā́sa-_ \
+Proto-Germanic \*asjǭ "soapstone(?)" may be a derivative of this word (virtual \*h₂h₁s-yeh₂-n-), similarly \*askǭ "ash". Latin _ārēre_ "to be dry" is a stative to the root of this word, and Tocharian _ās-_ "to dry out" is another verbal formation, but it's unclear if the verb or noun is primary here.
+
+### <a id="h₂oh₁sh₂">\*h₂óh₁s-h₂- ~ *h₂eh₁s-h₂- [c.] "hearth" (n)</a>
+Hittite [_hāssā-_](../Anatolian/anatolian.md#hāssā) \
+Latin _āra_ \
+A derivative in *-h₂- from [\*h₂óh₁s- "ash"](#h₂oh₁s).
+
+### <a id="h₂orh₃">\*h₂órh₃- ~ \*h₂r̩h₃- "to break (into pieces)" (v)</a>
+Greek ἀρόω "ploughs" \
+Hittite [_harrai_ "grinds, crushes"](../Anatolian/anatolian.md#harra) \
+Latin _arō_ "ploughs" \
+Lithuanian _ariù_, _árti_ "to plough" \
+Old Church Slavonic _orjǫ_, _orati_ "to plough" \
+Old Irish _-air_ "ploughs" \
+Proto-Germanic \*arjaną "to plough" \
+The non-Anatolian languages have undergone a common shift from "to break (the ground)" \> "to plough".
+
+### <a id="h₂owi">\*h₂ówi- ~ \*h₂éwi- [c.] "sheep" (n)</a>
+Armenian _hoviw_ "shepherd" \
+Greek ὄϊς, ὄϝις \
+Hittite [_hāwis_](../Anatolian/anatolian.md#hāwi) \
+Latin _ovis_ \
+Lithuanian _avìs_ \
+Old Church Slavonic _ovьca_ \
+Proto-Celtic \*owis \
+Proto-Germanic \*awiz "ewe" \
+Sanskrit _ávi-_ \
+Tocharian B _āᵤw_ "ewe" \
+The original colour of the laryngeal is hard to determine, as most forms are compatible with either \*h₃e- or \*h₂o- (note that Lycian _χawa-_ can be a-umlauted from _χewa-_). However, Tocharian B _āᵤw_ "ewe" conclusively proves that \*h₂e- must have been present in the paradigm, and hence the prolific o-grade reflects \*h₂o-. Note that this effectively refutes the theory that \*h₂ is not reflected before \*o in Armenian, though it may not be sufficient to demonstrate the same for Anatolian, as all the forms can probably reflect both \*h₂ó- and \*h₂é-.
+
+### <a id="h₂rǵi">\*h₂r̩ǵí- "white, bright" (adj?)</a>
+Greek ἀργι- "_compound form of ἀργός_" \
+Hittite [_harki-_ "white, bright"](../Anatolian/anatolian.md#harkai) \
+Sanskrit _ṛji-_ "_compound form of _ṛjrá-_" \
+Caland i-stem to the root \*h₂erǵ- "white, bright", likely originally restricted to the first member of compounds, as in Greek and Sanskrit. The independent i-stem in Hittite would be secondary.
+
+### <a id="h₂rtḱo">\*h₂ŕ̩tḱo- [c.] "bear" (n)</a>
+Albanian _ari_ \
+Armenian _arǰ_ \
+Greek ἄρκτος \
+Hittite [_hartakka-_](../Anatolian/anatolian.md#hartakka) \
+Proto-Celtic \*arto- \
+Sanskrit _ṛ́kṣa-_ \
+Young Avestan _arəša-_ \
+In my opinion, Latin _ursus_ is most likely not directly connected to this word - if it is, it has undergone significant tabooistic deformation, as we should expect _arcus_.
+
+### <a id="h₂stēr">\*h₂stér- [c.] "star" (n)</a>
+Armenian _astł_ \
+Old Avestan _star-_ \
+Greek ἀστήρ \
+Hittite [_hasterza_](../Anatolian/anatolian.md#hastera) \
+Latin _stēlla_ \
+Proto-Celtic \*sterā \
+Proto-Germanic \*sterô \
+Sanskrit _stár-_ \
+Tocharian B _ścirye_ \
+Possibly a derivative of the root found in [\*h₂óh₁s "ash"](#h₂oh₁s)
+
+### <a id="h₂tug">\*h₂tug/ǵ- [?] "to be terrifying(?)" (v)</a>
+Greek ἀτύζομαι "to be terrified" \
+Hittite [_hatukzi_ "is terrible"](../Anatolian/anatolian.md#hatuk) \
+Sanskrit _tuj-_ "to thrust"(?) \
+The original inflection of this verb is not entirely obvious. Additionally, the Sanskrit cognate is not self-evident (but compare _tujyáte_ "he is put to panic" which would be a perfect match for the Greek verb).
+
+### <a id="h₂weh₁">\*h₂weh₁- "to blow (of the wind)"</a>
+Greek ἄησι \
+Hittite [_huwāi_ "runs"](../Anatolian/anatolian.md#huwai) \
+Proto-Slavic \*vějati \
+Sanskrit _vā́ti_
+
+### <a id="h₂weh₁nt">\*h₂wéh₁n̩t- ~ \*h₂uh₁(é)nt- [c.] "wind" (n)</a>
+Hittite [_huwant-_](../Anatolian/anatolian.md#huwant) \
+Latin _ventus_ \
+Proto-Celtic \*winto- \
+Proto-Germanic \*windaz \
+Proto-Tocharian \*wʸente \
+Sanskrit _vā́ta-_ \
+Latin, Celtic, Germanic, and Tocharian together point to quasi-PIE \*wēnto-, which should reflect \*h₂wéh₁n̩t- by contraction of \*éh₁n̩ to produce \*ḗn - however, this cannot have taken place in late PIE already, as it follows Verner's law in Germanic, and it did not take place in Sanskrit at all. Hittite uniquely shows zero-grade of the root.
+
+### <a id="h₂werg">\*h₂werg- "to turn, bend"</a>
+Hittite [_hurkis_ "wheel"](../Anatolian/anatolian.md#hurki) \
+Latin _vergō_ "to slope down" \
+Proto-Germanic \*werkaną "to bend" \
+Sanskrit _varj-_ "to turn (around)"
+
+### <a id="h₂widr">\*h₂wid-r̩ ~ \*h₂wid-n- [n.] "creature" (n)</a>
+Hittite [_huitar_ "game, wild animals"](../Anatolian/anatolian.md#huitar) \
+Old Norse _vitnir_ "creature"
+
+### <a id="h₂wlneh₁">\*h₂wl̩néh₁- ~ \*h₂wl̩nh₁- [ti] "to rule (over)" (v)</a>
+Hittite [_hullezzi_ "defeats"](../Anatolian/anatolian.md#hulle) \
+Proto-Celtic \*walna- "to rule" \
+Also related to Latin _valeō_ "to be strong", Lithuanian _veldė́ti_ "to inherit", Proto-Slavic \*wolděti "to rule", Proto-Germanic \*waldaną "to rule".
+
 ## <a id="§H₃">H₃</a>
+
+### <a id="h₃erbʰ">\*h₃érbʰ- [to] "to change allegiance" (v)</a>
+Hittite [_harptari_](../Anatolian/anatolian.md#harp)
+
+### <a id="h₃erg">\*h₃érg- ~ \*h₃r̩g- [t(i)] "to perish" (v)</a>
+Armenian _harkanem_ "strikes, smites" \
+Hittite [_harkzi_ "gets lost, disappears"](../Anatolian/anatolian.md#hark-2) \
+Proto-Celtic \*orgo- "destroys" \
+The verb was probably originally intransitive, with the nasal-infix verb \*h₃r̩nég- supplying the transitive "to destroy".
 
 ### <a id="h₃eri">\*h₃ér-i- ~ \*h₃r-i- [ey] "to rise, move" (v)</a>
 Hittite [_arāi_ "rises"](../Anatolian/anatolian.md#arai) \
 Latin _orior_ "rises" \
 An \*i-present to [\*h₃r̩-tó "has risen"](#h₃r).
 
+### <a id="h₃eron">\*h₃ér-on- [c.] "eagle" (n)</a>
+Greek ὄρνις \
+Hittite [_hāran-_](../Anatolian/anatolian.md#hāran) \
+Lithuanian _erẽlis_ \
+Old Church Slavonic _orьlъ_ \
+Proto-Celtic \*eriro-? \
+Proto-Germanic \*arô ~ \*arn- \
+An n-stem to [\*h₃r̩-tó "has risen"](#h₃r).
+
+### <a id="h₃ertu">\*h₃ér-tu- [c/n.] "birth" (n)</a>
+Hittite [_hartu-_ "descendance"](../Anatolian/anatolian.md#hartu) \
+Latin _ortus_ \
+A derivative in *-tu- to [\*h₃r̩-tó "has risen"](#h₃r).
+
 ### <a id="h₃r">\*h₃r̩- [tó] "to have risen, have moved" (v)</a>
 Greek ὦρτο "has risen" \
 Hittite [_arta(ri)_ "stands (by)"](../Anatolian/anatolian.md#ar) \
 Sanskrit _ā́rta_ "has risen, has moved" \
-Derivatives: [\*h₃ér-y-ey "rises"](#h₃eri)
+Derivatives: [\*h₃ér-y-ey "rises"](#h₃eri), [\*h₃ér-on- "eagle"](#h₃eron), [\*h₃ér-tu- "birth"](#h₃ertu), [\*h₃r̩-néw-ti "makes rise"](#h₃rnew)
 
 ### <a id="h₃rnew">\*h₃r̩-néw- ~ \*h₃r̩-nu- [ti] "to make rise, make go" (v)</a>
 Greek ὄρνῡμι "makes (someone) move" \
-Sanskrit _ṛṇóti_ "puts in motion"
+Sanskrit _ṛṇóti_ "puts in motion" \
+A \*nu-causative to [\*h₃r̩-tó "has risen"](#h₃r).
+
+### <a id="h₃esth₁">\*h₃esth₁- "bone" (n)</a>
+Greek ὀστέον \
+Hittite [_hastāi_](../Anatolian/anatolian.md#hastāi) \
+Latin _os_, _ossis_ "bone, leg" \
+Sanskrit _ásthi_, _asthnás_ \
+Greek and Hittite both show reflexes of a suffix-accented i-stem \*h₃(e)sth₁-i-, while Latin, probably Sanskrit, and likely Luwian _hās-_, show a root noun. Both formations may have existed side-by-side.
+
+## <a id="§Hₓ">Hₓ</a>
+
+### <a id="HₓoiHₓs">\*Hₓ(o)iHₓ-s- [n.?] "pole, shaft" (n)</a>
+Greek οἴαξ "handle of the rudder, tiller", οἰήϊον "rudder" \
+Hittite [_hissa-_ "carriage pole"](../Anatolian/anatolian.md#hissa) \
+Proto-Slavic \*oje "thill" \
+Sanskrit _īṣā́_ "pole, shaft" \
+Apparently an s-stem, with the zero-grade thematised in Hittite and Sanskrit. The development of the Greek forms is less clear, but probably also continues the s-stem. The first laryngeal must be \*h₂ or \*h₃, while the second must be \*h₁ or \*h₃.
 
 ## <a id="§M">M</a>
 

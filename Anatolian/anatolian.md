@@ -741,6 +741,623 @@ PAnat. \*-Vtsyo- \
 PIE \*-(e)tyo- \
 References: [EDHIL]\: 264 "_-(e)zzi(i̯a)-_"
 
+## <a id="§H">H</a>
+
+### <a id="hā">_hā-_ ~ _ha-_ [zi] "to believe, trust, be convinced" (v)</a>
+No etymology. \
+References: [EDHIL]\: 267 "_ḫā-<sup>zi</sup>_ / _ḫ-_"
+
+### <a id="hāhhall">_hāhhall-_ [n.] "greenery, verdure, (wild) vegetation" (n)</a>
+Derivatives: _hahhallalla-_ [c.] "a female functionary" (n); _hahhalieske/a-_ [zi] "to become yellow(-green)" (v); _hahhaluwant-_ (Luwian?) "?"; _hahlahh-_ [i] "to make yellow(-green)" (v); _hahlanieske/a-_ [zi] "to make yellow(-green)" (v); _hahlawant-_ [n.] "the yellow" (n); _hahlimma-_ [c.] "jaundice(?)" (n); _hahliwant-_ "yellow(-green)" (adj) \
+No etymology. \
+References: [EDHIL]\: 267 "_ḫāḫḫall-_"
+
+### <a id="haink">_hai(n)k-_ [ttari], _hink-_ [ari], _hi(n)k-_ [zi] "(act. trans.) to bestow, offer; (act. intr., mid.) to bow" (v)</a>
+Derivatives: _henkur_ ~ _henkun-_ [n.] "gift, offering" (n); _\*hinkatar_ ~ _hinkann-_ [n.] "gift" (n); _hinkanu-_ [zi] "to make bow" (n); _hinkula-_ [c.] "offerant" (n); see [_henkan-_ "death"](#henkan) \
+See Kloekhorst (2008) for a discussion of the severe problems in concocting an IE etymology for this verb. No etymology. \
+References: [EDHIL]\: 268 "_hai(n)k-<sup>ttari</sup>_, _hink-<sup>ari</sup>_, _hi(n)k-<sup>zi</sup>_"
+
+### <a id="halai">_halai-_ ~ _hali-_(?) [i] "to set in motion" (v)</a>
+Kloekhorst (2008) upholds a connection with Greek ἰάλλω "to send off, stretch forth", but Beekes (2010) rather derives the Greek verb from a root \*sel- "to set in motion". Further uncertain. \
+References: [EDHIL]\: 271 "_halai-<sup>i</sup>_ / _hali-<sup>?</sup>_", [EDG]\: 572 "ἰάλλω"
+
+### <a id="hallanna">_hallanna-_ ~ _hallanni-_ [i] "to trample down(?), flatten (fields and plants) (?)" (v)</a>
+This verb appears in two readable contexts. The first occurs alongside _istalkiyattari_ "will be levelled" and is used to describe the fate of a field invaded by an enemy. The second is in _welku harsani=ssi hallanianzi_ "They _h._ the grass on his head." There is a third attestation of the imperfective, but the context is too broken to read. Based on the first two attestations, it is claimed that _hallanna/i-_ denotes the trampling or flattening of plants and fields, but if this is so I am unsure why it would be used immediately next to the near-synonym _istalkiyattari_. To my mind, an interpretation as "burn" would make sense, but I would want to see the wider context of the second attestation to be certain either way. \
+On the assumption that this verb is a derivative in [_-anna/i-_](#anna-3) from a verbal base \*_hall-_, the word is connected with Greek ὄλλῡμι "to destroy" \< \*h₃elh₁-, but I shall reserve judgement. \
+References: [EDHIL]\: 271 "_ḫallanna-<sup>i</sup>_ / _ḫallanni-_"
+
+### <a id="hāli">_hāli-_ [n.] "pen, corral (for cows and horses)" (n)</a>
+No etymology. \
+References: [EDHIL]\: 272 "_ḫāli-_"
+
+### <a id="haliye">_haliye/a-_ [zi] "to kneel down" (v)</a>
+Derivatives: _halinu-_ [zi] "to make kneel" (v); _halihla/i-_ [i] "to genuflect; (trans.) to make obeisance to" (v) \
+The inflection of _halihla/i-_ (_-a-_ in the active and _-i-_ in the middle), while not a perfect case of _mēma/i-_-class inflection, is certainly suggestive of it, and following Spence (2021) can be taken as indicative of older inflection in _-ai-_ ~ _-i-_. This in turn suggests that the thematic inflection of _haliye/a-_ is secondary, and an original _halai-_ should be assumed. However, there are no good etymologies available. \
+References: [EDHIL]\: 273 "_ḫalii̯e/a-<sup>zi</sup>_", [Spence (2021)]
+
+### <a id="halīna">_halīna-_ [?] "clay(?)" (n)</a>
+The translation "clay" is just a possibility, as the word only occurs in the genitive modifying [_tessummi-_ "cup(?)"](#tessummi) and [_zēri-_ "cup"](#zēri). No further etymology. \
+References: [EDHIL]\: 274 "_ḫalīna-_"
+
+### <a id="halki">_halki-_ [c.] "barley; grain" (n)</a>
+Derivatives: _Halki-_ [c.] "barley-god" (n) \
+No etymology. \
+References: [EDHIL]\: 274 "_ḫalki-_"
+
+### <a id="halkuēssar">_halkuēssar_ ~ _halkuēsn-_ [n.] "supplies (for festivals)" (n)</a>
+PIE \*h₂l̩gʷʰ-éh₁-sr̩ ~ \*h₂l̩gʷʰ-eh₁-sn- \
+A noun in _-ēssar_ ~ _-ēsn-_ to the PIE verb \*h₂elgʷʰ- "to earn".
+References: [EDHIL]\: 275 "_ḫalkuēššar_ / _ḫalkuēšn-_"
+
+### <a id="haluka">_haluka-_ [c.] "message, announcement, tidings, news" (n)</a>
+Derivatives: _haluki-_ ~ _halukai-_ "message-..." (adj); _halukat(t)alla-_ [c.] "messenger, envoy" (n); _halukanna/i-_ [i] "to make an announcement, bring news" (v); _halukanae-_ [zi] "to bring news" (v); _halukanili_ "in messenger-fashion" (adv) \
+PIE \*h₂lVwgʰ-o- "story(?)" \
+Possibly connected with Germanic \*leuganą, OCS _lъgati_ "to lie", and Old Irish _lu(i)ge_, _lugae_ "oath". Further uncertain. \
+References: [EDHIL]\: 275 "_ḫaluka-_"
+
+### <a id="halzai">_halzai-_ ~ _halzi-_ [i] "to cry out, shout, (trans.) call, invoke, recite" (v)</a>
+Derivatives: see [_halziss(a)-_](#halzissa) \
+CLuw. _halta/i-_ "call, appeal (?)" (n); _halta/i-_ "to call, appeal (?)" (v) \
+PIE \*h₂let- "to call" \
+It is unclear what the oldest formation here is, as the only comparandum, Germanic \*laþōną, is denominal to an unattested noun \*laþō \< \*h₂lóteh₂ "summons", which cannot be linked to Luwian _halta/i-_ (we would probably expect _halatta-_). \
+References: [EDHIL]\: 276 "_ḫalzai-<sup>i</sup>_ / _halzi-_"
+
+### <a id="halzissa">_halzissa-_ ~ _halziss-_ [i] "to cry out, call" (v)</a>
+An imperfective in [_-ss(a)-_](#ssa) to [_halzai-_ "to cry out"](#halzai), which both see for further etymology. \
+References: [EDHIL]\: 277 "_ḫalzišša-<sup>i</sup>_ / _ḫalzišš-_"
+
+### <a id="hamank">_hamank-_ ~ _hame/ink-_ [i] "to intertwine, betroth" (v)</a>
+Generally connected with Greek ἄγχω "to squeeze, strangle", Latin *angō* "to strangle, choke", Sanskrit _aṃhú-_ "narrow", and reconstructed \*h₂m-ón-ǵʰ- ~ \*h₂m-n̩-ǵʰ- by Kloekhorst (2008), but this is formally weak (there is no evidence for a nasal infix of this shape anywhere in Indo-European, nor for a nasal-infix inflecting according to the _hi_-conjugation), and as observed by Melchert (1984), it is semantically poor as well: _hamank-_ does not mean "to tie" or "to attach", but rather "to intertwine". The meaning "to betroth" is figurative from this. Moreover, PIE \*h₂enǵʰ- (not \*m) really means "to constrict", not "to tie up", hence the general development to denoting strangling. \
+We can mechanically reconstruct _hamank-_ as \*h₂₃(e/o-)mónK- ~ \*h₂₃(e/o-)menK-, where a connection to \*menk- "to knead" seems plausible. Melchert connects the _ha-_ element with Greek ὀ- in ὀκέλλω "drive (a ship) to land", but according to Beekes (2010) this likely does not exist. A connection with Sanskrit _ā-_ "towards" could still be possible, in which case it should be reconstructed \*h₂₃o-. Further uncertain. \
+References: [EDHIL]\: 278 "_ḫamank-<sup>i</sup>_ / _ḫame/ink-_", [EDG]\: 670 "κέλλω", [Melchert (1984)]
+
+### <a id="hammasa">_hammasa-_ [?] "?" (n)</a>
+Possibly a personal name. No etymology. \
+References: [EDHIL]\: 279 "_ḫammaša-_"
+
+### <a id="hamesha">_hamesha-_ [?] "spring" (n)</a>
+Derivatives: _hameshant-_ [c.] "spring" (n) \
+PIE \*h₂meh₁-sh₂o- "harvest" \
+_hamesha-_ and _hameshant-_ function synchronically as one word. The word likely contains the same _-sha-_ suffix as in [_tesha-_ "dream"](#tesha) and [_tammesha-_ "punishment"](#tammesha), leaving the root as _hame-_. On the basis of the use of the Sumerogram Ú.BAR₈ "harvest" to write this word, spring can be seen as the harvest season for the Hittites, and so a connection with \*h₂meh₁- "mow, reap" is fully justified. \
+References: [EDHIL]\: 279 "_ḫamešḫa-_"
+
+### <a id="hān">_hān-_ ~ _han-_ [i] "to draw (liquids)" (n)</a>
+Derivatives: _hanessar_ ~ _hanesn-_ [n.] "a vessel" (n) \
+PIE \*h₂en- "to draw out" \
+References: [EDHIL]\: 281 "_ḫān-<sup>i</sup>_ / _ḫan-_"
+
+### <a id="hanna-1">_hanna-_ ~ _hann-_ [i] "to sue; to judge" (n)</a>
+Derivatives: _hannessar_ ~ _hannesn-_ [n.] "lawsuit, case, trial" (n); _hannesnatar_ ~ _hannesnann-_ [n.] "jurisdiction" (n); _hanne/italwana-_ [c.] "legal advisory, litigator" (n); _hannitalwanēss-_ [zi] "to become a legal advisory" (v) \
+PIE \*h₃neh₃-(?) "to name(?)" \
+A connection with Greek ὄνομαι "to scold, blame, insult" is likely, but the exact reconstruction of the root is unclear. Kloekhorst (2008) assumes the verb must go back to \*h₃e-h₃nóh₃-ei ~ \*h₃e-h₃n̩h₃-énti under the assmption that \*h₃n assimilates to _nn_ before a stressed vowel, but this is his sole example of any such assimilation. I therefore regard this as ad-hoc. In view of the other verbs displaying _tarn(a)_-class inflection (strong stem ending in _a_, weak stem without), a preform \*h₃n̩-nó-h₃- ~ \*h₃n̩-n-h₃- (parallel to [_sannai_ "hides"](#sanna)) or \*h₃ónh₃- ~ \*h₃n̩h₃- (parallel to [_harrai_ "grinds"](#harra), [_iskallai_ "splits"](#iskall)) is most realistic. A further connection with PIE \*h₃néh₃mn̩ "name" would be possible if _hann(a)-_ continues \*h₃n̩-n(ó)-h₃- from a root \*h₃neh₃-. \
+References: [EDHIL]\: 282 "_ḫanna-<sup>i</sup>_ / _ḫann-_"
+
+### <a id="hanna-2">_hanna-_ [c.] "grandmother" (n)</a>
+Lyc. _χñna-_ "grandmother" \
+PAnat. \*ḫanna-
+PIE [\*h₂enhₓ-](../PIE/pie.md#h₂enhₓ-)
+References: [EDHIL]\: 285 "_ḫanna-_"
+
+### <a id="haniss">_hane/iss-_ [zi] "to wipe" (n)</a>
+Kloekhorst (2008) links this verb with [_āns-_ "to wipe"](#āns), but this is only possible with the loss of \*h₂ before \*o. No etymology. \
+References: [EDHIL]\: 285 "_ḫane/išš-<sup>zi</sup>_"
+
+### <a id="hanissā">_hane/issā-_ [c.], [n.] "a vessel" (n)</a>
+Derivatives: _hanissānni_ [n.] "a vessel" (n) \
+Kloekhorst (2008) regards this word as the original form of [_hanessar_](#hān), which was remodelled due to a folk-etymological association with _hāni_ "draw water". \
+References: [EDHIL]\: 286 "_ḫane/iššā-_"
+
+### <a id="haniya">_hāni(ya)-_ [?] "?" (n)</a>
+No etymology. \
+References: [EDHIL]\: 287 "_ḫani(i̯a)-_"
+
+### <a id="hant">_hant-_ [?] "forehead, front(age)" (n)</a>
+Derivatives: _hanza_ "in front" (adv); _hanzan_ "in front" (adv); _hanta_ "for the sake of, in view of" (adv); _hantas_ "for the sake of, regarding" (adv); _Hantassa-_ [c.] "deity of the forehead" (pn); _Hantasepa-_ [c.] "deity of the forehead" (pn); _hanti_ "opposite, against; instead; apart" (adv); _hantiyae-_ [zi] "to support(?)" (v); see also [_hantezziya-_](#hantezziya) \
+CLuw. _hantawat(i)-_ [c.] "supreme authority" (n); _hantawatahit-_ [n.] "kingship" (n); _hantil(i)-_ "first" (adj); _hanti(ya)-_ "headband" (n) \
+HLuw. **FRONS**-_ta/i-_, _ha-ta/i-_ [n.] "face, forehead" (n); **FRONS**-_ti-_ "first" (adj); **FRONS**-_la/i/u-_ "first, former; first, preeminent" (adj); **FRONS**-_la/i/u_ "foremost" (adv); **FRONS**-_ti_ "against" (adv); **FRONS**-_hi-t°-_ [n.] "preeminence" (n); **REX**-_ta/i-_ "king" (n); **REX**-_ra/i/ti-_ "royal" (adj); **REX**-_ta-hi-t°-_ [n.] "kingdom" (n); **REX**-_(wa/i-)ta-_ "to be(come) king(?)" \
+Lyc. _χñtawa-_ "to rule" (v); _χñtawata-_ "rule, kingship" (n); _χñtawat(i)-_ "ruler, king" (n); _χñtawati(je)-_ "of the ruler, royal" \
+PAnat. \*ḫant- \
+PIE [\*h₂ént-](../PIE/pie.md#h₂ent) \
+References: [EDHIL]\: 287 "_ḫant-_"
+
+### <a id="hantae">_hantae-_ [zi] "(trans.) to arrange (together), to prepare, to fix; to determine; (intr.) to get married; (midd.) to get fixed, to fit" (v)</a>
+Derivatives: _parā hantantātar_ [n.] "providence (of a deity)" (n); _parā hantantae-_ [zi] "to show providence" (v); _hantatt-_ [c.] "trust, determination" (n); _hantantiyala-_ [c.] "repairman(?)" (n) \
+Presumably derived from a noun \*_hanta-_, but no further etymology. \
+References: [EDHIL]\: 289 "_ḫantae-<sup>zi</sup>_"
+
+### <a id="hantais">_hanta(i)s-_ [c.] "heat" (n)</a>
+This word shows intractable formal problems, as it has a nom.sg. _hantais_ and dat.sg. _hantasi_ and _hantaisi_. Interpreting the latter form as an incorrectly-spelt gen.sg. _hantais_ does not help matters. No etymology. \
+References: [EDHIL]\: 291 "_ḫanda(i)š-_"
+
+### <a id="hantezziya">_hantezzi(ya)-_ "first, foremost" (adj)</a>
+Derivatives: _hantezzi_ "firstly; in front" (adv); _hantezziyaz_ "before; in front" (adv); _hantezzili_ "in earlier times" (adv); _hantezziyahh-_ [i] "to make foremost" (v); _hantezziyātar_ ~ _hantezziyann-_ [n.] "first position" (n) \
+A derivative of [_hant-_ "forehead"](#hant) with the suffix [_-(e)zzi(ya)-_](#ezziya). \
+References: [EDHIL]\: 292 "_ḫantezzi(i̯a)-_"
+
+### <a id="hanzana">_hanzana-_ "black" (adj), [c.] "web" (n)</a>
+Probably two homophones; three if it also denotes "a tool". Etymologies uncertain. \
+References: [EDHIL]\: 292 "_ḫanzana-_"
+
+### <a id="hanzāssa">_hanzāssa-_ [c.] "offspring" (n)</a>
+Originally the genitive adjective in [_-assa-_](#assa) of [_hāssa-_ "offspring"](#hāssa), which see for further etymology. \
+References: [EDHIL]\: 293 "_ḫanzāšša-_"
+
+### <a id="happ">_happ-_ [zi] "(act.) to join, attach; (midd., imp.) to arrange itself, to work out" (v)</a>
+Derivatives: _happessar_ ~ _happesn-_ [n.] "joint, limb, member, body part" (n); _happesnant-_ [c.] "id." (n); _happesnae-_ [zi] "(+ _arha_) to dismember" (v); see [_happu-_ "fence"](#happu) \
+Kloekhorst (2008) follows a connection with Latin _aptus_ "connected", but de Vaan glosses this as "tied", synchronically linked to _apiō_ "to tie, fasten", itself related to _apīscor_ "to seize", which is generally held to continue PIE \*h₁ep- "to take". Further unclear. \
+References: [EDHIL]\: 293 "_ḫapp-<sup>zi</sup>_", [EDL]\: 47 "_apīscor_, _-scī_"
+
+### <a id="hapa">_hapa-_ [c.] "river" (n)</a>
+Derivatives: _hapae-_ [zi] "to wet, moisten" (v); _hapāti-_ [c.] "river land(?)" (n) \
+Pal. _hāpna-_ [c.] "river" (n) \
+CLuw. _hāpa/i-_ [c.] "river" (n); _hāpinna/i-_ [c.] "little river, stream" (n) \
+HLuw. **FLUMEN**-_pa/i-_ [c.] "river" (n); _há-pa-ra/i-_, **FLUMEN**-_tà-i-_ [c.] "riverland" (n) \
+Lyc. _χba(i)-_ "to irrigate" (v) \
+PAnat. \*ḫábo-, \*ḫábn- \
+PIE [\*h₂ebʰ-n- "river"](../PIE/pie.md#h₂ebʰn) \
+References: [EDHIL]\: 294 "_ḫapa-_"
+
+### <a id="hāppar">_hāppar-_, _hāppir-_ [n.] "business, trade; compensation, payment, price" (n)</a>
+Derivatives: _hap(pa)rae-_, _happirae-_, _hap(pa)riye/a-_ [zi] "to trade, sell, deliver, dispense" (v), see [_hāppir(iy)a-_ "town"](#hāppiriya) \
+PIE \*h₃ép-r- \
+An r-stem to the PIE root \*h₃ep- "work, act". \
+References: [EDHIL]\: 295 "_ḫāppar-_ / _ḫāppir-_"
+
+### <a id="happina">_happina-_ "rich" (adj)</a>
+Derivatives: _happinant-_ "rich (person)" (adj); _happinahh-_ [i] "to enrich" (v); _happinēss-_ [zi] "to become rich" (v); _happinatt-_ [c.] "wealth" (n) \
+Related to [_hāppar-_ "trade"](#hāppar), from PIE \*h₃ep- "work, act". In particular, compare _happinant-_ with Latin _opulentus_ "rich". \
+References: [EDHIL]\: 296 "_ḫappina-_"
+
+### <a id="hāppiriya">_hāppiriya-_, _hāppira-_ [c.] "town" (n)</a>
+Derivatives: \*_hāppiriyasessar_ ~ \*_hāppiriyasesn-_ [n.] "town settlement" (n); \*_hāppiriyant-_ [c.] "town (personified)" (n) \
+Derived from [_hāppar-_ "trade"](#hāppar), thus denoting a place of trade. \
+References: [EDHIL]\: 297 "_ḫāppirii̯a-_, _ḫāppira-_"
+
+### <a id="happen">_happen-_, _happan-_ [?] "baking kiln, fire-pit, broiler (oven)" (n)</a>
+Kloekhorst (2008) takes the two stems attested for this word as ablaut variants, but the attested distribution hardly warrants this assumption (_happan-_ is only attested once, in the genitive, where _happen-_ is also found). Regarding etymology, the connection with Greek ὀπτός "baked", ὀπτάω "to bake" is unclear, as Beeks (2010) regards this word as potentially Pre-Greek. \
+References: [EDHIL]\: 297 "_ḫapn-_ / _ḫappen-_", [EDG]\: 1093 "ὀπτάω"
+
+### <a id="happu-1">_happu-_ "secret(?)" (adj)</a>
+A hapax, possibly related to [_happu-_ "cage"](#happu-2). \
+References: [EDHIL]\: 298 "_ḫappu-_"
+
+### <a id="happu-2">_happu-_ [?] "fence, railings, cage (within a pen)" (n)</a>
+Derivatives: _happutri-_ [n.] "leather part of harness" (n) \
+Possibly a u-stem related to [_happ-_ "to join, attach"](#happ). \
+References: [EDHIL]\: 298 "_ḫappu-_"
+
+### <a id="hapuri">_hapuri-_ [c.] "foreskin" (n)</a>
+No etymology. \
+References: [EDHIL]\: 298 "_ḫapuri-_"
+
+### <a id="hāpūsass">_hāpūsa(ss)-_ [n.] "shaft (of an arrow or reed); shin-bone" (n)</a>
+Derivatives: _hapūsessar_ [n.] "(arrow)shaft" (n) \
+No etymology. \
+References: [EDHIL]\: 299 "_ḫāpūsa(ss)-_"
+
+### <a id="hapuss">_hapus(s)-_ [zi] "to make up for, make up, bring after" (v)</a>
+Likely of Luwian origin. \
+References: [EDHIL]\: 299 "_ḫapus(s)-_"
+
+### <a id="harra">_harra-_ ~ _harr-_ [i] "to grind, spliter up (wood), crush (bread), (+ _arha_) destroy; (midd.) to go to waste, go bad" (v)</a>
+Derivatives: _harranu-_ [zi] "id."; see [_hārsi_ "to till the soil"] \
+CLuw. _harra-_ "to crush(?)" (v); _harra-_ "grindstone" (n) \
+HLuw. **ARHA** _ha-ra/i-_ "to destroy" (v) \
+PIE [\*h₂órh₃ey "to break (into pieces)"](../PIE/pie.md#h₂orh₃) \
+References: [EDHIL]\: 300 "_ḫarra-<sup>i</sup>_ / _ḫarr-_"
+
+### <a id="hāran">_hāran-_ [c.] "eagle" (n)</a>
+Derivatives: _hāranili_ "in eagle-fashion" (adv) \
+Pal. _haran-_ [c.] "eagle?" (n) \
+CLuw. _harran(i)-_ [c.] "_a kind of bird_" (n) \
+Lyc. _Xerẽi_ "_name of a dynasty_" (pn) \
+PAnat. \*ḫɑ́ron- \
+PIE [\*h₃éron- "eagle"](../PIE/pie.md#h₃eron) \
+Note that \*ɑ́ (\< \*e coloured by \*h₃) triggers Čop's law gemination in Luwian, unlike \*ó.
+References: [EDHIL]\: 301 "_ḫāran-_"
+
+### <a id="harrani">_harrani-_ [c.] "_an oracle-bird_" (n)</a>
+Likely of Luwian origin (see [_hāran-_](#hāran)). \
+References: [EDHIL]\: 302 "_ḫarrani-_"
+
+### <a id="hhari">_-hha(ri)_/_-hhahari_, _-hhat(i)_ "_1sg middle pres./pret._" (suff)</a>
+Lyc. _-χagã_ "_1sg middle pret._" (suff)\
+PAnat \*-ḫḫa(r), \*-ḫḫaḫa(r) \
+PIE \*-h₂e(r) \
+References: [EDHIL]\: 303 "_-ḫḫa(ri)_, _-ḫḫat(i)_"
+
+### <a id="hark-1">_har(k)-_ [zi] "to hold, have, keep" (v)</a>
+Derivatives: _harwant-_ [c.] "keeper, caretaker, nurse" (n) \
+PIE [\*h₂erk/ḱ- "to hold(?), protect(?)"](../PIE/pie.md#h₂erk) \
+I find it strange that the fortis \*k and not the lenis \*g, by all accounts geminate and singleton respectively by the time of pre-Hittite at least, would be lost between consonants. Perhaps this instead points to an older aspiration contrast, where the aspirated stop would fricate and be subsequently lost between consonants? Alternatively, Kloekhorst's account of the difference between _harzi_ "holds" and _harkzi_ "gets lost" may be incorrect. \
+References: [EDHIL]\: 304 "_ḫar(k)-<sup>zi</sup>_"
+
+### <a id="hark-2">_hark-_ [zi] "to get lost, lose oneself, disappear, perish" (v)</a>
+Derivatives: _harka_ [c.] "loss, perdition, destruction, ruin" (n); _harni(n)k-_ [zi] "to make disappear, ruin, wipe out, destroy" (v); _harkanu_ [zi] "to ruin, destroy" (v) \
+PIE [\*h₃erg- "to perish"](../PIE/pie.md#h₃erg) \
+References: [EDHIL]\: 306 "_ḫark-<sup>zi</sup>_"
+
+### <a id="harkai">_harki_ ~ _harkai_ "white, bright" (adj)</a>
+Derivatives: _harkanu-_ [zi] "to make white" (v); _harkiyēs-_ [zi] "to become white" (v) \
+PIE [\*h₂r̩ǵí- "white, bright"](../PIE/pie.md#h₂rǵi) \
+_harkanu-_ is derived directly from the root.
+References: [EDHIL]\: 307 "_ḫarki-_ / _ḫargai-_"
+
+### <a id="harkanau">_harkanau-_ [n.] "palm (of the hand), sole (of the foot)" (n)</a>
+PIE \*h₃r̩ǵ-nou- "palm" \
+Contra Kloekhorst, I don't think that initial \*h₃ would be lost before a _syllabic_ sonorant - he is incorrect to simply generalise its behaviour from before a consonantal sonorant. Therefore, the connection with \*h₃reǵ- "to stretch (the hand)" can be upheld. \
+References: [EDHIL]\: 308 "_ḫargnau-_"
+
+### <a id="harna">_harna-_ ~ _harn-_ [zi] "to sprinkle, drip, pour" (v)</a>
+Derivatives: _harnu-_ [zi] "to spray" (v); _harnāi-_ [c.] "tree-sap, resin(?)" (n) \
+No etymology. \
+References: [EDHIL]\: 308 "_ḫarna-<sup>zi</sup>_ / _ḫarn-_"
+
+### <a id="harnae">_harnae-_, _harniye/a-_ [zi] "to stir, churn, ferment, agitate, foment" (v)</a>
+Derivatives: _harnammar-_ [n.] "yeast, ferment" (n); _harnamniye/a-_ [zi] "to stir (up), churn, cause to ferment, incite" (v); _harnamniyasha-_ [c.] "stir, commotion" (n) \
+The stem _harnae-_ is probably older, given the derivatives, but it is hard to be sure. Likely denominal from an unknown noun \*_harna-_. No further etymology. \
+References: [EDHIL]\: 309 "_ḫarnae-<sup>zi</sup>_, _ḫarnii̯e/a-<sup>zi</sup>_"
+
+### <a id="harnāu">_harnāu-_ ~ _harnu-_ [c./n.] "birthing chair" (n)</a>
+Derivatives: _harnuwassi-_ "of the birthing chair" (adj) \
+PIE \*h₃(e)r-nou- \
+Possibly originally common gender, but it is hard to be certain. Related to [_hartu-_ "descendent"](#hartu), from PIE [\*h₃er- "rise"](../PIE/pie.md#h₃r). \
+References: [EDHIL]\: 310 "_ḫarnāu-_ / _ḫarnu-_"
+
+### <a id="harp">_harp-_ [ttari]; _harp-_ [zi] "to separate oneself and (re)associate elsewhere, change allegiance; to join with, take the side of; (trans.) to associate (someone) with; (+ _anta_) to combine, join together" (v)</a>
+Derivatives: _harpa/i-_ [c.] "(wood)pile, heap, mound" (n); _harpae-_ [zi] "to heap up" (v); _harpal(l)i-_ [n.] "heap, pile, stack" (n); _harpanalla/i-_ [c.] "rebel, turncoat" (n); _harpanalla_ "disloyally" (adv); _harpu_ in the expression _harpu sarupa lē iyasi_ "do not act helter-skelter" \
+PIE [\*h₃érbʰ-to "to change allegiance"](../PIE/pie.md#h₃erbʰ) \
+References: [EDHIL]\: 311 "_ḫarp-<sup>tta(ri)</sup>_; _ḫarp-<sup>zi</sup>_"
+
+### <a id="hārs">_hārs-_ [i] "to till (the soil)" (v)</a>
+Derivatives: _harsāwar_ ~ _harsaun-_ [n.] "tilled land" (n) \
+PIE \*h₂órh₃-s-ey \
+An s-present to the root found in [_harrai_ "crushes"](#harra). \
+References: [EDHIL]\: 312 "_ḫārš-<sup>i</sup>_"
+
+### <a id="harsar">_harsar_ ~ _harsn-_ [n.] "head; person; front; beginning" (n)</a>
+PIE \*h₃er-s-r̩ \
+Ultimately a derivative of [\*h₃r̩tó "has risen"](../PIE/pie.md#h₃r). \
+References: [EDHIL]\: 314 "_ḫaršar_ /_ḫaršn-_"
+
+### <a id="harsi">_harsi-_ ~ _harsai-_ [c.] "thick-bread" (n)</a>
+Derivatives: _harsiyala-_, _harsiyalli-_ [c.] "bread-server" (n); _harsiyall(i)-_ [n.] "breadbox, storage jar" (n); _harsi-_ [c.] "jar" (n); _harsiyallanni-_ [n.] "small jar" (n); _harsiyalli-_ [n.] "jar" (n); _harsiharsi-_ [c.] "thunderstorm; jar, pithos" (n) \
+Ultimately a derivative of [\*h₃r̩tó "has risen"](../PIE/pie.md#h₃r). \
+References: [EDHIL]\: 315 "_ẖarši-_ / _ḫaršai-_", 316 "_ḫaršiḫarši_"
+
+### <a id="hartakka">_hartakka-_ [c.] "bear" (n)</a>
+Derivatives: _hartak(k)a-_ [c.] "_a cult official, 'bear-man'_" (n) \
+PIE [\*h₂ŕ̩tḱo- "bear"](../PIE/pie.md#h₂rtḱo) \
+References: [EDHIL]\: 316 "_ḫartakka-_"
+
+### <a id="hartu">_hartu-_ [n.] "brood, descendance" (n)</a>
+CLuw. _hartu-_ "descendance" (n); _hartuwatt(i)-_ "descendant" (n) \
+HLuw. _ha-ra/i-tu-_ [c.] "descendant" (n) \
+PAnat. \*ḫɑ́rtu- \
+PIE [\*h₃ér-tu-](../PIE/pie.md#h₃ertu)
+References: [EDHIL]\: 316 "_ḫardu-_"
+
+### <a id="hharu">_-hharu_ "_1sg middle imperative_" (suff)</a>
+Transparently [_-hhari_ "_1sg middle present_"](#hhari) with the present tense _-i_ replaced with imperative [_-u_](#u).
+References: [EDHIL]\: 317 "_-ḫḫaru_"
+
+### <a id="haruwa">_haruwa-_ [c.] "road, path" (n)</a>
+CLuw. _harwa-_ [c.] "path" (n); _harwa-_ "to send(?)" (v); _harwanna/i-_ [c.] "little path" (n); _harwanni(ya)-_ "to send" (v) \
+HLuw. **VIA**-_wa/i-_ [c.] "road" (n); **VIA**-_wa/i-ta-_ [c.] "road" (n); _ha+ra/i-wa/i-ta-hi-ta₅-_ [n.] "wayfaring" (n); **VIA**-_wa/i-ni-_, _ha+ra/i-wa/i-ni-_ "to send" (v) \
+Of Luwian origin. The root is unclear. \
+References: [EDHIL]\: 317 "_ḫaruu̯a-_"
+
+### <a id="haruwanae">_haru(wa)nae-_ [zi] "to get light, to dawn" (v)</a>
+Presumably derived from a noun _haru(wa)na-_, but the only attestation of such a noun cannot have its meaning determined. Further unclear. \
+References: [EDHIL]\: 317 "_ḫaru(u̯a)nae-<sup>zi</sup>_"
+
+### <a id="hāss">_hāss-_ [c.] "ash(es); dust; soap" (n)</a>
+Derivatives: [_hāssā-_ "fireplace"](#hāssā) \
+PIE [\*h₂óh₁s- "ash"](../PIE/pie.md#h₂oh₁s) \
+References: [EDHIL]\: 318 "_ḫāšš-_"
+
+### <a id="hās-1">_hās-_ ~ _hass-_ [i] "to give birth (to), to beget, to procreate" (v)</a>
+Derivatives: _hassātar_ ~ _hassann-_ [n.] "begetting, birth, offspring, family" (n); _hassumar_ [n.] "begetting, genitals" (n); _hassannassa/i-_ [c.] "family member" (n); _has(sa)nu-_ [zi] "to bring to birth" (v); [_hāssa-_ "descendant"](#hāssa) (n); [_hassu-_ "king"](#hassu) (n) \
+HLuw. _ha-s°-_ "to beget" (v) \
+PAnat. \*ḫóss-ey \
+PIE \*h₂óms-ey \
+The singular of the verb reflects \*h₂ómsey, with \*ms > \*ss and then analogical lenition of the geminate to bring the verb into the nascent _āki_-class, following [Melchert (2012)], while the plural could reflect any of \*h₂omsénti (levelling of the singular stem), \*h₂emsénti (an archaic form if the \*h₂e-conjugation indeed had an e-grade plural), or \*h₂m̩sénti with levelling of the \*ss cluster from the singular between the assimilation and lenition. _hassātar_ ~ _hassann-_ is a regular abstract noun from the synchronic weak stem. _hassumar_ (genitive _hassumas_) is probably a _-war_ ~ _-wan-_ derivative from the same stem that gave HLuwian _ha-su-_ "family", but note that the expected preform, Proto-Anatolian \*ḫassu-, is the same as for _hassu-_ "king". Perhaps these are the same word, originally "that which begets".
+References: [EDHIL]\: 319 "_ḫāš-<sup>i</sup>_ / _ḫašš-_"
+
+### <a id="hās-2">_hās-_ ~ _hass-_ [i], _hēs-_ ~ _hess-_ [zi] "to open" (v)</a>
+Unknown etymology. [_āska-_ "gate"](#āska) can only be related if you assume loss of \*h₂ before \*o.
+References: [EDHIL]\: 321 "_ḫāš-_ / _ḫašš-_, _ḫēš-_ / _ḫešš-_"
+
+### <a id="hāssā">_hāssā-_ [c.] "fireplace, hearth" (n)</a>
+CLuw. _hassanitt(i)-_ [c.] "hearth" (n) \
+PIE [\*h₂óh₁s-h₂](../PIE/pie.md#h₂oh₁sh₂) \
+References: [EDHIL]\: 322 "_ḫāššā-_"
+
+### <a id="hāssa">_hāssa-_ [c.] "descendant" (n)</a>
+Derivatives: [_hanzāssa-_ "descendant"](#hanzāssa) \
+CLuw. _hamsa/i-_ [c.] "grandchild" (n); _hamsukkalla/i-_ [c.] "great-grandchild" (n) \
+HLuw. _ha-ma-s°-_ [c.] "grandchild" (n); _ha-ma-su-ka-la-_ [c.] "great-grandson" (n) \
+Lyd. _eśa-_ "offspring" (n) \
+Lyc. _χahba-_ "grandchild" (n) \
+PAnat \*ḫm̩so- \
+A pre-Proto-Anatolian derivative of the verb [_hāsi_ "begets"](#hās-1) \< \*h₂ómsey. _hanzāssa-_ and the Luwian words point to zero-grade in the root, as a full-grade would have led to assimilation in the cluster \*ms. The Hittite form, _hāssa-_, may well be the reflex of such a full-grade form, from a root-noun paradigm, or it may have been created secondarily from the verb. \
+References: [EDHIL]\: 323 "_ḫāšša-_"
+
+### <a id="hassikk">_hassikk-_ [zi] "to satiate oneself, to be satiated" (v)</a>
+Derivatives: _hassik(ka)nu-_ [zi] "to satiate, to saturate with, to steep (in)" (v); _hassikk(a)-_ [c./n.] "_a tree and its fruit_" (n) \
+No etymology. \
+References: [EDHIL]\: 324 "_ḫaššikk-<sup>zi</sup>_"
+
+### <a id="hastāi">_hastāi-_ ~ _hasti-_ [n.] "bone(s); strength; _a measure of length_" (n)</a>
+Derivatives: _hastili(ya)-_ "stout, brave, heroic" (adj), "hero" (n); _hasteliyant-_ "brave" (adj); _hasti/aliyatar_ [n.] "heroic bearing, heroism, bravery" (n); _hastalēss-_ [zi] "to become brave, to turn warlike" (v); [_tānhasti-_ "double-bone"](#tānhasti) \
+CLuw. _hās-_ "bone" \
+HLuw. _ha-s°-_ "force(?)" \
+PAnat. \*ḫɑst(?), \*ḫ(ɑ)stʔ-ói- \
+PIE [\*h₃esth₁-](../PIE/pie.md#h₃esth₁) \
+The Luwian forms seem to show a root noun (also found in Latin _os_) while Hittite shows an i-stem (also found in Greek ὀστέον). \
+References: [EDHIL]\: 325 "_ḫaštāi-_ / _ḫašti-_"
+
+### <a id="hastera">_haster(a)-_ [c.] "star" (n)</a>
+PIE [\*h₂stḗr](../PIE/pie.md#h₂stēr) \
+References: [EDHIL]\: 326 "_ḫašter(a)-_"
+
+### <a id="hastuer">_hastuer-_ [n.] "twig(s), brushwood" (n)</a>
+This word is likely somehow connected to Greek ὄζος "twig, branch", Armenian _ost_ "twig, branch", Proto-Germanic \*astaz "branch", Proto-Celtic \*odbos "knot", Sanskrit _ádga-_ "knot", and so on, but the relation between all forms is difficult. \
+References: [EDHIL]\: 326 "_ḫašduer-_"
+
+### <a id="hassu">_hassu-_ [c.] "king" (n)</a>
+Derivatives: \*_hassussara_- [c.] "queen" (n); _hassuē-_ [zi] "to become king" (v); \*_hassuezzi-_ [n.] "royal status" (n); \*_hassuezziye/a-_ [ttari] "to become king" (v); \*_hassuezna-_ "royalty" (n); \*_hassueznae-_ [zi] "to be king" (v); \*_hassueznatar_ ~ \*_hassueznann-_ [n.] "kingship" (n) \
+HLuw. _ha-su-_ "family" (n) \
+PAnat. \*ḫássu- "that which begets" \
+PIE [\*h₂éms-u-](../PIE/pie.md#h₂emsu) \
+A derivative of the verb [_hāsi_ "begets"](#hās-1) \
+References: [EDHIL]\: 327 "_ḫaššu-_"
+
+### <a id="hāt">_hāt-_ ~ _hat-_ [i] "to dry up, become parched" (v)</a>
+Derivatives: _hatēss-_ [zi] "to become dry" (v); _hatnu-_ [zi] "to cause to dry up" (v) \
+PIE [\*h₂ód-ey "to dry up"](../PIE/pie.md#h₂od) \
+References: [EDHIL]\: 328 "_ḫāt-<sup>i</sup>_ / _ḫat-_"
+
+### <a id="hatt">_hatt-_ [ari], _hazziye/a-_ [zi] "to pierce, prick, stab, hit (a target), engrave (a tablet)" (v)</a>
+Derivatives: [_hattalla-_ "club"](#hattalla); _hattanna/i-_ [i] "id. (impf)" (v); [_hattant-_ "intelligent"](#hattant); _hattessar_ ~ _hattesn-_ [n.] "perforation, hole" (n); _hazziyassar_ [n.] "perforation" (n); [_hatrae-_ "to write"](#hatrae) \
+Lyc. _χtta(i)-_ "to harm, do violence to" (v) \
+PAnat. \*ḫ(a)t-
+References: [EDHIL]\: 330 "_ḫatt-<sup>a(ri)</sup>_, _ḫazzii̯e/a-<sup>zi</sup>_"
+
+### <a id="hattalla">_hattalla-_ [n.] "club, mace" (n)</a>
+HLuw. _ha-ta-li-_ ~ _ha-ta-la-i-_ "to smite" (v) \
+A derivative of [_hattari_ "pierces"] likely of Proto-Anatolian age. \
+References: [EDHIL]\: 332 "_ḫattalla-_"
+
+### <a id="hattalu">_hattalu-_ [n.] "bolt, lock" (n)</a>
+Derivatives: _hattalwae-_ [zi] "to bolt, lock" (v); _hattalwala-_ [c.] "lockman, doorguard" (n) \
+Uncertain etymology. \
+References: [EDHIL]\: 332 "_ḫattalu-_"
+
+### <a id="hattant">_hattant-_ "intelligent, clever, wise" (adj)</a>
+Derivatives: _hattahh-_ [i] "to make clever, instruct" (v); _hattātar_ ~ _hattann-_ [n.] "intelligence, counsel, wisdom" \
+Derived from [_hatt-_ "to pierce"](#hatt), via the common semantic development "sharpness" → "intelligence". \
+References: [EDHIL]\: 333 "_ḫattant-_"
+
+### <a id="hatantiya">_hatantiya-_ [?] "dry land" (n)</a>
+Likely an inner-Hittite derivative from the participle _hatant-_ "dried up" of [_hāt-_ "to dry up"](#hāt). \
+References: [EDHIL]\: 333 "_ḫatantii̯a-_"
+
+### <a id="hattara">_hattara-_ [n.] "prick, awl" (n)</a>
+Derivatives: _hattarae-_ [zi], _hattariye/a-_ [ttari] "to prick, incise" (v); _hattaressar_ ~ _hattaresn-_ [n.] "intersection, crossroad" (n) \
+CLuw. _hattara-_ "hoe" (n); _hattari(ya)-_ "to hoe" (v) \
+Ultimately a derivative of [_hatt-_ "to pierce"](#hatt), likely of Proto-Anatolian date. \
+References: [EDHIL]\: 333 "_ḫattara-_"
+
+### <a id="hatk">_hatk-_ [i] "to shut, close" (v)</a>
+Derivatives: _hatkanu-_ [zi] "to make tight, put pressure on" (v); _hatkesnu-_ [zi] "id." (v); _hatku-_ ~ _hatkau-_ "tight, pressed, stressful" (adj); _hatkuēss-_ [zi] "to become tight" (v) \
+PIE [\*h₂ódʰgʰ/ǵʰ-ey "to be tight"](../PIE/pie.md#h₂odʰgʰ) \
+The derivatives point to an original meaning "to be tight". \
+References: [EDHIL]\: 334 "_ḫatk-<sup>i</sup>_"
+
+### <a id="hatrae">_hatrae-_ [zi] "to write, report, declare, order" (v)</a>
+Derivatives: _hatriyessar_ [n.] "written message, decree" \
+HLuw. _ha-t°-_ "to write" (v); _ha-tu-ra-_ "letter" (n) \
+Probably a derivative of an unattested noun _hatra-_ "writing", itself a derivative of [_hatt-_ "to pierce"](#hatt). HLuwian _hat-_ is likewise a cognate of the verb, with _hatura-_ likely a thematised infinitive. \
+References: [EDHIL]\: 335 "_ḫatrae-<sup>zi</sup>_"
+
+### <a id="hatuk">_hatuk-_ [zi] "to be terrible" (v)</a>
+Derivatives: _hatūka-_, _hatuki-_ [n.] "terrible (deed), fearsome" (adj/n); _hatukātar_ ~ _hatukann-_ [n.] "terror, awesomeness" (n); _hatukēss-_ [zi] "to become terrible" (v); _hatukanu-_ [zi] "to terrify" (v) \
+PIE [\*h₂tug/ǵ- "to be terrifying(?)"](../PIE/pie.md#h₂tug) \
+References: [EDHIL]\: 336 "_ḫatuk-<sup>zi</sup>_"
+
+### <a id="hāwi">_hāwi-_ [c.] "sheep" (n)</a>
+Derivatives: _hawiyassi-_ "sheep-like" (adj) \
+CLuw. _hāwi-_ [c.] "sheep" (n) \
+HLuw. _há-wá/í-_ [c.] "sheep" (n) \
+Lyc. _χawa-_ [c.] "sheep" (n) \
+PAnat. \*ḫó/áwi- \
+PIE [\*h₂ówi-](../PIE/pie.md#h₂owi) \
+References: [EDHIL]\: 337 "_ḫāu̯i-_"
+
+### <a id="hekur">_hekur_ [c.] "rock-sanctuary" (n)</a>
+Ultimately a loan from Sumerian É.KUR "mountain house". \
+References: [EDHIL]\: 339 "_ḫekur_"
+
+### <a id="henkan">_henkan-_ [n.] "death, doom, deadly disease, plague" (n)</a>
+A derivative of [_hai(n)k-_ "to bestow"](#haink). \
+References: [EDHIL]\: 339 "_ḫenkan-_"
+
+### <a id="hēu">_hēu-_, _hē(y)aw-_ [c.] "rain" (n)</a>
+Derivatives: _hē(ya)waniye/a-_ [zi] "to rain" (v); _heyawalla/i-_ "rain-gutter" (n) \
+Possibly connected with Greek αἰονάω "to moisten" but the details are unclear. \
+References: [EDHIL]\: 341 "_ḫēu-_ / _hē(i̯)au̯-_"
+
+### <a id="hhi">_-hhi_, _-hhe_ "_1sg active present_" (suff)</a>
+PAnat \*-ḫḫai
+PIE \*-h₂e-i
+The 1sg active present of the hi-conjugation. The older form was _-hhe_, but was quickly changed to _-hhi_ on the analogy of the mi-conjugation endings, where _-i_ had been abstracted as the present tense marker.
+References: [EDHIL]\: 341 "_-ḫḫi_"
+
+### <a id="hīla">_hīla-_ [c.] "courtyard; halo" (n)</a>
+Derivatives: _hilae-_ [zi] "to be haloed, to have a halo" (v); _hilatar_ ~ _hilann-_ [n.] "yard" (n); _hilammar_ ~ _hilamn-_ [n.] "gate building, gatehouse, portal" (n); _hilammi-_ [c.] "courtier" (n); _hilammatta-_ [c.] "_a functionary_" (n); _hilammili_ "in a _h._ fashion" (adv); _hilam(min)ni-_ [c.] "courtier(?)" \
+HLuw. **PORTA**-_la-na-_ [n.] "gate-house" (n) \
+Perhaps a _Wanderwort_, cf. Akkadian _bīt hilāni_ "room with a portico", unless this is itself a Hittite loan. No further etymology. \
+References: [EDHIL]\: 342 "_ḫīla-_"
+
+### <a id="himma">_himma-_ [c.] "imitation, subtitute, replica" (n)</a>
+Derivatives: _himmalli-_ [c.] "imitator" \
+PIE \*h₂im-no- \
+References: [EDHIL]\: 343 "_ḫimma-_"
+
+### <a id="hinik">_hinik-_ [tari] "to deluge?" (v)</a>
+Only attested twice in the 3sg present middle _hinikta_, so the meaning is obscure. Possibly an n-infixed present to a root \*HeyK-/\*HyeK-, but no further etymology. \
+References: [EDHIL]\: 344 "_ḫinik-<sup>tta(ri)</sup>_"
+
+### <a id="hippara">_hippara-_ [c.] "serf" (n)</a>
+Not with [_hāppar-_ "trade"](#hāppar). No etymology. \
+References: [EDHIL]\: 345 "_ḫippara-_"
+
+### <a id="hissa">_hissa-_ [c.] "carriage pole" (n)</a>
+PIE [\*Hₓ(o)iHₓ-s-](../PIE/pie.md#HₓoiHₓs) \
+References: [EDHIL]\: 346 "_ḫišša-_"
+
+### <a id="histā">_histā_, _histī_ [n.] "mausoleum?" (n)</a>
+Derivatives: _histum(n)a-_ [c.] "person pertaining to the _histā_" (n) \
+Probably a loanword. \
+References: [EDHIL]\: 346 "_ḫištā_, _ḫištī_"
+
+### <a id="huek-1">_huek-_ ~ _huk-_ [zi] "to conjure, treat by incantation" (v)</a>
+Derivatives: _hukmai-_ ~ _hukmi-_ [c.] "conjuration" (n); _hukmatalla-_ [c.] "conjurer" (n); _hukanna/i-_ [i] "to conjure (impf)" (v) \
+Perhaps connected to Greek αὐχέω "to boast, brag", but this is uncertain. \
+References: [EDHIL]\: 347 "_ḫuek-<sup>zi</sup>_ / _ḫuk-_"
+
+### <a id="huek-2">_huek-_ ~ _huk-_ "to slaughter, butcher" (v)</a>
+Derivatives: _hukessar_ ~ _hukesn-_ [n.] "slaughtering" (n); [_hunink-_ "to batter"](#hunink) \
+Connected with Old Persian _vaǰ-_ "to stab". \
+References: [EDHIL]\: 348 "_ḫuek-<sup>zi</sup>_ / _ḫuk-_"
+
+### <a id="huett">_huett-_ [ttari] ~ _huetti-_ [ari], _huttiye/a-_ [zi] "to draw, pull, pluck" (v)</a>
+Derivatives: _hu(i)ttiyanna/i-_ [i] "id. (impf)" (v); _huttulli-_ [n.] "strand of wool" (n) \
+The reconstruction of this verb is complicated, and so no etymology will be claimed here. \
+References: [EDHIL]\: 349 "_ẖuett-<sup>tta(ri)</sup>_ / _huetti-<sup>a(ri)</sup>_; _huttii̯e/a-<sup>zi</sup>_"
+
+### <a id="huhha">_huhha-_ [c.] "grandfather" (n)</a>
+Derivatives: _huhhant-_ [c.] "(great-)grandfather" (n) \
+CLuw. _hūha-_ "grandfather" (n); _huhatalla/i-_ "ancestral" (adj) \
+HLuw. **AVUS**-_ha-_, _hu-ha-_ [c.] "grandfather" (n); **AVUS**-_ha-t°-_ [c.] "(great-)grandfather(?)" (n); **AVUS**-_ti-ia-_ "of the grandfather" (adj); **AVUS**-_ha-tu-l°-_ [c.] "great-great-grandfather(?)" (n) \
+Lyc. _χuge-_ "grandfather" (n) \
+PAnat. \*ḫáuḫ- ~ \*ḫuḫḫ-
+PIE [\*h₂éwh₂- "grandfather"](../PIE/pie.md#h₂ewh₂) \
+The single _h_ of the Luwian words matches the _g_ of the Lycian, pointing to a lenited laryngeal following an accented diphthong, contrasting with the geminiate _hh_ of the Hittite forms, which would originate in a zero-grade. This indicates that the thematic stems across Anatolian are an innovation from a root noun. \
+References: [EDHIL]\: 352 "_ḫuḫḫa-_"
+
+### <a id="huis">_huis-_ ~ _hus-_ [zi] "to live, survive" (v)</a>
+Derivatives: _husnu-_, _huisnu-_, _huesnu-_ [zi] "to make recover; to rescue; to spare" (v); _hu(i/e)su-_ ~ _hui/esau-_ "fresh, raw" (adj); _huswe/a-_, _huiswe/a-_ [zi] "to stay alive, be alive, survive" (v) \
+HLuw. _HWI-sà-ra/i-_ [n.] "game, wild beasts" (n); _HWI-sá-na-ma-ya_ "?" (n) \
+PIE [\*h₂wes- "to dwell"](../PIE/pie.md#h₂wes) \
+References: [EDHIL]\: 353 "_ẖuiš-<sup>zi</sup>_ / _ḫuš-_"
+
+### <a id="huitar">_huitar_ ~ _huitn-_ [n.] "game, wild animals" (n)</a>
+Derivatives: _huitnaima-_ "?" (n) \
+CLuw. _huitar_ ~ _huitn-_ [n.] "game, wild animals" (n); _huitumar_ ~ _huitumn-_ [n.] "life" (n); _huitumnāhit-_ [n.] "vitality, liveliness" (n); _huitwal(i)-_ "alive, living" (adj); _huitwalāhit-_ [n.] "life" (n); _huitwaliya-_ "of a living person" (adj); _huitwaluwar_ [n.] "being alive" (n) \
+HLuw. _HWI-tara/i-_ [n.] "game, wild animals" (n); _HWI-tà-ni-ya-_ "of the wild animals(?)" (adj) \
+PIE [\*h₂wid-r̩ "creature"](../PIE/pie.md#h₂widr) \
+References: [EDHIL]\: 355 "_ḫuitar_ / _ḫuitn-_"
+
+### <a id="hulāli">_hulāli-_ [n.] "distaff" (n)</a>
+Derivatives: _hulāliye/a-_ [zi] "to entwine, encircle" (v); _hulaliessar_ ~ _hulaliesn-_ [n.] "encirclement" (n); _hulhuliye/a-_ [zi] "to embrace, wrestle" (v); _hulhul(iy)a-_ "wrestling" (n) \
+Likely related to [_hulana-_ "wool"](#hulana) and _huliya-_ "wool". \
+References: [EDHIL]\: 356 "_ḫulāli-_"
+
+### <a id="hulana">_hulana-_ [c.] "wool" (n)</a>
+Derivatives: _huliya-_ [c.] "wool" (n) \
+CLuw. \*_hulana/i-_ [c.] "wool" (n) \
+A connection with the pan-IE "wool" word is possible, but the details require elaborating first. Independent thematisations of an n-stem in Anatolian and the rest of IE may solve the discrepency. \
+References: [EDHIL]\: 357 "_ḫulana-_"
+
+### <a id="hulle">_hulle-_ ~ _hull-_ [zi] "to smash, defeat" (v)</a>
+Derivatives: _hullātar_ [n.] "infliction" (n); _hullumar_ [n.] "defeat" (n); _hullanza-_ [c.] "defeat" (n); _hullanzai-_ [c.] "infliction, defeat" (n); _hullanzatar_ ~ _hullanzann-_ [n.] "infliction, defeat" (n); _hullanzessar_ ~ _hullanzesn-_ [n.] "infliction" (n) \
+PIE [\*h₂wl̩néh₁- "to rule"](../PIE/pie.md#h₂wlneh₁) \
+References: [EDHIL]\: 358 "_ḫulle-<sup>zi</sup>_ / _ḫull-_"
+
+### <a id="hulukanni">_hulukanni-_ [c.] "coach, carriage" (n)</a>
+Probably an unknown loanword. \
+References: [EDHIL]\: 360 "_ḫulukanni-_"
+
+### <a id="hūmant">_hūmant-_ "every, each, all; whole, entire" (adj)</a>
+Perhaps to be segmented as _hū-want-_ (with regular \*w > _m_ adjacent to _u_). The element _hū-_ can be compared with Sanskrit _ubhá-_ "both" and _u_ "and". \
+References: [EDHIL]\: 361 "_ḫūmant-_"
+
+### <a id="hhun">_-hhun_ "_1sg active preterite_" (suff)</a>
+Pal. _-hha_ \
+CLuw. _-(h)ha_ \
+Lyc. _-χa_ \
+PAnat \*-(ḫ)ḫa \
+PIE \*-h₂e
+The inherited 1sg active preterite of the hi-conjugation, extended with the 1sg active preterite _-un_ of the mi-conjugation. \
+References: [EDHIL]\: 362 "_-ḫḫun_"
+
+### <a id="hunink">_huni(n)k-_ [zi] "to batter, bash, crack" (v)</a>
+A nasal-infix present to [_huek-_ "to slaughter"](#huek-2). \
+References: [EDHIL]\: 363 "_ḫuni(n)k-<sup>zi</sup>_"
+
+### <a id="huntariyai">_huntariya(i)-_ [ttari] "to break wind, fart" (v)</a>
+Derivatives: _huntarnu-_ [zi] "to grunt (of pigs)" (v); _huntarriamma-_ "grunting (of pigs)" (adj) \
+A derivative in _-ariye/a-_ of [_huwant-_ "wind"](#huwant). \
+References: [EDHIL]\: 363 "_ḫuntarii̯a(i)-<sup>tta(ri)</sup>_"
+
+### <a id="hurki">_hurki-_ [c.] "wheel" (n)</a>
+PIE [\*h₂werg- "to turn, bend"](../PIE/pie.md#h₂werg) \
+References: [EDHIL]\: 364 "_ḫurki-_"
+
+### <a id="hurkil">_hurkil-_ [n.] "perversity" (n)</a>
+CLuw. _hurkil-_ "perversion" (n) \
+Probably not related to [_hurki-_ "wheel"](#hurki), while a connection with OE _wyrgan_ "to strangle", Lith. _veržiù_ "to tie in", OCS _-vrьzǫ_ "to bind" is semantically satisfactory, but the distribution does raise questions. \
+References: [EDHIL]\: 364 "_ḫurkil-_"
+
+### <a id="huske">_huske/a-_ [zi] "to wait for, linger" (v)</a>
+Derivatives: _huskewant-_ [c.] "dawdler" (n) \
+If loss of \*h₂ before \*o is accepted, then this could be the fossilised imperfective of [_au-_ "to see"](#au). It could alternatively be from [_huis-_ "to live"](#huis). \
+References: [EDHIL]\: 365 "_ḫuške/a-<sup>zi</sup>_"
+
+### <a id="hhut">_-hhut_ "_2sg middle imperative_" (suff)</a>
+Unclear. \
+References: [EDHIL]\: 365 "_-ḫḫut_"
+
+### <a id="hūda">_hūta-_ [c./n.] "readiness, ability to act swiftly" (n)</a>
+Derivatives: _hutāk_ "straightaway, immediately, suddenly" (adv) \
+CLuw. _hutarl(iy)a-_ [c.] "servant" (n) \
+The Luwian word may or may not be cognate. A relation to [_huwai-_ "to run"](#huwai) seems plausible, with the same suffix \*-d- (or rather \*-dh₃-o- as "giving"?) as Lith. _vėdìnti_ "to air, cool", OHG _wāzan_ "to blow (of the wind)". \
+References: [EDHIL]\: 365 "_ḫūda-_"
+
+### <a id="huwai">_huwai-_ ~ _hui-_ [i] "to run, hurry; to spread (of vegetation)" (v)</a>
+Derivatives: _huinu-_, _hunu-_ [zi] "to make run" (v); _peran hūiyatalla-_ [c.] "head marcher, helper" (n); [_huwantalae-_ "to spare"](#huwantalae) \
+CLuw. _hui(ya)-_ "to run" (v); _hu(i)huiya-_ "to run" (v) \
+HLuw. _HWI-ia-_ "to run" (v); _HWI-HWI-_ "to run, march" (v) \
+PIE [\*h₂weh₁- "to blow (of the wind)"](../PIE/pie.md#h₂weh₁) \
+References: [EDHIL]\: 366 "_ẖuu̯ai-<sup>i</sup>_ / _ḫui-_"
+
+### <a id="huwant">_huwant-_ [c.] "wind" (n)</a>
+Derivatives: [_huwantalae-_ "to spare"](#huwantalae) \
+PIE [\*h₂wéh₁n̩t- ~ \*h₂uh₁ént- "wind"](../PIE/pie.md#h₂weh₁nt) \
+References: [EDHIL]\: 368 "_ḫuu̯ant-_"
+
+### <a id="huwantalae">_huwantalae-_, _hultalae-_ [zi] "to spare" (v)</a>
+A compound of either the participle of [_huwai-_ "to run"](#huwai) or [_huwant-_ "wind"](#huwant) with a derivative of [_lā-_ "to let"](#lā), presumably some a-stem as _huwantalae-_ is a denominal verb. \
+References: [EDHIL]\: 368 "_ḫuu̯antalae-<sup>zi</sup>_"
+
+### <a id="huwapp">_huwapp-_ ~ _hupp-_ [i] "to hurl, throw (+acc); to be hostile towards, do evil against (+dat)" (v)</a>
+Derivatives: _hūppa-_ "heap" (n); _huppae-_ [zi] "to heap, pile up" (v); _hūpala-_ "fish-net" (n); _huwappa-_ "evil, ill, bad" (adj); _huwappanatar_ ~ _huwappanann-_ [n.] "evilness" (n) \
+HLuw. _HWI-pa-sa-nu-_ "to cause harm" (v) \
+PIE [\*h₂wóp- ~ \*h₂up- "to throw"](../PIE/pie.md#h₂wop) \
+Whereas Kloekhorst gives the two major senses of this verb as separate lemmas, I have chosen to list them together, as he himself demonstrates that "do evil against" is a semantic development of "throw", evidently already in PIE times to judge by Proto-Germanic \*ubilaz "evil" < \*h₂upélos. Note that there is no reason to assume a final laryngeal in this verb, as \*ó does not lenite a following stop (cf. Melchert 2012). \
+References: [EDHIL]\: 369 "_ḫuu̯app-<sup>i</sup>_ / _ḫupp-_", [Melchert (2012)]
+
+### <a id="huwarn">_huwarn-_, _hurn-_ "to hunt" (v)</a>
+Due to poor attestation, this verb is difficult to analyse, and therefore cannot be provided with a secure etymology. \
+References: [EDHIL]\: 372 "_ḫuu̯arn-_ / _ḫurn-_"
+
+### <a id="huwart">_huwart-_ ~ _hurt-_ [i] "to curse" (v)</a>
+Derivatives: _hurtāi-_ ~ _hurti-_ [c.] "curse" (n) \
+Formally a connection with Latin _verbum_, Lithuanian _var̃das_, Old Prussian _wirds_, Proto-Germanic \*wurdaz, deriving from a root \*h₂werdʰ-, is thinkable, but the semantics are difficult. On the other hand, Old Prussian _wertemmai_ "we swear" is semantically a better fit, pointing to \*h₂wert-, but no other cognates are known. Further uncertain. \
+References: [EDHIL]\: 372 "_ḫuu̯art-<sup>i</sup>_ / _ḫurt-_"
+
 
 <!-- References -->
 [EDHIL]: ./references.md#Kloekhorst-2008 "Etymological Dictionary of the Hittite Inherited Lexicon (Kloekhorst 2008)"
