@@ -37,7 +37,7 @@ If the word has any derivatives, they should be listed one derivative per line, 
 
 ## Cognates and Descendents
 
-If the main entries are for a single exemplar language within a branch (e.g. Latin for Italic, or Hittite for Anatolian), typically because the other languages within the branch are not sufficiently well-attested to allow the branch's common ancestor to be used with certainty, then cognate lemmas from the other languages within the branch can be given in this part of an entry, with a class and translation formatted as detailed in the prior section, and separated by semicolons (`;`) if there are multiple relevant words. The language name (or an abbreviation thereof) should be at the beginning of the line.
+If the main entries are for a single exemplar language within a branch (e.g. Latin for Italic, or Hittite for Anatolian), typically because the other languages within the branch are not sufficiently well-attested to allow the branch's common ancestor to be used with certainty, then cognate lemmas from the other languages within the branch can be given in this part of an entry, with a class and translation formatted as detailed in the prior section, and separated by semicolons (`;`) if there are multiple relevant words. The language name (or an abbreviation thereof) should be at the beginning of the line. If the class or translation match those of the entry, then they can be left out.
 
 Alternatively, if the main entries are for the reconstructed ancestor of the entire branch (e.g. Proto-Germanic or Proto-Celtic, or Proto-Indo-European itself), then the above can be followed except with all the languages within the branch.
 
