@@ -10,7 +10,7 @@ lemma [class] "translation"
 Derivatives:
 - derivative
 - ...
-Descendents:
+Descendants:
 - Lang lemma [class] "translation"; ...
 - ...
 Cognates:
@@ -25,7 +25,7 @@ References: reference, ...
 
 ## Lemma, Class, and Translation
 
-The lemma should be given in some standardised form, though this may vary from language to language. If multiple paradigmatic stems need to be given, they should be separated by a tilde (`~`), e.g. "arai- ~ ari-". Alternating segments should be separated by a slash (`/`), e.g. "hame/ink", and optional segments should be enclosded in brackets (`(...)`), e.g. "as(sa)nu-". Any other set of alternate forms, including multiple paradigms, should be separated by commas (`,`), e.g. "ark-, ārk- ~ ark-". If the lemma is for a reconstructed language, it should be prefixed by an asterisk (`*`).
+The lemma should be given in some standardised form, though this may vary from language to language. If multiple paradigmatic stems need to be given, they should be separated by a tilde (`~`), e.g. "arai- ~ ari-". Alternating segments should be separated by a slash (`/`), e.g. "hame/ink", and optional segments should be enclosed in brackets (`(...)`), e.g. "as(sa)nu-". Any other set of alternate forms, including multiple paradigms, should be separated by commas (`,`), e.g. "ark-, ārk- ~ ark-". If the lemma is for a reconstructed language, it should be prefixed by an asterisk (`*`).
 
 The class of a stem or paradigm should be given immediately after the form(s), and should include both information about the part of speech, and which inflection type the stem falls into, e.g. "apā- ~ apū- [pron]", "harsi- ~ harsai- [c. n]". If there are multiple stems or paradigms of different classes, each one should be marked with its own class, e.g. "hās- ~ hass- [i v], hēs- ~ hess- [zi v]". If variation in class is found, variants can be separated with a slash (`/`), e.g. "harnāu- ~ harnu- [c./n. n]". Uncertainty in class assignment should be indicated with a question mark (`?`), e.g. "akutalla- [? n]".
 
@@ -35,7 +35,7 @@ The translation of a stem should be given in double-quotes (`"..."`). Multiple s
 
 If the word has any derivatives, they should be listed one derivative per line, with each line starting with "- ". Each derivative should be its own entry, linked to by a special markup tag. Its format is `@word[LANG lemma]`. `LANG` is a short (3-5 characters) code in all-caps referring to the language, while `lemma` is the chosen citation form of the word. Homonyms should be disambiguated by including a subscript numeral. Class and translation do not need to be provided with a link, as when the presentation forms of the dictionaries are generated, they will be inserted automatically.
 
-## Cognates and Descendents
+## Cognates and Descendants
 
 If the main entries are for a single exemplar language within a branch (e.g. Latin for Italic, or Hittite for Anatolian), typically because the other languages within the branch are not sufficiently well-attested to allow the branch's common ancestor to be used with certainty, then cognate lemmas from the other languages within the branch can be given in this part of an entry, with a class and translation formatted as detailed in the prior section, and separated by semicolons (`;`) if there are multiple relevant words. The language name (or an abbreviation thereof) should be at the beginning of the line. If the class or translation match those of the entry, then they can be left out.
 
