@@ -5,3 +5,4 @@ lyd = Lydian
 pal = Palaic
 panat = Proto-Anatolian
 pie = Proto-Indo-European
+pgmc = Proto-Germanic
