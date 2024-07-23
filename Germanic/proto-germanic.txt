@@ -1,0 +1,33 @@
+\lex aba
+\class prep
+\gloss (away) from, off
+\from:pie h₂epó
+\ref EDPGMC:1
+
+\lex abô
+\class m
+\gloss man, husband
+\ref EDPGMC:1
+
+\lex abnjaną
+\class wv
+\gloss to execute
+\ref EDPGMC:1
+
+\lex abraz
+\class adj
+\gloss to execute
+\from:pie h₃eprós
+\ref EDPGMC:1-2
+
+\lex abuhaz
+\class adj
+\gloss turned the wrong way
+\from:pie h₂epóh₃kʷos
+\ref EDPGMC:2
+
+\lex adesô
+\class m
+\gloss adze
+\from:pie Hodʰesō
+\ref EDPGMC:2
