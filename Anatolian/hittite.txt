@@ -1,0 +1,49 @@
+# Note on Transcription
+Several liberties have been taken with the spelling of Hittite, Palaic, and Cuneiform Luwian forms in bound transcription. Firstly, the letters _š_ and _ḫ_ have been replaced with _s_ and _h_. Secondly, the distinction between _p_, _t_, and _k_, on the one hand, and _b_, _d_, and _g_, on the other, has been collapsed in favour of the voiceless stops, as I know of no functional contrast that employs these spellings.
+
+Hieroglyphic Luwian forms are given in unbound transcription.
+
+# Word classes
+Verbs have been annotated with the form of the 3sg present corresponding to their inflection class: [zi v] for _mi_-conjugation, [i v] for _hi_-conjugation, [ari v] for a dentalless middle, and [ttari v] for a dental middle. Nouns are annotated with their gender: [c n] for common and [n n] for neuter.
+
+
+\lex -a -ā (1)
+\class suff
+\gloss _allative singular ending_
+\from:pie -eh₂ -oh₂ (1)
+\notes The allative case marks a _goal_ ("place to which"), rather than a direction, for which see Melchert (2017). Hence, against EDHIL, it cannot be compared with the local adverbs in _-a_ (in particular, _parā_ "forwards" and _sarā_ "upwards") to be reconstructed \*-o. Instead, with Melchert, the ending is to be reconstructed \*-eh₂ (thematic \*-oh₂) with regular loss of \*h₂ word-finally.
+\ref EDHIL:161 melchert2017a
+
+\lex -a (2)
+\class suff
+\gloss _nominative-accusative neuter plural ending_
+\from:pie -eh₂ (2)
+\ref EDHIL:161
+
+\lex =as
+\class encl pron
+\gloss he, she, it, _3rd person_
+\cogn:pal =as
+\cogn:cluw =as
+\cogn:hluw =as
+\cogn:lyd =aś
+\cogn:lyc =e
+\from:panat =os
+\notes nom.sg _=as_; Pal. _=as_; CLuw. _=as_; HLuw. /=as/; Lyd. _=aś_, _=ś_; Lyc. _=e_(?)
+acc.sg _=an_; Pal. _=an_; CLuw. _=an_; HLuw. /=an/; Lyd. _=aν_, _=ν_; Lyc. _=ẽ_, _=e_, _=ẽn_, _=ẽne_, _=en_, _=ene_
+dir.sg _=at_; Pal. _=at_; CLuw. _=ata_; HLuw. /=ada/; Lyd. _=ad_, _=at_; Lyc. _=ed_, _=ede_
+dat.sg _=sse_, _=ssi_; Pal. _=si_; CLuw. _=tu_; HLuw. /=du/; Lyd. _=aλ_(?), _=λ_; Lyc. _=i_, _=ije_
+nom.pl _=e_, _=at_; Pal. _=as_; CLuw. _=ata_; HLuw. /=ada/
+acc.pl _=us_, _=as_ (NS); CLuw. _=as_; HLuw. /=ada/
+dir.pl _=e_, _=at_ (young); Pal. _=e_; CLuw. _=ata_; HLuw. /=ada/; Lyc. _=e_, _=ed_, _=ede_
+dat.pl _=smas_; CLuw. _=(m)mas_; HLuw. /=mants/; Lyc. _=ñn-_, _=ñne_
+
+Kloekhorst suggests that the neuter plural _=e_ could be from \*-ih₂, with a comparable lowering to \*-uh₂ > /-o/ in _assū_ "good", but I'm unconvinced by his examples. Moreover, Jasanoff has to my mind convincingly explained it from \*-oy, with the pronominal neuter plural stem in \*oy found in the oblique.
+\ref EDHIL:162, jasanoff2009a
+
+\lex -ahh-
+\class i v.suff
+\gloss _factitive_
+\from:pie -eh₂-
+\ref EDHIL:164
+
