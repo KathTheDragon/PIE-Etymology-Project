@@ -1,0 +1,7 @@
+cluw = Cuneiform Luwian
+hluw = Hieroglyphic Luwian
+lyc = Lycian
+lyd = Lydian
+pal = Palaic
+panat = Proto-Anatolian
+pie = Proto-Indo-European
