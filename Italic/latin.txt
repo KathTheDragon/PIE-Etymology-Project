@@ -1,0 +1,18 @@
+\lex quercus
+\class fu
+\gloss oak-tree
+\from:pita kʷerkʷus~kʷerkʷos
+\from:pie perkʷus~perkʷos
+\ref EDLIL:506-507
+
+\lex querneus
+\base quercus -neus
+\class adj
+\gloss of oak
+\ref EDLIL:506-507
+
+\lex querquētum
+\base quercus -ētum
+\class no
+\gloss a wood of oaks
+\ref EDLIL:506-507

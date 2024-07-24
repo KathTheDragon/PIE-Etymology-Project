@@ -62,6 +62,23 @@
 \desc:eng adze
 \ref EDPGMC:2
 
+\lex duhtēr
+\class f
+\gloss daughter
+\from:pie dʰugh₂tḗr
+\desc:got dauhtar
+\desc:non dóttir
+\desc:fao dóttir
+\desc:ovd duotter
+\desc:ang dohtor~dohter
+\desc:eng daughter
+\desc:ofs dochter
+\desc:osx dohtar
+\desc:dut dochter
+\desc:goh tohter
+\desc:ger Tochter
+\ref EDPGMC:107
+
 \lex ōbjaz
 \class adj
 \from:pie h₃ep-
