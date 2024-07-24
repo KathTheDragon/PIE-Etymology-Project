@@ -1,33 +1,69 @@
 \lex aba
-\class prep
+\class prep, adv
 \gloss (away) from, off
 \from:pie h₂epó
+\desc:got af
+\desc:non af
+\desc:fao av
+\desc:ovd åv
+\desc:ang of
+\desc:eng of
+\desc:ofs of~af
+\desc:osx af
+\desc:dut af
+\desc:goh aba~ab
+\desc:ger ab
 \ref EDPGMC:1
 
 \lex abô
 \class m
 \gloss man, husband
+\desc:got aba
+\desc:non afi
+\desc:fao abbi
+\notes No certain Indo-European etymology; likely to be a nursery word.
 \ref EDPGMC:1
 
 \lex abnjaną
+\morph aba -njaną
 \class wv
 \gloss to execute
+\desc:non efna
+\desc:fao evna
+\desc:ang efnan
 \ref EDPGMC:1
 
 \lex abraz
 \class adj
 \gloss to execute
 \from:pie h₃eprós
+\desc:got abrs
 \ref EDPGMC:1-2
 
 \lex abuhaz
 \class adj
 \gloss turned the wrong way
 \from:pie h₂epóh₃kʷos
+\desc:non ǫfugr
+\desc:fao øvigur~øvugur
+\desc:ovd avun
+\desc:osx aƀuh
+\desc:goh abuh
+\desc:gmh ebich
+\notes Remodeled into *abugaz on the basis of other adjectives in *-ugaz.
 \ref EDPGMC:2
 
 \lex adesô
 \class m
 \gloss adze
 \from:pie Hodʰesō
+\desc:ang adesa~eadesa
+\desc:eng adze
 \ref EDPGMC:2
+
+\lex ōbjaz
+\class adj
+\from:pie h₃ep-
+\desc:non œfr
+\notes: Secondary vrddhi-formation, possibly from *h₃ōpyós.
+\ref EDPGMC:1-2
