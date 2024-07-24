@@ -1,0 +1,44 @@
+\lex h₂ep-
+\class root
+\ref EDPGMC:1
+
+\lex h₂epó
+\base h₂éps -o
+\gloss away from
+\notes Fossilized allative case with analogical full grade.
+\ref EDPGMC:1-2
+
+\lex h₂pó
+\gloss away from
+\notes Fossilized allative case.
+\ref EDPGMC:1
+
+\lex h₂éps
+\base h₂ep- -s
+\notes Genitive *h₂pós.
+\ref EDPGMC:1
+
+\lex h₃ep-
+\class root
+\gloss to labor, to be powerful
+\ref EDPGMC:1-2
+
+\lex h₃eprós
+\base h₃ep- -rós
+\ref EDPGMC:1
+
+\lex h₃ekʷ-
+\class root
+\gloss eye
+\notes This root could be used as an allative suffix.
+\ref EDPGMC:2
+
+\lex h₂epoh₃kʷos
+\base h₂ep- -o- h₃ekʷ- -os
+\ref EDPGMC:2
+
+\lex Hodʰesō
+\base Hodʰ- -es- -ō
+\gloss adze, axe
+\class m
+\ref EDPGMC:2

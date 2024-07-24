@@ -25,7 +25,8 @@
 \ref EDPGMC:1
 
 \lex abnjaną
-\morph aba -njaną
+\base aba -njaną
+\morph aba -nj- -aną
 \class wv
 \gloss to execute
 \desc:non efna
@@ -43,7 +44,7 @@
 \lex abuhaz
 \class adj
 \gloss turned the wrong way
-\from:pie h₂epóh₃kʷos
+\from:pie h₂epoh₃kʷos
 \desc:non ǫfugr
 \desc:fao øvigur~øvugur
 \desc:ovd avun
