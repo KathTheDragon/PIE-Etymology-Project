@@ -15,7 +15,7 @@ These are the tags that will be recognised.
 \\loan:{lang} - optional, gives the donor lexeme for a loanword. {lang} should be an unambiguous identifier for the donor language. Try to be consistent.
 \\base - optional, gives the derivational base(s) of the lexeme and the affix(es) used to derive it.
 \\desc:{lang} - optional, gives a descendent lexeme. {lang} should be an unambiguous identifier for the descendent language. Try to be consistent.
-\\cogn:{lang} - optional, gives a cognate lexeme within the same branch. This should not be used for long-range cognates. {lang} should be an unambiguous identifier for the sister language. Try to be consistent.
+\\cogn:{lang} - optional, gives a cognate lexeme within the same branch. Inexact cognates should be accompanied by a gloss. This should not be used for long-range cognates. {lang} should be an unambiguous identifier for the sister language. Try to be consistent.
 \\notes - prose discussion of the reconstruction, etymology, or similar topics. Markdown may be used for formatting. Line breaks can be used, so long as no line begins with \\; such lines will be interpreted as a tag and the notes field will end.
 \\ref - required, gives a space-separated list of references. Each reference should be as detailed below.
 
