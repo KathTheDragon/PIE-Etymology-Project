@@ -1,17 +1,35 @@
+\lex -eh₂ -oh₂ (1)
+\class suff
+\gloss _allative suffix_
+\notes Anatolian shows a clear alternation between a-colour and o-colour in this suffix, indicating that the ending cannot be simple \*-o as found in many PIE directional adverbs.
+\ref melchert2017a
+
+\lex -eh₂ (2)
+\class suff
+\gloss _nominative-accusative neuter plural ending_
+\ref EDHIL:161
+
+\lex -eh₂- (3)
+\class ey v.suff
+\gloss _denominal factitive_
+\notes The h₂e-inflection is based on the Hittite hi-inflection, and the strong tendency in Core IE to thematise the suffix (cf. the word equation Hittite _newahhi_ = Latin _novō_ = Greek _neáō_).
+\ref EDHIL:164
+
+\lex h₁óh₁s
+\stem h₁(e)h₁s-
+\class n n
+\gloss mouth
+\notes Core IE attests to PIE \*HóHs/\*HǻHs, while Anatolian refutes the presence of \*h₃. Only Hittite reflects the original oblique - Core IE has levelled the nominative-accusative form throughout the paradigm and derivatives.
+
 \lex h₂ep-
 \class root
 \ref EDPGMC:1
 
-\lex h₂epó
+\lex h₂pó h₂epó
 \base h₂éps -o
 \gloss away from
-\notes Fossilized allative case with analogical full grade.
+\notes Fossilized adverbial, with an analogical full grade variant.
 \ref EDPGMC:1-2
-
-\lex h₂pó
-\gloss away from
-\notes Fossilized allative case.
-\ref EDPGMC:1
 
 \lex h₂éps
 \base h₂ep- -s

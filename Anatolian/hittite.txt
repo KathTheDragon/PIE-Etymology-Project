@@ -1,10 +1,10 @@
 # Note on Transcription
-Several liberties have been taken with the spelling of Hittite, Palaic, and Cuneiform Luwian forms in bound transcription. Firstly, the letters _š_ and _ḫ_ have been replaced with _s_ and _h_. Secondly, the distinction between _p_, _t_, and _k_, on the one hand, and _b_, _d_, and _g_, on the other, has been collapsed in favour of the voiceless stops, as I know of no functional contrast that employs these spellings.
+Several liberties have been taken with the spelling of Hittite, Palaic, and Cuneiform Luwian forms in bound transcription. Firstly, the letters _š_ and _ḫ_ have been replaced with _s_ and _h_. Secondly, the distinction between _p_, _t_, and _k_, on the one hand, and _b_, _d_, and _g_, on the other, has been collapsed in favour of the voiceless stops, as I know of no functional contrast that employs these spellings. Plene vowels are written with a macron (_ā_), while hyper-plene vowels are written with a circumflex (_â_). Intervocalic _i_ and _u/ú_ will typically be written as _y_ and _w_ unless there is good reason to read them otherwise.
 
-Hieroglyphic Luwian forms are given in unbound transcription.
+Hieroglyphic Luwian forms are generally given in unbound transcription due to the difficulties of determining their phonetic form. When a phonetic form is given, it is between slashes (/.../).
 
 # Word classes
-Verbs have been annotated with the form of the 3sg present corresponding to their inflection class: [zi v] for _mi_-conjugation, [i v] for _hi_-conjugation, [ari v] for a dentalless middle, and [ttari v] for a dental middle. Nouns are annotated with their gender: [c n] for common and [n n] for neuter.
+Verbs have been annotated with the form of the 3sg present corresponding to their inflection class: `zi v` for _mi_-conjugation, `i v` for _hi_-conjugation, `ari v` for a dentalless middle, and `ttari v` for a dental middle. Nouns are annotated with their gender: `c n` for common and `n n` for neuter.
 
 
 \lex -a -ā (1)
@@ -38,12 +38,68 @@ acc.pl _=us_, _=as_ (NS); CLuw. _=as_; HLuw. /=ada/
 dir.pl _=e_, _=at_ (young); Pal. _=e_; CLuw. _=ata_; HLuw. /=ada/; Lyc. _=e_, _=ed_, _=ede_
 dat.pl _=smas_; CLuw. _=(m)mas_; HLuw. /=mants/; Lyc. _=ñn-_, _=ñne_
 
-Kloekhorst suggests that the neuter plural _=e_ could be from \*-ih₂, with a comparable lowering to \*-uh₂ > /-o/ in _assū_ "good", but I'm unconvinced by his examples. Moreover, Jasanoff has to my mind convincingly explained it from \*-oy, with the pronominal neuter plural stem in \*oy found in the oblique.
+Kloekhorst suggests that the neuter plural _=e_ could be from \*-ih₂, with a comparable lowering to \*-uh₂ > /-o/ in _assū_ "good", but I'm unconvinced by his examples. Moreover, Jasanoff has to my mind convincingly explained it from \*-oy, with the pronominal neuter plural stem in \*oy found in the oblique of o-stem pronouns. The clitic itself could be a reflex of PIE \*h₁e-, but it's impossible to say for certain.
 \ref EDHIL:162, jasanoff2009a
 
 \lex -ahh-
 \class i v.suff
-\gloss _factitive_
-\from:pie -eh₂-
+\gloss _denominal factitive_
+\from:pie -eh₂- (3)
 \ref EDHIL:164
 
+\lex âri
+\stem ā- i-
+\morph ā- -ari
+\class ari v
+\gloss to be hot
+\notes The certain forms of this verb are 3s.prs.mid. _âri_, _āri_, 3p.prs.mid. _ânta_, and participle _ânt-_, _ānt-_, and the causative _[inuzzi]_. EDHIL further connects a 3p.prs.act. form _ayissanzi_ of apparently uncertain meaning, assuming that this is writing _ayessanzi_ "to become hot", and also a 3s.prt.mid. form _ayittat_, also of uncertain meaning, but I would prefer not to make such assumptions. Even still, their reconstruction of Pre-Hittite \*āyari is plausible. Further etymology is unclear.
+\ref EDHIL:164
+
+\lex aikawartanna
+\class adv
+\gloss for one turn
+\loan:pind aika- wartana-
+\ref EDHIL:166
+
+\lex ayis
+\stem iss-
+\class n n
+\gloss mouth
+\from:pie h₁óh₁s
+\cogn:cluw âssa
+\cogn:hluw á-sa₅-za-ya "to speak"
+\notes Following Melchert (2010), I reconstruct this word and its cognates as dir.sg. \*h₁óh₁s, oblique \*h₁(e)h₁s-. The Hittite dir.sg. with an _i_ is due to anaptyxis of PAnat \*e in \*-h₁s# (PAnat \*h₁óh₁es > CLuw. /ā.as/, Pre-Hitt. /ā.is/ regularly), while the oblique (and derivative stem) with _ss_ is due to assimilation of \*h₁s after an unaccented vowel.
+\ref EDHIL:166 melchert2010a
+
+\lex āki
+\stem akk-
+\morph āk- -i
+\class i v
+\gloss to die, to be killed; to be eclipsed (of sun and moon)
+\from:pie nóḱey
+\cogn:lyd _akτa-_ "of the dead"
+\notes Following Melchert (2012), Kloekhorst's (2008) account of this verb is impossible - short \*ó did not lenite a following stop. Rather, we should reckon with analogical extension of the _-āCi_ ~ _-aCCanzi_ pattern due to the abberant allomorphy of \*_nākki_ ~ _akkanzi_ \< \*nóḱey ~ \*n̩ḱénti. Why this repair was chosen over a paradigm \*_nākki_ ~ \*_nakkanzi_ or \*_ākki_ ~ \*_akkanzi_ is beyond me, however.
+\ref EDHIL:167 melchert2012a
+
+\lex akkātar
+\stem akkann-
+\morph akk- -ātar
+\class n n
+\gloss death
+\base āki -ātar
+
+
+
+\lex inuzzi
+\stem inu-
+\morph i- -nu- -zzi
+\class zi v
+\gloss to make hot, to fry
+\base âri -nu-
+\ref EDHIL:164
+
+\lex issalli
+\class n n
+\gloss spittle
+\base ayis ?
+\notes The formation of this word is unclear to me.
