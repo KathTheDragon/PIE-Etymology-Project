@@ -87,6 +87,62 @@ Kloekhorst suggests that the neuter plural _=e_ could be from \*-ih₂, with a c
 \class n n
 \gloss death
 \base āki -ātar
+\ref EDHIL:168
+
+\lex akus
+\stem aku-
+\morph aku- -s
+\class c n
+\gloss sea-shell
+\notes No etymology.
+\ref EDHIL:168
+
+\lex akuwanz
+\stem akuwant-
+\morph aku- -(w)ant- -s
+\class adj
+\gloss covered with sea-shells
+\base akus -(w)ant-
+\notes From a PIE perspective, I would expect the suffix here to be -want-, but -ant- is a very common suffix.
+\ref EDHIL:168
+
+\lex akutalla-
+\class ? n
+\gloss ≈ container of water
+\notes This word is only attested twice, in the instrumental, once as _akutallit_, and once as _akukallit_. If we assume _akukallit_ to be an error, then we can interpret the word as PIE \*h₁gʷʰ-dʰlo-, an instrumental derivative of \*h₁egʷʰ- "to drink".
+\ref EDHIL:169
+
+\lex allantaru
+\morph allan taru-
+\class n n
+\gloss oak
+\base taru
+\notes The first part of the compound is probably Akkadian _allānu_ "oak".
+\ref EDHIL:169
+
+\lex alpas
+\stem alpa-
+\morph alpa- -s
+\class c n
+\gloss cloud
+\notes With EDHIL, not to be connected with the "\*albʰos" words, as not only would we expect initial _h-_ in Hittite, but also the word is predominantly associated with rain and thunder, and such clouds are grey rather than white. No etymology.
+\ref EDHIL:169
+
+\lex alpanz
+\stem alpant-
+\morph alpant- -s
+\class adj
+\gloss ?
+\notes It is hard to find a coherent meaning for this word, as the two groups of attestations are describing a sick child and a kind of cheese. No etymology.
+\ref EDHIL:170
+
+\lex alparama-
+\morph alpa- -rama-
+\class ? n
+\gloss cloudiness, layer of clouds
+\base alpas
+\notes I am not sure what suffix _-rama-_ is.
+\ref EDHIL:169
 
 
 
