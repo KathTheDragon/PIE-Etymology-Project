@@ -47,6 +47,12 @@ Kloekhorst suggests that the neuter plural _=e_ could be from \*-ih₂, with a c
 \from:pie -eh₂- (3)
 \ref EDHIL:164
 
+\lex aikawartanna
+\class adv
+\gloss for one turn
+\loan:pind aika- wartana-
+\ref EDHIL:166
+
 \lex âri
 \stem ā- i-
 \morph ā- -ari
@@ -54,12 +60,6 @@ Kloekhorst suggests that the neuter plural _=e_ could be from \*-ih₂, with a c
 \gloss to be hot
 \notes The certain forms of this verb are 3s.prs.mid. _âri_, _āri_, 3p.prs.mid. _ânta_, and participle _ânt-_, _ānt-_, and the causative _[inuzzi]_. EDHIL further connects a 3p.prs.act. form _ayissanzi_ of apparently uncertain meaning, assuming that this is writing _ayessanzi_ "to become hot", and also a 3s.prt.mid. form _ayittat_, also of uncertain meaning, but I would prefer not to make such assumptions. Even still, their reconstruction of Pre-Hittite \*āyari is plausible. Further etymology is unclear.
 \ref EDHIL:164
-
-\lex aikawartanna
-\class adv
-\gloss for one turn
-\loan:pind aika- wartana-
-\ref EDHIL:166
 
 \lex ayis
 \stem iss-
@@ -97,6 +97,12 @@ Kloekhorst suggests that the neuter plural _=e_ could be from \*-ih₂, with a c
 \notes No etymology.
 \ref EDHIL:168
 
+\lex akutalla-
+\class ? n
+\gloss ≈ container of water
+\notes This word is only attested twice, in the instrumental, once as _akutallit_, and once as _akukallit_. If we assume _akukallit_ to be an error, then we can interpret the word as PIE \*h₁gʷʰ-dʰlo-, an instrumental derivative of \*h₁egʷʰ- "to drink".
+\ref EDHIL:169
+
 \lex akuwanz
 \stem akuwant-
 \morph aku- -(w)ant- -s
@@ -105,12 +111,6 @@ Kloekhorst suggests that the neuter plural _=e_ could be from \*-ih₂, with a c
 \base akus -(w)ant-
 \notes From a PIE perspective, I would expect the suffix here to be -want-, but -ant- is a very common suffix.
 \ref EDHIL:168
-
-\lex akutalla-
-\class ? n
-\gloss ≈ container of water
-\notes This word is only attested twice, in the instrumental, once as _akutallit_, and once as _akukallit_. If we assume _akukallit_ to be an error, then we can interpret the word as PIE \*h₁gʷʰ-dʰlo-, an instrumental derivative of \*h₁egʷʰ- "to drink".
-\ref EDHIL:169
 
 \lex allantaru
 \morph allan taru-
@@ -143,6 +143,78 @@ Kloekhorst suggests that the neuter plural _=e_ could be from \*-ih₂, with a c
 \base alpas
 \notes I am not sure what suffix _-rama-_ is.
 \ref EDHIL:169
+
+\lex alpus
+\stem alpu-
+\class adj
+\gloss pointed
+\notes Could continue \*h₁olpu- or \*(H)l̩pu-, but no cognates are known. No etymology.
+\ref EDHIL:170
+
+\lex alwanz-
+\class stem
+\gloss being bewitched, affected by sorcery
+\notes Due to the stem ending in _z_, it is more likely to be a loan than inherited.
+\ref EDHIL:171
+
+\lex alwanzahha-
+\morph alwanz- -ahh- -a-
+\class ? n
+\gloss sorcery
+\base alwanzahhi
+\ref EDHIL:171
+
+\lex alwanzahhi
+\stem alwanzahh-
+\morph alwanz- -ahh- -i
+\class i v
+\gloss to bewitch
+\base alwanz- -ahh-
+\ref EDHIL:171
+
+\lex alwanzātar
+\stem alwanzann-
+\morph alwanz- -āt- -ar
+\class n n
+\gloss witchcraft, sorcery, spell
+\base alwanz- -ātar
+\ref EDHIL:171
+
+\lex alwanzenas
+\stem alwanzena-
+\morph alwanz- -ena-
+\class adj
+\gloss practising sorcery, sorcerous
+\class c n
+\gloss sorceror
+\base alwanz- -ena-
+\ref EDHIL:171
+
+\lex alwanzessar
+\stem alwanzesn-
+\morph alwanz- -ess- -ar
+\class n n
+\gloss witchcraft
+\base alwanz- -essar
+\ref EDHIL:171
+
+\lex amiyantessar
+\stem amiyantesn-
+\morph a- mi- -ant- -ess- -ar
+\class n n
+\gloss miniature bread
+\base amiyanz -essar
+\ref EDHIL:171
+
+\lex amiyanz
+\stem amiyant-
+\morph a- mi- -ant- -s
+\class adj
+\gloss small
+\from:pie \*n̩-mh₂y-ent-
+\base māi -ant-
+\notes Generally held to be the negated participle of [māi], hence "ungrown". I wonder how plausible it is to take it as a fossilised form of that participle in an active sense, \*m̩h₂y-ent- "growing". Whether the phonetic development would be regular is not clear to me, however.
+\ref EDHIL:171
 
 
 
