@@ -9,7 +9,7 @@ These are the tags that will be recognised.
 \\lex - required, begins a new entry and gives the citation form for the new lexeme. If there are multiple variant forms (e.g. a variable affix) they should be space-separated. If multiple homonymous lexemes need to be distinguished, place a number in brackets `()` after the citation form.
 \\stem - optional, gives the stem(s) for the lexeme. If there are multiple stems, they should be space-separated.
 \\morph - optional, gives a morphemic breakdown of the lexeme. Morphemes should be space-separated. If not given, the lexeme is assumed to be monomorphemic
-\\class - required, gives the lexical class of the lexeme. This should fully identify the inflection, and ideally the syntactic type as well.
+\\class - required, gives the lexical class of the lexeme. This should fully identify the inflection, and ideally the syntactic type as well. \\class may be given more than once, if a word is multi-functional, and each instance can have its own \\gloss.
 \\gloss - required, gives the English translation(s) of the lexeme. Markdown may be used for formatting.
 \\from:{lang} - optional, gives the antecedent lexeme for an inherited word. {lang} should be an unambiguous identifier for the ancestor language. Try to be consistent.
 \\loan:{lang} - optional, gives the donor lexeme for a loanword. {lang} should be an unambiguous identifier for the donor language. Try to be consistent.
