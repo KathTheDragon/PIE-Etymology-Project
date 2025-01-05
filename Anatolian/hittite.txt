@@ -20,7 +20,9 @@ Verbs have been annotated with the form of the 3sg present corresponding to thei
 \from:pie -eh₂ (2)
 \ref EDHIL:161
 
-\lex -ahh-
+\lex -ahhi
+\stem -ahh-
+\morph -ahh- -i
 \class i v.suff
 \gloss _denominal factitive_
 \from:pie -eh₂- (3)
@@ -105,6 +107,20 @@ Verbs have been annotated with the form of the 3sg present corresponding to thei
 \notes I am not sure what suffix _-rama-_ is.
 \ref EDHIL:169
 
+\lex alpuemar
+\morph alpu- -emar
+\class n n
+\gloss point, tip
+\base alpus
+\ref EDHIL:170
+
+\lex alpuēszi
+\stem alpuess-
+\morph alpu- -ess- -zi
+\class ti v
+\gloss to be sharp, to be acute
+\ref EDHIL:170
+
 \lex alpus
 \stem alpu-
 \class adj
@@ -135,7 +151,7 @@ Verbs have been annotated with the form of the 3sg present corresponding to thei
 
 \lex alwanzātar
 \stem alwanzann-
-\morph alwanz- -āt- -ar
+\morph alwanz- -ātar
 \class n n
 \gloss witchcraft, sorcery, spell
 \base alwanz- -ātar
@@ -176,6 +192,136 @@ Verbs have been annotated with the form of the 3sg present corresponding to thei
 \base māi -ant-
 \notes Generally held to be the negated participle of [māi], hence "ungrown". I wonder how plausible it is to take it as a fossilised form of that participle in an active sense, \*m̩h₂y-ent- "growing". Whether the phonetic development would be regular is not clear to me, however.
 \ref EDHIL:171
+
+\lex -an -ān (1)
+\class suff
+\gloss _genitive plural ending_
+\from:pie -om?
+\cogn:lyd -aν "_dative-locative plural ending_"
+\cogn:lyc -ẽ
+\ref EDHIL:172
+
+\lex =(a)n (2)
+\class encl
+\gloss _enclitic locatival sentence particle_
+\from:pie h₁en
+\ref EDHIL:172
+
+\lex anna-
+\class stem
+\gloss former, old
+\notes No etymology, but the whole family is likely to be based on a set of loans.
+\ref EDHIL:173
+
+\lex annallas annallis annalas annalis
+\stem annal(l)a/i-
+\morph anna- -alla/i-
+\class adj
+\gloss former, earlier, old
+\base anna-
+\notes The variation in the stem is suggestive of a loan, potentially from Luwian.
+\ref EDHIL:173
+
+\lex annas
+\stem anna-
+\morph anna- -s
+\class c n
+\gloss mother
+\cogn:pal annas
+\cogn:cluw ānnis
+\cogn:cluw dir.pl. annalla "maternal"
+\cogn:cluw ānnawannis "stepmother"
+\cogn:cluw ânninniyamis "cousin"
+\cogn:cluw ānniyis "maternal"
+\cogn:hluw acc.sg. **MATER**-na-tí-na
+\cogn:lyd ẽna
+\cogn:lyc ẽni
+\cogn:mil gen.adj. ẽnesi
+\from:panat ʔónnos
+\notes Probably a nursery word. No etymology.
+\ref EDHIL:174
+
+\lex annaz
+\morph anna- -z
+\class adv
+\gloss formerly, once upon a time
+\base anna-
+\ref EDHIL:173
+
+\lex annis
+\stem anni-
+\morph anna- -i- -s
+\class pron
+\gloss that, the aforementioned
+\base anna-
+\notes Only attested once, glossing Akkadian _\[IŠ-TU AN-NI-I\]Š_ and Sumerian GÚ.R\[I.TA] "that one, the aforementioned", and its status is therefore in debate.
+\ref EDHIL:173
+
+\lex annisan
+\morph anna- -isan
+\class adv
+\gloss formerly, before; once; at the time
+\base anna-
+\ref EDHIL:173
+
+\lex anniyatar
+\stem anniyann-
+\morph anna- -iya- -ātar
+\class n n
+\gloss motherhood
+\base annas
+\notes Probably derived from an intermediate adjective _anniyas_ "maternal", cf. Cuneiform Luwian _ānniyis_ "maternal".
+\ref EDHIL:174
+
+\lex -ānna
+\morph -ānn- -a
+\class suff
+\gloss _infinitive_
+\base -ātar
+\notes Allative of the verbal noun in -ātar.
+\ref EDHIL:174
+
+\lex -annai
+\stem -anni-
+\morph -anna- -i
+\class i v.suff
+\gloss _imperfective_?
+\base -ātar
+\notes This suffix is claimed to be equivalent to the other two imperfective suffixes, _[-skezzi]_ and _[-ssai]_, and that all three function as suppletive allomorphs. Upon examining the verbs listed as showing this suffix in Kloekhorst (2008), which are given below, I must question this assertion - just about every deverbal case of _-annai_ occurs alongside a _-skezzi_ imperfective which is often as old or older attested, and in several cases shows a clearly archaic formation (e.g. _zaskezzi_ "be putting" to _tāi_ "put", next to _tiyannai_ "lay down"). Moreover, several of the verbs in _-annai_ are also found extended with the _-skezzi_ imperfective themselves (and a few are only found in the imperfective). \
+In formal terms, the suffix inflects according to the _mēmai_ class with mixed _a_- and _i_-stem inflection, which originally derives from the _tāi_ class, for which see Spence (2021). Kloekhorst (2008) connects this suffix with the _[-ātar]_ suffix, which see for further etymology. The verbs containing the suffix can be divided into several groups. Most numerous are those attached to a verbal base, four of which occur beside a productive or lexicalised verbal noun:
+- _[hattannai]_ "to pierce" < _[hattari]_ "to pierce"
+- _[hukannai]_ "to conjure" < _[huekzi]_ "to conjure", _[hūkatar]_ "conjouring"
+- _[huttiyannai]_ "to pull" < _[huettiyezzi]_ "to pull"
+- _[iyannai]_ "to march" < _[iyattari]_ "to go"
+- _[ishuwannai]_ "to throw" < _[ishuwāi]_ "to throw"
+- _[iskarannai]_ "to sting" < _[iskāri]_ "to sting", _[iskaratar]_ "sting(?)"
+- _[sippantannai]_ "to libate" < _[ispānti]_ "to libate"
+- _[isparannai]_ "to spread" < _[ispāri]_ "to spread (out)"
+- _[lahhiyannai]_ "to travel" < _[lahhiyezzi]_ "to travel", _[lahhiyatar]_ "campaign"
+- _[piyannai]_ "to give" < _[pāi]_ "to give", _[*piyatar]_ "giving"
+- _[parhannai]_ "to chase" < _[parhzi]_ "to chase"
+- _[parsiyannai]_ "to break" < _[parsiyari]_ "to break"
+- _[pessiyannai]_ "to throw away" < _[pessiyezzi]_ "to throw away"
+- _[pittannai]_ "to bring" < _[pittaezzi]_ "to bring"
+- _[tiyannai]_ "to lay down" < _[tāi]_ "to put"
+- _[tuhsannai]_ "to cut off" < _[tuhsari]_ "to cut off"
+- _[walhannai]_ "to hit" < _[walhzi]_ "to hit"
+- _[weriyannai]_ "to call" < _[weriyezzi]_ "to call"
+Those derived from ablauting verbs display the zero-grade of the base, while the non-ablauting verbs show the single base stem.
+
+Another example is clearly derived from a lexicalised verbal noun, rather than the base verb:
+- _taksanna/i-_ "to level" < _[taksatar]_ "plain, level" < _[takkiszi]_ "to put together"
+
+A single verb is apparently derived directly from a noun, but there may be an unattested underlying verb, given that _halukas_ looks like a zero-grade a-stem, a common deverbal formation:
+- _[halukannai]_ "to bring news" < _[halukas]_ "message"
+
+Lastly are a few with an unknown base:
+- _[hallannai]_ "to trample down(?)"
+- _[sallannai]_ "to pull"
+
+It seems quite likely that in all of these cases, there is an underlying verb that originally produced a verbal noun in _-ātar_, from which all of these verbs were then derived.
+\ref EDHIL:175 spence2021a
+
 
 \lex âri
 \stem ā- i-

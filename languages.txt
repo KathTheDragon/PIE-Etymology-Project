@@ -15,6 +15,7 @@ hye = Armenian
 lit = Lithuanian
 lyc = Lycian
 lyd = Lydian
+mil = Milyan
 non = Old Norse
 ocs = Old Church Slavonic
 ofs = Old Frisian
