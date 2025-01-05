@@ -20,27 +20,6 @@ Verbs have been annotated with the form of the 3sg present corresponding to thei
 \from:pie -eh₂ (2)
 \ref EDHIL:161
 
-\lex =as
-\class encl pron
-\gloss he, she, it, _3rd person_
-\cogn:pal =as
-\cogn:cluw =as
-\cogn:hluw =as
-\cogn:lyd =aś
-\cogn:lyc =e
-\from:panat =os
-\notes nom.sg _=as_; Pal. _=as_; CLuw. _=as_; HLuw. /=as/; Lyd. _=aś_, _=ś_; Lyc. _=e_(?)
-acc.sg _=an_; Pal. _=an_; CLuw. _=an_; HLuw. /=an/; Lyd. _=aν_, _=ν_; Lyc. _=ẽ_, _=e_, _=ẽn_, _=ẽne_, _=en_, _=ene_
-dir.sg _=at_; Pal. _=at_; CLuw. _=ata_; HLuw. /=ada/; Lyd. _=ad_, _=at_; Lyc. _=ed_, _=ede_
-dat.sg _=sse_, _=ssi_; Pal. _=si_; CLuw. _=tu_; HLuw. /=du/; Lyd. _=aλ_(?), _=λ_; Lyc. _=i_, _=ije_
-nom.pl _=e_, _=at_; Pal. _=as_; CLuw. _=ata_; HLuw. /=ada/
-acc.pl _=us_, _=as_ (NS); CLuw. _=as_; HLuw. /=ada/
-dir.pl _=e_, _=at_ (young); Pal. _=e_; CLuw. _=ata_; HLuw. /=ada/; Lyc. _=e_, _=ed_, _=ede_
-dat.pl _=smas_; CLuw. _=(m)mas_; HLuw. /=mants/; Lyc. _=ñn-_, _=ñne_
-
-Kloekhorst suggests that the neuter plural _=e_ could be from \*-ih₂, with a comparable lowering to \*-uh₂ > /-o/ in _assū_ "good", but I'm unconvinced by his examples. Moreover, Jasanoff has to my mind convincingly explained it from \*-oy, with the pronominal neuter plural stem in \*oy found in the oblique of o-stem pronouns. The clitic itself could be a reflex of PIE \*h₁e-, but it's impossible to say for certain.
-\ref EDHIL:162, jasanoff2009a
-
 \lex -ahh-
 \class i v.suff
 \gloss _denominal factitive_
@@ -52,24 +31,6 @@ Kloekhorst suggests that the neuter plural _=e_ could be from \*-ih₂, with a c
 \gloss for one turn
 \loan:pind aika- wartana-
 \ref EDHIL:166
-
-\lex âri
-\stem ā- i-
-\morph ā- -ari
-\class ari v
-\gloss to be hot
-\notes The certain forms of this verb are 3s.prs.mid. _âri_, _āri_, 3p.prs.mid. _ânta_, and participle _ânt-_, _ānt-_, and the causative _[inuzzi]_. EDHIL further connects a 3p.prs.act. form _ayissanzi_ of apparently uncertain meaning, assuming that this is writing _ayessanzi_ "to become hot", and also a 3s.prt.mid. form _ayittat_, also of uncertain meaning, but I would prefer not to make such assumptions. Even still, their reconstruction of Pre-Hittite \*āyari is plausible. Further etymology is unclear.
-\ref EDHIL:164
-
-\lex ayis
-\stem iss-
-\class n n
-\gloss mouth
-\from:pie h₁óh₁s
-\cogn:cluw âssa
-\cogn:hluw á-sa₅-za-ya "to speak"
-\notes Following Melchert (2010), I reconstruct this word and its cognates as dir.sg. \*h₁óh₁s, oblique \*h₁(e)h₁s-. The Hittite dir.sg. with an _i_ is due to anaptyxis of PAnat \*e in \*-h₁s# (PAnat \*h₁óh₁es > CLuw. /ā.as/, Pre-Hitt. /ā.is/ regularly), while the oblique (and derivative stem) with _ss_ is due to assimilation of \*h₁s after an unaccented vowel.
-\ref EDHIL:166 melchert2010a
 
 \lex āki
 \stem akk-
@@ -215,6 +176,45 @@ Kloekhorst suggests that the neuter plural _=e_ could be from \*-ih₂, with a c
 \base māi -ant-
 \notes Generally held to be the negated participle of [māi], hence "ungrown". I wonder how plausible it is to take it as a fossilised form of that participle in an active sense, \*m̩h₂y-ent- "growing". Whether the phonetic development would be regular is not clear to me, however.
 \ref EDHIL:171
+
+\lex âri
+\stem ā- i-
+\morph ā- -ari
+\class ari v
+\gloss to be hot
+\notes The certain forms of this verb are 3s.prs.mid. _âri_, _āri_, 3p.prs.mid. _ânta_, and participle _ânt-_, _ānt-_, and the causative _[inuzzi]_. EDHIL further connects a 3p.prs.act. form _ayissanzi_ of apparently uncertain meaning, assuming that this is writing _ayessanzi_ "to become hot", and also a 3s.prt.mid. form _ayittat_, also of uncertain meaning, but I would prefer not to make such assumptions. Even still, their reconstruction of Pre-Hittite \*āyari is plausible. Further etymology is unclear.
+\ref EDHIL:164
+
+\lex =as
+\class encl pron
+\gloss he, she, it, _3rd person_
+\cogn:pal =as
+\cogn:cluw =as
+\cogn:hluw =as
+\cogn:lyd =aś
+\cogn:lyc =e
+\from:panat =os
+\notes nom.sg _=as_; Pal. _=as_; CLuw. _=as_; HLuw. /=as/; Lyd. _=aś_, _=ś_; Lyc. _=e_(?)
+acc.sg _=an_; Pal. _=an_; CLuw. _=an_; HLuw. /=an/; Lyd. _=aν_, _=ν_; Lyc. _=ẽ_, _=e_, _=ẽn_, _=ẽne_, _=en_, _=ene_
+dir.sg _=at_; Pal. _=at_; CLuw. _=ata_; HLuw. /=ada/; Lyd. _=ad_, _=at_; Lyc. _=ed_, _=ede_
+dat.sg _=sse_, _=ssi_; Pal. _=si_; CLuw. _=tu_; HLuw. /=du/; Lyd. _=aλ_(?), _=λ_; Lyc. _=i_, _=ije_
+nom.pl _=e_, _=at_; Pal. _=as_; CLuw. _=ata_; HLuw. /=ada/
+acc.pl _=us_, _=as_ (NS); CLuw. _=as_; HLuw. /=ada/
+dir.pl _=e_, _=at_ (young); Pal. _=e_; CLuw. _=ata_; HLuw. /=ada/; Lyc. _=e_, _=ed_, _=ede_
+dat.pl _=smas_; CLuw. _=(m)mas_; HLuw. /=mants/; Lyc. _=ñn-_, _=ñne_
+
+Kloekhorst suggests that the neuter plural _=e_ could be from \*-ih₂, with a comparable lowering to \*-uh₂ > /-o/ in _assū_ "good", but I'm unconvinced by his examples. Moreover, Jasanoff has to my mind convincingly explained it from \*-oy, with the pronominal neuter plural stem in \*oy found in the oblique of o-stem pronouns. The clitic itself could be a reflex of PIE \*h₁e-, but it's impossible to say for certain.
+\ref EDHIL:162, jasanoff2009a
+
+\lex ayis
+\stem iss-
+\class n n
+\gloss mouth
+\from:pie h₁óh₁s
+\cogn:cluw âssa
+\cogn:hluw á-sa₅-za-ya "to speak"
+\notes Following Melchert (2010), I reconstruct this word and its cognates as dir.sg. \*h₁óh₁s, oblique \*h₁(e)h₁s-. The Hittite dir.sg. with an _i_ is due to anaptyxis of PAnat \*e in \*-h₁s# (PAnat \*h₁óh₁es > CLuw. /ā.as/, Pre-Hitt. /ā.is/ regularly), while the oblique (and derivative stem) with _ss_ is due to assimilation of \*h₁s after an unaccented vowel.
+\ref EDHIL:166 melchert2010a
 
 
 
