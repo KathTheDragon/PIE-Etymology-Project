@@ -213,66 +213,6 @@ Verbs have been annotated with the form of the 3sg present corresponding to thei
 \notes No etymology, but the whole family is likely to be based on a set of loans.
 \ref EDHIL:173
 
-\lex annallas annallis annalas annalis
-\stem annal(l)a/i-
-\morph anna- -alla/i-
-\class adj
-\gloss former, earlier, old
-\base anna-
-\notes The variation in the stem is suggestive of a loan, potentially from Luwian.
-\ref EDHIL:173
-
-\lex annas
-\stem anna-
-\morph anna- -s
-\class c n
-\gloss mother
-\cogn:pal annas
-\cogn:cluw ānnis
-\cogn:cluw dir.pl. annalla "maternal"
-\cogn:cluw ānnawannis "stepmother"
-\cogn:cluw ânninniyamis "cousin"
-\cogn:cluw ānniyis "maternal"
-\cogn:hluw acc.sg. **MATER**-na-tí-na
-\cogn:lyd ẽna
-\cogn:lyc ẽni
-\cogn:mil gen.adj. ẽnesi
-\from:panat ʔónnos
-\notes Probably a nursery word. No etymology.
-\ref EDHIL:174
-
-\lex annaz
-\morph anna- -z
-\class adv
-\gloss formerly, once upon a time
-\base anna-
-\ref EDHIL:173
-
-\lex annis
-\stem anni-
-\morph anna- -i- -s
-\class pron
-\gloss that, the aforementioned
-\base anna-
-\notes Only attested once, glossing Akkadian _\[IŠ-TU AN-NI-I\]Š_ and Sumerian GÚ.R\[I.TA] "that one, the aforementioned", and its status is therefore in debate.
-\ref EDHIL:173
-
-\lex annisan
-\morph anna- -isan
-\class adv
-\gloss formerly, before; once; at the time
-\base anna-
-\ref EDHIL:173
-
-\lex anniyatar
-\stem anniyann-
-\morph anna- -iya- -ātar
-\class n n
-\gloss motherhood
-\base annas
-\notes Probably derived from an intermediate adjective _anniyas_ "maternal", cf. Cuneiform Luwian _ānniyis_ "maternal".
-\ref EDHIL:174
-
 \lex -ānna
 \morph -ānn- -a
 \class suff
@@ -321,6 +261,170 @@ Lastly are a few with an unknown base:
 
 It seems quite likely that in all of these cases, there is an underlying verb that originally produced a verbal noun in _-ātar_, from which all of these verbs were then derived.
 \ref EDHIL:175 spence2021a
+
+\lex annallas annallis annalas annalis
+\stem annal(l)a/i-
+\morph anna- -alla/i-
+\class adj
+\gloss former, earlier, old
+\base anna-
+\notes The variation in the stem is suggestive of a loan, potentially from Luwian.
+\ref EDHIL:173
+
+\lex annanekas
+\stem annaneka-
+\morph anna- neka- -s
+\class c n
+\gloss sister by the same mother
+\base annas nekas
+\notes A compound of _[annas]_ "mother" and _[nekas]_ "sister".
+\ref EDHIL:176
+
+\lex annanuhhas
+\stem annanuhha-
+\morph an- -nu- -hha- -s
+\class adj
+\gloss trained(?)
+\base annanuzzi
+\notes The potential _-hha-_ suffix is otherwise unique to this word. Conceivably it represents the abstract noun formant *-h₂ followed by the adjectival *-o- suffix.
+\ref EDHIL:177
+
+\lex annanuzzi
+\stem annanu-
+\morph an- -nu- -zzi
+\class zi v
+\gloss to train, educate
+\base aniyezzi -nu-
+\notes Probably a causative to _[aniyezzi]_ "to work" with the /n/ of the root separated from the /n/ of the suffix.
+\ref EDHIL:177
+
+\lex annanuzzis
+\stem annanuzzi-
+\morph an- -nu- -uzzi- -s
+\class c n
+\gloss halter(?)
+\base annanuzzi -uzzi-
+\notes Presumably an instrumental noun in _[-uzzi-]_ to _[annanuzzi]_ "to train".
+\ref EDHIL:177
+
+\lex annanuzziyanz
+\stem annanuzziyant-
+\morph an- -nu- -uzzi- -ant- -s
+\class adj
+\gloss haltered
+\base annanuzzis -ant-
+\ref EDHIL:177
+
+\lex annas
+\stem anna-
+\morph anna- -s
+\class c n
+\gloss mother
+\cogn:pal annas
+\cogn:cluw ānnis
+\cogn:cluw dir.pl. annalla "maternal"
+\cogn:cluw ānnawannis "stepmother"
+\cogn:cluw ânninniyamis "cousin"
+\cogn:cluw ānniyis "maternal"
+\cogn:hluw acc.sg. **MATER**-na-tí-na
+\cogn:lyd ẽna
+\cogn:lyc ẽni
+\cogn:mil gen.adj. ẽnesi
+\from:panat ʔónnos
+\notes Probably a nursery word. No etymology.
+\ref EDHIL:174
+
+\lex anass-
+\class ? n
+\gloss lower part of the back
+\notes No etymology.
+\ref EDHIL:178
+
+\lex annassar
+\stem annasn-
+\morph an- -ssar
+\class n n
+\gloss pillar(?)
+\base aniyezzi
+\notes Conceivably a derivative of _[aniyezzi]_ "to work" (as "creation" > "establishment"). Kloekhorst's objection about the geminate _n_ is not cogent for the same reason as why the imperfective of _[aniyezzi]_ is _anniskezzi_ - the _n_ would be expected to drop before _s_, so it is reintroduced as a geminate.
+\ref EDHIL:178
+
+\lex annawannas
+\stem annawanna-
+\morph anna- wanna- -s
+\class c n
+\gloss stepmother
+\base annas
+\cogn:cluw ānnawannis
+\from:panat ʔónnowonnos
+\notes The suffix _-wanna-_ is unclear, but the formation evidently goes back to Proto-Anatolian.
+\ref EDHIL:179
+
+\lex annaz
+\morph anna- -z
+\class adv
+\gloss formerly, once upon a time
+\base anna-
+\ref EDHIL:173
+
+\lex annis
+\stem anni-
+\morph anna- -i- -s
+\class pron
+\gloss that, the aforementioned
+\base anna-
+\notes Only attested once, glossing Akkadian _\[IŠ-TU AN-NI-I\]Š_ and Sumerian GÚ.R\[I.TA] "that one, the aforementioned", and its status is therefore in debate.
+\ref EDHIL:173
+
+\lex annisan
+\morph anna- -isan
+\class adv
+\gloss formerly, before; once; at the time
+\base anna-
+\ref EDHIL:173
+
+\lex anniyatar
+\stem anniyann-
+\morph anna- -iya- -ātar
+\class n n
+\gloss motherhood
+\base annas
+\notes Probably derived from an intermediate adjective _anniyas_ "maternal", cf. Cuneiform Luwian _ānniyis_ "maternal".
+\ref EDHIL:174
+
+\lex aniyawar
+\morph aniye- -war
+\class n n
+\gloss prestation, ritual
+\base aniyezzi -war
+\notes The productive verbal noun to _[aniyezzi]_, renewing fossilised _[aniūr]_.
+\ref EDHIL:180
+
+\lex aniyaz
+\stem aniyatt-
+\morph aniye- -att- -s
+\class c n
+\gloss work, task; ritual gear or garments; message
+\base aniyezzi -att-
+\ref EDHIL:179
+
+\lex aniyezzi
+\stem aniye- aniya-
+\morph aniye- -zzi
+\class zi v
+\gloss to work; to carry out, to produce, to treat
+\cogn:pal aniyetti
+\cogn:cluw ānnīti
+\notes The obvious IE cognates are Latin _onus_ "load, burden" and Sanskrit _ánas_ "cart", which together point to PIE *h₃énos. However, the Anatolian verbs are unlikely to reflect *h₃nyéti or *h₃ényeti. The details of Luwian and Palaic are not sufficiently clear for me to give this verb any etymology.
+\ref EDHIL:179
+
+\lex aniūr
+\morph aniye- -war
+\class n n
+\gloss prestation, ritual
+\base aniyezzi -war
+\notes Fossilised verbal noun to _[aniyezzi]_, renewed by _[aniyawar]_.
+\ref EDHIL:180
 
 
 \lex âri
