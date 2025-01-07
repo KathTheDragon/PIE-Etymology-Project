@@ -421,8 +421,8 @@ It seems quite likely that in all of these cases, there is an underlying verb th
 \morph aniye- -zzi
 \class zi v
 \gloss to work; to carry out, to produce, to treat
-\cogn:pal aniyetti
-\cogn:cluw ānnīti
+\cogn:pal aniyetti "to do, to work"
+\cogn:cluw ānnīti "to carry out, to treat"
 \notes The obvious IE cognates are Latin _onus_ "load, burden" and Sanskrit _ánas_ "cart", which together point to PIE *h₃énos. However, the Anatolian verbs are unlikely to reflect *h₃nyéti or *h₃ényeti. The details of Luwian and Palaic are not sufficiently clear for me to give this verb any etymology.
 \ref EDHIL:179
 
