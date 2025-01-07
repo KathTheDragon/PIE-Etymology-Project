@@ -1,5 +1,5 @@
 # Note on Transcription
-Several liberties have been taken with the spelling of Hittite, Palaic, and Cuneiform Luwian forms in bound transcription. Firstly, the letters _š_ and _ḫ_ have been replaced with _s_ and _h_. Secondly, the distinction between _p_, _t_, and _k_, on the one hand, and _b_, _d_, and _g_, on the other, has been collapsed in favour of the voiceless stops, as I know of no functional contrast that employs these spellings. Plene vowels are written with a macron (_ā_), while hyper-plene vowels are written with a circumflex (_â_). Intervocalic _i_ and _u/ú_ will typically be written as _y_ and _w_ unless there is good reason to read them otherwise.
+Several liberties have been taken with the spelling of Hittite, Palaic, and Cuneiform Luwian forms in bound transcription. Firstly, the letters _š_ and _ḫ_ have been replaced with _s_ and _h_. Secondly, the distinction between _p_, _t_, and _k_, on the one hand, and _b_, _d_, and _g_, on the other, has been collapsed in favour of the voiceless stops, as I know of no functional contrast that employs these spellings. Plene vowels are written with a macron (_ā_), while hyper-plene vowels are written with a circumflex (_â_). Intervocalic _i_ and _u/ú_ will typically be written as _y_ and _w_ unless there is good reason to read them otherwise. _u_ and _ú_ will be kept distinct where possible as _o_ and _ú_ (with _u_ used for when the quality of the vowel cannot be determined).
 
 Hieroglyphic Luwian forms are generally given in unbound transcription due to the difficulties of determining their phonetic form. When a phonetic form is given, it is between slashes (/.../).
 
@@ -383,6 +383,14 @@ It seems quite likely that in all of these cases, there is an underlying verb th
 \base anna-
 \ref EDHIL:173
 
+\lex aniōr aniū́r
+\morph aniye- -war
+\class n n
+\gloss prestation, ritual
+\base aniyezzi -war
+\notes Fossilised verbal noun to _[aniyezzi]_, renewed by _[aniyawar]_.
+\ref EDHIL:180
+
 \lex anniyatar
 \stem anniyann-
 \morph anna- -iya- -ātar
@@ -418,13 +426,6 @@ It seems quite likely that in all of these cases, there is an underlying verb th
 \notes The obvious IE cognates are Latin _onus_ "load, burden" and Sanskrit _ánas_ "cart", which together point to PIE *h₃énos. However, the Anatolian verbs are unlikely to reflect *h₃nyéti or *h₃ényeti. The details of Luwian and Palaic are not sufficiently clear for me to give this verb any etymology.
 \ref EDHIL:179
 
-\lex aniūr
-\morph aniye- -war
-\class n n
-\gloss prestation, ritual
-\base aniyezzi -war
-\notes Fossilised verbal noun to _[aniyezzi]_, renewed by _[aniyawar]_.
-\ref EDHIL:180
 
 
 \lex âri
