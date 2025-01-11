@@ -426,6 +426,171 @@ It seems quite likely that in all of these cases, there is an underlying verb th
 \notes The obvious IE cognates are Latin _onus_ "load, burden" and Sanskrit _ánas_ "cart", which together point to PIE *h₃énos. However, the Anatolian verbs are unlikely to reflect *h₃nyéti or *h₃ényeti. The details of Luwian and Palaic are not sufficiently clear for me to give this verb any etymology.
 \ref EDHIL:179
 
+\lex ānki
+\class adv
+\gloss once
+\from:pie Hoyonki
+\ref EDHIL:181
+
+\lex anku
+\class adv
+\gloss fully
+\notes Unclear etymology.
+\ref EDHIL:182
+
+\lex ānsi
+\stem āns-
+\morph āns- -i
+\class i v
+\gloss to wipe
+\cogn:cluw ammassiti
+\notes This verb does not show the expected ablaut between singular and plural forms, instead having a uniform stem _āns-_ until later times, which implies levelling. The _ns_ cluster is a bit tricky - as shown by the Luwian cognate, the _n_ must continue *m, but *ms would yield _ss_ (cf. _[hassus]_). A cluster *mHs may be sufficient, but there do not appear to be any parallels. Kloekhorst assumes the verb comes from *h₂ómh₁s-, related to Greek ἀμάω "to mow" and Germanic *mēaną "to mow", but this requires the sound law *H > *ʔ before *o, which I am reluctant to accept (and also note the abbrant vowel placement - *s extensions trigger Schwebeablaut to the right, not the left). In the absence of a good understanding of the Luwian form, I will reserve judgement on the origin of this verb.
+\ref EDHIL:182
+
+\lex anta (1)
+\class postpos
+\class prev
+\gloss in(to), inwards; (with)in; in addition
+\cogn:cluw ānta (prev) "in(to)"
+\cogn:hluw a-ta, a-tá (prev, adv, postpos) "(with)in, in(to)"
+\cogn:hluw a-tá-ti-li-i-sa (adj) "internal"
+\cogn:lyd ẽt- (prev)
+\cogn:lyc ñte (prev, adv) "inside"
+\from:panat ʔn̩do
+\from:pie h₁n̩do "into"
+\notes _anta_ is a directional adverb, paired with _[antan]_ "inside" in Hittite's synchronic system of local adverbs (compare _[āppa]_ "backwards" ~ _[āppan]_ "behind"). With Melchert (2009), and against Kloekhorst (2008), these are not synchronically case-forms of an otherwise unattested noun **_ant(a)-_.
+\ref EDHIL:185 melchert2009a
+
+\lex -anta -antari (2)
+\class suff
+\gloss _third person plural middle present ending_
+\cogn:cluw -antari
+\cogn:hluw -°a-tá-si
+\from:panat -(é)ntor(i)
+\from:pie -(é)ntor
+\notes The shorter ending _-anta_ reflects loss of word-final \*r after \*o, with the \*r retained in the longer ending due to the final _i_, added to mark the present tense.
+\ref EDHIL:186
+
+\lex antaiyantatar
+\stem antaiyantann-
+\morph antiyant- -atar
+\class n n
+\gloss son-in-lawship
+\base antiyanz -atar
+\notes Either preserves the compound structure of the base (if that is the correct etymology) or else is a folk-etymological adaptation.
+\ref EDHIL:187
+
+\lex antaka-
+\class ? n
+\notes Of uncertain meaning and origin.
+\ref EDHIL:186 melchert2003a
+
+\lex antan
+\class adv
+\gloss (with)in, inside; in(to)
+\cogn:cluw antan "inside(?)"
+\from:panat ʔn̩dom/n
+\from:pie h₁n̩dom "inside"
+\notes _antan_ is a locatival adverb, paired with _[anta]_ "into" in Hittite's synchronic system of local adverbs (compare _[āppa]_ "backwards" ~ _[āppan]_ "behind"). With Melchert (2009), and against Kloekhorst (2008), these are not synchronically case-forms of an otherwise unattested noun **_ant(a)-_.
+\ref EDHIL:185 melchert2009a
+
+\lex antaras
+\stem antara-
+\morph antara- -s
+\class adj
+\gloss blue
+\notes The obvious connection is Slavic *modrъ from PIE *modros "blue", but Hittite cannot directly reflect the same preform. A zero-grade may not work either, as we would probably expect *_attaras_, cf. _[katta]_ "down" < *ḱm̩t- (cf. Melchert (2020)). Further unclear.
+\ref EDHIL:186 melchert2020a
+
+\lex -antaru
+\class suff
+\gloss _third person plural middle imperative ending_
+\cogn:cluw -antaru
+\from:panat -(é)ntoru
+\from:pie -(é)ntow
+\notes Evidently a rebuilding of the original imperative ending on the basis of the present ending, probably via the analogy of other third person imperatives during Proto-Anatolian (e.g. _mi_-verb active present \*_-ti_ ~ active imperative \*_-tu_).
+\ref EDHIL:187
+
+\lex -antat -antati
+\class suff
+\gloss _third person plural middle preterite ending_
+\from:pie -(é)nto
+\notes The longer ending _-antati_ is the older ending, likely extended from original \*-nto by a particle _-ti_. The shorter ending likely arose by removing the _i_ that was associated with the present tense.
+\ref EDHIL:186
+
+\lex antiyanz
+\stem antiyant-
+\morph antiyant- -s
+\class c n
+\gloss son-in-law
+\notes Possibly a compound of _[anta]_ "into" and _iyanz_ "who has gone" (participle of _[iyatta]_ "to go"), but this is not guaranteed.
+\ref EDHIL:187
+
+\lex antohsātar
+\stem antohsann-
+\morph antohs- -ātar
+\class n n
+\gloss mankind; population
+\ref EDHIL:189
+
+\lex antorz
+\class adv
+\gloss inside, indoors
+\from:pie h₁(e)n-dʰur-ti
+\ref EDHIL:188
+
+\lex antoriyas
+\stem antoriya-
+\morph antor- -iya- -s
+\class adj
+\gloss interior, native
+\base antorz
+\ref EDHIL:188
+
+\lex antowahhas
+\stem antohs-
+\class c n
+\gloss man, human being, person
+\notes Kloekhorst upholds a connection with the PIE root \*dʰuh₁- "smoke" (citing it first as \*dʰuH-and then as \*dʰuh₂- on the basis of Hittite) but in my opinion this root did not have a full grade, nor \*h₂. However, I do not have a more compelling etymological connection.
+\ref EDHIL:188
+
+\lex -antu
+\class suff
+\gloss _third person plural active imperative ending_
+\cogn:pal -antu -entu
+\cogn:cluw -antu
+\cogn:hluw -°a-tu
+\cogn:lyc -Ṽtu
+\from:panat -(é)ntu
+\from:pie -(é)ntu
+\ref EDHIL:188
+
+\lex -anz (1)
+\stem -ant-
+\morph -ant- -s
+\class adj.suff
+\gloss _participle suffix_
+\from:pie -ónts
+\ref EDHIL:183
+
+\lex -anz -antes (2)
+\class suff
+\gloss _ergative singular and plural_
+\base -anz (1)
+\notes The ergative case endings are formally a suffix _-ant-_ (to be identified with the participle via an original "individualising" meaning) followed by the normal nominative endings. Against Kloekhorst (2008), the ergative is a real case - formal analysability has no bearing on whether or not a form is a case.
+\ref EDHIL:184 melchert2011a
+
+\lex -anzi
+\class suff
+\gloss _third person plural active present ending_
+\cogn:pal -ānti
+\cogn:cluw -anti
+\cogn:hluw /-anti/
+\cogn:lyd -d(?)
+\cogn:lyc -Ṽti -ñti
+\from:panat -(é)nti
+\from:pie -(é)nti
+\ref EDHIL:189
 
 
 \lex âri
@@ -441,7 +606,7 @@ It seems quite likely that in all of these cases, there is an underlying verb th
 \gloss he, she, it, _3rd person_
 \cogn:pal =as
 \cogn:cluw =as
-\cogn:hluw =as
+\cogn:hluw /=as/
 \cogn:lyd =aś
 \cogn:lyc =e
 \from:panat =os
