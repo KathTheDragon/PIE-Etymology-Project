@@ -6,6 +6,7 @@ jasanoff2009a - Jasanoff 2009 - *-bhi, *-bhis, *-ōis: following the trail of th
 kummel2014a - Kümmel 2014 - The conditioning for secondary h in Hittite - https://www.academia.edu/959610
 melchert2003a - Melchert 2003 - Hittite _antaka-_ "loins" and an Overlooked Myth about Fire - https://linguistics.ucla.edu/people/Melchert/FShoffner.pdf
 melchert2009a - Melchert 2009 - Local Adverbs In Hittite: Synchrony and Diachrony - https://linguistics.ucla.edu/people/Melchert/melchertlocaladverbs.pdf
+melchert2009b - Melchert 2009 - Hittite _hi_-verbs from Adverbs - https://linguistics.ucla.edu/people/Melchert/MelchertKrakow.pdf
 melchert2010a - Melchert 2010 - The Word for ‘mouth’ in Hittite and Proto-Indo-European - https://linguistics.ucla.edu/people/Melchert/PIEmouth.pdf
 melchert2011a - Melchert 2011 - The Problem of the Ergative Case in Hittite - https://linguistics.ucla.edu/people/Melchert/melchertergative.pdf
 melchert2012a - Melchert 2012 - Hittite ḫi-Verbs of the Type -āC₁i, -aC₁C₁anzi - https://linguistics.ucla.edu/people/Melchert/melchertIF117.pdf
@@ -13,5 +14,6 @@ melchert2013a - Melchert 2013 - Hittite and Hieroglyphic Luvian arha ‘away’:
 melchert2017a - Melchert 2017 - An allative case in Proto-Indo-European? - https://linguistics.ucla.edu/people/Melchert/melchert2017FSolsen%20allative.pdf
 melchert2020a - Melchert 2020 - Hittite Historical Phonology after 100 Years (and after 20 years) - https://linguistics.ucla.edu/people/Melchert/melchert2020Hrozny&Hittite%20Phonology.pdf
 SHHP - Melchert 1984 - Studies in Hittite Historical Phonology
+sasseville-rieken2014a - Sasseville & Rieken 2014 - Social Status as a Semantic Category of Anatolian: The Case of PIE *-wo- - https://www.academia.edu/8525483
 spence2018a - Spence 2018 - PIE Amphikinetic Accent-Ablaut and Hittite - https://dragonlinguistics.tumblr.com/post/176644023365
 spence2021a - Spence 2021 - The Origin of the Hittite mēma/i- Verbs - https://dragonlinguistics.tumblr.com/post/646287231812763648

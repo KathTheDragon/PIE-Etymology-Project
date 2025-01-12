@@ -592,6 +592,243 @@ It seems quite likely that in all of these cases, there is an underlying verb th
 \from:pie -(é)nti
 \ref EDHIL:189
 
+\lex =apa =pa
+\class encl
+\gloss _enclitic locatival sentence particle_
+\cogn:pal =pa =ppa
+\cogn:cluw pā= =pa=
+\cogn:hluw =pa=
+\cogn:lyd fa=
+\cogn:lyc =be =pe
+\notes The cognates given are based entirely on formal similarity. No etymology is presently possible.
+\ref EDHIL:190
+
+\lex āppa
+\class adv
+\class postpos
+\gloss behind, backwards; back, again, further
+\cogn:cluw āppa (prev) "back, again"
+\cogn:cluw (acc.sg.) āpparantin (adj) "future"
+\cogn:hluw á-pi, á-pi-i (adv) "back, again"
+\cogn:hluw POST+ra/i-i-sa (adj) "after-; later, younger"
+\cogn:lyc epi
+\cogn:lyc (acc.pl.) epris (adj) "back-, rear-"
+\from:panat ʔópi
+\from:pie h₁ópi
+\notes āppa is a directional adverb, paired with _[āppan]_ "behind" in Hittite's synchronic system of local adverbs (compare _[anta]_ "into" ~ _[antan]_ "inside"), though like _[anta]_, it does also display locatival semantics. With Melchert (2009a), and against Kloekhorst (2008), these are not synchronically case-forms of an otherwise unattested noun \*\*_āpp(a)-_. Also against Kloekhorst (2008), local adverbs very much could be stressed, and the Hittite word must be read as /ˈaːppa/. The Hieroglyphic Luwian form _á-pi_ indicates the original form of the adverb ended in \*i, thus all these words reflect Proto-Anatolain \*ʔópi. Per Melchert (2009b) The final _-a_ of the Hittite and Luwian words can be due to influence from \*pró > _[parā]_ "forth, towards" (though Luwian only attests _parī_ "forth, away").
+
+Greek _ópistʰen_ "(from) behind, at the back, after(wards)", representing \*_ópi_ with the ablative suffix _-tʰen_, is the best semantic match for _āppa_. This \*_ópi_ is the o-grade variant of Greek _épi_ "on, at", Sanskrit _ápi_ "also, further, even", and Armenian _ew_ "also, and", with the o-grade also found in Latin _ob_ "towards; with regard to" and Lithuanian _apiẽ_ "around, about". To my mind, all of these senses can be unified in PIE \*h₁épi ~ \*h₁ópi "to/at/on the back", with "at the back" > "behind" and "at", "to the back" > "backwards", and "on the back" > "upon" > "also". Strictly not to be connected with PIE \*h₂(e)pó, which denotes "away from" rather than "behind, backwards".
+\ref EDHIL:192 melchert2009a melchert2009b
+
+\lex āppai
+\stem āppi-
+\morph āppa- -i
+\class i v
+\gloss to be finished, to be done
+\base āppa
+\notes āppai inflects according to either the _tāi_-class or the _mēmai_-class, though as the only attested forms are third person the distinction may be moot. Either way, the i-stem inflection supports the supposition of an original adverb \*āppi < PIE \*h₁ópi.
+\ref EDHIL:193 melchert2009b
+
+\lex āppala-
+\class ? n
+\gloss trap, deceit
+\notes Only in the expression _āppali dāi_ "to mislead". The _a_-stem is assured by the derivative _[appalaezzi]_ "to entrap". _[appaliyallas]_ is of unknown meaning and so cannot be assumed to be related.
+\ref EDHIL:195
+
+\lex appalaezzi
+\stem appalae-
+\morph appala- -e- -zzi
+\class zi v
+\gloss to entrap
+\base āppala-
+\ref EDHIL:195
+
+\lex appaliyallas
+\stem appaliyalla-
+\class c n
+\gloss ?
+\notes No etymology. _appaliyallas_ cannot be assumed to be related to _[āppala-]_ "trap", since it is of unknown meaning.
+\ref EDHIL:195
+
+\lex āppan
+\class adv
+\gloss behind; after(wards)
+\cogn:cluw āppan (prev, postpos) "behind, after"
+\cogn:hluw á-pa-na, POST-na (prev, postpos) "after, behind, again"
+\cogn:hluw POST-ni "after, in the future"
+\cogn:lyc epñ (adv) "afterwards"
+\from:panat ʔópom/n
+\base āppa
+\notes _āppan_ is a locatival adverb, paired with _[āppa]_ "backwards" in Hittite's synchronic system of local adverbs (compare _[anta]_ "into" ~ _[antan]_ "inside"). With Melchert (2009) and against Kloekhorst (2008), these are not synchronically case-forms of an otherwise unattestd noun \*\*āpp(a)-. Like _[āppa]_, the plene _ā_ does denote a synchronically long stressed vowel, so the word must be read as /ˈaːppan/. The Luwic words indicate that the formation goes back to Proto-Anatolian, though as there is no external comparanda, it could be a Proto-Anatolian analogy to \*ʔn̩dóm/n "inside".
+\ref EDHIL:192 melchert2009a
+
+\lex āppananta
+\class adv
+\gloss backwards
+\base āppan anta
+\notes Perhaps a compound of _[āppan]_ "behind" and _[anta]_ "into".
+\ref EDHIL:192
+
+\lex āppanta
+\class adv
+\gloss backwards
+\cogn:cluw \*āppanta "behind"
+\cogn:lyc epñte "thereafter"
+\from:panat ʔópondo(?)
+\base āppan
+\notes Conceivably an extension of _[āppan]_ "behind" based on _[anta]_ "into", though based on the Luwic cognates, probably of Proto-Anatolian age.
+\ref EDHIL:192
+
+\lex apās
+\stem apā- apō- apē-
+\morph apā- -s
+\class dem.pron
+\gloss that (one); he, she, it, they
+\cogn:pal (acc.sg.) apan "that one"
+\cogn:cluw apās
+\cogn:hluw \*a-pa-sa, á-pa-sa "he, she, it"
+\cogn:lyd bis "he"
+\cogn:lyd bilis, bil "his"
+\cogn:lyc ebe "this"
+\cogn:lyc (acc.sg.) ebñnẽ "he, she, it"
+\cogn:lyc ehbi- (adj) "his"
+\cogn:lyc epttehe/i- (adj) "their"
+\cogn:lyc ebei, ebeila, ebeli "here"
+\from:panat ʔobós
+\notes Plausibly a compound of the PIE pronoun \*h₁e- (for which see _[asi]_) and the deictic element found in _[=pat]_.
+\ref EDHIL:191
+
+\lex apāsila
+\morph apā- -sila
+\class ?
+\gloss himself, herself, of one's own, _reflexive pronoun_
+\ref EDHIL:191
+
+\lex appasiwaz
+\stem appasiwatt-
+\morph āppa sīwaz
+\class c n
+\gloss future
+\base āppa sīwaz
+\ref EDHIL:193
+
+\lex apatta apattan
+\morph apā- -tta(n)
+\class adv
+\gloss "there"
+\cogn:cluw apati, apatin "thus"
+\cogn:hluw á-pa-ti, á-pa-ri+i "there"
+\base apās
+\notes The formation of the adverb is unclear to me. The Luwian adverbs clearly point to \*ʔobodi, while the Hittite adverb points to \*ʔobotV. Further unclear.
+\ref EDHIL:191
+
+\lex appezziyas appezzis
+\stem appezziya- appezzi-
+\morph āppa- -ezziya- -s
+\class adj
+\gloss backmost, hindmost, rear
+\from:pie h₁opítyos
+\notes Essentially identical with Greek _opíssō_ "hereafter", Lithuanian _apačià_ "bottom". It is hard to tell if the Hittite adjective has been remodelled with _e_ after the rest of the class of adjectives in _-ezziyas_, or if the Greek word has been remodelled with _í_ after the base.
+\ref EDHIL:192
+
+\lex apinissan
+\morph api- -niss- -an
+\class adv
+\gloss "thus"
+\base apās
+\notes Evidently derived from the i-stem variant of _[apās]_ "that", though I am unfamiliar with the suffix in use. Given the derivative _[apinissuwanz]_ "of such kind" with equative _[-wanz]_, the immediate base of the adverb is presumably a stem \*_apiniss-_.
+\ref EDHIL:191
+
+\lex apinissuwanz
+\stem apinissuwant-
+\morph api- -niss- -want- -s
+\class adj
+\gloss of such kind
+\base apinissan
+\ref EDHIL:191
+
+\lex apiya
+\morph api- -a
+\class adv
+\gloss there, then
+\ef EDHIL:191
+
+\lex appuzzi
+\stem appuzzi-
+\class n n
+\gloss animal fat, tallow
+\notes In principle, this should be a derivative in _[-uzzi]_ from the zero grade of a verbal stem (e.g. _[luzzi]_ "forced service" from _[lāi]_ "to release"), but derivative from _[epzi]_ "to take" seems unsuitable. Further unclear.
+\ref EDHIL:195
+
+\lex āra
+\class adv
+\gloss right, proper(ly)
+\from:panat ʔóro- "proper"
+\notes As I reject Kloekhorst and Kortlandt's rule of initial laryngeals merging into \*h₁ before \*o, this word must reflect a root \*h₁er- rather than being connected with \*h₂er- "to join" (cf. Sanskrit _áram_ "fittingly") despite the appealing semantics. Bengtson (2016) connects this family of words to his proposed nominal root \*h₁er- "member of one's own clan" > "free man", which would trivially explain the semantics of "freedom" in _[arāwas]_ "free (from)" and its derivatives.
+\ref EDHIL:189 bengtson2016a
+
+\lex arās
+\stem arā-
+\morph arā- -s
+\class c n
+\gloss friend
+\cogn:lyc (acc.sg.) arã (n) "rite"
+\from:panat ʔoráḫ
+\base āra
+\notes _arās_ "friend" and Lycian _ara-_ "rite" are probably both semantic developments of Proto-Anatolian \*ʔoráḫ "what is proper".
+\ref EDHIL:198
+
+\lex arawahhi
+\stem arawahh-
+\morph arā- -wa- -ahh- -i
+\class i v
+\gloss to make free, to release
+\base arāwas
+\ref EDHIL:198
+
+\lex arawannis, arawanis
+\stem arawanni-, arawani-
+\morph arā- -wa- -anni- -s
+\class adj
+\gloss free (not being a slave)
+\base arāwas
+\notes The formation of this word is unclear to me, in particular the variation _-nn-_ ~ _-n-_.
+\ref EDHIL:198
+
+\lex arāwas
+\stem arāwa-
+\morph arā- -wa- -s
+\class adj
+\gloss free (from)
+\cogn:lyc (acc.sg.) arawã "freedom"
+\from:panat ʔorówos
+\base arās
+\notes A Proto-Anatolian derivative of _[arās]_ with the suffix \*-wo-, originally an equative that developed into a marker of social status (see Sasseville & Rieken 2014). Thus \*ʔorówos "as what is proper" > "in the proper social position" = "free". Lycian _erawazije-_ "monument" may or may not be connected here.
+\ref EDHIL:198 sasseville-rieken2014a
+
+\lex arawēszi
+\stem arawēss-
+\morph arā- -wa- -ēss- -zi
+\class zi v
+\gloss to become free
+\base arāwas
+
+\lex āri
+\stem ār- ar-
+\morph ār- -i
+\class i v
+\gloss to come (to), to arrive (at)
+\from:pie h₁órs, h₁r̩sḱéti
+\ref EDHIL:196
+
+\lex ārri
+\stem ārr- arr-
+\morph ārr- -i
+\class i v
+\gloss to wash
+\from:pie h₁órHs
+\notes Against Kloekhorst (2008), Hittite _ārri_ rather than _ārrai_ does not give any information about the colour of the second laryngeal, as a coloured \*ay or \*oy would monophthongise to \*ē regardless of whether or not the preceeding laryngeal was still present on the surface.
+\ref EDHIL:197
 
 \lex âri
 \stem ā- i-
@@ -600,6 +837,15 @@ It seems quite likely that in all of these cases, there is an underlying verb th
 \gloss to be hot
 \notes The certain forms of this verb are 3s.prs.mid. _âri_, _āri_, 3p.prs.mid. _ânta_, and participle _ânt-_, _ānt-_, and the causative _[inuzzi]_. EDHIL further connects a 3p.prs.act. form _ayissanzi_ of apparently uncertain meaning, assuming that this is writing _ayessanzi_ "to become hot", and also a 3s.prt.mid. form _ayittat_, also of uncertain meaning, but I would prefer not to make such assumptions. Even still, their reconstruction of Pre-Hittite \*āyari is plausible. Further etymology is unclear.
 \ref EDHIL:164
+
+\lex artari
+\stem ar-
+\morph ar- -tari
+\class tari v
+\gloss to stand (by), to be stationed, to remain standing; to be present, to occur
+\from:pie h₁r̩tó "has reached" or h₃r̩tó "has risen"
+\notes Kloekhorst (2008) connects this verb with the middle root aorist of PIE \*h₃er- "to rise" (e.g. Greek _õrto_ "has risen"), which works well semantically and explains the middle inflection. However, I'm unconvinced that his rule of \*h₃r- \> \*ʔr \> _ar-_ (cf. _[arāi]_ "to rise" < \*h₃ri-) should work with syllabic \*r̩, which would be present in all forms outside the 3pl \*h₃rénto (unless we assume the 3sg \*-to is secondary for \*-o here). This 3pl may or may not be sufficient basis for generalising \*ʔ- across the paradigm. The alternative, \*h₁er- "to come to, reach" (cf. _[āri]_ "to come (to)"), is semantically more awkward (although "has reached" \> "is standing still" isn't implausible), and the root appears to only make active verbs elsewhere.
+\ref EDHIL:195
 
 \lex =as
 \class encl pron
