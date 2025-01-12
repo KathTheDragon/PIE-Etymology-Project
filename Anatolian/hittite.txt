@@ -40,7 +40,7 @@ Verbs have been annotated with the form of the 3sg present corresponding to thei
 \class i v
 \gloss to die, to be killed; to be eclipsed (of sun and moon)
 \from:pie nóḱey
-\cogn:lyd _akτa-_ "of the dead"
+\cogn:lyd akτa- "of the dead"
 \notes Following Melchert (2012), Kloekhorst's (2008) account of this verb is impossible - short \*ó did not lenite a following stop. Rather, we should reckon with analogical extension of the _-āCi_ ~ _-aCCanzi_ pattern due to the abberant allomorphy of \*_nākki_ ~ _akkanzi_ \< \*nóḱey ~ \*n̩ḱénti. Why this repair was chosen over a paradigm \*_nākki_ ~ \*_nakkanzi_ or \*_ākki_ ~ \*_akkanzi_ is beyond me, however.
 \ref EDHIL:167 melchert2012a
 
@@ -227,7 +227,8 @@ Verbs have been annotated with the form of the 3sg present corresponding to thei
 \class i v.suff
 \gloss _imperfective_?
 \base -ātar
-\notes This suffix is claimed to be equivalent to the other two imperfective suffixes, _[-skezzi]_ and _[-ssai]_, and that all three function as suppletive allomorphs. Upon examining the verbs listed as showing this suffix in Kloekhorst (2008), which are given below, I must question this assertion - just about every deverbal case of _-annai_ occurs alongside a _-skezzi_ imperfective which is often as old or older attested, and in several cases shows a clearly archaic formation (e.g. _zaskezzi_ "be putting" to _tāi_ "put", next to _tiyannai_ "lay down"). Moreover, several of the verbs in _-annai_ are also found extended with the _-skezzi_ imperfective themselves (and a few are only found in the imperfective). \
+\notes This suffix is claimed to be equivalent to the other two imperfective suffixes, _[-skezzi]_ and _[-ssai]_, and that all three function as suppletive allomorphs. Upon examining the verbs listed as showing this suffix in Kloekhorst (2008), which are given below, I must question this assertion - just about every deverbal case of _-annai_ occurs alongside a _-skezzi_ imperfective which is often as old or older attested, and in several cases shows a clearly archaic formation (e.g. _zaskezzi_ "be putting" to _tāi_ "put", next to _tiyannai_ "lay down"). Moreover, several of the verbs in _-annai_ are also found extended with the _-skezzi_ imperfective themselves (and a few are only found in the imperfective).
+
 In formal terms, the suffix inflects according to the _mēmai_ class with mixed _a_- and _i_-stem inflection, which originally derives from the _tāi_ class, for which see Spence (2021). Kloekhorst (2008) connects this suffix with the _[-ātar]_ suffix, which see for further etymology. The verbs containing the suffix can be divided into several groups. Most numerous are those attached to a verbal base, four of which occur beside a productive or lexicalised verbal noun:
 - _[hattannai]_ "to pierce" < _[hattari]_ "to pierce"
 - _[hukannai]_ "to conjure" < _[huekzi]_ "to conjure", _[hūkatar]_ "conjouring"
@@ -238,7 +239,7 @@ In formal terms, the suffix inflects according to the _mēmai_ class with mixed 
 - _[sippantannai]_ "to libate" < _[ispānti]_ "to libate"
 - _[isparannai]_ "to spread" < _[ispāri]_ "to spread (out)"
 - _[lahhiyannai]_ "to travel" < _[lahhiyezzi]_ "to travel", _[lahhiyatar]_ "campaign"
-- _[piyannai]_ "to give" < _[pāi]_ "to give", _[*piyatar]_ "giving"
+- _[piyannai]_ "to give" < _[pāi]_ "to give", _[\*piyatar]_ "giving"
 - _[parhannai]_ "to chase" < _[parhzi]_ "to chase"
 - _[parsiyannai]_ "to break" < _[parsiyari]_ "to break"
 - _[pessiyannai]_ "to throw away" < _[pessiyezzi]_ "to throw away"
@@ -286,7 +287,7 @@ It seems quite likely that in all of these cases, there is an underlying verb th
 \class adj
 \gloss trained(?)
 \base annanuzzi
-\notes The potential _-hha-_ suffix is otherwise unique to this word. Conceivably it represents the abstract noun formant *-h₂ followed by the adjectival *-o- suffix.
+\notes The potential _-hha-_ suffix is otherwise unique to this word. Conceivably it represents the abstract noun formant \*-h₂ followed by the adjectival \*-o- suffix.
 \ref EDHIL:177
 
 \lex annanuzzi
@@ -322,14 +323,14 @@ It seems quite likely that in all of these cases, there is an underlying verb th
 \gloss mother
 \cogn:pal annas
 \cogn:cluw ānnis
-\cogn:cluw dir.pl. annalla "maternal"
+\cogn:cluw (dir.pl.) annalla "maternal"
 \cogn:cluw ānnawannis "stepmother"
 \cogn:cluw ânninniyamis "cousin"
 \cogn:cluw ānniyis "maternal"
-\cogn:hluw acc.sg. **MATER**-na-tí-na
+\cogn:hluw (acc.sg.) MATER-na-tí-na
 \cogn:lyd ẽna
 \cogn:lyc ẽni
-\cogn:mil gen.adj. ẽnesi
+\cogn:mil (gen.adj.) ẽnesi
 \from:panat ʔónnos
 \notes Probably a nursery word. No etymology.
 \ref EDHIL:174
@@ -423,7 +424,7 @@ It seems quite likely that in all of these cases, there is an underlying verb th
 \gloss to work; to carry out, to produce, to treat
 \cogn:pal aniyetti "to do, to work"
 \cogn:cluw ānnīti "to carry out, to treat"
-\notes The obvious IE cognates are Latin _onus_ "load, burden" and Sanskrit _ánas_ "cart", which together point to PIE *h₃énos. However, the Anatolian verbs are unlikely to reflect *h₃nyéti or *h₃ényeti. The details of Luwian and Palaic are not sufficiently clear for me to give this verb any etymology.
+\notes The obvious IE cognates are Latin _onus_ "load, burden" and Sanskrit _ánas_ "cart", which together point to PIE \*h₃énos. However, the Anatolian verbs are unlikely to reflect \*h₃nyéti or \*h₃ényeti. The details of Luwian and Palaic are not sufficiently clear for me to give this verb any etymology.
 \ref EDHIL:179
 
 \lex ānki
@@ -444,7 +445,7 @@ It seems quite likely that in all of these cases, there is an underlying verb th
 \class i v
 \gloss to wipe
 \cogn:cluw ammassiti
-\notes This verb does not show the expected ablaut between singular and plural forms, instead having a uniform stem _āns-_ until later times, which implies levelling. The _ns_ cluster is a bit tricky - as shown by the Luwian cognate, the _n_ must continue *m, but *ms would yield _ss_ (cf. _[hassus]_). A cluster *mHs may be sufficient, but there do not appear to be any parallels. Kloekhorst assumes the verb comes from *h₂ómh₁s-, related to Greek ἀμάω "to mow" and Germanic *mēaną "to mow", but this requires the sound law *H > *ʔ before *o, which I am reluctant to accept (and also note the abbrant vowel placement - *s extensions trigger Schwebeablaut to the right, not the left). In the absence of a good understanding of the Luwian form, I will reserve judgement on the origin of this verb.
+\notes This verb does not show the expected ablaut between singular and plural forms, instead having a uniform stem _āns-_ until later times, which implies levelling. The _ns_ cluster is a bit tricky - as shown by the Luwian cognate, the _n_ must continue \*m, but \*ms would yield _ss_ (cf. _[hassus]_). A cluster \*mHs may be sufficient, but there do not appear to be any parallels. Kloekhorst assumes the verb comes from \*h₂ómh₁s-, related to Greek _amáō_ "to mow" and Germanic \*mēaną "to mow", but this requires the sound law \*H > \*ʔ before \*o, which I am reluctant to accept (and also note the abbrant vowel placement - \*s extensions trigger Schwebeablaut to the right, not the left). In the absence of a good understanding of the Luwian form, I will reserve judgement on the origin of this verb.
 \ref EDHIL:182
 
 \lex anta (1)
@@ -458,7 +459,7 @@ It seems quite likely that in all of these cases, there is an underlying verb th
 \cogn:lyc ñte (prev, adv) "inside"
 \from:panat ʔn̩do
 \from:pie h₁n̩do "into"
-\notes _anta_ is a directional adverb, paired with _[antan]_ "inside" in Hittite's synchronic system of local adverbs (compare _[āppa]_ "backwards" ~ _[āppan]_ "behind"). With Melchert (2009), and against Kloekhorst (2008), these are not synchronically case-forms of an otherwise unattested noun **_ant(a)-_.
+\notes _anta_ is a directional adverb, paired with _[antan]_ "inside" in Hittite's synchronic system of local adverbs (compare _[āppa]_ "backwards" ~ _[āppan]_ "behind"), though like _[āppa]_, it does also display locatival semantics. With Melchert (2009), and against Kloekhorst (2008), these are not synchronically case-forms of an otherwise unattested noun \*\*_ant(a)-_.
 \ref EDHIL:185 melchert2009a
 
 \lex -anta -antari (2)
@@ -489,9 +490,9 @@ It seems quite likely that in all of these cases, there is an underlying verb th
 \class adv
 \gloss (with)in, inside; in(to)
 \cogn:cluw antan "inside(?)"
-\from:panat ʔn̩dom/n
+\from:panat ʔn̩dóm/n
 \from:pie h₁n̩dom "inside"
-\notes _antan_ is a locatival adverb, paired with _[anta]_ "into" in Hittite's synchronic system of local adverbs (compare _[āppa]_ "backwards" ~ _[āppan]_ "behind"). With Melchert (2009), and against Kloekhorst (2008), these are not synchronically case-forms of an otherwise unattested noun **_ant(a)-_.
+\notes _antan_ is a locatival adverb, paired with _[anta]_ "into" in Hittite's synchronic system of local adverbs (compare _[āppa]_ "backwards" ~ _[āppan]_ "behind"). With Melchert (2009), and against Kloekhorst (2008), these are not synchronically case-forms of an otherwise unattested noun \*\*_ant(a)-_.
 \ref EDHIL:185 melchert2009a
 
 \lex antaras
@@ -499,7 +500,7 @@ It seems quite likely that in all of these cases, there is an underlying verb th
 \morph antara- -s
 \class adj
 \gloss blue
-\notes The obvious connection is Slavic *modrъ from PIE *modros "blue", but Hittite cannot directly reflect the same preform. A zero-grade may not work either, as we would probably expect *_attaras_, cf. _[katta]_ "down" < *ḱm̩t- (cf. Melchert (2020)). Further unclear.
+\notes The obvious connection is Slavic \*modrъ from PIE \*modros "blue", but Hittite cannot directly reflect the same preform. A zero-grade may not work either, as we would probably expect \*_attaras_, cf. _[katta]_ "down" < \*ḱm̩t- (cf. Melchert (2020)). Further unclear.
 \ref EDHIL:186 melchert2020a
 
 \lex -antaru
